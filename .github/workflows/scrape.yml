@@ -14,7 +14,7 @@ jobs:
       uses: actions/checkout@v2
     - name: Fetch latest data
       run: |-
-        curl -s "https://www.nu.nl/block/lean_json/articlelist?offset=0&source=latest&filter=site" | jq '.data.context.articles' > headlines.json
+        curl -s "https://www.nu.nl/block/lean_json/articlelist?limit=100&offset=0&source=latest&filter=site" | jq '.data.context.articles' > headlines.json
     - name: Commit and push if it changed
       run: |-
         git config user.name "Automated"
