@@ -1,12 +1,58 @@
 [
   {
+    "id": 6215408,
+    "slug": "fastned-verhoogt-prijs-voor-snelladen-vanwege-hoge-energieprijzen",
+    "type": "article",
+    "title": "Fastned verhoogt prijs voor snelladen vanwege hoge energieprijzen",
+    "subtitle": null,
+    "published_at": "2022-08-01T13:09:34+02:00",
+    "updated_at": "2022-08-01T13:09:35+02:00",
+    "media_id": "n1ox7jvaz861",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6215408/fastned-verhoogt-prijs-voor-snelladen-vanwege-hoge-energieprijzen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6215407,
+    "slug": "tennisser-griekspoor-stijgt-naar-hoogste-positie-atp-ranglijst-uit-loopbaan",
+    "type": "article",
+    "title": "Tennisser Griekspoor stijgt naar hoogste positie ATP-ranglijst uit loopbaan",
+    "subtitle": null,
+    "published_at": "2022-08-01T13:07:40+02:00",
+    "updated_at": "2022-08-01T13:07:41+02:00",
+    "media_id": "izvxf8wa4tio",
+    "duration": null,
+    "canonical_section": {
+      "id": 149,
+      "slug": "sport",
+      "type": "default",
+      "name": "Sport",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/sport/6215407/tennisser-griekspoor-stijgt-naar-hoogste-positie-atp-ranglijst-uit-loopbaan.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6215406,
     "slug": "pipo-de-clown-actrice-janine-van-wely-op-84-jarige-leeftijd-overleden",
     "type": "article",
     "title": "Pipo de Clown-actrice Janine van Wely op 84-jarige leeftijd overleden",
     "subtitle": null,
     "published_at": "2022-08-01T12:48:59+02:00",
-    "updated_at": "2022-08-01T12:49:00+02:00",
+    "updated_at": "2022-08-01T13:05:49+02:00",
     "media_id": "i8qxu53a6qh4",
     "duration": null,
     "canonical_section": {
@@ -282,7 +328,7 @@
     "title": "Veel uitglijders bij terugkeer fierljepen in Haarlem",
     "subtitle": "Video",
     "published_at": "2022-08-01T10:17:32+02:00",
-    "updated_at": "2022-08-01T12:03:11+02:00",
+    "updated_at": "2022-08-01T12:51:25+02:00",
     "media_id": "p7wxzomagwct",
     "duration": "0:57",
     "canonical_section": {
@@ -374,7 +420,7 @@
     "title": "Feestende Engelse voetbalsters crashen persconferentie Wiegman",
     "subtitle": "Video",
     "published_at": "2022-08-01T09:57:39+02:00",
-    "updated_at": "2022-08-01T10:57:39+02:00",
+    "updated_at": "2022-08-01T12:52:03+02:00",
     "media_id": "rp3xanqa6yr8",
     "duration": "0:39",
     "canonical_section": {
@@ -640,52 +686,6 @@
       "partner": null
     },
     "url": "/economie/6215336/heineken-profiteert-van-heropening-horeca-en-hogere-prijzen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6215337,
-    "slug": "journalist-filmt-schade-door-enorme-natuurbrand-in-californie",
-    "type": "video",
-    "title": "Journalist filmt schade door enorme natuurbrand in Californië",
-    "subtitle": "Video",
-    "published_at": "2022-08-01T07:57:07+02:00",
-    "updated_at": "2022-08-01T09:20:10+02:00",
-    "media_id": "hn6xp76ao12g",
-    "duration": "0:53",
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6215337/journalist-filmt-schade-door-enorme-natuurbrand-in-californie.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6214914,
-    "slug": "recensieoverzicht-nieuw-album-beyonce-opzwepend-en-spetterend-dansfeest",
-    "type": "article",
-    "title": "Recensieoverzicht nieuw album Beyoncé: 'Opzwepend en spetterend dansfeest'",
-    "subtitle": null,
-    "published_at": "2022-08-01T07:33:50+02:00",
-    "updated_at": "2022-08-01T08:15:04+02:00",
-    "media_id": "sd3xqada3m1r",
-    "duration": null,
-    "canonical_section": {
-      "id": 868281,
-      "slug": "muziek",
-      "type": "default",
-      "name": "Muziek",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/muziek/6214914/recensieoverzicht-nieuw-album-beyonce-opzwepend-en-spetterend-dansfeest.html",
     "open_new_window": false,
     "partner": null
   }
