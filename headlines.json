@@ -1,12 +1,104 @@
 [
   {
+    "id": 6215338,
+    "slug": "verstappen-verrast-teambaas-horner-met-zege-een-van-zijn-beste-races",
+    "type": "article",
+    "title": "Verstappen verrast teambaas Horner met zege: 'Een van zijn beste races'",
+    "subtitle": null,
+    "published_at": "2022-08-01T08:01:09+02:00",
+    "updated_at": "2022-08-01T08:01:10+02:00",
+    "media_id": "um7x6wbacu27",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772449,
+      "slug": "formule-1",
+      "type": "default",
+      "name": "Formule 1",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/formule-1/6215338/verstappen-verrast-teambaas-horner-met-zege-een-van-zijn-beste-races.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6215336,
+    "slug": "heineken-profiteert-van-heropening-horeca-en-hogere-prijzen",
+    "type": "article",
+    "title": "Heineken profiteert van heropening horeca en hogere prijzen",
+    "subtitle": null,
+    "published_at": "2022-08-01T07:57:28+02:00",
+    "updated_at": "2022-08-01T07:57:28+02:00",
+    "media_id": "pnzxbc3asb5q",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6215336/heineken-profiteert-van-heropening-horeca-en-hogere-prijzen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6215337,
+    "slug": "journalist-rijdt-langs-californisch-natuurgebied-waar-grote-brand-woedt",
+    "type": "video",
+    "title": "Journalist rijdt langs Californisch natuurgebied waar grote brand woedt",
+    "subtitle": "Video",
+    "published_at": "2022-08-01T07:57:07+02:00",
+    "updated_at": "2022-08-01T07:57:08+02:00",
+    "media_id": "hn6xp76ao12g",
+    "duration": "0:53",
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6215337/journalist-rijdt-langs-californisch-natuurgebied-waar-grote-brand-woedt.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6214914,
+    "slug": "recensieoverzicht-nieuwe-beyonce-opzwepend-en-spetterend-dansfeest",
+    "type": "article",
+    "title": "Recensieoverzicht nieuwe Beyoncé: opzwepend en spetterend dansfeest",
+    "subtitle": null,
+    "published_at": "2022-08-01T07:33:50+02:00",
+    "updated_at": "2022-08-01T07:36:50+02:00",
+    "media_id": "sd3xqada3m1r",
+    "duration": null,
+    "canonical_section": {
+      "id": 868281,
+      "slug": "muziek",
+      "type": "default",
+      "name": "Muziek",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/muziek/6214914/recensieoverzicht-nieuwe-beyonce-opzwepend-en-spetterend-dansfeest.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6215330,
     "slug": "strafrechtadvocaten-namen-tegen-eigen-regels-in-vaak-contant-geld-aan",
     "type": "article",
     "title": "Strafrechtadvocaten namen tegen eigen regels in vaak contant geld aan",
     "subtitle": null,
     "published_at": "2022-08-01T07:32:07+02:00",
-    "updated_at": "2022-08-01T07:32:08+02:00",
+    "updated_at": "2022-08-01T07:43:43+02:00",
     "media_id": "8trxu3za6oc8",
     "duration": null,
     "canonical_section": {
@@ -52,7 +144,7 @@
     "title": "Engelse media bejubelen EK-triomf, veel lof voor 'genie' Wiegman",
     "subtitle": null,
     "published_at": "2022-08-01T07:14:22+02:00",
-    "updated_at": "2022-08-01T07:21:55+02:00",
+    "updated_at": "2022-08-01T07:34:14+02:00",
     "media_id": "ambxgj4asszs",
     "duration": null,
     "canonical_section": {
@@ -75,7 +167,7 @@
     "title": "Wibi Soerjadi heeft relatie ruim een jaar verborgen gehouden",
     "subtitle": null,
     "published_at": "2022-08-01T06:50:42+02:00",
-    "updated_at": "2022-08-01T06:50:43+02:00",
+    "updated_at": "2022-08-01T07:54:49+02:00",
     "media_id": "1p4xgxpaa3l8",
     "duration": null,
     "canonical_section": {
@@ -167,7 +259,7 @@
     "title": "Loonstijging zwakt iets af maar ligt nog steeds op historisch hoog niveau",
     "subtitle": null,
     "published_at": "2022-08-01T06:00:20+02:00",
-    "updated_at": "2022-08-01T06:00:21+02:00",
+    "updated_at": "2022-08-01T07:33:47+02:00",
     "media_id": "pe5x086ad51u",
     "duration": null,
     "canonical_section": {
@@ -213,7 +305,7 @@
     "title": "Rijk definitief voor rechter gesleept: 'Asielopvang nog verder onder grens gezakt'",
     "subtitle": null,
     "published_at": "2022-08-01T05:00:19+02:00",
-    "updated_at": "2022-08-01T07:31:17+02:00",
+    "updated_at": "2022-08-01T07:44:23+02:00",
     "media_id": "axrxgmsalt2l",
     "duration": null,
     "canonical_section": {
@@ -236,7 +328,7 @@
     "title": "Vaker psychische klachten bij lhbtiq+-jongeren, toch is er weinig passende zorg",
     "subtitle": null,
     "published_at": "2022-08-01T04:57:14+02:00",
-    "updated_at": "2022-08-01T07:32:27+02:00",
+    "updated_at": "2022-08-01T07:48:34+02:00",
     "media_id": "8knxwjfau1ei",
     "duration": null,
     "canonical_section": {
@@ -323,12 +415,12 @@
   },
   {
     "id": 6215321,
-    "slug": "waarom-het-fundament-voor-verstappens-zege-al-voor-de-race-werd-gelegd",
+    "slug": "het-fundament-voor-verstappens-zege-werd-al-voor-de-race-gelegd",
     "type": "article",
-    "title": "Waarom het fundament voor Verstappens zege al voor de race werd gelegd",
+    "title": "Het fundament voor Verstappens zege werd al voor de race gelegd",
     "subtitle": "Video",
     "published_at": "2022-08-01T00:56:33+02:00",
-    "updated_at": "2022-08-01T00:56:33+02:00",
+    "updated_at": "2022-08-01T07:59:33+02:00",
     "media_id": "87dxpmlawepi",
     "duration": null,
     "canonical_section": {
@@ -340,7 +432,7 @@
       "media_id": "gtmxcxnaui5m",
       "partner": null
     },
-    "url": "/nu-formule-1/6215321/waarom-het-fundament-voor-verstappens-zege-al-voor-de-race-werd-gelegd.html",
+    "url": "/nu-formule-1/6215321/het-fundament-voor-verstappens-zege-werd-al-voor-de-race-gelegd.html",
     "open_new_window": false,
     "partner": null
   },
@@ -397,7 +489,7 @@
     "title": "Star Trek-actrice Nichelle Nichols op 89-jarige leeftijd overleden",
     "subtitle": null,
     "published_at": "2022-07-31T23:46:05+02:00",
-    "updated_at": "2022-08-01T06:37:45+02:00",
+    "updated_at": "2022-08-01T07:42:35+02:00",
     "media_id": "rtixmsia2s70",
     "duration": null,
     "canonical_section": {
@@ -594,98 +686,6 @@
       "partner": null
     },
     "url": "/ek-vrouwenvoetbal/6215271/wiegman-is-eerste-vrouwencoach-ooit-die-met-twee-verschillende-landen-prijs-pakt.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6215302,
-    "slug": "wiegman-leidt-engeland-op-wembley-naar-eerste-europese-titel-ooit",
-    "type": "article",
-    "title": "Wiegman leidt Engeland op Wembley naar eerste Europese titel ooit",
-    "subtitle": null,
-    "published_at": "2022-07-31T20:32:42+02:00",
-    "updated_at": "2022-07-31T22:44:38+02:00",
-    "media_id": "g8exkhkak4xz",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779078,
-      "slug": "ek-vrouwenvoetbal",
-      "type": "default",
-      "name": "EK voetbal voor vrouwen",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/ek-vrouwenvoetbal/6215302/wiegman-leidt-engeland-op-wembley-naar-eerste-europese-titel-ooit.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6215298,
-    "slug": "nba-legende-en-recordhouder-bill-russell-op-88-jarige-leeftijd-overleden",
-    "type": "article",
-    "title": "NBA-legende en recordhouder Bill Russell op 88-jarige leeftijd overleden",
-    "subtitle": null,
-    "published_at": "2022-07-31T20:14:21+02:00",
-    "updated_at": "2022-07-31T20:33:04+02:00",
-    "media_id": "idwx2ejatg7v",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772456,
-      "slug": "sport-overig",
-      "type": "default",
-      "name": "Sport Overig",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/sport-overig/6215298/nba-legende-en-recordhouder-bill-russell-op-88-jarige-leeftijd-overleden.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6215297,
-    "slug": "van-vleuten-rijdt-in-stijl-naar-eindzege-in-tour-de-france",
-    "type": "video",
-    "title": "Van Vleuten rijdt in stijl naar eindzege in Tour de France",
-    "subtitle": "Video",
-    "published_at": "2022-07-31T20:03:40+02:00",
-    "updated_at": "2022-07-31T20:15:38+02:00",
-    "media_id": "gqrx7r8afu1f",
-    "duration": "0:45",
-    "canonical_section": {
-      "id": 149,
-      "slug": "sport",
-      "type": "default",
-      "name": "Sport",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/sport/6215297/van-vleuten-rijdt-in-stijl-naar-eindzege-in-tour-de-france.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6215292,
-    "slug": "voormalig-avrotros-radiopresentator-jan-steeman-76-overleden",
-    "type": "article",
-    "title": "Voormalig AVROTROS-radiopresentator Jan Steeman (76) overleden",
-    "subtitle": null,
-    "published_at": "2022-07-31T19:52:37+02:00",
-    "updated_at": "2022-07-31T20:03:29+02:00",
-    "media_id": "dyhx5m0al731",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771675,
-      "slug": "media",
-      "type": "default",
-      "name": "Media",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/media/6215292/voormalig-avrotros-radiopresentator-jan-steeman-76-overleden.html",
     "open_new_window": false,
     "partner": null
   }
