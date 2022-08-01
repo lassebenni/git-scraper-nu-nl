@@ -1,12 +1,35 @@
 [
   {
+    "id": 6215439,
+    "slug": "ingestorte-tribune-in-uitvak-stadion-nec-volledig-hersteld",
+    "type": "article",
+    "title": "Ingestorte tribune in uitvak stadion NEC volledig hersteld",
+    "subtitle": null,
+    "published_at": "2022-08-01T16:43:39+02:00",
+    "updated_at": "2022-08-01T16:43:40+02:00",
+    "media_id": "2dtxb8lab0j4",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6215439/ingestorte-tribune-in-uitvak-stadion-nec-volledig-hersteld.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6215441,
     "slug": "wiegman-en-engelse-speelsters-feestelijk-gehuldigd-in-londen",
     "type": "video",
     "title": "Wiegman en Engelse speelsters feestelijk gehuldigd in Londen",
     "subtitle": "Video",
     "published_at": "2022-08-01T16:29:18+02:00",
-    "updated_at": "2022-08-01T16:29:19+02:00",
+    "updated_at": "2022-08-01T16:36:07+02:00",
     "media_id": "ghqxwkmavgl5",
     "duration": "0:44",
     "canonical_section": {
@@ -24,12 +47,12 @@
   },
   {
     "id": 6215438,
-    "slug": "chinese-kfc-verkoopt-alles-behalve-de-veren-vanwege-hoge-inflatie",
+    "slug": "chinese-kfc-verkoopt-alles-behalve-de-veren-van-kippen-vanwege-hoge-inflatie",
     "type": "article",
-    "title": "Chinese KFC verkoopt alles behalve de veren vanwege hoge inflatie",
+    "title": "Chinese KFC verkoopt alles behalve de veren van kippen vanwege hoge inflatie",
     "subtitle": null,
     "published_at": "2022-08-01T16:14:47+02:00",
-    "updated_at": "2022-08-01T16:22:32+02:00",
+    "updated_at": "2022-08-01T16:34:23+02:00",
     "media_id": "umdxhb1av0ko",
     "duration": null,
     "canonical_section": {
@@ -41,7 +64,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/economie/6215438/chinese-kfc-verkoopt-alles-behalve-de-veren-vanwege-hoge-inflatie.html",
+    "url": "/economie/6215438/chinese-kfc-verkoopt-alles-behalve-de-veren-van-kippen-vanwege-hoge-inflatie.html",
     "open_new_window": false,
     "partner": null
   },
@@ -144,7 +167,7 @@
     "title": "Noodbevel in Almelo na onrustige manifestatie van boeren bij stadhuis",
     "subtitle": null,
     "published_at": "2022-08-01T15:27:30+02:00",
-    "updated_at": "2022-08-01T16:09:57+02:00",
+    "updated_at": "2022-08-01T16:48:08+02:00",
     "media_id": "jd1xlmdasszi",
     "duration": null,
     "canonical_section": {
@@ -663,29 +686,6 @@
       "partner": null
     },
     "url": "/binnenland/6215369/oud-leerlingen-willen-gomarus-scholen-alsnog-laten-vervolgen-om-antihomobeleid.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6215364,
-    "slug": "veel-uitglijders-bij-terugkeer-fierljepen-in-haarlem",
-    "type": "video",
-    "title": "Veel uitglijders bij terugkeer fierljepen in Haarlem",
-    "subtitle": "Video",
-    "published_at": "2022-08-01T10:17:32+02:00",
-    "updated_at": "2022-08-01T12:51:25+02:00",
-    "media_id": "p7wxzomagwct",
-    "duration": "0:57",
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6215364/veel-uitglijders-bij-terugkeer-fierljepen-in-haarlem.html",
     "open_new_window": false,
     "partner": null
   }
