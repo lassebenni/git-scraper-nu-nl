@@ -1,12 +1,58 @@
 [
   {
+    "id": 6215499,
+    "slug": "as-monaco-zonder-geblesseerde-boadu-in-thuiswedstrijd-tegen-psv",
+    "type": "article",
+    "title": "AS Monaco zonder geblesseerde Boadu in thuiswedstrijd tegen PSV",
+    "subtitle": null,
+    "published_at": "2022-08-01T22:46:12+02:00",
+    "updated_at": "2022-08-01T22:46:13+02:00",
+    "media_id": "72exuh4ad9yt",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6215499/as-monaco-zonder-geblesseerde-boadu-in-thuiswedstrijd-tegen-psv.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6215498,
+    "slug": "argentijnse-voetballer-valt-vrouwelijke-scheidsrechter-aan",
+    "type": "video",
+    "title": "Argentijnse voetballer valt vrouwelijke scheidsrechter aan",
+    "subtitle": "Video",
+    "published_at": "2022-08-01T22:45:55+02:00",
+    "updated_at": "2022-08-01T22:45:56+02:00",
+    "media_id": "5ttxy38a1eoy",
+    "duration": "0:45",
+    "canonical_section": {
+      "id": 100,
+      "slug": "algemeen",
+      "type": "default",
+      "name": "Algemeen",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/algemeen/6215498/argentijnse-voetballer-valt-vrouwelijke-scheidsrechter-aan.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6215496,
     "slug": "ruim-zeven-jaar-cel-voor-capitool-bestormer-hoogste-straf-tot-nu",
     "type": "article",
     "title": "Ruim zeven jaar cel voor Capitool-bestormer, hoogste straf tot nu",
     "subtitle": null,
     "published_at": "2022-08-01T22:22:51+02:00",
-    "updated_at": "2022-08-01T22:24:55+02:00",
+    "updated_at": "2022-08-01T22:41:09+02:00",
     "media_id": "5ehxxrfa0vkf",
     "duration": null,
     "canonical_section": {
@@ -640,52 +686,6 @@
       "partner": null
     },
     "url": "/buitenland/6215437/wiegman-en-engelse-speelsters-feestelijk-gehuldigd-in-londen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6215436,
-    "slug": "tiktok-moederbedrijf-werkt-mogelijk-aan-concurrent-voor-muziekdienst-spotify",
-    "type": "article",
-    "title": "TikTok-moederbedrijf werkt mogelijk aan concurrent voor muziekdienst Spotify",
-    "subtitle": null,
-    "published_at": "2022-08-01T16:00:23+02:00",
-    "updated_at": "2022-08-01T16:00:55+02:00",
-    "media_id": "hinxpi6amqzf",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771438,
-      "slug": "tech",
-      "type": "default",
-      "name": "Tech",
-      "style": "nutech",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/tech/6215436/tiktok-moederbedrijf-werkt-mogelijk-aan-concurrent-voor-muziekdienst-spotify.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6215430,
-    "slug": "duizenden-fans-huldigen-wiegman-en-engeland-na-europese-titel",
-    "type": "article",
-    "title": "Duizenden fans huldigen Wiegman en Engeland na Europese titel",
-    "subtitle": "In beeld",
-    "published_at": "2022-08-01T15:38:11+02:00",
-    "updated_at": "2022-08-01T17:23:03+02:00",
-    "media_id": "w9rxe8gaiis8",
-    "duration": null,
-    "canonical_section": {
-      "id": 100,
-      "slug": "algemeen",
-      "type": "default",
-      "name": "Algemeen",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/algemeen/6215430/duizenden-fans-huldigen-wiegman-en-engeland-na-europese-titel.html",
     "open_new_window": false,
     "partner": null
   }
