@@ -1,13 +1,36 @@
 [
   {
-    "id": 6215429,
-    "slug": "gewonde-vrouw-gearresteerd-na-vondst-overleden-vrouw-onder-brug-haaksbergen",
+    "id": 6215430,
+    "slug": "wiegman-en-engelse-ploeg-feestelijk-gehuldigd-in-londen",
     "type": "article",
-    "title": "Gewonde vrouw gearresteerd na vondst overleden vrouw onder brug Haaksbergen",
+    "title": "Wiegman en Engelse ploeg feestelijk gehuldigd in Londen",
+    "subtitle": "In beeld",
+    "published_at": "2022-08-01T15:38:11+02:00",
+    "updated_at": "2022-08-01T15:38:13+02:00",
+    "media_id": "w9rxe8gaiis8",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6215430/wiegman-en-engelse-ploeg-feestelijk-gehuldigd-in-londen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6214396,
+    "slug": "weer-een-rechtszaak-over-circuit-zandvoort-hier-gaat-de-zaak-over",
+    "type": "article",
+    "title": "Weer een rechtszaak over Circuit Zandvoort: hier gaat de zaak over",
     "subtitle": null,
-    "published_at": "2022-08-01T14:59:20+02:00",
-    "updated_at": "2022-08-01T15:14:52+02:00",
-    "media_id": "unax1d5aafvy",
+    "published_at": "2022-08-01T15:30:51+02:00",
+    "updated_at": "2022-08-01T15:43:40+02:00",
+    "media_id": "cuoxp72a6a4h",
     "duration": null,
     "canonical_section": {
       "id": 1771435,
@@ -18,18 +41,64 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/binnenland/6215429/gewonde-vrouw-gearresteerd-na-vondst-overleden-vrouw-onder-brug-haaksbergen.html",
+    "url": "/binnenland/6214396/weer-een-rechtszaak-over-circuit-zandvoort-hier-gaat-de-zaak-over.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6215434,
+    "slug": "noodbevel-in-almelo-na-onrustige-manifestatie-bij-stadhuis",
+    "type": "article",
+    "title": "Noodbevel in Almelo na onrustige manifestatie bij stadhuis",
+    "subtitle": null,
+    "published_at": "2022-08-01T15:27:30+02:00",
+    "updated_at": "2022-08-01T15:44:03+02:00",
+    "media_id": "jd1xlmdasszi",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6215434/noodbevel-in-almelo-na-onrustige-manifestatie-bij-stadhuis.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6215429,
+    "slug": "gewonde-vrouw-aangehouden-na-vondst-dode-vrouw-onder-brug-haaksbergen",
+    "type": "article",
+    "title": "Gewonde vrouw aangehouden na vondst dode vrouw onder brug Haaksbergen",
+    "subtitle": null,
+    "published_at": "2022-08-01T14:59:20+02:00",
+    "updated_at": "2022-08-01T15:41:11+02:00",
+    "media_id": "hfjxbcca1icb",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6215429/gewonde-vrouw-aangehouden-na-vondst-dode-vrouw-onder-brug-haaksbergen.html",
     "open_new_window": false,
     "partner": null
   },
   {
     "id": 6215423,
-    "slug": "antwoorden-op-jullie-vragen-over-de-gp-van-hongarije-de-motor-is-nog-van-honda",
+    "slug": "antwoorden-op-jullie-vragen-over-de-gp-hongarije-de-motor-is-nog-van-honda",
     "type": "article",
-    "title": "Antwoorden op jullie vragen over de GP van Hongarije: 'De motor is nog van Honda'",
+    "title": "Antwoorden op jullie vragen over de GP Hongarije: 'De motor is nog van Honda'",
     "subtitle": null,
     "published_at": "2022-08-01T14:54:15+02:00",
-    "updated_at": "2022-08-01T15:18:14+02:00",
+    "updated_at": "2022-08-01T15:26:54+02:00",
     "media_id": "3r6xcvwa8rq9",
     "duration": null,
     "canonical_section": {
@@ -41,7 +110,7 @@
       "media_id": "gtmxcxnaui5m",
       "partner": null
     },
-    "url": "/nu-formule-1/6215423/antwoorden-op-jullie-vragen-over-de-gp-van-hongarije-de-motor-is-nog-van-honda.html",
+    "url": "/nu-formule-1/6215423/antwoorden-op-jullie-vragen-over-de-gp-hongarije-de-motor-is-nog-van-honda.html",
     "open_new_window": false,
     "partner": null
   },
@@ -617,75 +686,6 @@
       "partner": null
     },
     "url": "/ek-vrouwenvoetbal/6215357/feestende-engelse-voetbalsters-crashen-persconferentie-wiegman.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6215350,
-    "slug": "opnieuw-afval-gedumpt-op-a7-pallets-en-ander-hout-in-brand-gestoken",
-    "type": "article",
-    "title": "Opnieuw afval gedumpt op A7: pallets en ander hout in brand gestoken",
-    "subtitle": null,
-    "published_at": "2022-08-01T09:44:19+02:00",
-    "updated_at": "2022-08-01T12:38:16+02:00",
-    "media_id": "r7bxvzha7pdw",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6215350/opnieuw-afval-gedumpt-op-a7-pallets-en-ander-hout-in-brand-gestoken.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6215347,
-    "slug": "ten-hag-optimistisch-na-voorbereiding-manchester-united-klaar-voor-seizoen",
-    "type": "article",
-    "title": "Ten Hag optimistisch na voorbereiding: 'Manchester United klaar voor seizoen'",
-    "subtitle": null,
-    "published_at": "2022-08-01T09:29:47+02:00",
-    "updated_at": "2022-08-01T09:37:37+02:00",
-    "media_id": "1imx0n3a2jmg",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6215347/ten-hag-optimistisch-na-voorbereiding-manchester-united-klaar-voor-seizoen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6215346,
-    "slug": "tour-de-france-femmes-blijft-voorlopig-acht-etappes-tellen",
-    "type": "article",
-    "title": "Tour de France Femmes blijft voorlopig acht etappes tellen",
-    "subtitle": null,
-    "published_at": "2022-08-01T09:22:06+02:00",
-    "updated_at": "2022-08-01T09:22:07+02:00",
-    "media_id": "jxixkkkakk9w",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772339,
-      "slug": "wielrennen",
-      "type": "default",
-      "name": "Wielrennen",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/wielrennen/6215346/tour-de-france-femmes-blijft-voorlopig-acht-etappes-tellen.html",
     "open_new_window": false,
     "partner": null
   }
