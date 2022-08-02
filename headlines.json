@@ -1,5 +1,74 @@
 [
   {
+    "id": 6215620,
+    "slug": "amerikaanse-samsung-gebruikers-kunnen-smartphone-nu-zelf-repareren",
+    "type": "article",
+    "title": "Amerikaanse Samsung-gebruikers kunnen smartphone nu zelf repareren",
+    "subtitle": null,
+    "published_at": "2022-08-02T16:59:54+02:00",
+    "updated_at": "2022-08-02T16:59:55+02:00",
+    "media_id": "nhhx7flaqokd",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771438,
+      "slug": "tech",
+      "type": "default",
+      "name": "Tech",
+      "style": "nutech",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/tech/6215620/amerikaanse-samsung-gebruikers-kunnen-smartphone-nu-zelf-repareren.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6215609,
+    "slug": "nancy-pelosi-landt-in-taiwan-en-doet-spanningen-tussen-vs-en-china-oplopen",
+    "type": "article",
+    "title": "Nancy Pelosi landt in Taiwan en doet spanningen tussen VS en China oplopen",
+    "subtitle": null,
+    "published_at": "2022-08-02T16:51:31+02:00",
+    "updated_at": "2022-08-02T17:08:48+02:00",
+    "media_id": "bn8xazkaw7r9",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6215609/nancy-pelosi-landt-in-taiwan-en-doet-spanningen-tussen-vs-en-china-oplopen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6215621,
+    "slug": "komende-dagen-tropische-opleving-op-weg-naar-aangenaam-zomerweer",
+    "type": "article",
+    "title": "Komende dagen tropische opleving op weg naar aangenaam zomerweer",
+    "subtitle": null,
+    "published_at": "2022-08-02T16:50:40+02:00",
+    "updated_at": "2022-08-02T16:50:41+02:00",
+    "media_id": "26vxrf5au208",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6215621/komende-dagen-tropische-opleving-op-weg-naar-aangenaam-zomerweer.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6215618,
     "slug": "yvonne-coldeweijer-maakt-juicepodcast-met-journalist-mark-koster",
     "type": "article",
@@ -208,13 +277,13 @@
   },
   {
     "id": 6215597,
-    "slug": "nieuwe-leden-weer-welkom-bij-studentencorps-na-vrouwen-zijn-hoeren-speech",
+    "slug": "nieuwe-leden-weer-welkom-bij-amsterdams-studentencorps-geen-ontgroeningen",
     "type": "article",
-    "title": "Nieuwe leden weer welkom bij studentencorps na 'vrouwen zijn hoeren'-speech",
+    "title": "Nieuwe leden weer welkom bij Amsterdams studentencorps, geen ontgroeningen",
     "subtitle": null,
     "published_at": "2022-08-02T14:26:49+02:00",
-    "updated_at": "2022-08-02T15:30:19+02:00",
-    "media_id": "5sgxwpwa14hh",
+    "updated_at": "2022-08-02T17:01:05+02:00",
+    "media_id": "9paxn9aajdul",
     "duration": null,
     "canonical_section": {
       "id": 1771435,
@@ -225,7 +294,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/binnenland/6215597/nieuwe-leden-weer-welkom-bij-studentencorps-na-vrouwen-zijn-hoeren-speech.html",
+    "url": "/binnenland/6215597/nieuwe-leden-weer-welkom-bij-amsterdams-studentencorps-geen-ontgroeningen.html",
     "open_new_window": false,
     "partner": null
   },
@@ -484,24 +553,24 @@
   },
   {
     "id": 6215569,
-    "slug": "knvb-keurt-overname-nac-breda-door-lokale-ondernemers-goed",
+    "slug": "knvb-en-gemeente-breda-keuren-overname-nac-door-lokale-ondernemers-goed",
     "type": "article",
-    "title": "KNVB keurt overname NAC Breda door lokale ondernemers goed",
+    "title": "KNVB en gemeente Breda keuren overname NAC door lokale ondernemers goed",
     "subtitle": null,
     "published_at": "2022-08-02T13:08:55+02:00",
-    "updated_at": "2022-08-02T13:08:56+02:00",
+    "updated_at": "2022-08-02T17:06:48+02:00",
     "media_id": "m3sx7ddai15l",
     "duration": null,
     "canonical_section": {
-      "id": 149,
-      "slug": "sport",
+      "id": 1772338,
+      "slug": "voetbal",
       "type": "default",
-      "name": "Sport",
+      "name": "Voetbal",
       "style": "nusport",
       "media_id": null,
       "partner": null
     },
-    "url": "/sport/6215569/knvb-keurt-overname-nac-breda-door-lokale-ondernemers-goed.html",
+    "url": "/voetbal/6215569/knvb-en-gemeente-breda-keuren-overname-nac-door-lokale-ondernemers-goed.html",
     "open_new_window": false,
     "partner": null
   },
@@ -617,75 +686,6 @@
       "partner": null
     },
     "url": "/sport/6215536/woods-weigerde-astronomisch-bedrag-voor-deelname-aan-omstreden-golftour.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6215379,
-    "slug": "ouder-met-baby-kan-per-vandaag-voor-betaald-ouderschapsverlof-kiezen",
-    "type": "article",
-    "title": "Ouder met baby kan per vandaag voor betaald ouderschapsverlof kiezen",
-    "subtitle": null,
-    "published_at": "2022-08-02T11:28:10+02:00",
-    "updated_at": "2022-08-02T15:36:02+02:00",
-    "media_id": "i1ex4oqaz6um",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6215379/ouder-met-baby-kan-per-vandaag-voor-betaald-ouderschapsverlof-kiezen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6215551,
-    "slug": "raad-van-state-vergunning-circuit-zandvoort-wordt-niet-geschorst",
-    "type": "video",
-    "title": "Raad van State: 'Vergunning Circuit Zandvoort wordt niet geschorst'",
-    "subtitle": "Video",
-    "published_at": "2022-08-02T11:22:40+02:00",
-    "updated_at": "2022-08-02T11:35:04+02:00",
-    "media_id": "tncxdqya5f4n",
-    "duration": "1:31",
-    "canonical_section": {
-      "id": 149,
-      "slug": "sport",
-      "type": "default",
-      "name": "Sport",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/sport/6215551/raad-van-state-vergunning-circuit-zandvoort-wordt-niet-geschorst.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6215543,
-    "slug": "roodbuikbuulbuul-en-boomwurger-op-lijst-van-soorten-die-hier-niet-thuishoren",
-    "type": "article",
-    "title": "Roodbuikbuulbuul en boomwurger op lijst van soorten die hier niet thuishoren",
-    "subtitle": null,
-    "published_at": "2022-08-02T10:59:30+02:00",
-    "updated_at": "2022-08-02T11:09:44+02:00",
-    "media_id": "x74xs3maxj4r",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6215543/roodbuikbuulbuul-en-boomwurger-op-lijst-van-soorten-die-hier-niet-thuishoren.html",
     "open_new_window": false,
     "partner": null
   }
