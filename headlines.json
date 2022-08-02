@@ -1,12 +1,35 @@
 [
   {
+    "id": 6215629,
+    "slug": "alpine-vernam-via-persbericht-dat-alonso-zou-vertrekken-naar-aston-martin",
+    "type": "article",
+    "title": "Alpine vernam via persbericht dat Alonso zou vertrekken naar Aston Martin",
+    "subtitle": null,
+    "published_at": "2022-08-02T19:27:57+02:00",
+    "updated_at": "2022-08-02T19:27:58+02:00",
+    "media_id": "ye2xk27a7hiw",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772449,
+      "slug": "formule-1",
+      "type": "default",
+      "name": "Formule 1",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/formule-1/6215629/alpine-vernam-via-persbericht-dat-alonso-zou-vertrekken-naar-aston-martin.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6215638,
     "slug": "psv-staat-tegenover-monaco-in-derde-voorronde",
     "type": "article",
     "title": "PSV staat tegenover Monaco in derde voorronde",
     "subtitle": "Liveblog CL",
     "published_at": "2022-08-02T19:11:47+02:00",
-    "updated_at": "2022-08-02T19:11:47+02:00",
+    "updated_at": "2022-08-02T19:14:20+02:00",
     "media_id": "sopxn7uan94y",
     "duration": null,
     "canonical_section": {
@@ -663,29 +686,6 @@
       "partner": null
     },
     "url": "/binnenland/6215572/doodgeschoten-man-in-tilburg-is-bekende-van-de-politie.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6215568,
-    "slug": "ruim-tien-miljoen-mensen-uit-oekraine-gevlucht-vier-miljoen-keerden-terug",
-    "type": "article",
-    "title": "Ruim tien miljoen mensen uit Oekraïne gevlucht, vier miljoen keerden terug",
-    "subtitle": null,
-    "published_at": "2022-08-02T13:13:36+02:00",
-    "updated_at": "2022-08-02T13:13:37+02:00",
-    "media_id": "mvhx1dba5awj",
-    "duration": null,
-    "canonical_section": {
-      "id": 1778980,
-      "slug": "spanningen-oekraine",
-      "type": "default",
-      "name": "Oorlog in Oekraïne",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/spanningen-oekraine/6215568/ruim-tien-miljoen-mensen-uit-oekraine-gevlucht-vier-miljoen-keerden-terug.html",
     "open_new_window": false,
     "partner": null
   }
