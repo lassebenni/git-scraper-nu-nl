@@ -1,5 +1,51 @@
 [
   {
+    "id": 6215618,
+    "slug": "yvonne-coldeweijer-maakt-juicepodcast-met-journalist-mark-koster",
+    "type": "article",
+    "title": "Yvonne Coldeweijer maakt juicepodcast met journalist Mark Koster",
+    "subtitle": null,
+    "published_at": "2022-08-02T16:39:20+02:00",
+    "updated_at": "2022-08-02T16:39:21+02:00",
+    "media_id": "ffux830ab6au",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771675,
+      "slug": "media",
+      "type": "default",
+      "name": "Media",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/media/6215618/yvonne-coldeweijer-maakt-juicepodcast-met-journalist-mark-koster.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6215603,
+    "slug": "raket-met-messen-zo-werd-al-qaeda-leider-mogelijk-gedood",
+    "type": "video",
+    "title": "Raket met messen: zo werd Al Qaeda-leider mogelijk gedood",
+    "subtitle": "Video",
+    "published_at": "2022-08-02T16:32:50+02:00",
+    "updated_at": "2022-08-02T16:45:25+02:00",
+    "media_id": "7xvxuwva0aju",
+    "duration": "2:14",
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6215603/raket-met-messen-zo-werd-al-qaeda-leider-mogelijk-gedood.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6215614,
     "slug": "doelman-mulder-sluit-zich-transfervrij-aan-bij-go-ahead-eagles",
     "type": "article",
@@ -52,7 +98,7 @@
     "title": "Vermoedelijk brokstukken van Chinese raket gevonden op Borneo",
     "subtitle": null,
     "published_at": "2022-08-02T15:34:03+02:00",
-    "updated_at": "2022-08-02T15:34:04+02:00",
+    "updated_at": "2022-08-02T16:39:36+02:00",
     "media_id": "zbdx1bnad7uc",
     "duration": null,
     "canonical_section": {
@@ -640,52 +686,6 @@
       "partner": null
     },
     "url": "/binnenland/6215543/roodbuikbuulbuul-en-boomwurger-op-lijst-van-soorten-die-hier-niet-thuishoren.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6215540,
-    "slug": "huisarts-voert-nog-steeds-kortere-gesprekken-met-patienten-dan-voor-corona",
-    "type": "article",
-    "title": "Huisarts voert nog steeds kortere gesprekken met patiënten dan voor corona",
-    "subtitle": null,
-    "published_at": "2022-08-02T10:45:27+02:00",
-    "updated_at": "2022-08-02T10:45:28+02:00",
-    "media_id": "nmyx80saity5",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6215540/huisarts-voert-nog-steeds-kortere-gesprekken-met-patienten-dan-voor-corona.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6215518,
-    "slug": "circuit-zandvoort-mag-natuurvergunning-voorlopig-houden-van-raad-van-state",
-    "type": "article",
-    "title": "Circuit Zandvoort mag natuurvergunning voorlopig houden van Raad van State",
-    "subtitle": null,
-    "published_at": "2022-08-02T10:32:04+02:00",
-    "updated_at": "2022-08-02T13:57:08+02:00",
-    "media_id": "hmexfmua65qd",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6215518/circuit-zandvoort-mag-natuurvergunning-voorlopig-houden-van-raad-van-state.html",
     "open_new_window": false,
     "partner": null
   }
