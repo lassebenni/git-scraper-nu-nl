@@ -1,5 +1,51 @@
 [
   {
+    "id": 6215680,
+    "slug": "psv-begint-jacht-op-champions-league-ticket-met-gelijkspel-in-monaco",
+    "type": "article",
+    "title": "PSV begint jacht op Champions League-ticket met gelijkspel in Monaco",
+    "subtitle": null,
+    "published_at": "2022-08-02T21:55:14+02:00",
+    "updated_at": "2022-08-02T21:55:51+02:00",
+    "media_id": "zz0xld4a1xb5",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6215680/psv-begint-jacht-op-champions-league-ticket-met-gelijkspel-in-monaco.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6215679,
+    "slug": "leger-redt-mensen-met-helikopter-uit-overstroomd-gebied-in-vs",
+    "type": "video",
+    "title": "Leger redt mensen met helikopter uit overstroomd gebied in VS",
+    "subtitle": "Video",
+    "published_at": "2022-08-02T21:50:08+02:00",
+    "updated_at": "2022-08-02T21:51:56+02:00",
+    "media_id": "29vxg0habxts",
+    "duration": "0:44",
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6215679/leger-redt-mensen-met-helikopter-uit-overstroomd-gebied-in-vs.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6215671,
     "slug": "ihattaren-lijkt-na-ruim-twee-weken-weer-terug-op-trainingsveld-bij-ajax",
     "type": "article",
@@ -208,13 +254,13 @@
   },
   {
     "id": 6215638,
-    "slug": "monaco-komt-in-slotfase-op-gelijke-hoogte-met-psv",
+    "slug": "reacties-na-gelijkspel-van-psv-en-monaco-in-derde-voorronde",
     "type": "article",
-    "title": "Monaco komt in slotfase op gelijke hoogte met PSV",
+    "title": "Reacties na gelijkspel van PSV en Monaco in derde voorronde",
     "subtitle": "Liveblog CL",
     "published_at": "2022-08-02T19:11:47+02:00",
-    "updated_at": "2022-08-02T21:41:17+02:00",
-    "media_id": "9gexqlsabkxr",
+    "updated_at": "2022-08-02T21:57:41+02:00",
+    "media_id": "d1jxe8fatvba",
     "duration": null,
     "canonical_section": {
       "id": 1772338,
@@ -225,7 +271,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6215638/monaco-komt-in-slotfase-op-gelijke-hoogte-met-psv.html",
+    "url": "/voetbal/6215638/reacties-na-gelijkspel-van-psv-en-monaco-in-derde-voorronde.html",
     "open_new_window": false,
     "partner": null
   },
@@ -640,52 +686,6 @@
       "partner": null
     },
     "url": "/binnenland/6215598/garnalenvissers-vangen-houten-krijgsbeeld-uit-zeventiende-eeuw-in-waddenzee.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6215597,
-    "slug": "nieuwe-leden-weer-welkom-bij-amsterdams-studentencorps-geen-ontgroeningen",
-    "type": "article",
-    "title": "Nieuwe leden weer welkom bij Amsterdams studentencorps, geen ontgroeningen",
-    "subtitle": null,
-    "published_at": "2022-08-02T14:26:49+02:00",
-    "updated_at": "2022-08-02T17:17:21+02:00",
-    "media_id": "9paxn9aajdul",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6215597/nieuwe-leden-weer-welkom-bij-amsterdams-studentencorps-geen-ontgroeningen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6215594,
-    "slug": "lewandowski-legt-ruzie-met-bayern-bij-ik-ga-hier-met-een-schoon-geweten-weg",
-    "type": "article",
-    "title": "Lewandowski legt ruzie met Bayern bij: 'Ik ga hier met een schoon geweten weg'",
-    "subtitle": null,
-    "published_at": "2022-08-02T14:23:20+02:00",
-    "updated_at": "2022-08-02T14:23:21+02:00",
-    "media_id": "adexp5ha9f5i",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6215594/lewandowski-legt-ruzie-met-bayern-bij-ik-ga-hier-met-een-schoon-geweten-weg.html",
     "open_new_window": false,
     "partner": null
   }
