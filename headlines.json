@@ -1,5 +1,28 @@
 [
   {
+    "id": 6215625,
+    "slug": "vier-op-de-tien-huizen-staan-in-een-rijtje",
+    "type": "article",
+    "title": "Vier op de tien huizen staan in een rijtje",
+    "subtitle": null,
+    "published_at": "2022-08-03T00:00:10+02:00",
+    "updated_at": "2022-08-03T00:00:10+02:00",
+    "media_id": "29axq7haz2y5",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6215625/vier-op-de-tien-huizen-staan-in-een-rijtje.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6215685,
     "slug": "middenvelder-de-ketelaere-voor-recordbedrag-van-club-brugge-naar-ac-milan",
     "type": "article",
@@ -47,12 +70,12 @@
   },
   {
     "id": 6215683,
-    "slug": "van-nistelrooij-zit-met-dubbel-gevoel-in-monaco-na-rust-ging-lampje-uit",
+    "slug": "van-nistelrooij-houdt-dubbel-gevoel-over-in-monaco-na-rust-ging-lampje-uit",
     "type": "article",
-    "title": "Van Nistelrooij zit met dubbel gevoel in Monaco: 'Na rust ging lampje uit'",
+    "title": "Van Nistelrooij houdt dubbel gevoel over in Monaco: 'Na rust ging lampje uit'",
     "subtitle": null,
     "published_at": "2022-08-02T22:39:47+02:00",
-    "updated_at": "2022-08-02T23:04:00+02:00",
+    "updated_at": "2022-08-02T23:59:31+02:00",
     "media_id": "uonxlbnauxdg",
     "duration": null,
     "canonical_section": {
@@ -64,7 +87,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6215683/van-nistelrooij-zit-met-dubbel-gevoel-in-monaco-na-rust-ging-lampje-uit.html",
+    "url": "/voetbal/6215683/van-nistelrooij-houdt-dubbel-gevoel-over-in-monaco-na-rust-ging-lampje-uit.html",
     "open_new_window": false,
     "partner": null
   },
@@ -663,29 +686,6 @@
       "partner": null
     },
     "url": "/economie/6215611/ferrari-breekt-verkooprecords-en-schroeft-de-verwachtingen-op.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6215608,
-    "slug": "vermoedelijk-brokstukken-van-chinese-raket-gevonden-op-borneo",
-    "type": "article",
-    "title": "Vermoedelijk brokstukken van Chinese raket gevonden op Borneo",
-    "subtitle": null,
-    "published_at": "2022-08-02T15:34:03+02:00",
-    "updated_at": "2022-08-02T18:43:40+02:00",
-    "media_id": "zbdx1bnad7uc",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771438,
-      "slug": "tech",
-      "type": "default",
-      "name": "Tech",
-      "style": "nutech",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/tech/6215608/vermoedelijk-brokstukken-van-chinese-raket-gevonden-op-borneo.html",
     "open_new_window": false,
     "partner": null
   }
