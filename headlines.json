@@ -1,5 +1,51 @@
 [
   {
+    "id": 6215379,
+    "slug": "ouder-met-baby-kan-per-vandaag-voor-betaald-ouderschapsverlof-kiezen",
+    "type": "article",
+    "title": "Ouder met baby kan per vandaag voor betaald ouderschapsverlof kiezen",
+    "subtitle": null,
+    "published_at": "2022-08-02T11:28:10+02:00",
+    "updated_at": "2022-08-02T11:28:11+02:00",
+    "media_id": "i1ex4oqaz6um",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6215379/ouder-met-baby-kan-per-vandaag-voor-betaald-ouderschapsverlof-kiezen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6215551,
+    "slug": "raad-van-state-vergunning-circuit-zandvoort-wordt-niet-geschorst",
+    "type": "video",
+    "title": "Raad van State: 'Vergunning Circuit Zandvoort wordt niet geschorst'",
+    "subtitle": "Video",
+    "published_at": "2022-08-02T11:22:40+02:00",
+    "updated_at": "2022-08-02T11:22:41+02:00",
+    "media_id": "qtrxbclavvn7",
+    "duration": "1:31",
+    "canonical_section": {
+      "id": 149,
+      "slug": "sport",
+      "type": "default",
+      "name": "Sport",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/sport/6215551/raad-van-state-vergunning-circuit-zandvoort-wordt-niet-geschorst.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6215543,
     "slug": "roodbuikbuulbuul-en-boomwurger-op-lijst-van-soorten-die-hier-niet-thuishoren",
     "type": "article",
@@ -121,7 +167,7 @@
     "title": "Schiphol beperkt ook het aantal reizigers in de herfstvakantie",
     "subtitle": null,
     "published_at": "2022-08-02T10:13:53+02:00",
-    "updated_at": "2022-08-02T11:06:49+02:00",
+    "updated_at": "2022-08-02T11:16:26+02:00",
     "media_id": "nfhxp4za69t0",
     "duration": null,
     "canonical_section": {
@@ -420,7 +466,7 @@
     "title": "Nederlands meisje verdronken in zwembad op Franse camping",
     "subtitle": null,
     "published_at": "2022-08-02T07:52:53+02:00",
-    "updated_at": "2022-08-02T11:08:01+02:00",
+    "updated_at": "2022-08-02T11:15:55+02:00",
     "media_id": "xmsxtrrabpnn",
     "duration": null,
     "canonical_section": {
@@ -640,52 +686,6 @@
       "partner": null
     },
     "url": "/binnenland/6215478/is-rutte-echt-een-fietsende-hoodiedragende-man-of-is-het-politiek-spel.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6214790,
-    "slug": "rutte-stoot-lubbers-van-de-troon-als-langstzittende-premier-van-nederland",
-    "type": "article",
-    "title": "Rutte stoot Lubbers van de troon als langstzittende premier van Nederland",
-    "subtitle": null,
-    "published_at": "2022-08-02T05:40:18+02:00",
-    "updated_at": "2022-08-02T09:40:13+02:00",
-    "media_id": "9gfxqxka7177",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771437,
-      "slug": "politiek",
-      "type": "default",
-      "name": "Politiek",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/politiek/6214790/rutte-stoot-lubbers-van-de-troon-als-langstzittende-premier-van-nederland.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6215433,
-    "slug": "als-rusland-snel-een-eigen-ruimtestation-bouwt-heeft-nasa-een-probleem",
-    "type": "article",
-    "title": "Als Rusland snel een eigen ruimtestation bouwt, heeft NASA een probleem",
-    "subtitle": null,
-    "published_at": "2022-08-02T05:30:57+02:00",
-    "updated_at": "2022-08-02T08:57:15+02:00",
-    "media_id": "ly1xvvnarw1d",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771438,
-      "slug": "tech",
-      "type": "default",
-      "name": "Tech",
-      "style": "nutech",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/tech/6215433/als-rusland-snel-een-eigen-ruimtestation-bouwt-heeft-nasa-een-probleem.html",
     "open_new_window": false,
     "partner": null
   }
