@@ -1,12 +1,58 @@
 [
   {
+    "id": 6215445,
+    "slug": "meer-koeien-in-de-wei-maar-ze-staan-er-steeds-minder-lang",
+    "type": "article",
+    "title": "Meer koeien in de wei, maar ze staan er steeds minder lang",
+    "subtitle": null,
+    "published_at": "2022-08-02T03:42:57+02:00",
+    "updated_at": "2022-08-02T03:42:58+02:00",
+    "media_id": "oxaxktla9v2y",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6215445/meer-koeien-in-de-wei-maar-ze-staan-er-steeds-minder-lang.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6215501,
+    "slug": "dodelijk-slachtoffer-bij-schietpartij-in-tilburg",
+    "type": "article",
+    "title": "Dodelijk slachtoffer bij schietpartij in Tilburg",
+    "subtitle": null,
+    "published_at": "2022-08-02T03:15:45+02:00",
+    "updated_at": "2022-08-02T03:45:50+02:00",
+    "media_id": "49exw54aere1",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6215501/dodelijk-slachtoffer-bij-schietpartij-in-tilburg.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6215500,
     "slug": "president-biden-leider-al-qaida-gedood-bij-droneaanval-vs",
     "type": "article",
-    "title": "President Biden: 'leider Al-Qaida gedood bij droneaanval VS'",
+    "title": "President Biden: 'Leider Al-Qaida gedood bij droneaanval VS'",
     "subtitle": null,
     "published_at": "2022-08-02T00:01:19+02:00",
-    "updated_at": "2022-08-02T02:49:45+02:00",
+    "updated_at": "2022-08-02T04:09:32+02:00",
     "media_id": "rxvx7jda23pm",
     "duration": null,
     "canonical_section": {
@@ -640,52 +686,6 @@
       "partner": null
     },
     "url": "/voetbal/6215439/nec-kan-weer-volop-uitfans-ontvangen-ingestorte-tribune-is-helemaal-hersteld.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6215441,
-    "slug": "wiegman-en-engelse-speelsters-feestelijk-gehuldigd-in-londen",
-    "type": "video",
-    "title": "Wiegman en Engelse speelsters feestelijk gehuldigd in Londen",
-    "subtitle": "Video",
-    "published_at": "2022-08-01T16:29:18+02:00",
-    "updated_at": "2022-08-01T16:36:07+02:00",
-    "media_id": "ghqxwkmavgl5",
-    "duration": "0:44",
-    "canonical_section": {
-      "id": 149,
-      "slug": "sport",
-      "type": "default",
-      "name": "Sport",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/sport/6215441/wiegman-en-engelse-speelsters-feestelijk-gehuldigd-in-londen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6215438,
-    "slug": "chinese-kfc-verkoopt-alles-behalve-de-veren-van-kippen-vanwege-hoge-inflatie",
-    "type": "article",
-    "title": "Chinese KFC verkoopt alles behalve de veren van kippen vanwege hoge inflatie",
-    "subtitle": null,
-    "published_at": "2022-08-01T16:14:47+02:00",
-    "updated_at": "2022-08-02T02:19:38+02:00",
-    "media_id": "umdxhb1av0ko",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6215438/chinese-kfc-verkoopt-alles-behalve-de-veren-van-kippen-vanwege-hoge-inflatie.html",
     "open_new_window": false,
     "partner": null
   }
