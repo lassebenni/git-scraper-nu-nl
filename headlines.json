@@ -1,5 +1,28 @@
 [
   {
+    "id": 6216012,
+    "slug": "complotdenker-alex-jones-voor-de-rechter-drie-opvallende-momenten",
+    "type": "video",
+    "title": "Complotdenker Alex Jones voor de rechter: drie opvallende momenten",
+    "subtitle": "Video",
+    "published_at": "2022-08-04T18:01:16+02:00",
+    "updated_at": "2022-08-04T18:01:16+02:00",
+    "media_id": "n1fxhska30tw",
+    "duration": "3:01",
+    "canonical_section": {
+      "id": 100,
+      "slug": "algemeen",
+      "type": "default",
+      "name": "Algemeen",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/algemeen/6216012/complotdenker-alex-jones-voor-de-rechter-drie-opvallende-momenten.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6216011,
     "slug": "deze-nieuwe-lift-tilt-boten-over-een-dijk-naar-het-eemmeer",
     "type": "video",
@@ -144,7 +167,7 @@
     "title": "Hoe kan het land van polders en slootjes (alweer) kampen met droogte?",
     "subtitle": null,
     "published_at": "2022-08-04T16:40:38+02:00",
-    "updated_at": "2022-08-04T16:40:39+02:00",
+    "updated_at": "2022-08-04T17:53:17+02:00",
     "media_id": "7rpxlgyacj7a",
     "duration": null,
     "canonical_section": {
@@ -323,12 +346,12 @@
   },
   {
     "id": 6215992,
-    "slug": "russische-aanklager-eist-bijna-tien-jaar-cel-tegen-topbasketbalster-griner",
+    "slug": "amerikaanse-topbasketbalster-griner-krijgt-celstraf-van-negen-jaar-in-rusland",
     "type": "article",
-    "title": "Russische aanklager eist bijna tien jaar cel tegen topbasketbalster Griner",
+    "title": "Amerikaanse topbasketbalster Griner krijgt celstraf van negen jaar in Rusland",
     "subtitle": null,
     "published_at": "2022-08-04T15:24:28+02:00",
-    "updated_at": "2022-08-04T16:52:47+02:00",
+    "updated_at": "2022-08-04T17:57:59+02:00",
     "media_id": "jkyxbrzadqqj",
     "duration": null,
     "canonical_section": {
@@ -340,7 +363,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/sport-overig/6215992/russische-aanklager-eist-bijna-tien-jaar-cel-tegen-topbasketbalster-griner.html",
+    "url": "/sport-overig/6215992/amerikaanse-topbasketbalster-griner-krijgt-celstraf-van-negen-jaar-in-rusland.html",
     "open_new_window": false,
     "partner": null
   },
@@ -663,29 +686,6 @@
       "partner": null
     },
     "url": "/formule-1/6215911/overzicht-zo-ziet-de-formule-1-grid-van-volgend-jaar-er-mogelijk-uit.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6215956,
-    "slug": "munitiedepot-van-duitse-politie-ontploft-in-berlijn",
-    "type": "video",
-    "title": "Munitiedepot van Duitse politie ontploft in Berlijn",
-    "subtitle": "Video",
-    "published_at": "2022-08-04T12:20:27+02:00",
-    "updated_at": "2022-08-04T12:20:28+02:00",
-    "media_id": "ut3xc2kavc68",
-    "duration": "0:37",
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6215956/munitiedepot-van-duitse-politie-ontploft-in-berlijn.html",
     "open_new_window": false,
     "partner": null
   }
