@@ -1,5 +1,28 @@
 [
   {
+    "id": 6215904,
+    "slug": "fransman-overleeft-zestien-uur-onder-gekapseisde-boot",
+    "type": "video",
+    "title": "Fransman overleeft zestien uur onder gekapseisde boot",
+    "subtitle": "Video",
+    "published_at": "2022-08-04T09:00:27+02:00",
+    "updated_at": "2022-08-04T09:00:28+02:00",
+    "media_id": "dq4xq68akc03",
+    "duration": "0:44",
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6215904/fransman-overleeft-zestien-uur-onder-gekapseisde-boot.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6215901,
     "slug": "fc-twente-keert-terug-in-europa-vijf-legendarische-duels-van-de-tukkers",
     "type": "article",
@@ -167,7 +190,7 @@
     "title": "Nederlandse inflatie voor het eerst sinds 1975 boven de 10 procent",
     "subtitle": null,
     "published_at": "2022-08-04T06:34:26+02:00",
-    "updated_at": "2022-08-04T08:17:03+02:00",
+    "updated_at": "2022-08-04T09:08:30+02:00",
     "media_id": "iwmxhbwa39ds",
     "duration": null,
     "canonical_section": {
@@ -305,7 +328,7 @@
     "title": "Trans, bi, non-binair of queer: deze films en series laten goed zien hoe dat is",
     "subtitle": null,
     "published_at": "2022-08-04T06:01:01+02:00",
-    "updated_at": "2022-08-04T06:05:21+02:00",
+    "updated_at": "2022-08-04T08:59:42+02:00",
     "media_id": "1anx5vaa3kpv",
     "duration": null,
     "canonical_section": {
@@ -663,29 +686,6 @@
       "partner": null
     },
     "url": "/voetbal/6215849/jans-optimistisch-over-kansen-twente-in-conference-league-zie-ons-als-favoriet.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6215859,
-    "slug": "hoe-alonso-de-soap-rondom-het-grote-f1-talent-piastri-veroorzaakte",
-    "type": "video",
-    "title": "Hoe Alonso de soap rondom het grote F1-talent Piastri veroorzaakte",
-    "subtitle": "Video",
-    "published_at": "2022-08-03T21:07:44+02:00",
-    "updated_at": "2022-08-04T05:39:54+02:00",
-    "media_id": "ekbxtk7at2g2",
-    "duration": "2:55",
-    "canonical_section": {
-      "id": 1772449,
-      "slug": "formule-1",
-      "type": "default",
-      "name": "Formule 1",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/formule-1/6215859/hoe-alonso-de-soap-rondom-het-grote-f1-talent-piastri-veroorzaakte.html",
     "open_new_window": false,
     "partner": null
   }
