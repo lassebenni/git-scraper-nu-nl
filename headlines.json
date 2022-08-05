@@ -1,5 +1,51 @@
 [
   {
+    "id": 6216074,
+    "slug": "nieuwbouw-van-koopwoningen-nog-verder-onder-druk",
+    "type": "article",
+    "title": "Nieuwbouw van koopwoningen nog verder onder druk",
+    "subtitle": null,
+    "published_at": "2022-08-05T08:37:17+02:00",
+    "updated_at": "2022-08-05T08:37:18+02:00",
+    "media_id": "o1kxwnwav6ro",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6216074/nieuwbouw-van-koopwoningen-nog-verder-onder-druk.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6216073,
+    "slug": "apple-personeel-vond-geen-gehoor-na-klachten-over-seksueel-wangedrag",
+    "type": "article",
+    "title": "Apple-personeel vond geen gehoor na klachten over seksueel wangedrag",
+    "subtitle": null,
+    "published_at": "2022-08-05T08:34:51+02:00",
+    "updated_at": "2022-08-05T08:34:52+02:00",
+    "media_id": "z2jxqkxavcgk",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771438,
+      "slug": "tech",
+      "type": "default",
+      "name": "Tech",
+      "style": "nutech",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/tech/6216073/apple-personeel-vond-geen-gehoor-na-klachten-over-seksueel-wangedrag.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6216072,
     "slug": "drone-filmt-witte-dolfijn-in-franse-seine",
     "type": "video",
@@ -323,12 +369,12 @@
   },
   {
     "id": 6216060,
-    "slug": "streamingdiensten-hbo-max-en-discovery-gaan-volgende-zomer-samen-verder",
+    "slug": "streamingdiensten-hbo-max-en-discovery-gaan-volgend-jaar-samen-verder",
     "type": "article",
-    "title": "Streamingdiensten HBO Max en Discovery+ gaan volgende zomer samen verder",
+    "title": "Streamingdiensten HBO Max en Discovery+ gaan volgend jaar samen verder",
     "subtitle": null,
     "published_at": "2022-08-05T05:49:33+02:00",
-    "updated_at": "2022-08-05T08:15:05+02:00",
+    "updated_at": "2022-08-05T08:45:01+02:00",
     "media_id": "fikxfx0aewi4",
     "duration": null,
     "canonical_section": {
@@ -340,7 +386,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/media/6216060/streamingdiensten-hbo-max-en-discovery-gaan-volgende-zomer-samen-verder.html",
+    "url": "/media/6216060/streamingdiensten-hbo-max-en-discovery-gaan-volgend-jaar-samen-verder.html",
     "open_new_window": false,
     "partner": null
   },
@@ -420,7 +466,7 @@
     "title": "Nieuw energiecontract dik 4.000 euro duurder dan een jaar geleden",
     "subtitle": null,
     "published_at": "2022-08-05T05:00:05+02:00",
-    "updated_at": "2022-08-05T05:00:06+02:00",
+    "updated_at": "2022-08-05T08:47:04+02:00",
     "media_id": "m0ixut7ac62t",
     "duration": null,
     "canonical_section": {
@@ -640,52 +686,6 @@
       "partner": null
     },
     "url": "/buitenland/6216050/brandweer-brussel-filmt-blussen-van-grote-flatbrand.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6215533,
-    "slug": "ajax-huurt-lange-italiaanse-spits-lucca-met-koopoptie-van-serie-b-club-pisa",
-    "type": "article",
-    "title": "Ajax huurt lange Italiaanse spits Lucca met koopoptie van Serie B-club Pisa",
-    "subtitle": null,
-    "published_at": "2022-08-04T21:33:37+02:00",
-    "updated_at": "2022-08-04T22:21:41+02:00",
-    "media_id": "2zpxareaxl6v",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6215533/ajax-huurt-lange-italiaanse-spits-lucca-met-koopoptie-van-serie-b-club-pisa.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6216049,
-    "slug": "van-bommel-wint-weer-met-antwerp-en-is-dicht-bij-play-offs-conference-league",
-    "type": "article",
-    "title": "Van Bommel wint weer met Antwerp en is dicht bij play-offs Conference League",
-    "subtitle": null,
-    "published_at": "2022-08-04T20:57:57+02:00",
-    "updated_at": "2022-08-04T22:55:33+02:00",
-    "media_id": "z69x1hoatlnq",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6216049/van-bommel-wint-weer-met-antwerp-en-is-dicht-bij-play-offs-conference-league.html",
     "open_new_window": false,
     "partner": null
   }
