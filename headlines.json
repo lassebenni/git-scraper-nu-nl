@@ -1,5 +1,51 @@
 [
   {
+    "id": 6216069,
+    "slug": "az-spelers-balen-van-europese-nederlaag-velen-waren-onder-de-maat",
+    "type": "article",
+    "title": "AZ-spelers balen van Europese nederlaag: 'Velen waren onder de maat'",
+    "subtitle": null,
+    "published_at": "2022-08-05T07:29:34+02:00",
+    "updated_at": "2022-08-05T07:29:34+02:00",
+    "media_id": "o2wxtz0apb64",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6216069/az-spelers-balen-van-europese-nederlaag-velen-waren-onder-de-maat.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6216067,
+    "slug": "nederlands-onderzoek-een-op-acht-coronapatienten-houdt-langdurige-klachten",
+    "type": "article",
+    "title": "Nederlands onderzoek: Een op acht coronapatiënten houdt langdurige klachten",
+    "subtitle": null,
+    "published_at": "2022-08-05T07:25:44+02:00",
+    "updated_at": "2022-08-05T07:25:44+02:00",
+    "media_id": "d8bxcgdad4io",
+    "duration": null,
+    "canonical_section": {
+      "id": 1778528,
+      "slug": "coronavirus",
+      "type": "default",
+      "name": "Coronavirus",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/coronavirus/6216067/nederlands-onderzoek-een-op-acht-coronapatienten-houdt-langdurige-klachten.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6216064,
     "slug": "james-franco-gaat-fidel-castro-spelen-in-nieuwe-film",
     "type": "article",
@@ -121,7 +167,7 @@
     "title": "Taiwan brengt leger in staat van paraatheid na nieuwe Chinese militaire oefening",
     "subtitle": null,
     "published_at": "2022-08-05T06:45:29+02:00",
-    "updated_at": "2022-08-05T06:49:00+02:00",
+    "updated_at": "2022-08-05T07:20:12+02:00",
     "media_id": "zerx3s2a6h49",
     "duration": null,
     "canonical_section": {
@@ -351,7 +397,7 @@
     "title": "Zelensky veroordeelt rapport Amnesty wegens 'goedpraten van terreur'",
     "subtitle": null,
     "published_at": "2022-08-05T03:16:18+02:00",
-    "updated_at": "2022-08-05T06:50:54+02:00",
+    "updated_at": "2022-08-05T07:31:21+02:00",
     "media_id": "s4lxdw5acetz",
     "duration": null,
     "canonical_section": {
@@ -640,52 +686,6 @@
       "partner": null
     },
     "url": "/buitenland/6216047/ook-verenigde-staten-noemen-apenpokken-noodtoestand-voor-volksgezondheid.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6216042,
-    "slug": "fifa-besluit-buitenspelregel-vlak-voor-seizoensstart-ietwat-aan-te-passen",
-    "type": "article",
-    "title": "FIFA besluit buitenspelregel vlak voor seizoensstart ietwat aan te passen",
-    "subtitle": null,
-    "published_at": "2022-08-04T20:24:06+02:00",
-    "updated_at": "2022-08-04T20:32:30+02:00",
-    "media_id": "7twxwjvaq5wh",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6216042/fifa-besluit-buitenspelregel-vlak-voor-seizoensstart-ietwat-aan-te-passen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6216041,
-    "slug": "ongevaccineerde-djokovic-meldt-zich-noodgedwongen-af-voor-masters-montreal",
-    "type": "article",
-    "title": "Ongevaccineerde Djokovic meldt zich noodgedwongen af voor Masters Montreal",
-    "subtitle": null,
-    "published_at": "2022-08-04T20:20:34+02:00",
-    "updated_at": "2022-08-04T20:28:25+02:00",
-    "media_id": "rv6xbwyaadfu",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772432,
-      "slug": "tennis",
-      "type": "default",
-      "name": "Tennis",
-      "style": "nusport",
-      "media_id": "m1oxohpan0gq",
-      "partner": null
-    },
-    "url": "/tennis/6216041/ongevaccineerde-djokovic-meldt-zich-noodgedwongen-af-voor-masters-montreal.html",
     "open_new_window": false,
     "partner": null
   }
