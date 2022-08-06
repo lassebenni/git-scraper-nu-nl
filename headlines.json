@@ -1,5 +1,28 @@
 [
   {
+    "id": 6216325,
+    "slug": "bekijk-de-ongelukkige-competitiestart-van-liverpool-en-van-dijk",
+    "type": "video",
+    "title": "Bekijk de ongelukkige competitiestart van Liverpool en Van Dijk",
+    "subtitle": "Video",
+    "published_at": "2022-08-06T17:41:40+02:00",
+    "updated_at": "2022-08-06T17:41:41+02:00",
+    "media_id": "mjexr24ayres",
+    "duration": "4:22",
+    "canonical_section": {
+      "id": 149,
+      "slug": "sport",
+      "type": "default",
+      "name": "Sport",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/sport/6216325/bekijk-de-ongelukkige-competitiestart-van-liverpool-en-van-dijk.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6216323,
     "slug": "temperaturen-gaan-omhoog-hittegolf-lijkt-onvermijdelijk",
     "type": "article",
@@ -24,12 +47,12 @@
   },
   {
     "id": 6216322,
-    "slug": "becker-grijpt-hoofdrol-bij-union-berlin-doan-scoort-bij-debuut-voor-freiburg",
+    "slug": "becker-grijpt-hoofdrol-in-berlijnse-derby-doan-scoort-bij-ruime-zege-freiburg",
     "type": "article",
-    "title": "Becker grijpt hoofdrol bij Union Berlin, Doan scoort bij debuut voor Freiburg",
+    "title": "Becker grijpt hoofdrol in Berlijnse derby, Doan scoort bij ruime zege Freiburg",
     "subtitle": null,
     "published_at": "2022-08-06T17:25:50+02:00",
-    "updated_at": "2022-08-06T17:30:52+02:00",
+    "updated_at": "2022-08-06T17:37:55+02:00",
     "media_id": "dj0x8bnaqzrn",
     "duration": null,
     "canonical_section": {
@@ -41,20 +64,20 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6216322/becker-grijpt-hoofdrol-bij-union-berlin-doan-scoort-bij-debuut-voor-freiburg.html",
+    "url": "/voetbal/6216322/becker-grijpt-hoofdrol-in-berlijnse-derby-doan-scoort-bij-ruime-zege-freiburg.html",
     "open_new_window": false,
     "partner": null
   },
   {
     "id": 6216321,
     "slug": "dronebeelden-laten-grote-droogte-rondom-rijn-waal-en-lek-zien",
-    "type": "article",
+    "type": "video",
     "title": "Dronebeelden laten grote droogte rondom Rijn, Waal en Lek zien",
     "subtitle": "Video",
     "published_at": "2022-08-06T17:20:00+02:00",
-    "updated_at": "2022-08-06T17:20:00+02:00",
+    "updated_at": "2022-08-06T17:32:24+02:00",
     "media_id": "mh4xe3ua3gxe",
-    "duration": null,
+    "duration": "1:22",
     "canonical_section": {
       "id": 100,
       "slug": "algemeen",
@@ -139,12 +162,12 @@
   },
   {
     "id": 6216309,
-    "slug": "pover-ajax-halverwege-op-achterstand-bij-fortuna",
+    "slug": "ajax-na-rust-razendsnel-op-voorsprong-tegen-fortuna",
     "type": "article",
-    "title": "Pover Ajax halverwege op achterstand bij Fortuna",
+    "title": "Ajax na rust razendsnel op voorsprong tegen Fortuna",
     "subtitle": "Liveblog Eredivisie",
     "published_at": "2022-08-06T15:58:58+02:00",
-    "updated_at": "2022-08-06T17:25:17+02:00",
+    "updated_at": "2022-08-06T17:43:49+02:00",
     "media_id": "jcux6zlan9fs",
     "duration": null,
     "canonical_section": {
@@ -156,7 +179,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6216309/pover-ajax-halverwege-op-achterstand-bij-fortuna.html",
+    "url": "/voetbal/6216309/ajax-na-rust-razendsnel-op-voorsprong-tegen-fortuna.html",
     "open_new_window": false,
     "partner": null
   },
@@ -663,29 +686,6 @@
       "partner": null
     },
     "url": "/tennis/6216270/medvedev-als-mondiale-nummer-een-naar-us-open-dankzij-finaleplek-in-mexico.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6216268,
-    "slug": "voor-het-eerst-wolvenwelpen-gezien-in-park-de-hoge-veluwe",
-    "type": "article",
-    "title": "Voor het eerst wolvenwelpen gezien in Park De Hoge Veluwe",
-    "subtitle": null,
-    "published_at": "2022-08-06T10:08:52+02:00",
-    "updated_at": "2022-08-06T17:06:01+02:00",
-    "media_id": "mxmx37qauo4q",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772536,
-      "slug": "dieren",
-      "type": "default",
-      "name": "Dieren",
-      "style": "nunjij",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/dieren/6216268/voor-het-eerst-wolvenwelpen-gezien-in-park-de-hoge-veluwe.html",
     "open_new_window": false,
     "partner": null
   }
