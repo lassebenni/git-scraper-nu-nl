@@ -1,12 +1,35 @@
 [
   {
+    "id": 6216294,
+    "slug": "eerste-boten-van-canal-parade-varen-door-de-amsterdamse-grachten",
+    "type": "video",
+    "title": "Eerste boten van Canal Parade varen door de Amsterdamse grachten",
+    "subtitle": "Video",
+    "published_at": "2022-08-06T13:09:40+02:00",
+    "updated_at": "2022-08-06T13:10:05+02:00",
+    "media_id": "51qxh7ya18a0",
+    "duration": "0:45",
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6216294/eerste-boten-van-canal-parade-varen-door-de-amsterdamse-grachten.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6216290,
     "slug": "spartanen-malen-niet-om-weinig-verheffende-opener-van-eredivisie-seizoen",
     "type": "article",
     "title": "Spartanen malen niet om weinig verheffende opener van Eredivisie-seizoen",
     "subtitle": null,
     "published_at": "2022-08-06T12:30:21+02:00",
-    "updated_at": "2022-08-06T12:37:55+02:00",
+    "updated_at": "2022-08-06T12:54:36+02:00",
     "media_id": "kvqxww7aby06",
     "duration": null,
     "canonical_section": {
@@ -29,7 +52,7 @@
     "title": "Twaalf doden en 43 gewonden bij busongeluk met Poolse pelgrims in Kroatië",
     "subtitle": null,
     "published_at": "2022-08-06T12:03:31+02:00",
-    "updated_at": "2022-08-06T12:05:37+02:00",
+    "updated_at": "2022-08-06T12:59:22+02:00",
     "media_id": "du8xrbzaq9oa",
     "duration": null,
     "canonical_section": {
@@ -392,12 +415,12 @@
   },
   {
     "id": 6216250,
-    "slug": "kuijt-zag-vernedering-met-ado-niet-aankomen-vooraf-had-ik-een-heel-ander-gevoel",
+    "slug": "kuijt-zag-vernedering-met-ado-niet-aankomen-had-een-heel-ander-gevoel",
     "type": "article",
-    "title": "Kuijt zag vernedering met ADO niet aankomen: 'Vooraf had ik een heel ander gevoel'",
+    "title": "Kuijt zag vernedering met ADO niet aankomen: 'Had een heel ander gevoel'",
     "subtitle": null,
     "published_at": "2022-08-06T08:44:38+02:00",
-    "updated_at": "2022-08-06T08:52:04+02:00",
+    "updated_at": "2022-08-06T12:54:05+02:00",
     "media_id": "5kzxxvaad6zn",
     "duration": null,
     "canonical_section": {
@@ -409,7 +432,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6216250/kuijt-zag-vernedering-met-ado-niet-aankomen-vooraf-had-ik-een-heel-ander-gevoel.html",
+    "url": "/voetbal/6216250/kuijt-zag-vernedering-met-ado-niet-aankomen-had-een-heel-ander-gevoel.html",
     "open_new_window": false,
     "partner": null
   },
@@ -627,7 +650,7 @@
     "title": "Kim Kardashian en Pete Davidson na negen maanden weer uit elkaar",
     "subtitle": null,
     "published_at": "2022-08-06T05:11:30+02:00",
-    "updated_at": "2022-08-06T11:44:21+02:00",
+    "updated_at": "2022-08-06T13:03:45+02:00",
     "media_id": "9xaxpxta5vdz",
     "duration": null,
     "canonical_section": {
@@ -663,29 +686,6 @@
       "partner": null
     },
     "url": "/buitenland/6216236/china-voert-volgens-taiwan-aanvalssimulaties-uit-op-hoofdeiland.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6216235,
-    "slug": "boze-brief-van-john-lennon-naar-paul-mccartney-onder-de-hamer",
-    "type": "article",
-    "title": "Boze brief van John Lennon naar Paul McCartney onder de hamer",
-    "subtitle": null,
-    "published_at": "2022-08-06T02:30:47+02:00",
-    "updated_at": "2022-08-06T08:35:25+02:00",
-    "media_id": "sypx527aytg9",
-    "duration": null,
-    "canonical_section": {
-      "id": 868281,
-      "slug": "muziek",
-      "type": "default",
-      "name": "Muziek",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/muziek/6216235/boze-brief-van-john-lennon-naar-paul-mccartney-onder-de-hamer.html",
     "open_new_window": false,
     "partner": null
   }
