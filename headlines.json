@@ -1,12 +1,58 @@
 [
   {
+    "id": 6216399,
+    "slug": "club-america-bevestigt-aanstaande-overstap-van-rechtsback-sanchez-naar-ajax",
+    "type": "article",
+    "title": "Club América bevestigt aanstaande overstap van rechtsback Sánchez naar Ajax",
+    "subtitle": null,
+    "published_at": "2022-08-07T09:55:34+02:00",
+    "updated_at": "2022-08-07T10:10:31+02:00",
+    "media_id": "ugpxlc4apckq",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6216399/club-america-bevestigt-aanstaande-overstap-van-rechtsback-sanchez-naar-ajax.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6216398,
+    "slug": "lichaam-in-gezonken-boot-bij-het-utrechtse-ameide-is-van-vermiste-vrouw",
+    "type": "article",
+    "title": "Lichaam in gezonken boot bij het Utrechtse Ameide is van vermiste vrouw",
+    "subtitle": null,
+    "published_at": "2022-08-07T09:54:33+02:00",
+    "updated_at": "2022-08-07T09:58:03+02:00",
+    "media_id": "vibxlm9afyhh",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6216398/lichaam-in-gezonken-boot-bij-het-utrechtse-ameide-is-van-vermiste-vrouw.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6216397,
     "slug": "spookrijder-in-verdachte-auto-crasht-na-achtervolging-op-a27-drie-arrestaties",
     "type": "article",
     "title": "Spookrijder in 'verdachte auto' crasht na achtervolging op A27, drie arrestaties",
     "subtitle": null,
     "published_at": "2022-08-07T09:40:44+02:00",
-    "updated_at": "2022-08-07T09:40:55+02:00",
+    "updated_at": "2022-08-07T09:48:47+02:00",
     "media_id": "unax1d5aafvy",
     "duration": null,
     "canonical_section": {
@@ -52,7 +98,7 @@
     "title": "Martijn (30): 'Minder praten over duurzaamheid en meer doen'",
     "subtitle": null,
     "published_at": "2022-08-07T08:58:31+02:00",
-    "updated_at": "2022-08-07T09:46:21+02:00",
+    "updated_at": "2022-08-07T09:48:31+02:00",
     "media_id": "wlqxdzbaghq4",
     "duration": null,
     "canonical_section": {
@@ -640,52 +686,6 @@
       "partner": null
     },
     "url": "/voetbal/6216334/schreuder-ziet-ajax-met-schrik-vrijkomen-ik-leer-hier-ook-van-als-trainer.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6216333,
-    "slug": "olietanks-in-cubaanse-haven-in-lichterlaaie-ruim-vijftig-gewonden",
-    "type": "video",
-    "title": "Olietanks in Cubaanse haven in lichterlaaie, ruim vijftig gewonden",
-    "subtitle": "Video",
-    "published_at": "2022-08-06T19:13:13+02:00",
-    "updated_at": "2022-08-06T21:38:39+02:00",
-    "media_id": "zh2xwyaa4zps",
-    "duration": "0:48",
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6216333/olietanks-in-cubaanse-haven-in-lichterlaaie-ruim-vijftig-gewonden.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6216332,
-    "slug": "in-gezonken-boot-gevonden-lichaam-is-van-vrouw-die-na-aanvaring-vermist-was",
-    "type": "article",
-    "title": "In gezonken boot gevonden lichaam is van vrouw die na aanvaring vermist was",
-    "subtitle": null,
-    "published_at": "2022-08-06T19:04:50+02:00",
-    "updated_at": "2022-08-07T07:37:11+02:00",
-    "media_id": "fflxpfgakf4c",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6216332/in-gezonken-boot-gevonden-lichaam-is-van-vrouw-die-na-aanvaring-vermist-was.html",
     "open_new_window": false,
     "partner": null
   }
