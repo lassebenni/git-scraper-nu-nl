@@ -1,12 +1,35 @@
 [
   {
+    "id": 6216660,
+    "slug": "olivia-newton-john-op-73-jarige-leeftijd-overleden",
+    "type": "video",
+    "title": "Olivia Newton-John op 73-jarige leeftijd overleden",
+    "subtitle": "Video",
+    "published_at": "2022-08-08T22:52:15+02:00",
+    "updated_at": "2022-08-08T22:52:16+02:00",
+    "media_id": "ajvxd2zaqbj9",
+    "duration": "0:39",
+    "canonical_section": {
+      "id": 1772242,
+      "slug": "entertainment",
+      "type": "default",
+      "name": "Media en Cultuur",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/entertainment/6216660/olivia-newton-john-op-73-jarige-leeftijd-overleden.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6216659,
-    "slug": "feyenoord-heeft-met-peruviaan-lopez-eindelijk-vervanger-voor-malacia-binnen",
+    "slug": "feyenoord-heeft-met-peruviaan-lopez-eindelijk-vervanger-van-malacia-binnen",
     "type": "article",
-    "title": "Feyenoord heeft met Peruviaan López eindelijk vervanger voor Malacia binnen",
+    "title": "Feyenoord heeft met Peruviaan López eindelijk vervanger van Malacia binnen",
     "subtitle": null,
     "published_at": "2022-08-08T22:47:10+02:00",
-    "updated_at": "2022-08-08T22:48:14+02:00",
+    "updated_at": "2022-08-08T23:06:13+02:00",
     "media_id": "bqnxf1eak4la",
     "duration": null,
     "canonical_section": {
@@ -18,7 +41,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6216659/feyenoord-heeft-met-peruviaan-lopez-eindelijk-vervanger-voor-malacia-binnen.html",
+    "url": "/voetbal/6216659/feyenoord-heeft-met-peruviaan-lopez-eindelijk-vervanger-van-malacia-binnen.html",
     "open_new_window": false,
     "partner": null
   },
@@ -663,29 +686,6 @@
       "partner": null
     },
     "url": "/buitenland/6216589/china-oefent-met-schepen-en-straaljagers-rond-taiwan.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6216586,
-    "slug": "google-klaagt-sonos-aan-wegens-onenigheid-over-speaker-en-stemassistent",
-    "type": "article",
-    "title": "Google klaagt Sonos aan wegens onenigheid over speaker en stemassistent",
-    "subtitle": null,
-    "published_at": "2022-08-08T16:10:25+02:00",
-    "updated_at": "2022-08-08T16:16:59+02:00",
-    "media_id": "rlfxdf9a5bpo",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771438,
-      "slug": "tech",
-      "type": "default",
-      "name": "Tech",
-      "style": "nutech",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/tech/6216586/google-klaagt-sonos-aan-wegens-onenigheid-over-speaker-en-stemassistent.html",
     "open_new_window": false,
     "partner": null
   }
