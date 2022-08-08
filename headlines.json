@@ -1,12 +1,35 @@
 [
   {
-    "id": 6216532,
-    "slug": "toezichthouder-beschuldigt-tesla-van-misleidende-reclame",
+    "id": 6215897,
+    "slug": "nec-rondt-terugkeer-van-cillessen-af-de-beste-doelman-van-nederland",
     "type": "article",
-    "title": "Toezichthouder beschuldigt Tesla van misleidende reclame",
+    "title": "NEC rondt terugkeer van Cillessen af: 'De beste doelman van Nederland'",
+    "subtitle": null,
+    "published_at": "2022-08-08T10:22:34+02:00",
+    "updated_at": "2022-08-08T10:34:19+02:00",
+    "media_id": "evcxetmamp4r",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6215897/nec-rondt-terugkeer-van-cillessen-af-de-beste-doelman-van-nederland.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6216532,
+    "slug": "toezichthouder-vs-beschuldigt-tesla-van-misleidende-reclame",
+    "type": "article",
+    "title": "Toezichthouder VS beschuldigt Tesla van misleidende reclame",
     "subtitle": null,
     "published_at": "2022-08-08T10:07:30+02:00",
-    "updated_at": "2022-08-08T10:10:50+02:00",
+    "updated_at": "2022-08-08T10:26:09+02:00",
     "media_id": "js3x356aw65t",
     "duration": null,
     "canonical_section": {
@@ -18,7 +41,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/tech/6216532/toezichthouder-beschuldigt-tesla-van-misleidende-reclame.html",
+    "url": "/tech/6216532/toezichthouder-vs-beschuldigt-tesla-van-misleidende-reclame.html",
     "open_new_window": false,
     "partner": null
   },
@@ -47,12 +70,12 @@
   },
   {
     "id": 6216525,
-    "slug": "vliegmaatschappij-qantas-vraagt-leidinggevenden-drie-maanden-koffers-te-sjouwen",
+    "slug": "airline-qantas-vraagt-leidinggevenden-drie-maanden-koffers-te-sjouwen",
     "type": "article",
-    "title": "Vliegmaatschappij Qantas vraagt leidinggevenden drie maanden koffers te sjouwen",
+    "title": "Airline Qantas vraagt leidinggevenden drie maanden koffers te sjouwen",
     "subtitle": null,
     "published_at": "2022-08-08T09:52:29+02:00",
-    "updated_at": "2022-08-08T09:55:47+02:00",
+    "updated_at": "2022-08-08T10:13:13+02:00",
     "media_id": "fu5xh4canljt",
     "duration": null,
     "canonical_section": {
@@ -64,7 +87,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/economie/6216525/vliegmaatschappij-qantas-vraagt-leidinggevenden-drie-maanden-koffers-te-sjouwen.html",
+    "url": "/economie/6216525/airline-qantas-vraagt-leidinggevenden-drie-maanden-koffers-te-sjouwen.html",
     "open_new_window": false,
     "partner": null
   },
@@ -663,29 +686,6 @@
       "partner": null
     },
     "url": "/spanningen-oekraine/6216477/kyiv-en-moskou-ruzien-over-kerncentrale-graanschepen-varen-uit.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6216484,
-    "slug": "ook-palestijnen-leggen-wapens-neer-in-gaza-wapenstilstand-van-kracht",
-    "type": "article",
-    "title": "Ook Palestijnen leggen wapens neer in Gaza, wapenstilstand van kracht",
-    "subtitle": null,
-    "published_at": "2022-08-07T21:17:42+02:00",
-    "updated_at": "2022-08-08T00:03:23+02:00",
-    "media_id": "9dax510auuw8",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6216484/ook-palestijnen-leggen-wapens-neer-in-gaza-wapenstilstand-van-kracht.html",
     "open_new_window": false,
     "partner": null
   }
