@@ -1,5 +1,51 @@
 [
   {
+    "id": 6216504,
+    "slug": "postnl-gaat-prijzen-verhogen-als-gevolg-van-hoge-inflatie",
+    "type": "article",
+    "title": "PostNL gaat prijzen verhogen als gevolg van hoge inflatie",
+    "subtitle": null,
+    "published_at": "2022-08-08T07:23:26+02:00",
+    "updated_at": "2022-08-08T07:27:06+02:00",
+    "media_id": "xwixj1hav6hc",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6216504/postnl-gaat-prijzen-verhogen-als-gevolg-van-hoge-inflatie.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6216503,
+    "slug": "robottaxis-van-baidu-mogen-zonder-chauffeur-de-weg-op-in-china",
+    "type": "article",
+    "title": "Robottaxi's van Baidu mogen zonder chauffeur de weg op in China",
+    "subtitle": null,
+    "published_at": "2022-08-08T07:14:45+02:00",
+    "updated_at": "2022-08-08T07:27:22+02:00",
+    "media_id": "vs4xx6aacrsz",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771438,
+      "slug": "tech",
+      "type": "default",
+      "name": "Tech",
+      "style": "nutech",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/tech/6216503/robottaxis-van-baidu-mogen-zonder-chauffeur-de-weg-op-in-china.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6216501,
     "slug": "xavi-rekent-dit-seizoen-op-frenkie-de-jong-hij-is-een-geweldige-speler",
     "type": "article",
@@ -75,7 +121,7 @@
     "title": "Roxeanne Hazes en Nielson: deze artiesten doen ook mee aan Beste Zangers",
     "subtitle": null,
     "published_at": "2022-08-08T05:49:58+02:00",
-    "updated_at": "2022-08-08T06:45:46+02:00",
+    "updated_at": "2022-08-08T07:20:36+02:00",
     "media_id": "jxox21dark9f",
     "duration": null,
     "canonical_section": {
@@ -236,7 +282,7 @@
     "title": "Ondanks waarschuwing toch nieuwe beschietingen op kerncentrale Zaporizhzhia",
     "subtitle": null,
     "published_at": "2022-08-08T00:51:17+02:00",
-    "updated_at": "2022-08-08T01:01:08+02:00",
+    "updated_at": "2022-08-08T07:19:54+02:00",
     "media_id": "gdqxd1qadgt0",
     "duration": null,
     "canonical_section": {
@@ -640,52 +686,6 @@
       "partner": null
     },
     "url": "/voetbal/6216460/teleurgestelde-ten-hag-ziet-manchester-united-te-veel-fouten-maken.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6216459,
-    "slug": "bekijk-het-pijnlijke-manchester-united-debuut-van-ten-hag",
-    "type": "video",
-    "title": "Bekijk het pijnlijke Manchester United-debuut van Ten Hag",
-    "subtitle": "Video",
-    "published_at": "2022-08-07T17:56:21+02:00",
-    "updated_at": "2022-08-07T18:00:04+02:00",
-    "media_id": "mubxvpwa3133",
-    "duration": "5:04",
-    "canonical_section": {
-      "id": 149,
-      "slug": "sport",
-      "type": "default",
-      "name": "Sport",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/sport/6216459/bekijk-het-pijnlijke-manchester-united-debuut-van-ten-hag.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6216457,
-    "slug": "seizoen-voor-fc-emmen-aanwinst-kieftenbeld-nu-al-voorbij-door-zware-blessure",
-    "type": "article",
-    "title": "Seizoen voor FC Emmen-aanwinst Kieftenbeld nu al voorbij door zware blessure",
-    "subtitle": null,
-    "published_at": "2022-08-07T17:54:37+02:00",
-    "updated_at": "2022-08-07T17:54:37+02:00",
-    "media_id": "uzix803a31ac",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6216457/seizoen-voor-fc-emmen-aanwinst-kieftenbeld-nu-al-voorbij-door-zware-blessure.html",
     "open_new_window": false,
     "partner": null
   }
