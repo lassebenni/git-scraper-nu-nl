@@ -1,12 +1,58 @@
 [
   {
+    "id": 6216586,
+    "slug": "google-klaagt-sonos-aan-wegens-onenigheid-over-speaker-en-stemassistent",
+    "type": "article",
+    "title": "Google klaagt Sonos aan wegens onenigheid over speaker en stemassistent",
+    "subtitle": null,
+    "published_at": "2022-08-08T16:10:25+02:00",
+    "updated_at": "2022-08-08T16:10:26+02:00",
+    "media_id": "rlfxdf9a5bpo",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771438,
+      "slug": "tech",
+      "type": "default",
+      "name": "Tech",
+      "style": "nutech",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/tech/6216586/google-klaagt-sonos-aan-wegens-onenigheid-over-speaker-en-stemassistent.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6216587,
+    "slug": "verdachte-van-dumpen-afval-met-asbest-op-a7-blijft-langer-vastzitten",
+    "type": "article",
+    "title": "Verdachte van dumpen afval met asbest op A7 blijft langer vastzitten",
+    "subtitle": null,
+    "published_at": "2022-08-08T16:05:16+02:00",
+    "updated_at": "2022-08-08T16:05:17+02:00",
+    "media_id": "24zxgc5a8hr2",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6216587/verdachte-van-dumpen-afval-met-asbest-op-a7-blijft-langer-vastzitten.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6216585,
     "slug": "anouk-hoogendijk-in-verwachting-van-tweede-zoon",
     "type": "article",
     "title": "Anouk Hoogendijk in verwachting van tweede zoon",
     "subtitle": null,
     "published_at": "2022-08-08T15:50:53+02:00",
-    "updated_at": "2022-08-08T15:50:54+02:00",
+    "updated_at": "2022-08-08T16:08:17+02:00",
     "media_id": "aj1x05ta8c4n",
     "duration": null,
     "canonical_section": {
@@ -236,7 +282,7 @@
     "title": "Alpine-baas Szafnauer hekelt gedrag Piastri: 'Zoiets doe je gewoon niet'",
     "subtitle": null,
     "published_at": "2022-08-08T13:05:07+02:00",
-    "updated_at": "2022-08-08T13:06:20+02:00",
+    "updated_at": "2022-08-08T16:08:58+02:00",
     "media_id": "88wxuqmap2ph",
     "duration": null,
     "canonical_section": {
@@ -640,52 +686,6 @@
       "partner": null
     },
     "url": "/tennis/6216505/wimbledon-finalist-kyrgios-verovert-in-washington-eerste-atp-titel-sinds-2019.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6216504,
-    "slug": "postnl-verhoogt-prijzen-omdat-alles-duurder-wordt",
-    "type": "article",
-    "title": "PostNL verhoogt prijzen omdat alles duurder wordt",
-    "subtitle": null,
-    "published_at": "2022-08-08T07:23:26+02:00",
-    "updated_at": "2022-08-08T08:48:44+02:00",
-    "media_id": "xwixj1hav6hc",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6216504/postnl-verhoogt-prijzen-omdat-alles-duurder-wordt.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6216503,
-    "slug": "robottaxis-van-baidu-mogen-zonder-chauffeur-de-weg-op-in-china",
-    "type": "article",
-    "title": "Robottaxi's van Baidu mogen zonder chauffeur de weg op in China",
-    "subtitle": null,
-    "published_at": "2022-08-08T07:14:45+02:00",
-    "updated_at": "2022-08-08T09:22:15+02:00",
-    "media_id": "wjex1vya0k8v",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771438,
-      "slug": "tech",
-      "type": "default",
-      "name": "Tech",
-      "style": "nutech",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/tech/6216503/robottaxis-van-baidu-mogen-zonder-chauffeur-de-weg-op-in-china.html",
     "open_new_window": false,
     "partner": null
   }
