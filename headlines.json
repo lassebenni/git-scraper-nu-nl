@@ -1,12 +1,81 @@
 [
   {
+    "id": 6216605,
+    "slug": "stichting-brein-liet-vorig-jaar-349-illegale-sites-en-diensten-verwijderen",
+    "type": "article",
+    "title": "Stichting BREIN liet vorig jaar 349 illegale sites en diensten verwijderen",
+    "subtitle": null,
+    "published_at": "2022-08-08T18:28:05+02:00",
+    "updated_at": "2022-08-08T18:28:27+02:00",
+    "media_id": "7mfxkwuacql1",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771438,
+      "slug": "tech",
+      "type": "default",
+      "name": "Tech",
+      "style": "nutech",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/tech/6216605/stichting-brein-liet-vorig-jaar-349-illegale-sites-en-diensten-verwijderen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6216606,
+    "slug": "bekijk-hier-waar-je-veilig-kunt-zwemmen-in-natuurwater",
+    "type": "article",
+    "title": "Bekijk hier waar je veilig kunt zwemmen in natuurwater",
+    "subtitle": "Kaart",
+    "published_at": "2022-08-08T18:17:23+02:00",
+    "updated_at": "2022-08-08T18:29:27+02:00",
+    "media_id": "uwfx6x1a6blq",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6216606/bekijk-hier-waar-je-veilig-kunt-zwemmen-in-natuurwater.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6216607,
+    "slug": "italiaanse-brandweer-blust-bosbrand-en-hevige-brand-in-afvalfabriek",
+    "type": "video",
+    "title": "Italiaanse brandweer blust bosbrand en hevige brand in afvalfabriek",
+    "subtitle": "Video",
+    "published_at": "2022-08-08T18:15:46+02:00",
+    "updated_at": "2022-08-08T18:25:45+02:00",
+    "media_id": "ms6xbbzaq4b6",
+    "duration": "0:51",
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6216607/italiaanse-brandweer-blust-bosbrand-en-hevige-brand-in-afvalfabriek.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6216439,
     "slug": "senesi-tekent-bij-bournemouth-en-is-derde-feyenoorder-die-naar-engeland-trekt",
     "type": "article",
     "title": "Senesi tekent bij Bournemouth en is derde Feyenoorder die naar Engeland trekt",
     "subtitle": null,
     "published_at": "2022-08-08T18:03:46+02:00",
-    "updated_at": "2022-08-08T18:10:01+02:00",
+    "updated_at": "2022-08-08T18:21:58+02:00",
     "media_id": "1bixdvcalkgl",
     "duration": null,
     "canonical_section": {
@@ -512,7 +581,7 @@
     "title": "Alpine-baas Szafnauer hekelt gedrag Piastri: 'Zoiets doe je gewoon niet'",
     "subtitle": null,
     "published_at": "2022-08-08T13:05:07+02:00",
-    "updated_at": "2022-08-08T16:08:58+02:00",
+    "updated_at": "2022-08-08T18:26:56+02:00",
     "media_id": "88wxuqmap2ph",
     "duration": null,
     "canonical_section": {
@@ -617,75 +686,6 @@
       "partner": null
     },
     "url": "/voetbal/6216546/lahm-hoopt-dat-duitse-spelers-zich-tijdens-wk-uitspreken-tegen-situatie-in-qatar.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6216541,
-    "slug": "china-zet-militaire-oefeningen-rondom-taiwan-door-noodzakelijke-waarschuwing",
-    "type": "article",
-    "title": "China zet militaire oefeningen rondom Taiwan door: 'Noodzakelijke waarschuwing'",
-    "subtitle": null,
-    "published_at": "2022-08-08T11:00:29+02:00",
-    "updated_at": "2022-08-08T16:25:44+02:00",
-    "media_id": "njnxvt4awn3m",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6216541/china-zet-militaire-oefeningen-rondom-taiwan-door-noodzakelijke-waarschuwing.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6216539,
-    "slug": "hoedjes-vastgelijmd-aan-duiven-in-amsterdam-geen-grappige-actie",
-    "type": "article",
-    "title": "Hoedjes vastgelijmd aan duiven in Amsterdam: 'Geen grappige actie'",
-    "subtitle": null,
-    "published_at": "2022-08-08T10:53:08+02:00",
-    "updated_at": "2022-08-08T13:27:05+02:00",
-    "media_id": "43kxg7gasdr9",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772536,
-      "slug": "dieren",
-      "type": "default",
-      "name": "Dieren",
-      "style": "nunjij",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/dieren/6216539/hoedjes-vastgelijmd-aan-duiven-in-amsterdam-geen-grappige-actie.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6215897,
-    "slug": "nec-rondt-terugkeer-van-cillessen-af-de-beste-doelman-van-nederland",
-    "type": "article",
-    "title": "NEC rondt terugkeer van Cillessen af: 'De beste doelman van Nederland'",
-    "subtitle": null,
-    "published_at": "2022-08-08T10:22:34+02:00",
-    "updated_at": "2022-08-08T10:38:36+02:00",
-    "media_id": "evcxetmamp4r",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6215897/nec-rondt-terugkeer-van-cillessen-af-de-beste-doelman-van-nederland.html",
     "open_new_window": false,
     "partner": null
   }
