@@ -1,12 +1,81 @@
 [
   {
-    "id": 6216816,
-    "slug": "geen-sprake-van-misdrijf-bij-incident-bij-viaduct-haaksbergen",
+    "id": 6216824,
+    "slug": "vos-sprint-overtuigend-naar-winst-in-openingsrit-ronde-van-scandinavie",
     "type": "article",
-    "title": "Geen sprake van misdrijf bij incident bij viaduct Haaksbergen",
+    "title": "Vos sprint overtuigend naar winst in openingsrit Ronde van Scandinavië",
+    "subtitle": null,
+    "published_at": "2022-08-09T18:22:08+02:00",
+    "updated_at": "2022-08-09T18:22:09+02:00",
+    "media_id": "giwxsc6apq9f",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772339,
+      "slug": "wielrennen",
+      "type": "default",
+      "name": "Wielrennen",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/wielrennen/6216824/vos-sprint-overtuigend-naar-winst-in-openingsrit-ronde-van-scandinavie.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6216826,
+    "slug": "omstanders-filmen-explosies-bij-luchtmachtbasis-op-de-krim",
+    "type": "video",
+    "title": "Omstanders filmen explosies bij luchtmachtbasis op de Krim",
+    "subtitle": "Video",
+    "published_at": "2022-08-09T18:19:56+02:00",
+    "updated_at": "2022-08-09T18:22:36+02:00",
+    "media_id": "smsxpvdas40j",
+    "duration": "0:49",
+    "canonical_section": {
+      "id": 1778980,
+      "slug": "spanningen-oekraine",
+      "type": "default",
+      "name": "Oorlog in Oekraïne",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/spanningen-oekraine/6216826/omstanders-filmen-explosies-bij-luchtmachtbasis-op-de-krim.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6216818,
+    "slug": "rechtspraak-waarschuwt-maak-nooit-telefonisch-geld-over-naar-rechtbank",
+    "type": "article",
+    "title": "Rechtspraak waarschuwt: Maak nooit telefonisch geld over naar rechtbank",
+    "subtitle": null,
+    "published_at": "2022-08-09T18:14:21+02:00",
+    "updated_at": "2022-08-09T18:23:35+02:00",
+    "media_id": "0lbxvkmapcha",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771438,
+      "slug": "tech",
+      "type": "default",
+      "name": "Tech",
+      "style": "nutech",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/tech/6216818/rechtspraak-waarschuwt-maak-nooit-telefonisch-geld-over-naar-rechtbank.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6216816,
+    "slug": "incident-bij-viaduct-haaksbergen-geen-misdrijf-maar-waarschijnlijk-zelfdoding",
+    "type": "article",
+    "title": "Incident bij viaduct Haaksbergen geen misdrijf, maar waarschijnlijk zelfdoding",
     "subtitle": null,
     "published_at": "2022-08-09T18:07:04+02:00",
-    "updated_at": "2022-08-09T18:10:12+02:00",
+    "updated_at": "2022-08-09T18:23:47+02:00",
     "media_id": "hfjxbcca1icb",
     "duration": null,
     "canonical_section": {
@@ -18,7 +87,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/binnenland/6216816/geen-sprake-van-misdrijf-bij-incident-bij-viaduct-haaksbergen.html",
+    "url": "/binnenland/6216816/incident-bij-viaduct-haaksbergen-geen-misdrijf-maar-waarschijnlijk-zelfdoding.html",
     "open_new_window": false,
     "partner": null
   },
@@ -52,8 +121,8 @@
     "title": "Brand in duingebied bij Brouwersdam, vakantiepark deels ontruimd",
     "subtitle": null,
     "published_at": "2022-08-09T17:52:22+02:00",
-    "updated_at": "2022-08-09T17:52:23+02:00",
-    "media_id": "1khx2h0aqa0i",
+    "updated_at": "2022-08-09T18:34:20+02:00",
+    "media_id": "yq1x7auawxh5",
     "duration": null,
     "canonical_section": {
       "id": 1771435,
@@ -75,7 +144,7 @@
     "title": "FBI-inval bij Trump is niet per se goed nieuws voor Biden",
     "subtitle": null,
     "published_at": "2022-08-09T17:44:12+02:00",
-    "updated_at": "2022-08-09T18:10:16+02:00",
+    "updated_at": "2022-08-09T18:16:50+02:00",
     "media_id": "cj0xrjmae3t7",
     "duration": null,
     "canonical_section": {
@@ -98,7 +167,7 @@
     "title": "Nieuwe koptelefoon van Sennheiser gaat zestig uur mee op een lading",
     "subtitle": null,
     "published_at": "2022-08-09T17:39:30+02:00",
-    "updated_at": "2022-08-09T18:04:37+02:00",
+    "updated_at": "2022-08-09T18:19:06+02:00",
     "media_id": "uikx8joaol8d",
     "duration": null,
     "canonical_section": {
@@ -489,7 +558,7 @@
     "title": "WhatsApp introduceert nieuwe privacyfuncties: dit gaat er veranderen",
     "subtitle": null,
     "published_at": "2022-08-09T14:12:03+02:00",
-    "updated_at": "2022-08-09T14:26:18+02:00",
+    "updated_at": "2022-08-09T18:31:04+02:00",
     "media_id": "thtx6nhagvb5",
     "duration": null,
     "canonical_section": {
@@ -617,75 +686,6 @@
       "partner": null
     },
     "url": "/binnenland/6216747/slackliner-loopt-op-150-meter-hoogte-over-nieuwe-maas-in-rotterdam.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6216746,
-    "slug": "directeur-van-spookluchthaven-lelystad-vertrekt-naar-rotterdam-airport",
-    "type": "article",
-    "title": "Directeur van spookluchthaven Lelystad vertrekt naar Rotterdam Airport",
-    "subtitle": null,
-    "published_at": "2022-08-09T12:57:04+02:00",
-    "updated_at": "2022-08-09T13:07:17+02:00",
-    "media_id": "b13xd22azr25",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6216746/directeur-van-spookluchthaven-lelystad-vertrekt-naar-rotterdam-airport.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6216744,
-    "slug": "televizier-ring-stopt-met-onderscheid-tussen-presentator-en-presentatrice",
-    "type": "article",
-    "title": "Televizier-Ring stopt met onderscheid tussen presentator en presentatrice",
-    "subtitle": null,
-    "published_at": "2022-08-09T12:44:01+02:00",
-    "updated_at": "2022-08-09T14:27:42+02:00",
-    "media_id": "oh0xae3ak0xi",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771675,
-      "slug": "media",
-      "type": "default",
-      "name": "Media",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/media/6216744/televizier-ring-stopt-met-onderscheid-tussen-presentator-en-presentatrice.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6216723,
-    "slug": "verdwaalde-beloega-in-seine-wordt-overgebracht-naar-zoutwatertank",
-    "type": "article",
-    "title": "Verdwaalde beloega in Seine wordt overgebracht naar zoutwatertank",
-    "subtitle": null,
-    "published_at": "2022-08-09T12:40:07+02:00",
-    "updated_at": "2022-08-09T12:40:08+02:00",
-    "media_id": "9uqxpvga20e3",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6216723/verdwaalde-beloega-in-seine-wordt-overgebracht-naar-zoutwatertank.html",
     "open_new_window": false,
     "partner": null
   }
