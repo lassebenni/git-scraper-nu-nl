@@ -1,12 +1,81 @@
 [
   {
+    "id": 6216735,
+    "slug": "we-krijgen-steeds-meer-verlof-maar-dat-betekent-niet-dat-we-minder-gaan-werken",
+    "type": "article",
+    "title": "We krijgen steeds meer verlof, maar dat betekent niet dat we minder gaan werken",
+    "subtitle": null,
+    "published_at": "2022-08-10T06:06:51+02:00",
+    "updated_at": "2022-08-10T06:06:52+02:00",
+    "media_id": "r7hx5ucauqgb",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6216735/we-krijgen-steeds-meer-verlof-maar-dat-betekent-niet-dat-we-minder-gaan-werken.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6216853,
+    "slug": "hoe-een-transfer-van-de-jong-barcelona-uit-de-problemen-kan-helpen",
+    "type": "video",
+    "title": "Hoe een transfer van De Jong Barcelona uit de problemen kan helpen",
+    "subtitle": "Video",
+    "published_at": "2022-08-10T06:04:30+02:00",
+    "updated_at": "2022-08-10T06:08:46+02:00",
+    "media_id": "kokx4vfaipb3",
+    "duration": "3:26",
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6216853/hoe-een-transfer-van-de-jong-barcelona-uit-de-problemen-kan-helpen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6216864,
+    "slug": "nationaal-hitteplan-vooral-voor-ouderen-maar-ook-een-reminder-voor-jongeren",
+    "type": "article",
+    "title": "Nationaal Hitteplan: vooral voor ouderen, maar ook een reminder voor jongeren",
+    "subtitle": null,
+    "published_at": "2022-08-10T05:56:10+02:00",
+    "updated_at": "2022-08-10T06:00:13+02:00",
+    "media_id": "iltxywpa24yy",
+    "duration": null,
+    "canonical_section": {
+      "id": 1146768,
+      "slug": "gezondheid",
+      "type": "default",
+      "name": "Gezondheid",
+      "style": "nunjij",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/gezondheid/6216864/nationaal-hitteplan-vooral-voor-ouderen-maar-ook-een-reminder-voor-jongeren.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6216863,
     "slug": "weerbericht-zon-schijnt-onafgebroken-temperatuur-rond-de-30-graden",
     "type": "article",
     "title": "Weerbericht: Zon schijnt onafgebroken, temperatuur rond de 30 graden",
     "subtitle": null,
     "published_at": "2022-08-10T05:32:22+02:00",
-    "updated_at": "2022-08-10T05:32:22+02:00",
+    "updated_at": "2022-08-10T06:08:21+02:00",
     "media_id": "nymx2m9ai6s7",
     "duration": null,
     "canonical_section": {
@@ -617,75 +686,6 @@
       "partner": null
     },
     "url": "/tech/6216818/rechtspraak-waarschuwt-maak-nooit-telefonisch-geld-over-naar-rechtbank.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6216816,
-    "slug": "incident-bij-viaduct-haaksbergen-geen-misdrijf-maar-waarschijnlijk-zelfdoding",
-    "type": "article",
-    "title": "Incident bij viaduct Haaksbergen geen misdrijf, maar waarschijnlijk zelfdoding",
-    "subtitle": null,
-    "published_at": "2022-08-09T18:07:04+02:00",
-    "updated_at": "2022-08-09T18:23:47+02:00",
-    "media_id": "hfjxbcca1icb",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6216816/incident-bij-viaduct-haaksbergen-geen-misdrijf-maar-waarschijnlijk-zelfdoding.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6216807,
-    "slug": "de-hoogtepunten-van-23-voudig-grand-slam-winnares-serena-williams",
-    "type": "article",
-    "title": "De hoogtepunten van 23-voudig Grand Slam-winnares Serena Williams",
-    "subtitle": "In beeld",
-    "published_at": "2022-08-09T17:56:06+02:00",
-    "updated_at": "2022-08-09T17:56:07+02:00",
-    "media_id": "t8oxa2rasdp6",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772432,
-      "slug": "tennis",
-      "type": "default",
-      "name": "Tennis",
-      "style": "nusport",
-      "media_id": "m1oxohpan0gq",
-      "partner": null
-    },
-    "url": "/tennis/6216807/de-hoogtepunten-van-23-voudig-grand-slam-winnares-serena-williams.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6216805,
-    "slug": "brandweer-massaal-uitgerukt-voor-grote-brand-in-duingebied-bij-brouwersdam",
-    "type": "article",
-    "title": "Brandweer massaal uitgerukt voor grote brand in duingebied bij Brouwersdam",
-    "subtitle": null,
-    "published_at": "2022-08-09T17:52:22+02:00",
-    "updated_at": "2022-08-09T20:33:06+02:00",
-    "media_id": "400x75jarxaq",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6216805/brandweer-massaal-uitgerukt-voor-grote-brand-in-duingebied-bij-brouwersdam.html",
     "open_new_window": false,
     "partner": null
   }
