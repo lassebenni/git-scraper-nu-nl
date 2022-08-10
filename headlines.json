@@ -1,5 +1,28 @@
 [
   {
+    "id": 6216884,
+    "slug": "vliegtuigje-stort-neer-op-snelweg-bij-los-angeles",
+    "type": "video",
+    "title": "Vliegtuigje stort neer op snelweg bij Los Angeles",
+    "subtitle": "Video",
+    "published_at": "2022-08-10T08:50:10+02:00",
+    "updated_at": "2022-08-10T08:50:11+02:00",
+    "media_id": "t1bxs2waxo07",
+    "duration": "0:37",
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6216884/vliegtuigje-stort-neer-op-snelweg-bij-los-angeles.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6216882,
     "slug": "van-de-zandschulp-stuit-op-wimbledon-revelatie-norrie-na-zege-in-montreal",
     "type": "article",
@@ -139,12 +162,12 @@
   },
   {
     "id": 6216875,
-    "slug": "oekraine-zeker-21-doden-bij-beschietingen-in-regio-dnipropetrovsk",
+    "slug": "oekraine-zeker-elf-doden-bij-beschietingen-in-regio-dnipropetrovsk",
     "type": "article",
-    "title": "Oekraïne: Zeker 21 doden bij beschietingen in regio Dnipropetrovsk",
+    "title": "Oekraïne: Zeker elf doden bij beschietingen in regio Dnipropetrovsk",
     "subtitle": null,
     "published_at": "2022-08-10T07:31:13+02:00",
-    "updated_at": "2022-08-10T07:50:37+02:00",
+    "updated_at": "2022-08-10T08:45:55+02:00",
     "media_id": "91sxh2faoz0x",
     "duration": null,
     "canonical_section": {
@@ -156,7 +179,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/spanningen-oekraine/6216875/oekraine-zeker-21-doden-bij-beschietingen-in-regio-dnipropetrovsk.html",
+    "url": "/spanningen-oekraine/6216875/oekraine-zeker-elf-doden-bij-beschietingen-in-regio-dnipropetrovsk.html",
     "open_new_window": false,
     "partner": null
   },
@@ -277,24 +300,24 @@
   },
   {
     "id": 6216867,
-    "slug": "acteur-fred-savage-beschuldigd-van-aanranding-en-intimidatie",
+    "slug": "acteur-fred-savage-ontslagen-na-beschuldigingen-van-aanranding-en-intimidatie",
     "type": "article",
-    "title": "Acteur Fred Savage beschuldigd van aanranding en intimidatie",
+    "title": "Acteur Fred Savage ontslagen na beschuldigingen van aanranding en intimidatie",
     "subtitle": null,
     "published_at": "2022-08-10T06:54:03+02:00",
-    "updated_at": "2022-08-10T07:27:40+02:00",
+    "updated_at": "2022-08-10T08:35:38+02:00",
     "media_id": "ik2x1dsas5rm",
     "duration": null,
     "canonical_section": {
-      "id": 125,
-      "slug": "achterklap",
+      "id": 1775009,
+      "slug": "metoo",
       "type": "default",
-      "name": "Achterklap",
-      "style": "nuentertainment",
-      "media_id": null,
+      "name": "#metoo",
+      "style": "nu",
+      "media_id": "m1mxmqea7g3b",
       "partner": null
     },
-    "url": "/achterklap/6216867/acteur-fred-savage-beschuldigd-van-aanranding-en-intimidatie.html",
+    "url": "/metoo/6216867/acteur-fred-savage-ontslagen-na-beschuldigingen-van-aanranding-en-intimidatie.html",
     "open_new_window": false,
     "partner": null
   },
@@ -558,7 +581,7 @@
     "title": "Een hittegolf en torenhoge stroomprijzen, maar nog geen bespaarplan airco's",
     "subtitle": null,
     "published_at": "2022-08-10T00:02:48+02:00",
-    "updated_at": "2022-08-10T08:34:58+02:00",
+    "updated_at": "2022-08-10T08:44:09+02:00",
     "media_id": "s1qxoo3ahp6h",
     "duration": null,
     "canonical_section": {
@@ -663,29 +686,6 @@
       "partner": null
     },
     "url": "/buitenland/6216856/deze-plekken-in-europa-hebben-last-van-de-extreme-droogte.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6216855,
-    "slug": "van-bronckhorst-bereikt-play-offs-cl-met-rangers-dankzij-ruime-zege-op-union",
-    "type": "article",
-    "title": "Van Bronckhorst bereikt play-offs CL met Rangers dankzij ruime zege op Union",
-    "subtitle": null,
-    "published_at": "2022-08-09T22:41:20+02:00",
-    "updated_at": "2022-08-09T23:48:27+02:00",
-    "media_id": "hbwx8bkap27d",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772488,
-      "slug": "champions-league",
-      "type": "default",
-      "name": "Champions League",
-      "style": "nusport",
-      "media_id": "fkdxrdfanwfa",
-      "partner": null
-    },
-    "url": "/champions-league/6216855/van-bronckhorst-bereikt-play-offs-cl-met-rangers-dankzij-ruime-zege-op-union.html",
     "open_new_window": false,
     "partner": null
   }
