@@ -1,13 +1,59 @@
 [
   {
+    "id": 6217081,
+    "slug": "nooit-een-zweetsnor-in-het-journaal-zo-blijven-televisieverslaggevers-fris",
+    "type": "article",
+    "title": "Nooit een zweetsnor in het journaal: zo blijven televisieverslaggevers fris",
+    "subtitle": null,
+    "published_at": "2022-08-11T11:29:23+02:00",
+    "updated_at": "2022-08-11T11:29:23+02:00",
+    "media_id": "w9kxt7qa57k0",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771675,
+      "slug": "media",
+      "type": "default",
+      "name": "Media",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/media/6217081/nooit-een-zweetsnor-in-het-journaal-zo-blijven-televisieverslaggevers-fris.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6217124,
+    "slug": "vrachtwagen-vol-bier-kantelt-op-amerikaanse-snelweg",
+    "type": "video",
+    "title": "Vrachtwagen vol bier kantelt op Amerikaanse snelweg",
+    "subtitle": "Video",
+    "published_at": "2022-08-11T11:21:56+02:00",
+    "updated_at": "2022-08-11T11:21:56+02:00",
+    "media_id": "tpax24aacg69",
+    "duration": "0:31",
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6217124/vrachtwagen-vol-bier-kantelt-op-amerikaanse-snelweg.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6217102,
     "slug": "boer-die-afval-dumpte-op-a18-krijgt-taakstraf-van-tachtig-uur",
     "type": "article",
     "title": "Boer die afval dumpte op A18 krijgt taakstraf van tachtig uur",
     "subtitle": null,
     "published_at": "2022-08-11T10:32:43+02:00",
-    "updated_at": "2022-08-11T11:07:57+02:00",
-    "media_id": "yyxxb2ba1ax2",
+    "updated_at": "2022-08-11T11:26:42+02:00",
+    "media_id": "ee5xx3ma7b7l",
     "duration": null,
     "canonical_section": {
       "id": 1771435,
@@ -98,7 +144,7 @@
     "title": "Aanpak stikstofcrisis leidt volgens ForFarmers-topman tot gepolariseerd debat",
     "subtitle": null,
     "published_at": "2022-08-11T10:02:58+02:00",
-    "updated_at": "2022-08-11T10:02:59+02:00",
+    "updated_at": "2022-08-11T11:31:32+02:00",
     "media_id": "awxx1ezazte6",
     "duration": null,
     "canonical_section": {
@@ -640,52 +686,6 @@
       "partner": null
     },
     "url": "/muziek/6216131/nielson-vond-beste-zangers-een-tranentrekshow-en-zei-daarom-eerder-nee.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6216949,
-    "slug": "hoeveel-hitte-kan-een-mens-verdragen",
-    "type": "video",
-    "title": "Hoeveel hitte kan een mens verdragen?",
-    "subtitle": "Video",
-    "published_at": "2022-08-11T06:00:49+02:00",
-    "updated_at": "2022-08-11T06:00:50+02:00",
-    "media_id": "lyhxwcqa2jo0",
-    "duration": "2:00",
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6216949/hoeveel-hitte-kan-een-mens-verdragen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6216953,
-    "slug": "moordende-concurrentie-flitskoeriers-en-maaltijdbezorgers-eist-slachtoffers",
-    "type": "article",
-    "title": "Moordende concurrentie flitskoeriers en maaltijdbezorgers eist slachtoffers",
-    "subtitle": null,
-    "published_at": "2022-08-11T06:00:21+02:00",
-    "updated_at": "2022-08-11T06:00:22+02:00",
-    "media_id": "7mmxv8kata7t",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6216953/moordende-concurrentie-flitskoeriers-en-maaltijdbezorgers-eist-slachtoffers.html",
     "open_new_window": false,
     "partner": null
   }
