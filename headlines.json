@@ -1,28 +1,5 @@
 [
   {
-    "id": 6217135,
-    "slug": "noord-koreanen-applaudisseren-voor-overwinning-op-corona",
-    "type": "video",
-    "title": "Noord-Koreanen applaudisseren voor ‘overwinning op corona’",
-    "subtitle": "Video",
-    "published_at": "2022-08-11T12:17:19+02:00",
-    "updated_at": "2022-08-11T12:17:20+02:00",
-    "media_id": "k5hx71raxvmx",
-    "duration": "0:45",
-    "canonical_section": {
-      "id": 100,
-      "slug": "algemeen",
-      "type": "default",
-      "name": "Algemeen",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/algemeen/6217135/noord-koreanen-applaudisseren-voor-overwinning-op-corona.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
     "id": 6217130,
     "slug": "ryanair-neemt-reizigers-niet-langer-voor-een-schijntje-mee",
     "type": "article",
@@ -259,7 +236,7 @@
     "title": "A$AP Rocky aangeklaagd door slachtoffer schietpartij in Los Angeles",
     "subtitle": null,
     "published_at": "2022-08-11T10:29:01+02:00",
-    "updated_at": "2022-08-11T10:39:36+02:00",
+    "updated_at": "2022-08-11T12:49:04+02:00",
     "media_id": "ye8xqibaciol",
     "duration": null,
     "canonical_section": {
@@ -686,6 +663,29 @@
       "partner": null
     },
     "url": "/tennis/6217058/van-de-zandschulp-kan-bij-masters-toernooi-in-montreal-niet-stunten-tegen-norrie.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6217060,
+    "slug": "marcus-mumford-zingt-op-nieuw-album-over-seksueel-misbruik-in-jeugd",
+    "type": "article",
+    "title": "Marcus Mumford zingt op nieuw album over seksueel misbruik in jeugd",
+    "subtitle": null,
+    "published_at": "2022-08-11T07:20:49+02:00",
+    "updated_at": "2022-08-11T07:51:55+02:00",
+    "media_id": "7x0xl0ra3kd6",
+    "duration": null,
+    "canonical_section": {
+      "id": 868281,
+      "slug": "muziek",
+      "type": "default",
+      "name": "Muziek",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/muziek/6217060/marcus-mumford-zingt-op-nieuw-album-over-seksueel-misbruik-in-jeugd.html",
     "open_new_window": false,
     "partner": null
   }
