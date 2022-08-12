@@ -1,5 +1,51 @@
 [
   {
+    "id": 6217374,
+    "slug": "duivelsverzen-auteur-salman-rushdie-aangevallen-op-podium-in-staat-new-york",
+    "type": "article",
+    "title": "Duivelsverzen-auteur Salman Rushdie aangevallen op podium in staat New York",
+    "subtitle": null,
+    "published_at": "2022-08-12T17:14:42+02:00",
+    "updated_at": "2022-08-12T17:34:26+02:00",
+    "media_id": "h21xwm8as9y0",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6217374/duivelsverzen-auteur-salman-rushdie-aangevallen-op-podium-in-staat-new-york.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6217373,
+    "slug": "miljoenenjacht-gaat-in-vlammen-op-voor-spaanse-kust",
+    "type": "video",
+    "title": "Miljoenenjacht gaat in vlammen op voor Spaanse kust",
+    "subtitle": "Video",
+    "published_at": "2022-08-12T17:13:08+02:00",
+    "updated_at": "2022-08-12T17:16:18+02:00",
+    "media_id": "pskxcsea9jqz",
+    "duration": "0:45",
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6217373/miljoenenjacht-gaat-in-vlammen-op-voor-spaanse-kust.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6217294,
     "slug": "hoe-wordt-het-weer-gemeten-en-wat-zijn-weerstations",
     "type": "article",
@@ -52,7 +98,7 @@
     "title": "Kickbokskampioen Van Roosmalen beëindigt loopbaan na tragisch auto-ongeluk",
     "subtitle": null,
     "published_at": "2022-08-12T16:39:50+02:00",
-    "updated_at": "2022-08-12T16:40:09+02:00",
+    "updated_at": "2022-08-12T17:14:26+02:00",
     "media_id": "3ulxbw8ay53g",
     "duration": null,
     "canonical_section": {
@@ -640,52 +686,6 @@
       "partner": null
     },
     "url": "/sport-overig/6217291/gemengde-estafetteploeg-als-snelste-naar-ek-finale-op-4x100-meter-wisselslag.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6217285,
-    "slug": "cyberone-is-de-eerste-mensachtige-robot-van-xiaomi",
-    "type": "article",
-    "title": "CyberOne is de eerste mensachtige robot van Xiaomi",
-    "subtitle": null,
-    "published_at": "2022-08-12T10:55:25+02:00",
-    "updated_at": "2022-08-12T10:55:43+02:00",
-    "media_id": "p06x46pa6qcd",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771438,
-      "slug": "tech",
-      "type": "default",
-      "name": "Tech",
-      "style": "nutech",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/tech/6217285/cyberone-is-de-eerste-mensachtige-robot-van-xiaomi.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6217272,
-    "slug": "griekspoor-is-nog-niet-fit-na-corona-en-stelt-rentree-weer-uit-richting-us-open",
-    "type": "article",
-    "title": "Griekspoor is nog niet fit na corona en stelt rentree weer uit richting US Open",
-    "subtitle": null,
-    "published_at": "2022-08-12T10:24:33+02:00",
-    "updated_at": "2022-08-12T10:35:50+02:00",
-    "media_id": "379xk2vawoyx",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772432,
-      "slug": "tennis",
-      "type": "default",
-      "name": "Tennis",
-      "style": "nusport",
-      "media_id": "m1oxohpan0gq",
-      "partner": null
-    },
-    "url": "/tennis/6217272/griekspoor-is-nog-niet-fit-na-corona-en-stelt-rentree-weer-uit-richting-us-open.html",
     "open_new_window": false,
     "partner": null
   }
