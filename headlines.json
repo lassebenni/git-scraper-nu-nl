@@ -1,12 +1,35 @@
 [
   {
+    "id": 6217294,
+    "slug": "hoe-wordt-het-weer-gemeten-en-wat-zijn-weerstations",
+    "type": "article",
+    "title": "Hoe wordt het weer gemeten en wat zijn weerstations?",
+    "subtitle": "Lezersvraag",
+    "published_at": "2022-08-12T17:00:51+02:00",
+    "updated_at": "2022-08-12T17:00:53+02:00",
+    "media_id": "bflx76yambkr",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6217294/hoe-wordt-het-weer-gemeten-en-wat-zijn-weerstations.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6217365,
     "slug": "ruim-300-medewerkers-tiktok-en-bytedance-werkten-voor-chinese-staatsmedia",
     "type": "article",
     "title": "Ruim 300 medewerkers TikTok en ByteDance werkten voor Chinese staatsmedia",
     "subtitle": null,
     "published_at": "2022-08-12T16:45:48+02:00",
-    "updated_at": "2022-08-12T16:45:49+02:00",
+    "updated_at": "2022-08-12T16:49:55+02:00",
     "media_id": "hinxpi6amqzf",
     "duration": null,
     "canonical_section": {
@@ -52,8 +75,8 @@
     "title": "Groenewegen sprint in Noorwegen naar zevende seizoensoverwinning",
     "subtitle": null,
     "published_at": "2022-08-12T16:25:18+02:00",
-    "updated_at": "2022-08-12T16:40:48+02:00",
-    "media_id": "zq1xydxata7n",
+    "updated_at": "2022-08-12T16:51:40+02:00",
+    "media_id": "v2txa73af2ct",
     "duration": null,
     "canonical_section": {
       "id": 1772339,
@@ -75,7 +98,7 @@
     "title": "Feyenoord en Benfica onderhandelen volgens Slot niet (meer) over Aursnes",
     "subtitle": null,
     "published_at": "2022-08-12T16:20:20+02:00",
-    "updated_at": "2022-08-12T16:40:38+02:00",
+    "updated_at": "2022-08-12T17:08:10+02:00",
     "media_id": "meyx7ysa9dn8",
     "duration": null,
     "canonical_section": {
@@ -663,29 +686,6 @@
       "partner": null
     },
     "url": "/tennis/6217272/griekspoor-is-nog-niet-fit-na-corona-en-stelt-rentree-weer-uit-richting-us-open.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6217280,
-    "slug": "vlammen-slaan-uit-strandtent-in-rockanje",
-    "type": "video",
-    "title": "Vlammen slaan uit strandtent in Rockanje",
-    "subtitle": "Video",
-    "published_at": "2022-08-12T10:21:12+02:00",
-    "updated_at": "2022-08-12T13:01:22+02:00",
-    "media_id": "dvjxgaha9nsh",
-    "duration": "0:45",
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6217280/vlammen-slaan-uit-strandtent-in-rockanje.html",
     "open_new_window": false,
     "partner": null
   }
