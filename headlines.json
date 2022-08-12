@@ -1,5 +1,51 @@
 [
   {
+    "id": 6217396,
+    "slug": "duitsland-en-polen-onderzoeken-massale-vissterfte-in-rivier-de-oder",
+    "type": "article",
+    "title": "Duitsland en Polen onderzoeken massale vissterfte in rivier de Oder",
+    "subtitle": null,
+    "published_at": "2022-08-12T19:45:44+02:00",
+    "updated_at": "2022-08-12T19:45:44+02:00",
+    "media_id": "u54xd6can5rz",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772536,
+      "slug": "dieren",
+      "type": "default",
+      "name": "Dieren",
+      "style": "nunjij",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/dieren/6217396/duitsland-en-polen-onderzoeken-massale-vissterfte-in-rivier-de-oder.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6217395,
+    "slug": "omstanders-helpen-rushdie-nadat-hij-op-podium-werd-neergestoken",
+    "type": "video",
+    "title": "Omstanders helpen Rushdie nadat hij op podium werd neergestoken",
+    "subtitle": "Video",
+    "published_at": "2022-08-12T19:34:46+02:00",
+    "updated_at": "2022-08-12T19:35:29+02:00",
+    "media_id": "93zxda6a81if",
+    "duration": "0:44",
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6217395/omstanders-helpen-rushdie-nadat-hij-op-podium-werd-neergestoken.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6217378,
     "slug": "excelsior-wil-goede-seizoensstart-vervolgen-tegen-vitesse",
     "type": "article",
@@ -29,7 +75,7 @@
     "title": "Miedema maakt kans op Gouden Bal, Gravenberch genomineerd voor talentenprijs",
     "subtitle": null,
     "published_at": "2022-08-12T18:57:12+02:00",
-    "updated_at": "2022-08-12T19:32:46+02:00",
+    "updated_at": "2022-08-12T19:40:12+02:00",
     "media_id": "h49x37sa25u5",
     "duration": null,
     "canonical_section": {
@@ -52,7 +98,7 @@
     "title": "Steenbergen beleeft grote doorbaak met EK-goud: 'Was altijd de derde zwemster'",
     "subtitle": null,
     "published_at": "2022-08-12T18:47:21+02:00",
-    "updated_at": "2022-08-12T19:00:39+02:00",
+    "updated_at": "2022-08-12T19:37:08+02:00",
     "media_id": "0luxu32asglh",
     "duration": null,
     "canonical_section": {
@@ -640,52 +686,6 @@
       "partner": null
     },
     "url": "/binnenland/6217345/zeven-jaar-cel-en-tbs-voor-neersteken-agent-in-groningen-bij-avondklokcontrole.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6217335,
-    "slug": "gemeenten-niet-blij-met-opdracht-voor-5600-extra-plekken-voor-asielzoekers",
-    "type": "article",
-    "title": "Gemeenten niet blij met opdracht voor 5.600 extra plekken voor asielzoekers",
-    "subtitle": null,
-    "published_at": "2022-08-12T14:04:00+02:00",
-    "updated_at": "2022-08-12T14:54:40+02:00",
-    "media_id": "638x9bba9ixo",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6217335/gemeenten-niet-blij-met-opdracht-voor-5600-extra-plekken-voor-asielzoekers.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6217339,
-    "slug": "drone-filmt-hoe-nieuw-zeeland-eerste-cruiseschip-sinds-corona-onthaalt",
-    "type": "video",
-    "title": "Drone filmt hoe Nieuw-Zeeland eerste cruiseschip sinds corona onthaalt",
-    "subtitle": "Video",
-    "published_at": "2022-08-12T13:58:01+02:00",
-    "updated_at": "2022-08-12T13:58:02+02:00",
-    "media_id": "17hxpeca0fce",
-    "duration": "0:42",
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6217339/drone-filmt-hoe-nieuw-zeeland-eerste-cruiseschip-sinds-corona-onthaalt.html",
     "open_new_window": false,
     "partner": null
   }
