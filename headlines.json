@@ -1,12 +1,35 @@
 [
   {
+    "id": 6217567,
+    "slug": "windhozen-laten-parasols-vliegen-op-nederlandse-stranden",
+    "type": "video",
+    "title": "Windhozen laten parasols vliegen op Nederlandse stranden",
+    "subtitle": "Video",
+    "published_at": "2022-08-13T22:20:01+02:00",
+    "updated_at": "2022-08-13T22:24:11+02:00",
+    "media_id": "yp6xrenawwdc",
+    "duration": "0:35",
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6217567/windhozen-laten-parasols-vliegen-op-nederlandse-stranden.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6217566,
-    "slug": "van-nistelrooij-is-blij-dat-psv-niet-diep-hoefde-te-gaan-met-oog-op-duel-met-rangers",
+    "slug": "van-nistelrooij-is-blij-dat-psv-spelers-kon-sparen-met-oog-op-duel-met-rangers",
     "type": "article",
-    "title": "Van Nistelrooij is blij dat PSV niet diep hoefde te gaan met oog op duel met Rangers",
+    "title": "Van Nistelrooij is blij dat PSV spelers kon sparen met oog op duel met Rangers",
     "subtitle": null,
     "published_at": "2022-08-13T22:07:07+02:00",
-    "updated_at": "2022-08-13T22:10:02+02:00",
+    "updated_at": "2022-08-13T22:15:20+02:00",
     "media_id": "216xoj6alggm",
     "duration": null,
     "canonical_section": {
@@ -18,7 +41,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6217566/van-nistelrooij-is-blij-dat-psv-niet-diep-hoefde-te-gaan-met-oog-op-duel-met-rangers.html",
+    "url": "/voetbal/6217566/van-nistelrooij-is-blij-dat-psv-spelers-kon-sparen-met-oog-op-duel-met-rangers.html",
     "open_new_window": false,
     "partner": null
   },
@@ -29,7 +52,7 @@
     "title": "Utrecht thuis niet langs Cambuur, RKC pakt op de valreep punt bij Emmen",
     "subtitle": null,
     "published_at": "2022-08-13T22:02:20+02:00",
-    "updated_at": "2022-08-13T22:04:24+02:00",
+    "updated_at": "2022-08-13T22:20:00+02:00",
     "media_id": "y45xbcya1a9f",
     "duration": null,
     "canonical_section": {
@@ -512,7 +535,7 @@
     "title": "Van Bronckhorst boekt ruime zege met Rangers in aanloop naar duel met PSV",
     "subtitle": null,
     "published_at": "2022-08-13T18:11:32+02:00",
-    "updated_at": "2022-08-13T18:24:07+02:00",
+    "updated_at": "2022-08-13T22:22:41+02:00",
     "media_id": "1npxn4qax4ht",
     "duration": null,
     "canonical_section": {
@@ -530,12 +553,12 @@
   },
   {
     "id": 6217538,
-    "slug": "feyenoord-na-rust-op-zoek-naar-openingsgoal-tegen-heerenveen",
+    "slug": "feyenoord-na-rust-op-zoek-naar-1-0-tegen-heerenveen",
     "type": "article",
-    "title": "Feyenoord na rust op zoek naar openingsgoal tegen Heerenveen",
+    "title": "Feyenoord na rust op zoek naar 1-0 tegen Heerenveen",
     "subtitle": "Liveblog Eredivisie",
     "published_at": "2022-08-13T17:59:52+02:00",
-    "updated_at": "2022-08-13T22:07:28+02:00",
+    "updated_at": "2022-08-13T22:16:04+02:00",
     "media_id": "culxrbkatsd7",
     "duration": null,
     "canonical_section": {
@@ -547,7 +570,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6217538/feyenoord-na-rust-op-zoek-naar-openingsgoal-tegen-heerenveen.html",
+    "url": "/voetbal/6217538/feyenoord-na-rust-op-zoek-naar-1-0-tegen-heerenveen.html",
     "open_new_window": false,
     "partner": null
   },
@@ -663,29 +686,6 @@
       "partner": null
     },
     "url": "/buitenland/6217539/amnesty-laat-bekritiseerde-rapport-over-oekraine-bekijken-door-experts.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6217537,
-    "slug": "verdachte-neersteken-salman-rushdie-verdacht-van-poging-tot-doodslag",
-    "type": "article",
-    "title": "Verdachte neersteken Salman Rushdie verdacht van poging tot doodslag",
-    "subtitle": null,
-    "published_at": "2022-08-13T17:10:36+02:00",
-    "updated_at": "2022-08-13T21:55:52+02:00",
-    "media_id": "34cxookafccj",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6217537/verdachte-neersteken-salman-rushdie-verdacht-van-poging-tot-doodslag.html",
     "open_new_window": false,
     "partner": null
   }
