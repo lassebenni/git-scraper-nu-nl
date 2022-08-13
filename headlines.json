@@ -1,12 +1,58 @@
 [
   {
-    "id": 6217537,
-    "slug": "aanvaller-salman-rushdie-steunt-volgens-media-vs-sjiitisch-extremisme",
+    "id": 6217541,
+    "slug": "werner-scoort-bij-rentree-voor-leipzig-leverkusen-opnieuw-onderuit",
     "type": "article",
-    "title": "Aanvaller Salman Rushdie steunt volgens media VS sjiitisch extremisme",
+    "title": "Werner scoort bij rentree voor Leipzig, Leverkusen opnieuw onderuit",
+    "subtitle": null,
+    "published_at": "2022-08-13T17:31:20+02:00",
+    "updated_at": "2022-08-13T17:31:21+02:00",
+    "media_id": "e8qxuupah23h",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6217541/werner-scoort-bij-rentree-voor-leipzig-leverkusen-opnieuw-onderuit.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6217539,
+    "slug": "amnesty-laat-bekritiseerde-rapport-over-oekraine-bekijken-door-experts",
+    "type": "article",
+    "title": "Amnesty laat bekritiseerde rapport over Oekraïne bekijken door experts",
+    "subtitle": null,
+    "published_at": "2022-08-13T17:25:00+02:00",
+    "updated_at": "2022-08-13T17:28:09+02:00",
+    "media_id": "4byxtoqaa9nx",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6217539/amnesty-laat-bekritiseerde-rapport-over-oekraine-bekijken-door-experts.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6217537,
+    "slug": "aanvaller-salman-rushdie-steunt-volgens-amerikaanse-media-sjiitisch-extremisme",
+    "type": "article",
+    "title": "Aanvaller Salman Rushdie steunt volgens Amerikaanse media sjiitisch extremisme",
     "subtitle": null,
     "published_at": "2022-08-13T17:10:36+02:00",
-    "updated_at": "2022-08-13T17:10:37+02:00",
+    "updated_at": "2022-08-13T17:15:21+02:00",
     "media_id": "34cxookafccj",
     "duration": null,
     "canonical_section": {
@@ -18,7 +64,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/buitenland/6217537/aanvaller-salman-rushdie-steunt-volgens-media-vs-sjiitisch-extremisme.html",
+    "url": "/buitenland/6217537/aanvaller-salman-rushdie-steunt-volgens-amerikaanse-media-sjiitisch-extremisme.html",
     "open_new_window": false,
     "partner": null
   },
@@ -640,52 +686,6 @@
       "partner": null
     },
     "url": "/sport-overig/6217460/steenbergen-plaatst-zich-dag-na-ek-goud-voor-halve-eindstrijd-op-200-vrij.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6217455,
-    "slug": "nyck-de-vries-valt-uit-na-opmerkelijke-crash-met-acht-autos-in-formule-e",
-    "type": "article",
-    "title": "Nyck de Vries valt uit na opmerkelijke crash met acht auto's in Formule E",
-    "subtitle": null,
-    "published_at": "2022-08-13T10:16:21+02:00",
-    "updated_at": "2022-08-13T16:28:47+02:00",
-    "media_id": "vq5xq8ja2gv2",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772456,
-      "slug": "sport-overig",
-      "type": "default",
-      "name": "Sport Overig",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/sport-overig/6217455/nyck-de-vries-valt-uit-na-opmerkelijke-crash-met-acht-autos-in-formule-e.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6217452,
-    "slug": "landelijke-hittegolf-een-feit-na-het-weekend-koelt-het-af-en-is-er-kans-op-onweer",
-    "type": "article",
-    "title": "Landelijke hittegolf een feit, na het weekend koelt het af en is er kans op onweer",
-    "subtitle": null,
-    "published_at": "2022-08-13T10:15:32+02:00",
-    "updated_at": "2022-08-13T10:38:36+02:00",
-    "media_id": "2l1xueoaoo1l",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6217452/landelijke-hittegolf-een-feit-na-het-weekend-koelt-het-af-en-is-er-kans-op-onweer.html",
     "open_new_window": false,
     "partner": null
   }
