@@ -1,5 +1,28 @@
 [
   {
+    "id": 6217434,
+    "slug": "brandweer-redt-man-uit-geheime-tunnel-in-rome",
+    "type": "video",
+    "title": "Brandweer redt man uit geheime tunnel in Rome",
+    "subtitle": "Video",
+    "published_at": "2022-08-13T08:33:35+02:00",
+    "updated_at": "2022-08-13T08:33:36+02:00",
+    "media_id": "a6kx8eja0av4",
+    "duration": "0:44",
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6217434/brandweer-redt-man-uit-geheime-tunnel-in-rome.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6217432,
     "slug": "dode-en-21-gewonden-bij-spaans-festival-medusa-door-hevige-zandstorm",
     "type": "article",
@@ -185,12 +208,12 @@
   },
   {
     "id": 6217428,
-    "slug": "hooggerechtshof-amerikaanse-staat-idaho-laat-antiabortuswet-doorgaan",
+    "slug": "idaho-is-tweede-amerikaanse-staat-die-antiabortuswet-definitief-invoert",
     "type": "article",
-    "title": "Hooggerechtshof Amerikaanse staat Idaho laat antiabortuswet doorgaan",
+    "title": "Idaho is tweede Amerikaanse staat die antiabortuswet definitief invoert",
     "subtitle": null,
     "published_at": "2022-08-13T05:28:03+02:00",
-    "updated_at": "2022-08-13T07:39:42+02:00",
+    "updated_at": "2022-08-13T08:31:14+02:00",
     "media_id": "hf5x6t0adopu",
     "duration": null,
     "canonical_section": {
@@ -202,7 +225,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/buitenland/6217428/hooggerechtshof-amerikaanse-staat-idaho-laat-antiabortuswet-doorgaan.html",
+    "url": "/buitenland/6217428/idaho-is-tweede-amerikaanse-staat-die-antiabortuswet-definitief-invoert.html",
     "open_new_window": false,
     "partner": null
   },
@@ -466,7 +489,7 @@
     "title": "Man schiet elf voorbijgangers dood in Montenegro na familieruzie",
     "subtitle": null,
     "published_at": "2022-08-12T21:12:11+02:00",
-    "updated_at": "2022-08-12T22:02:15+02:00",
+    "updated_at": "2022-08-13T08:23:20+02:00",
     "media_id": "rmrx9eca1yrr",
     "duration": null,
     "canonical_section": {
@@ -663,29 +686,6 @@
       "partner": null
     },
     "url": "/dieren/6217396/duitsland-en-polen-onderzoeken-massale-vissterfte-in-rivier-de-oder.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6217395,
-    "slug": "omstanders-helpen-rushdie-nadat-hij-op-podium-werd-neergestoken",
-    "type": "video",
-    "title": "Omstanders helpen Rushdie nadat hij op podium werd neergestoken",
-    "subtitle": "Video",
-    "published_at": "2022-08-12T19:34:46+02:00",
-    "updated_at": "2022-08-12T19:35:29+02:00",
-    "media_id": "93zxda6a81if",
-    "duration": "0:44",
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6217395/omstanders-helpen-rushdie-nadat-hij-op-podium-werd-neergestoken.html",
     "open_new_window": false,
     "partner": null
   }
