@@ -1,12 +1,35 @@
 [
   {
+    "id": 6217699,
+    "slug": "blusvliegtuigen-in-actie-tegen-bosbrand-spanje",
+    "type": "video",
+    "title": "Blusvliegtuigen in actie tegen bosbrand Spanje",
+    "subtitle": "Video",
+    "published_at": "2022-08-14T20:34:01+02:00",
+    "updated_at": "2022-08-14T20:34:02+02:00",
+    "media_id": "vbhxdvdajd5f",
+    "duration": "0:41",
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6217699/blusvliegtuigen-in-actie-tegen-bosbrand-spanje.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6217698,
     "slug": "honderden-mensen-in-noordoost-spanje-geevacueerd-vanwege-bosbrand",
     "type": "article",
     "title": "Honderden mensen in Noordoost-Spanje geëvacueerd vanwege bosbrand",
     "subtitle": null,
     "published_at": "2022-08-14T20:22:05+02:00",
-    "updated_at": "2022-08-14T20:33:00+02:00",
+    "updated_at": "2022-08-14T20:34:35+02:00",
     "media_id": "quzxfocace71",
     "duration": null,
     "canonical_section": {
@@ -29,7 +52,7 @@
     "title": "Managers Tuchel en Conte ruzieën na afloop van Chelsea-Tottenham",
     "subtitle": "Video",
     "published_at": "2022-08-14T20:17:49+02:00",
-    "updated_at": "2022-08-14T20:27:20+02:00",
+    "updated_at": "2022-08-14T20:35:09+02:00",
     "media_id": "893x1taa2e71",
     "duration": "1:29",
     "canonical_section": {
@@ -47,12 +70,12 @@
   },
   {
     "id": 6217695,
-    "slug": "bayern-munchen-wint-zonder-de-ligt-ook-tweede-competitieduel-met-overmacht",
+    "slug": "bayern-wint-weer-zonder-de-ligt-fiorentina-met-nipte-zege-richting-twente",
     "type": "article",
-    "title": "Bayern München wint zonder De Ligt ook tweede competitieduel met overmacht",
+    "title": "Bayern wint weer zonder De Ligt, Fiorentina met nipte zege richting Twente",
     "subtitle": null,
     "published_at": "2022-08-14T19:39:24+02:00",
-    "updated_at": "2022-08-14T20:21:50+02:00",
+    "updated_at": "2022-08-14T20:45:51+02:00",
     "media_id": "eawx14dagvml",
     "duration": null,
     "canonical_section": {
@@ -64,7 +87,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6217695/bayern-munchen-wint-zonder-de-ligt-ook-tweede-competitieduel-met-overmacht.html",
+    "url": "/voetbal/6217695/bayern-wint-weer-zonder-de-ligt-fiorentina-met-nipte-zege-richting-twente.html",
     "open_new_window": false,
     "partner": null
   },
@@ -139,12 +162,12 @@
   },
   {
     "id": 6217686,
-    "slug": "van-bommel-wint-dankzij-eigen-goal-opnieuw-met-antwerp-en-blijft-koploper",
+    "slug": "van-bommel-wint-weer-met-koploper-antwerp-lang-scoort-bij-zege-club-brugge",
     "type": "article",
-    "title": "Van Bommel wint dankzij eigen goal opnieuw met Antwerp en blijft koploper",
+    "title": "Van Bommel wint weer met koploper Antwerp, Lang scoort bij zege Club Brugge",
     "subtitle": null,
     "published_at": "2022-08-14T17:59:26+02:00",
-    "updated_at": "2022-08-14T18:11:14+02:00",
+    "updated_at": "2022-08-14T20:48:33+02:00",
     "media_id": "vegxpdfa2cy8",
     "duration": null,
     "canonical_section": {
@@ -156,7 +179,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6217686/van-bommel-wint-dankzij-eigen-goal-opnieuw-met-antwerp-en-blijft-koploper.html",
+    "url": "/voetbal/6217686/van-bommel-wint-weer-met-koploper-antwerp-lang-scoort-bij-zege-club-brugge.html",
     "open_new_window": false,
     "partner": null
   },
@@ -663,29 +686,6 @@
       "partner": null
     },
     "url": "/cultuur-overig/6217643/politie-onderzoekt-dreigement-jegens-jk-rowling-na-tweet-over-rushdie.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6217634,
-    "slug": "dode-en-zeker-20-gewonden-bij-explosies-in-winkelcentrum-armeense-hoofdstad",
-    "type": "article",
-    "title": "Dode en zeker 20 gewonden bij explosies in winkelcentrum Armeense hoofdstad",
-    "subtitle": null,
-    "published_at": "2022-08-14T13:32:54+02:00",
-    "updated_at": "2022-08-14T14:01:01+02:00",
-    "media_id": "8l9xul5alris",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6217634/dode-en-zeker-20-gewonden-bij-explosies-in-winkelcentrum-armeense-hoofdstad.html",
     "open_new_window": false,
     "partner": null
   }
