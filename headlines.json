@@ -1,12 +1,58 @@
 [
   {
-    "id": 6217634,
-    "slug": "dode-en-minstens-20-gewonden-bij-explosies-in-winkelcentrum-armeense-hoofdstad",
+    "id": 6217646,
+    "slug": "grote-explosie-in-winkelcentrum-in-armenie",
+    "type": "video",
+    "title": "Grote explosie in winkelcentrum in Armenië",
+    "subtitle": "Video",
+    "published_at": "2022-08-14T14:02:14+02:00",
+    "updated_at": "2022-08-14T14:02:14+02:00",
+    "media_id": "8l9xul5alris",
+    "duration": "0:33",
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6217646/grote-explosie-in-winkelcentrum-in-armenie.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6217643,
+    "slug": "politie-onderzoekt-bedreiging-tegen-jk-rowling-na-rushdie-tweet",
     "type": "article",
-    "title": "Dode en minstens 20 gewonden bij explosies in winkelcentrum Armeense hoofdstad",
+    "title": "Politie onderzoekt bedreiging tegen J.K. Rowling na Rushdie-tweet",
+    "subtitle": null,
+    "published_at": "2022-08-14T13:57:25+02:00",
+    "updated_at": "2022-08-14T13:57:26+02:00",
+    "media_id": "k3zxnxkah3wj",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772075,
+      "slug": "cultuur-overig",
+      "type": "default",
+      "name": "Boek & Cultuur",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/cultuur-overig/6217643/politie-onderzoekt-bedreiging-tegen-jk-rowling-na-rushdie-tweet.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6217634,
+    "slug": "dode-en-zeker-20-gewonden-bij-explosies-in-winkelcentrum-armeense-hoofdstad",
+    "type": "article",
+    "title": "Dode en zeker 20 gewonden bij explosies in winkelcentrum Armeense hoofdstad",
     "subtitle": null,
     "published_at": "2022-08-14T13:32:54+02:00",
-    "updated_at": "2022-08-14T13:45:51+02:00",
+    "updated_at": "2022-08-14T14:01:01+02:00",
     "media_id": "8l9xul5alris",
     "duration": null,
     "canonical_section": {
@@ -18,7 +64,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/buitenland/6217634/dode-en-minstens-20-gewonden-bij-explosies-in-winkelcentrum-armeense-hoofdstad.html",
+    "url": "/buitenland/6217634/dode-en-zeker-20-gewonden-bij-explosies-in-winkelcentrum-armeense-hoofdstad.html",
     "open_new_window": false,
     "partner": null
   },
@@ -52,7 +98,7 @@
     "title": "Walrus Freya gedood omdat mensen het dier niet met rust lieten",
     "subtitle": null,
     "published_at": "2022-08-14T13:14:37+02:00",
-    "updated_at": "2022-08-14T13:48:03+02:00",
+    "updated_at": "2022-08-14T14:02:40+02:00",
     "media_id": "d84xfs7a3a56",
     "duration": null,
     "canonical_section": {
@@ -167,7 +213,7 @@
     "title": "Roeister Florijn eerste Nederlandse in vijftig jaar met Europese titel in skiff",
     "subtitle": null,
     "published_at": "2022-08-14T11:57:52+02:00",
-    "updated_at": "2022-08-14T13:47:49+02:00",
+    "updated_at": "2022-08-14T14:01:41+02:00",
     "media_id": "zp2xx21aulal",
     "duration": null,
     "canonical_section": {
@@ -185,13 +231,13 @@
   },
   {
     "id": 6217599,
-    "slug": "nec-verdedigt-na-rust-nipte-voorsprong-bij-fc-volendam",
+    "slug": "nec-loopt-uit-naar-ruime-voorsprong-in-volendam",
     "type": "article",
-    "title": "NEC verdedigt na rust nipte voorsprong bij FC Volendam",
+    "title": "NEC loopt uit naar ruime voorsprong in Volendam",
     "subtitle": "Liveblog Eredivisie",
     "published_at": "2022-08-14T11:47:34+02:00",
-    "updated_at": "2022-08-14T13:38:15+02:00",
-    "media_id": "l7dx2ihan8wj",
+    "updated_at": "2022-08-14T14:10:18+02:00",
+    "media_id": "ihpxyrga47dz",
     "duration": null,
     "canonical_section": {
       "id": 1772338,
@@ -202,7 +248,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6217599/nec-verdedigt-na-rust-nipte-voorsprong-bij-fc-volendam.html",
+    "url": "/voetbal/6217599/nec-loopt-uit-naar-ruime-voorsprong-in-volendam.html",
     "open_new_window": false,
     "partner": null
   },
@@ -259,7 +305,7 @@
     "title": "Xavi belooft invaller De Jong belangrijkere rol als hij bij FC Barcelona blijft",
     "subtitle": null,
     "published_at": "2022-08-14T10:47:48+02:00",
-    "updated_at": "2022-08-14T11:33:26+02:00",
+    "updated_at": "2022-08-14T14:11:16+02:00",
     "media_id": "y4vx2ewaus55",
     "duration": null,
     "canonical_section": {
@@ -640,52 +686,6 @@
       "partner": null
     },
     "url": "/sport-overig/6216104/marathonwonder-brinkman-debuteert-op-ek-ik-wilde-als-hockeymeisje-in-oranje.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6216757,
-    "slug": "genderneutrale-awards-hebben-weinig-zin-als-de-jury-niet-divers-is",
-    "type": "article",
-    "title": "Genderneutrale awards hebben weinig zin als de jury niet divers is",
-    "subtitle": null,
-    "published_at": "2022-08-14T06:04:24+02:00",
-    "updated_at": "2022-08-14T11:03:51+02:00",
-    "media_id": "ij4xki1aw9cm",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771675,
-      "slug": "media",
-      "type": "default",
-      "name": "Media",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/media/6216757/genderneutrale-awards-hebben-weinig-zin-als-de-jury-niet-divers-is.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6217367,
-    "slug": "saoedische-prins-wil-een-stad-van-170-kilometer-lang-is-dat-realistisch",
-    "type": "video",
-    "title": "Saoedische prins wil een stad van 170 kilometer lang: is dat realistisch?",
-    "subtitle": "Video",
-    "published_at": "2022-08-14T06:03:00+02:00",
-    "updated_at": "2022-08-14T09:34:17+02:00",
-    "media_id": "12nxgpkaqblt",
-    "duration": "2:41",
-    "canonical_section": {
-      "id": 100,
-      "slug": "algemeen",
-      "type": "default",
-      "name": "Algemeen",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/algemeen/6217367/saoedische-prins-wil-een-stad-van-170-kilometer-lang-is-dat-realistisch.html",
     "open_new_window": false,
     "partner": null
   }
