@@ -1,12 +1,35 @@
 [
   {
+    "id": 6217599,
+    "slug": "cillessen-maakt-rentree-bij-nec-in-uitduel-tegen-volendam",
+    "type": "article",
+    "title": "Cillessen maakt rentree bij NEC in uitduel tegen Volendam",
+    "subtitle": "Liveblog Eredivisie",
+    "published_at": "2022-08-14T11:47:34+02:00",
+    "updated_at": "2022-08-14T11:47:35+02:00",
+    "media_id": "l2ax582a0g23",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6217599/cillessen-maakt-rentree-bij-nec-in-uitduel-tegen-volendam.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6217597,
     "slug": "coa-zoekt-vandaag-op-zelfde-manier-naar-plekken-we-blijven-bellen",
     "type": "article",
     "title": "COA zoekt vandaag op zelfde manier naar plekken: 'We blijven bellen'",
     "subtitle": null,
     "published_at": "2022-08-14T11:20:58+02:00",
-    "updated_at": "2022-08-14T11:29:14+02:00",
+    "updated_at": "2022-08-14T11:40:57+02:00",
     "media_id": "lrjxk0fa9ls3",
     "duration": null,
     "canonical_section": {
@@ -24,12 +47,12 @@
   },
   {
     "id": 6217598,
-    "slug": "fc-utrecht-spreekt-schande-van-ongeregeldheden-na-thuisduel-met-cambuur",
+    "slug": "fc-utrecht-spreekt-schande-van-rellen-me-bekogeld-beveiliger-naar-ziekenhuis",
     "type": "article",
-    "title": "FC Utrecht spreekt schande van ongeregeldheden na thuisduel met Cambuur",
+    "title": "FC Utrecht spreekt schande van rellen: ME bekogeld, beveiliger naar ziekenhuis",
     "subtitle": null,
     "published_at": "2022-08-14T11:20:28+02:00",
-    "updated_at": "2022-08-14T11:20:29+02:00",
+    "updated_at": "2022-08-14T11:44:40+02:00",
     "media_id": "7edxm83af2xi",
     "duration": null,
     "canonical_section": {
@@ -41,7 +64,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6217598/fc-utrecht-spreekt-schande-van-ongeregeldheden-na-thuisduel-met-cambuur.html",
+    "url": "/voetbal/6217598/fc-utrecht-spreekt-schande-van-rellen-me-bekogeld-beveiliger-naar-ziekenhuis.html",
     "open_new_window": false,
     "partner": null
   },
@@ -52,7 +75,7 @@
     "title": "Xavi belooft invaller De Jong belangrijkere rol als hij bij FC Barcelona blijft",
     "subtitle": null,
     "published_at": "2022-08-14T10:47:48+02:00",
-    "updated_at": "2022-08-14T11:15:15+02:00",
+    "updated_at": "2022-08-14T11:33:26+02:00",
     "media_id": "y4vx2ewaus55",
     "duration": null,
     "canonical_section": {
@@ -70,12 +93,12 @@
   },
   {
     "id": 6217593,
-    "slug": "ruim-tweehonderd-asielzoekers-bij-ter-apel-moeten-buiten-slapen",
+    "slug": "ruim-tweehonderd-asielzoekers-bij-ter-apel-moesten-buiten-slapen",
     "type": "article",
-    "title": "Ruim tweehonderd asielzoekers bij Ter Apel moeten buiten slapen",
+    "title": "Ruim tweehonderd asielzoekers bij Ter Apel moesten buiten slapen",
     "subtitle": "In beeld",
     "published_at": "2022-08-14T10:45:29+02:00",
-    "updated_at": "2022-08-14T11:17:35+02:00",
+    "updated_at": "2022-08-14T11:45:52+02:00",
     "media_id": "ddcxooiabft5",
     "duration": null,
     "canonical_section": {
@@ -87,7 +110,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/binnenland/6217593/ruim-tweehonderd-asielzoekers-bij-ter-apel-moeten-buiten-slapen.html",
+    "url": "/binnenland/6217593/ruim-tweehonderd-asielzoekers-bij-ter-apel-moesten-buiten-slapen.html",
     "open_new_window": false,
     "partner": null
   },
@@ -663,29 +686,6 @@
       "partner": null
     },
     "url": "/voetbal/6217568/feyenoord-lijdt-thuis-tegen-heerenveen-eerste-puntenverlies-van-seizoen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6217567,
-    "slug": "windhozen-laten-parasols-vliegen-op-nederlandse-stranden",
-    "type": "video",
-    "title": "Windhozen laten parasols vliegen op Nederlandse stranden",
-    "subtitle": "Video",
-    "published_at": "2022-08-13T22:20:01+02:00",
-    "updated_at": "2022-08-13T22:24:11+02:00",
-    "media_id": "yp6xrenawwdc",
-    "duration": "0:35",
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6217567/windhozen-laten-parasols-vliegen-op-nederlandse-stranden.html",
     "open_new_window": false,
     "partner": null
   }
