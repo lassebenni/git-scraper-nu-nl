@@ -1,13 +1,36 @@
 [
   {
+    "id": 6217664,
+    "slug": "jakobsen-sprint-naar-zege-op-ek-wielrennen-in-munchen",
+    "type": "article",
+    "title": "Jakobsen sprint naar zege op EK wielrennen in München",
+    "subtitle": null,
+    "published_at": "2022-08-14T15:10:07+02:00",
+    "updated_at": "2022-08-14T15:12:59+02:00",
+    "media_id": "4p1xsm6amhhp",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772339,
+      "slug": "wielrennen",
+      "type": "default",
+      "name": "Wielrennen",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/wielrennen/6217664/jakobsen-sprint-naar-zege-op-ek-wielrennen-in-munchen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6217662,
     "slug": "vos-sluit-ronde-van-scandinavie-in-stijl-af-met-overwinning-in-slotrit",
     "type": "article",
     "title": "Vos sluit Ronde van Scandinavië in stijl af met overwinning in slotrit",
     "subtitle": null,
     "published_at": "2022-08-14T14:50:17+02:00",
-    "updated_at": "2022-08-14T14:56:13+02:00",
-    "media_id": "8lyxhd5awdg5",
+    "updated_at": "2022-08-14T15:13:17+02:00",
+    "media_id": "e3exxpyapdpv",
     "duration": null,
     "canonical_section": {
       "id": 1772339,
@@ -300,13 +323,13 @@
   },
   {
     "id": 6217599,
-    "slug": "ajax-geeft-voorsprong-direct-uit-handen-tegen-groningen",
+    "slug": "ajax-door-schitterende-goal-antony-weer-op-voorsprong",
     "type": "article",
-    "title": "Ajax geeft voorsprong direct uit handen tegen Groningen",
+    "title": "Ajax door schitterende goal Antony weer op voorsprong",
     "subtitle": "Liveblog Eredivisie",
     "published_at": "2022-08-14T11:47:34+02:00",
-    "updated_at": "2022-08-14T14:52:16+02:00",
-    "media_id": "47bxhdralb5w",
+    "updated_at": "2022-08-14T15:01:56+02:00",
+    "media_id": "fsdxl2sazyci",
     "duration": null,
     "canonical_section": {
       "id": 1772338,
@@ -317,7 +340,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6217599/ajax-geeft-voorsprong-direct-uit-handen-tegen-groningen.html",
+    "url": "/voetbal/6217599/ajax-door-schitterende-goal-antony-weer-op-voorsprong.html",
     "open_new_window": false,
     "partner": null
   },
@@ -663,29 +686,6 @@
       "partner": null
     },
     "url": "/sport-overig/6217554/turnsters-weer-hecht-team-door-kaartavondjes-zwemmen-en-skutsjesilen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6217343,
-    "slug": "een-beter-humeur-dankzij-bevers-en-puzzels",
-    "type": "article",
-    "title": "Een beter humeur dankzij bevers en puzzels",
-    "subtitle": "Van de hoofdredactie",
-    "published_at": "2022-08-14T07:59:52+02:00",
-    "updated_at": "2022-08-14T09:03:39+02:00",
-    "media_id": "w02xmh7aoqf9",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772069,
-      "slug": "blog",
-      "type": "default",
-      "name": "Van de hoofdredactie",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/blog/6217343/een-beter-humeur-dankzij-bevers-en-puzzels.html",
     "open_new_window": false,
     "partner": null
   }
