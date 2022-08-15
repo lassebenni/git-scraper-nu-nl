@@ -1,12 +1,35 @@
 [
   {
+    "id": 6217895,
+    "slug": "kijk-hier-live-naar-herdenking-slachtoffers-japanse-bezetting-wwii",
+    "type": "video",
+    "title": "Kijk hier live naar herdenking slachtoffers Japanse bezetting WWII",
+    "subtitle": "Livestream",
+    "published_at": "2022-08-15T19:00:10+02:00",
+    "updated_at": "2022-08-15T19:13:05+02:00",
+    "media_id": "3wnxtuuatl8q",
+    "duration": "0:01",
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6217895/kijk-hier-live-naar-herdenking-slachtoffers-japanse-bezetting-wwii.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6217891,
     "slug": "de-waard-en-toussaint-bereiken-ek-finale-op-100-meter-rugslag",
     "type": "article",
     "title": "De Waard en Toussaint bereiken EK-finale op 100 meter rugslag",
     "subtitle": null,
     "published_at": "2022-08-15T18:46:02+02:00",
-    "updated_at": "2022-08-15T18:53:08+02:00",
+    "updated_at": "2022-08-15T19:05:49+02:00",
     "media_id": "yvrx7omak7og",
     "duration": null,
     "canonical_section": {
@@ -29,7 +52,7 @@
     "title": "Dumoulin laat WK schieten en stopt per direct met wielrennen",
     "subtitle": null,
     "published_at": "2022-08-15T18:37:12+02:00",
-    "updated_at": "2022-08-15T18:55:00+02:00",
+    "updated_at": "2022-08-15T18:57:58+02:00",
     "media_id": "d9uxoymahtkn",
     "duration": null,
     "canonical_section": {
@@ -190,7 +213,7 @@
     "title": "Tot nu toe ruim honderd boeren aangehouden voor rellen op snelweg",
     "subtitle": null,
     "published_at": "2022-08-15T17:29:40+02:00",
-    "updated_at": "2022-08-15T17:44:15+02:00",
+    "updated_at": "2022-08-15T18:58:53+02:00",
     "media_id": "7bsxbmwaky3t",
     "duration": null,
     "canonical_section": {
@@ -663,29 +686,6 @@
       "partner": null
     },
     "url": "/binnenland/6217804/gilze-rijen-vaak-warmste-plek-door-ligging-gemeente-en-locatie-weerstation.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6217824,
-    "slug": "adele-vreesde-voor-boegeroep-bij-eerste-optreden-na-annuleren-vegas-reeks",
-    "type": "article",
-    "title": "Adele vreesde voor boegeroep bij eerste optreden na annuleren Vegas-reeks",
-    "subtitle": null,
-    "published_at": "2022-08-15T14:12:16+02:00",
-    "updated_at": "2022-08-15T14:15:46+02:00",
-    "media_id": "lp4x5paangjc",
-    "duration": null,
-    "canonical_section": {
-      "id": 868281,
-      "slug": "muziek",
-      "type": "default",
-      "name": "Muziek",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/muziek/6217824/adele-vreesde-voor-boegeroep-bij-eerste-optreden-na-annuleren-vegas-reeks.html",
     "open_new_window": false,
     "partner": null
   }
