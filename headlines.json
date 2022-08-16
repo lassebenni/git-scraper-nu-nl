@@ -1,5 +1,51 @@
 [
   {
+    "id": 6218108,
+    "slug": "vechtpartijen-bij-aanmeldcentrum-ter-apel-honderden-hebben-geen-slaapplek",
+    "type": "article",
+    "title": "Vechtpartijen bij aanmeldcentrum Ter Apel, honderden hebben geen slaapplek",
+    "subtitle": null,
+    "published_at": "2022-08-16T22:06:00+02:00",
+    "updated_at": "2022-08-16T22:06:01+02:00",
+    "media_id": "z3hxf35aj4t9",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6218108/vechtpartijen-bij-aanmeldcentrum-ter-apel-honderden-hebben-geen-slaapplek.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6218107,
+    "slug": "geraldine-kemper-biedt-excuses-aan-voor-niet-inclusieve-borstencover-linda",
+    "type": "article",
+    "title": "Geraldine Kemper biedt excuses aan voor 'niet-inclusieve' borstencover LINDA.",
+    "subtitle": null,
+    "published_at": "2022-08-16T21:52:59+02:00",
+    "updated_at": "2022-08-16T22:06:53+02:00",
+    "media_id": "fxjxc18a9dsn",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772242,
+      "slug": "entertainment",
+      "type": "default",
+      "name": "Media en Cultuur",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/entertainment/6218107/geraldine-kemper-biedt-excuses-aan-voor-niet-inclusieve-borstencover-linda.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6218106,
     "slug": "plafond-van-tempel-begeeft-het-tijdens-gebed-van-thaise-monniken",
     "type": "video",
@@ -70,13 +116,13 @@
   },
   {
     "id": 6218100,
-    "slug": "psv-en-rangers-rusten-met-1-1-na-zinderende-eerste-helft",
+    "slug": "psv-na-rust-op-zoek-naar-voorsprong-tegen-rangers",
     "type": "article",
-    "title": "PSV en Rangers rusten met 1-1 na zinderende eerste helft",
+    "title": "PSV na rust op zoek naar voorsprong tegen Rangers",
     "subtitle": "Liveblog CL",
     "published_at": "2022-08-16T20:01:14+02:00",
-    "updated_at": "2022-08-16T21:47:12+02:00",
-    "media_id": "wulxweiaf7jn",
+    "updated_at": "2022-08-16T22:03:35+02:00",
+    "media_id": "8bdxhwoaw456",
     "duration": null,
     "canonical_section": {
       "id": 1772338,
@@ -87,7 +133,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6218100/psv-en-rangers-rusten-met-1-1-na-zinderende-eerste-helft.html",
+    "url": "/voetbal/6218100/psv-na-rust-op-zoek-naar-voorsprong-tegen-rangers.html",
     "open_new_window": false,
     "partner": null
   },
@@ -640,52 +686,6 @@
       "partner": null
     },
     "url": "/binnenland/6218037/opnieuw-beslag-gelegd-op-geld-woningen-en-autos-van-van-lienden-en-partners.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6218021,
-    "slug": "opnieuw-minder-positieve-coronatests-en-ziekenhuisopnames-geregistreerd",
-    "type": "article",
-    "title": "Opnieuw minder positieve coronatests en ziekenhuisopnames geregistreerd",
-    "subtitle": null,
-    "published_at": "2022-08-16T15:28:02+02:00",
-    "updated_at": "2022-08-16T15:28:03+02:00",
-    "media_id": "a5jxv1na2voc",
-    "duration": null,
-    "canonical_section": {
-      "id": 1778528,
-      "slug": "coronavirus",
-      "type": "default",
-      "name": "Coronavirus",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/coronavirus/6218021/opnieuw-minder-positieve-coronatests-en-ziekenhuisopnames-geregistreerd.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6218028,
-    "slug": "man-uit-reusel-jaar-de-cel-in-wegens-tien-jaar-lang-uitbuiten-van-zwakbegaafde",
-    "type": "article",
-    "title": "Man uit Reusel jaar de cel in wegens tien jaar lang uitbuiten van zwakbegaafde",
-    "subtitle": null,
-    "published_at": "2022-08-16T15:18:00+02:00",
-    "updated_at": "2022-08-16T16:12:09+02:00",
-    "media_id": "14axciqad4tp",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6218028/man-uit-reusel-jaar-de-cel-in-wegens-tien-jaar-lang-uitbuiten-van-zwakbegaafde.html",
     "open_new_window": false,
     "partner": null
   }
