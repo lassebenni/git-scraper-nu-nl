@@ -1,5 +1,28 @@
 [
   {
+    "id": 6218119,
+    "slug": "bekijk-hier-de-samenvatting-van-rangers-fc-psv-2-2",
+    "type": "video",
+    "title": "Bekijk hier de samenvatting van Rangers FC-PSV (2-2)",
+    "subtitle": "Video",
+    "published_at": "2022-08-17T00:31:20+02:00",
+    "updated_at": "2022-08-17T00:31:21+02:00",
+    "media_id": "04zx0v4adadd",
+    "duration": "3:20",
+    "canonical_section": {
+      "id": 149,
+      "slug": "sport",
+      "type": "default",
+      "name": "Sport",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/sport/6218119/bekijk-hier-de-samenvatting-van-rangers-fc-psv-2-2.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6218046,
     "slug": "alpengletsjers-bakken-in-de-zon-en-zakken-zienderogen-in-elkaar",
     "type": "article",
@@ -461,12 +484,12 @@
   },
   {
     "id": 6218096,
-    "slug": "honderden-boze-mensen-bij-hotel-albergen-waar-kabinet-asielzoekers-wil-opvangen",
+    "slug": "protest-bij-hotel-albergen-waar-kabinet-asielzoekers-wil-opvangen",
     "type": "article",
-    "title": "Honderden boze mensen bij hotel Albergen waar kabinet asielzoekers wil opvangen",
+    "title": "Protest bij hotel Albergen waar kabinet asielzoekers wil opvangen",
     "subtitle": null,
     "published_at": "2022-08-16T19:39:58+02:00",
-    "updated_at": "2022-08-17T00:00:47+02:00",
+    "updated_at": "2022-08-17T00:20:40+02:00",
     "media_id": "03ex04haj2ui",
     "duration": null,
     "canonical_section": {
@@ -478,7 +501,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/binnenland/6218096/honderden-boze-mensen-bij-hotel-albergen-waar-kabinet-asielzoekers-wil-opvangen.html",
+    "url": "/binnenland/6218096/protest-bij-hotel-albergen-waar-kabinet-asielzoekers-wil-opvangen.html",
     "open_new_window": false,
     "partner": null
   },
@@ -663,29 +686,6 @@
       "partner": null
     },
     "url": "/sport-overig/6218076/steenbergen-grijpt-net-naast-vijfde-ek-goud-toussaint-en-van-roon-pakken-brons.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6218069,
-    "slug": "rusland-geeft-twitch-boete-om-niet-verwijderen-oorlogsvideo",
-    "type": "article",
-    "title": "Rusland geeft Twitch boete om niet verwijderen oorlogsvideo",
-    "subtitle": null,
-    "published_at": "2022-08-16T17:42:09+02:00",
-    "updated_at": "2022-08-16T17:42:10+02:00",
-    "media_id": "drmx7pdas8l6",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771438,
-      "slug": "tech",
-      "type": "default",
-      "name": "Tech",
-      "style": "nutech",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/tech/6218069/rusland-geeft-twitch-boete-om-niet-verwijderen-oorlogsvideo.html",
     "open_new_window": false,
     "partner": null
   }
