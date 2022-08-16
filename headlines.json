@@ -1,12 +1,35 @@
 [
   {
+    "id": 6218103,
+    "slug": "motor-die-achterwiel-verloor-op-drukke-a50-wordt-weggetakeld",
+    "type": "video",
+    "title": "Motor die achterwiel verloor op drukke A50 wordt weggetakeld",
+    "subtitle": "Video",
+    "published_at": "2022-08-16T20:50:34+02:00",
+    "updated_at": "2022-08-16T20:50:34+02:00",
+    "media_id": "1rfxhmyal1e7",
+    "duration": "0:37",
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6218103/motor-die-achterwiel-verloor-op-drukke-a50-wordt-weggetakeld.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6218100,
     "slug": "psv-begint-op-sfeervol-ibrox-aan-cruciaal-tweeluik-met-rangers",
     "type": "article",
     "title": "PSV begint op sfeervol Ibrox aan cruciaal tweeluik met Rangers",
     "subtitle": "Liveblog CL",
     "published_at": "2022-08-16T20:01:14+02:00",
-    "updated_at": "2022-08-16T20:31:18+02:00",
+    "updated_at": "2022-08-16T20:45:51+02:00",
     "media_id": "t69xdohauk5x",
     "duration": null,
     "canonical_section": {
@@ -52,7 +75,7 @@
     "title": "PSV met Veerman en Ramalho in CL-duel met Rangers, Simons en Til op de bank",
     "subtitle": null,
     "published_at": "2022-08-16T19:50:21+02:00",
-    "updated_at": "2022-08-16T20:31:49+02:00",
+    "updated_at": "2022-08-16T20:39:58+02:00",
     "media_id": "6suxyeea3bto",
     "duration": null,
     "canonical_section": {
@@ -282,7 +305,7 @@
     "title": "Steenbergen grijpt net naast vijfde EK-goud, Toussaint en Van Roon pakken brons",
     "subtitle": null,
     "published_at": "2022-08-16T18:17:15+02:00",
-    "updated_at": "2022-08-16T20:24:00+02:00",
+    "updated_at": "2022-08-16T20:45:34+02:00",
     "media_id": "fp5xcm5afcc9",
     "duration": null,
     "canonical_section": {
@@ -663,29 +686,6 @@
       "partner": null
     },
     "url": "/voetbal/6217809/feyenoord-huurt-voormalig-willem-ii-keeper-wellenreuther-van-anderlecht.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6218029,
-    "slug": "herstelde-brama-in-fc-twente-selectie-voor-uitduel-met-fiorentina",
-    "type": "article",
-    "title": "Herstelde Brama in FC Twente-selectie voor uitduel met Fiorentina",
-    "subtitle": null,
-    "published_at": "2022-08-16T15:06:27+02:00",
-    "updated_at": "2022-08-16T15:29:58+02:00",
-    "media_id": "1e3xtlnaelqe",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6218029/herstelde-brama-in-fc-twente-selectie-voor-uitduel-met-fiorentina.html",
     "open_new_window": false,
     "partner": null
   }
