@@ -1,12 +1,58 @@
 [
   {
+    "id": 6217991,
+    "slug": "zeemijn-ontploft-nabij-strand-in-oekraine",
+    "type": "video",
+    "title": "Zeemijn ontploft nabij strand in Oekraïne",
+    "subtitle": "Video",
+    "published_at": "2022-08-16T12:08:19+02:00",
+    "updated_at": "2022-08-16T12:08:19+02:00",
+    "media_id": "mhnxc10amqve",
+    "duration": "0:45",
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6217991/zeemijn-ontploft-nabij-strand-in-oekraine.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6217988,
+    "slug": "vrouw-vervolgd-om-betrokkenheid-bij-ernstig-fietsongeluk-oud-minister-dekker",
+    "type": "article",
+    "title": "Vrouw vervolgd om betrokkenheid bij ernstig fietsongeluk oud-minister Dekker",
+    "subtitle": null,
+    "published_at": "2022-08-16T11:50:49+02:00",
+    "updated_at": "2022-08-16T12:07:51+02:00",
+    "media_id": "yhux1whaflxk",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6217988/vrouw-vervolgd-om-betrokkenheid-bij-ernstig-fietsongeluk-oud-minister-dekker.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6217982,
     "slug": "ezra-miller-biedt-excuses-aan-voor-gedrag-en-is-therapie-begonnen",
     "type": "article",
     "title": "Ezra Miller biedt excuses aan voor gedrag en is therapie begonnen",
     "subtitle": null,
     "published_at": "2022-08-16T11:45:42+02:00",
-    "updated_at": "2022-08-16T11:45:43+02:00",
+    "updated_at": "2022-08-16T11:48:22+02:00",
     "media_id": "skgxz9tag3at",
     "duration": null,
     "canonical_section": {
@@ -29,7 +75,7 @@
     "title": "Oscarwinnares Viola Davis speelt schurk in Hunger Games-prequel",
     "subtitle": null,
     "published_at": "2022-08-16T11:37:26+02:00",
-    "updated_at": "2022-08-16T11:37:27+02:00",
+    "updated_at": "2022-08-16T11:49:46+02:00",
     "media_id": "pgrxmh2ax40o",
     "duration": null,
     "canonical_section": {
@@ -213,7 +259,7 @@
     "title": "Gasprijs blijft maar stijgen en staat opnieuw op recordhoogte",
     "subtitle": null,
     "published_at": "2022-08-16T09:59:29+02:00",
-    "updated_at": "2022-08-16T11:22:11+02:00",
+    "updated_at": "2022-08-16T11:59:38+02:00",
     "media_id": "eatxg92akla3",
     "duration": null,
     "canonical_section": {
@@ -640,52 +686,6 @@
       "partner": null
     },
     "url": "/binnenland/6217926/twee-gewonden-bij-grote-brand-in-het-centrum-van-deventer.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6217798,
-    "slug": "elvis-presley-is-45-jaar-dood-maar-verdient-nog-steeds-miljoenen",
-    "type": "article",
-    "title": "Elvis Presley is 45 jaar dood, maar verdient nog steeds miljoenen",
-    "subtitle": null,
-    "published_at": "2022-08-16T05:34:46+02:00",
-    "updated_at": "2022-08-16T10:48:44+02:00",
-    "media_id": "5uzxbbratrbd",
-    "duration": null,
-    "canonical_section": {
-      "id": 868281,
-      "slug": "muziek",
-      "type": "default",
-      "name": "Muziek",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/muziek/6217798/elvis-presley-is-45-jaar-dood-maar-verdient-nog-steeds-miljoenen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6217833,
-    "slug": "hoe-voorkom-je-dat-iemand-je-zomaar-nare-fotos-airdropt",
-    "type": "article",
-    "title": "Hoe voorkom je dat iemand je zomaar nare foto's AirDropt?",
-    "subtitle": null,
-    "published_at": "2022-08-16T05:32:08+02:00",
-    "updated_at": "2022-08-16T11:12:03+02:00",
-    "media_id": "9lpxodaa8rkr",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771438,
-      "slug": "tech",
-      "type": "default",
-      "name": "Tech",
-      "style": "nutech",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/tech/6217833/hoe-voorkom-je-dat-iemand-je-zomaar-nare-fotos-airdropt.html",
     "open_new_window": false,
     "partner": null
   }
