@@ -1,5 +1,28 @@
 [
   {
+    "id": 6218106,
+    "slug": "plafond-van-tempel-begeeft-het-tijdens-gebed-van-thaise-monniken",
+    "type": "video",
+    "title": "Plafond van tempel begeeft het tijdens gebed van Thaise monniken",
+    "subtitle": "Video",
+    "published_at": "2022-08-16T21:29:39+02:00",
+    "updated_at": "2022-08-16T21:30:36+02:00",
+    "media_id": "wxxxotwavl0t",
+    "duration": "0:35",
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6218106/plafond-van-tempel-begeeft-het-tijdens-gebed-van-thaise-monniken.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6218104,
     "slug": "brazilie-en-argentinie-hoeven-door-coronarel-gestaakt-duel-niet-over-te-spelen",
     "type": "article",
@@ -47,13 +70,13 @@
   },
   {
     "id": 6218100,
-    "slug": "pover-psv-onder-druk-in-eerste-helft-tegen-rangers",
+    "slug": "psv-en-rangers-rusten-met-1-1-na-zinderende-eerste-helft",
     "type": "article",
-    "title": "Pover PSV onder druk in eerste helft tegen Rangers",
+    "title": "PSV en Rangers rusten met 1-1 na zinderende eerste helft",
     "subtitle": "Liveblog CL",
     "published_at": "2022-08-16T20:01:14+02:00",
-    "updated_at": "2022-08-16T21:25:35+02:00",
-    "media_id": "6j9xvpsa56nt",
+    "updated_at": "2022-08-16T21:47:12+02:00",
+    "media_id": "wulxweiaf7jn",
     "duration": null,
     "canonical_section": {
       "id": 1772338,
@@ -64,7 +87,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6218100/pover-psv-onder-druk-in-eerste-helft-tegen-rangers.html",
+    "url": "/voetbal/6218100/psv-en-rangers-rusten-met-1-1-na-zinderende-eerste-helft.html",
     "open_new_window": false,
     "partner": null
   },
@@ -167,7 +190,7 @@
     "title": "Ongevaarlijke stof veroorzaakt gaslucht in Utrecht die nog dagen kan aanhouden",
     "subtitle": null,
     "published_at": "2022-08-16T19:31:48+02:00",
-    "updated_at": "2022-08-16T20:13:58+02:00",
+    "updated_at": "2022-08-16T21:32:44+02:00",
     "media_id": "614xwb7a8wd6",
     "duration": null,
     "canonical_section": {
@@ -663,29 +686,6 @@
       "partner": null
     },
     "url": "/binnenland/6218028/man-uit-reusel-jaar-de-cel-in-wegens-tien-jaar-lang-uitbuiten-van-zwakbegaafde.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6218030,
-    "slug": "ooggetuigen-filmen-nieuwe-explosies-op-de-krim",
-    "type": "video",
-    "title": "Ooggetuigen filmen nieuwe explosies op de Krim",
-    "subtitle": "Video",
-    "published_at": "2022-08-16T15:10:36+02:00",
-    "updated_at": "2022-08-16T15:10:37+02:00",
-    "media_id": "kxyxroiabjki",
-    "duration": "0:45",
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6218030/ooggetuigen-filmen-nieuwe-explosies-op-de-krim.html",
     "open_new_window": false,
     "partner": null
   }
