@@ -1,5 +1,51 @@
 [
   {
+    "id": 6218263,
+    "slug": "droogte-en-stikstof-hoger-grondwater-slaat-twee-vliegen-in-een-klap",
+    "type": "article",
+    "title": "Droogte en stikstof? Hoger grondwater slaat twee vliegen in één klap",
+    "subtitle": null,
+    "published_at": "2022-08-18T00:00:16+02:00",
+    "updated_at": "2022-08-18T00:00:16+02:00",
+    "media_id": "punxrnea60du",
+    "duration": null,
+    "canonical_section": {
+      "id": 1778899,
+      "slug": "nu-klimaat",
+      "type": "region",
+      "name": "NU+ Klimaat",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/nu-klimaat/6218263/droogte-en-stikstof-hoger-grondwater-slaat-twee-vliegen-in-een-klap.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6218306,
+    "slug": "alleenstaande-met-modaal-inkomen-kan-nog-1-op-de-100-huizen-kopen",
+    "type": "article",
+    "title": "Alleenstaande met modaal inkomen kan nog 1 op de 100 huizen kopen",
+    "subtitle": null,
+    "published_at": "2022-08-18T00:00:06+02:00",
+    "updated_at": "2022-08-18T00:00:07+02:00",
+    "media_id": "moux2g2an2zo",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6218306/alleenstaande-met-modaal-inkomen-kan-nog-1-op-de-100-huizen-kopen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6218335,
     "slug": "lebron-james-wordt-met-nieuw-contract-bij-lakers-best-betaalde-basketballer-ooit",
     "type": "article",
@@ -640,52 +686,6 @@
       "partner": null
     },
     "url": "/voetbal/6218275/ado-den-haag-mag-voorlopig-slechts-beperkt-publiek-toelaten-bij-thuisduels.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6218280,
-    "slug": "dak-van-turks-zwembad-stort-in-tijdens-zware-regenbui",
-    "type": "video",
-    "title": "Dak van Turks zwembad stort in tijdens zware regenbui",
-    "subtitle": "Video",
-    "published_at": "2022-08-17T16:52:40+02:00",
-    "updated_at": "2022-08-17T16:52:40+02:00",
-    "media_id": "1ukxi4ua8kui",
-    "duration": "0:34",
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6218280/dak-van-turks-zwembad-stort-in-tijdens-zware-regenbui.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6218273,
-    "slug": "achtervolging-door-belgie-en-nederland-leidt-tot-arrestatie-man-die-ex-ontvoerde",
-    "type": "article",
-    "title": "Achtervolging door België en Nederland leidt tot arrestatie man die ex ontvoerde",
-    "subtitle": null,
-    "published_at": "2022-08-17T16:47:48+02:00",
-    "updated_at": "2022-08-17T16:47:48+02:00",
-    "media_id": "y0mx1z1ah8lp",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6218273/achtervolging-door-belgie-en-nederland-leidt-tot-arrestatie-man-die-ex-ontvoerde.html",
     "open_new_window": false,
     "partner": null
   }
