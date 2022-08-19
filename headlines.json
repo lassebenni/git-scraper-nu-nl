@@ -1,12 +1,35 @@
 [
   {
+    "id": 6218746,
+    "slug": "finse-premier-reageert-op-ophef-om-feestfilmpje",
+    "type": "video",
+    "title": "Finse premier reageert op ophef om feestfilmpje",
+    "subtitle": "Video",
+    "published_at": "2022-08-19T20:07:12+02:00",
+    "updated_at": "2022-08-19T20:07:13+02:00",
+    "media_id": "rr6xycwaahzn",
+    "duration": "0:42",
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6218746/finse-premier-reageert-op-ophef-om-feestfilmpje.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6218740,
     "slug": "fa-straft-tuchel-zwaarder-dan-conte-voor-ruzie-na-chelsea-tottenham-hotspur",
     "type": "article",
     "title": "FA straft Tuchel zwaarder dan Conte voor ruzie na Chelsea-Tottenham Hotspur",
     "subtitle": null,
     "published_at": "2022-08-19T19:45:48+02:00",
-    "updated_at": "2022-08-19T19:47:58+02:00",
+    "updated_at": "2022-08-19T19:54:53+02:00",
     "media_id": "ksrxml0as1fv",
     "duration": null,
     "canonical_section": {
@@ -139,13 +162,13 @@
   },
   {
     "id": 6218720,
-    "slug": "laatste-ploegen-in-actie-tijdens-tijdrit-in-sfeervol-utrecht",
+    "slug": "jumbo-visma-jaagt-op-snelste-tijd-van-bikeexchange-in-utrecht",
     "type": "article",
-    "title": "Laatste ploegen in actie tijdens tijdrit in sfeervol Utrecht",
+    "title": "Jumbo-Visma jaagt op snelste tijd van BikeExchange in Utrecht",
     "subtitle": "Liveblog Vuelta",
     "published_at": "2022-08-19T18:16:03+02:00",
-    "updated_at": "2022-08-19T19:31:22+02:00",
-    "media_id": "5ooxq97ayfum",
+    "updated_at": "2022-08-19T20:09:24+02:00",
+    "media_id": "1xvxcwvaxoiy",
     "duration": null,
     "canonical_section": {
       "id": 149,
@@ -156,7 +179,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/sport/6218720/laatste-ploegen-in-actie-tijdens-tijdrit-in-sfeervol-utrecht.html",
+    "url": "/sport/6218720/jumbo-visma-jaagt-op-snelste-tijd-van-bikeexchange-in-utrecht.html",
     "open_new_window": false,
     "partner": null
   },
@@ -663,29 +686,6 @@
       "partner": null
     },
     "url": "/voetbal/6218672/ajax-haalt-met-turkse-verdediger-kaplan-opvolger-van-schuurs-in-huis.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6218671,
-    "slug": "geen-bewijs-dat-glas-uit-reuzenrad-zandvoort-werd-gegooid-verdachten-weer-vrij",
-    "type": "article",
-    "title": "Geen bewijs dat glas uit reuzenrad Zandvoort werd gegooid, verdachten weer vrij",
-    "subtitle": null,
-    "published_at": "2022-08-19T14:37:02+02:00",
-    "updated_at": "2022-08-19T14:37:02+02:00",
-    "media_id": "50pxsoca0g29",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6218671/geen-bewijs-dat-glas-uit-reuzenrad-zandvoort-werd-gegooid-verdachten-weer-vrij.html",
     "open_new_window": false,
     "partner": null
   }
