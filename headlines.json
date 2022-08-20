@@ -1,5 +1,51 @@
 [
   {
+    "id": 6218856,
+    "slug": "dortmund-incasseert-drie-goals-in-slotfase-en-gaat-dramatisch-onderuit-tegen-werder",
+    "type": "article",
+    "title": "Dortmund incasseert drie goals in slotfase en gaat dramatisch onderuit tegen Werder",
+    "subtitle": null,
+    "published_at": "2022-08-20T17:42:15+02:00",
+    "updated_at": "2022-08-20T17:48:11+02:00",
+    "media_id": "wfwxoa3at1v3",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6218856/dortmund-incasseert-drie-goals-in-slotfase-en-gaat-dramatisch-onderuit-tegen-werder.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6218855,
+    "slug": "teunissen-neemt-leiding-in-vuelta-over-van-ploegmaat-gesink-ritwinst-voor-bennett",
+    "type": "article",
+    "title": "Teunissen neemt leiding in Vuelta over van ploegmaat Gesink, ritwinst voor Bennett",
+    "subtitle": null,
+    "published_at": "2022-08-20T17:34:59+02:00",
+    "updated_at": "2022-08-20T17:39:54+02:00",
+    "media_id": "9ffxr95aid1f",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772339,
+      "slug": "wielrennen",
+      "type": "default",
+      "name": "Wielrennen",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/wielrennen/6218855/teunissen-neemt-leiding-in-vuelta-over-van-ploegmaat-gesink-ritwinst-voor-bennett.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6218713,
     "slug": "houtskool-gas-of-elektrisch-welke-barbecue-is-beter-voor-het-milieu",
     "type": "video",
@@ -369,12 +415,12 @@
   },
   {
     "id": 6218835,
-    "slug": "reacties-op-de-sprintzege-van-bennett-in-utrecht",
+    "slug": "reacties-op-de-sprintzege-van-bennett-in-utrecht-gesloten",
     "type": "article",
-    "title": "Reacties op de sprintzege van Bennett in Utrecht",
+    "title": "Reacties op de sprintzege van Bennett in Utrecht (gesloten)",
     "subtitle": "Liveblog Vuelta",
     "published_at": "2022-08-20T12:55:25+02:00",
-    "updated_at": "2022-08-20T17:26:54+02:00",
+    "updated_at": "2022-08-20T17:39:16+02:00",
     "media_id": "2etxogwaot8h",
     "duration": null,
     "canonical_section": {
@@ -386,7 +432,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/wielrennen/6218835/reacties-op-de-sprintzege-van-bennett-in-utrecht.html",
+    "url": "/wielrennen/6218835/reacties-op-de-sprintzege-van-bennett-in-utrecht-gesloten.html",
     "open_new_window": false,
     "partner": null
   },
@@ -640,52 +686,6 @@
       "partner": null
     },
     "url": "/tennis/6218802/alcaraz-verliest-verrassend-in-cincinnati-ook-exit-wimbledon-winnares-rybakina.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6218801,
-    "slug": "zeker-vijftien-doden-bij-gijzeling-door-terroristen-in-somalie",
-    "type": "article",
-    "title": "Zeker vijftien doden bij gijzeling door terroristen in Somalië",
-    "subtitle": null,
-    "published_at": "2022-08-20T09:14:22+02:00",
-    "updated_at": "2022-08-20T10:46:24+02:00",
-    "media_id": "zl9xd0saqn9j",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6218801/zeker-vijftien-doden-bij-gijzeling-door-terroristen-in-somalie.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6218798,
-    "slug": "kuijt-verliest-weer-met-ado-ik-wil-eigenlijk-een-scheldwoord-gebruiken",
-    "type": "article",
-    "title": "Kuijt verliest weer met ADO: 'Ik wil eigenlijk een scheldwoord gebruiken'",
-    "subtitle": null,
-    "published_at": "2022-08-20T08:50:55+02:00",
-    "updated_at": "2022-08-20T08:58:09+02:00",
-    "media_id": "2nwx14famtx6",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6218798/kuijt-verliest-weer-met-ado-ik-wil-eigenlijk-een-scheldwoord-gebruiken.html",
     "open_new_window": false,
     "partner": null
   }
