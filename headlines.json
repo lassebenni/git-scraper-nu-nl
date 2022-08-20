@@ -1,5 +1,28 @@
 [
   {
+    "id": 6218841,
+    "slug": "chaos-op-turkse-snelweg-na-kettingbotsing-met-vijftien-doden",
+    "type": "video",
+    "title": "Chaos op Turkse snelweg na kettingbotsing met vijftien doden",
+    "subtitle": "Video",
+    "published_at": "2022-08-20T14:52:24+02:00",
+    "updated_at": "2022-08-20T14:52:25+02:00",
+    "media_id": "qgwx4jeaqlf6",
+    "duration": "1:00",
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6218841/chaos-op-turkse-snelweg-na-kettingbotsing-met-vijftien-doden.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6218652,
     "slug": "hoe-passen-driehonderd-asielzoekers-in-een-hotel-met-28-kamers",
     "type": "article",
@@ -75,7 +98,7 @@
     "title": "Zestien mensen overleden bij kettingbotsing in Turkije, onder wie vijf hulpverleners",
     "subtitle": null,
     "published_at": "2022-08-20T13:17:49+02:00",
-    "updated_at": "2022-08-20T14:24:46+02:00",
+    "updated_at": "2022-08-20T14:56:02+02:00",
     "media_id": "o8lxma4afyr1",
     "duration": null,
     "canonical_section": {
@@ -663,29 +686,6 @@
       "partner": null
     },
     "url": "/economie/6218663/problemen-binnenvaart-beginnen-ook-in-nederland-steeds-meer-pijn-te-doen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6218766,
-    "slug": "weerbericht-afwisseling-van-zon-en-wolken-en-aangename-temperaturen",
-    "type": "article",
-    "title": "Weerbericht: Afwisseling van zon en wolken en aangename temperaturen",
-    "subtitle": null,
-    "published_at": "2022-08-20T05:45:47+02:00",
-    "updated_at": "2022-08-20T07:56:28+02:00",
-    "media_id": "zcexm46at9i4",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6218766/weerbericht-afwisseling-van-zon-en-wolken-en-aangename-temperaturen.html",
     "open_new_window": false,
     "partner": null
   }
