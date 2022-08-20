@@ -1,12 +1,35 @@
 [
   {
+    "id": 6218804,
+    "slug": "hotelgasten-vluchten-voor-terroristen-na-bomaanslag-in-somalie",
+    "type": "video",
+    "title": "Hotelgasten vluchten voor terroristen na bomaanslag in Somalië",
+    "subtitle": "Video",
+    "published_at": "2022-08-20T09:52:24+02:00",
+    "updated_at": "2022-08-20T09:52:25+02:00",
+    "media_id": "oh1xvdtak9o5",
+    "duration": "0:54",
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6218804/hotelgasten-vluchten-voor-terroristen-na-bomaanslag-in-somalie.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6218802,
     "slug": "alcaraz-verliest-verrassend-in-cincinnati-ook-exit-wimbledon-winnares-rybakina",
     "type": "article",
     "title": "Alcaraz verliest verrassend in Cincinnati, ook exit Wimbledon-winnares Rybakina",
     "subtitle": null,
     "published_at": "2022-08-20T09:19:44+02:00",
-    "updated_at": "2022-08-20T09:31:23+02:00",
+    "updated_at": "2022-08-20T10:04:17+02:00",
     "media_id": "kfdxb36aijkw",
     "duration": null,
     "canonical_section": {
@@ -663,29 +686,6 @@
       "partner": null
     },
     "url": "/economie/6218755/wie-nu-een-lamborghini-bestelt-krijgt-hem-pas-in-2024.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6218753,
-    "slug": "gesink-wint-met-jumbo-visma-ploegentijdrit-in-sfeervol-utrecht",
-    "type": "article",
-    "title": "Gesink wint met Jumbo-Visma ploegentijdrit in sfeervol Utrecht",
-    "subtitle": "In beeld",
-    "published_at": "2022-08-19T20:35:20+02:00",
-    "updated_at": "2022-08-19T23:30:35+02:00",
-    "media_id": "uw6xm5dah09m",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772339,
-      "slug": "wielrennen",
-      "type": "default",
-      "name": "Wielrennen",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/wielrennen/6218753/gesink-wint-met-jumbo-visma-ploegentijdrit-in-sfeervol-utrecht.html",
     "open_new_window": false,
     "partner": null
   }
