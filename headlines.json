@@ -1,5 +1,51 @@
 [
   {
+    "id": 6218853,
+    "slug": "facebook-en-instagram-verbannen-beruchte-influencer-andrew-tate",
+    "type": "article",
+    "title": "Facebook en Instagram verbannen beruchte influencer Andrew Tate",
+    "subtitle": null,
+    "published_at": "2022-08-20T16:44:48+02:00",
+    "updated_at": "2022-08-20T16:46:33+02:00",
+    "media_id": "zqrx3xba8cd8",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771438,
+      "slug": "tech",
+      "type": "default",
+      "name": "Tech",
+      "style": "nutech",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/tech/6218853/facebook-en-instagram-verbannen-beruchte-influencer-andrew-tate.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6218852,
+    "slug": "hond-springt-in-water-om-te-zwemmen-met-dolfijn-in-spanje",
+    "type": "video",
+    "title": "Hond springt in water om te zwemmen met dolfijn in Spanje",
+    "subtitle": "Video",
+    "published_at": "2022-08-20T16:42:47+02:00",
+    "updated_at": "2022-08-20T16:42:48+02:00",
+    "media_id": "sr9xn4da1uxf",
+    "duration": "0:36",
+    "canonical_section": {
+      "id": 1772536,
+      "slug": "dieren",
+      "type": "default",
+      "name": "Dieren",
+      "style": "nunjij",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/dieren/6218852/hond-springt-in-water-om-te-zwemmen-met-dolfijn-in-spanje.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6218640,
     "slug": "moedertaboe-ik-mis-mijn-leven-voordat-ik-moeder-werd-ontzettend",
     "type": "article",
@@ -300,13 +346,13 @@
   },
   {
     "id": 6218835,
-    "slug": "van-den-berg-pakt-bergtrui-op-top-van-amerongse-berg",
+    "slug": "peloton-lijkt-af-te-stevenen-op-sprint-in-utrecht",
     "type": "article",
-    "title": "Van den Berg pakt bergtrui op top van Amerongse Berg",
+    "title": "Peloton lijkt af te stevenen op sprint in Utrecht",
     "subtitle": "Liveblog Vuelta",
     "published_at": "2022-08-20T12:55:25+02:00",
-    "updated_at": "2022-08-20T15:57:59+02:00",
-    "media_id": "hdaxuwgartby",
+    "updated_at": "2022-08-20T16:41:08+02:00",
+    "media_id": "2etxogwaot8h",
     "duration": null,
     "canonical_section": {
       "id": 1772339,
@@ -317,7 +363,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/wielrennen/6218835/van-den-berg-pakt-bergtrui-op-top-van-amerongse-berg.html",
+    "url": "/wielrennen/6218835/peloton-lijkt-af-te-stevenen-op-sprint-in-utrecht.html",
     "open_new_window": false,
     "partner": null
   },
@@ -640,52 +686,6 @@
       "partner": null
     },
     "url": "/media/6218797/946000-kijkers-voor-eerste-vuelta-etappe-in-utrecht.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6218792,
-    "slug": "gewilde-antony-sluit-vertrek-bij-ajax-niet-uit-god-bepaalt-mijn-toekomst",
-    "type": "article",
-    "title": "Gewilde Antony sluit vertrek bij Ajax niet uit: 'God bepaalt mijn toekomst'",
-    "subtitle": null,
-    "published_at": "2022-08-20T08:25:17+02:00",
-    "updated_at": "2022-08-20T12:39:01+02:00",
-    "media_id": "jfgxbfzaw0tr",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6218792/gewilde-antony-sluit-vertrek-bij-ajax-niet-uit-god-bepaalt-mijn-toekomst.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6218768,
-    "slug": "jumbo-visma-icoon-gesink-krijgt-ultieme-beloning-voor-zestien-jaar-loyaliteit",
-    "type": "article",
-    "title": "Jumbo-Visma-icoon Gesink krijgt ultieme beloning voor zestien jaar loyaliteit",
-    "subtitle": null,
-    "published_at": "2022-08-20T07:57:32+02:00",
-    "updated_at": "2022-08-20T13:42:46+02:00",
-    "media_id": "ebmxhhaasn3n",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772339,
-      "slug": "wielrennen",
-      "type": "default",
-      "name": "Wielrennen",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/wielrennen/6218768/jumbo-visma-icoon-gesink-krijgt-ultieme-beloning-voor-zestien-jaar-loyaliteit.html",
     "open_new_window": false,
     "partner": null
   }
