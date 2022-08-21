@@ -1,5 +1,28 @@
 [
   {
+    "id": 6218890,
+    "slug": "vlammen-slaan-uit-zeeschip-in-schiedamse-haven",
+    "type": "video",
+    "title": "Vlammen slaan uit zeeschip in Schiedamse haven",
+    "subtitle": "Video",
+    "published_at": "2022-08-21T08:40:55+02:00",
+    "updated_at": "2022-08-21T08:40:55+02:00",
+    "media_id": "qkvxhrga3bp6",
+    "duration": "0:45",
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6218890/vlammen-slaan-uit-zeeschip-in-schiedamse-haven.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6218887,
     "slug": "tsitsipas-verrast-medvedev-en-treft-coric-in-finale-masters-toernooi-cincinnati",
     "type": "article",
@@ -52,7 +75,7 @@
     "title": "Grote brand aan boord van schip in droogdok in Schiedam",
     "subtitle": null,
     "published_at": "2022-08-21T06:59:28+02:00",
-    "updated_at": "2022-08-21T07:55:42+02:00",
+    "updated_at": "2022-08-21T08:42:40+02:00",
     "media_id": "ppsx54xahrbd",
     "duration": null,
     "canonical_section": {
@@ -70,12 +93,12 @@
   },
   {
     "id": 6218883,
-    "slug": "russische-media-dochter-poetinfluisteraar-omgekomen-door-autobom",
+    "slug": "russische-media-dochter-poetin-fluisteraar-omgekomen-door-autobom",
     "type": "article",
-    "title": "Russische media: dochter Poetinfluisteraar omgekomen door autobom",
+    "title": "Russische media: Dochter 'Poetin-fluisteraar' omgekomen door autobom",
     "subtitle": null,
     "published_at": "2022-08-21T06:41:27+02:00",
-    "updated_at": "2022-08-21T06:41:28+02:00",
+    "updated_at": "2022-08-21T08:41:04+02:00",
     "media_id": "l03xn0wafopu",
     "duration": null,
     "canonical_section": {
@@ -87,7 +110,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/buitenland/6218883/russische-media-dochter-poetinfluisteraar-omgekomen-door-autobom.html",
+    "url": "/buitenland/6218883/russische-media-dochter-poetin-fluisteraar-omgekomen-door-autobom.html",
     "open_new_window": false,
     "partner": null
   },
@@ -663,29 +686,6 @@
       "partner": null
     },
     "url": "/wielrennen/6218857/gesink-maalt-niet-om-verlies-rode-trui-supermooi-ik-zag-overal-mensen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6218856,
-    "slug": "becker-op-dreef-tegen-leipzig-dortmund-dramatisch-onderuit-tegen-werder",
-    "type": "article",
-    "title": "Becker op dreef tegen Leipzig, Dortmund dramatisch onderuit tegen Werder",
-    "subtitle": null,
-    "published_at": "2022-08-20T17:42:15+02:00",
-    "updated_at": "2022-08-20T20:51:23+02:00",
-    "media_id": "d3gxiuwaydni",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6218856/becker-op-dreef-tegen-leipzig-dortmund-dramatisch-onderuit-tegen-werder.html",
     "open_new_window": false,
     "partner": null
   }
