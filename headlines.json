@@ -1,12 +1,35 @@
 [
   {
+    "id": 6218907,
+    "slug": "poetin-fluisteraar-vol-ongeloof-na-aanslag-op-dochter-bij-moskou",
+    "type": "video",
+    "title": "'Poetin-fluisteraar' vol ongeloof na aanslag op dochter bij Moskou",
+    "subtitle": "Video",
+    "published_at": "2022-08-21T11:40:33+02:00",
+    "updated_at": "2022-08-21T11:44:43+02:00",
+    "media_id": "yq9x4bcab5gr",
+    "duration": "0:28",
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6218907/poetin-fluisteraar-vol-ongeloof-na-aanslag-op-dochter-bij-moskou.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6218905,
     "slug": "feyenoord-middenvelder-aursnes-staat-voor-transfer-naar-benfica-van-schmidt",
     "type": "article",
     "title": "Feyenoord-middenvelder Aursnes staat voor transfer naar Benfica van Schmidt",
     "subtitle": null,
     "published_at": "2022-08-21T11:26:59+02:00",
-    "updated_at": "2022-08-21T11:28:31+02:00",
+    "updated_at": "2022-08-21T11:44:05+02:00",
     "media_id": "jvlxy95aeaox",
     "duration": null,
     "canonical_section": {
@@ -116,12 +139,12 @@
   },
   {
     "id": 6218897,
-    "slug": "bram-peper-was-op-weg-naar-een-profvoetbalcarriere-maar-ging-liever-studeren",
+    "slug": "bram-peper-was-op-weg-naar-profvoetbalcarriere-maar-ging-liever-studeren",
     "type": "article",
-    "title": "Bram Peper was op weg naar een profvoetbalcarrière, maar ging liever studeren",
+    "title": "Bram Peper was op weg naar profvoetbalcarrière, maar ging liever studeren",
     "subtitle": "Profiel",
     "published_at": "2022-08-21T10:07:13+02:00",
-    "updated_at": "2022-08-21T11:30:38+02:00",
+    "updated_at": "2022-08-21T11:39:21+02:00",
     "media_id": "0q8xe04a0xs6",
     "duration": null,
     "canonical_section": {
@@ -133,7 +156,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/binnenland/6218897/bram-peper-was-op-weg-naar-een-profvoetbalcarriere-maar-ging-liever-studeren.html",
+    "url": "/binnenland/6218897/bram-peper-was-op-weg-naar-profvoetbalcarriere-maar-ging-liever-studeren.html",
     "open_new_window": false,
     "partner": null
   },
@@ -663,29 +686,6 @@
       "partner": null
     },
     "url": "/sport-overig/6218872/estafettemannen-grijpen-naast-ek-medaille-koppelaar-vierde-in-finale-polsstok.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6218873,
-    "slug": "oekraine-stelt-vernietigde-russische-tanks-tentoon-in-kyiv",
-    "type": "video",
-    "title": "Oekraïne stelt vernietigde Russische tanks tentoon in Kyiv",
-    "subtitle": "Video",
-    "published_at": "2022-08-20T21:27:44+02:00",
-    "updated_at": "2022-08-20T21:33:24+02:00",
-    "media_id": "apyx4lpa2hh0",
-    "duration": "1:02",
-    "canonical_section": {
-      "id": 1778980,
-      "slug": "spanningen-oekraine",
-      "type": "default",
-      "name": "Oorlog in Oekraïne",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/spanningen-oekraine/6218873/oekraine-stelt-vernietigde-russische-tanks-tentoon-in-kyiv.html",
     "open_new_window": false,
     "partner": null
   }
