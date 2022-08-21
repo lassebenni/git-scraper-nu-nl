@@ -1,5 +1,51 @@
 [
   {
+    "id": 6218707,
+    "slug": "we-verplaatsen-ons-in-de-alberger-en-in-de-vluchteling",
+    "type": "article",
+    "title": "We verplaatsen ons in de Alberger én in de vluchteling",
+    "subtitle": "Van de hoofdredactie",
+    "published_at": "2022-08-21T09:03:33+02:00",
+    "updated_at": "2022-08-21T09:03:34+02:00",
+    "media_id": "3c9xg5hanp95",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772069,
+      "slug": "blog",
+      "type": "default",
+      "name": "Van de hoofdredactie",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/blog/6218707/we-verplaatsen-ons-in-de-alberger-en-in-de-vluchteling.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6218892,
+    "slug": "menzo-stopt-als-bondscoach-suriname-wegens-lucratief-aanbod-uit-buitenland",
+    "type": "article",
+    "title": "Menzo stopt als bondscoach Suriname wegens lucratief aanbod uit buitenland",
+    "subtitle": null,
+    "published_at": "2022-08-21T08:53:59+02:00",
+    "updated_at": "2022-08-21T09:03:39+02:00",
+    "media_id": "jh8x1u4avwj5",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6218892/menzo-stopt-als-bondscoach-suriname-wegens-lucratief-aanbod-uit-buitenland.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6218890,
     "slug": "vlammen-slaan-uit-zeeschip-in-schiedamse-haven",
     "type": "video",
@@ -29,7 +75,7 @@
     "title": "Tsitsipás verrast Medvedev en treft Coric in finale Masters-toernooi Cincinnati",
     "subtitle": null,
     "published_at": "2022-08-21T08:31:03+02:00",
-    "updated_at": "2022-08-21T08:31:04+02:00",
+    "updated_at": "2022-08-21T09:00:20+02:00",
     "media_id": "czex05aag7ci",
     "duration": null,
     "canonical_section": {
@@ -52,7 +98,7 @@
     "title": "Van den Berg moest drie keer sprinten voor bergtrui: 'Wist niet waar de top was'",
     "subtitle": null,
     "published_at": "2022-08-21T08:04:39+02:00",
-    "updated_at": "2022-08-21T08:04:40+02:00",
+    "updated_at": "2022-08-21T08:59:04+02:00",
     "media_id": "ekexf7tat89b",
     "duration": null,
     "canonical_section": {
@@ -75,7 +121,7 @@
     "title": "Grote brand aan boord van schip in droogdok in Schiedam",
     "subtitle": null,
     "published_at": "2022-08-21T06:59:28+02:00",
-    "updated_at": "2022-08-21T08:42:40+02:00",
+    "updated_at": "2022-08-21T08:51:44+02:00",
     "media_id": "ppsx54xahrbd",
     "duration": null,
     "canonical_section": {
@@ -640,52 +686,6 @@
       "partner": null
     },
     "url": "/voetbal/6218861/dortmund-stort-als-kaartenhuis-in-elkaar-bekijk-winnende-goal-van-burke.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6218860,
-    "slug": "vitesse-blameert-zich-in-eigen-huis-tegen-heerenveen-en-blijft-zonder-punten",
-    "type": "article",
-    "title": "Vitesse blameert zich in eigen huis tegen Heerenveen en blijft zonder punten",
-    "subtitle": null,
-    "published_at": "2022-08-20T18:25:21+02:00",
-    "updated_at": "2022-08-21T02:32:30+02:00",
-    "media_id": "t1ex1f1ai5pu",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6218860/vitesse-blameert-zich-in-eigen-huis-tegen-heerenveen-en-blijft-zonder-punten.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6218857,
-    "slug": "gesink-maalt-niet-om-verlies-rode-trui-supermooi-ik-zag-overal-mensen",
-    "type": "article",
-    "title": "Gesink maalt niet om verlies rode trui: 'Supermooi, ik zag overal mensen'",
-    "subtitle": null,
-    "published_at": "2022-08-20T17:58:39+02:00",
-    "updated_at": "2022-08-20T18:02:59+02:00",
-    "media_id": "5iexkuaah558",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772339,
-      "slug": "wielrennen",
-      "type": "default",
-      "name": "Wielrennen",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/wielrennen/6218857/gesink-maalt-niet-om-verlies-rode-trui-supermooi-ik-zag-overal-mensen.html",
     "open_new_window": false,
     "partner": null
   }
