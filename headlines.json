@@ -1,5 +1,51 @@
 [
   {
+    "id": 6218902,
+    "slug": "coureur-en-omstander-zwaargewond-bij-historisch-race-evenement-in-vlagtwedde",
+    "type": "article",
+    "title": "Coureur en omstander zwaargewond bij historisch race-evenement in Vlagtwedde",
+    "subtitle": null,
+    "published_at": "2022-08-21T10:49:52+02:00",
+    "updated_at": "2022-08-21T10:49:52+02:00",
+    "media_id": "4flxlg8az1gk",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6218902/coureur-en-omstander-zwaargewond-bij-historisch-race-evenement-in-vlagtwedde.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6218901,
+    "slug": "scherpen-zelfkritisch-na-dramatische-nederlaag-bij-debuut-voor-vitesse",
+    "type": "article",
+    "title": "Scherpen zelfkritisch na 'dramatische nederlaag' bij debuut voor Vitesse",
+    "subtitle": null,
+    "published_at": "2022-08-21T10:45:48+02:00",
+    "updated_at": "2022-08-21T10:48:13+02:00",
+    "media_id": "bi7xa4ta1bxb",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6218901/scherpen-zelfkritisch-na-dramatische-nederlaag-bij-debuut-voor-vitesse.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6218899,
     "slug": "mart-hoogkamer-loopt-podium-af-om-bierdouche",
     "type": "video",
@@ -121,7 +167,7 @@
     "title": "Menzo stopt als bondscoach Suriname wegens lucratief aanbod uit buitenland",
     "subtitle": null,
     "published_at": "2022-08-21T08:53:59+02:00",
-    "updated_at": "2022-08-21T09:03:39+02:00",
+    "updated_at": "2022-08-21T10:41:40+02:00",
     "media_id": "jh8x1u4avwj5",
     "duration": null,
     "canonical_section": {
@@ -640,52 +686,6 @@
       "partner": null
     },
     "url": "/binnenland/6218871/voormalig-burgemeester-en-oud-minister-bram-peper-82-overleden.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6218870,
-    "slug": "woeste-zee-zorgt-voor-chaos-bij-ek-openwaterzwemmen-de-leiding-is-het-kwijt",
-    "type": "article",
-    "title": "Woeste zee zorgt voor chaos bij EK openwaterzwemmen: 'De leiding is het kwijt'",
-    "subtitle": null,
-    "published_at": "2022-08-20T21:14:34+02:00",
-    "updated_at": "2022-08-21T02:22:01+02:00",
-    "media_id": "t9nxxdca9fal",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772456,
-      "slug": "sport-overig",
-      "type": "default",
-      "name": "Sport Overig",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/sport-overig/6218870/woeste-zee-zorgt-voor-chaos-bij-ek-openwaterzwemmen-de-leiding-is-het-kwijt.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6218869,
-    "slug": "utrecht-geeft-slechte-seizoenstart-vervolg-in-emmen-cambuur-wint-bij-fortuna",
-    "type": "article",
-    "title": "Utrecht geeft slechte seizoenstart vervolg in Emmen, Cambuur wint bij Fortuna",
-    "subtitle": null,
-    "published_at": "2022-08-20T20:40:02+02:00",
-    "updated_at": "2022-08-21T02:50:23+02:00",
-    "media_id": "y2gxid8ajfn3",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6218869/utrecht-geeft-slechte-seizoenstart-vervolg-in-emmen-cambuur-wint-bij-fortuna.html",
     "open_new_window": false,
     "partner": null
   }
