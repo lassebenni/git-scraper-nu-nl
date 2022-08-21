@@ -1,13 +1,59 @@
 [
   {
+    "id": 6219008,
+    "slug": "somalisch-hotel-in-puin-na-dodelijke-gijzeling-in-mogadishu",
+    "type": "video",
+    "title": "Somalisch hotel in puin na dodelijke gijzeling in Mogadishu",
+    "subtitle": "Video",
+    "published_at": "2022-08-21T22:07:16+02:00",
+    "updated_at": "2022-08-21T22:07:17+02:00",
+    "media_id": "brux8yka60wl",
+    "duration": "0:43",
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6219008/somalisch-hotel-in-puin-na-dodelijke-gijzeling-in-mogadishu.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6219007,
+    "slug": "wijnaldum-breekt-scheenbeen-op-training-as-roma-en-moet-vrezen-voor-wk",
+    "type": "article",
+    "title": "Wijnaldum breekt scheenbeen op training AS Roma en moet vrezen voor WK",
+    "subtitle": null,
+    "published_at": "2022-08-21T21:59:46+02:00",
+    "updated_at": "2022-08-21T22:09:35+02:00",
+    "media_id": "g2txorfaka4m",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6219007/wijnaldum-breekt-scheenbeen-op-training-as-roma-en-moet-vrezen-voor-wk.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6219005,
     "slug": "nederlandse-estafetteploegen-bij-ek-atletiek-net-buiten-medailles-op-4x100-meter",
     "type": "article",
     "title": "Nederlandse estafetteploegen bij EK atletiek net buiten medailles op 4x100 meter",
     "subtitle": null,
     "published_at": "2022-08-21T21:23:53+02:00",
-    "updated_at": "2022-08-21T21:45:55+02:00",
-    "media_id": "331x5xaa261q",
+    "updated_at": "2022-08-21T21:59:55+02:00",
+    "media_id": "i13x977ayue6",
     "duration": null,
     "canonical_section": {
       "id": 1772456,
@@ -167,7 +213,7 @@
     "title": "Visser grijpt op één honderdste naast EK-medaille op 100 meter horden",
     "subtitle": null,
     "published_at": "2022-08-21T19:39:34+02:00",
-    "updated_at": "2022-08-21T21:45:58+02:00",
+    "updated_at": "2022-08-21T21:51:36+02:00",
     "media_id": "v0dxj8waup20",
     "duration": null,
     "canonical_section": {
@@ -640,52 +686,6 @@
       "partner": null
     },
     "url": "/voetbal/6218931/voormalig-fc-groningen-speler-meijer-helpt-club-brugge-aan-zege.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6218919,
-    "slug": "dochter-van-poetin-fluisteraar-aleksandr-dugin-omgekomen-wie-is-hij",
-    "type": "article",
-    "title": "Dochter van 'Poetin-fluisteraar' Aleksandr Dugin omgekomen: wie is hij?",
-    "subtitle": "Profiel",
-    "published_at": "2022-08-21T15:32:40+02:00",
-    "updated_at": "2022-08-21T20:45:39+02:00",
-    "media_id": "bupx86eaxz2b",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6218919/dochter-van-poetin-fluisteraar-aleksandr-dugin-omgekomen-wie-is-hij.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6218930,
-    "slug": "nederlandse-turner-de-munck-schrijft-historie-met-ek-zilver-op-voltige",
-    "type": "article",
-    "title": "Nederlandse turner De Munck schrijft historie met EK-zilver op voltige",
-    "subtitle": null,
-    "published_at": "2022-08-21T15:13:46+02:00",
-    "updated_at": "2022-08-21T18:08:17+02:00",
-    "media_id": "u3gxk8qark5z",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772456,
-      "slug": "sport-overig",
-      "type": "default",
-      "name": "Sport Overig",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/sport-overig/6218930/nederlandse-turner-de-munck-schrijft-historie-met-ek-zilver-op-voltige.html",
     "open_new_window": false,
     "partner": null
   }
