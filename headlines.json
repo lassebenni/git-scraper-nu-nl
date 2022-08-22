@@ -1,12 +1,58 @@
 [
   {
+    "id": 6219025,
+    "slug": "doden-en-ondergelopen-dorpen-door-overstromingen-in-soedan",
+    "type": "video",
+    "title": "Doden en ondergelopen dorpen door overstromingen in Soedan",
+    "subtitle": "Video",
+    "published_at": "2022-08-22T07:48:19+02:00",
+    "updated_at": "2022-08-22T07:48:20+02:00",
+    "media_id": "pdux4ocato4h",
+    "duration": "0:49",
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6219025/doden-en-ondergelopen-dorpen-door-overstromingen-in-soedan.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6219024,
+    "slug": "nederlandse-voetbalsters-bereiken-halve-finales-op-wk-onder-20-jaar",
+    "type": "article",
+    "title": "Nederlandse voetbalsters bereiken halve finales op WK onder 20 jaar",
+    "subtitle": null,
+    "published_at": "2022-08-22T07:43:31+02:00",
+    "updated_at": "2022-08-22T07:52:37+02:00",
+    "media_id": "ns5xmuha3pkx",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6219024/nederlandse-voetbalsters-bereiken-halve-finales-op-wk-onder-20-jaar.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6219023,
     "slug": "vertrouwen-van-consumenten-zakt-naar-laagste-punt-ooit",
     "type": "article",
     "title": "Vertrouwen van consumenten zakt naar laagste punt ooit",
     "subtitle": null,
     "published_at": "2022-08-22T07:31:17+02:00",
-    "updated_at": "2022-08-22T07:36:47+02:00",
+    "updated_at": "2022-08-22T07:40:20+02:00",
     "media_id": "k7exzi6a9y0l",
     "duration": null,
     "canonical_section": {
@@ -47,12 +93,12 @@
   },
   {
     "id": 6219021,
-    "slug": "amerikaanse-acteurs-niet-langer-meer-exclusief-verbonden-aan-een-televisieserie",
+    "slug": "amerikaanse-acteurs-niet-langer-exclusief-verbonden-aan-een-televisieserie",
     "type": "article",
-    "title": "Amerikaanse acteurs niet langer meer exclusief verbonden aan één televisieserie",
+    "title": "Amerikaanse acteurs niet langer exclusief verbonden aan één televisieserie",
     "subtitle": null,
     "published_at": "2022-08-22T07:16:01+02:00",
-    "updated_at": "2022-08-22T07:33:14+02:00",
+    "updated_at": "2022-08-22T07:41:26+02:00",
     "media_id": "w46xywoadep5",
     "duration": null,
     "canonical_section": {
@@ -64,7 +110,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/film/6219021/amerikaanse-acteurs-niet-langer-meer-exclusief-verbonden-aan-een-televisieserie.html",
+    "url": "/film/6219021/amerikaanse-acteurs-niet-langer-exclusief-verbonden-aan-een-televisieserie.html",
     "open_new_window": false,
     "partner": null
   },
@@ -640,52 +686,6 @@
       "partner": null
     },
     "url": "/voetbal/6218990/basisdebutant-de-ligt-maakt-zijn-eerste-goal-voor-superieur-bayern-munchen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6218994,
-    "slug": "duitsland-zoekt-naar-vervolg-op-extreem-goedkoop-en-populair-ov-kaartje",
-    "type": "article",
-    "title": "Duitsland zoekt naar vervolg op extreem goedkoop en populair ov-kaartje",
-    "subtitle": null,
-    "published_at": "2022-08-21T19:13:48+02:00",
-    "updated_at": "2022-08-22T06:15:40+02:00",
-    "media_id": "3bsxn06a1fv3",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6218994/duitsland-zoekt-naar-vervolg-op-extreem-goedkoop-en-populair-ov-kaartje.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6218989,
-    "slug": "albanie-onderzoekt-mogelijke-spionage-russen-en-oekrainer-bij-wapenfabriek",
-    "type": "article",
-    "title": "Albanië onderzoekt mogelijke spionage Russen en Oekraïner bij wapenfabriek",
-    "subtitle": null,
-    "published_at": "2022-08-21T18:54:28+02:00",
-    "updated_at": "2022-08-21T19:01:24+02:00",
-    "media_id": "no5xxcuamzv4",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6218989/albanie-onderzoekt-mogelijke-spionage-russen-en-oekrainer-bij-wapenfabriek.html",
     "open_new_window": false,
     "partner": null
   }
