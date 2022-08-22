@@ -1,5 +1,51 @@
 [
   {
+    "id": 6219214,
+    "slug": "delftse-studentenverenigingen-bestraft-na-mishandelingen-tijdens-ontgroeningen",
+    "type": "article",
+    "title": "Delftse studentenverenigingen bestraft na mishandelingen tijdens ontgroeningen",
+    "subtitle": null,
+    "published_at": "2022-08-22T22:10:29+02:00",
+    "updated_at": "2022-08-22T22:10:30+02:00",
+    "media_id": "vtvxo4daidux",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6219214/delftse-studentenverenigingen-bestraft-na-mishandelingen-tijdens-ontgroeningen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6219213,
+    "slug": "heracles-wint-van-jong-psv-en-blijft-foutloos-in-kkd-zeperd-voor-de-graafschap",
+    "type": "article",
+    "title": "Heracles wint van Jong PSV en blijft foutloos in KKD, zeperd voor De Graafschap",
+    "subtitle": null,
+    "published_at": "2022-08-22T22:02:17+02:00",
+    "updated_at": "2022-08-22T22:02:17+02:00",
+    "media_id": "xufx1a3atpti",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6219213/heracles-wint-van-jong-psv-en-blijft-foutloos-in-kkd-zeperd-voor-de-graafschap.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6219211,
     "slug": "sancho-zet-united-na-prachtige-aanval-op-1-0-tegen-liverpool",
     "type": "video",
@@ -116,13 +162,13 @@
   },
   {
     "id": 6219205,
-    "slug": "united-van-ten-hag-leidt-bij-rust-met-1-0-tegen-liverpool",
+    "slug": "united-van-ten-hag-verdedigt-na-rust-1-0-tegen-liverpool",
     "type": "article",
-    "title": "United van Ten Hag leidt bij rust met 1-0 tegen Liverpool",
+    "title": "United van Ten Hag verdedigt na rust 1-0 tegen Liverpool",
     "subtitle": "Liveblog voetbal",
     "published_at": "2022-08-22T20:08:19+02:00",
-    "updated_at": "2022-08-22T21:46:50+02:00",
-    "media_id": "019xt75ay42x",
+    "updated_at": "2022-08-22T22:05:24+02:00",
+    "media_id": "asvxwggakuy7",
     "duration": null,
     "canonical_section": {
       "id": 1772338,
@@ -133,7 +179,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6219205/united-van-ten-hag-leidt-bij-rust-met-1-0-tegen-liverpool.html",
+    "url": "/voetbal/6219205/united-van-ten-hag-verdedigt-na-rust-1-0-tegen-liverpool.html",
     "open_new_window": false,
     "partner": null
   },
@@ -640,52 +686,6 @@
       "partner": null
     },
     "url": "/tech/6219134/playstation-in-het-vk-voor-de-rechter-gesleept-om-te-dure-games.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6219146,
-    "slug": "nunl-zoekt-journalisten-voor-de-nieuwsredactie-en-een-fulltime-nachtredacteur",
-    "type": "article",
-    "title": "NU.nl zoekt journalisten voor de nieuwsredactie en een fulltime nachtredacteur",
-    "subtitle": null,
-    "published_at": "2022-08-22T16:17:51+02:00",
-    "updated_at": "2022-08-22T17:04:51+02:00",
-    "media_id": "6gexa2xajg4z",
-    "duration": null,
-    "canonical_section": {
-      "id": 1773179,
-      "slug": "uitgelicht",
-      "type": "default",
-      "name": "Uitgelicht",
-      "style": "mediapartner-external",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/uitgelicht/6219146/nunl-zoekt-journalisten-voor-de-nieuwsredactie-en-een-fulltime-nachtredacteur.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6219150,
-    "slug": "helikopter-redt-gestrande-vissers-van-rotsblok-in-ruwe-zee-bij-maleisie",
-    "type": "video",
-    "title": "Helikopter redt gestrande vissers van rotsblok in ruwe zee bij Maleisië",
-    "subtitle": "Video",
-    "published_at": "2022-08-22T16:03:14+02:00",
-    "updated_at": "2022-08-22T16:09:55+02:00",
-    "media_id": "3voxlhiayo0n",
-    "duration": "0:38",
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6219150/helikopter-redt-gestrande-vissers-van-rotsblok-in-ruwe-zee-bij-maleisie.html",
     "open_new_window": false,
     "partner": null
   }
