@@ -1,12 +1,58 @@
 [
   {
+    "id": 6219106,
+    "slug": "wasdrogers-en-bladblazers-hoeveel-van-ons-energiegebruik-is-onnodig",
+    "type": "article",
+    "title": "Wasdrogers en bladblazers: hoeveel van ons energiegebruik is 'onnodig'?",
+    "subtitle": null,
+    "published_at": "2022-08-23T00:00:23+02:00",
+    "updated_at": "2022-08-23T00:00:23+02:00",
+    "media_id": "ptrxtvrapvn9",
+    "duration": null,
+    "canonical_section": {
+      "id": 1778899,
+      "slug": "nu-klimaat",
+      "type": "region",
+      "name": "NU+ Klimaat",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/nu-klimaat/6219106/wasdrogers-en-bladblazers-hoeveel-van-ons-energiegebruik-is-onnodig.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6219224,
+    "slug": "ten-hag-prijst-na-winst-op-liverpool-vooral-andere-houding-en-vechtlust-united",
+    "type": "article",
+    "title": "Ten Hag prijst na winst op Liverpool vooral 'andere houding' en vechtlust United",
+    "subtitle": null,
+    "published_at": "2022-08-22T23:49:28+02:00",
+    "updated_at": "2022-08-23T00:02:27+02:00",
+    "media_id": "o3vx9xga9egu",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6219224/ten-hag-prijst-na-winst-op-liverpool-vooral-andere-houding-en-vechtlust-united.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6219223,
     "slug": "bekijk-hoe-ten-hag-zijn-eerste-zege-met-united-boekt-tegen-liverpool",
     "type": "video",
     "title": "Bekijk hoe Ten Hag zijn eerste zege met United boekt tegen Liverpool",
     "subtitle": "Video",
     "published_at": "2022-08-22T23:25:33+02:00",
-    "updated_at": "2022-08-22T23:32:52+02:00",
+    "updated_at": "2022-08-23T00:01:01+02:00",
     "media_id": "m8lxn51am2yk",
     "duration": "2:48",
     "canonical_section": {
@@ -52,7 +98,7 @@
     "title": "Ten Hag boekt met Manchester United bevrijdende zege in kraker tegen Liverpool",
     "subtitle": null,
     "published_at": "2022-08-22T22:53:29+02:00",
-    "updated_at": "2022-08-22T23:36:09+02:00",
+    "updated_at": "2022-08-23T00:08:06+02:00",
     "media_id": "k4rxioxa2ypn",
     "duration": null,
     "canonical_section": {
@@ -640,52 +686,6 @@
       "partner": null
     },
     "url": "/voetbal/6219187/tuchel-aangeklaagd-voor-kritiek-op-arbitrage-in-veelbesproken-duel-met-spurs.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6219186,
-    "slug": "filipijnse-schoolkinderen-kunnen-na-twee-jaar-coronapandemie-weer-de-klas-in",
-    "type": "article",
-    "title": "Filipijnse schoolkinderen kunnen na twee jaar coronapandemie weer de klas in",
-    "subtitle": null,
-    "published_at": "2022-08-22T17:50:20+02:00",
-    "updated_at": "2022-08-22T17:50:20+02:00",
-    "media_id": "rp7xc8fa1lr2",
-    "duration": null,
-    "canonical_section": {
-      "id": 1778528,
-      "slug": "coronavirus",
-      "type": "default",
-      "name": "Coronavirus",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/coronavirus/6219186/filipijnse-schoolkinderen-kunnen-na-twee-jaar-coronapandemie-weer-de-klas-in.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6219184,
-    "slug": "van-der-poel-maakt-in-druivenkoers-overijse-rentree-na-opgave-in-tour",
-    "type": "article",
-    "title": "Van der Poel maakt in Druivenkoers Overijse rentree na opgave in Tour",
-    "subtitle": null,
-    "published_at": "2022-08-22T17:45:39+02:00",
-    "updated_at": "2022-08-22T17:45:40+02:00",
-    "media_id": "5zqxftda1xcm",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772339,
-      "slug": "wielrennen",
-      "type": "default",
-      "name": "Wielrennen",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/wielrennen/6219184/van-der-poel-maakt-in-druivenkoers-overijse-rentree-na-opgave-in-tour.html",
     "open_new_window": false,
     "partner": null
   }
