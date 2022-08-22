@@ -1,12 +1,58 @@
 [
   {
+    "id": 6219174,
+    "slug": "casemiro-neemt-in-tranen-afscheid-bij-real-dit-was-een-familie",
+    "type": "video",
+    "title": "Casemiro neemt in tranen afscheid bij Real: 'Dit was een familie'",
+    "subtitle": "Video",
+    "published_at": "2022-08-22T17:10:18+02:00",
+    "updated_at": "2022-08-22T17:10:19+02:00",
+    "media_id": "tksx490abesr",
+    "duration": "1:49",
+    "canonical_section": {
+      "id": 149,
+      "slug": "sport",
+      "type": "default",
+      "name": "Sport",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/sport/6219174/casemiro-neemt-in-tranen-afscheid-bij-real-dit-was-een-familie.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6219169,
+    "slug": "ramp-in-de-oder-duitsers-en-polen-ruzien-over-massale-vissterfte",
+    "type": "video",
+    "title": "Ramp in de Oder: Duitsers en Polen ruziën over massale vissterfte",
+    "subtitle": "Video",
+    "published_at": "2022-08-22T16:55:52+02:00",
+    "updated_at": "2022-08-22T16:55:52+02:00",
+    "media_id": "7q6xdraajnjo",
+    "duration": "2:30",
+    "canonical_section": {
+      "id": 100,
+      "slug": "algemeen",
+      "type": "default",
+      "name": "Algemeen",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/algemeen/6219169/ramp-in-de-oder-duitsers-en-polen-ruzien-over-massale-vissterfte.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6219163,
     "slug": "geen-psv-fans-welkom-bij-volgende-ajax-psv-vanwege-antisemitische-liederen",
     "type": "article",
     "title": "Geen PSV-fans welkom bij volgende Ajax-PSV vanwege antisemitische liederen",
     "subtitle": null,
     "published_at": "2022-08-22T16:40:29+02:00",
-    "updated_at": "2022-08-22T16:42:51+02:00",
+    "updated_at": "2022-08-22T17:05:48+02:00",
     "media_id": "tyax6ifamqsz",
     "duration": null,
     "canonical_section": {
@@ -75,7 +121,7 @@
     "title": "NU.nl zoekt journalisten voor de nieuwsredactie en een fulltime nachtredacteur",
     "subtitle": null,
     "published_at": "2022-08-22T16:17:51+02:00",
-    "updated_at": "2022-08-22T16:17:52+02:00",
+    "updated_at": "2022-08-22T17:04:51+02:00",
     "media_id": "6gexa2xajg4z",
     "duration": null,
     "canonical_section": {
@@ -351,7 +397,7 @@
     "title": "Albert Heijn verlengt actie met gratis producten omdat ze vaak op zijn",
     "subtitle": null,
     "published_at": "2022-08-22T12:36:18+02:00",
-    "updated_at": "2022-08-22T16:28:21+02:00",
+    "updated_at": "2022-08-22T17:04:35+02:00",
     "media_id": "qvcxzs8a3pu9",
     "duration": null,
     "canonical_section": {
@@ -640,52 +686,6 @@
       "partner": null
     },
     "url": "/sport-overig/6219075/van-de-zandschulp-stijgt-naar-hoogste-positie-ooit-op-wereldranglijst.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6219076,
-    "slug": "wereldkampioen-tijdrijden-van-dijk-35-gaat-door-tot-en-met-spelen-in-parijs",
-    "type": "article",
-    "title": "Wereldkampioen tijdrijden Van Dijk (35) gaat door tot en met Spelen in Parijs",
-    "subtitle": null,
-    "published_at": "2022-08-22T10:54:59+02:00",
-    "updated_at": "2022-08-22T10:59:05+02:00",
-    "media_id": "a1nxub0av03l",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772339,
-      "slug": "wielrennen",
-      "type": "default",
-      "name": "Wielrennen",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/wielrennen/6219076/wereldkampioen-tijdrijden-van-dijk-35-gaat-door-tot-en-met-spelen-in-parijs.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6219064,
-    "slug": "wetenschappers-in-brandbrief-genoeg-kennis-om-stikstofcrisis-nu-aan-te-pakken",
-    "type": "article",
-    "title": "Wetenschappers in brandbrief: 'Genoeg kennis om stikstofcrisis nu aan te pakken'",
-    "subtitle": null,
-    "published_at": "2022-08-22T10:47:45+02:00",
-    "updated_at": "2022-08-22T11:52:52+02:00",
-    "media_id": "u41xqfpanx3k",
-    "duration": null,
-    "canonical_section": {
-      "id": 1778778,
-      "slug": "stikstof",
-      "type": "default",
-      "name": "Stikstof",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/stikstof/6219064/wetenschappers-in-brandbrief-genoeg-kennis-om-stikstofcrisis-nu-aan-te-pakken.html",
     "open_new_window": false,
     "partner": null
   }
