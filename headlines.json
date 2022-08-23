@@ -1,12 +1,35 @@
 [
   {
+    "id": 6219419,
+    "slug": "oud-ajacied-neres-zet-benfica-op-3-0-tegen-kyiv",
+    "type": "video",
+    "title": "Oud-Ajacied Neres zet Benfica op 3-0 tegen Kyiv",
+    "subtitle": "Video",
+    "published_at": "2022-08-23T22:25:08+02:00",
+    "updated_at": "2022-08-23T22:25:09+02:00",
+    "media_id": "vf0xnqdazf5f",
+    "duration": "1:15",
+    "canonical_section": {
+      "id": 149,
+      "slug": "sport",
+      "type": "default",
+      "name": "Sport",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/sport/6219419/oud-ajacied-neres-zet-benfica-op-3-0-tegen-kyiv.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6219418,
     "slug": "van-der-burg-over-onveilig-gevoel-bij-azc-zwaar-klote-maar-onnodig",
     "type": "video",
     "title": "Van der Burg over onveilig gevoel bij azc: 'Zwaar klote, maar onnodig'",
     "subtitle": "Video",
     "published_at": "2022-08-23T22:02:20+02:00",
-    "updated_at": "2022-08-23T22:10:51+02:00",
+    "updated_at": "2022-08-23T22:12:35+02:00",
     "media_id": "qh2xb3gaj8vg",
     "duration": "1:04",
     "canonical_section": {
@@ -116,12 +139,12 @@
   },
   {
     "id": 6219414,
-    "slug": "russische-aanvallen-en-groot-wapenpakket-verwacht-op-feestdag-oekraine",
+    "slug": "russische-aanvallen-en-wapenpakket-verwacht-op-feestdag-oekraine",
     "type": "article",
-    "title": "Russische aanvallen én groot wapenpakket verwacht op feestdag Oekraïne",
+    "title": "Russische aanvallen én wapenpakket verwacht op feestdag Oekraïne",
     "subtitle": "Overzicht",
     "published_at": "2022-08-23T20:36:17+02:00",
-    "updated_at": "2022-08-23T22:10:20+02:00",
+    "updated_at": "2022-08-23T22:13:15+02:00",
     "media_id": "l97xhe6a89ah",
     "duration": null,
     "canonical_section": {
@@ -133,7 +156,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/spanningen-oekraine/6219414/russische-aanvallen-en-groot-wapenpakket-verwacht-op-feestdag-oekraine.html",
+    "url": "/spanningen-oekraine/6219414/russische-aanvallen-en-wapenpakket-verwacht-op-feestdag-oekraine.html",
     "open_new_window": false,
     "partner": null
   },
@@ -167,7 +190,7 @@
     "title": "Hoekstra staat achter stikstofdoel én achter uitspraak waarin hij dat doel loslaat",
     "subtitle": null,
     "published_at": "2022-08-23T20:19:55+02:00",
-    "updated_at": "2022-08-23T20:45:59+02:00",
+    "updated_at": "2022-08-23T22:13:43+02:00",
     "media_id": "ylqx48gab8hq",
     "duration": null,
     "canonical_section": {
@@ -663,29 +686,6 @@
       "partner": null
     },
     "url": "/voetbal/6219361/nac-breda-strikt-voormalig-psv-directeur-gerbrands-als-adviseur.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6219355,
-    "slug": "nederlandse-verdachte-van-verdrinking-in-gent-op-borgtocht-vrij",
-    "type": "article",
-    "title": "Nederlandse verdachte van verdrinking in Gent op borgtocht vrij",
-    "subtitle": null,
-    "published_at": "2022-08-23T15:50:16+02:00",
-    "updated_at": "2022-08-23T15:50:17+02:00",
-    "media_id": "bkixd3bazzop",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6219355/nederlandse-verdachte-van-verdrinking-in-gent-op-borgtocht-vrij.html",
     "open_new_window": false,
     "partner": null
   }
