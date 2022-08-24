@@ -1,12 +1,35 @@
 [
   {
+    "id": 6219581,
+    "slug": "az-bevestigt-komst-mihailovic-amerikaans-international-vanaf-januari-inzetbaar",
+    "type": "article",
+    "title": "AZ bevestigt komst Mihailovic, Amerikaans international vanaf januari inzetbaar",
+    "subtitle": null,
+    "published_at": "2022-08-24T16:35:50+02:00",
+    "updated_at": "2022-08-24T16:39:46+02:00",
+    "media_id": "lrgx7znapjux",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6219581/az-bevestigt-komst-mihailovic-amerikaans-international-vanaf-januari-inzetbaar.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6219578,
     "slug": "duitsland-zet-lichten-uit-en-draait-thermostaat-lager-om-gas-te-besparen",
     "type": "article",
     "title": "Duitsland zet lichten uit en draait thermostaat lager om gas te besparen",
     "subtitle": null,
     "published_at": "2022-08-24T16:23:00+02:00",
-    "updated_at": "2022-08-24T16:23:01+02:00",
+    "updated_at": "2022-08-24T16:32:22+02:00",
     "media_id": "fvjx3hpa9me6",
     "duration": null,
     "canonical_section": {
@@ -29,7 +52,7 @@
     "title": "Ricciardo dient contract niet uit en vertrekt eind dit jaar bij McLaren",
     "subtitle": null,
     "published_at": "2022-08-24T16:10:31+02:00",
-    "updated_at": "2022-08-24T16:19:38+02:00",
+    "updated_at": "2022-08-24T16:34:05+02:00",
     "media_id": "3uvxt8fa65cf",
     "duration": null,
     "canonical_section": {
@@ -75,7 +98,7 @@
     "title": "KNVB presenteert Jonker als bondscoach van de Oranjevrouwen",
     "subtitle": "Livestream",
     "published_at": "2022-08-24T15:58:31+02:00",
-    "updated_at": "2022-08-24T16:23:47+02:00",
+    "updated_at": "2022-08-24T16:36:52+02:00",
     "media_id": "y5sxqopa2zfz",
     "duration": "0:01",
     "canonical_section": {
@@ -663,29 +686,6 @@
       "partner": null
     },
     "url": "/voetbal/6219499/knvb-vindt-jonker-als-bondscoach-oranjevrouwen-voor-de-hand-liggende-keuze.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6219494,
-    "slug": "zelensky-op-onafhankelijkheidsdag-we-gaan-door-tot-het-einde",
-    "type": "video",
-    "title": "Zelensky op Onafhankelijkheidsdag: 'We gaan door tot het einde'",
-    "subtitle": "Video",
-    "published_at": "2022-08-24T11:11:48+02:00",
-    "updated_at": "2022-08-24T13:23:01+02:00",
-    "media_id": "g1xxovgadaov",
-    "duration": "1:09",
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6219494/zelensky-op-onafhankelijkheidsdag-we-gaan-door-tot-het-einde.html",
     "open_new_window": false,
     "partner": null
   }
