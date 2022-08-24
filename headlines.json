@@ -1,5 +1,28 @@
 [
   {
+    "id": 6219468,
+    "slug": "facebook-gebruikers-klagen-massaal-over-vreemde-berichten-op-tijdlijn",
+    "type": "article",
+    "title": "Facebook-gebruikers klagen massaal over vreemde berichten op tijdlijn",
+    "subtitle": null,
+    "published_at": "2022-08-24T09:51:47+02:00",
+    "updated_at": "2022-08-24T10:10:03+02:00",
+    "media_id": "b8ix328a5wil",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771438,
+      "slug": "tech",
+      "type": "default",
+      "name": "Tech",
+      "style": "nutech",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/tech/6219468/facebook-gebruikers-klagen-massaal-over-vreemde-berichten-op-tijdlijn.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6219465,
     "slug": "delfts-blauw-maker-profiteert-van-einde-coronacrisis-en-boekt-meer-omzet",
     "type": "article",
@@ -47,12 +70,12 @@
   },
   {
     "id": 6219463,
-    "slug": "bekijk-de-hoogtepunten-van-duel-tussen-van-de-zandschulp-en-griekspoor",
+    "slug": "de-hoogtepunten-van-het-duel-tussen-van-de-zandschulp-en-griekspoor",
     "type": "video",
-    "title": "Bekijk de hoogtepunten van duel tussen Van de Zandschulp en Griekspoor",
+    "title": "De hoogtepunten van het duel tussen Van de Zandschulp en Griekspoor",
     "subtitle": "Video",
     "published_at": "2022-08-24T09:34:00+02:00",
-    "updated_at": "2022-08-24T09:46:05+02:00",
+    "updated_at": "2022-08-24T10:06:54+02:00",
     "media_id": "qbvx8t0apxck",
     "duration": "1:02",
     "canonical_section": {
@@ -64,7 +87,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/sport/6219463/bekijk-de-hoogtepunten-van-duel-tussen-van-de-zandschulp-en-griekspoor.html",
+    "url": "/sport/6219463/de-hoogtepunten-van-het-duel-tussen-van-de-zandschulp-en-griekspoor.html",
     "open_new_window": false,
     "partner": null
   },
@@ -98,7 +121,7 @@
     "title": "Drone vervoert voor het eerst in Europa menselijk weefsel tussen ziekenhuizen",
     "subtitle": null,
     "published_at": "2022-08-24T09:23:07+02:00",
-    "updated_at": "2022-08-24T09:23:08+02:00",
+    "updated_at": "2022-08-24T10:07:09+02:00",
     "media_id": "n09xtsxacfuj",
     "duration": null,
     "canonical_section": {
@@ -663,29 +686,6 @@
       "partner": null
     },
     "url": "/buitenland/6219415/brandweer-takelt-gestolen-auto-uit-metrostation-in-madrid.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6219414,
-    "slug": "russische-aanvallen-en-wapenpakket-verwacht-op-feestdag-oekraine",
-    "type": "article",
-    "title": "Russische aanvallen én wapenpakket verwacht op feestdag Oekraïne",
-    "subtitle": "Overzicht",
-    "published_at": "2022-08-23T20:36:17+02:00",
-    "updated_at": "2022-08-23T22:13:15+02:00",
-    "media_id": "l97xhe6a89ah",
-    "duration": null,
-    "canonical_section": {
-      "id": 1778980,
-      "slug": "spanningen-oekraine",
-      "type": "default",
-      "name": "Oorlog in Oekraïne",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/spanningen-oekraine/6219414/russische-aanvallen-en-wapenpakket-verwacht-op-feestdag-oekraine.html",
     "open_new_window": false,
     "partner": null
   }
