@@ -1,12 +1,81 @@
 [
   {
-    "id": 6219487,
-    "slug": "verzekeraar-asr-maakt-zich-zorgen-over-impact-van-klimaatverandering",
+    "id": 6219501,
+    "slug": "opnieuw-zit-binnenvaartschip-vast-in-waal-bij-nijmegen",
+    "type": "video",
+    "title": "Opnieuw zit binnenvaartschip vast in Waal bij Nijmegen",
+    "subtitle": "Video",
+    "published_at": "2022-08-24T11:30:38+02:00",
+    "updated_at": "2022-08-24T11:30:39+02:00",
+    "media_id": "u0exx1yamxs2",
+    "duration": "0:45",
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6219501/opnieuw-zit-binnenvaartschip-vast-in-waal-bij-nijmegen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6219499,
+    "slug": "knvb-vindt-jonker-als-bondscoach-oranjevrouwen-voor-de-hand-liggende-keuze",
     "type": "article",
-    "title": "Verzekeraar ASR maakt zich zorgen over impact van klimaatverandering",
+    "title": "KNVB vindt Jonker als bondscoach Oranjevrouwen 'voor de hand liggende keuze'",
+    "subtitle": null,
+    "published_at": "2022-08-24T11:22:50+02:00",
+    "updated_at": "2022-08-24T11:22:51+02:00",
+    "media_id": "tclxgyeags2j",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6219499/knvb-vindt-jonker-als-bondscoach-oranjevrouwen-voor-de-hand-liggende-keuze.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6219494,
+    "slug": "zelensky-spreekt-oekrainers-toe-op-onafhankelijkheidsdag",
+    "type": "video",
+    "title": "Zelensky spreekt Oekraïners toe op Onafhankelijkheidsdag",
+    "subtitle": "Video",
+    "published_at": "2022-08-24T11:11:48+02:00",
+    "updated_at": "2022-08-24T11:11:48+02:00",
+    "media_id": "g1xxovgadaov",
+    "duration": "1:09",
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6219494/zelensky-spreekt-oekrainers-toe-op-onafhankelijkheidsdag.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6219487,
+    "slug": "asr-verwacht-dat-schadeverzekeringen-duurder-worden-door-klimaatverandering",
+    "type": "article",
+    "title": "ASR verwacht dat schadeverzekeringen duurder worden door klimaatverandering",
     "subtitle": null,
     "published_at": "2022-08-24T11:08:09+02:00",
-    "updated_at": "2022-08-24T11:08:10+02:00",
+    "updated_at": "2022-08-24T11:11:32+02:00",
     "media_id": "ydixccpask3r",
     "duration": null,
     "canonical_section": {
@@ -18,7 +87,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/economie/6219487/verzekeraar-asr-maakt-zich-zorgen-over-impact-van-klimaatverandering.html",
+    "url": "/economie/6219487/asr-verwacht-dat-schadeverzekeringen-duurder-worden-door-klimaatverandering.html",
     "open_new_window": false,
     "partner": null
   },
@@ -29,7 +98,7 @@
     "title": "Andries Jonker volgt ontslagen Parsons op als bondscoach van Oranjevrouwen",
     "subtitle": null,
     "published_at": "2022-08-24T11:00:56+02:00",
-    "updated_at": "2022-08-24T11:10:38+02:00",
+    "updated_at": "2022-08-24T11:29:31+02:00",
     "media_id": "606xeuyaxvbt",
     "duration": null,
     "canonical_section": {
@@ -52,7 +121,7 @@
     "title": "Rustige stations in noorden door staking, elders in het land ook treinuitval",
     "subtitle": null,
     "published_at": "2022-08-24T10:53:17+02:00",
-    "updated_at": "2022-08-24T11:03:24+02:00",
+    "updated_at": "2022-08-24T11:21:29+02:00",
     "media_id": "5m5x6ofac50x",
     "duration": null,
     "canonical_section": {
@@ -121,7 +190,7 @@
     "title": "700 mensen sliepen afgelopen nacht buiten bij aanmeldcentrum Ter Apel",
     "subtitle": null,
     "published_at": "2022-08-24T10:20:42+02:00",
-    "updated_at": "2022-08-24T11:06:12+02:00",
+    "updated_at": "2022-08-24T11:21:18+02:00",
     "media_id": "urtxi66ak4p7",
     "duration": null,
     "canonical_section": {
@@ -167,7 +236,7 @@
     "title": "Facebook-gebruikers klagen massaal over vreemde berichten op tijdlijn",
     "subtitle": null,
     "published_at": "2022-08-24T09:51:47+02:00",
-    "updated_at": "2022-08-24T10:10:03+02:00",
+    "updated_at": "2022-08-24T11:11:28+02:00",
     "media_id": "b8ix328a5wil",
     "duration": null,
     "canonical_section": {
@@ -617,75 +686,6 @@
       "partner": null
     },
     "url": "/dieren/6219422/indische-zeekoe-uitgestorven-verklaard-in-china-wereldwijde-uitsterving-gevreesd.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6219421,
-    "slug": "deel-personeel-ter-apel-legde-dinsdag-het-werk-neer-waar-doe-ik-het-voor",
-    "type": "article",
-    "title": "Deel personeel Ter Apel legde dinsdag het werk neer: 'Waar doe ik het voor?'",
-    "subtitle": null,
-    "published_at": "2022-08-24T01:20:42+02:00",
-    "updated_at": "2022-08-24T07:05:42+02:00",
-    "media_id": "jb0x3hpajxw6",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6219421/deel-personeel-ter-apel-legde-dinsdag-het-werk-neer-waar-doe-ik-het-voor.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6219345,
-    "slug": "noord-hollandse-economie-groeide-met-10-procent-dankzij-toerisme",
-    "type": "article",
-    "title": "Noord-Hollandse economie groeide met 10 procent dankzij toerisme",
-    "subtitle": null,
-    "published_at": "2022-08-24T00:07:19+02:00",
-    "updated_at": "2022-08-24T00:07:19+02:00",
-    "media_id": "sh1x2soah4r6",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6219345/noord-hollandse-economie-groeide-met-10-procent-dankzij-toerisme.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6219383,
-    "slug": "steeds-meer-koninginnenpages-maar-de-vlinder-vliegt-niet-zomaar-in-je-tuin",
-    "type": "article",
-    "title": "Steeds meer koninginnenpages, maar de vlinder vliegt niet zomaar in je tuin",
-    "subtitle": null,
-    "published_at": "2022-08-24T00:05:59+02:00",
-    "updated_at": "2022-08-24T09:10:09+02:00",
-    "media_id": "2o4xcclaxqlz",
-    "duration": null,
-    "canonical_section": {
-      "id": 1778899,
-      "slug": "nu-klimaat",
-      "type": "region",
-      "name": "NU+ Klimaat",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/nu-klimaat/6219383/steeds-meer-koninginnenpages-maar-de-vlinder-vliegt-niet-zomaar-in-je-tuin.html",
     "open_new_window": false,
     "partner": null
   }
