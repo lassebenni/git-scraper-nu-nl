@@ -1,5 +1,51 @@
 [
   {
+    "id": 6219752,
+    "slug": "tweede-regionale-hittegolf-van-2022-is-een-feit",
+    "type": "article",
+    "title": "Tweede regionale hittegolf van 2022 is een feit",
+    "subtitle": null,
+    "published_at": "2022-08-25T12:46:39+02:00",
+    "updated_at": "2022-08-25T12:46:40+02:00",
+    "media_id": "aizxwnhatxsh",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6219752/tweede-regionale-hittegolf-van-2022-is-een-feit.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6219751,
+    "slug": "tot-nu-toe-meer-dan-tweehonderd-doden-door-clustermunitie-in-oekraine",
+    "type": "article",
+    "title": "Tot nu toe meer dan tweehonderd doden door clustermunitie in Oekraïne",
+    "subtitle": null,
+    "published_at": "2022-08-25T12:41:07+02:00",
+    "updated_at": "2022-08-25T12:41:08+02:00",
+    "media_id": "px7xoq7aijrv",
+    "duration": null,
+    "canonical_section": {
+      "id": 1778980,
+      "slug": "spanningen-oekraine",
+      "type": "default",
+      "name": "Oorlog in Oekraïne",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/spanningen-oekraine/6219751/tot-nu-toe-meer-dan-tweehonderd-doden-door-clustermunitie-in-oekraine.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6219705,
     "slug": "wat-wil-jij-weten-over-de-asielcrisis-stel-je-vragen-aan-onze-verslaggever",
     "type": "article",
@@ -98,7 +144,7 @@
     "title": "Rechtszaak over moord op Peter R. de Vries moet mogelijk opnieuw",
     "subtitle": null,
     "published_at": "2022-08-25T11:44:58+02:00",
-    "updated_at": "2022-08-25T12:31:04+02:00",
+    "updated_at": "2022-08-25T12:36:35+02:00",
     "media_id": "l2uxpdeacqho",
     "duration": null,
     "canonical_section": {
@@ -640,52 +686,6 @@
       "partner": null
     },
     "url": "/buitenland/6219683/brandweer-filmt-vuurtornado-bij-bosbrand-in-portugal.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6219678,
-    "slug": "brouwer-als-vierde-nederlander-verder-in-kwalificaties-us-open",
-    "type": "article",
-    "title": "Brouwer als vierde Nederlander verder in kwalificaties US Open",
-    "subtitle": null,
-    "published_at": "2022-08-25T08:35:01+02:00",
-    "updated_at": "2022-08-25T09:37:02+02:00",
-    "media_id": "o5jxv4nads7x",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772432,
-      "slug": "tennis",
-      "type": "default",
-      "name": "Tennis",
-      "style": "nusport",
-      "media_id": "m1oxohpan0gq",
-      "partner": null
-    },
-    "url": "/tennis/6219678/brouwer-als-vierde-nederlander-verder-in-kwalificaties-us-open.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6219667,
-    "slug": "apple-bevestigt-online-presentatie-op-7-september",
-    "type": "article",
-    "title": "Apple bevestigt: online presentatie op 7 september",
-    "subtitle": null,
-    "published_at": "2022-08-25T08:19:25+02:00",
-    "updated_at": "2022-08-25T08:27:15+02:00",
-    "media_id": "ytqx9lcackpy",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771438,
-      "slug": "tech",
-      "type": "default",
-      "name": "Tech",
-      "style": "nutech",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/tech/6219667/apple-bevestigt-online-presentatie-op-7-september.html",
     "open_new_window": false,
     "partner": null
   }
