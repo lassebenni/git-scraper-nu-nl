@@ -1,12 +1,35 @@
 [
   {
+    "id": 6220126,
+    "slug": "live-staatssecretaris-van-der-burg-staat-pers-te-woord-over-het-asielbeleid",
+    "type": "video",
+    "title": "Live: Staatssecretaris Van der Burg staat pers te woord over het asielbeleid",
+    "subtitle": "Livestream",
+    "published_at": "2022-08-26T18:29:02+02:00",
+    "updated_at": "2022-08-26T18:32:46+02:00",
+    "media_id": "46xxauha07bn",
+    "duration": "0:01",
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6220126/live-staatssecretaris-van-der-burg-staat-pers-te-woord-over-het-asielbeleid.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6220120,
     "slug": "verstappen-ruim-de-snelste-in-tweede-training-gp-belgie",
     "type": "article",
     "title": "Verstappen ruim de snelste in tweede training GP België",
     "subtitle": null,
     "published_at": "2022-08-26T18:02:59+02:00",
-    "updated_at": "2022-08-26T18:03:00+02:00",
+    "updated_at": "2022-08-26T18:26:30+02:00",
     "media_id": "ufix400auw36",
     "duration": null,
     "canonical_section": {
@@ -663,29 +686,6 @@
       "partner": null
     },
     "url": "/media/6220017/roelof-hemmen-krijgt-vaste-rol-in-talkshow-van-eva-jinek.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6220022,
-    "slug": "reacties-na-razendsnelle-tijd-verstappen-in-tweede-training",
-    "type": "article",
-    "title": "Reacties na razendsnelle tijd Verstappen in tweede training",
-    "subtitle": "Liveblog F1",
-    "published_at": "2022-08-26T13:55:10+02:00",
-    "updated_at": "2022-08-26T18:00:49+02:00",
-    "media_id": "e8rxe6gav9y0",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772449,
-      "slug": "formule-1",
-      "type": "default",
-      "name": "Formule 1",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/formule-1/6220022/reacties-na-razendsnelle-tijd-verstappen-in-tweede-training.html",
     "open_new_window": false,
     "partner": null
   }
