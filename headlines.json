@@ -1,5 +1,28 @@
 [
   {
+    "id": 6220251,
+    "slug": "go-ahead-thuis-tegen-sparta-op-jacht-naar-eerste-punten",
+    "type": "article",
+    "title": "Go Ahead thuis tegen Sparta op jacht naar eerste punten",
+    "subtitle": null,
+    "published_at": "2022-08-27T16:23:35+02:00",
+    "updated_at": "2022-08-27T16:25:08+02:00",
+    "media_id": "0fkxc1wacahl",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6220251/go-ahead-thuis-tegen-sparta-op-jacht-naar-eerste-punten.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6220246,
     "slug": "volleyballers-openen-wk-in-slovenie-met-simpele-zege-op-egypte",
     "type": "article",
@@ -29,7 +52,7 @@
     "title": "Bruno Fernandes helpt United van Ten Hag aan moeizame zege bij Southampton",
     "subtitle": null,
     "published_at": "2022-08-27T15:24:07+02:00",
-    "updated_at": "2022-08-27T15:43:30+02:00",
+    "updated_at": "2022-08-27T16:14:52+02:00",
     "media_id": "nsexpkpan62x",
     "duration": null,
     "canonical_section": {
@@ -117,13 +140,13 @@
   {
     "id": 6220231,
     "slug": "leclerc-veroorzaakt-rode-vlag-tijdens-derde-training-op-spa",
-    "type": "article",
+    "type": "video",
     "title": "Leclerc veroorzaakt rode vlag tijdens derde training op Spa",
     "subtitle": "Video",
     "published_at": "2022-08-27T14:22:18+02:00",
-    "updated_at": "2022-08-27T16:01:34+02:00",
+    "updated_at": "2022-08-27T16:17:03+02:00",
     "media_id": "2dix8u3a0d3m",
-    "duration": null,
+    "duration": "1:15",
     "canonical_section": {
       "id": 1772449,
       "slug": "formule-1",
@@ -185,12 +208,12 @@
   },
   {
     "id": 6220215,
-    "slug": "kwalificatie-gp-belgie-uitgesteld-wegens-werkzaamheden",
+    "slug": "kwalificatie-gp-belgie-met-uitstel-begonnen-op-spa",
     "type": "article",
-    "title": "Kwalificatie GP België uitgesteld wegens werkzaamheden",
+    "title": "Kwalificatie GP België met uitstel begonnen op Spa",
     "subtitle": "Liveblog F1",
     "published_at": "2022-08-27T12:51:21+02:00",
-    "updated_at": "2022-08-27T15:57:10+02:00",
+    "updated_at": "2022-08-27T16:25:42+02:00",
     "media_id": "2j5xry4apml9",
     "duration": null,
     "canonical_section": {
@@ -202,7 +225,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/formule-1/6220215/kwalificatie-gp-belgie-uitgesteld-wegens-werkzaamheden.html",
+    "url": "/formule-1/6220215/kwalificatie-gp-belgie-met-uitstel-begonnen-op-spa.html",
     "open_new_window": false,
     "partner": null
   },
@@ -663,29 +686,6 @@
       "partner": null
     },
     "url": "/buitenland/6220166/mexicaanse-politie-droeg-studenten-in-2014-over-aan-leger-zeker-zes-gedood.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6220109,
-    "slug": "dit-maakt-de-situatie-bij-oekraiense-kerncentrale-steeds-zorgelijker",
-    "type": "video",
-    "title": "Dit maakt de situatie bij Oekraïense kerncentrale steeds zorgelijker",
-    "subtitle": "Video",
-    "published_at": "2022-08-27T06:00:36+02:00",
-    "updated_at": "2022-08-27T10:55:07+02:00",
-    "media_id": "1wix9v0aujrc",
-    "duration": "2:48",
-    "canonical_section": {
-      "id": 100,
-      "slug": "algemeen",
-      "type": "default",
-      "name": "Algemeen",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/algemeen/6220109/dit-maakt-de-situatie-bij-oekraiense-kerncentrale-steeds-zorgelijker.html",
     "open_new_window": false,
     "partner": null
   }
