@@ -1,12 +1,35 @@
 [
   {
+    "id": 6220172,
+    "slug": "bijna-heel-nederland-kampt-in-2023-met-hoge-energieprijzen",
+    "type": "video",
+    "title": "Bijna heel Nederland kampt in 2023 met hoge energieprijzen",
+    "subtitle": "Video",
+    "published_at": "2022-08-27T07:54:27+02:00",
+    "updated_at": "2022-08-27T07:54:27+02:00",
+    "media_id": "xeixf0ja5xus",
+    "duration": "1:18",
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6220172/bijna-heel-nederland-kampt-in-2023-met-hoge-energieprijzen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6220068,
-    "slug": "is-dit-een-asielcrisis-of-opvangcrisis-drie-grafieken-geven-antwoord-op-jullie-vragen",
+    "slug": "is-dit-een-asiel-of-opvangcrisis-grafieken-geven-antwoord-op-jullie-vragen",
     "type": "article",
-    "title": "'Is dit een asielcrisis of opvangcrisis?' Drie grafieken geven antwoord op jullie vragen",
+    "title": "'Is dit een asiel- of opvangcrisis?' Grafieken geven antwoord op jullie vragen",
     "subtitle": null,
     "published_at": "2022-08-27T06:44:59+02:00",
-    "updated_at": "2022-08-27T06:53:43+02:00",
+    "updated_at": "2022-08-27T07:51:56+02:00",
     "media_id": "vcdxduwaxun4",
     "duration": null,
     "canonical_section": {
@@ -18,7 +41,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/binnenland/6220068/is-dit-een-asielcrisis-of-opvangcrisis-drie-grafieken-geven-antwoord-op-jullie-vragen.html",
+    "url": "/binnenland/6220068/is-dit-een-asiel-of-opvangcrisis-grafieken-geven-antwoord-op-jullie-vragen.html",
     "open_new_window": false,
     "partner": null
   },
@@ -167,7 +190,7 @@
     "title": "Rusland blokkeert VN-akkoord tegen kernwapens",
     "subtitle": null,
     "published_at": "2022-08-27T05:21:05+02:00",
-    "updated_at": "2022-08-27T05:35:01+02:00",
+    "updated_at": "2022-08-27T08:04:06+02:00",
     "media_id": "uynxu8xagb64",
     "duration": null,
     "canonical_section": {
@@ -663,29 +686,6 @@
       "partner": null
     },
     "url": "/tennis/6220137/pattinama-kerkhove-en-de-jong-stranden-in-laatste-kwalificatieronde-us-open.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6220130,
-    "slug": "rutte-hoopt-op-woningen-voor-statushouders-heb-ze-ook-nodig-op-arbeidsmarkt",
-    "type": "article",
-    "title": "Rutte hoopt op woningen voor statushouders: 'Heb ze ook nodig op arbeidsmarkt'",
-    "subtitle": null,
-    "published_at": "2022-08-26T18:58:33+02:00",
-    "updated_at": "2022-08-26T23:15:34+02:00",
-    "media_id": "663xcjdas63g",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771437,
-      "slug": "politiek",
-      "type": "default",
-      "name": "Politiek",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/politiek/6220130/rutte-hoopt-op-woningen-voor-statushouders-heb-ze-ook-nodig-op-arbeidsmarkt.html",
     "open_new_window": false,
     "partner": null
   }
