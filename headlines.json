@@ -1,5 +1,51 @@
 [
   {
+    "id": 6220315,
+    "slug": "aanhangers-vicepresident-argentinie-slaags-met-politie-in-buenos-aires",
+    "type": "video",
+    "title": "Aanhangers vicepresident Argentinië slaags met politie in Buenos Aires",
+    "subtitle": "Video",
+    "published_at": "2022-08-28T09:21:51+02:00",
+    "updated_at": "2022-08-28T09:22:12+02:00",
+    "media_id": "ok2x8kqaihr5",
+    "duration": "0:40",
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6220315/aanhangers-vicepresident-argentinie-slaags-met-politie-in-buenos-aires.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6220309,
+    "slug": "man-belandt-tijdens-solexrace-onder-boomstam-en-overlijdt",
+    "type": "article",
+    "title": "Man belandt tijdens Solexrace onder boomstam en overlijdt",
+    "subtitle": null,
+    "published_at": "2022-08-28T09:16:42+02:00",
+    "updated_at": "2022-08-28T09:19:47+02:00",
+    "media_id": "ntgxclcaz3mo",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6220309/man-belandt-tijdens-solexrace-onder-boomstam-en-overlijdt.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6220312,
     "slug": "interim-trainer-vergoossen-berust-in-nieuw-verlies-fortuna-na-enorme-achtbaan",
     "type": "article",
@@ -213,7 +259,7 @@
     "title": "Duizenden aanhangers vicepresident Argentinië raken slaags met politie",
     "subtitle": null,
     "published_at": "2022-08-28T05:23:09+02:00",
-    "updated_at": "2022-08-28T08:03:17+02:00",
+    "updated_at": "2022-08-28T09:26:45+02:00",
     "media_id": "asmx919ag16e",
     "duration": null,
     "canonical_section": {
@@ -640,52 +686,6 @@
       "partner": null
     },
     "url": "/binnenland/6220289/hulpverleners-ter-plekke-na-fataal-vrachtwagenongeluk-nieuw-beijerland.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6220287,
-    "slug": "meerdere-doden-bij-buurtfeest-in-nieuw-beijerland-nadat-vrachtauto-van-dijk-schiet",
-    "type": "article",
-    "title": "Meerdere doden bij buurtfeest in Nieuw-Beijerland nadat vrachtauto van dijk schiet",
-    "subtitle": null,
-    "published_at": "2022-08-27T19:26:25+02:00",
-    "updated_at": "2022-08-28T07:42:25+02:00",
-    "media_id": "z6rx89zacb7r",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6220287/meerdere-doden-bij-buurtfeest-in-nieuw-beijerland-nadat-vrachtauto-van-dijk-schiet.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6220285,
-    "slug": "feyenoord-begint-met-debutant-hancko-tegen-emmen-geertruida-op-middenveld",
-    "type": "article",
-    "title": "Feyenoord begint met debutant Hancko tegen Emmen, Geertruida op middenveld",
-    "subtitle": null,
-    "published_at": "2022-08-27T19:19:45+02:00",
-    "updated_at": "2022-08-27T19:46:23+02:00",
-    "media_id": "7jqx248a6dry",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6220285/feyenoord-begint-met-debutant-hancko-tegen-emmen-geertruida-op-middenveld.html",
     "open_new_window": false,
     "partner": null
   }
