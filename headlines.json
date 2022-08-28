@@ -1,12 +1,35 @@
 [
   {
+    "id": 6220335,
+    "slug": "ajax-begint-zonder-wijzigingen-aan-uitduel-met-fc-utrecht",
+    "type": "article",
+    "title": "Ajax begint zonder wijzigingen aan uitduel met FC Utrecht",
+    "subtitle": null,
+    "published_at": "2022-08-28T11:06:55+02:00",
+    "updated_at": "2022-08-28T11:06:56+02:00",
+    "media_id": "1kgxczuanjwp",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6220335/ajax-begint-zonder-wijzigingen-aan-uitduel-met-fc-utrecht.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6220333,
     "slug": "klopp-trots-op-monsterzege-na-moeizame-seizoensstart-dit-hadden-we-nodig",
     "type": "article",
     "title": "Klopp trots op monsterzege na moeizame seizoensstart: 'Dit hadden we nodig'",
     "subtitle": null,
     "published_at": "2022-08-28T10:49:13+02:00",
-    "updated_at": "2022-08-28T10:49:14+02:00",
+    "updated_at": "2022-08-28T10:58:12+02:00",
     "media_id": "eq7xon8a5xp0",
     "duration": null,
     "canonical_section": {
@@ -29,7 +52,7 @@
     "title": "Aantal slachtoffers ongeluk Nieuw-Beijerland loopt op: zes doden en zeven gewonden",
     "subtitle": null,
     "published_at": "2022-08-28T10:41:59+02:00",
-    "updated_at": "2022-08-28T10:48:18+02:00",
+    "updated_at": "2022-08-28T11:05:20+02:00",
     "media_id": "b4exc7daq33b",
     "duration": null,
     "canonical_section": {
@@ -254,12 +277,12 @@
   },
   {
     "id": 6220093,
-    "slug": "ter-apel-is-ver-van-onze-redactie-je-moet-het-met-eigen-ogen-zien",
+    "slug": "ter-apel-is-ver-van-de-redactie-je-moet-het-met-eigen-ogen-zien",
     "type": "article",
-    "title": "Ter Apel is ver van onze redactie, je moet het met eigen ogen zien",
+    "title": "Ter Apel is ver van de redactie, je moet het met eigen ogen zien",
     "subtitle": "Van de hoofdredactie",
     "published_at": "2022-08-28T08:00:05+02:00",
-    "updated_at": "2022-08-28T08:59:41+02:00",
+    "updated_at": "2022-08-28T11:01:11+02:00",
     "media_id": "m9txyuzayz1y",
     "duration": null,
     "canonical_section": {
@@ -271,7 +294,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/blog/6220093/ter-apel-is-ver-van-onze-redactie-je-moet-het-met-eigen-ogen-zien.html",
+    "url": "/blog/6220093/ter-apel-is-ver-van-de-redactie-je-moet-het-met-eigen-ogen-zien.html",
     "open_new_window": false,
     "partner": null
   },
@@ -650,7 +673,7 @@
     "title": "Kind naar de middelbare school? 'Hij heeft je meer nodig dan in groep 8'",
     "subtitle": null,
     "published_at": "2022-08-27T21:47:24+02:00",
-    "updated_at": "2022-08-27T21:47:25+02:00",
+    "updated_at": "2022-08-28T11:07:15+02:00",
     "media_id": "4otxnwoa3d1c",
     "duration": null,
     "canonical_section": {
@@ -663,29 +686,6 @@
       "partner": null
     },
     "url": "/kind-gezin/6220013/kind-naar-de-middelbare-school-hij-heeft-je-meer-nodig-dan-in-groep-8.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6219744,
-    "slug": "foto-van-je-prematuur-deze-stichting-legt-minibabys-liefdevol-vast",
-    "type": "article",
-    "title": "Foto van je prematuur: deze stichting legt minibaby's liefdevol vast",
-    "subtitle": null,
-    "published_at": "2022-08-27T21:46:47+02:00",
-    "updated_at": "2022-08-27T21:47:03+02:00",
-    "media_id": "hsqxs38av2fo",
-    "duration": null,
-    "canonical_section": {
-      "id": 1778688,
-      "slug": "kind-gezin",
-      "type": "default",
-      "name": "Kind & Gezin",
-      "style": "nunjij",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/kind-gezin/6219744/foto-van-je-prematuur-deze-stichting-legt-minibabys-liefdevol-vast.html",
     "open_new_window": false,
     "partner": null
   }
