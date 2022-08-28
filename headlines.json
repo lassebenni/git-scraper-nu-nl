@@ -1,5 +1,51 @@
 [
   {
+    "id": 6220311,
+    "slug": "zeker-23-doden-bij-gevechten-in-libische-hoofdstad-tripoli",
+    "type": "video",
+    "title": "Zeker 23 doden bij gevechten in Libische hoofdstad Tripoli",
+    "subtitle": "Video",
+    "published_at": "2022-08-28T08:30:22+02:00",
+    "updated_at": "2022-08-28T08:30:22+02:00",
+    "media_id": "yr9x4guak67e",
+    "duration": "0:40",
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6220311/zeker-23-doden-bij-gevechten-in-libische-hoofdstad-tripoli.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6220279,
+    "slug": "bekijk-hier-de-startopstelling-voor-de-gp-van-belgie-met-verstappen-op-plek-15",
+    "type": "article",
+    "title": "Bekijk hier de startopstelling voor de GP van België met Verstappen op plek 15",
+    "subtitle": null,
+    "published_at": "2022-08-28T08:24:24+02:00",
+    "updated_at": "2022-08-28T08:30:06+02:00",
+    "media_id": "m12x9epawf5b",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772449,
+      "slug": "formule-1",
+      "type": "default",
+      "name": "Formule 1",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/formule-1/6220279/bekijk-hier-de-startopstelling-voor-de-gp-van-belgie-met-verstappen-op-plek-15.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6220093,
     "slug": "ter-apel-is-ver-van-onze-redactie-je-moet-het-met-eigen-ogen-zien",
     "type": "article",
@@ -190,7 +236,7 @@
     "title": "Onrust in Libië neemt weer toe, 23 doden bij gevechten in hoofdstad",
     "subtitle": null,
     "published_at": "2022-08-28T03:42:43+02:00",
-    "updated_at": "2022-08-28T07:56:01+02:00",
+    "updated_at": "2022-08-28T08:23:35+02:00",
     "media_id": "wmgxqena6i3m",
     "duration": null,
     "canonical_section": {
@@ -213,7 +259,7 @@
     "title": "Meerdere doden nadat vrachtwagen inrijdt op buurtbarbecue Nieuw-Beijerland",
     "subtitle": null,
     "published_at": "2022-08-28T02:05:22+02:00",
-    "updated_at": "2022-08-28T07:39:39+02:00",
+    "updated_at": "2022-08-28T08:23:48+02:00",
     "media_id": "388x7o5a2h2y",
     "duration": null,
     "canonical_section": {
@@ -466,7 +512,7 @@
     "title": "Verstappen torpedeert met toprondje laatste hoop bij Mercedes",
     "subtitle": "Analyse",
     "published_at": "2022-08-27T21:12:02+02:00",
-    "updated_at": "2022-08-27T21:38:34+02:00",
+    "updated_at": "2022-08-28T08:25:35+02:00",
     "media_id": "gutxap7abd86",
     "duration": null,
     "canonical_section": {
@@ -640,52 +686,6 @@
       "partner": null
     },
     "url": "/nu-formule-1/6220284/verstappen-zag-gat-op-concurrentie-niet-aankomen-auto-komt-meer-naar-me-toe.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6220282,
-    "slug": "frankrijk-beschermt-huishoudens-ook-volgend-jaar-tegen-stijgende-energieprijzen",
-    "type": "article",
-    "title": "Frankrijk beschermt huishoudens ook volgend jaar tegen stijgende energieprijzen",
-    "subtitle": null,
-    "published_at": "2022-08-27T19:10:22+02:00",
-    "updated_at": "2022-08-27T19:55:17+02:00",
-    "media_id": "29pxhw3a5m15",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6220282/frankrijk-beschermt-huishoudens-ook-volgend-jaar-tegen-stijgende-energieprijzen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6220274,
-    "slug": "experts-fileren-oplossing-kabinet-voor-opvangcrisis-elke-rechter-wijst-dit-af",
-    "type": "article",
-    "title": "Experts fileren oplossing kabinet voor opvangcrisis: 'Elke rechter wijst dit af'",
-    "subtitle": null,
-    "published_at": "2022-08-27T19:02:48+02:00",
-    "updated_at": "2022-08-27T21:30:34+02:00",
-    "media_id": "qzrxp2nas4fq",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6220274/experts-fileren-oplossing-kabinet-voor-opvangcrisis-elke-rechter-wijst-dit-af.html",
     "open_new_window": false,
     "partner": null
   }
