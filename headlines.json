@@ -1,12 +1,35 @@
 [
   {
+    "id": 6220093,
+    "slug": "ter-apel-is-ver-van-onze-redactie-je-moet-het-met-eigen-ogen-zien",
+    "type": "article",
+    "title": "Ter Apel is ver van onze redactie, je moet het met eigen ogen zien",
+    "subtitle": "Van de hoofdredactie",
+    "published_at": "2022-08-28T08:00:05+02:00",
+    "updated_at": "2022-08-28T08:00:06+02:00",
+    "media_id": "m9txyuzayz1y",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772069,
+      "slug": "blog",
+      "type": "default",
+      "name": "Van de hoofdredactie",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/blog/6220093/ter-apel-is-ver-van-onze-redactie-je-moet-het-met-eigen-ogen-zien.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6219941,
     "slug": "van-rijthoven-weer-op-aarde-na-bizarre-maand-ik-ben-ontzettend-gehypet",
     "type": "article",
     "title": "Van Rijthoven weer op aarde na bizarre maand: 'Ik ben ontzettend gehypet'",
     "subtitle": null,
     "published_at": "2022-08-28T06:35:25+02:00",
-    "updated_at": "2022-08-28T06:35:26+02:00",
+    "updated_at": "2022-08-28T08:07:13+02:00",
     "media_id": "kwbxzxxa307m",
     "duration": null,
     "canonical_section": {
@@ -121,7 +144,7 @@
     "title": "Duizenden aanhangers vicepresident Argentinië raken slaags met politie",
     "subtitle": null,
     "published_at": "2022-08-28T05:23:09+02:00",
-    "updated_at": "2022-08-28T06:05:16+02:00",
+    "updated_at": "2022-08-28T08:03:17+02:00",
     "media_id": "asmx919ag16e",
     "duration": null,
     "canonical_section": {
@@ -144,7 +167,7 @@
     "title": "Doetinchem opent crisisnoodopvang voor 225 asielzoekers uit Ter Apel",
     "subtitle": null,
     "published_at": "2022-08-28T04:11:08+02:00",
-    "updated_at": "2022-08-28T04:11:09+02:00",
+    "updated_at": "2022-08-28T07:58:38+02:00",
     "media_id": "ai4xkm8axgfk",
     "duration": null,
     "canonical_section": {
@@ -167,7 +190,7 @@
     "title": "Onrust in Libië neemt weer toe, 23 doden bij gevechten in hoofdstad",
     "subtitle": null,
     "published_at": "2022-08-28T03:42:43+02:00",
-    "updated_at": "2022-08-28T03:42:44+02:00",
+    "updated_at": "2022-08-28T07:56:01+02:00",
     "media_id": "wmgxqena6i3m",
     "duration": null,
     "canonical_section": {
@@ -663,29 +686,6 @@
       "partner": null
     },
     "url": "/binnenland/6220274/experts-fileren-oplossing-kabinet-voor-opvangcrisis-elke-rechter-wijst-dit-af.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6220280,
-    "slug": "kosovo-en-servie-bereiken-akkoord-in-gevoelige-kentekenkwestie",
-    "type": "article",
-    "title": "Kosovo en Servië bereiken akkoord in gevoelige kentekenkwestie",
-    "subtitle": null,
-    "published_at": "2022-08-27T18:48:23+02:00",
-    "updated_at": "2022-08-27T19:50:11+02:00",
-    "media_id": "m52x2naack62",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6220280/kosovo-en-servie-bereiken-akkoord-in-gevoelige-kentekenkwestie.html",
     "open_new_window": false,
     "partner": null
   }
