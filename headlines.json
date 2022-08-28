@@ -1,12 +1,35 @@
 [
   {
+    "id": 6220427,
+    "slug": "van-de-donk-helpt-olympique-lyon-met-winnende-doelpunt-aan-franse-supercup",
+    "type": "article",
+    "title": "Van de Donk helpt Olympique Lyon met winnende doelpunt aan Franse supercup",
+    "subtitle": null,
+    "published_at": "2022-08-28T22:54:10+02:00",
+    "updated_at": "2022-08-28T22:57:21+02:00",
+    "media_id": "oc9xa3raqyb3",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6220427/van-de-donk-helpt-olympique-lyon-met-winnende-doelpunt-aan-franse-supercup.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6220426,
     "slug": "oud-spartaan-mathias-pogba-dreigt-met-explosieve-onthullingen-over-broer-paul",
     "type": "article",
     "title": "Oud-Spartaan Mathias Pogba dreigt met 'explosieve onthullingen' over broer Paul",
     "subtitle": null,
     "published_at": "2022-08-28T22:41:12+02:00",
-    "updated_at": "2022-08-28T22:41:13+02:00",
+    "updated_at": "2022-08-28T22:48:56+02:00",
     "media_id": "6anxs2ga9new",
     "duration": null,
     "canonical_section": {
@@ -305,7 +328,7 @@
     "title": "Koploper PSG lijdt eerste puntenverlies, Bosz ontsnapt aan nederlaag",
     "subtitle": null,
     "published_at": "2022-08-28T18:05:33+02:00",
-    "updated_at": "2022-08-28T22:47:45+02:00",
+    "updated_at": "2022-08-28T22:52:09+02:00",
     "media_id": "aszxam1allc9",
     "duration": null,
     "canonical_section": {
@@ -663,29 +686,6 @@
       "partner": null
     },
     "url": "/voetbal/6220395/antwerp-herstelt-zich-door-eerste-treffer-vincent-janssen-van-europese-domper.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6220392,
-    "slug": "weekweerbericht-temperatuur-na-het-weekend-hoger-later-kans-op-regen",
-    "type": "article",
-    "title": "Weekweerbericht: Temperatuur na het weekend hoger, later kans op regen",
-    "subtitle": null,
-    "published_at": "2022-08-28T15:13:36+02:00",
-    "updated_at": "2022-08-28T15:21:12+02:00",
-    "media_id": "bd5x5p0adfz7",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6220392/weekweerbericht-temperatuur-na-het-weekend-hoger-later-kans-op-regen.html",
     "open_new_window": false,
     "partner": null
   }
