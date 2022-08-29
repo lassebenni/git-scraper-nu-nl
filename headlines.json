@@ -1,12 +1,58 @@
 [
   {
+    "id": 6220564,
+    "slug": "matthijs-de-ligt-met-bayern-in-lederhosen-voor-fotoshoot",
+    "type": "video",
+    "title": "Matthijs de Ligt met Bayern in lederhosen voor fotoshoot",
+    "subtitle": "Video",
+    "published_at": "2022-08-29T15:39:32+02:00",
+    "updated_at": "2022-08-29T15:40:26+02:00",
+    "media_id": "8f0xvt7aqmu6",
+    "duration": "0:38",
+    "canonical_section": {
+      "id": 149,
+      "slug": "sport",
+      "type": "default",
+      "name": "Sport",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/sport/6220564/matthijs-de-ligt-met-bayern-in-lederhosen-voor-fotoshoot.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6220555,
+    "slug": "go-ahead-aanvaller-fernandes-twee-wedstrijden-geschorst-voor-kopstoot",
+    "type": "article",
+    "title": "Go Ahead-aanvaller Fernandes twee wedstrijden geschorst voor kopstoot",
+    "subtitle": null,
+    "published_at": "2022-08-29T15:31:01+02:00",
+    "updated_at": "2022-08-29T15:31:02+02:00",
+    "media_id": "aapxtzzaf19f",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6220555/go-ahead-aanvaller-fernandes-twee-wedstrijden-geschorst-voor-kopstoot.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6220557,
     "slug": "picnic-klanten-komen-van-koude-kermis-thuis-super-levert-even-geen-pizza-en-ijs",
     "type": "article",
     "title": "Picnic-klanten komen van koude kermis thuis: super levert even geen pizza en ijs",
     "subtitle": null,
     "published_at": "2022-08-29T15:15:17+02:00",
-    "updated_at": "2022-08-29T15:15:17+02:00",
+    "updated_at": "2022-08-29T15:40:15+02:00",
     "media_id": "e5wx8k0a74hr",
     "duration": null,
     "canonical_section": {
@@ -640,52 +686,6 @@
       "partner": null
     },
     "url": "/sport-overig/6220485/golfer-mcilroy-pakt-torenhoge-prijzenpot-van-18-miljoen-na-winst-fedex-cup.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6220488,
-    "slug": "giel-beelen-stopt-met-radio-maken-om-op-wereldreis-te-gaan-met-zijn-vriendin",
-    "type": "article",
-    "title": "Giel Beelen stopt met radio maken om op wereldreis te gaan met zijn vriendin",
-    "subtitle": null,
-    "published_at": "2022-08-29T10:07:37+02:00",
-    "updated_at": "2022-08-29T10:07:38+02:00",
-    "media_id": "sbaxl97aa3x4",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771675,
-      "slug": "media",
-      "type": "default",
-      "name": "Media",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/media/6220488/giel-beelen-stopt-met-radio-maken-om-op-wereldreis-te-gaan-met-zijn-vriendin.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6220480,
-    "slug": "taylor-swift-brengt-in-oktober-nieuw-album-uit",
-    "type": "article",
-    "title": "Taylor Swift brengt in oktober nieuw album uit",
-    "subtitle": null,
-    "published_at": "2022-08-29T09:42:30+02:00",
-    "updated_at": "2022-08-29T09:43:08+02:00",
-    "media_id": "ehwxremarqdr",
-    "duration": null,
-    "canonical_section": {
-      "id": 868281,
-      "slug": "muziek",
-      "type": "default",
-      "name": "Muziek",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/muziek/6220480/taylor-swift-brengt-in-oktober-nieuw-album-uit.html",
     "open_new_window": false,
     "partner": null
   }
