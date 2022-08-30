@@ -1,12 +1,58 @@
 [
   {
+    "id": 6220799,
+    "slug": "vrachtwagens-staan-dagen-in-file-bij-oekraiens-poolse-grens",
+    "type": "video",
+    "title": "Vrachtwagens staan dagen in file bij Oekraïens-Poolse grens",
+    "subtitle": "Video",
+    "published_at": "2022-08-30T15:39:33+02:00",
+    "updated_at": "2022-08-30T15:42:03+02:00",
+    "media_id": "pimx069awesd",
+    "duration": "0:58",
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6220799/vrachtwagens-staan-dagen-in-file-bij-oekraiens-poolse-grens.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6220798,
+    "slug": "bouwvakkers-voegen-historische-muur-in-zwolle-onder-de-watergrens",
+    "type": "video",
+    "title": "Bouwvakkers voegen historische muur in Zwolle onder de watergrens",
+    "subtitle": "Video",
+    "published_at": "2022-08-30T15:38:45+02:00",
+    "updated_at": "2022-08-30T15:38:46+02:00",
+    "media_id": "25yx45ea28j4",
+    "duration": "0:32",
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6220798/bouwvakkers-voegen-historische-muur-in-zwolle-onder-de-watergrens.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6220790,
     "slug": "ajax-verhuurt-unuvar-rest-van-seizoen-aan-turkse-kampioen-trabzonspor",
     "type": "article",
     "title": "Ajax verhuurt Ünüvar rest van seizoen aan Turkse kampioen Trabzonspor",
     "subtitle": null,
     "published_at": "2022-08-30T15:21:04+02:00",
-    "updated_at": "2022-08-30T15:21:05+02:00",
+    "updated_at": "2022-08-30T15:36:28+02:00",
     "media_id": "oyox7woa8ae0",
     "duration": null,
     "canonical_section": {
@@ -29,7 +75,7 @@
     "title": "KNMI-seismoloog ervoer geen politieke druk bij onderzoek naar aardbevingen",
     "subtitle": null,
     "published_at": "2022-08-30T15:19:04+02:00",
-    "updated_at": "2022-08-30T15:23:35+02:00",
+    "updated_at": "2022-08-30T15:26:00+02:00",
     "media_id": "k0rxrbma0ku1",
     "duration": null,
     "canonical_section": {
@@ -75,8 +121,8 @@
     "title": "De slimste mens verhuist, fake news uit den boze: dit brengt de NPO dit najaar",
     "subtitle": null,
     "published_at": "2022-08-30T15:13:16+02:00",
-    "updated_at": "2022-08-30T15:15:24+02:00",
-    "media_id": "xoqx37vacalt",
+    "updated_at": "2022-08-30T15:30:28+02:00",
+    "media_id": "io5xhlma7ajf",
     "duration": null,
     "canonical_section": {
       "id": 1771675,
@@ -98,7 +144,7 @@
     "title": "Amsterdam biedt onderdak aan duizend asielzoekers op cruiseschip",
     "subtitle": null,
     "published_at": "2022-08-30T15:09:58+02:00",
-    "updated_at": "2022-08-30T15:17:22+02:00",
+    "updated_at": "2022-08-30T15:34:32+02:00",
     "media_id": "3m3xjoga00q1",
     "duration": null,
     "canonical_section": {
@@ -640,52 +686,6 @@
       "partner": null
     },
     "url": "/economie/6220733/binckbank-moet-dwangsommen-van-250000-euro-betalen-als-beleid-niet-verbetert.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6220728,
-    "slug": "philips-roept-ook-andere-ademhalingsapparaten-terug",
-    "type": "article",
-    "title": "Philips roept ook andere ademhalingsapparaten terug",
-    "subtitle": null,
-    "published_at": "2022-08-30T11:21:26+02:00",
-    "updated_at": "2022-08-30T12:59:45+02:00",
-    "media_id": "9tqx2pkar0re",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6220728/philips-roept-ook-andere-ademhalingsapparaten-terug.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6220729,
-    "slug": "snelweg-in-vs-ligt-vol-met-tomaten-na-kantelen-vrachtwagen",
-    "type": "video",
-    "title": "Snelweg in VS ligt vol met tomaten na kantelen vrachtwagen",
-    "subtitle": "Video",
-    "published_at": "2022-08-30T11:06:17+02:00",
-    "updated_at": "2022-08-30T11:06:17+02:00",
-    "media_id": "khsxz16at6d4",
-    "duration": "0:47",
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6220729/snelweg-in-vs-ligt-vol-met-tomaten-na-kantelen-vrachtwagen.html",
     "open_new_window": false,
     "partner": null
   }
