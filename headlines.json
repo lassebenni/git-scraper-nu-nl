@@ -1,5 +1,51 @@
 [
   {
+    "id": 6220878,
+    "slug": "quiet-quitting-is-populair-op-tiktok-wat-is-het",
+    "type": "video",
+    "title": "Quiet quitting is populair op TikTok: wat is het?",
+    "subtitle": "Video",
+    "published_at": "2022-08-30T18:33:02+02:00",
+    "updated_at": "2022-08-30T18:33:03+02:00",
+    "media_id": "ihlxgbna3yoo",
+    "duration": "2:19",
+    "canonical_section": {
+      "id": 100,
+      "slug": "algemeen",
+      "type": "default",
+      "name": "Algemeen",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/algemeen/6220878/quiet-quitting-is-populair-op-tiktok-wat-is-het.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6220875,
+    "slug": "mondiale-nummer-een-swiatek-mede-dankzij-bagel-simpel-verder-op-us-open",
+    "type": "article",
+    "title": "Mondiale nummer één Swiatek mede dankzij 'bagel' simpel verder op US Open",
+    "subtitle": null,
+    "published_at": "2022-08-30T18:27:20+02:00",
+    "updated_at": "2022-08-30T18:33:36+02:00",
+    "media_id": "h6qxustaea7y",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772432,
+      "slug": "tennis",
+      "type": "default",
+      "name": "Tennis",
+      "style": "nusport",
+      "media_id": "m1oxohpan0gq",
+      "partner": null
+    },
+    "url": "/tennis/6220875/mondiale-nummer-een-swiatek-mede-dankzij-bagel-simpel-verder-op-us-open.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6220852,
     "slug": "verstappen-brengt-met-speciale-helm-voor-nederlandse-gp-ode-aan-vader-jos",
     "type": "article",
@@ -167,7 +213,7 @@
     "title": "Ook avondspits drukker door treinstaking",
     "subtitle": null,
     "published_at": "2022-08-30T17:16:07+02:00",
-    "updated_at": "2022-08-30T18:08:51+02:00",
+    "updated_at": "2022-08-30T18:11:32+02:00",
     "media_id": "9n2xn49az0p0",
     "duration": null,
     "canonical_section": {
@@ -640,52 +686,6 @@
       "partner": null
     },
     "url": "/sport-overig/6220783/ioc-preses-bach-bezoekt-in-amsterdam-herdenking-gijzelingsdrama-spelen-1972.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6220589,
-    "slug": "directeur-zandvoort-als-je-alle-38-rechtszaken-wint-heb-je-toch-iets-goed-gedaan",
-    "type": "article",
-    "title": "Directeur Zandvoort: 'Als je alle 38 rechtszaken wint, heb je toch iets goed gedaan'",
-    "subtitle": null,
-    "published_at": "2022-08-30T14:30:03+02:00",
-    "updated_at": "2022-08-30T14:30:05+02:00",
-    "media_id": "gtlx045aub23",
-    "duration": null,
-    "canonical_section": {
-      "id": 1778846,
-      "slug": "nu-formule-1",
-      "type": "default",
-      "name": "NU+ Formule 1",
-      "style": "nusport",
-      "media_id": "gtmxcxnaui5m",
-      "partner": null
-    },
-    "url": "/nu-formule-1/6220589/directeur-zandvoort-als-je-alle-38-rechtszaken-wint-heb-je-toch-iets-goed-gedaan.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6220768,
-    "slug": "kpn-krijgt-boete-van-450000-euro-voor-gebreken-in-beveiliging-afluistersysteem",
-    "type": "article",
-    "title": "KPN krijgt boete van 450.000 euro voor gebreken in beveiliging afluistersysteem",
-    "subtitle": null,
-    "published_at": "2022-08-30T14:23:36+02:00",
-    "updated_at": "2022-08-30T14:27:43+02:00",
-    "media_id": "qh4x8s3auiff",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771438,
-      "slug": "tech",
-      "type": "default",
-      "name": "Tech",
-      "style": "nutech",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/tech/6220768/kpn-krijgt-boete-van-450000-euro-voor-gebreken-in-beveiliging-afluistersysteem.html",
     "open_new_window": false,
     "partner": null
   }
