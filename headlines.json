@@ -1,12 +1,35 @@
 [
   {
+    "id": 6221117,
+    "slug": "loodzwaar-rotsblok-verwoest-woning-in-china",
+    "type": "video",
+    "title": "Loodzwaar rotsblok verwoest woning in China",
+    "subtitle": "Video",
+    "published_at": "2022-08-31T19:33:12+02:00",
+    "updated_at": "2022-08-31T19:33:13+02:00",
+    "media_id": "1xrx33oa32wz",
+    "duration": "0:44",
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6221117/loodzwaar-rotsblok-verwoest-woning-in-china.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6221114,
-    "slug": "fortuna-haalt-aanvaller-embalo-van-benfica-eredivisie-staat-goed-aangeschreven",
+    "slug": "fortuna-strikt-aanvaller-embalo-van-benfica-eredivisie-wordt-steeds-sterker",
     "type": "article",
-    "title": "Fortuna haalt aanvaller Embalo van Benfica: 'Eredivisie staat goed aangeschreven'",
+    "title": "Fortuna strikt aanvaller Embalo van Benfica: 'Eredivisie wordt steeds sterker'",
     "subtitle": null,
     "published_at": "2022-08-31T19:22:52+02:00",
-    "updated_at": "2022-08-31T19:22:53+02:00",
+    "updated_at": "2022-08-31T19:37:46+02:00",
     "media_id": "sgqx01va9vod",
     "duration": null,
     "canonical_section": {
@@ -18,7 +41,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6221114/fortuna-haalt-aanvaller-embalo-van-benfica-eredivisie-staat-goed-aangeschreven.html",
+    "url": "/voetbal/6221114/fortuna-strikt-aanvaller-embalo-van-benfica-eredivisie-wordt-steeds-sterker.html",
     "open_new_window": false,
     "partner": null
   },
@@ -29,7 +52,7 @@
     "title": "Ajax lijkt in laatste uren Ocampos, Grillitsch en Vlachodimos vast te gaan leggen",
     "subtitle": null,
     "published_at": "2022-08-31T19:18:26+02:00",
-    "updated_at": "2022-08-31T19:21:01+02:00",
+    "updated_at": "2022-08-31T19:47:48+02:00",
     "media_id": "h56xs5kav5q5",
     "duration": null,
     "canonical_section": {
@@ -52,7 +75,7 @@
     "title": "Marokko strikt Regragui als opvolger van ontslagen bondscoach Halilhodzic",
     "subtitle": null,
     "published_at": "2022-08-31T19:15:12+02:00",
-    "updated_at": "2022-08-31T19:19:07+02:00",
+    "updated_at": "2022-08-31T19:34:37+02:00",
     "media_id": "ppdxdppaq6y7",
     "duration": null,
     "canonical_section": {
@@ -162,13 +185,13 @@
   },
   {
     "id": 6221102,
-    "slug": "henk-veerman-doet-namens-volendam-wat-terug-tegen-psv",
+    "slug": "psv-en-fc-volendam-rusten-na-doelpuntrijke-eerste-helft",
     "type": "article",
-    "title": "Henk Veerman doet namens Volendam wat terug tegen PSV",
+    "title": "PSV en FC Volendam rusten na doelpuntrijke eerste helft",
     "subtitle": "Liveblog Eredivisie",
     "published_at": "2022-08-31T18:14:09+02:00",
-    "updated_at": "2022-08-31T19:29:03+02:00",
-    "media_id": "2b9xb20a24xo",
+    "updated_at": "2022-08-31T19:45:05+02:00",
+    "media_id": "z7cxihlazyjr",
     "duration": null,
     "canonical_section": {
       "id": 100,
@@ -179,7 +202,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/algemeen/6221102/henk-veerman-doet-namens-volendam-wat-terug-tegen-psv.html",
+    "url": "/algemeen/6221102/psv-en-fc-volendam-rusten-na-doelpuntrijke-eerste-helft.html",
     "open_new_window": false,
     "partner": null
   },
@@ -663,29 +686,6 @@
       "partner": null
     },
     "url": "/media/6221045/albert-verlinde-gestopt-bij-shownieuws-laatste-uitzending-was-al-in-juli.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6221049,
-    "slug": "om-eist-twee-jaar-cel-tegen-duo-voor-fraude-met-valse-coronavaccinaties",
-    "type": "article",
-    "title": "OM eist twee jaar cel tegen duo voor fraude met valse coronavaccinaties",
-    "subtitle": null,
-    "published_at": "2022-08-31T16:08:37+02:00",
-    "updated_at": "2022-08-31T18:23:46+02:00",
-    "media_id": "hbwxkijaexnw",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771438,
-      "slug": "tech",
-      "type": "default",
-      "name": "Tech",
-      "style": "nutech",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/tech/6221049/om-eist-twee-jaar-cel-tegen-duo-voor-fraude-met-valse-coronavaccinaties.html",
     "open_new_window": false,
     "partner": null
   }
