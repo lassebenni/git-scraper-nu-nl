@@ -1,5 +1,51 @@
 [
   {
+    "id": 6221208,
+    "slug": "politie-in-vs-arresteert-zwarte-man-die-planten-van-buren-water-gaf",
+    "type": "video",
+    "title": "Politie in VS arresteert zwarte man die planten van buren water gaf",
+    "subtitle": "Video",
+    "published_at": "2022-09-01T10:45:15+02:00",
+    "updated_at": "2022-09-01T10:45:16+02:00",
+    "media_id": "ym2x40hagbgg",
+    "duration": "1:09",
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6221208/politie-in-vs-arresteert-zwarte-man-die-planten-van-buren-water-gaf.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6221200,
+    "slug": "sevilla-neemt-oud-ajacied-dolberg-op-huurbasis-over-van-ogc-nice",
+    "type": "article",
+    "title": "Sevilla neemt oud-Ajacied Dolberg op huurbasis over van OGC Nice",
+    "subtitle": null,
+    "published_at": "2022-09-01T10:40:56+02:00",
+    "updated_at": "2022-09-01T10:49:45+02:00",
+    "media_id": "4uxx221a1h58",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6221200/sevilla-neemt-oud-ajacied-dolberg-op-huurbasis-over-van-ogc-nice.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6221188,
     "slug": "antoni-hendrika-en-loes-dit-zijn-de-stormnamen-voor-komend-seizoen",
     "type": "article",
@@ -52,7 +98,7 @@
     "title": "Serena Williams bedankt Tiger Woods na nieuwe zege op US Open",
     "subtitle": null,
     "published_at": "2022-09-01T09:43:22+02:00",
-    "updated_at": "2022-09-01T09:43:23+02:00",
+    "updated_at": "2022-09-01T10:37:56+02:00",
     "media_id": "l94xhznan4yu",
     "duration": null,
     "canonical_section": {
@@ -640,52 +686,6 @@
       "partner": null
     },
     "url": "/media/6221146/ivo-van-breukelen-verlaat-radio-538.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6221145,
-    "slug": "weerbericht-de-meteorologische-herfst-begint-met-warm-nazomerweer",
-    "type": "article",
-    "title": "Weerbericht: De meteorologische herfst begint met warm nazomerweer",
-    "subtitle": null,
-    "published_at": "2022-09-01T05:46:22+02:00",
-    "updated_at": "2022-09-01T09:07:01+02:00",
-    "media_id": "y96xt5oad991",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6221145/weerbericht-de-meteorologische-herfst-begint-met-warm-nazomerweer.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6219325,
-    "slug": "deze-55-spelers-zijn-zeker-van-of-mogen-hopen-op-plek-in-wk-selectie-oranje",
-    "type": "article",
-    "title": "Deze 55 spelers zijn zeker van of mogen hopen op plek in WK-selectie Oranje",
-    "subtitle": null,
-    "published_at": "2022-09-01T05:35:52+02:00",
-    "updated_at": "2022-09-01T10:22:05+02:00",
-    "media_id": "6x8xdwia2bkg",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779108,
-      "slug": "nu-voetbal",
-      "type": "default",
-      "name": "NU+ Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/nu-voetbal/6219325/deze-55-spelers-zijn-zeker-van-of-mogen-hopen-op-plek-in-wk-selectie-oranje.html",
     "open_new_window": false,
     "partner": null
   }
