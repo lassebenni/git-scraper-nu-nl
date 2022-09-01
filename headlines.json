@@ -1,5 +1,51 @@
 [
   {
+    "id": 6221160,
+    "slug": "hulpdiensten-bestrijden-grote-bosbrand-bij-los-angeles",
+    "type": "video",
+    "title": "Hulpdiensten bestrijden grote bosbrand bij Los Angeles",
+    "subtitle": "Video",
+    "published_at": "2022-09-01T08:11:23+02:00",
+    "updated_at": "2022-09-01T08:11:24+02:00",
+    "media_id": "06ix5yxajxfa",
+    "duration": "0:48",
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6221160/hulpdiensten-bestrijden-grote-bosbrand-bij-los-angeles.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6221155,
+    "slug": "politie-stopt-onderzoek-naar-boeren-die-natura-2000-gebied-stroe-vernielden",
+    "type": "article",
+    "title": "Politie stopt onderzoek naar boeren die Natura 2000-gebied Stroe vernielden",
+    "subtitle": null,
+    "published_at": "2022-09-01T08:09:40+02:00",
+    "updated_at": "2022-09-01T08:09:41+02:00",
+    "media_id": "tuqx5aua1ey3",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6221155/politie-stopt-onderzoek-naar-boeren-die-natura-2000-gebied-stroe-vernielden.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6221156,
     "slug": "van-nistelrooij-ziet-simons-grote-stappen-zetten-ben-niet-eens-verrast",
     "type": "article",
@@ -29,7 +75,7 @@
     "title": "Google-medewerkers willen dat bedrijf samenwerking met Israël stopzet",
     "subtitle": null,
     "published_at": "2022-09-01T07:28:32+02:00",
-    "updated_at": "2022-09-01T07:28:42+02:00",
+    "updated_at": "2022-09-01T08:01:14+02:00",
     "media_id": "oaix5bsa6rne",
     "duration": null,
     "canonical_section": {
@@ -326,9 +372,9 @@
     "slug": "eu-wil-ingrijpen-op-energiemarkt-maar-oplossing-ligt-niet-voor-het-oprapen",
     "type": "article",
     "title": "EU wil ingrijpen op energiemarkt, maar oplossing ligt niet voor het oprapen",
-    "subtitle": null,
+    "subtitle": "NU+",
     "published_at": "2022-09-01T05:34:40+02:00",
-    "updated_at": "2022-09-01T05:35:09+02:00",
+    "updated_at": "2022-09-01T08:04:44+02:00",
     "media_id": "3l5xx8yas1fa",
     "duration": null,
     "canonical_section": {
@@ -640,52 +686,6 @@
       "partner": null
     },
     "url": "/tennis/6221133/oud-winnaar-murray-haalt-voor-het-eerst-sinds-2016-derde-ronde-us-open.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6221132,
-    "slug": "haaland-maakt-indruk-met-hattrick-voor-manchester-city",
-    "type": "video",
-    "title": "Haaland maakt indruk met hattrick voor Manchester City",
-    "subtitle": "Video",
-    "published_at": "2022-08-31T21:40:24+02:00",
-    "updated_at": "2022-08-31T21:49:15+02:00",
-    "media_id": "xrixzssagnss",
-    "duration": "1:20",
-    "canonical_section": {
-      "id": 149,
-      "slug": "sport",
-      "type": "default",
-      "name": "Sport",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/sport/6221132/haaland-maakt-indruk-met-hattrick-voor-manchester-city.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6221131,
-    "slug": "chelsea-biedt-tientallen-miljoenen-op-ajacied-alvarez-en-psver-sangare",
-    "type": "article",
-    "title": "Chelsea biedt tientallen miljoenen op Ajacied Álvarez en PSV'er Sangaré",
-    "subtitle": null,
-    "published_at": "2022-08-31T21:28:33+02:00",
-    "updated_at": "2022-09-01T06:58:48+02:00",
-    "media_id": "txnx1ica4pko",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6221131/chelsea-biedt-tientallen-miljoenen-op-ajacied-alvarez-en-psver-sangare.html",
     "open_new_window": false,
     "partner": null
   }
