@@ -1,5 +1,51 @@
 [
   {
+    "id": 6221261,
+    "slug": "leclerc-ik-weet-niet-eens-meer-hoeveel-punten-ik-achter-max-sta",
+    "type": "article",
+    "title": "Leclerc: 'Ik weet niet eens meer hoeveel punten ik achter Max sta'",
+    "subtitle": null,
+    "published_at": "2022-09-01T14:35:26+02:00",
+    "updated_at": "2022-09-01T14:36:49+02:00",
+    "media_id": "c6rxw0wajadc",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772449,
+      "slug": "formule-1",
+      "type": "default",
+      "name": "Formule 1",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/formule-1/6221261/leclerc-ik-weet-niet-eens-meer-hoeveel-punten-ik-achter-max-sta.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6221281,
+    "slug": "stap-budget-van-overheid-binnen-paar-uur-alweer-op",
+    "type": "article",
+    "title": "STAP-budget van overheid binnen paar uur alweer op",
+    "subtitle": null,
+    "published_at": "2022-09-01T14:18:25+02:00",
+    "updated_at": "2022-09-01T14:31:10+02:00",
+    "media_id": "5xyxv6wajdqo",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6221281/stap-budget-van-overheid-binnen-paar-uur-alweer-op.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6221277,
     "slug": "huizen-weggespoeld-door-overstromingen-in-pakistan",
     "type": "video",
@@ -144,7 +190,7 @@
     "title": "Verstappen benoemd tot officier in de Orde van Oranje-Nassau",
     "subtitle": null,
     "published_at": "2022-09-01T13:15:46+02:00",
-    "updated_at": "2022-09-01T14:06:40+02:00",
+    "updated_at": "2022-09-01T14:31:46+02:00",
     "media_id": "qz1x4i9a7qxh",
     "duration": null,
     "canonical_section": {
@@ -328,7 +374,7 @@
     "title": "Grote zorgen over de grootste kerncentrale van Europa, wat is er aan de hand?",
     "subtitle": null,
     "published_at": "2022-09-01T12:08:23+02:00",
-    "updated_at": "2022-09-01T12:19:08+02:00",
+    "updated_at": "2022-09-01T14:19:03+02:00",
     "media_id": "ci6xbkia9kaw",
     "duration": null,
     "canonical_section": {
@@ -640,52 +686,6 @@
       "partner": null
     },
     "url": "/binnenland/6221188/antoni-hendrika-en-loes-dit-zijn-de-stormnamen-voor-komend-seizoen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6221194,
-    "slug": "zandvoort-in-theorie-ferrari-baan-maar-dat-geeft-geen-garanties",
-    "type": "article",
-    "title": "Zandvoort in theorie Ferrari-baan, maar dat geeft geen garanties",
-    "subtitle": "Video",
-    "published_at": "2022-09-01T10:15:46+02:00",
-    "updated_at": "2022-09-01T10:23:47+02:00",
-    "media_id": "n6ax7oganmqy",
-    "duration": null,
-    "canonical_section": {
-      "id": 1778846,
-      "slug": "nu-formule-1",
-      "type": "default",
-      "name": "NU+ Formule 1",
-      "style": "nusport",
-      "media_id": "gtmxcxnaui5m",
-      "partner": null
-    },
-    "url": "/nu-formule-1/6221194/zandvoort-in-theorie-ferrari-baan-maar-dat-geeft-geen-garanties.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6221183,
-    "slug": "serena-williams-bedankt-tiger-woods-na-nieuwe-zege-op-us-open",
-    "type": "article",
-    "title": "Serena Williams bedankt Tiger Woods na nieuwe zege op US Open",
-    "subtitle": null,
-    "published_at": "2022-09-01T09:43:22+02:00",
-    "updated_at": "2022-09-01T10:37:56+02:00",
-    "media_id": "l94xhznan4yu",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772432,
-      "slug": "tennis",
-      "type": "default",
-      "name": "Tennis",
-      "style": "nusport",
-      "media_id": "m1oxohpan0gq",
-      "partner": null
-    },
-    "url": "/tennis/6221183/serena-williams-bedankt-tiger-woods-na-nieuwe-zege-op-us-open.html",
     "open_new_window": false,
     "partner": null
   }
