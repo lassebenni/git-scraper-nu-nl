@@ -1,12 +1,58 @@
 [
   {
+    "id": 6221659,
+    "slug": "hoe-een-slechte-vrijdag-voor-verstappen-invloed-heeft-op-de-kwalificatie",
+    "type": "article",
+    "title": "Hoe een slechte vrijdag voor Verstappen invloed heeft op de kwalificatie",
+    "subtitle": "Video",
+    "published_at": "2022-09-02T22:40:02+02:00",
+    "updated_at": "2022-09-02T22:44:21+02:00",
+    "media_id": "fqaxbw2atbg8",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772449,
+      "slug": "formule-1",
+      "type": "default",
+      "name": "Grand Prix van Nederland",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/formule-1/6221659/hoe-een-slechte-vrijdag-voor-verstappen-invloed-heeft-op-de-kwalificatie.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6221650,
+    "slug": "dortmund-wint-moeizaam-van-hoffenheim-neres-scoort-fraai-bij-winnend-benfica",
+    "type": "article",
+    "title": "Dortmund wint moeizaam van Hoffenheim, Neres scoort fraai bij winnend Benfica",
+    "subtitle": null,
+    "published_at": "2022-09-02T22:35:25+02:00",
+    "updated_at": "2022-09-02T22:48:09+02:00",
+    "media_id": "br0xzvwaba8w",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6221650/dortmund-wint-moeizaam-van-hoffenheim-neres-scoort-fraai-bij-winnend-benfica.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6221653,
     "slug": "fc-utrecht-pakt-eerste-seizoenszege-in-tumultueus-duel-met-fortuna-sittard",
     "type": "article",
     "title": "FC Utrecht pakt eerste seizoenszege in tumultueus duel met Fortuna Sittard",
     "subtitle": null,
     "published_at": "2022-09-02T22:08:49+02:00",
-    "updated_at": "2022-09-02T22:27:37+02:00",
+    "updated_at": "2022-09-02T22:33:10+02:00",
     "media_id": "tl9xobwajjfv",
     "duration": null,
     "canonical_section": {
@@ -190,7 +236,7 @@
     "title": "Geen paniek, wel werk aan de winkel voor Red Bull in Zandvoort",
     "subtitle": "Analyse",
     "published_at": "2022-09-02T21:05:47+02:00",
-    "updated_at": "2022-09-02T21:22:17+02:00",
+    "updated_at": "2022-09-02T22:40:38+02:00",
     "media_id": "ekjxs5gaqrs5",
     "duration": null,
     "canonical_section": {
@@ -351,7 +397,7 @@
     "title": "Reacties na moeizame winst in oefeninterland met Schotland",
     "subtitle": "Liveblog Oranje",
     "published_at": "2022-09-02T19:30:38+02:00",
-    "updated_at": "2022-09-02T21:53:10+02:00",
+    "updated_at": "2022-09-02T22:35:45+02:00",
     "media_id": "ro4xohja8fpj",
     "duration": null,
     "canonical_section": {
@@ -640,52 +686,6 @@
       "partner": null
     },
     "url": "/wielrennen/6221602/pedersen-sprint-naar-zege-op-lastige-aankomst-in-vuelta-van-poppel-vijfde.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6221595,
-    "slug": "verstappen-ver-achter-ferrari-coureurs-bij-tweede-training-in-zandvoort",
-    "type": "article",
-    "title": "Verstappen ver achter Ferrari-coureurs bij tweede training in Zandvoort",
-    "subtitle": null,
-    "published_at": "2022-09-02T17:18:41+02:00",
-    "updated_at": "2022-09-02T21:30:55+02:00",
-    "media_id": "9r8x3f9avbwj",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772449,
-      "slug": "formule-1",
-      "type": "default",
-      "name": "Grand Prix van Nederland",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/formule-1/6221595/verstappen-ver-achter-ferrari-coureurs-bij-tweede-training-in-zandvoort.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6221584,
-    "slug": "europa-onderzoekt-vergoeding-voor-internetverkeer-door-techbedrijven",
-    "type": "article",
-    "title": "Europa onderzoekt vergoeding voor internetverkeer door techbedrijven",
-    "subtitle": null,
-    "published_at": "2022-09-02T16:58:54+02:00",
-    "updated_at": "2022-09-02T17:01:44+02:00",
-    "media_id": "byxxivmavemc",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771438,
-      "slug": "tech",
-      "type": "default",
-      "name": "Tech",
-      "style": "nutech",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/tech/6221584/europa-onderzoekt-vergoeding-voor-internetverkeer-door-techbedrijven.html",
     "open_new_window": false,
     "partner": null
   }
