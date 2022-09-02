@@ -1,5 +1,51 @@
 [
   {
+    "id": 6221574,
+    "slug": "automobilist-ramt-boom-na-politieachtervolging-in-tilburg",
+    "type": "video",
+    "title": "Automobilist ramt boom na politieachtervolging in Tilburg",
+    "subtitle": "Video",
+    "published_at": "2022-09-02T16:25:49+02:00",
+    "updated_at": "2022-09-02T16:25:50+02:00",
+    "media_id": "mqvxwlqag6b4",
+    "duration": "0:37",
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6221574/automobilist-ramt-boom-na-politieachtervolging-in-tilburg.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6221571,
+    "slug": "grote-stroomstoring-flevoland-politie-vraagt-wegen-te-mijden",
+    "type": "article",
+    "title": "Grote stroomstoring Flevoland, politie vraagt wegen te mijden",
+    "subtitle": null,
+    "published_at": "2022-09-02T16:18:38+02:00",
+    "updated_at": "2022-09-02T16:24:10+02:00",
+    "media_id": "5itxbz4a6r0k",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6221571/grote-stroomstoring-flevoland-politie-vraagt-wegen-te-mijden.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6221566,
     "slug": "riejanne-markus-soleert-in-ladies-tour-naar-vierde-nederlandse-ritzege",
     "type": "article",
@@ -75,7 +121,7 @@
     "title": "Brussel wil prijsplafond voor peperduur gas uit Rusland",
     "subtitle": null,
     "published_at": "2022-09-02T15:59:57+02:00",
-    "updated_at": "2022-09-02T15:59:58+02:00",
+    "updated_at": "2022-09-02T16:29:18+02:00",
     "media_id": "vivxjjca7u68",
     "duration": null,
     "canonical_section": {
@@ -98,8 +144,8 @@
     "title": "F2-kampioen Piastri na transfersoap definitief vervanger Ricciardo bij McLaren",
     "subtitle": null,
     "published_at": "2022-09-02T15:56:53+02:00",
-    "updated_at": "2022-09-02T16:09:12+02:00",
-    "media_id": "cptxf8jaracu",
+    "updated_at": "2022-09-02T16:24:43+02:00",
+    "media_id": "gz2xtibahdwe",
     "duration": null,
     "canonical_section": {
       "id": 1772449,
@@ -535,7 +581,7 @@
     "title": "Carrousel draait ook in Zandvoort op volle toeren: Gaat Gasly naar Alpine?",
     "subtitle": "NU+",
     "published_at": "2022-09-02T12:49:33+02:00",
-    "updated_at": "2022-09-02T13:07:50+02:00",
+    "updated_at": "2022-09-02T16:28:51+02:00",
     "media_id": "dmux04ja7czp",
     "duration": null,
     "canonical_section": {
@@ -640,52 +686,6 @@
       "partner": null
     },
     "url": "/binnenland/6221468/raad-van-europa-uit-stevige-kritiek-op-nederlandse-behandeling-van-asielzoekers.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6221504,
-    "slug": "haai-springt-uit-water-en-belandt-in-vissersboot",
-    "type": "video",
-    "title": "Haai springt uit water en belandt in vissersboot",
-    "subtitle": "Video",
-    "published_at": "2022-09-02T12:15:21+02:00",
-    "updated_at": "2022-09-02T12:28:15+02:00",
-    "media_id": "0thxx9tavq0l",
-    "duration": "0:32",
-    "canonical_section": {
-      "id": 1772536,
-      "slug": "dieren",
-      "type": "default",
-      "name": "Dieren",
-      "style": "nunjij",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/dieren/6221504/haai-springt-uit-water-en-belandt-in-vissersboot.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6221498,
-    "slug": "voedselprijzen-dalen-voor-vijfde-maand-op-rij",
-    "type": "article",
-    "title": "Voedselprijzen dalen voor vijfde maand op rij",
-    "subtitle": null,
-    "published_at": "2022-09-02T12:09:05+02:00",
-    "updated_at": "2022-09-02T12:09:05+02:00",
-    "media_id": "xbox6kaaxbpp",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6221498/voedselprijzen-dalen-voor-vijfde-maand-op-rij.html",
     "open_new_window": false,
     "partner": null
   }
