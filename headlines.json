@@ -1,5 +1,97 @@
 [
   {
+    "id": 6221584,
+    "slug": "europa-onderzoekt-vergoeding-voor-internetverkeer-door-techbedrijven",
+    "type": "article",
+    "title": "Europa onderzoekt vergoeding voor internetverkeer door techbedrijven",
+    "subtitle": null,
+    "published_at": "2022-09-02T16:58:54+02:00",
+    "updated_at": "2022-09-02T17:01:44+02:00",
+    "media_id": "byxxivmavemc",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771438,
+      "slug": "tech",
+      "type": "default",
+      "name": "Tech",
+      "style": "nutech",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/tech/6221584/europa-onderzoekt-vergoeding-voor-internetverkeer-door-techbedrijven.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6221582,
+    "slug": "beau-van-erven-dorens-wil-armoede-bespreekbaar-maken-met-nieuw-programma",
+    "type": "article",
+    "title": "Beau van Erven Dorens wil armoede bespreekbaar maken met nieuw programma",
+    "subtitle": null,
+    "published_at": "2022-09-02T16:56:14+02:00",
+    "updated_at": "2022-09-02T16:59:12+02:00",
+    "media_id": "p7exi8ma7t5g",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771675,
+      "slug": "media",
+      "type": "default",
+      "name": "Media",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/media/6221582/beau-van-erven-dorens-wil-armoede-bespreekbaar-maken-met-nieuw-programma.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6221550,
+    "slug": "waarom-nog-een-prik-vijf-vragen-over-de-aankomende-vaccinatieronde",
+    "type": "article",
+    "title": "Waarom nóg een prik? Vijf vragen over de aankomende vaccinatieronde",
+    "subtitle": null,
+    "published_at": "2022-09-02T16:56:07+02:00",
+    "updated_at": "2022-09-02T16:56:08+02:00",
+    "media_id": "adgxqbka9ifi",
+    "duration": null,
+    "canonical_section": {
+      "id": 1778528,
+      "slug": "coronavirus",
+      "type": "default",
+      "name": "Coronavirus",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/coronavirus/6221550/waarom-nog-een-prik-vijf-vragen-over-de-aankomende-vaccinatieronde.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6221580,
+    "slug": "vogelgriep-vastgesteld-op-fries-bedrijf-104000-vleeskuikens-geruimd",
+    "type": "article",
+    "title": "Vogelgriep vastgesteld op Fries bedrijf: 104.000 vleeskuikens geruimd",
+    "subtitle": null,
+    "published_at": "2022-09-02T16:48:55+02:00",
+    "updated_at": "2022-09-02T16:48:56+02:00",
+    "media_id": "mhax85uaj4ao",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6221580/vogelgriep-vastgesteld-op-fries-bedrijf-104000-vleeskuikens-geruimd.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6221574,
     "slug": "automobilist-ramt-boom-na-politieachtervolging-in-tilburg",
     "type": "video",
@@ -24,12 +116,12 @@
   },
   {
     "id": 6221571,
-    "slug": "grote-stroomstoring-flevoland-politie-vraagt-wegen-te-mijden",
+    "slug": "grote-stroomstoring-flevoland-voorbij-alle-adressen-hebben-weer-stroom",
     "type": "article",
-    "title": "Grote stroomstoring Flevoland, politie vraagt wegen te mijden",
+    "title": "Grote stroomstoring Flevoland voorbij, alle adressen hebben weer stroom",
     "subtitle": null,
     "published_at": "2022-09-02T16:18:38+02:00",
-    "updated_at": "2022-09-02T16:47:33+02:00",
+    "updated_at": "2022-09-02T17:05:35+02:00",
     "media_id": "89lxevxaxgv9",
     "duration": null,
     "canonical_section": {
@@ -41,7 +133,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/binnenland/6221571/grote-stroomstoring-flevoland-politie-vraagt-wegen-te-mijden.html",
+    "url": "/binnenland/6221571/grote-stroomstoring-flevoland-voorbij-alle-adressen-hebben-weer-stroom.html",
     "open_new_window": false,
     "partner": null
   },
@@ -52,7 +144,7 @@
     "title": "Riejanne Markus soleert in Ladies Tour naar vierde Nederlandse ritzege",
     "subtitle": null,
     "published_at": "2022-09-02T16:09:36+02:00",
-    "updated_at": "2022-09-02T16:09:37+02:00",
+    "updated_at": "2022-09-02T17:09:21+02:00",
     "media_id": "4dqxc4ma67b5",
     "duration": null,
     "canonical_section": {
@@ -594,98 +686,6 @@
       "partner": null
     },
     "url": "/formule-1/6221506/carrousel-draait-ook-in-zandvoort-op-volle-toeren-gaat-gasly-naar-alpine.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6221509,
-    "slug": "betalingssysteem-van-google-in-eu-niet-meer-verplicht-voor-appaankopen",
-    "type": "article",
-    "title": "Betalingssysteem van Google in EU niet meer verplicht voor appaankopen",
-    "subtitle": null,
-    "published_at": "2022-09-02T12:49:11+02:00",
-    "updated_at": "2022-09-02T13:19:13+02:00",
-    "media_id": "y8exgzmaiple",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771438,
-      "slug": "tech",
-      "type": "default",
-      "name": "Tech",
-      "style": "nutech",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/tech/6221509/betalingssysteem-van-google-in-eu-niet-meer-verplicht-voor-appaankopen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6221510,
-    "slug": "italiaans-schip-loopt-vast-in-westerschelde",
-    "type": "video",
-    "title": "Italiaans schip loopt vast in Westerschelde",
-    "subtitle": "Video",
-    "published_at": "2022-09-02T12:28:41+02:00",
-    "updated_at": "2022-09-02T12:28:42+02:00",
-    "media_id": "du1xcv6afgzw",
-    "duration": "0:34",
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6221510/italiaans-schip-loopt-vast-in-westerschelde.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6221507,
-    "slug": "psv-aanvaller-gakpo-tot-vorige-week-dacht-ik-naar-manchester-united-te-gaan",
-    "type": "article",
-    "title": "PSV-aanvaller Gakpo: 'Tot vorige week dacht ik naar Manchester United te gaan'",
-    "subtitle": null,
-    "published_at": "2022-09-02T12:23:30+02:00",
-    "updated_at": "2022-09-02T14:13:51+02:00",
-    "media_id": "vh2x4gwa43n4",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6221507/psv-aanvaller-gakpo-tot-vorige-week-dacht-ik-naar-manchester-united-te-gaan.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6221468,
-    "slug": "raad-van-europa-uit-stevige-kritiek-op-nederlandse-behandeling-van-asielzoekers",
-    "type": "article",
-    "title": "Raad van Europa uit stevige kritiek op Nederlandse behandeling van asielzoekers",
-    "subtitle": null,
-    "published_at": "2022-09-02T12:15:35+02:00",
-    "updated_at": "2022-09-02T16:05:44+02:00",
-    "media_id": "fbtxowna0eoe",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6221468/raad-van-europa-uit-stevige-kritiek-op-nederlandse-behandeling-van-asielzoekers.html",
     "open_new_window": false,
     "partner": null
   }
