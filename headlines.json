@@ -1,12 +1,35 @@
 [
   {
+    "id": 6221606,
+    "slug": "verkeersplan-zandvoort-wordt-nu-echt-getest-en-lijkt-drukte-aan-te-kunnen",
+    "type": "video",
+    "title": "Verkeersplan Zandvoort wordt nu echt getest en lijkt drukte aan te kunnen",
+    "subtitle": "Video",
+    "published_at": "2022-09-02T17:45:54+02:00",
+    "updated_at": "2022-09-02T17:45:55+02:00",
+    "media_id": "ibcx70da7xc5",
+    "duration": "2:30",
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6221606/verkeersplan-zandvoort-wordt-nu-echt-getest-en-lijkt-drukte-aan-te-kunnen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6221600,
     "slug": "ajax-trainer-schreuder-tevreden-over-transferperiode-onze-groep-is-weer-sterk",
     "type": "article",
     "title": "Ajax-trainer Schreuder tevreden over transferperiode: 'Onze groep is weer sterk'",
     "subtitle": null,
     "published_at": "2022-09-02T17:30:23+02:00",
-    "updated_at": "2022-09-02T17:30:24+02:00",
+    "updated_at": "2022-09-02T17:36:09+02:00",
     "media_id": "u9uxu5oa5g76",
     "duration": null,
     "canonical_section": {
@@ -24,13 +47,13 @@
   },
   {
     "id": 6221602,
-    "slug": "pedersen-sprint-naar-zege-bij-lastige-aankomst-in-vuelta-van-poppel-vijfde",
+    "slug": "pedersen-sprint-naar-zege-op-lastige-aankomst-in-vuelta-van-poppel-vijfde",
     "type": "article",
-    "title": "Pedersen sprint naar zege bij lastige aankomst in Vuelta, Van Poppel vijfde",
+    "title": "Pedersen sprint naar zege op lastige aankomst in Vuelta, Van Poppel vijfde",
     "subtitle": null,
     "published_at": "2022-09-02T17:29:58+02:00",
-    "updated_at": "2022-09-02T17:29:59+02:00",
-    "media_id": "5yyxaagazkvd",
+    "updated_at": "2022-09-02T17:42:41+02:00",
+    "media_id": "3lhxo3can117",
     "duration": null,
     "canonical_section": {
       "id": 1772339,
@@ -41,7 +64,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/wielrennen/6221602/pedersen-sprint-naar-zege-bij-lastige-aankomst-in-vuelta-van-poppel-vijfde.html",
+    "url": "/wielrennen/6221602/pedersen-sprint-naar-zege-op-lastige-aankomst-in-vuelta-van-poppel-vijfde.html",
     "open_new_window": false,
     "partner": null
   },
@@ -75,8 +98,8 @@
     "title": "Verstappen ver achter Ferrari-coureurs bij tweede training in Zandvoort",
     "subtitle": null,
     "published_at": "2022-09-02T17:18:41+02:00",
-    "updated_at": "2022-09-02T17:32:45+02:00",
-    "media_id": "ip1xsvmakv3m",
+    "updated_at": "2022-09-02T17:46:14+02:00",
+    "media_id": "9r8x3f9avbwj",
     "duration": null,
     "canonical_section": {
       "id": 1772449,
@@ -208,12 +231,12 @@
   },
   {
     "id": 6221571,
-    "slug": "grote-stroomstoring-flevoland-voorbij-alle-adressen-hebben-weer-stroom",
+    "slug": "grote-stroomstoring-flevoland-voorbij-treinverkeer-nog-tot-laat-gestremd",
     "type": "article",
-    "title": "Grote stroomstoring Flevoland voorbij, alle adressen hebben weer stroom",
+    "title": "Grote stroomstoring Flevoland voorbij, treinverkeer nog tot laat gestremd",
     "subtitle": null,
     "published_at": "2022-09-02T16:18:38+02:00",
-    "updated_at": "2022-09-02T17:25:32+02:00",
+    "updated_at": "2022-09-02T17:44:47+02:00",
     "media_id": "89lxevxaxgv9",
     "duration": null,
     "canonical_section": {
@@ -225,7 +248,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/binnenland/6221571/grote-stroomstoring-flevoland-voorbij-alle-adressen-hebben-weer-stroom.html",
+    "url": "/binnenland/6221571/grote-stroomstoring-flevoland-voorbij-treinverkeer-nog-tot-laat-gestremd.html",
     "open_new_window": false,
     "partner": null
   },
@@ -466,7 +489,7 @@
     "title": "Slot kiest voor Kökçü als nieuwe aanvoerder Feyenoord: 'Goed voor ontwikkeling'",
     "subtitle": null,
     "published_at": "2022-09-02T15:10:07+02:00",
-    "updated_at": "2022-09-02T15:10:08+02:00",
+    "updated_at": "2022-09-02T17:44:24+02:00",
     "media_id": "ud5xet1a9gfe",
     "duration": null,
     "canonical_section": {
@@ -663,29 +686,6 @@
       "partner": null
     },
     "url": "/binnenland/6221513/150-jonge-asielzoekers-krijgen-opvangplek-buiten-aanmeldcentrum-ter-apel.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6221518,
-    "slug": "verstappen-valt-al-binnen-tien-minuten-stil-in-eerste-vrije-training",
-    "type": "video",
-    "title": "Verstappen valt al binnen tien minuten stil in eerste vrije training",
-    "subtitle": "Video",
-    "published_at": "2022-09-02T13:19:10+02:00",
-    "updated_at": "2022-09-02T13:35:24+02:00",
-    "media_id": "cp0xrheai59d",
-    "duration": "3:14",
-    "canonical_section": {
-      "id": 1772449,
-      "slug": "formule-1",
-      "type": "default",
-      "name": "Grand Prix van Nederland",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/formule-1/6221518/verstappen-valt-al-binnen-tien-minuten-stil-in-eerste-vrije-training.html",
     "open_new_window": false,
     "partner": null
   }
