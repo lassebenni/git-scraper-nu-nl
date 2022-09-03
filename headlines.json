@@ -1,12 +1,35 @@
 [
   {
+    "id": 6221712,
+    "slug": "auto-belandt-op-zijn-kop-na-botsing-met-muur-in-arnhem",
+    "type": "video",
+    "title": "Auto belandt op zijn kop na botsing met muur in Arnhem",
+    "subtitle": "Video",
+    "published_at": "2022-09-03T11:27:02+02:00",
+    "updated_at": "2022-09-03T11:27:59+02:00",
+    "media_id": "t42xi9iaksie",
+    "duration": "0:39",
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6221712/auto-belandt-op-zijn-kop-na-botsing-met-muur-in-arnhem.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6221705,
     "slug": "serena-williams-geroemd-na-haar-laatste-partij-ooit-je-hebt-ons-geinspireerd",
     "type": "article",
     "title": "Serena Williams geroemd na haar laatste partij ooit: 'Je hebt ons geïnspireerd'",
     "subtitle": null,
     "published_at": "2022-09-03T10:57:36+02:00",
-    "updated_at": "2022-09-03T11:09:09+02:00",
+    "updated_at": "2022-09-03T11:26:20+02:00",
     "media_id": "2rixtz2azmeh",
     "duration": null,
     "canonical_section": {
@@ -167,7 +190,7 @@
     "title": "Williams huilt na uitschakeling op US Open: 'Maar het zijn tranen van vreugde'",
     "subtitle": null,
     "published_at": "2022-09-03T09:53:15+02:00",
-    "updated_at": "2022-09-03T10:36:23+02:00",
+    "updated_at": "2022-09-03T11:25:54+02:00",
     "media_id": "3zgxnpia3ifz",
     "duration": null,
     "canonical_section": {
@@ -259,7 +282,7 @@
     "title": "Dit waren de laatste momenten van Serena Williams als tennisster",
     "subtitle": "Video",
     "published_at": "2022-09-03T08:44:21+02:00",
-    "updated_at": "2022-09-03T09:47:36+02:00",
+    "updated_at": "2022-09-03T11:28:05+02:00",
     "media_id": "hrjxyihaj9pw",
     "duration": "1:11",
     "canonical_section": {
@@ -282,7 +305,7 @@
     "title": "Serena Williams uitgeschakeld op US Open, indrukwekkende carrière zit erop",
     "subtitle": null,
     "published_at": "2022-09-03T08:41:48+02:00",
-    "updated_at": "2022-09-03T09:54:05+02:00",
+    "updated_at": "2022-09-03T11:25:37+02:00",
     "media_id": "np3x0azat8o6",
     "duration": null,
     "canonical_section": {
@@ -663,29 +686,6 @@
       "partner": null
     },
     "url": "/buitenland/6221672/vs-willen-taiwan-wapens-leveren-china-reageert-woedend.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6221671,
-    "slug": "hacker-steelt-opbrengsten-crypto-veiling-van-bill-murray",
-    "type": "article",
-    "title": "Hacker steelt opbrengsten crypto-veiling van Bill Murray",
-    "subtitle": null,
-    "published_at": "2022-09-03T02:05:14+02:00",
-    "updated_at": "2022-09-03T07:51:57+02:00",
-    "media_id": "w2zxq1dajcot",
-    "duration": null,
-    "canonical_section": {
-      "id": 125,
-      "slug": "achterklap",
-      "type": "default",
-      "name": "Achterklap",
-      "style": "nuentertainment",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/achterklap/6221671/hacker-steelt-opbrengsten-crypto-veiling-van-bill-murray.html",
     "open_new_window": false,
     "partner": null
   }
