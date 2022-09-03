@@ -1,5 +1,28 @@
 [
   {
+    "id": 6221722,
+    "slug": "ellen-deckwitz-krijgt-oudste-literaire-prijs-voor-haar-enthousiasme-over-poezie",
+    "type": "article",
+    "title": "Ellen Deckwitz krijgt oudste literaire prijs voor haar enthousiasme over poëzie",
+    "subtitle": null,
+    "published_at": "2022-09-03T12:13:28+02:00",
+    "updated_at": "2022-09-03T12:21:22+02:00",
+    "media_id": "k07x3jwaoujo",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772242,
+      "slug": "entertainment",
+      "type": "default",
+      "name": "Media en Cultuur",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/entertainment/6221722/ellen-deckwitz-krijgt-oudste-literaire-prijs-voor-haar-enthousiasme-over-poezie.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6221562,
     "slug": "nederlandse-zonnepanelen-spelen-grote-rol-bij-maanmissie-het-blijft-spannend",
     "type": "article",
@@ -208,13 +231,13 @@
   },
   {
     "id": 6221697,
-    "slug": "derde-training-in-zandvoort-begonnen-verstappen-staat-nog-binnen",
+    "slug": "verstappen-voorlopig-de-snelste-in-derde-training-op-zandvoort",
     "type": "article",
-    "title": "Derde training in Zandvoort begonnen, Verstappen staat nog binnen",
+    "title": "Verstappen voorlopig de snelste in derde training op Zandvoort",
     "subtitle": "Liveblog F1",
     "published_at": "2022-09-03T10:07:25+02:00",
-    "updated_at": "2022-09-03T12:07:01+02:00",
-    "media_id": "lfxxijlayx2p",
+    "updated_at": "2022-09-03T12:28:11+02:00",
+    "media_id": "0bhxsfoa6abe",
     "duration": null,
     "canonical_section": {
       "id": 1772449,
@@ -225,7 +248,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/formule-1/6221697/derde-training-in-zandvoort-begonnen-verstappen-staat-nog-binnen.html",
+    "url": "/formule-1/6221697/verstappen-voorlopig-de-snelste-in-derde-training-op-zandvoort.html",
     "open_new_window": false,
     "partner": null
   },
@@ -663,29 +686,6 @@
       "partner": null
     },
     "url": "/wetenschap/6221673/studie-een-nu-droge-tak-van-de-nijl-hielp-bij-het-bouwen-van-piramides.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6221499,
-    "slug": "apps-van-de-week-in-een-twitter-circle-met-je-beste-vrienden",
-    "type": "article",
-    "title": "Apps van de week: In een Twitter Circle met je beste vrienden",
-    "subtitle": null,
-    "published_at": "2022-09-03T05:27:37+02:00",
-    "updated_at": "2022-09-03T05:27:38+02:00",
-    "media_id": "yftx4lna4iec",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771438,
-      "slug": "tech",
-      "type": "default",
-      "name": "Tech",
-      "style": "nutech",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/tech/6221499/apps-van-de-week-in-een-twitter-circle-met-je-beste-vrienden.html",
     "open_new_window": false,
     "partner": null
   }
