@@ -1,12 +1,58 @@
 [
   {
+    "id": 6221684,
+    "slug": "dit-waren-de-laatste-momenten-van-serena-williams-op-de-tennisbaan",
+    "type": "video",
+    "title": "Dit waren de laatste momenten van Serena Williams op de tennisbaan",
+    "subtitle": "Video",
+    "published_at": "2022-09-03T08:44:21+02:00",
+    "updated_at": "2022-09-03T08:48:37+02:00",
+    "media_id": "hrjxyihaj9pw",
+    "duration": "1:11",
+    "canonical_section": {
+      "id": 1772432,
+      "slug": "tennis",
+      "type": "default",
+      "name": "Tennis",
+      "style": "nusport",
+      "media_id": "m1oxohpan0gq",
+      "partner": null
+    },
+    "url": "/tennis/6221684/dit-waren-de-laatste-momenten-van-serena-williams-op-de-tennisbaan.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6221682,
+    "slug": "serena-williams-uitgeschakeld-op-us-open-carriere-zit-er-zeer-waarschijnlijk-op",
+    "type": "article",
+    "title": "Serena Williams uitgeschakeld op US Open, carrière zit er zeer waarschijnlijk op",
+    "subtitle": null,
+    "published_at": "2022-09-03T08:41:48+02:00",
+    "updated_at": "2022-09-03T08:49:46+02:00",
+    "media_id": "np3x0azat8o6",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772432,
+      "slug": "tennis",
+      "type": "default",
+      "name": "Tennis",
+      "style": "nusport",
+      "media_id": "m1oxohpan0gq",
+      "partner": null
+    },
+    "url": "/tennis/6221682/serena-williams-uitgeschakeld-op-us-open-carriere-zit-er-zeer-waarschijnlijk-op.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6221681,
     "slug": "qatar-staat-tijdens-wk-beperkte-bierverkoop-rond-wedstrijden-toe",
     "type": "article",
     "title": "Qatar staat tijdens WK beperkte bierverkoop rond wedstrijden toe",
     "subtitle": null,
     "published_at": "2022-09-03T08:32:16+02:00",
-    "updated_at": "2022-09-03T08:32:17+02:00",
+    "updated_at": "2022-09-03T08:38:23+02:00",
     "media_id": "r5pxzshal03q",
     "duration": null,
     "canonical_section": {
@@ -29,7 +75,7 @@
     "title": "Spitse nieuwe aanvoerder Oranjevrouwen: 'Hebben strijders zoals zij nodig'",
     "subtitle": null,
     "published_at": "2022-09-03T08:29:22+02:00",
-    "updated_at": "2022-09-03T08:34:15+02:00",
+    "updated_at": "2022-09-03T08:34:22+02:00",
     "media_id": "udmx97kavjq2",
     "duration": null,
     "canonical_section": {
@@ -640,52 +686,6 @@
       "partner": null
     },
     "url": "/wonen/6221406/getest-dit-is-het-beste-donzen-dekbed.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6221530,
-    "slug": "is-het-slim-om-een-accu-te-plaatsen-voor-je-zonnepanelen",
-    "type": "article",
-    "title": "Is het slim om een accu te plaatsen voor je zonnepanelen?",
-    "subtitle": null,
-    "published_at": "2022-09-02T22:03:14+02:00",
-    "updated_at": "2022-09-02T22:03:14+02:00",
-    "media_id": "aqbxcguakydk",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772342,
-      "slug": "wonen",
-      "type": "default",
-      "name": "Wonen",
-      "style": "nuzakelijk",
-      "media_id": "3qlxtaiahydl",
-      "partner": null
-    },
-    "url": "/wonen/6221530/is-het-slim-om-een-accu-te-plaatsen-voor-je-zonnepanelen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6221649,
-    "slug": "willem-ii-vergroot-zorgen-kuijt-en-ado-pec-wint-weer-en-blijft-koploper",
-    "type": "article",
-    "title": "Willem II vergroot zorgen Kuijt en ADO, PEC wint weer en blijft koploper",
-    "subtitle": null,
-    "published_at": "2022-09-02T22:01:16+02:00",
-    "updated_at": "2022-09-02T22:18:20+02:00",
-    "media_id": "k7ox5p0ahaoy",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6221649/willem-ii-vergroot-zorgen-kuijt-en-ado-pec-wint-weer-en-blijft-koploper.html",
     "open_new_window": false,
     "partner": null
   }
