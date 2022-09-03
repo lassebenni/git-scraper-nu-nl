@@ -1,5 +1,74 @@
 [
   {
+    "id": 6221758,
+    "slug": "bekijk-hier-de-fraaie-goal-van-becker-tegen-bayern",
+    "type": "video",
+    "title": "Bekijk hier de fraaie goal van Becker tegen Bayern",
+    "subtitle": "Video",
+    "published_at": "2022-09-03T16:45:44+02:00",
+    "updated_at": "2022-09-03T16:45:45+02:00",
+    "media_id": "wsvxmniaf36t",
+    "duration": "1:02",
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6221758/bekijk-hier-de-fraaie-goal-van-becker-tegen-bayern.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6221757,
+    "slug": "bekijk-hoe-verstappen-poleposition-pakt-voor-de-thuisrace-op-zandvoort",
+    "type": "video",
+    "title": "Bekijk hoe Verstappen poleposition pakt voor de thuisrace op Zandvoort",
+    "subtitle": "Video",
+    "published_at": "2022-09-03T16:37:21+02:00",
+    "updated_at": "2022-09-03T16:40:20+02:00",
+    "media_id": "wbox7baaj558",
+    "duration": "3:36",
+    "canonical_section": {
+      "id": 1779017,
+      "slug": "formule-1-videos",
+      "type": "default",
+      "name": "Formule 1 / video's",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/formule-1-videos/6221757/bekijk-hoe-verstappen-poleposition-pakt-voor-de-thuisrace-op-zandvoort.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6221753,
+    "slug": "voormalige-sovjetleider-michail-gorbatsjov-begraven-zonder-staatseer",
+    "type": "article",
+    "title": "Voormalige Sovjetleider Michail Gorbatsjov begraven zonder staatseer",
+    "subtitle": null,
+    "published_at": "2022-09-03T16:33:35+02:00",
+    "updated_at": "2022-09-03T16:44:21+02:00",
+    "media_id": "d1zxrsbaxp4f",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6221753/voormalige-sovjetleider-michail-gorbatsjov-begraven-zonder-staatseer.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6221755,
     "slug": "verstappen-verrast-zichzelf-met-pole-na-slechte-vrijdag-dit-is-ongelooflijk",
     "type": "article",
@@ -29,7 +98,7 @@
     "title": "Verstappen klopt Ferrari's en pakt poleposition voor GP Nederland",
     "subtitle": null,
     "published_at": "2022-09-03T16:09:21+02:00",
-    "updated_at": "2022-09-03T16:24:24+02:00",
+    "updated_at": "2022-09-03T16:39:46+02:00",
     "media_id": "ypvx9gaap8c2",
     "duration": null,
     "canonical_section": {
@@ -70,13 +139,13 @@
   },
   {
     "id": 6221749,
-    "slug": "ajax-pakt-na-roerige-transferperiode-draad-op-tegen-cambuur",
+    "slug": "ajax-ontsnapt-aan-achterstand-in-openingsfase-tegen-cambuur",
     "type": "article",
-    "title": "Ajax pakt na roerige transferperiode draad op tegen Cambuur",
+    "title": "Ajax ontsnapt aan achterstand in openingsfase tegen Cambuur",
     "subtitle": "Liveblog Eredivisie",
     "published_at": "2022-09-03T15:52:15+02:00",
-    "updated_at": "2022-09-03T16:28:49+02:00",
-    "media_id": "0t0xo66ayuah",
+    "updated_at": "2022-09-03T16:45:49+02:00",
+    "media_id": "lcox47gai4d2",
     "duration": null,
     "canonical_section": {
       "id": 1772338,
@@ -87,7 +156,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6221749/ajax-pakt-na-roerige-transferperiode-draad-op-tegen-cambuur.html",
+    "url": "/voetbal/6221749/ajax-ontsnapt-aan-achterstand-in-openingsfase-tegen-cambuur.html",
     "open_new_window": false,
     "partner": null
   },
@@ -144,7 +213,7 @@
     "title": "Klaassen vervangt Taylor tegen Cambuur, ook Álvarez 'gewoon' in de basis",
     "subtitle": null,
     "published_at": "2022-09-03T15:25:58+02:00",
-    "updated_at": "2022-09-03T15:59:40+02:00",
+    "updated_at": "2022-09-03T16:45:10+02:00",
     "media_id": "u92xpgsakbht",
     "duration": null,
     "canonical_section": {
@@ -167,7 +236,7 @@
     "title": "Amerikaan steelt vliegtuig en dreigt expres neer te storten op Walmart-filiaal",
     "subtitle": null,
     "published_at": "2022-09-03T14:58:24+02:00",
-    "updated_at": "2022-09-03T15:56:58+02:00",
+    "updated_at": "2022-09-03T16:48:01+02:00",
     "media_id": "hftxihpadyso",
     "duration": null,
     "canonical_section": {
@@ -617,75 +686,6 @@
       "partner": null
     },
     "url": "/formule-1/6221697/reacties-na-poleposition-verstappen-voor-thuisrace-op-zandvoort.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6221695,
-    "slug": "thomas-berge-krijgt-weer-een-zoontje",
-    "type": "article",
-    "title": "Thomas Berge krijgt weer een zoontje",
-    "subtitle": null,
-    "published_at": "2022-09-03T09:53:50+02:00",
-    "updated_at": "2022-09-03T09:59:03+02:00",
-    "media_id": "6oxxn3ga60hr",
-    "duration": null,
-    "canonical_section": {
-      "id": 125,
-      "slug": "achterklap",
-      "type": "default",
-      "name": "Achterklap",
-      "style": "nuentertainment",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/achterklap/6221695/thomas-berge-krijgt-weer-een-zoontje.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6221694,
-    "slug": "williams-huilt-na-uitschakeling-op-us-open-maar-het-zijn-tranen-van-vreugde",
-    "type": "article",
-    "title": "Williams huilt na uitschakeling op US Open: 'Maar het zijn tranen van vreugde'",
-    "subtitle": null,
-    "published_at": "2022-09-03T09:53:15+02:00",
-    "updated_at": "2022-09-03T11:25:54+02:00",
-    "media_id": "3zgxnpia3ifz",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772432,
-      "slug": "tennis",
-      "type": "default",
-      "name": "Tennis",
-      "style": "nusport",
-      "media_id": "m1oxohpan0gq",
-      "partner": null
-    },
-    "url": "/tennis/6221694/williams-huilt-na-uitschakeling-op-us-open-maar-het-zijn-tranen-van-vreugde.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6221690,
-    "slug": "marcelo-vervolgt-loopbaan-na-25-prijzen-met-real-madrid-bij-olympiacos",
-    "type": "article",
-    "title": "Marcelo vervolgt loopbaan na 25 prijzen met Real Madrid bij Olympiacos",
-    "subtitle": null,
-    "published_at": "2022-09-03T09:21:51+02:00",
-    "updated_at": "2022-09-03T09:28:26+02:00",
-    "media_id": "lsyx5n6a2tim",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6221690/marcelo-vervolgt-loopbaan-na-25-prijzen-met-real-madrid-bij-olympiacos.html",
     "open_new_window": false,
     "partner": null
   }
