@@ -1,5 +1,51 @@
 [
   {
+    "id": 6221626,
+    "slug": "onze-formule-1-redactie-verstopt-zich-niet-achter-het-toetsenbord",
+    "type": "article",
+    "title": "Onze Formule 1-redactie verstopt zich niet achter het toetsenbord",
+    "subtitle": "Van de hoofdredactie",
+    "published_at": "2022-09-04T08:33:30+02:00",
+    "updated_at": "2022-09-04T08:33:31+02:00",
+    "media_id": "838xbdyat78q",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772069,
+      "slug": "blog",
+      "type": "default",
+      "name": "Van de hoofdredactie",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/blog/6221626/onze-formule-1-redactie-verstopt-zich-niet-achter-het-toetsenbord.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6221783,
+    "slug": "bekijk-hier-de-startopstelling-voor-de-gp-van-nederland-met-verstappen-op-pole",
+    "type": "article",
+    "title": "Bekijk hier de startopstelling voor de GP van Nederland met Verstappen op pole",
+    "subtitle": null,
+    "published_at": "2022-09-04T08:25:47+02:00",
+    "updated_at": "2022-09-04T08:25:47+02:00",
+    "media_id": "xcexg8kalx93",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772449,
+      "slug": "formule-1",
+      "type": "default",
+      "name": "Grand Prix van Nederland",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/formule-1/6221783/bekijk-hier-de-startopstelling-voor-de-gp-van-nederland-met-verstappen-op-pole.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6221826,
     "slug": "de-woordle-van-vandaag-raad-jij-het-woord-van-de-dag",
     "type": "article",
@@ -144,7 +190,7 @@
     "title": "Weerbericht: Opnieuw zomerse temperaturen, het blijft vrijwel overal droog",
     "subtitle": null,
     "published_at": "2022-09-04T05:39:22+02:00",
-    "updated_at": "2022-09-04T05:39:23+02:00",
+    "updated_at": "2022-09-04T08:29:25+02:00",
     "media_id": "ncex2x7af8v1",
     "duration": null,
     "canonical_section": {
@@ -213,7 +259,7 @@
     "title": "Oekraïense kerncentrale verliest laatste hoofdaansluiting op stroomnetwerk",
     "subtitle": null,
     "published_at": "2022-09-04T02:42:16+02:00",
-    "updated_at": "2022-09-04T02:42:17+02:00",
+    "updated_at": "2022-09-04T08:27:59+02:00",
     "media_id": "46dxhdpav3qu",
     "duration": null,
     "canonical_section": {
@@ -640,52 +686,6 @@
       "partner": null
     },
     "url": "/voetbal/6221779/schreuder-over-kudus-hij-is-een-basisspeler-ook-al-speelt-hij-niet-altijd.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6221785,
-    "slug": "nirvana-wint-rechtszaak-tegen-de-baby-op-de-albumhoes-van-nevermind",
-    "type": "article",
-    "title": "Nirvana wint rechtszaak tegen de baby op de albumhoes van Nevermind",
-    "subtitle": null,
-    "published_at": "2022-09-03T19:32:36+02:00",
-    "updated_at": "2022-09-03T20:06:03+02:00",
-    "media_id": "octxul4a9nza",
-    "duration": null,
-    "canonical_section": {
-      "id": 868281,
-      "slug": "muziek",
-      "type": "default",
-      "name": "Muziek",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/muziek/6221785/nirvana-wint-rechtszaak-tegen-de-baby-op-de-albumhoes-van-nevermind.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6221784,
-    "slug": "waterstof-lekt-uit-leidingen-tijdens-vullen-tank-maanraket",
-    "type": "video",
-    "title": "Waterstof lekt uit leidingen tijdens vullen tank maanraket",
-    "subtitle": "Video",
-    "published_at": "2022-09-03T19:31:04+02:00",
-    "updated_at": "2022-09-03T19:31:04+02:00",
-    "media_id": "wb6xc9ya206g",
-    "duration": "0:44",
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6221784/waterstof-lekt-uit-leidingen-tijdens-vullen-tank-maanraket.html",
     "open_new_window": false,
     "partner": null
   }
