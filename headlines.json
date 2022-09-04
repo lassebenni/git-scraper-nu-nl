@@ -1,5 +1,51 @@
 [
   {
+    "id": 6221909,
+    "slug": "psv-laat-perspectiefloze-luckassen-naar-maccabi-tel-aviv-vertrekken",
+    "type": "article",
+    "title": "PSV laat perspectiefloze Luckassen naar Maccabi Tel Aviv vertrekken",
+    "subtitle": null,
+    "published_at": "2022-09-04T16:05:07+02:00",
+    "updated_at": "2022-09-04T16:06:12+02:00",
+    "media_id": "ci4xkdraf3q8",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6221909/psv-laat-perspectiefloze-luckassen-naar-maccabi-tel-aviv-vertrekken.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6221906,
+    "slug": "verstappen-laat-zandvoort-juichen-na-inhaalactie-op-russell",
+    "type": "video",
+    "title": "Verstappen laat Zandvoort juichen na inhaalactie op Russell",
+    "subtitle": "Video",
+    "published_at": "2022-09-04T15:51:47+02:00",
+    "updated_at": "2022-09-04T15:56:14+02:00",
+    "media_id": "n95x32cax1xl",
+    "duration": "0:28",
+    "canonical_section": {
+      "id": 1772449,
+      "slug": "formule-1",
+      "type": "default",
+      "name": "Grand Prix van Nederland",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/formule-1/6221906/verstappen-laat-zandvoort-juichen-na-inhaalactie-op-russell.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6221901,
     "slug": "honderden-italianen-verbranden-uit-protest-energierekening",
     "type": "video",
@@ -52,7 +98,7 @@
     "title": "Bekijk de probleemloze start van Verstappen in Zandvoort",
     "subtitle": "Video",
     "published_at": "2022-09-04T15:19:31+02:00",
-    "updated_at": "2022-09-04T15:24:14+02:00",
+    "updated_at": "2022-09-04T15:52:58+02:00",
     "media_id": "gdsxkj6aqtwx",
     "duration": "1:35",
     "canonical_section": {
@@ -576,13 +622,13 @@
   },
   {
     "id": 6221861,
-    "slug": "az-op-rozen-tegen-emmen-heerenveen-nec-nog-0-0",
+    "slug": "heerenveen-met-10-man-verder-tegen-nec-na-domme-rode-kaart",
     "type": "article",
-    "title": "AZ op rozen tegen Emmen, Heerenveen-NEC nog 0-0",
+    "title": "Heerenveen met 10 man verder tegen NEC na domme rode kaart",
     "subtitle": "Liveblog Eredivisie",
     "published_at": "2022-09-04T11:44:05+02:00",
-    "updated_at": "2022-09-04T15:27:36+02:00",
-    "media_id": "atfxdpna03vo",
+    "updated_at": "2022-09-04T16:07:26+02:00",
+    "media_id": "liaxop4a5cvl",
     "duration": null,
     "canonical_section": {
       "id": 1772338,
@@ -593,7 +639,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6221861/az-op-rozen-tegen-emmen-heerenveen-nec-nog-0-0.html",
+    "url": "/voetbal/6221861/heerenveen-met-10-man-verder-tegen-nec-na-domme-rode-kaart.html",
     "open_new_window": false,
     "partner": null
   },
@@ -640,52 +686,6 @@
       "partner": null
     },
     "url": "/binnenland/6221858/zeeuwse-brandweer-door-droogte-maar-liefst-twee-uur-bezig-met-blussen-heg.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6221856,
-    "slug": "van-bronckhorst-baalt-van-pijnlijk-verlies-rangers-maar-nu-telt-alleen-ajax",
-    "type": "article",
-    "title": "Van Bronckhorst baalt van pijnlijk verlies Rangers: 'Maar nu telt alleen Ajax'",
-    "subtitle": null,
-    "published_at": "2022-09-04T11:06:52+02:00",
-    "updated_at": "2022-09-04T11:38:14+02:00",
-    "media_id": "7ruxqxma0lpl",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6221856/van-bronckhorst-baalt-van-pijnlijk-verlies-rangers-maar-nu-telt-alleen-ajax.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6221855,
-    "slug": "wilhelmus-bij-formule-1-race-aangepast-aan-bereik-zangeres-floor-jansen",
-    "type": "article",
-    "title": "Wilhelmus bij Formule 1-race aangepast aan bereik zangeres Floor Jansen",
-    "subtitle": null,
-    "published_at": "2022-09-04T10:45:29+02:00",
-    "updated_at": "2022-09-04T15:21:02+02:00",
-    "media_id": "cf1xes1aiwyc",
-    "duration": null,
-    "canonical_section": {
-      "id": 868281,
-      "slug": "muziek",
-      "type": "default",
-      "name": "Muziek",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/muziek/6221855/wilhelmus-bij-formule-1-race-aangepast-aan-bereik-zangeres-floor-jansen.html",
     "open_new_window": false,
     "partner": null
   }
