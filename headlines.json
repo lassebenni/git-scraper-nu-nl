@@ -1,5 +1,51 @@
 [
   {
+    "id": 6221901,
+    "slug": "honderden-italianen-verbranden-uit-protest-energierekening",
+    "type": "video",
+    "title": "Honderden Italianen verbranden uit protest energierekening",
+    "subtitle": "Video",
+    "published_at": "2022-09-04T15:41:47+02:00",
+    "updated_at": "2022-09-04T15:41:48+02:00",
+    "media_id": "szjxf2xayy2g",
+    "duration": "0:30",
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6221901/honderden-italianen-verbranden-uit-protest-energierekening.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6221903,
+    "slug": "motogp-coureur-bagnaia-boekt-in-san-marino-vierde-overwinning-op-rij",
+    "type": "article",
+    "title": "MotoGP-coureur Bagnaia boekt in San Marino vierde overwinning op rij",
+    "subtitle": null,
+    "published_at": "2022-09-04T15:38:41+02:00",
+    "updated_at": "2022-09-04T15:41:20+02:00",
+    "media_id": "n4fxnt7aiwla",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772456,
+      "slug": "sport-overig",
+      "type": "default",
+      "name": "Sport Overig",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/sport-overig/6221903/motogp-coureur-bagnaia-boekt-in-san-marino-vierde-overwinning-op-rij.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6221900,
     "slug": "bekijk-de-probleemloze-start-van-verstappen-in-zandvoort",
     "type": "video",
@@ -213,7 +259,7 @@
     "title": "Eerstvolgende lanceerpoging maanraket op zijn vroegst op 19 september",
     "subtitle": null,
     "published_at": "2022-09-04T14:02:53+02:00",
-    "updated_at": "2022-09-04T14:25:38+02:00",
+    "updated_at": "2022-09-04T15:45:25+02:00",
     "media_id": "7o2xn8aamgdc",
     "duration": null,
     "canonical_section": {
@@ -374,7 +420,7 @@
     "title": "Rookbomgooier Zandvoort schrok van publiek en meldde zichzelf bij beveiliging",
     "subtitle": null,
     "published_at": "2022-09-04T12:24:37+02:00",
-    "updated_at": "2022-09-04T12:39:43+02:00",
+    "updated_at": "2022-09-04T15:46:09+02:00",
     "media_id": "8s4xoblay1m8",
     "duration": null,
     "canonical_section": {
@@ -420,7 +466,7 @@
     "title": "Terugblik verhoren: Ook na Huizinge-beving bleef maximaal gas winnen het doel",
     "subtitle": null,
     "published_at": "2022-09-04T12:09:45+02:00",
-    "updated_at": "2022-09-04T13:10:17+02:00",
+    "updated_at": "2022-09-04T15:39:39+02:00",
     "media_id": "elixvlvab9q5",
     "duration": null,
     "canonical_section": {
@@ -640,52 +686,6 @@
       "partner": null
     },
     "url": "/muziek/6221855/wilhelmus-bij-formule-1-race-aangepast-aan-bereik-zangeres-floor-jansen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6221853,
-    "slug": "palestijnen-geexecuteerd-in-gaza-onder-meer-wegens-samenwerking-met-israel",
-    "type": "article",
-    "title": "Palestijnen geëxecuteerd in Gaza, onder meer wegens samenwerking met Israël",
-    "subtitle": null,
-    "published_at": "2022-09-04T10:34:35+02:00",
-    "updated_at": "2022-09-04T10:42:22+02:00",
-    "media_id": "xazx5eua2mtj",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6221853/palestijnen-geexecuteerd-in-gaza-onder-meer-wegens-samenwerking-met-israel.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6221849,
-    "slug": "verstappen-kent-probleemloze-pitstop-hamilton-leidt-in-zandvoort",
-    "type": "article",
-    "title": "Verstappen kent probleemloze pitstop, Hamilton leidt in Zandvoort",
-    "subtitle": "Liveblog F1",
-    "published_at": "2022-09-04T10:21:40+02:00",
-    "updated_at": "2022-09-04T15:28:16+02:00",
-    "media_id": "q3oxjhtar6tq",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772449,
-      "slug": "formule-1",
-      "type": "default",
-      "name": "Grand Prix van Nederland",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/formule-1/6221849/verstappen-kent-probleemloze-pitstop-hamilton-leidt-in-zandvoort.html",
     "open_new_window": false,
     "partner": null
   }
