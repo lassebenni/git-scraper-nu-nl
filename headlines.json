@@ -1,5 +1,51 @@
 [
   {
+    "id": 6222121,
+    "slug": "halilovic-mist-twee-duels-van-heerenveen-vanwege-schorsing",
+    "type": "article",
+    "title": "Halilovic mist twee duels van Heerenveen vanwege schorsing",
+    "subtitle": null,
+    "published_at": "2022-09-05T15:57:34+02:00",
+    "updated_at": "2022-09-05T15:57:35+02:00",
+    "media_id": "xiuxhfias0hs",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6222121/halilovic-mist-twee-duels-van-heerenveen-vanwege-schorsing.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6222125,
+    "slug": "liz-truss-verkozen-tot-britse-premier",
+    "type": "video",
+    "title": "Liz Truss verkozen tot Britse premier",
+    "subtitle": "Video",
+    "published_at": "2022-09-05T15:50:37+02:00",
+    "updated_at": "2022-09-05T15:50:38+02:00",
+    "media_id": "d7kxgieaaax4",
+    "duration": "1:06",
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6222125/liz-truss-verkozen-tot-britse-premier.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6222114,
     "slug": "gasleiding-in-voorthuizen-kapot-door-graafwerkzaamheden-frans-halsstraat-dicht",
     "type": "article",
@@ -29,7 +75,7 @@
     "title": "Grote natuurbrand in de Peel na vijf dagen onder controle, maar nog niet geblust",
     "subtitle": null,
     "published_at": "2022-09-05T14:50:29+02:00",
-    "updated_at": "2022-09-05T14:50:30+02:00",
+    "updated_at": "2022-09-05T15:55:53+02:00",
     "media_id": "28dx2ptagtsg",
     "duration": null,
     "canonical_section": {
@@ -144,7 +190,7 @@
     "title": "Liz Truss wordt de premier die de Britten door zware winter moet loodsen",
     "subtitle": null,
     "published_at": "2022-09-05T13:44:09+02:00",
-    "updated_at": "2022-09-05T13:49:02+02:00",
+    "updated_at": "2022-09-05T15:52:40+02:00",
     "media_id": "vfuxkmmagm5w",
     "duration": null,
     "canonical_section": {
@@ -213,7 +259,7 @@
     "title": "Liz Truss nieuwe Britse premier na winst interne verkiezing Conservative Party",
     "subtitle": null,
     "published_at": "2022-09-05T13:38:41+02:00",
-    "updated_at": "2022-09-05T15:18:27+02:00",
+    "updated_at": "2022-09-05T15:52:24+02:00",
     "media_id": "n9rxfsoat3c7",
     "duration": null,
     "canonical_section": {
@@ -558,7 +604,7 @@
     "title": "UvA wil instroom buitenlandse studenten bij populaire studies beperken",
     "subtitle": null,
     "published_at": "2022-09-05T11:04:37+02:00",
-    "updated_at": "2022-09-05T14:24:48+02:00",
+    "updated_at": "2022-09-05T15:51:14+02:00",
     "media_id": "v4exzu5a6d07",
     "duration": null,
     "canonical_section": {
@@ -640,52 +686,6 @@
       "partner": null
     },
     "url": "/binnenland/6222040/rob-b-wordt-mogelijk-na-22-jaar-alsnog-vrijgesproken-van-rosmalense-flatmoord.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6222048,
-    "slug": "horner-vindt-thuiszege-verstappen-extra-knap-er-zijn-zulke-hoge-verwachtingen",
-    "type": "article",
-    "title": "Horner vindt thuiszege Verstappen extra knap: 'Er zijn zulke hoge verwachtingen'",
-    "subtitle": null,
-    "published_at": "2022-09-05T10:20:15+02:00",
-    "updated_at": "2022-09-05T10:21:38+02:00",
-    "media_id": "60mxvnwa4ge3",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772449,
-      "slug": "formule-1",
-      "type": "default",
-      "name": "Formule 1",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/formule-1/6222048/horner-vindt-thuiszege-verstappen-extra-knap-er-zijn-zulke-hoge-verwachtingen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6222047,
-    "slug": "medvedev-kyrgios-kan-us-open-winnen-hij-speelde-als-nadal-en-djokovic",
-    "type": "article",
-    "title": "Medvedev: 'Kyrgios kan US Open winnen, hij speelde als Nadal en Djokovic'",
-    "subtitle": null,
-    "published_at": "2022-09-05T10:12:01+02:00",
-    "updated_at": "2022-09-05T12:26:57+02:00",
-    "media_id": "htxxkfqacfjo",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772456,
-      "slug": "sport-overig",
-      "type": "default",
-      "name": "Sport Overig",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/sport-overig/6222047/medvedev-kyrgios-kan-us-open-winnen-hij-speelde-als-nadal-en-djokovic.html",
     "open_new_window": false,
     "partner": null
   }
