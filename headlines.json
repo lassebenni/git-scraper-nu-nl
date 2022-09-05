@@ -1,12 +1,35 @@
 [
   {
+    "id": 6222167,
+    "slug": "kabinet-wil-personeelstekort-kinderopvang-aanpakken",
+    "type": "article",
+    "title": "Kabinet wil personeelstekort kinderopvang aanpakken",
+    "subtitle": null,
+    "published_at": "2022-09-05T18:21:01+02:00",
+    "updated_at": "2022-09-05T18:21:02+02:00",
+    "media_id": "s1oxlvoa3jqa",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6222167/kabinet-wil-personeelstekort-kinderopvang-aanpakken.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6222144,
     "slug": "duizend-euro-voor-gouden-tip-over-paard-dat-al-zeventien-jaar-gezocht-wordt",
     "type": "article",
     "title": "Duizend euro voor gouden tip over paard dat al zeventien jaar gezocht wordt",
     "subtitle": null,
     "published_at": "2022-09-05T18:04:49+02:00",
-    "updated_at": "2022-09-05T18:04:49+02:00",
+    "updated_at": "2022-09-05T18:25:31+02:00",
     "media_id": "ky0xs2na4g1n",
     "duration": null,
     "canonical_section": {
@@ -29,7 +52,7 @@
     "title": "Zeilers Lambriex en Van de Werken prolongeren wereldtitel in 49er-klasse",
     "subtitle": null,
     "published_at": "2022-09-05T17:58:34+02:00",
-    "updated_at": "2022-09-05T17:58:35+02:00",
+    "updated_at": "2022-09-05T18:13:29+02:00",
     "media_id": "dsexii0a9bvy",
     "duration": null,
     "canonical_section": {
@@ -663,29 +686,6 @@
       "partner": null
     },
     "url": "/buitenland/6221910/liz-truss-nieuwe-britse-premier-na-winst-interne-verkiezing-conservative-party.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6222085,
-    "slug": "directeur-stadion-feijenoord-stopt-mede-vanwege-discussie-over-nieuw-stadion",
-    "type": "article",
-    "title": "Directeur Stadion Feijenoord stopt mede vanwege discussie over nieuw stadion",
-    "subtitle": null,
-    "published_at": "2022-09-05T13:26:48+02:00",
-    "updated_at": "2022-09-05T13:41:59+02:00",
-    "media_id": "ne7xauaahlpd",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6222085/directeur-stadion-feijenoord-stopt-mede-vanwege-discussie-over-nieuw-stadion.html",
     "open_new_window": false,
     "partner": null
   }
