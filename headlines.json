@@ -1,12 +1,35 @@
 [
   {
+    "id": 6222183,
+    "slug": "landbouwminister-henk-staghouwer-cu-stapt-op",
+    "type": "article",
+    "title": "Landbouwminister Henk Staghouwer (CU) stapt op",
+    "subtitle": null,
+    "published_at": "2022-09-05T19:42:13+02:00",
+    "updated_at": "2022-09-05T19:47:30+02:00",
+    "media_id": "s7hxh06aukme",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771437,
+      "slug": "politiek",
+      "type": "default",
+      "name": "Politiek",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/politiek/6222183/landbouwminister-henk-staghouwer-cu-stapt-op.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6222182,
     "slug": "basketballers-verliezen-ondanks-inhaalrace-ook-van-tsjechie-op-ek",
     "type": "article",
     "title": "Basketballers verliezen ondanks inhaalrace ook van Tsjechië op EK",
     "subtitle": null,
     "published_at": "2022-09-05T19:30:22+02:00",
-    "updated_at": "2022-09-05T19:30:23+02:00",
+    "updated_at": "2022-09-05T19:40:25+02:00",
     "media_id": "txjxnyxa9x54",
     "duration": null,
     "canonical_section": {
@@ -75,7 +98,7 @@
     "title": "ADO Den Haag beperkt kaartverkoop na 'zoveelste voorval' met fans",
     "subtitle": null,
     "published_at": "2022-09-05T19:16:50+02:00",
-    "updated_at": "2022-09-05T19:16:51+02:00",
+    "updated_at": "2022-09-05T19:38:31+02:00",
     "media_id": "lqtxym7ala74",
     "duration": null,
     "canonical_section": {
@@ -663,29 +686,6 @@
       "partner": null
     },
     "url": "/buitenland/6222125/liz-truss-reageert-als-nieuwe-britse-premier-ik-vind-het-een-eer.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6222114,
-    "slug": "gasleiding-in-voorthuizen-kapot-door-graafwerkzaamheden-frans-halsstraat-dicht",
-    "type": "article",
-    "title": "Gasleiding in Voorthuizen kapot door graafwerkzaamheden, Frans Halsstraat dicht",
-    "subtitle": null,
-    "published_at": "2022-09-05T15:20:31+02:00",
-    "updated_at": "2022-09-05T15:20:32+02:00",
-    "media_id": "oeaxl7fa8l7w",
-    "duration": null,
-    "canonical_section": {
-      "id": 1778760,
-      "slug": "amersfoort",
-      "type": "region",
-      "name": "Amersfoort",
-      "style": "mediapartner-internal",
-      "media_id": "zfzx6hta4he6",
-      "partner": null
-    },
-    "url": "/amersfoort/6222114/gasleiding-in-voorthuizen-kapot-door-graafwerkzaamheden-frans-halsstraat-dicht.html",
     "open_new_window": false,
     "partner": null
   }
