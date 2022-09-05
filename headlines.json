@@ -1,12 +1,35 @@
 [
   {
+    "id": 6222028,
+    "slug": "vlammen-slaan-uit-hotel-in-irak",
+    "type": "video",
+    "title": "Vlammen slaan uit hotel in Irak",
+    "subtitle": "Video",
+    "published_at": "2022-09-05T09:03:18+02:00",
+    "updated_at": "2022-09-05T09:03:19+02:00",
+    "media_id": "27fx6rfaysng",
+    "duration": "0:44",
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6222028/vlammen-slaan-uit-hotel-in-irak.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6222016,
     "slug": "weghorst-beschermt-besiktas-ploeggenoten-voor-schoppende-veldbestormer",
     "type": "article",
     "title": "Weghorst 'beschermt' Besiktas-ploeggenoten voor schoppende veldbestormer",
     "subtitle": null,
     "published_at": "2022-09-05T08:57:20+02:00",
-    "updated_at": "2022-09-05T08:57:21+02:00",
+    "updated_at": "2022-09-05T09:06:46+02:00",
     "media_id": "xjox7giat8og",
     "duration": null,
     "canonical_section": {
@@ -75,7 +98,7 @@
     "title": "Gasprijs stijgt met 31 procent doordat Nord Stream 1 langer gesloten blijft",
     "subtitle": null,
     "published_at": "2022-09-05T08:09:17+02:00",
-    "updated_at": "2022-09-05T08:51:27+02:00",
+    "updated_at": "2022-09-05T09:12:22+02:00",
     "media_id": "7kcx1yia68y1",
     "duration": null,
     "canonical_section": {
@@ -190,7 +213,7 @@
     "title": "Ontketende Kyrgios verrast titelverdediger Medvedev in vierde ronde US Open",
     "subtitle": null,
     "published_at": "2022-09-05T07:56:47+02:00",
-    "updated_at": "2022-09-05T08:57:07+02:00",
+    "updated_at": "2022-09-05T09:03:21+02:00",
     "media_id": "8hbx40ea6b57",
     "duration": null,
     "canonical_section": {
@@ -663,29 +686,6 @@
       "partner": null
     },
     "url": "/tennis/6221985/ruud-en-berrettini-naar-kwartfinales-us-open-haase-uitgeschakeld-in-dubbelspel.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6221984,
-    "slug": "kitten-in-kharkiv-onder-puin-vandaan-gehaald",
-    "type": "video",
-    "title": "Kitten in Kharkiv onder puin vandaan gehaald",
-    "subtitle": "Video",
-    "published_at": "2022-09-04T21:13:57+02:00",
-    "updated_at": "2022-09-04T21:24:09+02:00",
-    "media_id": "3u0xd4la553b",
-    "duration": "0:30",
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6221984/kitten-in-kharkiv-onder-puin-vandaan-gehaald.html",
     "open_new_window": false,
     "partner": null
   }
