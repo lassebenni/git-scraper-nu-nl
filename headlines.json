@@ -1,12 +1,58 @@
 [
   {
+    "id": 6222229,
+    "slug": "fc-utrecht-legt-vier-stadionverboden-op-voor-apengeluiden-richting-brobbey",
+    "type": "article",
+    "title": "FC Utrecht legt vier stadionverboden op voor apengeluiden richting Brobbey",
+    "subtitle": null,
+    "published_at": "2022-09-06T09:27:01+02:00",
+    "updated_at": "2022-09-06T09:35:41+02:00",
+    "media_id": "rbrxuelaapmp",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6222229/fc-utrecht-legt-vier-stadionverboden-op-voor-apengeluiden-richting-brobbey.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6222227,
+    "slug": "koningin-maxima-landt-in-vs-voor-solo-werkbezoek",
+    "type": "video",
+    "title": "Koningin Máxima landt in VS voor solo-werkbezoek",
+    "subtitle": "Video",
+    "published_at": "2022-09-06T09:10:44+02:00",
+    "updated_at": "2022-09-06T09:10:45+02:00",
+    "media_id": "vnaxdb1ait86",
+    "duration": "0:45",
+    "canonical_section": {
+      "id": 1778775,
+      "slug": "koningshuis",
+      "type": "default",
+      "name": "Koningshuis",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/koningshuis/6222227/koningin-maxima-landt-in-vs-voor-solo-werkbezoek.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6222225,
     "slug": "abn-amro-legt-120-miljoen-euro-opzij-voor-klanten-die-te-veel-rente-betaalden",
     "type": "article",
     "title": "ABN AMRO legt 120 miljoen euro opzij voor klanten die te veel rente betaalden",
     "subtitle": null,
     "published_at": "2022-09-06T08:49:23+02:00",
-    "updated_at": "2022-09-06T08:49:23+02:00",
+    "updated_at": "2022-09-06T09:14:58+02:00",
     "media_id": "8lrxra0a7ylz",
     "duration": null,
     "canonical_section": {
@@ -374,7 +420,7 @@
     "title": "Koningin Máxima aangekomen in de VS, koning blijft thuis vanwege longklachten",
     "subtitle": null,
     "published_at": "2022-09-06T06:18:20+02:00",
-    "updated_at": "2022-09-06T06:34:35+02:00",
+    "updated_at": "2022-09-06T09:15:39+02:00",
     "media_id": "pfsx022arxnu",
     "duration": null,
     "canonical_section": {
@@ -640,52 +686,6 @@
       "partner": null
     },
     "url": "/buitenland/6222203/verdachte-reeks-dodelijke-steekpartijen-canada-overleden-broer-nog-voortvluchtig.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6222202,
-    "slug": "nadal-laat-zich-in-achtste-finales-us-open-verrassen-door-amerikaan-tiafoe",
-    "type": "article",
-    "title": "Nadal laat zich in achtste finales US Open verrassen door Amerikaan Tiafoe",
-    "subtitle": null,
-    "published_at": "2022-09-06T00:25:11+02:00",
-    "updated_at": "2022-09-06T07:37:19+02:00",
-    "media_id": "catxzmuaafcw",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772432,
-      "slug": "tennis",
-      "type": "default",
-      "name": "Tennis",
-      "style": "nusport",
-      "media_id": "m1oxohpan0gq",
-      "partner": null
-    },
-    "url": "/tennis/6222202/nadal-laat-zich-in-achtste-finales-us-open-verrassen-door-amerikaan-tiafoe.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6222078,
-    "slug": "schone-energiebronnen-voor-het-eerst-het-belangrijkst-bij-stroomproductie",
-    "type": "article",
-    "title": "Schone energiebronnen voor het eerst het belangrijkst bij stroomproductie",
-    "subtitle": null,
-    "published_at": "2022-09-06T00:02:52+02:00",
-    "updated_at": "2022-09-06T06:22:40+02:00",
-    "media_id": "l1gxmisaki88",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6222078/schone-energiebronnen-voor-het-eerst-het-belangrijkst-bij-stroomproductie.html",
     "open_new_window": false,
     "partner": null
   }
