@@ -1,5 +1,28 @@
 [
   {
+    "id": 6222238,
+    "slug": "boris-johnson-verlaat-ambtswoning-voor-de-laatste-keer-als-premier",
+    "type": "video",
+    "title": "Boris Johnson verlaat ambtswoning voor de laatste keer als premier",
+    "subtitle": "Video",
+    "published_at": "2022-09-06T10:07:54+02:00",
+    "updated_at": "2022-09-06T10:10:57+02:00",
+    "media_id": "gwvx84saybbl",
+    "duration": "0:40",
+    "canonical_section": {
+      "id": 100,
+      "slug": "algemeen",
+      "type": "default",
+      "name": "Algemeen",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/algemeen/6222238/boris-johnson-verlaat-ambtswoning-voor-de-laatste-keer-als-premier.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6222229,
     "slug": "fc-utrecht-legt-vier-stadionverboden-op-voor-apengeluiden-richting-brobbey",
     "type": "article",
@@ -512,7 +535,7 @@
     "title": "Bakkerijen steeds vaker dicht omdat een brood bakken te duur wordt",
     "subtitle": null,
     "published_at": "2022-09-06T05:37:34+02:00",
-    "updated_at": "2022-09-06T09:41:06+02:00",
+    "updated_at": "2022-09-06T09:59:20+02:00",
     "media_id": "a5lxod8a4gtw",
     "duration": null,
     "canonical_section": {
@@ -663,29 +686,6 @@
       "partner": null
     },
     "url": "/buitenland/6222204/tientallen-burgers-omgekomen-bij-aanval-op-konvooi-in-burkina-faso.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6222203,
-    "slug": "verdachte-reeks-dodelijke-steekpartijen-canada-overleden-broer-nog-voortvluchtig",
-    "type": "article",
-    "title": "Verdachte reeks dodelijke steekpartijen Canada overleden, broer nog voortvluchtig",
-    "subtitle": null,
-    "published_at": "2022-09-06T00:38:46+02:00",
-    "updated_at": "2022-09-06T08:10:03+02:00",
-    "media_id": "1pyxu9fa8182",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6222203/verdachte-reeks-dodelijke-steekpartijen-canada-overleden-broer-nog-voortvluchtig.html",
     "open_new_window": false,
     "partner": null
   }
