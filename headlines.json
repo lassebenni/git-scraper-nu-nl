@@ -1,5 +1,51 @@
 [
   {
+    "id": 6222333,
+    "slug": "adviesraad-wil-dat-oekrainers-meer-duidelijkheid-krijgen-over-verblijfsstatus",
+    "type": "article",
+    "title": "Adviesraad wil dat Oekraïners meer duidelijkheid krijgen over verblijfsstatus",
+    "subtitle": null,
+    "published_at": "2022-09-06T16:36:59+02:00",
+    "updated_at": "2022-09-06T16:37:00+02:00",
+    "media_id": "eiexqjxai93g",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6222333/adviesraad-wil-dat-oekrainers-meer-duidelijkheid-krijgen-over-verblijfsstatus.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6222342,
+    "slug": "trein-ramt-vrachtwagen-die-met-pech-op-het-spoor-staat-in-vs",
+    "type": "video",
+    "title": "Trein ramt vrachtwagen die met pech op het spoor staat in VS",
+    "subtitle": "Video",
+    "published_at": "2022-09-06T16:34:52+02:00",
+    "updated_at": "2022-09-06T16:34:53+02:00",
+    "media_id": "0ssxegxauyox",
+    "duration": "0:39",
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6222342/trein-ramt-vrachtwagen-die-met-pech-op-het-spoor-staat-in-vs.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6222321,
     "slug": "voormalig-bobsleeer-kortbeek-nieuwe-technisch-directeur-atletiekunie",
     "type": "article",
@@ -29,7 +75,7 @@
     "title": "Nyck de Vries rijdt voor Aston Martin in eerste vrije training op Monza",
     "subtitle": null,
     "published_at": "2022-09-06T15:43:36+02:00",
-    "updated_at": "2022-09-06T16:12:54+02:00",
+    "updated_at": "2022-09-06T16:47:24+02:00",
     "media_id": "4ovxxzbartgm",
     "duration": null,
     "canonical_section": {
@@ -52,7 +98,7 @@
     "title": "Tienduizenden Groningers krijgen alsnog vergoeding voor aardbevingsschade",
     "subtitle": null,
     "published_at": "2022-09-06T15:37:00+02:00",
-    "updated_at": "2022-09-06T15:47:26+02:00",
+    "updated_at": "2022-09-06T16:36:33+02:00",
     "media_id": "zi9xqogawh9k",
     "duration": null,
     "canonical_section": {
@@ -144,7 +190,7 @@
     "title": "OM eist twaalf jaar en tbs tegen man die motoragent Arno de Korte doodreed",
     "subtitle": null,
     "published_at": "2022-09-06T15:01:16+02:00",
-    "updated_at": "2022-09-06T15:18:23+02:00",
+    "updated_at": "2022-09-06T16:46:08+02:00",
     "media_id": "5zex54ha8iqf",
     "duration": null,
     "canonical_section": {
@@ -640,52 +686,6 @@
       "partner": null
     },
     "url": "/voetbal/6222248/oranjevrouwen-zonder-zieke-beerensteyn-tegen-ijsland-in-strijd-om-wk-ticket.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6222237,
-    "slug": "boris-johnson-houdt-in-downing-street-laatste-toespraak-als-britse-premier",
-    "type": "article",
-    "title": "Boris Johnson houdt in Downing Street laatste toespraak als Britse premier",
-    "subtitle": null,
-    "published_at": "2022-09-06T10:27:58+02:00",
-    "updated_at": "2022-09-06T10:27:59+02:00",
-    "media_id": "3rwx94xa0pus",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6222237/boris-johnson-houdt-in-downing-street-laatste-toespraak-als-britse-premier.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6222243,
-    "slug": "alida-dijk-vervangt-vertrekkende-justine-marcella-bij-royaltyblad-vorsten",
-    "type": "article",
-    "title": "Alida Dijk vervangt vertrekkende Justine Marcella bij royaltyblad Vorsten",
-    "subtitle": null,
-    "published_at": "2022-09-06T10:26:34+02:00",
-    "updated_at": "2022-09-06T10:36:24+02:00",
-    "media_id": "1rlxrm5au0p9",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771675,
-      "slug": "media",
-      "type": "default",
-      "name": "Media",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/media/6222243/alida-dijk-vervangt-vertrekkende-justine-marcella-bij-royaltyblad-vorsten.html",
     "open_new_window": false,
     "partner": null
   }
