@@ -1,5 +1,51 @@
 [
   {
+    "id": 6222542,
+    "slug": "grote-problemen-bij-uithuisplaatsing-kinderen-oproep-tot-directe-actie",
+    "type": "article",
+    "title": "Grote problemen bij uithuisplaatsing kinderen, oproep tot directe actie",
+    "subtitle": null,
+    "published_at": "2022-09-07T16:31:10+02:00",
+    "updated_at": "2022-09-07T16:31:11+02:00",
+    "media_id": "gfxx96vax0bg",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6222542/grote-problemen-bij-uithuisplaatsing-kinderen-oproep-tot-directe-actie.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6222538,
+    "slug": "van-nistelrooij-wil-dat-psv-tegen-bodglimt-vooral-defensief-verbetering-toont",
+    "type": "article",
+    "title": "Van Nistelrooij wil dat PSV tegen Bodø/Glimt vooral defensief verbetering toont",
+    "subtitle": null,
+    "published_at": "2022-09-07T16:30:14+02:00",
+    "updated_at": "2022-09-07T16:31:05+02:00",
+    "media_id": "krcxdneaq71t",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6222538/van-nistelrooij-wil-dat-psv-tegen-bodglimt-vooral-defensief-verbetering-toont.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6222535,
     "slug": "rijkswaterstaat-druk-met-meldingen-over-zwaan-hond-en-haan-op-de-a50",
     "type": "article",
@@ -29,7 +75,7 @@
     "title": "NOS bestookt met haatberichten over journalist in Israël en Palestijnse Gebieden",
     "subtitle": null,
     "published_at": "2022-09-07T15:18:38+02:00",
-    "updated_at": "2022-09-07T16:12:21+02:00",
+    "updated_at": "2022-09-07T16:19:40+02:00",
     "media_id": "ig0xraea11w3",
     "duration": null,
     "canonical_section": {
@@ -236,7 +282,7 @@
     "title": "Kyrgios voelt zich 'geruïneerd' na verloren kwartfinalepartij op US Open",
     "subtitle": null,
     "published_at": "2022-09-07T13:15:55+02:00",
-    "updated_at": "2022-09-07T13:15:56+02:00",
+    "updated_at": "2022-09-07T16:28:35+02:00",
     "media_id": "41hxhdfato2w",
     "duration": null,
     "canonical_section": {
@@ -640,52 +686,6 @@
       "partner": null
     },
     "url": "/voetbal/6222478/nieuwe-chelsea-eigenaar-grijpt-in-na-slechte-seizoensstart-en-ontslaat-tuchel.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6222469,
-    "slug": "droomstart-shakhtar-in-champions-league-speelden-met-hart-voor-oekraine",
-    "type": "article",
-    "title": "Droomstart Shakhtar in Champions League: 'Speelden met hart voor Oekraïne'",
-    "subtitle": null,
-    "published_at": "2022-09-07T10:59:24+02:00",
-    "updated_at": "2022-09-07T11:33:03+02:00",
-    "media_id": "pcdxnrcal5dm",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6222469/droomstart-shakhtar-in-champions-league-speelden-met-hart-voor-oekraine.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6222470,
-    "slug": "grote-brand-verwoest-twee-dierenwinkels-in-nieuw-vennep",
-    "type": "video",
-    "title": "Grote brand verwoest twee dierenwinkels in Nieuw-Vennep",
-    "subtitle": "Video",
-    "published_at": "2022-09-07T10:53:29+02:00",
-    "updated_at": "2022-09-07T10:53:30+02:00",
-    "media_id": "fcix71yamnsj",
-    "duration": "0:44",
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6222470/grote-brand-verwoest-twee-dierenwinkels-in-nieuw-vennep.html",
     "open_new_window": false,
     "partner": null
   }
