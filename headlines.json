@@ -1,5 +1,28 @@
 [
   {
+    "id": 6222625,
+    "slug": "bekijk-de-samenvatting-van-ajax-rangers-fc-4-0",
+    "type": "video",
+    "title": "Bekijk de samenvatting van Ajax-Rangers FC (4-0)",
+    "subtitle": "Video",
+    "published_at": "2022-09-07T21:36:44+02:00",
+    "updated_at": "2022-09-07T21:39:44+02:00",
+    "media_id": "0j0xpx8ahgi8",
+    "duration": "2:33",
+    "canonical_section": {
+      "id": 100,
+      "slug": "algemeen",
+      "type": "default",
+      "name": "Algemeen",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/algemeen/6222625/bekijk-de-samenvatting-van-ajax-rangers-fc-4-0.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6222620,
     "slug": "kudus-blinkt-uit-bij-ajax-als-valse-spits-ik-offer-me-graag-op",
     "type": "article",
@@ -52,7 +75,7 @@
     "title": "Apple onthult iPhone met scherm dat niet zomaar uitgaat",
     "subtitle": null,
     "published_at": "2022-09-07T21:05:19+02:00",
-    "updated_at": "2022-09-07T21:16:55+02:00",
+    "updated_at": "2022-09-07T21:31:52+02:00",
     "media_id": "njpxst9axgeb",
     "duration": null,
     "canonical_section": {
@@ -144,7 +167,7 @@
     "title": "Ajax walst over Rangers heen en kent uitstekende start van Champions League",
     "subtitle": null,
     "published_at": "2022-09-07T20:35:09+02:00",
-    "updated_at": "2022-09-07T21:09:55+02:00",
+    "updated_at": "2022-09-07T21:42:59+02:00",
     "media_id": "wl4xfiaatyn4",
     "duration": null,
     "canonical_section": {
@@ -461,13 +484,13 @@
   },
   {
     "id": 6222570,
-    "slug": "van-dijk-veroorzaakt-gemiste-strafschop-tegen-napoli",
+    "slug": "lewandowski-passeert-benzema-op-eeuwige-topscorerslijst",
     "type": "article",
-    "title": "Van Dijk veroorzaakt (gemiste) strafschop tegen Napoli",
+    "title": "Lewandowski passeert Benzema op eeuwige topscorerslijst",
     "subtitle": "Liveblog CL",
     "published_at": "2022-09-07T17:57:48+02:00",
-    "updated_at": "2022-09-07T21:21:56+02:00",
-    "media_id": "ht2x418apwkc",
+    "updated_at": "2022-09-07T21:40:22+02:00",
+    "media_id": "a68xzeaaxmlr",
     "duration": null,
     "canonical_section": {
       "id": 1772338,
@@ -478,7 +501,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6222570/van-dijk-veroorzaakt-gemiste-strafschop-tegen-napoli.html",
+    "url": "/voetbal/6222570/lewandowski-passeert-benzema-op-eeuwige-topscorerslijst.html",
     "open_new_window": false,
     "partner": null
   },
@@ -663,29 +686,6 @@
       "partner": null
     },
     "url": "/film/6222552/olivia-wilde-weigert-in-te-gaan-op-geruchten-over-spanningen-op-filmset.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6222344,
-    "slug": "thuiswerken-carpoolen-of-de-trein-forens-kan-miljoenen-vaten-olie-besparen",
-    "type": "article",
-    "title": "Thuiswerken, carpoolen of de trein: forens kan miljoenen vaten olie besparen",
-    "subtitle": null,
-    "published_at": "2022-09-07T17:00:28+02:00",
-    "updated_at": "2022-09-07T21:12:34+02:00",
-    "media_id": "qmjxt82apmgj",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772754,
-      "slug": "klimaat",
-      "type": "default",
-      "name": "Klimaat",
-      "style": "nuzakelijk",
-      "media_id": "kf4x3b2agsxg",
-      "partner": null
-    },
-    "url": "/klimaat/6222344/thuiswerken-carpoolen-of-de-trein-forens-kan-miljoenen-vaten-olie-besparen.html",
     "open_new_window": false,
     "partner": null
   }
