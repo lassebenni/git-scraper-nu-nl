@@ -1,12 +1,35 @@
 [
   {
+    "id": 6222592,
+    "slug": "sabalenka-klopt-pliskova-en-is-net-als-vorig-jaar-halvefinalist-op-us-open",
+    "type": "article",
+    "title": "Sabalenka klopt Plísková en is net als vorig jaar halvefinalist op US Open",
+    "subtitle": null,
+    "published_at": "2022-09-07T19:38:14+02:00",
+    "updated_at": "2022-09-07T19:45:59+02:00",
+    "media_id": "aumx27cag57w",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772432,
+      "slug": "tennis",
+      "type": "default",
+      "name": "Tennis",
+      "style": "nusport",
+      "media_id": "m1oxohpan0gq",
+      "partner": null
+    },
+    "url": "/tennis/6222592/sabalenka-klopt-pliskova-en-is-net-als-vorig-jaar-halvefinalist-op-us-open.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6222591,
     "slug": "kudus-zet-ajax-met-schitterende-uithaal-op-3-0-voorsprong-tegen-rangers",
     "type": "video",
     "title": "Kudus zet Ajax met schitterende uithaal op 3-0-voorsprong tegen Rangers",
     "subtitle": "Video",
     "published_at": "2022-09-07T19:36:54+02:00",
-    "updated_at": "2022-09-07T19:36:55+02:00",
+    "updated_at": "2022-09-07T19:51:41+02:00",
     "media_id": "6gtxgcfaey8m",
     "duration": "1:26",
     "canonical_section": {
@@ -29,7 +52,7 @@
     "title": "Brand en Van Anrooij winnen met Trek-Segafredo openingstijdrit in Vuelta",
     "subtitle": null,
     "published_at": "2022-09-07T19:29:40+02:00",
-    "updated_at": "2022-09-07T19:29:41+02:00",
+    "updated_at": "2022-09-07T19:51:52+02:00",
     "media_id": "0ypxnxzazvp8",
     "duration": null,
     "canonical_section": {
@@ -208,13 +231,13 @@
   },
   {
     "id": 6222570,
-    "slug": "wervelend-ajax-halverwege-al-op-3-0-voorsprong-tegen-rangers",
+    "slug": "ajax-met-3-0-voorsprong-begonnen-aan-tweede-helft",
     "type": "article",
-    "title": "Wervelend Ajax halverwege al op 3-0-voorsprong tegen Rangers",
+    "title": "Ajax met 3-0-voorsprong begonnen aan tweede helft",
     "subtitle": "Liveblog CL",
     "published_at": "2022-09-07T17:57:48+02:00",
-    "updated_at": "2022-09-07T19:32:33+02:00",
-    "media_id": "vdrxamkah88p",
+    "updated_at": "2022-09-07T19:50:04+02:00",
+    "media_id": "mw4xao1aiq8w",
     "duration": null,
     "canonical_section": {
       "id": 1772338,
@@ -225,7 +248,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6222570/wervelend-ajax-halverwege-al-op-3-0-voorsprong-tegen-rangers.html",
+    "url": "/voetbal/6222570/ajax-met-3-0-voorsprong-begonnen-aan-tweede-helft.html",
     "open_new_window": false,
     "partner": null
   },
@@ -663,29 +686,6 @@
       "partner": null
     },
     "url": "/cultuur-overig/6222525/prinses-beatrix-opent-tentoonstelling-in-nieuwe-kerk-over-moeder-juliana.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6222518,
-    "slug": "f1-fanclub-tientallen-meldingen-over-grensoverschrijdend-gedrag-in-zandvoort",
-    "type": "article",
-    "title": "F1-fanclub: 'Tientallen meldingen over grensoverschrijdend gedrag in Zandvoort'",
-    "subtitle": null,
-    "published_at": "2022-09-07T14:45:59+02:00",
-    "updated_at": "2022-09-07T14:46:00+02:00",
-    "media_id": "l28xwnzacj1i",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6222518/f1-fanclub-tientallen-meldingen-over-grensoverschrijdend-gedrag-in-zandvoort.html",
     "open_new_window": false,
     "partner": null
   }
