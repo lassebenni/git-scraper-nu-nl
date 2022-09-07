@@ -1,5 +1,51 @@
 [
   {
+    "id": 6222628,
+    "slug": "opperbevelhebber-bevestigt-dat-oekraine-achter-explosies-op-de-krim-zat",
+    "type": "article",
+    "title": "Opperbevelhebber bevestigt dat Oekraïne achter explosies op de Krim zat",
+    "subtitle": null,
+    "published_at": "2022-09-07T21:58:48+02:00",
+    "updated_at": "2022-09-07T22:05:30+02:00",
+    "media_id": "f4ixd4zaujd7",
+    "duration": null,
+    "canonical_section": {
+      "id": 1778980,
+      "slug": "spanningen-oekraine",
+      "type": "default",
+      "name": "Oorlog in Oekraïne",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/spanningen-oekraine/6222628/opperbevelhebber-bevestigt-dat-oekraine-achter-explosies-op-de-krim-zat.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6222627,
+    "slug": "technische-staf-az-kon-dnipro-niet-live-in-actie-zien-dingen-zijn-nu-heel-anders",
+    "type": "article",
+    "title": "Technische staf AZ kon Dnipro niet live in actie zien: 'Dingen zijn nu heel anders'",
+    "subtitle": null,
+    "published_at": "2022-09-07T21:56:32+02:00",
+    "updated_at": "2022-09-07T22:05:09+02:00",
+    "media_id": "h8vx220aqlfi",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6222627/technische-staf-az-kon-dnipro-niet-live-in-actie-zien-dingen-zijn-nu-heel-anders.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6222625,
     "slug": "bekijk-de-samenvatting-van-ajax-rangers-fc-4-0",
     "type": "video",
@@ -213,8 +259,8 @@
     "title": "Waterpolosters lopen EK-finale mis door nederlaag tegen titelverdediger Spanje",
     "subtitle": null,
     "published_at": "2022-09-07T19:59:54+02:00",
-    "updated_at": "2022-09-07T20:17:52+02:00",
-    "media_id": "emdxbnfaqnop",
+    "updated_at": "2022-09-07T22:04:58+02:00",
+    "media_id": "087xekaagxen",
     "duration": null,
     "canonical_section": {
       "id": 1772456,
@@ -484,13 +530,13 @@
   },
   {
     "id": 6222570,
-    "slug": "lewandowski-passeert-benzema-op-eeuwige-topscorerslijst",
+    "slug": "liverpool-en-van-dijk-beleven-pijnlijke-avond-in-napels",
     "type": "article",
-    "title": "Lewandowski passeert Benzema op eeuwige topscorerslijst",
+    "title": "Liverpool en Van Dijk beleven pijnlijke avond in Napels",
     "subtitle": "Liveblog CL",
     "published_at": "2022-09-07T17:57:48+02:00",
-    "updated_at": "2022-09-07T21:40:22+02:00",
-    "media_id": "a68xzeaaxmlr",
+    "updated_at": "2022-09-07T22:06:10+02:00",
+    "media_id": "brzxi0ha8acx",
     "duration": null,
     "canonical_section": {
       "id": 1772338,
@@ -501,7 +547,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6222570/lewandowski-passeert-benzema-op-eeuwige-topscorerslijst.html",
+    "url": "/voetbal/6222570/liverpool-en-van-dijk-beleven-pijnlijke-avond-in-napels.html",
     "open_new_window": false,
     "partner": null
   },
@@ -640,52 +686,6 @@
       "partner": null
     },
     "url": "/wielrennen/6222555/vluchter-uran-voltooit-trilogie-met-ritzege-in-vuelta-evenepoel-behoudt-leiding.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6222553,
-    "slug": "nickelback-komt-na-vijf-jaar-met-een-nieuw-studioalbum",
-    "type": "article",
-    "title": "Nickelback komt na vijf jaar met een nieuw studioalbum",
-    "subtitle": null,
-    "published_at": "2022-09-07T17:09:11+02:00",
-    "updated_at": "2022-09-07T17:09:11+02:00",
-    "media_id": "ad1xi41ah2q7",
-    "duration": null,
-    "canonical_section": {
-      "id": 868281,
-      "slug": "muziek",
-      "type": "default",
-      "name": "Muziek",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/muziek/6222553/nickelback-komt-na-vijf-jaar-met-een-nieuw-studioalbum.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6222552,
-    "slug": "olivia-wilde-weigert-in-te-gaan-op-geruchten-over-spanningen-op-filmset",
-    "type": "article",
-    "title": "Olivia Wilde weigert in te gaan op geruchten over spanningen op filmset",
-    "subtitle": null,
-    "published_at": "2022-09-07T17:07:28+02:00",
-    "updated_at": "2022-09-07T17:07:29+02:00",
-    "media_id": "7t1x4cxaq9ny",
-    "duration": null,
-    "canonical_section": {
-      "id": 127,
-      "slug": "film",
-      "type": "default",
-      "name": "Films & Series",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/film/6222552/olivia-wilde-weigert-in-te-gaan-op-geruchten-over-spanningen-op-filmset.html",
     "open_new_window": false,
     "partner": null
   }
