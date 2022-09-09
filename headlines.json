@@ -1,5 +1,28 @@
 [
   {
+    "id": 6223002,
+    "slug": "van-geld-tot-het-volkslied-dit-verandert-er-na-het-overlijden-van-elizabeth",
+    "type": "video",
+    "title": "Van geld tot het volkslied: dit verandert er na het overlijden van Elizabeth",
+    "subtitle": "Video",
+    "published_at": "2022-09-09T12:57:49+02:00",
+    "updated_at": "2022-09-09T13:09:40+02:00",
+    "media_id": "dg6xvveau28g",
+    "duration": "1:09",
+    "canonical_section": {
+      "id": 1778967,
+      "slug": "uitleg",
+      "type": "default",
+      "name": "Het nieuws uitgelegd",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/uitleg/6223002/van-geld-tot-het-volkslied-dit-verandert-er-na-het-overlijden-van-elizabeth.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6222999,
     "slug": "gegevens-van-130000-bezoekers-van-festival-dgtl-op-straat-door-datalek",
     "type": "article",
@@ -29,7 +52,7 @@
     "title": "Geen Premier League-voetbal komend weekend wegens overlijden koningin Elizabeth",
     "subtitle": null,
     "published_at": "2022-09-09T12:33:10+02:00",
-    "updated_at": "2022-09-09T12:49:55+02:00",
+    "updated_at": "2022-09-09T13:10:40+02:00",
     "media_id": "v5px7mxaedzf",
     "duration": null,
     "canonical_section": {
@@ -663,29 +686,6 @@
       "partner": null
     },
     "url": "/media/6222937/journaals-nos-langer-wegens-overlijden-elizabeth-toespraak-charles-live.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6222935,
-    "slug": "twitter-betaalde-7-miljoen-dollar-aan-klokkenluider-voor-geheimhouding",
-    "type": "article",
-    "title": "Twitter betaalde 7 miljoen dollar aan klokkenluider voor geheimhouding",
-    "subtitle": null,
-    "published_at": "2022-09-09T08:53:45+02:00",
-    "updated_at": "2022-09-09T11:58:38+02:00",
-    "media_id": "0i7xhu6a332w",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771438,
-      "slug": "tech",
-      "type": "default",
-      "name": "Tech",
-      "style": "nutech",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/tech/6222935/twitter-betaalde-7-miljoen-dollar-aan-klokkenluider-voor-geheimhouding.html",
     "open_new_window": false,
     "partner": null
   }
