@@ -1,5 +1,28 @@
 [
   {
+    "id": 6222988,
+    "slug": "britten-bewijzen-laatste-eer-aan-elizabeth-bij-buckingham-palace",
+    "type": "video",
+    "title": "Britten bewijzen laatste eer aan Elizabeth bij Buckingham Palace",
+    "subtitle": "Video",
+    "published_at": "2022-09-09T11:47:50+02:00",
+    "updated_at": "2022-09-09T11:47:58+02:00",
+    "media_id": "1w2xrv4ajt6x",
+    "duration": "1:06",
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6222988/britten-bewijzen-laatste-eer-aan-elizabeth-bij-buckingham-palace.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6222982,
     "slug": "productiegroei-industrie-in-nederland-daalt-maar-nog-steeds-op-hoog-niveau",
     "type": "article",
@@ -535,7 +558,7 @@
     "title": "Hoe Zakaria Bakkali de macht over het stuur van zijn eigen carrière verloor",
     "subtitle": "Profiel",
     "published_at": "2022-09-09T08:29:07+02:00",
-    "updated_at": "2022-09-09T08:29:09+02:00",
+    "updated_at": "2022-09-09T11:48:05+02:00",
     "media_id": "mdlxl49adle2",
     "duration": null,
     "canonical_section": {
@@ -663,29 +686,6 @@
       "partner": null
     },
     "url": "/tech/6222925/motorola-onthult-eerste-smartphone-met-een-200-megapixelcamera.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6222924,
-    "slug": "ook-in-augustus-zijn-meer-mensen-overleden-dan-verwacht",
-    "type": "article",
-    "title": "Ook in augustus zijn meer mensen overleden dan verwacht",
-    "subtitle": null,
-    "published_at": "2022-09-09T07:28:43+02:00",
-    "updated_at": "2022-09-09T07:38:01+02:00",
-    "media_id": "x6bxpb0al6g3",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6222924/ook-in-augustus-zijn-meer-mensen-overleden-dan-verwacht.html",
     "open_new_window": false,
     "partner": null
   }
