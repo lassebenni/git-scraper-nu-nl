@@ -1,12 +1,35 @@
 [
   {
+    "id": 6223176,
+    "slug": "oranjefans-groeten-koningin-maxima-tijdens-bezoek-aan-houston",
+    "type": "video",
+    "title": "Oranjefans groeten koningin Máxima tijdens bezoek aan Houston",
+    "subtitle": "Video",
+    "published_at": "2022-09-10T08:43:02+02:00",
+    "updated_at": "2022-09-10T08:43:03+02:00",
+    "media_id": "u0px49fafuel",
+    "duration": "1:03",
+    "canonical_section": {
+      "id": 1778775,
+      "slug": "koningshuis",
+      "type": "default",
+      "name": "Koningshuis",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/koningshuis/6223176/oranjefans-groeten-koningin-maxima-tijdens-bezoek-aan-houston.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6223151,
     "slug": "nog-voor-de-geklapte-deal-met-porsche-had-red-bull-een-ultiem-vangnet-klaar",
     "type": "article",
     "title": "Nog voor de geklapte deal met Porsche had Red Bull een ultiem vangnet klaar",
     "subtitle": null,
     "published_at": "2022-09-10T08:14:13+02:00",
-    "updated_at": "2022-09-10T08:14:14+02:00",
+    "updated_at": "2022-09-10T08:48:22+02:00",
     "media_id": "83nx20eag11g",
     "duration": null,
     "canonical_section": {
@@ -300,12 +323,12 @@
   },
   {
     "id": 6223150,
-    "slug": "ruud-stoot-door-naar-finale-us-open-en-houdt-zicht-op-nummer-een-positie",
+    "slug": "alcaraz-en-ruud-bereiken-us-open-finale-en-strijden-om-nummer-een-positie",
     "type": "article",
-    "title": "Ruud stoot door naar finale US Open en houdt zicht op nummer één-positie",
+    "title": "Alcaraz en Ruud bereiken US Open-finale en strijden om nummer één-positie",
     "subtitle": null,
     "published_at": "2022-09-10T00:18:46+02:00",
-    "updated_at": "2022-09-10T07:56:53+02:00",
+    "updated_at": "2022-09-10T08:51:15+02:00",
     "media_id": "9s1x1cfanfcb",
     "duration": null,
     "canonical_section": {
@@ -317,7 +340,7 @@
       "media_id": "m1oxohpan0gq",
       "partner": null
     },
-    "url": "/tennis/6223150/ruud-stoot-door-naar-finale-us-open-en-houdt-zicht-op-nummer-een-positie.html",
+    "url": "/tennis/6223150/alcaraz-en-ruud-bereiken-us-open-finale-en-strijden-om-nummer-een-positie.html",
     "open_new_window": false,
     "partner": null
   },
@@ -650,7 +673,7 @@
     "title": "Zelensky deelt medailles uit aan buitenlandse journalisten",
     "subtitle": "Video",
     "published_at": "2022-09-09T21:16:32+02:00",
-    "updated_at": "2022-09-10T07:50:49+02:00",
+    "updated_at": "2022-09-10T08:43:15+02:00",
     "media_id": "ikbx0gbalhhm",
     "duration": "0:59",
     "canonical_section": {
@@ -663,29 +686,6 @@
       "partner": null
     },
     "url": "/spanningen-oekraine/6223131/zelensky-deelt-medailles-uit-aan-buitenlandse-journalisten.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6223130,
-    "slug": "fortuna-kiest-voor-spanjaard-velazquez-als-opvolger-van-ontslagen-ultee",
-    "type": "article",
-    "title": "Fortuna kiest voor Spanjaard Velázquez als opvolger van ontslagen Ultee",
-    "subtitle": null,
-    "published_at": "2022-09-09T21:14:35+02:00",
-    "updated_at": "2022-09-09T22:20:46+02:00",
-    "media_id": "vgkxvv0alkm2",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6223130/fortuna-kiest-voor-spanjaard-velazquez-als-opvolger-van-ontslagen-ultee.html",
     "open_new_window": false,
     "partner": null
   }
