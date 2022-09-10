@@ -1,12 +1,104 @@
 [
   {
+    "id": 6222713,
+    "slug": "apps-van-de-week-amateurvoetballers-en-een-fotoapp-voor-feestjes",
+    "type": "article",
+    "title": "Apps van de week: Amateurvoetballers en een fotoapp voor feestjes",
+    "subtitle": null,
+    "published_at": "2022-09-10T18:34:01+02:00",
+    "updated_at": "2022-09-10T18:34:01+02:00",
+    "media_id": "jufxkkra1otf",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771438,
+      "slug": "tech",
+      "type": "default",
+      "name": "Tech",
+      "style": "nutech",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/tech/6222713/apps-van-de-week-amateurvoetballers-en-een-fotoapp-voor-feestjes.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6223272,
+    "slug": "fortuna-grijpt-in-extra-tijd-tegen-nec-naast-eerste-overwinning-van-seizoen",
+    "type": "article",
+    "title": "Fortuna grijpt in extra tijd tegen NEC naast eerste overwinning van seizoen",
+    "subtitle": null,
+    "published_at": "2022-09-10T18:29:58+02:00",
+    "updated_at": "2022-09-10T18:36:41+02:00",
+    "media_id": "fgrx2rbatex7",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6223272/fortuna-grijpt-in-extra-tijd-tegen-nec-naast-eerste-overwinning-van-seizoen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6223271,
+    "slug": "koningin-elizabeth-wordt-op-19-september-begraven",
+    "type": "article",
+    "title": "Koningin Elizabeth wordt op 19 september begraven",
+    "subtitle": null,
+    "published_at": "2022-09-10T18:28:08+02:00",
+    "updated_at": "2022-09-10T18:28:09+02:00",
+    "media_id": "h51xjehaie3e",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6223271/koningin-elizabeth-wordt-op-19-september-begraven.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6223270,
+    "slug": "de-ligt-veroorzaakt-in-slotfase-kostbare-penalty-tegen-stuttgart",
+    "type": "video",
+    "title": "De Ligt veroorzaakt in slotfase kostbare penalty tegen Stuttgart",
+    "subtitle": "Video",
+    "published_at": "2022-09-10T18:21:01+02:00",
+    "updated_at": "2022-09-10T18:27:16+02:00",
+    "media_id": "cagxeflaarde",
+    "duration": "3:38",
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6223270/de-ligt-veroorzaakt-in-slotfase-kostbare-penalty-tegen-stuttgart.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6223269,
     "slug": "huilende-evenepoel-kan-vuelta-zege-amper-geloven-mooiste-dag-uit-mijn-leven",
     "type": "article",
     "title": "Huilende Evenepoel kan Vuelta-zege amper geloven: 'Mooiste dag uit mijn leven'",
     "subtitle": null,
     "published_at": "2022-09-10T18:10:07+02:00",
-    "updated_at": "2022-09-10T18:10:08+02:00",
+    "updated_at": "2022-09-10T18:26:03+02:00",
     "media_id": "vsdx0yaa8cq4",
     "duration": null,
     "canonical_section": {
@@ -24,12 +116,12 @@
   },
   {
     "id": 6223268,
-    "slug": "bekijk-hoe-verstappen-in-zinderend-slot-kwalificatie-op-monza-tweede-wordt",
+    "slug": "kijk-hoe-verstappen-in-zinderend-slot-kwalificatie-op-monza-tweede-wordt",
     "type": "video",
-    "title": "Bekijk hoe Verstappen in zinderend slot kwalificatie op Monza tweede wordt",
+    "title": "Kijk hoe Verstappen in zinderend slot kwalificatie op Monza tweede wordt",
     "subtitle": "Video",
     "published_at": "2022-09-10T18:04:11+02:00",
-    "updated_at": "2022-09-10T18:06:12+02:00",
+    "updated_at": "2022-09-10T18:20:00+02:00",
     "media_id": "5j0x5v6a6okx",
     "duration": "2:08",
     "canonical_section": {
@@ -41,7 +133,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/sport/6223268/bekijk-hoe-verstappen-in-zinderend-slot-kwalificatie-op-monza-tweede-wordt.html",
+    "url": "/sport/6223268/kijk-hoe-verstappen-in-zinderend-slot-kwalificatie-op-monza-tweede-wordt.html",
     "open_new_window": false,
     "partner": null
   },
@@ -52,7 +144,7 @@
     "title": "Verstappen na kwalificatie vol vertrouwen voor 'interessante' race op Monza",
     "subtitle": null,
     "published_at": "2022-09-10T17:41:14+02:00",
-    "updated_at": "2022-09-10T18:06:11+02:00",
+    "updated_at": "2022-09-10T18:19:04+02:00",
     "media_id": "0zex4fha1lz9",
     "duration": null,
     "canonical_section": {
@@ -121,7 +213,7 @@
     "title": "De Ligt veroorzaakt in slotfase penalty en leidt nieuw puntenverlies Bayern in",
     "subtitle": null,
     "published_at": "2022-09-10T17:30:44+02:00",
-    "updated_at": "2022-09-10T17:59:32+02:00",
+    "updated_at": "2022-09-10T18:31:52+02:00",
     "media_id": "sdmxsj4a8rt1",
     "duration": null,
     "canonical_section": {
@@ -144,7 +236,7 @@
     "title": "Evenepoel overleeft laatste bergrit en is officieus zeker van eindzege in Vuelta",
     "subtitle": null,
     "published_at": "2022-09-10T17:27:43+02:00",
-    "updated_at": "2022-09-10T17:51:34+02:00",
+    "updated_at": "2022-09-10T18:12:41+02:00",
     "media_id": "imdxfdral4k7",
     "duration": null,
     "canonical_section": {
@@ -231,13 +323,13 @@
   },
   {
     "id": 6223253,
-    "slug": "ozyakup-schiet-fortuna-prachtig-op-0-1-tegen-nec",
+    "slug": "ajax-wil-tegen-heerenveen-foutloos-blijven-in-eredivisie",
     "type": "article",
-    "title": "Özyakup schiet Fortuna prachtig op 0-1 tegen NEC",
+    "title": "Ajax wil tegen Heerenveen foutloos blijven in Eredivisie",
     "subtitle": "Liveblog Eredivisie",
     "published_at": "2022-09-10T16:09:46+02:00",
-    "updated_at": "2022-09-10T18:08:43+02:00",
-    "media_id": "r46x7qeaftc7",
+    "updated_at": "2022-09-10T18:30:59+02:00",
+    "media_id": "pzcxl48alc6m",
     "duration": null,
     "canonical_section": {
       "id": 1772338,
@@ -248,7 +340,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6223253/ozyakup-schiet-fortuna-prachtig-op-0-1-tegen-nec.html",
+    "url": "/voetbal/6223253/ajax-wil-tegen-heerenveen-foutloos-blijven-in-eredivisie.html",
     "open_new_window": false,
     "partner": null
   },
@@ -397,7 +489,7 @@
     "title": "Oekraïners bevrijden Kupiansk en bereiken belangrijke stad Izyum, Russen op de vlucht",
     "subtitle": null,
     "published_at": "2022-09-10T15:00:52+02:00",
-    "updated_at": "2022-09-10T17:39:55+02:00",
+    "updated_at": "2022-09-10T18:19:59+02:00",
     "media_id": "v6qxilqan2he",
     "duration": null,
     "canonical_section": {
@@ -594,98 +686,6 @@
       "partner": null
     },
     "url": "/formule-1/6223221/reacties-op-de-spannende-kwalificatie-voor-de-grand-prix-van-italie.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6223220,
-    "slug": "bosnie-gaat-tot-onvrede-van-eigen-spelers-oefenduel-met-rusland-spelen",
-    "type": "article",
-    "title": "Bosnië gaat tot onvrede van eigen spelers oefenduel met Rusland spelen",
-    "subtitle": null,
-    "published_at": "2022-09-10T12:48:10+02:00",
-    "updated_at": "2022-09-10T14:42:53+02:00",
-    "media_id": "i3bxv0tajxuf",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6223220/bosnie-gaat-tot-onvrede-van-eigen-spelers-oefenduel-met-rusland-spelen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6223203,
-    "slug": "swiatek-kan-eerste-vrouw-sinds-2016-worden-die-twee-majors-in-een-jaar-wint",
-    "type": "article",
-    "title": "Swiatek kan eerste vrouw sinds 2016 worden die twee majors in één jaar wint",
-    "subtitle": null,
-    "published_at": "2022-09-10T12:40:25+02:00",
-    "updated_at": "2022-09-10T12:59:23+02:00",
-    "media_id": "qbcxjmeaae9c",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772432,
-      "slug": "tennis",
-      "type": "default",
-      "name": "Tennis",
-      "style": "nusport",
-      "media_id": "m1oxohpan0gq",
-      "partner": null
-    },
-    "url": "/tennis/6223203/swiatek-kan-eerste-vrouw-sinds-2016-worden-die-twee-majors-in-een-jaar-wint.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6223216,
-    "slug": "de-vries-maakt-in-italie-f1-debuut-als-vervanger-van-williams-coureur-albon",
-    "type": "article",
-    "title": "De Vries maakt in Italië F1-debuut als vervanger van Williams-coureur Albon",
-    "subtitle": null,
-    "published_at": "2022-09-10T12:27:14+02:00",
-    "updated_at": "2022-09-10T14:17:18+02:00",
-    "media_id": "ii0xsenajrtq",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772449,
-      "slug": "formule-1",
-      "type": "default",
-      "name": "Formule 1",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/formule-1/6223216/de-vries-maakt-in-italie-f1-debuut-als-vervanger-van-williams-coureur-albon.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6222994,
-    "slug": "boeren-aan-het-woord-ik-wist-al-jaren-dat-emmisiearme-vloer-niet-werkt",
-    "type": "article",
-    "title": "Boeren aan het woord: 'Ik wist al jaren dat emmisiearme vloer niet werkt'",
-    "subtitle": null,
-    "published_at": "2022-09-10T12:24:44+02:00",
-    "updated_at": "2022-09-10T12:24:45+02:00",
-    "media_id": "1clxd6kaimld",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6222994/boeren-aan-het-woord-ik-wist-al-jaren-dat-emmisiearme-vloer-niet-werkt.html",
     "open_new_window": false,
     "partner": null
   }
