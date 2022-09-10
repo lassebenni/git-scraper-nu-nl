@@ -1,13 +1,59 @@
 [
   {
+    "id": 6223294,
+    "slug": "prinsen-william-en-harry-bekijken-bloemenzee-bij-windsor-castle",
+    "type": "video",
+    "title": "Prinsen William en Harry bekijken bloemenzee bij Windsor Castle",
+    "subtitle": "Video",
+    "published_at": "2022-09-10T19:44:50+02:00",
+    "updated_at": "2022-09-10T19:44:51+02:00",
+    "media_id": "qmfxjibaj6g0",
+    "duration": "0:31",
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6223294/prinsen-william-en-harry-bekijken-bloemenzee-bij-windsor-castle.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6223293,
+    "slug": "leclerc-blij-verrast-met-tempo-ferrari-op-monza-hebben-snelheid-om-te-winnen",
+    "type": "article",
+    "title": "Leclerc blij verrast met tempo Ferrari op Monza: 'Hebben snelheid om te winnen'",
+    "subtitle": null,
+    "published_at": "2022-09-10T19:43:09+02:00",
+    "updated_at": "2022-09-10T19:43:09+02:00",
+    "media_id": "dxax3f9a8581",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772449,
+      "slug": "formule-1",
+      "type": "default",
+      "name": "Formule 1",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/formule-1/6223293/leclerc-blij-verrast-met-tempo-ferrari-op-monza-hebben-snelheid-om-te-winnen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6223291,
     "slug": "van-vleuten-houdt-stand-op-slotheuvel-en-heeft-eindzege-in-vuelta-bijna-binnen",
     "type": "article",
     "title": "Van Vleuten houdt stand op slotheuvel en heeft eindzege in Vuelta bijna binnen",
     "subtitle": null,
     "published_at": "2022-09-10T19:30:45+02:00",
-    "updated_at": "2022-09-10T19:30:46+02:00",
-    "media_id": "dsfxrdka8ouq",
+    "updated_at": "2022-09-10T19:45:55+02:00",
+    "media_id": "61uxfzgakug4",
     "duration": null,
     "canonical_section": {
       "id": 1772339,
@@ -24,12 +70,12 @@
   },
   {
     "id": 6223287,
-    "slug": "verstappen-rekent-zondag-op-extreem-op-race-afgestelde-red-bull",
+    "slug": "verstappen-rekent-in-monza-op-extreem-op-race-afgestelde-red-bull",
     "type": "article",
-    "title": "Verstappen rekent zondag op 'extreem' op race afgestelde Red Bull",
+    "title": "Verstappen rekent in Monza op 'extreem' op race afgestelde Red Bull",
     "subtitle": null,
     "published_at": "2022-09-10T19:22:47+02:00",
-    "updated_at": "2022-09-10T19:22:48+02:00",
+    "updated_at": "2022-09-10T19:43:47+02:00",
     "media_id": "qfzxd6pakq07",
     "duration": null,
     "canonical_section": {
@@ -41,7 +87,7 @@
       "media_id": "gtmxcxnaui5m",
       "partner": null
     },
-    "url": "/nu-formule-1/6223287/verstappen-rekent-zondag-op-extreem-op-race-afgestelde-red-bull.html",
+    "url": "/nu-formule-1/6223287/verstappen-rekent-in-monza-op-extreem-op-race-afgestelde-red-bull.html",
     "open_new_window": false,
     "partner": null
   },
@@ -415,12 +461,12 @@
   },
   {
     "id": 6223253,
-    "slug": "dominant-ajax-leidt-met-2-0-tegen-sc-heerenveen",
+    "slug": "dominant-ajax-leidt-halverwege-met-2-0-tegen-sc-heerenveen",
     "type": "article",
-    "title": "Dominant Ajax leidt met 2-0 tegen sc Heerenveen",
+    "title": "Dominant Ajax leidt halverwege met 2-0 tegen sc Heerenveen",
     "subtitle": "Liveblog Eredivisie",
     "published_at": "2022-09-10T16:09:46+02:00",
-    "updated_at": "2022-09-10T19:15:43+02:00",
+    "updated_at": "2022-09-10T19:34:17+02:00",
     "media_id": "e6wx4d8a4a15",
     "duration": null,
     "canonical_section": {
@@ -432,7 +478,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6223253/dominant-ajax-leidt-met-2-0-tegen-sc-heerenveen.html",
+    "url": "/voetbal/6223253/dominant-ajax-leidt-halverwege-met-2-0-tegen-sc-heerenveen.html",
     "open_new_window": false,
     "partner": null
   },
@@ -640,52 +686,6 @@
       "partner": null
     },
     "url": "/film/6222530/waldemar-torenstra-speelt-hoofdrol-in-oorlogsdrama-over-marco-kroon.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6223234,
-    "slug": "verstappen-de-snelste-in-slottraining-op-monza-invaller-de-vries-veertiende",
-    "type": "article",
-    "title": "Verstappen de snelste in slottraining op Monza, invaller De Vries veertiende",
-    "subtitle": null,
-    "published_at": "2022-09-10T14:05:01+02:00",
-    "updated_at": "2022-09-10T15:50:28+02:00",
-    "media_id": "ydwxpxja0bwv",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772449,
-      "slug": "formule-1",
-      "type": "default",
-      "name": "Formule 1",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/formule-1/6223234/verstappen-de-snelste-in-slottraining-op-monza-invaller-de-vries-veertiende.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6223232,
-    "slug": "de-vries-kort-in-het-grind-tijdens-derde-vrije-training-op-monza",
-    "type": "video",
-    "title": "De Vries kort in het grind tijdens derde vrije training op Monza",
-    "subtitle": "Video",
-    "published_at": "2022-09-10T13:58:18+02:00",
-    "updated_at": "2022-09-10T15:33:43+02:00",
-    "media_id": "61uxlciaqer2",
-    "duration": "0:52",
-    "canonical_section": {
-      "id": 1772807,
-      "slug": "sportvideos",
-      "type": "default",
-      "name": "Sportvideo's",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/sportvideos/6223232/de-vries-kort-in-het-grind-tijdens-derde-vrije-training-op-monza.html",
     "open_new_window": false,
     "partner": null
   }
