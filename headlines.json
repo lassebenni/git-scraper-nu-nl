@@ -1,12 +1,81 @@
 [
   {
-    "id": 6223422,
-    "slug": "de-vries-trots-op-succesvol-formule-1-debuut-had-de-hele-nacht-wakker-gelegen",
+    "id": 6223425,
+    "slug": "rouwstoet-kist-koningin-elizabeth-met-applaus-ontvangen-in-edinburgh",
+    "type": "video",
+    "title": "Rouwstoet kist koningin Elizabeth met applaus ontvangen in Edinburgh",
+    "subtitle": "Video",
+    "published_at": "2022-09-11T18:55:19+02:00",
+    "updated_at": "2022-09-11T18:55:20+02:00",
+    "media_id": "yz9xt3ia85z7",
+    "duration": "0:55",
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6223425/rouwstoet-kist-koningin-elizabeth-met-applaus-ontvangen-in-edinburgh.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6223424,
+    "slug": "bekijk-de-samenvatting-van-de-door-verstappen-gewonnen-race-op-monza",
+    "type": "video",
+    "title": "Bekijk de samenvatting van de door Verstappen gewonnen race op Monza",
+    "subtitle": "Video",
+    "published_at": "2022-09-11T18:53:51+02:00",
+    "updated_at": "2022-09-11T18:55:29+02:00",
+    "media_id": "wz5xv1la7voi",
+    "duration": "1:21",
+    "canonical_section": {
+      "id": 1772449,
+      "slug": "formule-1",
+      "type": "default",
+      "name": "Formule 1",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/formule-1/6223424/bekijk-de-samenvatting-van-de-door-verstappen-gewonnen-race-op-monza.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6223423,
+    "slug": "az-geeft-voorsprong-weg-tegen-twente-en-verzuimt-naar-tweede-plek-te-klimmen",
     "type": "article",
-    "title": "De Vries trots op succesvol Formule 1-debuut: 'Had de hele nacht wakker gelegen'",
+    "title": "AZ geeft voorsprong weg tegen Twente en verzuimt naar tweede plek te klimmen",
+    "subtitle": null,
+    "published_at": "2022-09-11T18:43:26+02:00",
+    "updated_at": "2022-09-11T18:47:22+02:00",
+    "media_id": "dnexrqwaqlhd",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6223423/az-geeft-voorsprong-weg-tegen-twente-en-verzuimt-naar-tweede-plek-te-klimmen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6223422,
+    "slug": "de-vries-trots-op-succesvol-formule-1-debuut-ik-lag-de-hele-nacht-wakker",
+    "type": "article",
+    "title": "De Vries trots op succesvol Formule 1-debuut: 'Ik lag de hele nacht wakker'",
     "subtitle": null,
     "published_at": "2022-09-11T18:33:39+02:00",
-    "updated_at": "2022-09-11T18:33:40+02:00",
+    "updated_at": "2022-09-11T18:51:22+02:00",
     "media_id": "r3ux6ywavqt6",
     "duration": null,
     "canonical_section": {
@@ -18,7 +87,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/formule-1/6223422/de-vries-trots-op-succesvol-formule-1-debuut-had-de-hele-nacht-wakker-gelegen.html",
+    "url": "/formule-1/6223422/de-vries-trots-op-succesvol-formule-1-debuut-ik-lag-de-hele-nacht-wakker.html",
     "open_new_window": false,
     "partner": null
   },
@@ -75,7 +144,7 @@
     "title": "Verstappen krijgt bij volgende race in Singapore al eerste kans op wereldtitel",
     "subtitle": null,
     "published_at": "2022-09-11T17:56:08+02:00",
-    "updated_at": "2022-09-11T18:22:20+02:00",
+    "updated_at": "2022-09-11T18:44:25+02:00",
     "media_id": "1hxxx8hajge1",
     "duration": null,
     "canonical_section": {
@@ -259,7 +328,7 @@
     "title": "Hoe gaat Rusland reageren? Vijf vragen over het Oekraïense offensief",
     "subtitle": null,
     "published_at": "2022-09-11T16:37:31+02:00",
-    "updated_at": "2022-09-11T17:13:10+02:00",
+    "updated_at": "2022-09-11T18:43:12+02:00",
     "media_id": "jvex80aa64dd",
     "duration": null,
     "canonical_section": {
@@ -328,7 +397,7 @@
     "title": "Verstappen wint in Italië voor vijfde keer op rij, De Vries negende bij debuut",
     "subtitle": null,
     "published_at": "2022-09-11T16:24:41+02:00",
-    "updated_at": "2022-09-11T17:07:48+02:00",
+    "updated_at": "2022-09-11T18:52:08+02:00",
     "media_id": "m68xqcfavf5k",
     "duration": null,
     "canonical_section": {
@@ -617,75 +686,6 @@
       "partner": null
     },
     "url": "/voetbal/6223376/dost-schiet-fc-utrecht-in-slotfase-naar-broodnodige-zege-op-vitesse.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6223385,
-    "slug": "psv-met-spits-el-ghazi-en-hoever-tegen-rkc-zieke-sangare-ontbreekt",
-    "type": "article",
-    "title": "PSV met spits El Ghazi en Hoever tegen RKC, zieke Sangaré ontbreekt",
-    "subtitle": null,
-    "published_at": "2022-09-11T13:20:27+02:00",
-    "updated_at": "2022-09-11T14:28:51+02:00",
-    "media_id": "floxifgacn7x",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6223385/psv-met-spits-el-ghazi-en-hoever-tegen-rkc-zieke-sangare-ontbreekt.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6223344,
-    "slug": "komst-aanmeldcentrum-bant-emissiearme-stalvloeren",
-    "type": "article",
-    "title": "Komst aanmeldcentrum Bant | Emissiearme stalvloeren",
-    "subtitle": "Beste NUjij-reacties",
-    "published_at": "2022-09-11T13:10:11+02:00",
-    "updated_at": "2022-09-11T13:11:46+02:00",
-    "media_id": "1clxd6kaimld",
-    "duration": null,
-    "canonical_section": {
-      "id": 1773185,
-      "slug": "nujij",
-      "type": "default",
-      "name": "Praat mee op NUjij",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/nujij/6223344/komst-aanmeldcentrum-bant-emissiearme-stalvloeren.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6223379,
-    "slug": "rouwstoet-met-kist-elizabeth-verlaat-kasteel-balmoral",
-    "type": "video",
-    "title": "Rouwstoet met kist Elizabeth verlaat kasteel Balmoral",
-    "subtitle": "Video",
-    "published_at": "2022-09-11T12:56:59+02:00",
-    "updated_at": "2022-09-11T17:31:41+02:00",
-    "media_id": "do8x7l5actnw",
-    "duration": "0:48",
-    "canonical_section": {
-      "id": 1778775,
-      "slug": "koningshuis",
-      "type": "default",
-      "name": "Koningshuis",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/koningshuis/6223379/rouwstoet-met-kist-elizabeth-verlaat-kasteel-balmoral.html",
     "open_new_window": false,
     "partner": null
   }
