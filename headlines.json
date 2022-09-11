@@ -1,5 +1,28 @@
 [
   {
+    "id": 6223341,
+    "slug": "australie-en-nieuw-zeeland-benoemen-charles-iii-tot-staatshoofd",
+    "type": "video",
+    "title": "Australië en Nieuw-Zeeland benoemen Charles III tot staatshoofd",
+    "subtitle": "Video",
+    "published_at": "2022-09-11T09:40:11+02:00",
+    "updated_at": "2022-09-11T09:40:12+02:00",
+    "media_id": "kgfxgnzaq4sh",
+    "duration": "0:35",
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6223341/australie-en-nieuw-zeeland-benoemen-charles-iii-tot-staatshoofd.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6223338,
     "slug": "zelensky-tweeduizend-kilometer-aan-grondgebied-terugveroverd-van-russen",
     "type": "article",
@@ -93,12 +116,12 @@
   },
   {
     "id": 6223325,
-    "slug": "de-kist-van-koningin-elizabeth-gaat-zondag-naar-edinburgh",
+    "slug": "kist-van-koningin-elizabeth-gaat-zondag-naar-edinburgh",
     "type": "article",
-    "title": "De kist van koningin Elizabeth gaat zondag naar Edinburgh",
+    "title": "Kist van koningin Elizabeth gaat zondag naar Edinburgh",
     "subtitle": null,
     "published_at": "2022-09-11T08:13:26+02:00",
-    "updated_at": "2022-09-11T08:54:07+02:00",
+    "updated_at": "2022-09-11T09:32:29+02:00",
     "media_id": "6ufxdg2aue4m",
     "duration": null,
     "canonical_section": {
@@ -110,7 +133,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/buitenland/6223325/de-kist-van-koningin-elizabeth-gaat-zondag-naar-edinburgh.html",
+    "url": "/buitenland/6223325/kist-van-koningin-elizabeth-gaat-zondag-naar-edinburgh.html",
     "open_new_window": false,
     "partner": null
   },
@@ -236,7 +259,7 @@
     "title": "Charles III officieel benoemd tot staatshoofd van Australië en Nieuw-Zeeland",
     "subtitle": null,
     "published_at": "2022-09-11T06:15:48+02:00",
-    "updated_at": "2022-09-11T08:56:19+02:00",
+    "updated_at": "2022-09-11T09:44:58+02:00",
     "media_id": "bsnxgnga5qrv",
     "duration": null,
     "canonical_section": {
@@ -663,29 +686,6 @@
       "partner": null
     },
     "url": "/economie/6223303/duizenden-afwijzingen-bij-aanvraag-opleidingsbudget-stap.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6223304,
-    "slug": "bekijk-de-startopstelling-in-monza-met-verstappen-en-de-vries-op-dezelfde-startrij",
-    "type": "article",
-    "title": "Bekijk de startopstelling in Monza met Verstappen en De Vries op dezelfde startrij",
-    "subtitle": null,
-    "published_at": "2022-09-10T21:32:34+02:00",
-    "updated_at": "2022-09-10T23:19:59+02:00",
-    "media_id": "yeaxiqkaanvf",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772449,
-      "slug": "formule-1",
-      "type": "default",
-      "name": "Formule 1",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/formule-1/6223304/bekijk-de-startopstelling-in-monza-met-verstappen-en-de-vries-op-dezelfde-startrij.html",
     "open_new_window": false,
     "partner": null
   }
