@@ -1,12 +1,58 @@
 [
   {
+    "id": 6223317,
+    "slug": "lichaam-gevonden-op-dak-van-kerk-in-het-centrum-van-leeuwarden",
+    "type": "article",
+    "title": "Lichaam gevonden op dak van kerk in het centrum van Leeuwarden",
+    "subtitle": null,
+    "published_at": "2022-09-11T05:17:46+02:00",
+    "updated_at": "2022-09-11T05:17:47+02:00",
+    "media_id": "b9cx20qan86n",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6223317/lichaam-gevonden-op-dak-van-kerk-in-het-centrum-van-leeuwarden.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6223315,
+    "slug": "dit-is-wat-je-moet-weten-over-de-zweedse-parlementsverkiezingen",
+    "type": "article",
+    "title": "Dit is wat je moet weten over de Zweedse parlementsverkiezingen",
+    "subtitle": null,
+    "published_at": "2022-09-11T04:28:41+02:00",
+    "updated_at": "2022-09-11T04:28:42+02:00",
+    "media_id": "0baxux9ahu1e",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6223315/dit-is-wat-je-moet-weten-over-de-zweedse-parlementsverkiezingen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6223316,
     "slug": "aardbeving-en-tsunamiwaarschuwing-in-papoea-nieuw-guinea",
     "type": "article",
     "title": "Aardbeving en tsunamiwaarschuwing in Papoea-Nieuw-Guinea",
     "subtitle": null,
     "published_at": "2022-09-11T03:22:18+02:00",
-    "updated_at": "2022-09-11T03:22:18+02:00",
+    "updated_at": "2022-09-11T04:55:35+02:00",
     "media_id": "73vxikeabfud",
     "duration": null,
     "canonical_section": {
@@ -640,52 +686,6 @@
       "partner": null
     },
     "url": "/buitenland/6223271/koningin-elizabeth-19-september-begraven-lichaam-dinsdag-naar-londen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6223270,
-    "slug": "de-ligt-veroorzaakt-in-slotfase-kostbare-penalty-tegen-stuttgart",
-    "type": "video",
-    "title": "De Ligt veroorzaakt in slotfase kostbare penalty tegen Stuttgart",
-    "subtitle": "Video",
-    "published_at": "2022-09-10T18:21:01+02:00",
-    "updated_at": "2022-09-10T18:27:16+02:00",
-    "media_id": "cagxeflaarde",
-    "duration": "3:38",
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6223270/de-ligt-veroorzaakt-in-slotfase-kostbare-penalty-tegen-stuttgart.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6223269,
-    "slug": "huilende-evenepoel-kan-vuelta-zege-amper-geloven-mooiste-dag-uit-mijn-leven",
-    "type": "article",
-    "title": "Huilende Evenepoel kan Vuelta-zege amper geloven: 'Mooiste dag uit mijn leven'",
-    "subtitle": null,
-    "published_at": "2022-09-10T18:10:07+02:00",
-    "updated_at": "2022-09-10T18:26:03+02:00",
-    "media_id": "vsdx0yaa8cq4",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772339,
-      "slug": "wielrennen",
-      "type": "default",
-      "name": "Wielrennen",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/wielrennen/6223269/huilende-evenepoel-kan-vuelta-zege-amper-geloven-mooiste-dag-uit-mijn-leven.html",
     "open_new_window": false,
     "partner": null
   }
