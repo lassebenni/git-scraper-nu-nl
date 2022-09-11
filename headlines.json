@@ -1,12 +1,35 @@
 [
   {
+    "id": 6223330,
+    "slug": "lichaam-gevonden-op-dak-van-kerk-in-leeuwarden",
+    "type": "video",
+    "title": "Lichaam gevonden op dak van kerk in Leeuwarden",
+    "subtitle": "Video",
+    "published_at": "2022-09-11T08:52:46+02:00",
+    "updated_at": "2022-09-11T08:52:46+02:00",
+    "media_id": "mz3x14warteh",
+    "duration": "0:35",
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6223330/lichaam-gevonden-op-dak-van-kerk-in-leeuwarden.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6223328,
     "slug": "trotse-swiatek-us-open-titel-is-voor-mij-de-bevestiging-dat-alles-mogelijk-is",
     "type": "article",
     "title": "Trotse Swiatek: 'US Open-titel is voor mij de bevestiging dat alles mogelijk is'",
     "subtitle": null,
     "published_at": "2022-09-11T08:35:35+02:00",
-    "updated_at": "2022-09-11T08:35:36+02:00",
+    "updated_at": "2022-09-11T08:52:48+02:00",
     "media_id": "8zrxbmkajczh",
     "duration": null,
     "canonical_section": {
@@ -47,12 +70,12 @@
   },
   {
     "id": 6223324,
-    "slug": "ns-en-vakbonden-bereiken-cao-akkoord-stakingen-voorlopig-van-de-baan",
+    "slug": "ns-en-vakbonden-bereiken-voorlopig-cao-akkoord-stakingen-van-de-baan",
     "type": "article",
-    "title": "NS en vakbonden bereiken cao-akkoord, stakingen voorlopig van de baan",
+    "title": "NS en vakbonden bereiken voorlopig cao-akkoord, stakingen van de baan",
     "subtitle": null,
     "published_at": "2022-09-11T08:11:46+02:00",
-    "updated_at": "2022-09-11T08:34:45+02:00",
+    "updated_at": "2022-09-11T08:50:20+02:00",
     "media_id": "d7vxp1faprzt",
     "duration": null,
     "canonical_section": {
@@ -64,7 +87,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/binnenland/6223324/ns-en-vakbonden-bereiken-cao-akkoord-stakingen-voorlopig-van-de-baan.html",
+    "url": "/binnenland/6223324/ns-en-vakbonden-bereiken-voorlopig-cao-akkoord-stakingen-van-de-baan.html",
     "open_new_window": false,
     "partner": null
   },
@@ -369,12 +392,12 @@
   },
   {
     "id": 6223311,
-    "slug": "harrison-ford-speelt-voor-de-laatste-keer-indiana-jones",
+    "slug": "harrison-ford-80-speelt-voor-de-laatste-keer-indiana-jones",
     "type": "article",
-    "title": "Harrison Ford speelt voor de laatste keer Indiana Jones",
+    "title": "Harrison Ford (80) speelt voor de laatste keer Indiana Jones",
     "subtitle": null,
     "published_at": "2022-09-11T00:15:22+02:00",
-    "updated_at": "2022-09-11T00:15:23+02:00",
+    "updated_at": "2022-09-11T08:48:45+02:00",
     "media_id": "t93xwkyah8sj",
     "duration": null,
     "canonical_section": {
@@ -386,7 +409,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/entertainment/6223311/harrison-ford-speelt-voor-de-laatste-keer-indiana-jones.html",
+    "url": "/entertainment/6223311/harrison-ford-80-speelt-voor-de-laatste-keer-indiana-jones.html",
     "open_new_window": false,
     "partner": null
   },
@@ -650,7 +673,7 @@
     "title": "Oekraïense vlag gehesen in ruim dertig nederzettingen na succesvol offensief",
     "subtitle": "Video",
     "published_at": "2022-09-10T20:56:54+02:00",
-    "updated_at": "2022-09-10T20:56:55+02:00",
+    "updated_at": "2022-09-11T08:45:29+02:00",
     "media_id": "b7mxcb0ar8gd",
     "duration": "0:55",
     "canonical_section": {
@@ -663,29 +686,6 @@
       "partner": null
     },
     "url": "/spanningen-oekraine/6223302/oekraiense-vlag-gehesen-in-ruim-dertig-nederzettingen-na-succesvol-offensief.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6223298,
-    "slug": "enkel-kans-voor-leclerc-tegen-verstappen-als-bij-ferrari-alles-goed-gaat",
-    "type": "article",
-    "title": "Enkel kans voor Leclerc tegen Verstappen als bij Ferrari alles goed gaat",
-    "subtitle": "Analyse",
-    "published_at": "2022-09-10T20:44:34+02:00",
-    "updated_at": "2022-09-10T21:39:59+02:00",
-    "media_id": "qzjxja1a25l3",
-    "duration": null,
-    "canonical_section": {
-      "id": 1778846,
-      "slug": "nu-formule-1",
-      "type": "default",
-      "name": "NU+ Formule 1",
-      "style": "nusport",
-      "media_id": "gtmxcxnaui5m",
-      "partner": null
-    },
-    "url": "/nu-formule-1/6223298/enkel-kans-voor-leclerc-tegen-verstappen-als-bij-ferrari-alles-goed-gaat.html",
     "open_new_window": false,
     "partner": null
   }
