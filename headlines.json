@@ -1,12 +1,58 @@
 [
   {
+    "id": 6223644,
+    "slug": "schiphol-nog-steeds-in-onderhandeling-over-schrappen-vluchten",
+    "type": "article",
+    "title": "Schiphol nog steeds in onderhandeling over schrappen vluchten",
+    "subtitle": null,
+    "published_at": "2022-09-12T19:34:58+02:00",
+    "updated_at": "2022-09-12T19:34:59+02:00",
+    "media_id": "44jxg9ta62ds",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6223644/schiphol-nog-steeds-in-onderhandeling-over-schrappen-vluchten.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6223640,
+    "slug": "luchtbeelden-tonen-enorme-schade-na-overstromingen-in-pakistan",
+    "type": "video",
+    "title": "Luchtbeelden tonen enorme schade na overstromingen in Pakistan",
+    "subtitle": "Video",
+    "published_at": "2022-09-12T19:17:06+02:00",
+    "updated_at": "2022-09-12T19:17:07+02:00",
+    "media_id": "p4jxmtuaihnj",
+    "duration": "0:43",
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6223640/luchtbeelden-tonen-enorme-schade-na-overstromingen-in-pakistan.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6223638,
     "slug": "schreuder-vroeg-ten-hag-geen-tips-over-liverpool-doen-het-op-onze-manier",
     "type": "article",
     "title": "Schreuder vroeg Ten Hag geen tips over Liverpool: 'Doen het op onze manier'",
     "subtitle": null,
     "published_at": "2022-09-12T19:08:58+02:00",
-    "updated_at": "2022-09-12T19:08:59+02:00",
+    "updated_at": "2022-09-12T19:33:35+02:00",
     "media_id": "cl5x8mpakavb",
     "duration": null,
     "canonical_section": {
@@ -75,7 +121,7 @@
     "title": "United van Ten Hag dit weekend niet in actie, ook Chelsea-Liverpool uitgesteld",
     "subtitle": null,
     "published_at": "2022-09-12T18:45:31+02:00",
-    "updated_at": "2022-09-12T18:58:40+02:00",
+    "updated_at": "2022-09-12T19:22:56+02:00",
     "media_id": "twmx4qpam6pa",
     "duration": null,
     "canonical_section": {
@@ -640,52 +686,6 @@
       "partner": null
     },
     "url": "/buitenland/6223588/russisch-ex-parlementslid-uit-kritiek-na-terugtrekking-troepen-in-oekraine.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6223584,
-    "slug": "schiphol-vraagt-airlines-opnieuw-om-vluchten-te-schrappen-vanwege-drukte",
-    "type": "article",
-    "title": "Schiphol vraagt airlines opnieuw om vluchten te schrappen vanwege drukte",
-    "subtitle": null,
-    "published_at": "2022-09-12T14:18:11+02:00",
-    "updated_at": "2022-09-12T16:37:13+02:00",
-    "media_id": "vpexablaqc3y",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6223584/schiphol-vraagt-airlines-opnieuw-om-vluchten-te-schrappen-vanwege-drukte.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6223583,
-    "slug": "arsenal-psv-uitgesteld-te-weinig-politie-door-uitvaart-koningin-elizabeth",
-    "type": "article",
-    "title": "Arsenal-PSV uitgesteld: te weinig politie door uitvaart koningin Elizabeth",
-    "subtitle": null,
-    "published_at": "2022-09-12T14:14:24+02:00",
-    "updated_at": "2022-09-12T14:45:31+02:00",
-    "media_id": "yq6xks8awapc",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6223583/arsenal-psv-uitgesteld-te-weinig-politie-door-uitvaart-koningin-elizabeth.html",
     "open_new_window": false,
     "partner": null
   }
