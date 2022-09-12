@@ -1,5 +1,28 @@
 [
   {
+    "id": 6223521,
+    "slug": "wereldwijd-bijna-50-miljoen-slachtoffers-van-moderne-slavernij",
+    "type": "article",
+    "title": "Wereldwijd bijna 50 miljoen slachtoffers van moderne slavernij",
+    "subtitle": null,
+    "published_at": "2022-09-12T10:13:41+02:00",
+    "updated_at": "2022-09-12T10:16:48+02:00",
+    "media_id": "zapxgvvaegdf",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6223521/wereldwijd-bijna-50-miljoen-slachtoffers-van-moderne-slavernij.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6223520,
     "slug": "valverde-geniet-van-eerbetoon-bij-afscheid-in-vuelta-traantje-weggepinkt",
     "type": "article",
@@ -52,19 +75,19 @@
     "title": "Water spuit uit riool Chicago na plotselinge overstromingen",
     "subtitle": "Video",
     "published_at": "2022-09-12T09:33:44+02:00",
-    "updated_at": "2022-09-12T09:33:45+02:00",
+    "updated_at": "2022-09-12T10:12:33+02:00",
     "media_id": "mdlxm2uam0wy",
     "duration": "0:30",
     "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
+      "id": 100,
+      "slug": "algemeen",
       "type": "default",
-      "name": "Buitenland",
+      "name": "Algemeen",
       "style": "nu",
       "media_id": null,
       "partner": null
     },
-    "url": "/buitenland/6223516/water-spuit-uit-riool-chicago-na-plotselinge-overstromingen.html",
+    "url": "/algemeen/6223516/water-spuit-uit-riool-chicago-na-plotselinge-overstromingen.html",
     "open_new_window": false,
     "partner": null
   },
@@ -328,7 +351,7 @@
     "title": "Geëmotioneerde Alcaraz schrijft historie op US Open: 'Heb hiervan gedroomd'",
     "subtitle": null,
     "published_at": "2022-09-12T07:16:06+02:00",
-    "updated_at": "2022-09-12T07:36:28+02:00",
+    "updated_at": "2022-09-12T10:27:36+02:00",
     "media_id": "gt1xct2antjq",
     "duration": null,
     "canonical_section": {
@@ -627,7 +650,7 @@
     "title": "Meeste gemeenten met grote azc's ervaren geen overlast van asielzoekers",
     "subtitle": null,
     "published_at": "2022-09-12T04:59:23+02:00",
-    "updated_at": "2022-09-12T09:09:13+02:00",
+    "updated_at": "2022-09-12T10:29:09+02:00",
     "media_id": "oqhxywcadczi",
     "duration": null,
     "canonical_section": {
@@ -663,29 +686,6 @@
       "partner": null
     },
     "url": "/utrecht/6223466/woningen-ontruimd-wegens-grote-brand-in-restaurant-utrecht.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6223465,
-    "slug": "superieure-de-vries-laat-zien-dat-latifi-uit-f1-moet",
-    "type": "article",
-    "title": "'Superieure De Vries laat zien dat Latifi uit F1 moet'",
-    "subtitle": "Podcast De Boordradio",
-    "published_at": "2022-09-12T02:11:53+02:00",
-    "updated_at": "2022-09-12T07:20:06+02:00",
-    "media_id": "d7txn41aiq2x",
-    "duration": null,
-    "canonical_section": {
-      "id": 1778846,
-      "slug": "nu-formule-1",
-      "type": "default",
-      "name": "NU+ Formule 1",
-      "style": "nusport",
-      "media_id": "gtmxcxnaui5m",
-      "partner": null
-    },
-    "url": "/nu-formule-1/6223465/superieure-de-vries-laat-zien-dat-latifi-uit-f1-moet.html",
     "open_new_window": false,
     "partner": null
   }
