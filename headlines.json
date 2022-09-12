@@ -1,5 +1,51 @@
 [
   {
+    "id": 6223550,
+    "slug": "ajax-met-bassey-en-zonder-wijndal-naar-liverpool-voor-champions-league-duel",
+    "type": "article",
+    "title": "Ajax met Bassey en zonder Wijndal naar Liverpool voor Champions League-duel",
+    "subtitle": null,
+    "published_at": "2022-09-12T11:50:19+02:00",
+    "updated_at": "2022-09-12T11:50:20+02:00",
+    "media_id": "jdxxh42abgs0",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6223550/ajax-met-bassey-en-zonder-wijndal-naar-liverpool-voor-champions-league-duel.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6223540,
+    "slug": "opnieuw-lange-wachtrijen-in-vertrekhallen-schiphol",
+    "type": "article",
+    "title": "Opnieuw lange wachtrijen in vertrekhallen Schiphol",
+    "subtitle": null,
+    "published_at": "2022-09-12T11:37:08+02:00",
+    "updated_at": "2022-09-12T11:41:38+02:00",
+    "media_id": "yiwx2rzagiw2",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6223540/opnieuw-lange-wachtrijen-in-vertrekhallen-schiphol.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6223536,
     "slug": "narcosis-met-thekla-reuten-geselecteerd-als-nederlandse-oscar-inzending",
     "type": "article",
@@ -52,7 +98,7 @@
     "title": "Wereldwijd bijna 50 miljoen slachtoffers van moderne slavernij",
     "subtitle": null,
     "published_at": "2022-09-12T10:13:41+02:00",
-    "updated_at": "2022-09-12T10:16:48+02:00",
+    "updated_at": "2022-09-12T11:38:07+02:00",
     "media_id": "zapxgvvaegdf",
     "duration": null,
     "canonical_section": {
@@ -489,7 +535,7 @@
     "title": "Onderzoek lost oud mysterie op: goud op Gouden Koets komt uit Suriname",
     "subtitle": null,
     "published_at": "2022-09-12T06:50:00+02:00",
-    "updated_at": "2022-09-12T08:47:09+02:00",
+    "updated_at": "2022-09-12T11:38:48+02:00",
     "media_id": "a22xf00a7tf5",
     "duration": null,
     "canonical_section": {
@@ -640,52 +686,6 @@
       "partner": null
     },
     "url": "/buitenland/6223431/proces-over-terreuraanslagen-brussel-gaat-van-start-met-voorbereidende-zitting.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6222854,
-    "slug": "surinaamse-organisaties-tevreden-dat-rutte-wacht-met-excuses-voor-slavernij",
-    "type": "article",
-    "title": "Surinaamse organisaties tevreden dat Rutte wacht met excuses voor slavernij",
-    "subtitle": null,
-    "published_at": "2022-09-12T05:28:50+02:00",
-    "updated_at": "2022-09-12T06:54:12+02:00",
-    "media_id": "qtoxx8za1g1i",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6222854/surinaamse-organisaties-tevreden-dat-rutte-wacht-met-excuses-voor-slavernij.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6223407,
-    "slug": "klimaatverandering-bereikt-kantelpunten-bij-2-graden-opwarming",
-    "type": "article",
-    "title": "Klimaatverandering bereikt kantelpunten bij 2 graden opwarming",
-    "subtitle": "NU+",
-    "published_at": "2022-09-12T05:27:28+02:00",
-    "updated_at": "2022-09-12T09:15:29+02:00",
-    "media_id": "8skxsgsavbiq",
-    "duration": null,
-    "canonical_section": {
-      "id": 1778899,
-      "slug": "nu-klimaat",
-      "type": "region",
-      "name": "NU+ Klimaat",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/nu-klimaat/6223407/klimaatverandering-bereikt-kantelpunten-bij-2-graden-opwarming.html",
     "open_new_window": false,
     "partner": null
   }
