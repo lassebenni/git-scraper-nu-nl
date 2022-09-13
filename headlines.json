@@ -1,5 +1,51 @@
 [
   {
+    "id": 6223566,
+    "slug": "tweede-kamer-stemt-in-met-verbod-op-pedohandboek",
+    "type": "article",
+    "title": "Tweede Kamer stemt in met verbod op pedohandboek",
+    "subtitle": null,
+    "published_at": "2022-09-13T15:43:39+02:00",
+    "updated_at": "2022-09-13T15:54:37+02:00",
+    "media_id": "j9exzgjani26",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771438,
+      "slug": "tech",
+      "type": "default",
+      "name": "Tech",
+      "style": "nutech",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/tech/6223566/tweede-kamer-stemt-in-met-verbod-op-pedohandboek.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6223801,
+    "slug": "lichtstad-parijs-dooft-verlichting-eiffeltoren-voortaan-een-uur-eerder",
+    "type": "article",
+    "title": "Lichtstad Parijs dooft verlichting Eiffeltoren voortaan een uur eerder",
+    "subtitle": null,
+    "published_at": "2022-09-13T15:43:32+02:00",
+    "updated_at": "2022-09-13T15:53:20+02:00",
+    "media_id": "am1x8bpa4ril",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6223801/lichtstad-parijs-dooft-verlichting-eiffeltoren-voortaan-een-uur-eerder.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6223795,
     "slug": "minister-kuipers-haalt-streep-door-wet-die-coronamelder-app-heractiveert",
     "type": "article",
@@ -75,7 +121,7 @@
     "title": "Weer lange rijen op Schiphol: 'Het is schandalig'",
     "subtitle": "Video",
     "published_at": "2022-09-13T14:42:05+02:00",
-    "updated_at": "2022-09-13T14:43:31+02:00",
+    "updated_at": "2022-09-13T15:27:57+02:00",
     "media_id": "k8txkepazx3g",
     "duration": "1:25",
     "canonical_section": {
@@ -604,7 +650,7 @@
     "title": "Defensie-expert Colijn legt uit hoe milbloggers inkijk geven in Poetins leger",
     "subtitle": null,
     "published_at": "2022-09-13T10:11:38+02:00",
-    "updated_at": "2022-09-13T10:56:37+02:00",
+    "updated_at": "2022-09-13T15:50:49+02:00",
     "media_id": "yvuxt2vagmvv",
     "duration": null,
     "canonical_section": {
@@ -640,52 +686,6 @@
       "partner": null
     },
     "url": "/economie/6223721/fiod-en-politie-doen-inval-in-woning-jumbo-topman-frits-van-eerd.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6223719,
-    "slug": "vlammen-slaan-uit-raket-jeff-bezos-na-motorproblemen",
-    "type": "video",
-    "title": "Vlammen slaan uit raket Jeff Bezos na motorproblemen",
-    "subtitle": "Video",
-    "published_at": "2022-09-13T10:00:37+02:00",
-    "updated_at": "2022-09-13T11:07:33+02:00",
-    "media_id": "7l2x6wva0hf2",
-    "duration": "0:58",
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6223719/vlammen-slaan-uit-raket-jeff-bezos-na-motorproblemen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6223717,
-    "slug": "geen-cl-hymne-bij-liverpool-ajax-uit-respect-voor-overleden-koningin-elizabeth",
-    "type": "article",
-    "title": "Geen CL-hymne bij Liverpool-Ajax uit respect voor overleden koningin Elizabeth",
-    "subtitle": null,
-    "published_at": "2022-09-13T09:59:48+02:00",
-    "updated_at": "2022-09-13T14:09:07+02:00",
-    "media_id": "j12xohya8r4d",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772488,
-      "slug": "champions-league",
-      "type": "default",
-      "name": "Champions League",
-      "style": "nusport",
-      "media_id": "fkdxrdfanwfa",
-      "partner": null
-    },
-    "url": "/champions-league/6223717/geen-cl-hymne-bij-liverpool-ajax-uit-respect-voor-overleden-koningin-elizabeth.html",
     "open_new_window": false,
     "partner": null
   }
