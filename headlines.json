@@ -1,13 +1,36 @@
 [
   {
+    "id": 6223809,
+    "slug": "aantal-coronagevallen-blijft-licht-stijgen-rivm-trekt-nog-geen-conclusies",
+    "type": "article",
+    "title": "Aantal coronagevallen blijft licht stijgen, RIVM trekt nog geen conclusies",
+    "subtitle": null,
+    "published_at": "2022-09-13T16:24:35+02:00",
+    "updated_at": "2022-09-13T16:24:36+02:00",
+    "media_id": "eh9x6l1arrur",
+    "duration": null,
+    "canonical_section": {
+      "id": 1778528,
+      "slug": "coronavirus",
+      "type": "default",
+      "name": "Coronavirus",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/coronavirus/6223809/aantal-coronagevallen-blijft-licht-stijgen-rivm-trekt-nog-geen-conclusies.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6223810,
     "slug": "timelapse-toont-hoe-deken-van-rook-vancouver-bedekt-na-bosbrand",
     "type": "video",
     "title": "Timelapse toont hoe deken van rook Vancouver bedekt na bosbrand",
     "subtitle": "Video",
     "published_at": "2022-09-13T16:13:12+02:00",
-    "updated_at": "2022-09-13T16:13:14+02:00",
-    "media_id": "1m4xzahaz2zb",
+    "updated_at": "2022-09-13T16:16:36+02:00",
+    "media_id": "l17xbjhanwrl",
     "duration": "0:41",
     "canonical_section": {
       "id": 1771436,
@@ -305,7 +328,7 @@
     "title": "Politie heeft stroomstootwapen sinds invoering ruim 1.700 keer ingezet",
     "subtitle": null,
     "published_at": "2022-09-13T13:12:37+02:00",
-    "updated_at": "2022-09-13T13:28:00+02:00",
+    "updated_at": "2022-09-13T16:24:22+02:00",
     "media_id": "hgjxu3napikc",
     "duration": null,
     "canonical_section": {
@@ -663,29 +686,6 @@
       "partner": null
     },
     "url": "/voetbal/6223730/dijks-moet-debuut-voor-vitesse-met-weken-uitstellen-wegens-knieoperatie.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6223654,
-    "slug": "defensie-expert-colijn-legt-uit-hoe-milbloggers-inkijk-geven-in-poetins-leger",
-    "type": "article",
-    "title": "Defensie-expert Colijn legt uit hoe milbloggers inkijk geven in Poetins leger",
-    "subtitle": null,
-    "published_at": "2022-09-13T10:11:38+02:00",
-    "updated_at": "2022-09-13T15:50:49+02:00",
-    "media_id": "yvuxt2vagmvv",
-    "duration": null,
-    "canonical_section": {
-      "id": 1778980,
-      "slug": "spanningen-oekraine",
-      "type": "default",
-      "name": "Oorlog in Oekraïne",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/spanningen-oekraine/6223654/defensie-expert-colijn-legt-uit-hoe-milbloggers-inkijk-geven-in-poetins-leger.html",
     "open_new_window": false,
     "partner": null
   }
