@@ -1,5 +1,28 @@
 [
   {
+    "id": 6223900,
+    "slug": "sane-zet-bayern-na-fraaie-solo-op-2-0-tegen-fc-barcelona",
+    "type": "video",
+    "title": "Sané zet Bayern na fraaie solo op 2-0 tegen FC Barcelona",
+    "subtitle": "Video",
+    "published_at": "2022-09-13T22:34:41+02:00",
+    "updated_at": "2022-09-13T22:35:13+02:00",
+    "media_id": "9v2xsrvarzmg",
+    "duration": "1:32",
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6223900/sane-zet-bayern-na-fraaie-solo-op-2-0-tegen-fc-barcelona.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6223896,
     "slug": "kist-koningin-elizabeth-in-stromende-regen-aangekomen-bij-buckingham-palace",
     "type": "article",
@@ -415,12 +438,12 @@
   },
   {
     "id": 6223855,
-    "slug": "ajax-ontsnapt-ook-na-rust-aan-nieuwe-achterstand-tegen-liverpool",
+    "slug": "ajax-komt-in-slotfase-op-achterstand-tegen-liverpool",
     "type": "article",
-    "title": "Ajax ontsnapt ook na rust aan nieuwe achterstand tegen Liverpool",
+    "title": "Ajax komt in slotfase op achterstand tegen Liverpool",
     "subtitle": "Liveblog CL",
     "published_at": "2022-09-13T18:16:14+02:00",
-    "updated_at": "2022-09-13T22:25:58+02:00",
+    "updated_at": "2022-09-13T22:47:49+02:00",
     "media_id": "jlkxedsaxqc7",
     "duration": null,
     "canonical_section": {
@@ -432,7 +455,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6223855/ajax-ontsnapt-ook-na-rust-aan-nieuwe-achterstand-tegen-liverpool.html",
+    "url": "/voetbal/6223855/ajax-komt-in-slotfase-op-achterstand-tegen-liverpool.html",
     "open_new_window": false,
     "partner": null
   },
@@ -663,29 +686,6 @@
       "partner": null
     },
     "url": "/sport-overig/6223821/van-den-hurk-stopt-al-na-vier-maanden-als-directeur-honkbalbond.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6223822,
-    "slug": "voormalig-parijs-roubaix-winnaar-niki-terpstra-stopt-na-dit-jaar-met-wielrennen",
-    "type": "article",
-    "title": "Voormalig Parijs-Roubaix-winnaar Niki Terpstra stopt na dit jaar met wielrennen",
-    "subtitle": null,
-    "published_at": "2022-09-13T16:49:07+02:00",
-    "updated_at": "2022-09-13T20:36:50+02:00",
-    "media_id": "gzlxl04asrzi",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772339,
-      "slug": "wielrennen",
-      "type": "default",
-      "name": "Wielrennen",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/wielrennen/6223822/voormalig-parijs-roubaix-winnaar-niki-terpstra-stopt-na-dit-jaar-met-wielrennen.html",
     "open_new_window": false,
     "partner": null
   }
