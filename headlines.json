@@ -1,5 +1,28 @@
 [
   {
+    "id": 6223896,
+    "slug": "kist-koningin-elizabeth-in-stromende-regen-aangekomen-bij-buckingham-palace",
+    "type": "article",
+    "title": "Kist koningin Elizabeth in stromende regen aangekomen bij Buckingham Palace",
+    "subtitle": null,
+    "published_at": "2022-09-13T21:56:33+02:00",
+    "updated_at": "2022-09-13T22:03:07+02:00",
+    "media_id": "qyuxwj5akdks",
+    "duration": null,
+    "canonical_section": {
+      "id": 1778775,
+      "slug": "koningshuis",
+      "type": "default",
+      "name": "Koningshuis",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/koningshuis/6223896/kist-koningin-elizabeth-in-stromende-regen-aangekomen-bij-buckingham-palace.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6223894,
     "slug": "indiase-brandweer-redt-hotelgasten-bij-dodelijke-brand",
     "type": "video",
@@ -29,7 +52,7 @@
     "title": "Oekraïne heroverde 6.000 vierkante kilometer volgens Zelensky",
     "subtitle": "Overzicht",
     "published_at": "2022-09-13T21:45:02+02:00",
-    "updated_at": "2022-09-13T21:45:49+02:00",
+    "updated_at": "2022-09-13T21:52:59+02:00",
     "media_id": "6nux92na10st",
     "duration": null,
     "canonical_section": {
@@ -254,12 +277,12 @@
   },
   {
     "id": 6223865,
-    "slug": "nederland-dankzij-griekspoor-op-voorsprong-in-davis-cup-duel-met-kazachstan",
+    "slug": "nederland-begint-met-overwinning-op-kazachstan-aan-davis-cup-finals",
     "type": "article",
-    "title": "Nederland dankzij Griekspoor op voorsprong in Davis Cup-duel met Kazachstan",
+    "title": "Nederland begint met overwinning op Kazachstan aan Davis Cup Finals",
     "subtitle": null,
     "published_at": "2022-09-13T19:35:10+02:00",
-    "updated_at": "2022-09-13T20:13:29+02:00",
+    "updated_at": "2022-09-13T22:09:28+02:00",
     "media_id": "bizx0fia2y8r",
     "duration": null,
     "canonical_section": {
@@ -271,7 +294,7 @@
       "media_id": "m1oxohpan0gq",
       "partner": null
     },
-    "url": "/tennis/6223865/nederland-dankzij-griekspoor-op-voorsprong-in-davis-cup-duel-met-kazachstan.html",
+    "url": "/tennis/6223865/nederland-begint-met-overwinning-op-kazachstan-aan-davis-cup-finals.html",
     "open_new_window": false,
     "partner": null
   },
@@ -392,13 +415,13 @@
   },
   {
     "id": 6223855,
-    "slug": "pasveer-behoedt-ajax-voor-nieuwe-achterstand-tegen-liverpool",
+    "slug": "ajax-verdedigt-na-rust-1-1-tegen-liverpool-op-anfield",
     "type": "article",
-    "title": "Pasveer behoedt Ajax voor nieuwe achterstand tegen Liverpool",
+    "title": "Ajax verdedigt na rust 1-1 tegen Liverpool op Anfield",
     "subtitle": "Liveblog CL",
     "published_at": "2022-09-13T18:16:14+02:00",
-    "updated_at": "2022-09-13T21:44:04+02:00",
-    "media_id": "ffax5vyaemm1",
+    "updated_at": "2022-09-13T22:03:08+02:00",
+    "media_id": "brpxrlzadsgm",
     "duration": null,
     "canonical_section": {
       "id": 1772338,
@@ -409,7 +432,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6223855/pasveer-behoedt-ajax-voor-nieuwe-achterstand-tegen-liverpool.html",
+    "url": "/voetbal/6223855/ajax-verdedigt-na-rust-1-1-tegen-liverpool-op-anfield.html",
     "open_new_window": false,
     "partner": null
   },
@@ -663,29 +686,6 @@
       "partner": null
     },
     "url": "/wielrennen/6223822/voormalig-parijs-roubaix-winnaar-niki-terpstra-stopt-na-dit-jaar-met-wielrennen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6223809,
-    "slug": "aantal-coronagevallen-blijft-licht-stijgen-rivm-trekt-nog-geen-conclusies",
-    "type": "article",
-    "title": "Aantal coronagevallen blijft licht stijgen, RIVM trekt nog geen conclusies",
-    "subtitle": null,
-    "published_at": "2022-09-13T16:24:35+02:00",
-    "updated_at": "2022-09-13T16:24:36+02:00",
-    "media_id": "eh9x6l1arrur",
-    "duration": null,
-    "canonical_section": {
-      "id": 1778528,
-      "slug": "coronavirus",
-      "type": "default",
-      "name": "Coronavirus",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/coronavirus/6223809/aantal-coronagevallen-blijft-licht-stijgen-rivm-trekt-nog-geen-conclusies.html",
     "open_new_window": false,
     "partner": null
   }
