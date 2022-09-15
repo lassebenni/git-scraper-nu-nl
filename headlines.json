@@ -1,12 +1,35 @@
 [
   {
-    "id": 6223989,
-    "slug": "discriminatie-belastingdienst-bevestigd-toeslagenouders-staan-sterker-bij-rechter",
+    "id": 6224247,
+    "slug": "schiphol-baas-dick-benschop-stapt-op-na-chaos-op-luchthaven",
     "type": "article",
-    "title": "Discriminatie Belastingdienst bevestigd: toeslagenouders staan sterker bij rechter",
+    "title": "Schiphol-baas Dick Benschop stapt op na chaos op luchthaven",
+    "subtitle": null,
+    "published_at": "2022-09-15T12:44:23+02:00",
+    "updated_at": "2022-09-15T12:49:07+02:00",
+    "media_id": "ed3xb3banmrq",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6224247/schiphol-baas-dick-benschop-stapt-op-na-chaos-op-luchthaven.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6223989,
+    "slug": "discriminatie-belastingdienst-bevestigd-toeslagenouders-staan-sterker",
+    "type": "article",
+    "title": "Discriminatie Belastingdienst bevestigd: toeslagenouders staan sterker",
     "subtitle": null,
     "published_at": "2022-09-15T12:21:41+02:00",
-    "updated_at": "2022-09-15T12:32:47+02:00",
+    "updated_at": "2022-09-15T12:49:31+02:00",
     "media_id": "0cjxrlba85lf",
     "duration": null,
     "canonical_section": {
@@ -18,7 +41,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/binnenland/6223989/discriminatie-belastingdienst-bevestigd-toeslagenouders-staan-sterker-bij-rechter.html",
+    "url": "/binnenland/6223989/discriminatie-belastingdienst-bevestigd-toeslagenouders-staan-sterker.html",
     "open_new_window": false,
     "partner": null
   },
@@ -663,29 +686,6 @@
       "partner": null
     },
     "url": "/voetbal/6224161/bekijk-de-champions-league-samenvattingen-van-woensdag.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6224151,
-    "slug": "aantal-werklozen-in-augustus-toegenomen",
-    "type": "article",
-    "title": "Aantal werklozen in augustus toegenomen",
-    "subtitle": null,
-    "published_at": "2022-09-15T07:32:22+02:00",
-    "updated_at": "2022-09-15T09:46:46+02:00",
-    "media_id": "dssx4r5ahil0",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6224151/aantal-werklozen-in-augustus-toegenomen.html",
     "open_new_window": false,
     "partner": null
   }
