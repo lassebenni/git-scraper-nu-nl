@@ -1,5 +1,51 @@
 [
   {
+    "id": 6224446,
+    "slug": "weekendweerbericht-herfst-komt-op-gang-met-buien-en-lagere-temperaturen",
+    "type": "article",
+    "title": "Weekendweerbericht: Herfst komt op gang met buien en lagere temperaturen",
+    "subtitle": null,
+    "published_at": "2022-09-16T13:43:55+02:00",
+    "updated_at": "2022-09-16T13:43:56+02:00",
+    "media_id": "394x6p8ak4fx",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6224446/weekendweerbericht-herfst-komt-op-gang-met-buien-en-lagere-temperaturen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6224454,
+    "slug": "npo-na-item-ongehoord-nederland-over-vermeend-zwart-racisme-grens-bereikt",
+    "type": "article",
+    "title": "NPO na item Ongehoord Nederland over vermeend zwart racisme: 'Grens bereikt'",
+    "subtitle": null,
+    "published_at": "2022-09-16T13:39:48+02:00",
+    "updated_at": "2022-09-16T13:39:49+02:00",
+    "media_id": "p3axcs9a1p9x",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771675,
+      "slug": "media",
+      "type": "default",
+      "name": "Media",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/media/6224454/npo-na-item-ongehoord-nederland-over-vermeend-zwart-racisme-grens-bereikt.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6224426,
     "slug": "simons-gravenberch-en-brobbey-nog-in-de-race-voor-golden-boy-award",
     "type": "article",
@@ -640,52 +686,6 @@
       "partner": null
     },
     "url": "/cultuur-overig/6224233/cultuursector-wil-hoge-energierekening-niet-bij-bezoeker-maar-bij-het-rijk-leggen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6224378,
-    "slug": "oekraiense-militairen-onderzoeken-massagraf-izium",
-    "type": "video",
-    "title": "Oekraïense militairen onderzoeken massagraf Izium",
-    "subtitle": "Video",
-    "published_at": "2022-09-16T07:53:42+02:00",
-    "updated_at": "2022-09-16T08:27:48+02:00",
-    "media_id": "8j7x0ciaayrd",
-    "duration": "0:50",
-    "canonical_section": {
-      "id": 1778980,
-      "slug": "spanningen-oekraine",
-      "type": "default",
-      "name": "Oorlog in Oekraïne",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/spanningen-oekraine/6224378/oekraiense-militairen-onderzoeken-massagraf-izium.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6224377,
-    "slug": "zahavi-uit-selectie-israel-omdat-hij-geen-eigen-hotelkamer-meer-mag",
-    "type": "article",
-    "title": "Zahavi uit selectie Israël omdat hij geen eigen hotelkamer meer mag",
-    "subtitle": null,
-    "published_at": "2022-09-16T07:52:35+02:00",
-    "updated_at": "2022-09-16T13:22:30+02:00",
-    "media_id": "62cxqo3agxji",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6224377/zahavi-uit-selectie-israel-omdat-hij-geen-eigen-hotelkamer-meer-mag.html",
     "open_new_window": false,
     "partner": null
   }
