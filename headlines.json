@@ -1,13 +1,36 @@
 [
   {
+    "id": 6224684,
+    "slug": "oktoberfest-terug-in-munchen-na-twee-jaar-corona",
+    "type": "video",
+    "title": "Oktoberfest terug in München na twee jaar corona",
+    "subtitle": "Video",
+    "published_at": "2022-09-17T17:46:09+02:00",
+    "updated_at": "2022-09-17T17:46:56+02:00",
+    "media_id": "ik4xhnpanvjg",
+    "duration": "0:30",
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6224684/oktoberfest-terug-in-munchen-na-twee-jaar-corona.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6224683,
     "slug": "bayern-verliest-van-augsburg-en-beleeft-slechtste-bundesliga-reeks-in-21-jaar",
     "type": "article",
     "title": "Bayern verliest van Augsburg en beleeft slechtste Bundesliga-reeks in 21 jaar",
     "subtitle": null,
     "published_at": "2022-09-17T17:29:44+02:00",
-    "updated_at": "2022-09-17T17:32:23+02:00",
-    "media_id": "twwx438atlyk",
+    "updated_at": "2022-09-17T17:37:11+02:00",
+    "media_id": "y54xrhya5bv8",
     "duration": null,
     "canonical_section": {
       "id": 1772338,
@@ -52,7 +75,7 @@
     "title": "Polen opent nieuw kanaal om Russische wateren te omzeilen",
     "subtitle": null,
     "published_at": "2022-09-17T16:47:11+02:00",
-    "updated_at": "2022-09-17T17:17:00+02:00",
+    "updated_at": "2022-09-17T17:43:22+02:00",
     "media_id": "9h7xwcdam23x",
     "duration": null,
     "canonical_section": {
@@ -144,8 +167,8 @@
     "title": "Manchester City rekent na bizarre karatetrap simpel af met tiental Wolverhampton",
     "subtitle": null,
     "published_at": "2022-09-17T15:22:59+02:00",
-    "updated_at": "2022-09-17T16:23:07+02:00",
-    "media_id": "oxwxvs4agpjc",
+    "updated_at": "2022-09-17T17:36:39+02:00",
+    "media_id": "2mnxo7qa0yuk",
     "duration": null,
     "canonical_section": {
       "id": 1772338,
@@ -663,29 +686,6 @@
       "partner": null
     },
     "url": "/buitenland/6224608/politie-sleurt-man-die-kist-elizabeth-aanraakte-van-podium.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6224607,
-    "slug": "iconische-hollywood-letters-krijgen-grote-opknapbeurt",
-    "type": "article",
-    "title": "Iconische Hollywood-letters krijgen grote opknapbeurt",
-    "subtitle": null,
-    "published_at": "2022-09-17T09:09:19+02:00",
-    "updated_at": "2022-09-17T09:38:20+02:00",
-    "media_id": "ncixdsjaasxw",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772242,
-      "slug": "entertainment",
-      "type": "default",
-      "name": "Media en Cultuur",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/entertainment/6224607/iconische-hollywood-letters-krijgen-grote-opknapbeurt.html",
     "open_new_window": false,
     "partner": null
   }
