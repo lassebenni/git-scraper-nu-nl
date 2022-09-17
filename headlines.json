@@ -1,5 +1,51 @@
 [
   {
+    "id": 6224212,
+    "slug": "scouten-en-samenstellen-de-curator-is-de-kunstenaar-achter-het-museum",
+    "type": "article",
+    "title": "Scouten en samenstellen: de curator is de kunstenaar achter het museum",
+    "subtitle": null,
+    "published_at": "2022-09-17T06:55:54+02:00",
+    "updated_at": "2022-09-17T06:55:55+02:00",
+    "media_id": "wd2x5weapxjt",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772075,
+      "slug": "cultuur-overig",
+      "type": "default",
+      "name": "Boek & Cultuur",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/cultuur-overig/6224212/scouten-en-samenstellen-de-curator-is-de-kunstenaar-achter-het-museum.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6224583,
+    "slug": "justitie-vs-in-hoger-beroep-om-toegang-geheime-documenten-uit-woning-trump",
+    "type": "article",
+    "title": "Justitie VS in hoger beroep om toegang geheime documenten uit woning Trump",
+    "subtitle": null,
+    "published_at": "2022-09-17T06:42:29+02:00",
+    "updated_at": "2022-09-17T06:42:30+02:00",
+    "media_id": "53ax84xab8qt",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6224583/justitie-vs-in-hoger-beroep-om-toegang-geheime-documenten-uit-woning-trump.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6224582,
     "slug": "de-woordle-van-vandaag-raad-jij-het-woord-van-de-dag",
     "type": "article",
@@ -190,7 +236,7 @@
     "title": "Musical The Phantom of the Opera stopt na 35 jaar op Broadway",
     "subtitle": null,
     "published_at": "2022-09-17T02:50:45+02:00",
-    "updated_at": "2022-09-17T02:50:46+02:00",
+    "updated_at": "2022-09-17T07:03:02+02:00",
     "media_id": "micxr59askhz",
     "duration": null,
     "canonical_section": {
@@ -640,52 +686,6 @@
       "partner": null
     },
     "url": "/economie/6224533/jumbo-baas-van-eerd-moet-als-verdachte-langer-in-cel-blijven-in-witwaszaak.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6224529,
-    "slug": "jakobsen-verslaat-groenewegen-in-vlaanderen-bouwman-wint-in-slowakije",
-    "type": "article",
-    "title": "Jakobsen verslaat Groenewegen in Vlaanderen, Bouwman wint in Slowakije",
-    "subtitle": null,
-    "published_at": "2022-09-16T18:12:43+02:00",
-    "updated_at": "2022-09-16T18:17:38+02:00",
-    "media_id": "87ux4n4axx6i",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772339,
-      "slug": "wielrennen",
-      "type": "default",
-      "name": "Wielrennen",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/wielrennen/6224529/jakobsen-verslaat-groenewegen-in-vlaanderen-bouwman-wint-in-slowakije.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6224526,
-    "slug": "david-beckham-staat-uren-in-de-rij-voor-afscheid-koningin-elizabeth",
-    "type": "video",
-    "title": "David Beckham staat uren in de rij voor afscheid koningin Elizabeth",
-    "subtitle": "Video",
-    "published_at": "2022-09-16T18:06:26+02:00",
-    "updated_at": "2022-09-16T18:06:26+02:00",
-    "media_id": "v6gxlrsa9jr2",
-    "duration": "0:51",
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6224526/david-beckham-staat-uren-in-de-rij-voor-afscheid-koningin-elizabeth.html",
     "open_new_window": false,
     "partner": null
   }
