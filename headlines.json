@@ -1,5 +1,51 @@
 [
   {
+    "id": 6224735,
+    "slug": "de-mooiste-fotos-van-de-derde-triomf-van-van-dijk-op-het-wk-tijdrijden",
+    "type": "article",
+    "title": "De mooiste foto's van de derde triomf van Van Dijk op het WK tijdrijden",
+    "subtitle": "In beeld",
+    "published_at": "2022-09-18T08:04:39+02:00",
+    "updated_at": "2022-09-18T08:04:40+02:00",
+    "media_id": "p37xdouavcpr",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772339,
+      "slug": "wielrennen",
+      "type": "default",
+      "name": "Wielrennen",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/wielrennen/6224735/de-mooiste-fotos-van-de-derde-triomf-van-van-dijk-op-het-wk-tijdrijden.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6224520,
+    "slug": "niet-voor-de-storm-maar-midden-in-de-kostencrisis",
+    "type": "article",
+    "title": "Niet 'voor de storm', maar midden in de kostencrisis",
+    "subtitle": "Van de hoofdredactie",
+    "published_at": "2022-09-18T08:03:26+02:00",
+    "updated_at": "2022-09-18T08:09:11+02:00",
+    "media_id": "m1oxnqqarqi3",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772069,
+      "slug": "blog",
+      "type": "default",
+      "name": "Van de hoofdredactie",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/blog/6224520/niet-voor-de-storm-maar-midden-in-de-kostencrisis.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6224734,
     "slug": "scorende-memphis-mist-wedstrijdritme-blij-met-de-kans-die-ik-kreeg",
     "type": "article",
@@ -52,7 +98,7 @@
     "title": "Zorgen om humanitaire situatie Haïti wegens gewelddadige protesten",
     "subtitle": null,
     "published_at": "2022-09-18T07:01:19+02:00",
-    "updated_at": "2022-09-18T07:15:41+02:00",
+    "updated_at": "2022-09-18T08:07:01+02:00",
     "media_id": "065xcjwakeoi",
     "duration": null,
     "canonical_section": {
@@ -236,7 +282,7 @@
     "title": "Van Dijk prolongeert wereldtitel tijdrijden in Australië, Van Vleuten stelt teleur",
     "subtitle": null,
     "published_at": "2022-09-18T04:30:52+02:00",
-    "updated_at": "2022-09-18T07:27:01+02:00",
+    "updated_at": "2022-09-18T07:58:21+02:00",
     "media_id": "bodxakbahlvz",
     "duration": null,
     "canonical_section": {
@@ -640,52 +686,6 @@
       "partner": null
     },
     "url": "/buitenland/6224702/zware-regenval-in-kosovo-zorgt-voor-overstromingen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6224699,
-    "slug": "as-roma-verdediger-karsdorp-lang-aan-de-kant-na-afscheuren-meniscus",
-    "type": "article",
-    "title": "AS Roma-verdediger Karsdorp lang aan de kant na afscheuren meniscus",
-    "subtitle": null,
-    "published_at": "2022-09-17T19:39:56+02:00",
-    "updated_at": "2022-09-17T20:08:24+02:00",
-    "media_id": "x97xo9uak5ag",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6224699/as-roma-verdediger-karsdorp-lang-aan-de-kant-na-afscheuren-meniscus.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6224694,
-    "slug": "fc-den-bosch-maakt-einde-aan-dramatische-reeks-en-verlaat-laatste-plek-kkd",
-    "type": "article",
-    "title": "FC Den Bosch maakt einde aan dramatische reeks en verlaat laatste plek KKD",
-    "subtitle": null,
-    "published_at": "2022-09-17T19:07:53+02:00",
-    "updated_at": "2022-09-17T19:12:53+02:00",
-    "media_id": "9bkxddca2cdz",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6224694/fc-den-bosch-maakt-einde-aan-dramatische-reeks-en-verlaat-laatste-plek-kkd.html",
     "open_new_window": false,
     "partner": null
   }
