@@ -1,5 +1,28 @@
 [
   {
+    "id": 6224925,
+    "slug": "brug-op-puerto-rico-wordt-meegesleurd-tijdens-orkaan",
+    "type": "video",
+    "title": "Brug op Puerto Rico wordt meegesleurd tijdens orkaan",
+    "subtitle": "Video",
+    "published_at": "2022-09-19T13:29:23+02:00",
+    "updated_at": "2022-09-19T13:29:24+02:00",
+    "media_id": "jdnxht2aghtf",
+    "duration": "0:45",
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6224925/brug-op-puerto-rico-wordt-meegesleurd-tijdens-orkaan.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6224917,
     "slug": "zo-werd-de-kist-van-elizabeth-naar-westminster-abbey-gedragen",
     "type": "video",
@@ -8,7 +31,7 @@
     "published_at": "2022-09-19T12:47:37+02:00",
     "updated_at": "2022-09-19T12:47:38+02:00",
     "media_id": "0s6xurnavnls",
-    "duration": "1:04",
+    "duration": "0:50",
     "canonical_section": {
       "id": 1778775,
       "slug": "koningshuis",
@@ -29,7 +52,7 @@
     "title": "Europese broodprijzen stijgen: Nederlands bammetje bijna 10 procent duurder",
     "subtitle": null,
     "published_at": "2022-09-19T12:38:17+02:00",
-    "updated_at": "2022-09-19T12:38:18+02:00",
+    "updated_at": "2022-09-19T13:24:34+02:00",
     "media_id": "3cgxzbwalmu2",
     "duration": null,
     "canonical_section": {
@@ -52,7 +75,7 @@
     "title": "Tanken was in 2022 nog niet zo goedkoop als nu",
     "subtitle": null,
     "published_at": "2022-09-19T12:14:21+02:00",
-    "updated_at": "2022-09-19T12:40:48+02:00",
+    "updated_at": "2022-09-19T13:23:03+02:00",
     "media_id": "0kxx8qfad8w0",
     "duration": null,
     "canonical_section": {
@@ -98,7 +121,7 @@
     "title": "Twee minuten stilte voor Elizabeth, kist richting laatste rustplaats",
     "subtitle": null,
     "published_at": "2022-09-19T11:45:45+02:00",
-    "updated_at": "2022-09-19T13:08:50+02:00",
+    "updated_at": "2022-09-19T13:29:37+02:00",
     "media_id": "q0kxtvvaekor",
     "duration": null,
     "canonical_section": {
@@ -259,7 +282,7 @@
     "title": "Zo ziet het afscheid van koningin Elizabeth II eruit",
     "subtitle": "In beeld",
     "published_at": "2022-09-19T10:44:40+02:00",
-    "updated_at": "2022-09-19T13:04:50+02:00",
+    "updated_at": "2022-09-19T13:12:15+02:00",
     "media_id": "inpxo55a9k0o",
     "duration": null,
     "canonical_section": {
@@ -369,13 +392,13 @@
   },
   {
     "id": 6224851,
-    "slug": "kist-koningin-elizabeth-verlaat-westminster-abbey",
+    "slug": "kist-koningin-elizabeth-wordt-langs-publiek-geleid",
     "type": "article",
-    "title": "Kist koningin Elizabeth verlaat Westminster Abbey",
+    "title": "Kist koningin Elizabeth wordt langs publiek geleid",
     "subtitle": "Liveblog",
     "published_at": "2022-09-19T09:18:24+02:00",
-    "updated_at": "2022-09-19T13:10:40+02:00",
-    "media_id": "xjsxjbqaqueo",
+    "updated_at": "2022-09-19T13:22:58+02:00",
+    "media_id": "25rxbk0a4992",
     "duration": null,
     "canonical_section": {
       "id": 1778775,
@@ -386,7 +409,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/koningshuis/6224851/kist-koningin-elizabeth-verlaat-westminster-abbey.html",
+    "url": "/koningshuis/6224851/kist-koningin-elizabeth-wordt-langs-publiek-geleid.html",
     "open_new_window": false,
     "partner": null
   },
@@ -663,29 +686,6 @@
       "partner": null
     },
     "url": "/buitenland/6224840/boer-in-gaza-vindt-eeuwenoud-byzantijns-mozaiek-bij-planten-van-boom.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6224447,
-    "slug": "nieuwe-prikronde-van-start-dit-is-aangepast-aan-het-coronavaccin",
-    "type": "video",
-    "title": "Nieuwe prikronde van start: dit is aangepast aan het coronavaccin",
-    "subtitle": "Video",
-    "published_at": "2022-09-19T05:31:39+02:00",
-    "updated_at": "2022-09-19T11:49:54+02:00",
-    "media_id": "z0jxzgta5ee1",
-    "duration": "1:35",
-    "canonical_section": {
-      "id": 1778528,
-      "slug": "coronavirus",
-      "type": "default",
-      "name": "Coronavirus",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/coronavirus/6224447/nieuwe-prikronde-van-start-dit-is-aangepast-aan-het-coronavaccin.html",
     "open_new_window": false,
     "partner": null
   }
