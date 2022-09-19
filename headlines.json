@@ -1,5 +1,28 @@
 [
   {
+    "id": 6224998,
+    "slug": "koningin-elizabeth-aangekomen-op-laatste-rustplek",
+    "type": "video",
+    "title": "Koningin Elizabeth aangekomen op laatste rustplek",
+    "subtitle": "Video",
+    "published_at": "2022-09-19T20:12:02+02:00",
+    "updated_at": "2022-09-19T20:12:03+02:00",
+    "media_id": "39dxmngaf7gx",
+    "duration": "0:52",
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6224998/koningin-elizabeth-aangekomen-op-laatste-rustplek.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6224995,
     "slug": "janne-schra-wint-edison-jazz-voor-nederlandstalige-plaat-in-de-regen",
     "type": "article",
@@ -29,7 +52,7 @@
     "title": "Kabinet en energiebedrijven eens over prijsplafond, rekening in november al omlaag",
     "subtitle": null,
     "published_at": "2022-09-19T19:43:54+02:00",
-    "updated_at": "2022-09-19T19:51:43+02:00",
+    "updated_at": "2022-09-19T20:06:50+02:00",
     "media_id": "42tx5srao9v3",
     "duration": null,
     "canonical_section": {
@@ -663,29 +686,6 @@
       "partner": null
     },
     "url": "/achterklap/6224914/mishandeling-na-ruzie-met-lil-kleine-dit-weten-we-over-het-incident.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6224922,
-    "slug": "baumgartl-maakt-rentree-in-bundesliga-hier-droomde-ik-tijdens-de-chemos-van",
-    "type": "article",
-    "title": "Baumgartl maakt rentree in Bundesliga: 'Hier droomde ik tijdens de chemo's van'",
-    "subtitle": null,
-    "published_at": "2022-09-19T13:47:28+02:00",
-    "updated_at": "2022-09-19T14:01:30+02:00",
-    "media_id": "d72x0ydajhr5",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6224922/baumgartl-maakt-rentree-in-bundesliga-hier-droomde-ik-tijdens-de-chemos-van.html",
     "open_new_window": false,
     "partner": null
   }
