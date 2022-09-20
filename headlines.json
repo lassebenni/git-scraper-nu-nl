@@ -1,5 +1,28 @@
 [
   {
+    "id": 6225234,
+    "slug": "wat-zei-willem-alexander-nou-echt-de-troonrede-in-begrijpelijke-taal",
+    "type": "article",
+    "title": "Wat zei Willem-Alexander nou echt? De troonrede in begrijpelijke taal",
+    "subtitle": null,
+    "published_at": "2022-09-20T21:09:56+02:00",
+    "updated_at": "2022-09-20T21:09:57+02:00",
+    "media_id": "q6bxvn7anz32",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771827,
+      "slug": "prinsjesdag",
+      "type": "files",
+      "name": "Prinsjesdag",
+      "style": "nu",
+      "media_id": "rcgx766ah4fr",
+      "partner": null
+    },
+    "url": "/prinsjesdag/6225234/wat-zei-willem-alexander-nou-echt-de-troonrede-in-begrijpelijke-taal.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6225229,
     "slug": "vonnis-in-zaak-afpersing-amanda-todd-uitgesteld-door-corona-bij-aanklager",
     "type": "article",
@@ -144,7 +167,7 @@
     "title": "Den Haag overlegt voorafgaand aan excuses voor slavernij met Suriname",
     "subtitle": null,
     "published_at": "2022-09-20T19:56:49+02:00",
-    "updated_at": "2022-09-20T19:56:50+02:00",
+    "updated_at": "2022-09-20T21:10:25+02:00",
     "media_id": "tckxhhsa3c03",
     "duration": null,
     "canonical_section": {
@@ -167,7 +190,7 @@
     "title": "Na kritiek op 'witte' Golden Globes is uitreiking na jaar weer op televisie",
     "subtitle": null,
     "published_at": "2022-09-20T19:55:28+02:00",
-    "updated_at": "2022-09-20T20:22:22+02:00",
+    "updated_at": "2022-09-20T21:06:14+02:00",
     "media_id": "jezxldqapdz7",
     "duration": null,
     "canonical_section": {
@@ -663,29 +686,6 @@
       "partner": null
     },
     "url": "/economie/6225145/frietjestekort-voorbij-alle-mcdonalds-vestigingen-in-rusland-kunnen-open.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6225143,
-    "slug": "boegeroep-tijdens-balkonscene-paleis-noordeinde",
-    "type": "video",
-    "title": "Boegeroep tijdens balkonscène Paleis Noordeinde",
-    "subtitle": "Video",
-    "published_at": "2022-09-20T15:42:10+02:00",
-    "updated_at": "2022-09-20T15:53:26+02:00",
-    "media_id": "vhlx8hha5ij6",
-    "duration": "0:38",
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6225143/boegeroep-tijdens-balkonscene-paleis-noordeinde.html",
     "open_new_window": false,
     "partner": null
   }
