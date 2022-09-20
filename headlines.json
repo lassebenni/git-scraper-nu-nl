@@ -1,12 +1,35 @@
 [
   {
-    "id": 6225056,
-    "slug": "van-der-vorst-wil-nieuwe-boksbaas-worden-olympische-status-staat-op-het-spel",
+    "id": 6225054,
+    "slug": "apple-verhoogt-volgende-maand-prijzen-in-app-store",
     "type": "article",
-    "title": "Van der Vorst wil nieuwe boksbaas worden: 'Olympische status staat op het spel'",
+    "title": "Apple verhoogt volgende maand prijzen in App Store",
+    "subtitle": null,
+    "published_at": "2022-09-20T08:44:22+02:00",
+    "updated_at": "2022-09-20T08:44:23+02:00",
+    "media_id": "k2txv1xar63q",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771438,
+      "slug": "tech",
+      "type": "default",
+      "name": "Tech",
+      "style": "nutech",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/tech/6225054/apple-verhoogt-volgende-maand-prijzen-in-app-store.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6225056,
+    "slug": "boris-van-der-vorst-wil-preses-boksbond-worden-olympische-status-in-het-geding",
+    "type": "article",
+    "title": "Boris van der Vorst wil preses boksbond worden: 'Olympische status in het geding'",
     "subtitle": null,
     "published_at": "2022-09-20T08:38:20+02:00",
-    "updated_at": "2022-09-20T08:38:21+02:00",
+    "updated_at": "2022-09-20T08:49:06+02:00",
     "media_id": "xidx0jdatzvl",
     "duration": null,
     "canonical_section": {
@@ -18,7 +41,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/sport-overig/6225056/van-der-vorst-wil-nieuwe-boksbaas-worden-olympische-status-staat-op-het-spel.html",
+    "url": "/sport-overig/6225056/boris-van-der-vorst-wil-preses-boksbond-worden-olympische-status-in-het-geding.html",
     "open_new_window": false,
     "partner": null
   },
@@ -663,29 +686,6 @@
       "partner": null
     },
     "url": "/muziek/6224995/janne-schra-wint-edison-jazz-voor-nederlandstalige-plaat-in-de-regen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6224898,
-    "slug": "kabinet-en-energiebedrijven-eens-over-prijsplafond-rekening-nog-dit-jaar-omlaag",
-    "type": "article",
-    "title": "Kabinet en energiebedrijven eens over prijsplafond, rekening nog dit jaar omlaag",
-    "subtitle": null,
-    "published_at": "2022-09-19T19:43:54+02:00",
-    "updated_at": "2022-09-20T04:53:30+02:00",
-    "media_id": "42tx5srao9v3",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771437,
-      "slug": "politiek",
-      "type": "default",
-      "name": "Politiek",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/politiek/6224898/kabinet-en-energiebedrijven-eens-over-prijsplafond-rekening-nog-dit-jaar-omlaag.html",
     "open_new_window": false,
     "partner": null
   }
