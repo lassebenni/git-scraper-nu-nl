@@ -1,5 +1,51 @@
 [
   {
+    "id": 6225058,
+    "slug": "fc-barcelona-meldt-winst-van-98-miljoen-euro-en-voorspelt-florissante-toekomst",
+    "type": "article",
+    "title": "FC Barcelona meldt winst van 98 miljoen euro en voorspelt florissante toekomst",
+    "subtitle": null,
+    "published_at": "2022-09-20T09:05:57+02:00",
+    "updated_at": "2022-09-20T09:07:37+02:00",
+    "media_id": "410xsqoahy23",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6225058/fc-barcelona-meldt-winst-van-98-miljoen-euro-en-voorspelt-florissante-toekomst.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6225057,
+    "slug": "woningen-worden-groener-maar-verduurzaming-minst-groene-huizen-blijft-achter",
+    "type": "article",
+    "title": "Woningen worden groener, maar verduurzaming minst groene huizen blijft achter",
+    "subtitle": null,
+    "published_at": "2022-09-20T09:05:37+02:00",
+    "updated_at": "2022-09-20T09:08:10+02:00",
+    "media_id": "azpxy6mahwq4",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6225057/woningen-worden-groener-maar-verduurzaming-minst-groene-huizen-blijft-achter.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6225054,
     "slug": "apple-verhoogt-volgende-maand-prijzen-in-app-store",
     "type": "article",
@@ -24,12 +70,12 @@
   },
   {
     "id": 6225056,
-    "slug": "boris-van-der-vorst-wil-preses-boksbond-worden-olympische-status-in-het-geding",
+    "slug": "strijd-om-voorzitterschap-bij-boksbond-olympische-status-staat-op-het-spel",
     "type": "article",
-    "title": "Boris van der Vorst wil preses boksbond worden: 'Olympische status in het geding'",
+    "title": "Strijd om voorzitterschap bij boksbond: 'Olympische status staat op het spel'",
     "subtitle": null,
     "published_at": "2022-09-20T08:38:20+02:00",
-    "updated_at": "2022-09-20T08:49:06+02:00",
+    "updated_at": "2022-09-20T09:08:54+02:00",
     "media_id": "xidx0jdatzvl",
     "duration": null,
     "canonical_section": {
@@ -41,7 +87,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/sport-overig/6225056/boris-van-der-vorst-wil-preses-boksbond-worden-olympische-status-in-het-geding.html",
+    "url": "/sport-overig/6225056/strijd-om-voorzitterschap-bij-boksbond-olympische-status-staat-op-het-spel.html",
     "open_new_window": false,
     "partner": null
   },
@@ -236,7 +282,7 @@
     "title": "Troonrede is voor helft van Nederlanders te lastig, maar dat is niet per se erg",
     "subtitle": null,
     "published_at": "2022-09-20T05:33:20+02:00",
-    "updated_at": "2022-09-20T08:31:02+02:00",
+    "updated_at": "2022-09-20T09:08:46+02:00",
     "media_id": "noxxlwlar3w2",
     "duration": null,
     "canonical_section": {
@@ -640,52 +686,6 @@
       "partner": null
     },
     "url": "/binnenland/6224966/uit-de-hand-gelopen-ontgroeningen-zijn-eeuwenoud-dat-zit-in-de-mens.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6224998,
-    "slug": "koningin-elizabeth-aangekomen-op-laatste-rustplek",
-    "type": "video",
-    "title": "Koningin Elizabeth aangekomen op laatste rustplek",
-    "subtitle": "Video",
-    "published_at": "2022-09-19T20:12:02+02:00",
-    "updated_at": "2022-09-19T20:12:03+02:00",
-    "media_id": "39dxmngaf7gx",
-    "duration": "0:52",
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6224998/koningin-elizabeth-aangekomen-op-laatste-rustplek.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6224995,
-    "slug": "janne-schra-wint-edison-jazz-voor-nederlandstalige-plaat-in-de-regen",
-    "type": "article",
-    "title": "Janne Schra wint Edison Jazz voor Nederlandstalige plaat In De Regen",
-    "subtitle": null,
-    "published_at": "2022-09-19T19:51:09+02:00",
-    "updated_at": "2022-09-19T20:32:04+02:00",
-    "media_id": "ojcxuciaca6g",
-    "duration": null,
-    "canonical_section": {
-      "id": 868281,
-      "slug": "muziek",
-      "type": "default",
-      "name": "Muziek",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/muziek/6224995/janne-schra-wint-edison-jazz-voor-nederlandstalige-plaat-in-de-regen.html",
     "open_new_window": false,
     "partner": null
   }
