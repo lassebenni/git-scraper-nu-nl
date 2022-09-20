@@ -1,5 +1,28 @@
 [
   {
+    "id": 6225117,
+    "slug": "vrouwelijke-kamerleden-pakken-uit-met-hoeden-op-prinsjesdag",
+    "type": "video",
+    "title": "Vrouwelijke Kamerleden pakken uit met hoeden op Prinsjesdag",
+    "subtitle": "Video",
+    "published_at": "2022-09-20T13:36:23+02:00",
+    "updated_at": "2022-09-20T13:47:21+02:00",
+    "media_id": "kklxlgcajj5a",
+    "duration": "0:45",
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6225117/vrouwelijke-kamerleden-pakken-uit-met-hoeden-op-prinsjesdag.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6225110,
     "slug": "bekijk-live-hoe-koning-willem-alexander-de-troonrede-voorleest",
     "type": "video",
@@ -52,7 +75,7 @@
     "title": "Bijlow en Scherpen melden zich bij Oranje voor testen met strafschoppen",
     "subtitle": null,
     "published_at": "2022-09-20T13:03:29+02:00",
-    "updated_at": "2022-09-20T13:12:35+02:00",
+    "updated_at": "2022-09-20T13:35:51+02:00",
     "media_id": "fwdx3cpa71tu",
     "duration": null,
     "canonical_section": {
@@ -438,12 +461,12 @@
   },
   {
     "id": 6225067,
-    "slug": "lees-hier-mee-met-de-troonrede-van-koning-willem-alexander",
+    "slug": "lees-hier-mee-met-de-troonrede-van-de-koning",
     "type": "article",
-    "title": "Lees hier mee met de troonrede van koning Willem-Alexander",
+    "title": "Lees hier mee met de troonrede van de koning",
     "subtitle": "Liveblog Prinsjesdag",
     "published_at": "2022-09-20T09:58:25+02:00",
-    "updated_at": "2022-09-20T13:30:38+02:00",
+    "updated_at": "2022-09-20T13:42:57+02:00",
     "media_id": "qc3x5czaivk8",
     "duration": null,
     "canonical_section": {
@@ -455,7 +478,7 @@
       "media_id": "rcgx766ah4fr",
       "partner": null
     },
-    "url": "/prinsjesdag/6225067/lees-hier-mee-met-de-troonrede-van-koning-willem-alexander.html",
+    "url": "/prinsjesdag/6225067/lees-hier-mee-met-de-troonrede-van-de-koning.html",
     "open_new_window": false,
     "partner": null
   },
@@ -663,29 +686,6 @@
       "partner": null
     },
     "url": "/binnenland/6225049/politie-neemt-trekkers-in-beslag-van-boeren-die-noodbevel-den-haag-negeren.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6224984,
-    "slug": "slechte-wifi-door-het-netwerk-van-de-buren-er-is-een-nieuwe-oplossing",
-    "type": "article",
-    "title": "Slechte wifi door het netwerk van de buren? Er is een nieuwe oplossing",
-    "subtitle": null,
-    "published_at": "2022-09-20T06:46:59+02:00",
-    "updated_at": "2022-09-20T12:40:23+02:00",
-    "media_id": "z7hxxepa196t",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771438,
-      "slug": "tech",
-      "type": "default",
-      "name": "Tech",
-      "style": "nutech",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/tech/6224984/slechte-wifi-door-het-netwerk-van-de-buren-er-is-een-nieuwe-oplossing.html",
     "open_new_window": false,
     "partner": null
   }
