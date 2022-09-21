@@ -1,5 +1,28 @@
 [
   {
+    "id": 6225392,
+    "slug": "uitvallende-marslander-neemt-geluid-van-meteorietinslag-op",
+    "type": "article",
+    "title": "Uitvallende Marslander neemt geluid van meteorietinslag op",
+    "subtitle": null,
+    "published_at": "2022-09-21T16:41:14+02:00",
+    "updated_at": "2022-09-21T16:44:54+02:00",
+    "media_id": "j1wx8iva2oyx",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771438,
+      "slug": "tech",
+      "type": "default",
+      "name": "Tech",
+      "style": "nutech",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/tech/6225392/uitvallende-marslander-neemt-geluid-van-meteorietinslag-op.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6225390,
     "slug": "feyenoord-dankzij-eerste-goals-bullaude-in-oefenwedstrijd-langs-fc-eindhoven",
     "type": "article",
@@ -71,13 +94,13 @@
   {
     "id": 6225389,
     "slug": "federer-over-afscheid-ik-ga-geen-spook-worden",
-    "type": "article",
+    "type": "video",
     "title": "Federer over afscheid: 'Ik ga geen spook worden'",
     "subtitle": "Video",
     "published_at": "2022-09-21T16:11:06+02:00",
-    "updated_at": "2022-09-21T16:22:43+02:00",
-    "media_id": "qr9xi2yats1y",
-    "duration": null,
+    "updated_at": "2022-09-21T16:50:43+02:00",
+    "media_id": "ojex04ia9nwg",
+    "duration": "0:52",
     "canonical_section": {
       "id": 149,
       "slug": "sport",
@@ -213,7 +236,7 @@
     "title": "Run op vluchten vanuit Rusland na Poetins oproep tot extra troepen",
     "subtitle": null,
     "published_at": "2022-09-21T14:27:27+02:00",
-    "updated_at": "2022-09-21T16:27:44+02:00",
+    "updated_at": "2022-09-21T16:46:33+02:00",
     "media_id": "jccxyw0a8w0w",
     "duration": null,
     "canonical_section": {
@@ -663,29 +686,6 @@
       "partner": null
     },
     "url": "/binnenland/6225314/vrouwen-en-biseksuelen-vaakst-slachtoffer-seksueel-grensoverschrijdend-gedrag.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6225312,
-    "slug": "roda-klaar-met-agressie-eigen-achterban-geen-fans-naar-uitwedstrijd-in-almere",
-    "type": "article",
-    "title": "Roda klaar met agressie eigen achterban: geen fans naar uitwedstrijd in Almere",
-    "subtitle": null,
-    "published_at": "2022-09-21T11:24:44+02:00",
-    "updated_at": "2022-09-21T11:24:45+02:00",
-    "media_id": "e4fxh0saq7ng",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6225312/roda-klaar-met-agressie-eigen-achterban-geen-fans-naar-uitwedstrijd-in-almere.html",
     "open_new_window": false,
     "partner": null
   }
