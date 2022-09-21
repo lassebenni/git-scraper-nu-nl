@@ -1,5 +1,51 @@
 [
   {
+    "id": 6225279,
+    "slug": "rivm-wil-dat-podcastduo-valse-beweringen-over-jaap-van-dissel-rechtzet",
+    "type": "article",
+    "title": "RIVM wil dat podcastduo valse beweringen over Jaap van Dissel rechtzet",
+    "subtitle": null,
+    "published_at": "2022-09-21T09:26:24+02:00",
+    "updated_at": "2022-09-21T09:26:25+02:00",
+    "media_id": "jjnxl2ia0ujv",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771675,
+      "slug": "media",
+      "type": "default",
+      "name": "Media",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/media/6225279/rivm-wil-dat-podcastduo-valse-beweringen-over-jaap-van-dissel-rechtzet.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6225281,
+    "slug": "streamingplatform-twitch-komt-met-strengere-regels-voor-gokken",
+    "type": "article",
+    "title": "Streamingplatform Twitch komt met strengere regels voor gokken",
+    "subtitle": null,
+    "published_at": "2022-09-21T09:16:16+02:00",
+    "updated_at": "2022-09-21T09:16:16+02:00",
+    "media_id": "drmx7pdas8l6",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771438,
+      "slug": "tech",
+      "type": "default",
+      "name": "Tech",
+      "style": "nutech",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/tech/6225281/streamingplatform-twitch-komt-met-strengere-regels-voor-gokken.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6225275,
     "slug": "gijs-naber-krijgt-hoofdrol-in-internationale-fantasyserie-hagen",
     "type": "article",
@@ -29,7 +75,7 @@
     "title": "Dramatische tijdrit Nederland op WK: val Van Vleuten en fietswissel Mollema",
     "subtitle": null,
     "published_at": "2022-09-21T08:50:28+02:00",
-    "updated_at": "2022-09-21T09:04:03+02:00",
+    "updated_at": "2022-09-21T09:16:31+02:00",
     "media_id": "h1ixs6baacwk",
     "duration": null,
     "canonical_section": {
@@ -52,7 +98,7 @@
     "title": "Russische president Poetin roept in toespraak op tot meer wapens en troepen",
     "subtitle": null,
     "published_at": "2022-09-21T08:50:16+02:00",
-    "updated_at": "2022-09-21T08:56:54+02:00",
+    "updated_at": "2022-09-21T09:12:00+02:00",
     "media_id": "5s9xgjva0cce",
     "duration": null,
     "canonical_section": {
@@ -121,7 +167,7 @@
     "title": "Consumenten vooral bezorgd over eigen financiële situatie",
     "subtitle": null,
     "published_at": "2022-09-21T08:18:04+02:00",
-    "updated_at": "2022-09-21T08:23:12+02:00",
+    "updated_at": "2022-09-21T09:26:09+02:00",
     "media_id": "8yxx0m0assgh",
     "duration": null,
     "canonical_section": {
@@ -640,52 +686,6 @@
       "partner": null
     },
     "url": "/schaatsen/6225190/de-schaatskalender-van-20222023-de-belangrijkste-wedstrijden-op-een-rij.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6225241,
-    "slug": "honderden-alligators-verzamelen-zich-langs-braziliaanse-rivier",
-    "type": "video",
-    "title": "Honderden alligators verzamelen zich langs Braziliaanse rivier",
-    "subtitle": "Video",
-    "published_at": "2022-09-20T22:42:48+02:00",
-    "updated_at": "2022-09-20T22:42:49+02:00",
-    "media_id": "i5vx6qrai1ej",
-    "duration": "0:40",
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6225241/honderden-alligators-verzamelen-zich-langs-braziliaanse-rivier.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6225240,
-    "slug": "ajax-vrouwen-speelt-dankzij-late-goal-gelijk-tegen-arsenal-in-voorronde-cl",
-    "type": "article",
-    "title": "Ajax Vrouwen speelt dankzij late goal gelijk tegen Arsenal in voorronde CL",
-    "subtitle": null,
-    "published_at": "2022-09-20T22:23:08+02:00",
-    "updated_at": "2022-09-20T22:31:49+02:00",
-    "media_id": "cndxv25a6s5g",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6225240/ajax-vrouwen-speelt-dankzij-late-goal-gelijk-tegen-arsenal-in-voorronde-cl.html",
     "open_new_window": false,
     "partner": null
   }
