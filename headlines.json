@@ -1,12 +1,35 @@
 [
   {
+    "id": 6225470,
+    "slug": "podcastduo-biedt-jaap-van-dissel-excuses-aan-voor-valse-corruptiebeschuldiging",
+    "type": "article",
+    "title": "Podcastduo biedt Jaap van Dissel excuses aan voor valse corruptiebeschuldiging",
+    "subtitle": null,
+    "published_at": "2022-09-22T10:12:47+02:00",
+    "updated_at": "2022-09-22T10:12:48+02:00",
+    "media_id": "05rxd0qa5or2",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771675,
+      "slug": "media",
+      "type": "default",
+      "name": "Media",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/media/6225470/podcastduo-biedt-jaap-van-dissel-excuses-aan-voor-valse-corruptiebeschuldiging.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6225479,
     "slug": "kaag-baudets-uitspraken-ondermijnen-de-rechtsstaat-en-de-democratie",
     "type": "article",
     "title": "Kaag: 'Baudets uitspraken ondermijnen de rechtsstaat en de democratie'",
     "subtitle": null,
     "published_at": "2022-09-22T10:02:07+02:00",
-    "updated_at": "2022-09-22T10:11:11+02:00",
+    "updated_at": "2022-09-22T10:30:21+02:00",
     "media_id": "6euxjpia75xy",
     "duration": null,
     "canonical_section": {
@@ -75,7 +98,7 @@
     "title": "Tsunoda verlengt contract bij AlphaTauri en staat voor derde Formule 1-seizoen",
     "subtitle": null,
     "published_at": "2022-09-22T09:26:49+02:00",
-    "updated_at": "2022-09-22T10:04:28+02:00",
+    "updated_at": "2022-09-22T10:30:45+02:00",
     "media_id": "qqkxckaazvxv",
     "duration": null,
     "canonical_section": {
@@ -300,12 +323,12 @@
   },
   {
     "id": 6225451,
-    "slug": "van-gaal-kan-glendenning-in-polen-evenaren-met-36e-zege-als-bondscoach-van-oranje",
+    "slug": "van-gaal-kan-glendenning-in-polen-evenaren-met-36e-zege-als-bondscoach",
     "type": "article",
-    "title": "Van Gaal kan Glendenning in Polen evenaren met 36e zege als bondscoach van Oranje",
+    "title": "Van Gaal kan Glendenning in Polen evenaren met 36e zege als bondscoach",
     "subtitle": null,
     "published_at": "2022-09-22T06:42:51+02:00",
-    "updated_at": "2022-09-22T08:08:43+02:00",
+    "updated_at": "2022-09-22T10:11:59+02:00",
     "media_id": "8wgxqynahhvm",
     "duration": null,
     "canonical_section": {
@@ -317,7 +340,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6225451/van-gaal-kan-glendenning-in-polen-evenaren-met-36e-zege-als-bondscoach-van-oranje.html",
+    "url": "/voetbal/6225451/van-gaal-kan-glendenning-in-polen-evenaren-met-36e-zege-als-bondscoach.html",
     "open_new_window": false,
     "partner": null
   },
@@ -512,7 +535,7 @@
     "title": "Particuliere belegger ziet bijna 10 miljard euro aan aandelenwaarde verdampen",
     "subtitle": null,
     "published_at": "2022-09-22T05:01:07+02:00",
-    "updated_at": "2022-09-22T09:41:33+02:00",
+    "updated_at": "2022-09-22T10:21:31+02:00",
     "media_id": "or5xwd3avknk",
     "duration": null,
     "canonical_section": {
@@ -663,29 +686,6 @@
       "partner": null
     },
     "url": "/economie/6225378/huizenprijzen-stijgen-steeds-minder-hard.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6225450,
-    "slug": "schotland-neemt-revanche-op-oekraine-en-boekt-ruime-zege-in-nations-league",
-    "type": "article",
-    "title": "Schotland neemt revanche op Oekraïne en boekt ruime zege in Nations League",
-    "subtitle": null,
-    "published_at": "2022-09-21T22:44:58+02:00",
-    "updated_at": "2022-09-21T22:58:18+02:00",
-    "media_id": "3pix02had5bl",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6225450/schotland-neemt-revanche-op-oekraine-en-boekt-ruime-zege-in-nations-league.html",
     "open_new_window": false,
     "partner": null
   }
