@@ -1,12 +1,35 @@
 [
   {
+    "id": 6225929,
+    "slug": "aardbeving-met-een-kracht-van-28-in-noordoost-groningen",
+    "type": "article",
+    "title": "Aardbeving met een kracht van 2,8 in Noordoost-Groningen",
+    "subtitle": null,
+    "published_at": "2022-09-24T13:00:14+02:00",
+    "updated_at": "2022-09-24T13:07:50+02:00",
+    "media_id": "jj0xrxpagozy",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6225929/aardbeving-met-een-kracht-van-28-in-noordoost-groningen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6225925,
     "slug": "nadal-trekt-zich-terug-uit-laver-cup-vanwege-aanstaand-vaderschap",
     "type": "article",
     "title": "Nadal trekt zich terug uit Laver Cup vanwege aanstaand vaderschap",
     "subtitle": null,
     "published_at": "2022-09-24T12:29:22+02:00",
-    "updated_at": "2022-09-24T12:34:47+02:00",
+    "updated_at": "2022-09-24T12:51:36+02:00",
     "media_id": "2bsx3rmazpuf",
     "duration": null,
     "canonical_section": {
@@ -29,7 +52,7 @@
     "title": "De grens der grenzen in de atletiek: 'Marathon in twee uur lopen is mentaal spel'",
     "subtitle": null,
     "published_at": "2022-09-24T12:08:48+02:00",
-    "updated_at": "2022-09-24T12:32:16+02:00",
+    "updated_at": "2022-09-24T12:52:58+02:00",
     "media_id": "uh5x9ljaw1oz",
     "duration": null,
     "canonical_section": {
@@ -70,12 +93,12 @@
   },
   {
     "id": 6225919,
-    "slug": "drie-nederlanders-opgepakt-wegens-ernstige-dreiging-tegen-belgische-minister",
+    "slug": "drie-nederlanders-opgepakt-na-vondst-wapens-nabij-huis-belgische-justitieminister",
     "type": "article",
-    "title": "Drie Nederlanders opgepakt wegens 'ernstige' dreiging tegen Belgische minister",
+    "title": "Drie Nederlanders opgepakt na vondst wapens nabij huis Belgische justitieminister",
     "subtitle": null,
     "published_at": "2022-09-24T11:50:08+02:00",
-    "updated_at": "2022-09-24T12:24:11+02:00",
+    "updated_at": "2022-09-24T13:01:21+02:00",
     "media_id": "l2pxfbgawhfx",
     "duration": null,
     "canonical_section": {
@@ -87,7 +110,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/buitenland/6225919/drie-nederlanders-opgepakt-wegens-ernstige-dreiging-tegen-belgische-minister.html",
+    "url": "/buitenland/6225919/drie-nederlanders-opgepakt-na-vondst-wapens-nabij-huis-belgische-justitieminister.html",
     "open_new_window": false,
     "partner": null
   },
@@ -489,7 +512,7 @@
     "title": "Treinreizigers stranden 's nachts op station Amersfoort, NS regelt geen bussen",
     "subtitle": null,
     "published_at": "2022-09-24T07:18:59+02:00",
-    "updated_at": "2022-09-24T12:33:03+02:00",
+    "updated_at": "2022-09-24T12:51:51+02:00",
     "media_id": "i3cxzafahd1t",
     "duration": null,
     "canonical_section": {
@@ -663,29 +686,6 @@
       "partner": null
     },
     "url": "/voetbal/6225792/basis-lonkt-voor-timber-op-wk-we-hebben-niet-normaal-veel-goede-verdedigers.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6225531,
-    "slug": "veelbelovend-middel-tegen-rs-virus-babys-gaan-hiervan-profiteren",
-    "type": "article",
-    "title": "Veelbelovend middel tegen RS-virus: baby's gaan hiervan profiteren",
-    "subtitle": null,
-    "published_at": "2022-09-24T06:00:03+02:00",
-    "updated_at": "2022-09-24T06:00:04+02:00",
-    "media_id": "x5sxpjdaayky",
-    "duration": null,
-    "canonical_section": {
-      "id": 1146768,
-      "slug": "gezondheid",
-      "type": "default",
-      "name": "Gezondheid",
-      "style": "nunjij",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/gezondheid/6225531/veelbelovend-middel-tegen-rs-virus-babys-gaan-hiervan-profiteren.html",
     "open_new_window": false,
     "partner": null
   }
