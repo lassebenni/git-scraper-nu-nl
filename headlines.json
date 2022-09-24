@@ -1,12 +1,35 @@
 [
   {
+    "id": 6225925,
+    "slug": "nadal-trekt-zich-terug-uit-laver-cup-vanwege-aanstaand-vaderschap",
+    "type": "article",
+    "title": "Nadal trekt zich terug uit Laver Cup vanwege aanstaand vaderschap",
+    "subtitle": null,
+    "published_at": "2022-09-24T12:29:22+02:00",
+    "updated_at": "2022-09-24T12:31:57+02:00",
+    "media_id": "2bsx3rmazpuf",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772432,
+      "slug": "tennis",
+      "type": "default",
+      "name": "Tennis",
+      "style": "nusport",
+      "media_id": "m1oxohpan0gq",
+      "partner": null
+    },
+    "url": "/tennis/6225925/nadal-trekt-zich-terug-uit-laver-cup-vanwege-aanstaand-vaderschap.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6225292,
     "slug": "de-grens-der-grenzen-in-de-atletiek-marathon-in-twee-uur-lopen-is-mentaal-spel",
     "type": "article",
     "title": "De grens der grenzen in de atletiek: 'Marathon in twee uur lopen is mentaal spel'",
     "subtitle": null,
     "published_at": "2022-09-24T12:08:48+02:00",
-    "updated_at": "2022-09-24T12:08:49+02:00",
+    "updated_at": "2022-09-24T12:32:16+02:00",
     "media_id": "uh5x9ljaw1oz",
     "duration": null,
     "canonical_section": {
@@ -47,12 +70,12 @@
   },
   {
     "id": 6225919,
-    "slug": "drie-nederlanders-opgepakt-wegens-ernstige-bedreiging-van-belgische-minister",
+    "slug": "drie-nederlanders-opgepakt-wegens-ernstige-dreiging-tegen-belgische-minister",
     "type": "article",
-    "title": "Drie Nederlanders opgepakt wegens 'ernstige' bedreiging van Belgische minister",
+    "title": "Drie Nederlanders opgepakt wegens 'ernstige' dreiging tegen Belgische minister",
     "subtitle": null,
     "published_at": "2022-09-24T11:50:08+02:00",
-    "updated_at": "2022-09-24T12:05:03+02:00",
+    "updated_at": "2022-09-24T12:24:11+02:00",
     "media_id": "l2pxfbgawhfx",
     "duration": null,
     "canonical_section": {
@@ -64,7 +87,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/buitenland/6225919/drie-nederlanders-opgepakt-wegens-ernstige-bedreiging-van-belgische-minister.html",
+    "url": "/buitenland/6225919/drie-nederlanders-opgepakt-wegens-ernstige-dreiging-tegen-belgische-minister.html",
     "open_new_window": false,
     "partner": null
   },
@@ -466,7 +489,7 @@
     "title": "Treinreizigers stranden 's nachts op station Amersfoort, NS regelt geen bussen",
     "subtitle": null,
     "published_at": "2022-09-24T07:18:59+02:00",
-    "updated_at": "2022-09-24T09:15:21+02:00",
+    "updated_at": "2022-09-24T12:33:03+02:00",
     "media_id": "i3cxzafahd1t",
     "duration": null,
     "canonical_section": {
@@ -663,29 +686,6 @@
       "partner": null
     },
     "url": "/gezondheid/6225531/veelbelovend-middel-tegen-rs-virus-babys-gaan-hiervan-profiteren.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6225710,
-    "slug": "hoe-worden-de-gouden-kalf-nominaties-bepaald",
-    "type": "article",
-    "title": "Hoe worden de Gouden Kalf-nominaties bepaald?",
-    "subtitle": null,
-    "published_at": "2022-09-24T05:57:26+02:00",
-    "updated_at": "2022-09-24T05:57:27+02:00",
-    "media_id": "0c2xwm2abwhf",
-    "duration": null,
-    "canonical_section": {
-      "id": 127,
-      "slug": "film",
-      "type": "default",
-      "name": "Films & Series",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/film/6225710/hoe-worden-de-gouden-kalf-nominaties-bepaald.html",
     "open_new_window": false,
     "partner": null
   }
