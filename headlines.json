@@ -1,12 +1,35 @@
 [
   {
-    "id": 6226002,
-    "slug": "serie-over-pim-fortuyn-en-do-not-hesitate-bij-de-kanshebbers-gouden-kalveren",
+    "id": 6226003,
+    "slug": "politie-zoekt-naar-vierde-verdachte-bedreiging-belgische-minister",
     "type": "article",
-    "title": "Serie over Pim Fortuyn en Do Not Hesitate bij de kanshebbers Gouden Kalveren",
+    "title": "Politie zoekt naar vierde verdachte bedreiging Belgische minister",
+    "subtitle": null,
+    "published_at": "2022-09-24T22:18:55+02:00",
+    "updated_at": "2022-09-24T22:26:14+02:00",
+    "media_id": "yrxxpkfaygdc",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6226003/politie-zoekt-naar-vierde-verdachte-bedreiging-belgische-minister.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6226002,
+    "slug": "serie-over-pim-fortuyn-en-do-not-hesitate-bij-kanshebbers-voor-gouden-kalveren",
+    "type": "article",
+    "title": "Serie over Pim Fortuyn en Do Not Hesitate bij kanshebbers voor Gouden Kalveren",
     "subtitle": null,
     "published_at": "2022-09-24T22:08:47+02:00",
-    "updated_at": "2022-09-24T22:08:47+02:00",
+    "updated_at": "2022-09-24T22:13:56+02:00",
     "media_id": "kahx8nqaos0r",
     "duration": null,
     "canonical_section": {
@@ -18,7 +41,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/film/6226002/serie-over-pim-fortuyn-en-do-not-hesitate-bij-de-kanshebbers-gouden-kalveren.html",
+    "url": "/film/6226002/serie-over-pim-fortuyn-en-do-not-hesitate-bij-kanshebbers-voor-gouden-kalveren.html",
     "open_new_window": false,
     "partner": null
   },
@@ -52,7 +75,7 @@
     "title": "Djokovic wint ruim van Tiafoe en zet Team Europa weer op voorsprong bij Laver Cup",
     "subtitle": null,
     "published_at": "2022-09-24T21:32:10+02:00",
-    "updated_at": "2022-09-24T21:43:54+02:00",
+    "updated_at": "2022-09-24T22:15:11+02:00",
     "media_id": "7e8xey4ahsmm",
     "duration": null,
     "canonical_section": {
@@ -663,29 +686,6 @@
       "partner": null
     },
     "url": "/wielrennen/6225937/van-vleuten-verbaast-weer-iedereen-na-tegenslag-wonderen-kunnen-gebeuren.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6225932,
-    "slug": "recordaantal-nederlandse-steden-organiseert-pride-in-2022",
-    "type": "article",
-    "title": "Recordaantal Nederlandse steden organiseert Pride in 2022",
-    "subtitle": null,
-    "published_at": "2022-09-24T13:11:41+02:00",
-    "updated_at": "2022-09-24T13:29:34+02:00",
-    "media_id": "c3jx36gacap6",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6225932/recordaantal-nederlandse-steden-organiseert-pride-in-2022.html",
     "open_new_window": false,
     "partner": null
   }
