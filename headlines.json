@@ -1,5 +1,51 @@
 [
   {
+    "id": 6226000,
+    "slug": "mensenrechtencommissie-kremlin-uit-kritiek-op-mobilisatie-van-reservisten",
+    "type": "article",
+    "title": "Mensenrechtencommissie Kremlin uit kritiek op mobilisatie van reservisten",
+    "subtitle": null,
+    "published_at": "2022-09-24T21:39:16+02:00",
+    "updated_at": "2022-09-24T21:43:08+02:00",
+    "media_id": "4txxhcfarox5",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6226000/mensenrechtencommissie-kremlin-uit-kritiek-op-mobilisatie-van-reservisten.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6225997,
+    "slug": "djokovic-wint-ruim-van-tiafoe-en-zet-team-europa-weer-op-voorsprong-bij-laver-cup",
+    "type": "article",
+    "title": "Djokovic wint ruim van Tiafoe en zet Team Europa weer op voorsprong bij Laver Cup",
+    "subtitle": null,
+    "published_at": "2022-09-24T21:32:10+02:00",
+    "updated_at": "2022-09-24T21:43:54+02:00",
+    "media_id": "7e8xey4ahsmm",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772432,
+      "slug": "tennis",
+      "type": "default",
+      "name": "Tennis",
+      "style": "nusport",
+      "media_id": "m1oxohpan0gq",
+      "partner": null
+    },
+    "url": "/tennis/6225997/djokovic-wint-ruim-van-tiafoe-en-zet-team-europa-weer-op-voorsprong-bij-laver-cup.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6225996,
     "slug": "luna-12-wint-junior-songfestival-en-vertegenwoordigt-nederland-in-armenie",
     "type": "article",
@@ -397,7 +443,7 @@
     "title": "Van Gaal wil ongeslagen naar WK: 'Wij gaan winnen van België'",
     "subtitle": null,
     "published_at": "2022-09-24T15:29:33+02:00",
-    "updated_at": "2022-09-24T16:19:18+02:00",
+    "updated_at": "2022-09-24T21:42:59+02:00",
     "media_id": "6rbxlotafk3p",
     "duration": null,
     "canonical_section": {
@@ -640,52 +686,6 @@
       "partner": null
     },
     "url": "/binnenland/6225929/twee-aardbevingen-op-een-dag-in-noordoost-groningen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6225925,
-    "slug": "nadal-trekt-zich-terug-uit-laver-cup-vanwege-aanstaand-vaderschap",
-    "type": "article",
-    "title": "Nadal trekt zich terug uit Laver Cup vanwege aanstaand vaderschap",
-    "subtitle": null,
-    "published_at": "2022-09-24T12:29:22+02:00",
-    "updated_at": "2022-09-24T12:51:36+02:00",
-    "media_id": "2bsx3rmazpuf",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772432,
-      "slug": "tennis",
-      "type": "default",
-      "name": "Tennis",
-      "style": "nusport",
-      "media_id": "m1oxohpan0gq",
-      "partner": null
-    },
-    "url": "/tennis/6225925/nadal-trekt-zich-terug-uit-laver-cup-vanwege-aanstaand-vaderschap.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6225292,
-    "slug": "de-grens-der-grenzen-in-de-atletiek-marathon-in-twee-uur-lopen-is-mentaal-spel",
-    "type": "article",
-    "title": "De grens der grenzen in de atletiek: 'Marathon in twee uur lopen is mentaal spel'",
-    "subtitle": null,
-    "published_at": "2022-09-24T12:08:48+02:00",
-    "updated_at": "2022-09-24T15:42:31+02:00",
-    "media_id": "uh5x9ljaw1oz",
-    "duration": null,
-    "canonical_section": {
-      "id": 100,
-      "slug": "algemeen",
-      "type": "default",
-      "name": "Algemeen",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/algemeen/6225292/de-grens-der-grenzen-in-de-atletiek-marathon-in-twee-uur-lopen-is-mentaal-spel.html",
     "open_new_window": false,
     "partner": null
   }
