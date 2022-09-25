@@ -1,12 +1,58 @@
 [
   {
+    "id": 6226032,
+    "slug": "zee-slokt-huizen-op-bij-noodweer-in-canada",
+    "type": "video",
+    "title": "Zee slokt huizen op bij noodweer in Canada",
+    "subtitle": "Video",
+    "published_at": "2022-09-25T09:42:07+02:00",
+    "updated_at": "2022-09-25T09:42:07+02:00",
+    "media_id": "6blxqbmafj2v",
+    "duration": "0:37",
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6226032/zee-slokt-huizen-op-bij-noodweer-in-canada.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6226031,
+    "slug": "mollema-hoorde-pas-vlak-voor-start-van-arrestatie-van-der-poel-dacht-eerst-aan-geintje",
+    "type": "article",
+    "title": "Mollema hoorde pas vlak voor start van arrestatie Van der Poel: 'Dacht eerst aan geintje'",
+    "subtitle": null,
+    "published_at": "2022-09-25T09:41:57+02:00",
+    "updated_at": "2022-09-25T09:43:17+02:00",
+    "media_id": "dagxeg8awllo",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772339,
+      "slug": "wielrennen",
+      "type": "default",
+      "name": "Wielrennen",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/wielrennen/6226031/mollema-hoorde-pas-vlak-voor-start-van-arrestatie-van-der-poel-dacht-eerst-aan-geintje.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6226027,
     "slug": "droom-evenepoel-komt-uit-met-wereldtitel-een-beter-seizoen-ga-ik-nooit-rijden",
     "type": "article",
     "title": "Droom Evenepoel komt uit met wereldtitel: 'Een beter seizoen ga ik nooit rijden'",
     "subtitle": null,
     "published_at": "2022-09-25T09:23:18+02:00",
-    "updated_at": "2022-09-25T09:30:34+02:00",
+    "updated_at": "2022-09-25T09:43:35+02:00",
     "media_id": "p3rx1yta3hl4",
     "duration": null,
     "canonical_section": {
@@ -52,7 +98,7 @@
     "title": "Evenepoel kroont zich op indrukwekkende wijze tot wereldkampioen wielrennen",
     "subtitle": null,
     "published_at": "2022-09-25T08:42:30+02:00",
-    "updated_at": "2022-09-25T09:16:32+02:00",
+    "updated_at": "2022-09-25T09:41:54+02:00",
     "media_id": "rklxqmfapwv1",
     "duration": null,
     "canonical_section": {
@@ -121,7 +167,7 @@
     "title": "Aantal asielzoekers dat wacht op beoordeling bereikt bijna recordhoogte",
     "subtitle": null,
     "published_at": "2022-09-25T08:00:43+02:00",
-    "updated_at": "2022-09-25T09:28:01+02:00",
+    "updated_at": "2022-09-25T09:36:21+02:00",
     "media_id": "dqfxkpuapxpg",
     "duration": null,
     "canonical_section": {
@@ -640,52 +686,6 @@
       "partner": null
     },
     "url": "/spanningen-oekraine/6225989/eu-landen-niet-eensgezind-over-opvang-russen-die-land-ontvluchten.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6225992,
-    "slug": "egypte-wil-in-2036-als-eerste-afrikaanse-land-olympische-spelen-organiseren",
-    "type": "article",
-    "title": "Egypte wil in 2036 als eerste Afrikaanse land Olympische Spelen organiseren",
-    "subtitle": null,
-    "published_at": "2022-09-24T19:49:53+02:00",
-    "updated_at": "2022-09-24T20:17:22+02:00",
-    "media_id": "ohaxswuao3mx",
-    "duration": null,
-    "canonical_section": {
-      "id": 149,
-      "slug": "sport",
-      "type": "default",
-      "name": "Sport",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/sport/6225992/egypte-wil-in-2036-als-eerste-afrikaanse-land-olympische-spelen-organiseren.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6225991,
-    "slug": "52-schademeldingen-na-aardbevingen-in-noordoost-groningen",
-    "type": "article",
-    "title": "52 schademeldingen na aardbevingen in Noordoost-Groningen",
-    "subtitle": null,
-    "published_at": "2022-09-24T19:48:40+02:00",
-    "updated_at": "2022-09-24T19:55:08+02:00",
-    "media_id": "xt6xyjdae21f",
-    "duration": null,
-    "canonical_section": {
-      "id": 100,
-      "slug": "algemeen",
-      "type": "default",
-      "name": "Algemeen",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/algemeen/6225991/52-schademeldingen-na-aardbevingen-in-noordoost-groningen.html",
     "open_new_window": false,
     "partner": null
   }
