@@ -1,24 +1,47 @@
 [
   {
+    "id": 6225705,
+    "slug": "getest-dit-is-de-beste-virusscanner",
+    "type": "article",
+    "title": "Getest: Dit is de beste virusscanner",
+    "subtitle": null,
+    "published_at": "2022-09-25T09:55:18+02:00",
+    "updated_at": "2022-09-25T09:55:18+02:00",
+    "media_id": "1f1x8a2ajyno",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771438,
+      "slug": "tech",
+      "type": "default",
+      "name": "Tech",
+      "style": "nutech",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/tech/6225705/getest-dit-is-de-beste-virusscanner.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6226032,
     "slug": "zee-slokt-huizen-op-bij-noodweer-in-canada",
     "type": "video",
     "title": "Zee slokt huizen op bij noodweer in Canada",
     "subtitle": "Video",
     "published_at": "2022-09-25T09:42:07+02:00",
-    "updated_at": "2022-09-25T09:42:07+02:00",
+    "updated_at": "2022-09-25T10:01:30+02:00",
     "media_id": "6blxqbmafj2v",
     "duration": "0:37",
     "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
+      "id": 100,
+      "slug": "algemeen",
       "type": "default",
-      "name": "Buitenland",
+      "name": "Algemeen",
       "style": "nu",
       "media_id": null,
       "partner": null
     },
-    "url": "/buitenland/6226032/zee-slokt-huizen-op-bij-noodweer-in-canada.html",
+    "url": "/algemeen/6226032/zee-slokt-huizen-op-bij-noodweer-in-canada.html",
     "open_new_window": false,
     "partner": null
   },
@@ -29,7 +52,7 @@
     "title": "Mollema hoorde pas vlak voor start van arrestatie Van der Poel: 'Dacht eerst aan geintje'",
     "subtitle": null,
     "published_at": "2022-09-25T09:41:57+02:00",
-    "updated_at": "2022-09-25T09:43:17+02:00",
+    "updated_at": "2022-09-25T10:10:02+02:00",
     "media_id": "dagxeg8awllo",
     "duration": null,
     "canonical_section": {
@@ -663,29 +686,6 @@
       "partner": null
     },
     "url": "/entertainment/6225996/luna-12-wint-junior-songfestival-en-vertegenwoordigt-nederland-in-armenie.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6225989,
-    "slug": "eu-landen-niet-eensgezind-over-opvang-russen-die-land-ontvluchten",
-    "type": "article",
-    "title": "EU-landen niet eensgezind over opvang Russen die land ontvluchten",
-    "subtitle": "Overzicht",
-    "published_at": "2022-09-24T20:22:43+02:00",
-    "updated_at": "2022-09-25T01:18:54+02:00",
-    "media_id": "n6bx7u5al6gi",
-    "duration": null,
-    "canonical_section": {
-      "id": 1778980,
-      "slug": "spanningen-oekraine",
-      "type": "default",
-      "name": "Oorlog in Oekraïne",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/spanningen-oekraine/6225989/eu-landen-niet-eensgezind-over-opvang-russen-die-land-ontvluchten.html",
     "open_new_window": false,
     "partner": null
   }
