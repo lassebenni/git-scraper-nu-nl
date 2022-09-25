@@ -1,5 +1,28 @@
 [
   {
+    "id": 6226099,
+    "slug": "knvb-benoemt-voetbalhelden-van-persie-en-robben-tot-bondsridder",
+    "type": "article",
+    "title": "KNVB benoemt 'voetbalhelden' Van Persie en Robben tot bondsridder",
+    "subtitle": null,
+    "published_at": "2022-09-25T17:03:23+02:00",
+    "updated_at": "2022-09-25T17:03:24+02:00",
+    "media_id": "wq7xvp9ax1nc",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6226099/knvb-benoemt-voetbalhelden-van-persie-en-robben-tot-bondsridder.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6226095,
     "slug": "noodweer-richt-ongekende-schade-aan-in-canada-herstel-kost-maanden",
     "type": "article",
@@ -208,13 +231,13 @@
   },
   {
     "id": 6226082,
-    "slug": "auger-aliassime-en-sock-brengen-spanning-in-laver-cup-helemaal-terug",
+    "slug": "team-wereld-een-zege-verwijderd-van-eerste-eindzege-in-laver-cup",
     "type": "article",
-    "title": "Auger-Aliassime en Sock brengen spanning in Laver Cup helemaal terug",
+    "title": "Team Wereld één zege verwijderd van eerste eindzege in Laver Cup",
     "subtitle": null,
     "published_at": "2022-09-25T14:56:55+02:00",
-    "updated_at": "2022-09-25T15:26:30+02:00",
-    "media_id": "9w7x42ka5yqn",
+    "updated_at": "2022-09-25T17:09:52+02:00",
+    "media_id": "7evxg9fa273q",
     "duration": null,
     "canonical_section": {
       "id": 1772432,
@@ -225,7 +248,7 @@
       "media_id": "m1oxohpan0gq",
       "partner": null
     },
-    "url": "/tennis/6226082/auger-aliassime-en-sock-brengen-spanning-in-laver-cup-helemaal-terug.html",
+    "url": "/tennis/6226082/team-wereld-een-zege-verwijderd-van-eerste-eindzege-in-laver-cup.html",
     "open_new_window": false,
     "partner": null
   },
@@ -663,29 +686,6 @@
       "partner": null
     },
     "url": "/sport-overig/6226043/kipchoge-verbetert-met-halve-minuut-eigen-wereldrecord-op-marathon-in-berlijn.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6226046,
-    "slug": "trein-bij-weert-ontspoorde-door-aanrijding-met-spoorstaaf",
-    "type": "article",
-    "title": "Trein bij Weert ontspoorde door aanrijding met spoorstaaf",
-    "subtitle": null,
-    "published_at": "2022-09-25T10:53:33+02:00",
-    "updated_at": "2022-09-25T16:24:20+02:00",
-    "media_id": "0ppxkfrae4tf",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6226046/trein-bij-weert-ontspoorde-door-aanrijding-met-spoorstaaf.html",
     "open_new_window": false,
     "partner": null
   }
