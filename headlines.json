@@ -1,12 +1,35 @@
 [
   {
+    "id": 6226075,
+    "slug": "bekijk-hoe-evenepoel-naar-zijn-eerste-wereldtitel-soleert",
+    "type": "video",
+    "title": "Bekijk hoe Evenepoel naar zijn eerste wereldtitel soleert",
+    "subtitle": "Video",
+    "published_at": "2022-09-25T13:47:39+02:00",
+    "updated_at": "2022-09-25T13:47:39+02:00",
+    "media_id": "evwxe66a0qpr",
+    "duration": "0:50",
+    "canonical_section": {
+      "id": 149,
+      "slug": "sport",
+      "type": "default",
+      "name": "Sport",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/sport/6226075/bekijk-hoe-evenepoel-naar-zijn-eerste-wereldtitel-soleert.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6226074,
     "slug": "kipchoge-nog-niet-voldaan-na-nieuw-wereldrecord-op-marathon-ik-kan-nog-sneller",
     "type": "article",
     "title": "Kipchoge nog niet voldaan na nieuw wereldrecord op marathon: 'Ik kan nog sneller'",
     "subtitle": null,
     "published_at": "2022-09-25T13:26:28+02:00",
-    "updated_at": "2022-09-25T13:30:47+02:00",
+    "updated_at": "2022-09-25T13:42:25+02:00",
     "media_id": "mb1xfagat0p6",
     "duration": null,
     "canonical_section": {
@@ -52,7 +75,7 @@
     "title": "Belgische minister van Justitie was doelwit van ontvoering door Nederlanders",
     "subtitle": null,
     "published_at": "2022-09-25T13:16:36+02:00",
-    "updated_at": "2022-09-25T13:16:37+02:00",
+    "updated_at": "2022-09-25T13:35:55+02:00",
     "media_id": "631xnmjarjhk",
     "duration": null,
     "canonical_section": {
@@ -300,12 +323,12 @@
   },
   {
     "id": 6226046,
-    "slug": "trein-bij-weert-ontspoorde-door-aanrijding-met-een-spoorstaaf",
+    "slug": "trein-bij-weert-ontspoorde-door-aanrijding-met-spoorstaaf",
     "type": "article",
-    "title": "Trein bij Weert ontspoorde door aanrijding met een spoorstaaf",
+    "title": "Trein bij Weert ontspoorde door aanrijding met spoorstaaf",
     "subtitle": null,
     "published_at": "2022-09-25T10:53:33+02:00",
-    "updated_at": "2022-09-25T13:25:40+02:00",
+    "updated_at": "2022-09-25T13:39:40+02:00",
     "media_id": "jsgx7bra89dl",
     "duration": null,
     "canonical_section": {
@@ -317,7 +340,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/binnenland/6226046/trein-bij-weert-ontspoorde-door-aanrijding-met-een-spoorstaaf.html",
+    "url": "/binnenland/6226046/trein-bij-weert-ontspoorde-door-aanrijding-met-spoorstaaf.html",
     "open_new_window": false,
     "partner": null
   },
@@ -663,29 +686,6 @@
       "partner": null
     },
     "url": "/binnenland/6225483/politie-heeft-handen-vol-aan-gelblasters-wijs-je-kinderen-op-de-risicos.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6225559,
-    "slug": "klanten-blijven-weg-uit-winkels-vanwege-stijgende-inflatie",
-    "type": "article",
-    "title": "Klanten blijven weg uit winkels vanwege stijgende inflatie",
-    "subtitle": null,
-    "published_at": "2022-09-25T06:30:04+02:00",
-    "updated_at": "2022-09-25T11:14:28+02:00",
-    "media_id": "2qvxus9a127u",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6225559/klanten-blijven-weg-uit-winkels-vanwege-stijgende-inflatie.html",
     "open_new_window": false,
     "partner": null
   }
