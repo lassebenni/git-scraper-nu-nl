@@ -1,12 +1,35 @@
 [
   {
-    "id": 6226298,
-    "slug": "tui-verplaatst-vluchten-tijdelijk-van-schiphol-naar-brussel",
+    "id": 6226299,
+    "slug": "poetin-geeft-amerikaanse-klokkenluider-snowden-russisch-paspoort",
     "type": "article",
-    "title": "TUI verplaatst vluchten tijdelijk van Schiphol naar Brussel",
+    "title": "Poetin geeft Amerikaanse klokkenluider Snowden Russisch paspoort",
+    "subtitle": null,
+    "published_at": "2022-09-26T19:17:10+02:00",
+    "updated_at": "2022-09-26T19:22:12+02:00",
+    "media_id": "3gbx14tae3k9",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771438,
+      "slug": "tech",
+      "type": "default",
+      "name": "Tech",
+      "style": "nutech",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/tech/6226299/poetin-geeft-amerikaanse-klokkenluider-snowden-russisch-paspoort.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6226298,
+    "slug": "tui-verplaatst-tijdelijk-vluchten-van-schiphol-naar-brussel",
+    "type": "article",
+    "title": "TUI verplaatst tijdelijk vluchten van Schiphol naar Brussel",
     "subtitle": null,
     "published_at": "2022-09-26T19:11:30+02:00",
-    "updated_at": "2022-09-26T19:11:30+02:00",
+    "updated_at": "2022-09-26T19:19:16+02:00",
     "media_id": "c23x03lawdbh",
     "duration": null,
     "canonical_section": {
@@ -18,7 +41,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/economie/6226298/tui-verplaatst-vluchten-tijdelijk-van-schiphol-naar-brussel.html",
+    "url": "/economie/6226298/tui-verplaatst-tijdelijk-vluchten-van-schiphol-naar-brussel.html",
     "open_new_window": false,
     "partner": null
   },
@@ -29,8 +52,8 @@
     "title": "Bouwmeester maakt bij WK rentree na zwangerschap en gaat voor Spelen 2024",
     "subtitle": null,
     "published_at": "2022-09-26T19:07:46+02:00",
-    "updated_at": "2022-09-26T19:13:10+02:00",
-    "media_id": "iwxxr97aw0re",
+    "updated_at": "2022-09-26T19:33:25+02:00",
+    "media_id": "f4nxla1atbsf",
     "duration": null,
     "canonical_section": {
       "id": 1772456,
@@ -75,8 +98,8 @@
     "title": "Kabinet schroeft steun aan Oekraïne op: 'Meer wapens, sancties en isolatie'",
     "subtitle": null,
     "published_at": "2022-09-26T18:56:12+02:00",
-    "updated_at": "2022-09-26T18:59:58+02:00",
-    "media_id": "ki9xiglaokwz",
+    "updated_at": "2022-09-26T19:36:36+02:00",
+    "media_id": "og9xuria7w8a",
     "duration": null,
     "canonical_section": {
       "id": 1778980,
@@ -190,7 +213,7 @@
     "title": "Duitse jongen (17) gebeten door cheeta in Safaripark Beekse Bergen",
     "subtitle": null,
     "published_at": "2022-09-26T17:50:51+02:00",
-    "updated_at": "2022-09-26T17:50:52+02:00",
+    "updated_at": "2022-09-26T19:30:42+02:00",
     "media_id": "55zx0ika4jao",
     "duration": null,
     "canonical_section": {
@@ -663,29 +686,6 @@
       "partner": null
     },
     "url": "/wetenschap/6226237/mensen-moeten-volgens-wetenschappers-niet-eerst-naar-mars-maar-naar-venus.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6226196,
-    "slug": "asielzoekers-mogen-van-rechter-op-opvangschip-in-velsen-noord-verblijven",
-    "type": "article",
-    "title": "Asielzoekers mogen van rechter op opvangschip in Velsen-Noord verblijven",
-    "subtitle": null,
-    "published_at": "2022-09-26T14:27:14+02:00",
-    "updated_at": "2022-09-26T16:19:46+02:00",
-    "media_id": "ynexoifah319",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779109,
-      "slug": "asielcrisis",
-      "type": "default",
-      "name": "Asielcrisis",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/asielcrisis/6226196/asielzoekers-mogen-van-rechter-op-opvangschip-in-velsen-noord-verblijven.html",
     "open_new_window": false,
     "partner": null
   }
