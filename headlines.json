@@ -1,12 +1,35 @@
 [
   {
+    "id": 6226314,
+    "slug": "froome-geeft-tips-aan-automobilisten-na-botsing-met-openslaande-deur",
+    "type": "video",
+    "title": "Froome geeft tips aan automobilisten na botsing met openslaande deur",
+    "subtitle": "Video",
+    "published_at": "2022-09-26T21:03:52+02:00",
+    "updated_at": "2022-09-26T21:03:53+02:00",
+    "media_id": "b3fxq5ga3se3",
+    "duration": "1:00",
+    "canonical_section": {
+      "id": 1772339,
+      "slug": "wielrennen",
+      "type": "default",
+      "name": "Wielrennen",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/wielrennen/6226314/froome-geeft-tips-aan-automobilisten-na-botsing-met-openslaande-deur.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6226310,
     "slug": "cocu-verrast-met-terugkeer-bij-vitesse-juiste-club-op-het-juiste-moment",
     "type": "article",
     "title": "Cocu verrast met terugkeer bij Vitesse: 'Juiste club op het juiste moment'",
     "subtitle": null,
     "published_at": "2022-09-26T20:49:24+02:00",
-    "updated_at": "2022-09-26T20:49:26+02:00",
+    "updated_at": "2022-09-26T21:09:12+02:00",
     "media_id": "7rtxyxeaxxok",
     "duration": null,
     "canonical_section": {
@@ -75,7 +98,7 @@
     "title": "Vitesse strikt Cocu als nieuwe coach: oud-international tekent tot medio 2024",
     "subtitle": null,
     "published_at": "2022-09-26T20:31:59+02:00",
-    "updated_at": "2022-09-26T20:51:05+02:00",
+    "updated_at": "2022-09-26T21:08:35+02:00",
     "media_id": "vbbx3s3aa123",
     "duration": null,
     "canonical_section": {
@@ -663,29 +686,6 @@
       "partner": null
     },
     "url": "/peter-r-de-vries/6226255/man-in-polen-aangehouden-wegens-betrokkenheid-bij-moord-op-peter-r-de-vries.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6226253,
-    "slug": "gaswinning-in-groningen-gaat-komend-gasjaar-op-de-waakvlam",
-    "type": "article",
-    "title": "Gaswinning in Groningen gaat komend gasjaar op de 'waakvlam'",
-    "subtitle": null,
-    "published_at": "2022-09-26T16:22:16+02:00",
-    "updated_at": "2022-09-26T16:22:16+02:00",
-    "media_id": "a60x53da5iy4",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6226253/gaswinning-in-groningen-gaat-komend-gasjaar-op-de-waakvlam.html",
     "open_new_window": false,
     "partner": null
   }
