@@ -1,5 +1,51 @@
 [
   {
+    "id": 6226197,
+    "slug": "zes-beveiligers-verdacht-van-betrokkenheid-bij-dood-festivalganger-in-breda",
+    "type": "article",
+    "title": "Zes beveiligers verdacht van betrokkenheid bij dood festivalganger in Breda",
+    "subtitle": null,
+    "published_at": "2022-09-26T11:29:05+02:00",
+    "updated_at": "2022-09-26T11:29:06+02:00",
+    "media_id": "p2gxrgxapd2h",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6226197/zes-beveiligers-verdacht-van-betrokkenheid-bij-dood-festivalganger-in-breda.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6226198,
+    "slug": "eerste-kennismaking-hongqi-e-hs9",
+    "type": "video",
+    "title": "Eerste kennismaking: Hongqi E-HS9",
+    "subtitle": "Video",
+    "published_at": "2022-09-26T11:15:07+02:00",
+    "updated_at": "2022-09-26T11:17:39+02:00",
+    "media_id": "z90x6yeatcjw",
+    "duration": "5:12",
+    "canonical_section": {
+      "id": 881569,
+      "slug": "auto",
+      "type": "default",
+      "name": "Onderweg",
+      "style": "nuzakelijk",
+      "media_id": "z66x61xaq79c",
+      "partner": null
+    },
+    "url": "/auto/6226198/eerste-kennismaking-hongqi-e-hs9.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6226191,
     "slug": "russische-zakenman-geeft-oprichting-huurlingenbedrijf-wagner-group-toe",
     "type": "article",
@@ -144,7 +190,7 @@
     "title": "Zeker negen doden bij schietpartij op Russische school: vijf van hen zijn kinderen",
     "subtitle": null,
     "published_at": "2022-09-26T10:25:48+02:00",
-    "updated_at": "2022-09-26T11:04:16+02:00",
+    "updated_at": "2022-09-26T11:13:30+02:00",
     "media_id": "geix6zfag077",
     "duration": null,
     "canonical_section": {
@@ -466,7 +512,7 @@
     "title": "Malacia valt als centrumverdediger in bij Oranje: 'Maar speel liever als linksback'",
     "subtitle": null,
     "published_at": "2022-09-26T06:55:16+02:00",
-    "updated_at": "2022-09-26T07:41:05+02:00",
+    "updated_at": "2022-09-26T11:17:17+02:00",
     "media_id": "a4ex1fda19hx",
     "duration": null,
     "canonical_section": {
@@ -640,52 +686,6 @@
       "partner": null
     },
     "url": "/nu-klimaat/6226019/het-opnieuw-bevriezen-van-de-polen-kost-11-miljard-euro-per-jaar.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6225739,
-    "slug": "nasa-ramt-ruimterots-om-aarde-in-de-toekomst-te-kunnen-beschermen",
-    "type": "article",
-    "title": "NASA ramt ruimterots om aarde in de toekomst te kunnen beschermen",
-    "subtitle": null,
-    "published_at": "2022-09-26T05:28:18+02:00",
-    "updated_at": "2022-09-26T10:38:05+02:00",
-    "media_id": "wooxh8saywfe",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771438,
-      "slug": "tech",
-      "type": "default",
-      "name": "Tech",
-      "style": "nutech",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/tech/6225739/nasa-ramt-ruimterots-om-aarde-in-de-toekomst-te-kunnen-beschermen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6226137,
-    "slug": "waterbedrijven-waarschuwen-voor-tekort-aan-drinkwater-in-de-toekomst",
-    "type": "article",
-    "title": "Waterbedrijven waarschuwen voor tekort aan drinkwater in de toekomst",
-    "subtitle": null,
-    "published_at": "2022-09-26T02:46:56+02:00",
-    "updated_at": "2022-09-26T09:14:07+02:00",
-    "media_id": "lgrx7ccaab9k",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6226137/waterbedrijven-waarschuwen-voor-tekort-aan-drinkwater-in-de-toekomst.html",
     "open_new_window": false,
     "partner": null
   }
