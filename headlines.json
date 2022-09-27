@@ -1,12 +1,35 @@
 [
   {
+    "id": 6226401,
+    "slug": "ziekenhuizen-moeten-ict-op-orde-brengen-om-storingen-te-voorkomen",
+    "type": "article",
+    "title": "Ziekenhuizen moeten ICT op orde brengen om storingen te voorkomen",
+    "subtitle": null,
+    "published_at": "2022-09-27T12:03:56+02:00",
+    "updated_at": "2022-09-27T12:03:56+02:00",
+    "media_id": "xw3x948awg5u",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771438,
+      "slug": "tech",
+      "type": "default",
+      "name": "Tech",
+      "style": "nutech",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/tech/6226401/ziekenhuizen-moeten-ict-op-orde-brengen-om-storingen-te-voorkomen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6226397,
     "slug": "ambtenaar-maakte-fouten-bij-behandelen-melding-over-misstanden-binnen-npo",
     "type": "article",
     "title": "Ambtenaar maakte fouten bij behandelen melding over misstanden binnen NPO",
     "subtitle": null,
     "published_at": "2022-09-27T11:48:52+02:00",
-    "updated_at": "2022-09-27T11:52:56+02:00",
+    "updated_at": "2022-09-27T11:58:58+02:00",
     "media_id": "r1nxh9taewqc",
     "duration": null,
     "canonical_section": {
@@ -29,7 +52,7 @@
     "title": "Schrijver Arnon Grunberg wint Johannes Vermeer Prijs 2022",
     "subtitle": null,
     "published_at": "2022-09-27T11:46:10+02:00",
-    "updated_at": "2022-09-27T11:46:11+02:00",
+    "updated_at": "2022-09-27T11:57:53+02:00",
     "media_id": "oomxj67a8tat",
     "duration": null,
     "canonical_section": {
@@ -52,7 +75,7 @@
     "title": "Na gaslek Nord Stream 2 is nu ook zusterpijplijn Nord Stream 1 lek",
     "subtitle": null,
     "published_at": "2022-09-27T11:42:45+02:00",
-    "updated_at": "2022-09-27T11:42:46+02:00",
+    "updated_at": "2022-09-27T12:02:28+02:00",
     "media_id": "e5bxqwaa2e0g",
     "duration": null,
     "canonical_section": {
@@ -93,12 +116,12 @@
   },
   {
     "id": 6226374,
-    "slug": "aanwijzingen-dat-ridouan-t-via-advocaat-inez-weski-vanuit-cel-kon-communiceren",
+    "slug": "aanwijzingen-dat-taghi-via-advocaat-inez-weski-vanuit-cel-kon-communiceren",
     "type": "article",
-    "title": "Aanwijzingen dat Ridouan T. via advocaat Inez Weski vanuit cel kon communiceren",
+    "title": "Aanwijzingen dat Taghi via advocaat Inez Weski vanuit cel kon communiceren",
     "subtitle": null,
     "published_at": "2022-09-27T11:20:57+02:00",
-    "updated_at": "2022-09-27T11:53:27+02:00",
+    "updated_at": "2022-09-27T12:07:10+02:00",
     "media_id": "lg8xx6ra4llo",
     "duration": null,
     "canonical_section": {
@@ -110,7 +133,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/binnenland/6226374/aanwijzingen-dat-ridouan-t-via-advocaat-inez-weski-vanuit-cel-kon-communiceren.html",
+    "url": "/binnenland/6226374/aanwijzingen-dat-taghi-via-advocaat-inez-weski-vanuit-cel-kon-communiceren.html",
     "open_new_window": false,
     "partner": null
   },
@@ -627,7 +650,7 @@
     "title": "Eerste zorgpremie voor volgend jaar bekend: tientje omhoog bij DSW",
     "subtitle": null,
     "published_at": "2022-09-27T06:02:13+02:00",
-    "updated_at": "2022-09-27T11:46:55+02:00",
+    "updated_at": "2022-09-27T12:04:21+02:00",
     "media_id": "c2cxy9haea4z",
     "duration": null,
     "canonical_section": {
@@ -663,29 +686,6 @@
       "partner": null
     },
     "url": "/achterklap/6226235/gillis-staat-voor-de-rechter-en-dat-is-niet-de-eerste-of-laatste-keer.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6226333,
-    "slug": "weerbericht-kans-op-pittige-buien-en-temperatuur-van-maximaal-13-graden",
-    "type": "article",
-    "title": "Weerbericht: Kans op pittige buien en temperatuur van maximaal 13 graden",
-    "subtitle": null,
-    "published_at": "2022-09-27T05:45:13+02:00",
-    "updated_at": "2022-09-27T07:02:43+02:00",
-    "media_id": "t7jx6j2a0ves",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6226333/weerbericht-kans-op-pittige-buien-en-temperatuur-van-maximaal-13-graden.html",
     "open_new_window": false,
     "partner": null
   }
