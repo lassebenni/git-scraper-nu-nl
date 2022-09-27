@@ -1,28 +1,5 @@
 [
   {
-    "id": 6226373,
-    "slug": "porsche-van-ajacied-ihattaren-zwaar-beschadigd-door-brand",
-    "type": "video",
-    "title": "Porsche van Ajacied Ihattaren zwaar beschadigd door brand",
-    "subtitle": null,
-    "published_at": "2022-09-27T10:37:28+02:00",
-    "updated_at": "2022-09-27T10:37:29+02:00",
-    "media_id": "r9ax4tiax46l",
-    "duration": "0:39",
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6226373/porsche-van-ajacied-ihattaren-zwaar-beschadigd-door-brand.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
     "id": 6226370,
     "slug": "zwevende-oud-voetballer-figo-speelt-wedstrijd-op-duizenden-meters-hoogte",
     "type": "video",
@@ -673,19 +650,42 @@
     "title": "NASA-ruimtesonde botst succesvol met planetoïde: 'Nieuw tijdperk voor mensheid'",
     "subtitle": null,
     "published_at": "2022-09-27T02:01:20+02:00",
-    "updated_at": "2022-09-27T07:34:00+02:00",
+    "updated_at": "2022-09-27T10:41:58+02:00",
     "media_id": "inexelhas0an",
     "duration": null,
     "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
+      "id": 1771438,
+      "slug": "tech",
       "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
+      "name": "Tech",
+      "style": "nutech",
       "media_id": null,
       "partner": null
     },
-    "url": "/buitenland/6226328/nasa-ruimtesonde-botst-succesvol-met-planetoide-nieuw-tijdperk-voor-mensheid.html",
+    "url": "/tech/6226328/nasa-ruimtesonde-botst-succesvol-met-planetoide-nieuw-tijdperk-voor-mensheid.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6225563,
+    "slug": "aantal-zelfstandig-werkende-dietisten-dijt-flink-uit",
+    "type": "article",
+    "title": "Aantal zelfstandig werkende diëtisten dijt flink uit",
+    "subtitle": null,
+    "published_at": "2022-09-27T01:01:14+02:00",
+    "updated_at": "2022-09-27T01:01:15+02:00",
+    "media_id": "kc7xq8fa0uot",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6225563/aantal-zelfstandig-werkende-dietisten-dijt-flink-uit.html",
     "open_new_window": false,
     "partner": null
   }
