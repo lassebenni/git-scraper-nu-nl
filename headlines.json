@@ -1,12 +1,35 @@
 [
   {
+    "id": 6226445,
+    "slug": "van-der-poel-door-het-stof-na-incident-ik-heb-een-meisje-vastgepakt",
+    "type": "article",
+    "title": "Van der Poel door het stof na incident: 'Ik heb één meisje vastgepakt'",
+    "subtitle": null,
+    "published_at": "2022-09-27T15:07:45+02:00",
+    "updated_at": "2022-09-27T15:17:51+02:00",
+    "media_id": "c28xt8ba2elk",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772339,
+      "slug": "wielrennen",
+      "type": "default",
+      "name": "Wielrennen",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/wielrennen/6226445/van-der-poel-door-het-stof-na-incident-ik-heb-een-meisje-vastgepakt.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6226442,
     "slug": "deurwaarder-dreigt-voor-2000-ondernemers-die-coronasteun-niet-terugbetalen",
     "type": "article",
     "title": "Deurwaarder dreigt voor 2.000 ondernemers die coronasteun niet terugbetalen",
     "subtitle": null,
     "published_at": "2022-09-27T14:55:50+02:00",
-    "updated_at": "2022-09-27T15:00:21+02:00",
+    "updated_at": "2022-09-27T15:23:31+02:00",
     "media_id": "jn4xn4bad1eu",
     "duration": null,
     "canonical_section": {
@@ -24,12 +47,12 @@
   },
   {
     "id": 6226444,
-    "slug": "russische-mannen-vormen-kilometers-lange-file-bij-georgische-grens",
+    "slug": "russen-staan-in-kilometerslange-file-bij-georgische-grens",
     "type": "video",
-    "title": "Russische mannen vormen kilometers lange file bij Georgische grens",
+    "title": "Russen staan in kilometerslange file bij Georgische grens",
     "subtitle": "Video",
     "published_at": "2022-09-27T14:47:40+02:00",
-    "updated_at": "2022-09-27T14:47:41+02:00",
+    "updated_at": "2022-09-27T15:22:26+02:00",
     "media_id": "bllxnwma4272",
     "duration": "0:53",
     "canonical_section": {
@@ -41,7 +64,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/buitenland/6226444/russische-mannen-vormen-kilometers-lange-file-bij-georgische-grens.html",
+    "url": "/buitenland/6226444/russen-staan-in-kilometerslange-file-bij-georgische-grens.html",
     "open_new_window": false,
     "partner": null
   },
@@ -167,8 +190,8 @@
     "title": "Al bijna 100.000 Russen gingen naar Kazachstan om mobilisatie te ontlopen",
     "subtitle": null,
     "published_at": "2022-09-27T13:43:52+02:00",
-    "updated_at": "2022-09-27T14:09:08+02:00",
-    "media_id": "vfmx39raonrn",
+    "updated_at": "2022-09-27T15:27:57+02:00",
+    "media_id": "qgbxgnva663q",
     "duration": null,
     "canonical_section": {
       "id": 1778980,
@@ -663,29 +686,6 @@
       "partner": null
     },
     "url": "/economie/6226350/winstwaarschuwing-verfbedrijf-akzonobel-wegens-economische-onzekerheden.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6226347,
-    "slug": "herfstweer-en-ongelukken-zorgen-voor-drukste-ochtendspits-van-het-jaar",
-    "type": "article",
-    "title": "Herfstweer en ongelukken zorgen voor drukste ochtendspits van het jaar",
-    "subtitle": null,
-    "published_at": "2022-09-27T08:41:55+02:00",
-    "updated_at": "2022-09-27T10:21:47+02:00",
-    "media_id": "7f6xzbiapsfm",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6226347/herfstweer-en-ongelukken-zorgen-voor-drukste-ochtendspits-van-het-jaar.html",
     "open_new_window": false,
     "partner": null
   }
