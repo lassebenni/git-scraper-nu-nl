@@ -1,12 +1,35 @@
 [
   {
+    "id": 6226570,
+    "slug": "post-malone-hervat-tournee-na-opname-in-ziekenhuis",
+    "type": "article",
+    "title": "Post Malone hervat tournee na opname in ziekenhuis",
+    "subtitle": null,
+    "published_at": "2022-09-28T10:59:45+02:00",
+    "updated_at": "2022-09-28T10:59:46+02:00",
+    "media_id": "lcnxp6ya6vdh",
+    "duration": null,
+    "canonical_section": {
+      "id": 868281,
+      "slug": "muziek",
+      "type": "default",
+      "name": "Muziek",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/muziek/6226570/post-malone-hervat-tournee-na-opname-in-ziekenhuis.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6226579,
     "slug": "rivm-vindt-nieuwe-maatregelen-ondanks-mogelijke-najaarsgolf-nog-niet-nodig",
     "type": "article",
     "title": "RIVM vindt nieuwe maatregelen ondanks mogelijke najaarsgolf nog niet nodig",
     "subtitle": null,
     "published_at": "2022-09-28T10:40:06+02:00",
-    "updated_at": "2022-09-28T10:54:25+02:00",
+    "updated_at": "2022-09-28T11:10:08+02:00",
     "media_id": "n1zxdlua5jg8",
     "duration": null,
     "canonical_section": {
@@ -75,7 +98,7 @@
     "title": "Zweedse premier over lekkages Nord Stream: 'Vermoedelijk sabotage'",
     "subtitle": "Video",
     "published_at": "2022-09-28T10:03:33+02:00",
-    "updated_at": "2022-09-28T10:03:33+02:00",
+    "updated_at": "2022-09-28T11:04:48+02:00",
     "media_id": "qzyxtm9aaern",
     "duration": "0:43",
     "canonical_section": {
@@ -213,7 +236,7 @@
     "title": "Cuba zwaar getroffen door orkaan Ian",
     "subtitle": "Video",
     "published_at": "2022-09-28T08:17:49+02:00",
-    "updated_at": "2022-09-28T08:17:51+02:00",
+    "updated_at": "2022-09-28T11:10:41+02:00",
     "media_id": "zvaxlgfakn24",
     "duration": "0:44",
     "canonical_section": {
@@ -466,7 +489,7 @@
     "title": "Europese leiders weten het zeker: 'Lekkages Nord Stream gevolg van sabotage'",
     "subtitle": null,
     "published_at": "2022-09-28T06:14:49+02:00",
-    "updated_at": "2022-09-28T10:48:58+02:00",
+    "updated_at": "2022-09-28T11:10:32+02:00",
     "media_id": "w86xyo5aiu5e",
     "duration": null,
     "canonical_section": {
@@ -663,29 +686,6 @@
       "partner": null
     },
     "url": "/voetbal/6226531/brazilianen-walgen-van-racistisch-incident-met-banaan-na-doelpunt-richarlison.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6226528,
-    "slug": "heel-cuba-zonder-stroom-door-orkaan-ian-florida-zet-zich-schrap",
-    "type": "article",
-    "title": "Heel Cuba zonder stroom door orkaan Ian, Florida zet zich schrap",
-    "subtitle": null,
-    "published_at": "2022-09-28T01:59:04+02:00",
-    "updated_at": "2022-09-28T08:18:09+02:00",
-    "media_id": "qsixtiuaqrf6",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6226528/heel-cuba-zonder-stroom-door-orkaan-ian-florida-zet-zich-schrap.html",
     "open_new_window": false,
     "partner": null
   }
