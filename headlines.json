@@ -1,12 +1,35 @@
 [
   {
-    "id": 6226600,
-    "slug": "omroepen-willen-geen-journalistiek-overleg-meer-voeren-met-ongehoord-nederland",
+    "id": 6226608,
+    "slug": "fc-twente-moet-na-zeven-jaar-op-zoek-naar-nieuwe-hoofdsponsor",
     "type": "article",
-    "title": "Omroepen willen geen journalistiek overleg meer voeren met Ongehoord Nederland",
+    "title": "FC Twente moet na zeven jaar op zoek naar nieuwe hoofdsponsor",
+    "subtitle": null,
+    "published_at": "2022-09-28T12:13:04+02:00",
+    "updated_at": "2022-09-28T12:22:54+02:00",
+    "media_id": "xivxr3qar0p3",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6226608/fc-twente-moet-na-zeven-jaar-op-zoek-naar-nieuwe-hoofdsponsor.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6226600,
+    "slug": "omroepen-willen-geen-journalistiek-overleg-meer-met-ongehoord-nederland",
+    "type": "article",
+    "title": "Omroepen willen geen journalistiek overleg meer met Ongehoord Nederland",
     "subtitle": null,
     "published_at": "2022-09-28T12:07:29+02:00",
-    "updated_at": "2022-09-28T12:07:30+02:00",
+    "updated_at": "2022-09-28T12:33:17+02:00",
     "media_id": "40qx5djaxays",
     "duration": null,
     "canonical_section": {
@@ -18,7 +41,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/media/6226600/omroepen-willen-geen-journalistiek-overleg-meer-voeren-met-ongehoord-nederland.html",
+    "url": "/media/6226600/omroepen-willen-geen-journalistiek-overleg-meer-met-ongehoord-nederland.html",
     "open_new_window": false,
     "partner": null
   },
@@ -558,7 +581,7 @@
     "title": "Van Persie en Robben schitteren ook bij padel: 'Ben type-Nigel de Jong'",
     "subtitle": "NU+",
     "published_at": "2022-09-28T06:30:23+02:00",
-    "updated_at": "2022-09-28T08:56:58+02:00",
+    "updated_at": "2022-09-28T12:24:07+02:00",
     "media_id": "0pbxhmfagfm4",
     "duration": null,
     "canonical_section": {
@@ -604,7 +627,7 @@
     "title": "Europese leiders weten het zeker: 'Lekkages Nord Stream gevolg van sabotage'",
     "subtitle": null,
     "published_at": "2022-09-28T06:14:49+02:00",
-    "updated_at": "2022-09-28T12:10:41+02:00",
+    "updated_at": "2022-09-28T12:30:43+02:00",
     "media_id": "w86xyo5aiu5e",
     "duration": null,
     "canonical_section": {
@@ -663,29 +686,6 @@
       "partner": null
     },
     "url": "/film/6226385/geloof-niet-alles-wat-je-ziet-nieuwe-film-over-marilyn-monroe-is-deels-fictie.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6226534,
-    "slug": "weerbericht-frisse-dag-met-iets-minder-buien-dan-de-afgelopen-dagen",
-    "type": "article",
-    "title": "Weerbericht: Frisse dag met iets minder buien dan de afgelopen dagen",
-    "subtitle": null,
-    "published_at": "2022-09-28T05:43:59+02:00",
-    "updated_at": "2022-09-28T06:42:11+02:00",
-    "media_id": "9gmxjbbadwmh",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6226534/weerbericht-frisse-dag-met-iets-minder-buien-dan-de-afgelopen-dagen.html",
     "open_new_window": false,
     "partner": null
   }
