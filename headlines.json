@@ -1,35 +1,12 @@
 [
   {
-    "id": 6226721,
-    "slug": "rutte-tijdens-bezoek-aan-mbo-ik-dacht-dat-ik-al-zichtbaar-was",
-    "type": "video",
-    "title": "Rutte tijdens bezoek aan mbo: 'Ik dacht dat ik al zichtbaar was'",
-    "subtitle": "Video",
-    "published_at": "2022-09-28T19:52:37+02:00",
-    "updated_at": "2022-09-28T19:55:47+02:00",
-    "media_id": "nayxf4halsac",
-    "duration": "1:31",
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6226721/rutte-tijdens-bezoek-aan-mbo-ik-dacht-dat-ik-al-zichtbaar-was.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
     "id": 6226719,
     "slug": "eneco-en-greenchoice-negeren-toezichthouder-en-verhogen-tarieven-op-1-oktober",
     "type": "article",
     "title": "Eneco en Greenchoice negeren toezichthouder en verhogen tarieven op 1 oktober",
     "subtitle": null,
     "published_at": "2022-09-28T19:41:29+02:00",
-    "updated_at": "2022-09-28T19:54:40+02:00",
+    "updated_at": "2022-09-28T20:05:22+02:00",
     "media_id": "ugwx6x6armcv",
     "duration": null,
     "canonical_section": {
@@ -144,7 +121,7 @@
     "title": "Jutta Leerdam over relatiebreuk met Koen Verweij: 'Het is niet makkelijk geweest'",
     "subtitle": null,
     "published_at": "2022-09-28T19:01:41+02:00",
-    "updated_at": "2022-09-28T19:48:43+02:00",
+    "updated_at": "2022-09-28T20:07:06+02:00",
     "media_id": "hlsxmt6a5lr3",
     "duration": null,
     "canonical_section": {
@@ -162,12 +139,12 @@
   },
   {
     "id": 6226702,
-    "slug": "ajax-en-arsenal-van-miedema-rusten-na-doelpuntloze-eerste-helft",
+    "slug": "miedema-schiet-arsenal-op-voorsprong-op-bezoek-bij-ajax",
     "type": "article",
-    "title": "Ajax en Arsenal van Miedema rusten na doelpuntloze eerste helft",
+    "title": "Miedema schiet Arsenal op voorsprong op bezoek bij Ajax",
     "subtitle": "Liveblog CL vrouwen",
     "published_at": "2022-09-28T18:38:11+02:00",
-    "updated_at": "2022-09-28T19:50:45+02:00",
+    "updated_at": "2022-09-28T20:10:09+02:00",
     "media_id": "qf6x1xhag2ey",
     "duration": null,
     "canonical_section": {
@@ -179,7 +156,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6226702/ajax-en-arsenal-van-miedema-rusten-na-doelpuntloze-eerste-helft.html",
+    "url": "/voetbal/6226702/miedema-schiet-arsenal-op-voorsprong-op-bezoek-bij-ajax.html",
     "open_new_window": false,
     "partner": null
   },
@@ -686,6 +663,29 @@
       "partner": null
     },
     "url": "/media/6226642/om-eist-taakstraf-van-tachtig-uur-tegen-alberto-stegeman-voor-plaatsen-nepbom.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6226643,
+    "slug": "elektrisch-vliegtuig-van-eviation-maakt-succesvolle-eerste-testvlucht",
+    "type": "article",
+    "title": "Elektrisch vliegtuig van Eviation maakt succesvolle eerste testvlucht",
+    "subtitle": null,
+    "published_at": "2022-09-28T15:35:49+02:00",
+    "updated_at": "2022-09-28T15:41:45+02:00",
+    "media_id": "qe4x7vralx7h",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771438,
+      "slug": "tech",
+      "type": "default",
+      "name": "Tech",
+      "style": "nutech",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/tech/6226643/elektrisch-vliegtuig-van-eviation-maakt-succesvolle-eerste-testvlucht.html",
     "open_new_window": false,
     "partner": null
   }
