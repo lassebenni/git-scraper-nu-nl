@@ -1,12 +1,35 @@
 [
   {
+    "id": 6226600,
+    "slug": "omroepen-willen-geen-journalistiek-overleg-meer-voeren-met-ongehoord-nederland",
+    "type": "article",
+    "title": "Omroepen willen geen journalistiek overleg meer voeren met Ongehoord Nederland",
+    "subtitle": null,
+    "published_at": "2022-09-28T12:07:29+02:00",
+    "updated_at": "2022-09-28T12:07:30+02:00",
+    "media_id": "40qx5djaxays",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771675,
+      "slug": "media",
+      "type": "default",
+      "name": "Media",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/media/6226600/omroepen-willen-geen-journalistiek-overleg-meer-voeren-met-ongehoord-nederland.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6226591,
     "slug": "eu-over-schijnreferenda-in-oekraine-illegaal-en-de-uitslagen-zijn-vervalst",
     "type": "article",
     "title": "EU over schijnreferenda in Oekraïne: 'Illegaal en de uitslagen zijn vervalst'",
     "subtitle": null,
     "published_at": "2022-09-28T11:39:20+02:00",
-    "updated_at": "2022-09-28T11:39:21+02:00",
+    "updated_at": "2022-09-28T11:59:29+02:00",
     "media_id": "j0ux93aa748y",
     "duration": null,
     "canonical_section": {
@@ -29,7 +52,7 @@
     "title": "Mr. Probz eist 10 miljoen van Sony: 'Dit kan een doorslaggevende zaak worden'",
     "subtitle": null,
     "published_at": "2022-09-28T11:28:41+02:00",
-    "updated_at": "2022-09-28T11:28:42+02:00",
+    "updated_at": "2022-09-28T12:09:40+02:00",
     "media_id": "vj6xxxaagmc0",
     "duration": null,
     "canonical_section": {
@@ -581,7 +604,7 @@
     "title": "Europese leiders weten het zeker: 'Lekkages Nord Stream gevolg van sabotage'",
     "subtitle": null,
     "published_at": "2022-09-28T06:14:49+02:00",
-    "updated_at": "2022-09-28T11:10:32+02:00",
+    "updated_at": "2022-09-28T12:10:41+02:00",
     "media_id": "w86xyo5aiu5e",
     "duration": null,
     "canonical_section": {
@@ -663,29 +686,6 @@
       "partner": null
     },
     "url": "/binnenland/6226534/weerbericht-frisse-dag-met-iets-minder-buien-dan-de-afgelopen-dagen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6226386,
-    "slug": "22-nieuwe-meldingen-over-discriminatie-door-belastingdienst",
-    "type": "article",
-    "title": "22 nieuwe meldingen over discriminatie door Belastingdienst",
-    "subtitle": null,
-    "published_at": "2022-09-28T05:32:03+02:00",
-    "updated_at": "2022-09-28T05:32:04+02:00",
-    "media_id": "mjgxl5pajgtm",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6226386/22-nieuwe-meldingen-over-discriminatie-door-belastingdienst.html",
     "open_new_window": false,
     "partner": null
   }
