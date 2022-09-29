@@ -1,12 +1,58 @@
 [
   {
+    "id": 6226831,
+    "slug": "bergkamp-over-onderzoek-arib-valt-me-zwaar-dit-te-doen",
+    "type": "video",
+    "title": "Bergkamp over onderzoek Arib: 'Valt me zwaar dit te doen'",
+    "subtitle": "Video",
+    "published_at": "2022-09-29T11:33:51+02:00",
+    "updated_at": "2022-09-29T11:33:52+02:00",
+    "media_id": "4u2xlieaursj",
+    "duration": "1:03",
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6226831/bergkamp-over-onderzoek-arib-valt-me-zwaar-dit-te-doen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6226827,
+    "slug": "acm-zal-energiebedrijven-beboeten-die-klanten-niet-tijdig-informeerden",
+    "type": "article",
+    "title": "ACM zal energiebedrijven beboeten die klanten niet tijdig informeerden",
+    "subtitle": null,
+    "published_at": "2022-09-29T11:23:54+02:00",
+    "updated_at": "2022-09-29T11:35:07+02:00",
+    "media_id": "4icx8usax1hv",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6226827/acm-zal-energiebedrijven-beboeten-die-klanten-niet-tijdig-informeerden.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6226815,
     "slug": "museum-boijmans-koopt-schilderij-van-miro-voor-recordprijs-van-84-miljoen-euro",
     "type": "article",
     "title": "Museum Boijmans koopt schilderij van Miró voor recordprijs van 8,4 miljoen euro",
     "subtitle": null,
     "published_at": "2022-09-29T11:00:55+02:00",
-    "updated_at": "2022-09-29T11:12:48+02:00",
+    "updated_at": "2022-09-29T11:13:14+02:00",
     "media_id": "d8yxu2eacjma",
     "duration": null,
     "canonical_section": {
@@ -98,7 +144,7 @@
     "title": "Kamervoorzitter Bergkamp: 'Met onderzoek steek ik Arib geen mes in de rug'",
     "subtitle": null,
     "published_at": "2022-09-29T10:33:55+02:00",
-    "updated_at": "2022-09-29T11:07:46+02:00",
+    "updated_at": "2022-09-29T11:34:15+02:00",
     "media_id": "hm9xciva935q",
     "duration": null,
     "canonical_section": {
@@ -640,52 +686,6 @@
       "partner": null
     },
     "url": "/film/6226172/agendas-julia-roberts-en-george-clooney-dwongen-film-over-bali-naar-australie.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6226580,
-    "slug": "lonen-schieten-nu-net-zo-hard-omhoog-als-eind-jaren-zeventig",
-    "type": "article",
-    "title": "Lonen schieten nu net zo hard omhoog als eind jaren zeventig",
-    "subtitle": null,
-    "published_at": "2022-09-29T05:34:27+02:00",
-    "updated_at": "2022-09-29T10:34:19+02:00",
-    "media_id": "h7dx860as9kg",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6226580/lonen-schieten-nu-net-zo-hard-omhoog-als-eind-jaren-zeventig.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6226632,
-    "slug": "vogelgriep-in-zomer-niet-verdwenen-verwachting-voor-de-winter-is-niet-best",
-    "type": "article",
-    "title": "Vogelgriep in zomer niet verdwenen: 'Verwachting voor de winter is niet best'",
-    "subtitle": null,
-    "published_at": "2022-09-29T05:32:50+02:00",
-    "updated_at": "2022-09-29T10:47:01+02:00",
-    "media_id": "yi7x6jjaopqh",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6226632/vogelgriep-in-zomer-niet-verdwenen-verwachting-voor-de-winter-is-niet-best.html",
     "open_new_window": false,
     "partner": null
   }
