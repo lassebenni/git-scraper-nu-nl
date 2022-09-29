@@ -1,12 +1,58 @@
 [
   {
+    "id": 6226929,
+    "slug": "luchtbeelden-tonen-enorme-schade-in-florida-na-orkaan-ian",
+    "type": "video",
+    "title": "Luchtbeelden tonen enorme schade in Florida na orkaan Ian",
+    "subtitle": "Video",
+    "published_at": "2022-09-29T19:36:52+02:00",
+    "updated_at": "2022-09-29T19:36:53+02:00",
+    "media_id": "hbwxd4haaush",
+    "duration": "0:45",
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6226929/luchtbeelden-tonen-enorme-schade-in-florida-na-orkaan-ian.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6226927,
+    "slug": "lang-keert-anderhalve-maand-voor-wk-start-terug-op-trainingsveld-bij-club-brugge",
+    "type": "article",
+    "title": "Lang keert anderhalve maand voor WK-start terug op trainingsveld bij Club Brugge",
+    "subtitle": null,
+    "published_at": "2022-09-29T19:35:30+02:00",
+    "updated_at": "2022-09-29T19:35:31+02:00",
+    "media_id": "xcvxmc3axr46",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6226927/lang-keert-anderhalve-maand-voor-wk-start-terug-op-trainingsveld-bij-club-brugge.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6226925,
     "slug": "casper-ruud-verzekert-zich-van-deelname-aan-atp-finals-na-zege-in-seoel",
     "type": "article",
     "title": "Casper Ruud verzekert zich van deelname aan ATP Finals na zege in Seoel",
     "subtitle": null,
     "published_at": "2022-09-29T19:13:21+02:00",
-    "updated_at": "2022-09-29T19:13:21+02:00",
+    "updated_at": "2022-09-29T19:34:20+02:00",
     "media_id": "r6nxfeqait3q",
     "duration": null,
     "canonical_section": {
@@ -98,7 +144,7 @@
     "title": "Alle omroepen, behalve NOS, staken journalistiek overleg met omroep ON",
     "subtitle": null,
     "published_at": "2022-09-29T17:37:38+02:00",
-    "updated_at": "2022-09-29T17:37:39+02:00",
+    "updated_at": "2022-09-29T19:33:37+02:00",
     "media_id": "ulfxsk8aqq1z",
     "duration": null,
     "canonical_section": {
@@ -640,52 +686,6 @@
       "partner": null
     },
     "url": "/binnenland/6226860/politie-slaat-alarm-criminelen-bieden-kinderen-verslavend-middel-snus-aan.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6226857,
-    "slug": "veel-stroomuitval-in-florida-en-inwoners-zitten-vast-in-hun-huizen-door-orkaan-ian",
-    "type": "article",
-    "title": "Veel stroomuitval in Florida en inwoners zitten vast in hun huizen door orkaan Ian",
-    "subtitle": null,
-    "published_at": "2022-09-29T14:20:14+02:00",
-    "updated_at": "2022-09-29T14:55:28+02:00",
-    "media_id": "tqwxfczammxn",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6226857/veel-stroomuitval-in-florida-en-inwoners-zitten-vast-in-hun-huizen-door-orkaan-ian.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6226859,
-    "slug": "tientallen-olifanten-blokkeren-weg-in-thailand",
-    "type": "video",
-    "title": "Tientallen olifanten blokkeren weg in Thailand",
-    "subtitle": "Video",
-    "published_at": "2022-09-29T14:04:09+02:00",
-    "updated_at": "2022-09-29T14:04:10+02:00",
-    "media_id": "sh7xaotatmdf",
-    "duration": "0:59",
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6226859/tientallen-olifanten-blokkeren-weg-in-thailand.html",
     "open_new_window": false,
     "partner": null
   }
