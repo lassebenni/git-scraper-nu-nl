@@ -1,13 +1,59 @@
 [
   {
+    "id": 6226830,
+    "slug": "achthonderd-schademeldingen-na-recente-aardbevingen-in-noordoost-groningen",
+    "type": "article",
+    "title": "Achthonderd schademeldingen na recente aardbevingen in Noordoost-Groningen",
+    "subtitle": null,
+    "published_at": "2022-09-29T11:45:55+02:00",
+    "updated_at": "2022-09-29T11:46:18+02:00",
+    "media_id": "r6xx1y6aaao1",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772247,
+      "slug": "gaswinning-groningen",
+      "type": "files",
+      "name": "Gaswinning",
+      "style": "nu",
+      "media_id": "m1mxes7a42ey",
+      "partner": null
+    },
+    "url": "/gaswinning-groningen/6226830/achthonderd-schademeldingen-na-recente-aardbevingen-in-noordoost-groningen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6226825,
+    "slug": "aantal-jongeren-dat-aan-zelfdoding-denkt-blijft-ook-na-coronacrisis-groot",
+    "type": "article",
+    "title": "Aantal jongeren dat aan zelfdoding denkt blijft ook na coronacrisis groot",
+    "subtitle": null,
+    "published_at": "2022-09-29T11:42:16+02:00",
+    "updated_at": "2022-09-29T11:42:17+02:00",
+    "media_id": "eipxn4zatuwx",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6226825/aantal-jongeren-dat-aan-zelfdoding-denkt-blijft-ook-na-coronacrisis-groot.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6226831,
     "slug": "bergkamp-over-onderzoek-arib-valt-me-zwaar-dit-te-doen",
     "type": "video",
     "title": "Bergkamp over onderzoek Arib: 'Valt me zwaar dit te doen'",
     "subtitle": "Video",
     "published_at": "2022-09-29T11:33:51+02:00",
-    "updated_at": "2022-09-29T11:33:52+02:00",
-    "media_id": "4u2xlieaursj",
+    "updated_at": "2022-09-29T11:39:34+02:00",
+    "media_id": "6n6x1a8asifv",
     "duration": "1:03",
     "canonical_section": {
       "id": 1771435,
@@ -24,12 +70,12 @@
   },
   {
     "id": 6226827,
-    "slug": "acm-zal-energiebedrijven-beboeten-die-klanten-niet-tijdig-informeerden",
+    "slug": "acm-beboet-energiebedrijven-die-klanten-niet-tijdig-informeerden-over-hoger-tarief",
     "type": "article",
-    "title": "ACM zal energiebedrijven beboeten die klanten niet tijdig informeerden",
+    "title": "ACM beboet energiebedrijven die klanten niet tijdig informeerden over hoger tarief",
     "subtitle": null,
     "published_at": "2022-09-29T11:23:54+02:00",
-    "updated_at": "2022-09-29T11:35:07+02:00",
+    "updated_at": "2022-09-29T11:49:28+02:00",
     "media_id": "4icx8usax1hv",
     "duration": null,
     "canonical_section": {
@@ -41,7 +87,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/economie/6226827/acm-zal-energiebedrijven-beboeten-die-klanten-niet-tijdig-informeerden.html",
+    "url": "/economie/6226827/acm-beboet-energiebedrijven-die-klanten-niet-tijdig-informeerden-over-hoger-tarief.html",
     "open_new_window": false,
     "partner": null
   },
@@ -93,12 +139,12 @@
   },
   {
     "id": 6226818,
-    "slug": "drone-filmt-in-mist-gehuld-fries-dorp-bij-zonsopkomst",
+    "slug": "drone-filmt-in-mist-gehulde-friese-stad-bij-zonsopkomst",
     "type": "video",
-    "title": "Drone filmt in mist gehuld Fries dorp bij zonsopkomst",
+    "title": "Drone filmt in mist gehulde Friese stad bij zonsopkomst",
     "subtitle": "Video",
     "published_at": "2022-09-29T10:48:17+02:00",
-    "updated_at": "2022-09-29T10:48:18+02:00",
+    "updated_at": "2022-09-29T11:51:56+02:00",
     "media_id": "4g2xlo3ae1e9",
     "duration": "0:35",
     "canonical_section": {
@@ -110,7 +156,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/binnenland/6226818/drone-filmt-in-mist-gehuld-fries-dorp-bij-zonsopkomst.html",
+    "url": "/binnenland/6226818/drone-filmt-in-mist-gehulde-friese-stad-bij-zonsopkomst.html",
     "open_new_window": false,
     "partner": null
   },
@@ -558,7 +604,7 @@
     "title": "Handbalsters maken pas op de plaats richting EK: 'Ons niveau is gewoon gedaald'",
     "subtitle": null,
     "published_at": "2022-09-29T06:35:12+02:00",
-    "updated_at": "2022-09-29T06:35:13+02:00",
+    "updated_at": "2022-09-29T11:38:22+02:00",
     "media_id": "22bxecca40dt",
     "duration": null,
     "canonical_section": {
@@ -581,7 +627,7 @@
     "title": "Na hectische tijd is Leerdam kopvrouw bij Jumbo-Visma: 'Heb Wüst als voorbeeld'",
     "subtitle": null,
     "published_at": "2022-09-29T06:32:49+02:00",
-    "updated_at": "2022-09-29T09:36:09+02:00",
+    "updated_at": "2022-09-29T11:48:20+02:00",
     "media_id": "472xn2tax52l",
     "duration": null,
     "canonical_section": {
@@ -640,52 +686,6 @@
       "partner": null
     },
     "url": "/economie/6226713/online-shoppen-is-ook-na-de-coronacrisis-populair.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6226677,
-    "slug": "engeland-krijgt-trickle-down-economie-zo-werkt-het",
-    "type": "video",
-    "title": "Engeland krijgt 'trickle-down'-economie: zo werkt het",
-    "subtitle": "Video",
-    "published_at": "2022-09-29T05:58:36+02:00",
-    "updated_at": "2022-09-29T05:58:37+02:00",
-    "media_id": "ntsx3rlamk6h",
-    "duration": "1:50",
-    "canonical_section": {
-      "id": 100,
-      "slug": "algemeen",
-      "type": "default",
-      "name": "Algemeen",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/algemeen/6226677/engeland-krijgt-trickle-down-economie-zo-werkt-het.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6226172,
-    "slug": "agendas-julia-roberts-en-george-clooney-dwongen-film-over-bali-naar-australie",
-    "type": "article",
-    "title": "Agenda's Julia Roberts en George Clooney dwongen film over Bali naar Australië",
-    "subtitle": null,
-    "published_at": "2022-09-29T05:57:14+02:00",
-    "updated_at": "2022-09-29T06:07:32+02:00",
-    "media_id": "8epxrz8af3q0",
-    "duration": null,
-    "canonical_section": {
-      "id": 127,
-      "slug": "film",
-      "type": "default",
-      "name": "Films & Series",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/film/6226172/agendas-julia-roberts-en-george-clooney-dwongen-film-over-bali-naar-australie.html",
     "open_new_window": false,
     "partner": null
   }
