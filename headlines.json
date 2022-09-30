@@ -1,12 +1,58 @@
 [
   {
+    "id": 6227191,
+    "slug": "roord-helpt-wolfsburg-aan-koppositie-en-gaat-met-veel-vertrouwen-naar-oranje",
+    "type": "article",
+    "title": "Roord helpt Wolfsburg aan koppositie en gaat met veel vertrouwen naar Oranje",
+    "subtitle": null,
+    "published_at": "2022-09-30T21:07:46+02:00",
+    "updated_at": "2022-09-30T21:07:47+02:00",
+    "media_id": "u4bx0zoaktsj",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6227191/roord-helpt-wolfsburg-aan-koppositie-en-gaat-met-veel-vertrouwen-naar-oranje.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6227182,
+    "slug": "westen-veroordeelt-russische-annexatie-en-komt-met-nieuwe-sancties",
+    "type": "article",
+    "title": "Westen veroordeelt Russische annexatie en komt met nieuwe sancties",
+    "subtitle": "Overzicht",
+    "published_at": "2022-09-30T21:05:53+02:00",
+    "updated_at": "2022-09-30T21:06:11+02:00",
+    "media_id": "xq8xpxvaelij",
+    "duration": null,
+    "canonical_section": {
+      "id": 1778980,
+      "slug": "spanningen-oekraine",
+      "type": "default",
+      "name": "Oorlog in Oekraïne",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/spanningen-oekraine/6227182/westen-veroordeelt-russische-annexatie-en-komt-met-nieuwe-sancties.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6227186,
     "slug": "knor-wint-gouden-kalf-voor-beste-regie-en-beste-production-design",
     "type": "article",
     "title": "Knor wint Gouden Kalf voor beste regie en beste production design",
     "subtitle": null,
     "published_at": "2022-09-30T20:26:28+02:00",
-    "updated_at": "2022-09-30T20:54:43+02:00",
+    "updated_at": "2022-09-30T21:10:45+02:00",
     "media_id": "ihpxg6zac366",
     "duration": null,
     "canonical_section": {
@@ -640,52 +686,6 @@
       "partner": null
     },
     "url": "/formule-1/6227127/verstappen-rijdt-slechts-acht-rondes-sainz-snelste-in-training-singapore.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6227123,
-    "slug": "auto-gasly-vat-vlam-in-pits-tijdens-training-gp-singapore",
-    "type": "video",
-    "title": "Auto Gasly vat vlam in pits tijdens training GP Singapore",
-    "subtitle": "Video",
-    "published_at": "2022-09-30T15:58:04+02:00",
-    "updated_at": "2022-09-30T16:36:05+02:00",
-    "media_id": "vk4xu5qad7wj",
-    "duration": "2:25",
-    "canonical_section": {
-      "id": 1772807,
-      "slug": "sportvideos",
-      "type": "default",
-      "name": "Sportvideo's",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/sportvideos/6227123/auto-gasly-vat-vlam-in-pits-tijdens-training-gp-singapore.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6227121,
-    "slug": "poetin-claimt-delen-oekraine-in-annexatie-speech",
-    "type": "video",
-    "title": "Poetin claimt delen Oekraïne in annexatie-speech",
-    "subtitle": "Video",
-    "published_at": "2022-09-30T15:55:14+02:00",
-    "updated_at": "2022-09-30T15:58:01+02:00",
-    "media_id": "jifx035aw6ww",
-    "duration": "0:42",
-    "canonical_section": {
-      "id": 100,
-      "slug": "algemeen",
-      "type": "default",
-      "name": "Algemeen",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/algemeen/6227121/poetin-claimt-delen-oekraine-in-annexatie-speech.html",
     "open_new_window": false,
     "partner": null
   }
