@@ -1,5 +1,51 @@
 [
   {
+    "id": 6227068,
+    "slug": "hamilton-verrast-verstappen-en-leclerc-in-eerste-training-gp-singapore",
+    "type": "article",
+    "title": "Hamilton verrast Verstappen en Leclerc in eerste training GP Singapore",
+    "subtitle": null,
+    "published_at": "2022-09-30T13:03:24+02:00",
+    "updated_at": "2022-09-30T13:10:01+02:00",
+    "media_id": "tnmxqmzasp7d",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772449,
+      "slug": "formule-1",
+      "type": "default",
+      "name": "Formule 1",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/formule-1/6227068/hamilton-verrast-verstappen-en-leclerc-in-eerste-training-gp-singapore.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6227059,
+    "slug": "ten-hag-krijgt-manager-van-de-maand-award-na-wederopstanding-united",
+    "type": "article",
+    "title": "Ten Hag krijgt Manager van de Maand-award na wederopstanding United",
+    "subtitle": null,
+    "published_at": "2022-09-30T13:00:45+02:00",
+    "updated_at": "2022-09-30T13:09:27+02:00",
+    "media_id": "4afxgpeaxhpw",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6227059/ten-hag-krijgt-manager-van-de-maand-award-na-wederopstanding-united.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6226915,
     "slug": "vals-spel-carlsen-stopt-na-een-zet-en-een-sekstoy-wat-speelt-er-bij-de-schaakrel",
     "type": "article",
@@ -52,7 +98,7 @@
     "title": "EU-landen bereiken akkoord over verlagen van elektriciteitsprijzen",
     "subtitle": null,
     "published_at": "2022-09-30T12:15:20+02:00",
-    "updated_at": "2022-09-30T12:19:13+02:00",
+    "updated_at": "2022-09-30T13:05:50+02:00",
     "media_id": "tfuxwkyar4bz",
     "duration": null,
     "canonical_section": {
@@ -116,13 +162,13 @@
   },
   {
     "id": 6227043,
-    "slug": "verstappen-snel-onderweg-in-eerste-vrije-training-singapore",
+    "slug": "reacties-na-eerste-vrije-training-gp-singapore",
     "type": "article",
-    "title": "Verstappen snel onderweg in eerste vrije training Singapore",
+    "title": "Reacties na eerste vrije training GP Singapore",
     "subtitle": "Liveblog F1",
     "published_at": "2022-09-30T11:40:12+02:00",
-    "updated_at": "2022-09-30T12:44:24+02:00",
-    "media_id": "7euxlb5ai1ce",
+    "updated_at": "2022-09-30T13:07:24+02:00",
+    "media_id": "5v5xd5havw6o",
     "duration": null,
     "canonical_section": {
       "id": 1772449,
@@ -133,7 +179,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/formule-1/6227043/verstappen-snel-onderweg-in-eerste-vrije-training-singapore.html",
+    "url": "/formule-1/6227043/reacties-na-eerste-vrije-training-gp-singapore.html",
     "open_new_window": false,
     "partner": null
   },
@@ -640,52 +686,6 @@
       "partner": null
     },
     "url": "/economie/6226980/meer-omzet-voor-supermarkten-door-hogere-prijzen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6226975,
-    "slug": "alle-klaslokalen-moeten-straks-verplicht-een-werkende-co2-meter-hebben",
-    "type": "article",
-    "title": "Alle klaslokalen moeten straks verplicht een werkende CO2-meter hebben",
-    "subtitle": null,
-    "published_at": "2022-09-30T07:48:45+02:00",
-    "updated_at": "2022-09-30T07:58:22+02:00",
-    "media_id": "0bfxwlbadtef",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6226975/alle-klaslokalen-moeten-straks-verplicht-een-werkende-co2-meter-hebben.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6226973,
-    "slug": "drie-russische-kosmonauten-keren-terug-uit-ruimtestation-iss",
-    "type": "article",
-    "title": "Drie Russische kosmonauten keren terug uit ruimtestation ISS",
-    "subtitle": null,
-    "published_at": "2022-09-30T07:24:30+02:00",
-    "updated_at": "2022-09-30T07:51:34+02:00",
-    "media_id": "e9hxhwmanunt",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771438,
-      "slug": "tech",
-      "type": "default",
-      "name": "Tech",
-      "style": "nutech",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/tech/6226973/drie-russische-kosmonauten-keren-terug-uit-ruimtestation-iss.html",
     "open_new_window": false,
     "partner": null
   }
