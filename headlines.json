@@ -1,12 +1,58 @@
 [
   {
+    "id": 6227314,
+    "slug": "man-op-klaarlichte-dag-gedood-in-rotterdam-verdachte-aangehouden",
+    "type": "article",
+    "title": "Man op klaarlichte dag gedood in Rotterdam, verdachte aangehouden",
+    "subtitle": null,
+    "published_at": "2022-10-01T17:49:18+02:00",
+    "updated_at": "2022-10-01T17:49:29+02:00",
+    "media_id": "0scxctraymre",
+    "duration": null,
+    "canonical_section": {
+      "id": 100,
+      "slug": "algemeen",
+      "type": "default",
+      "name": "Algemeen",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/algemeen/6227314/man-op-klaarlichte-dag-gedood-in-rotterdam-verdachte-aangehouden.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6227313,
+    "slug": "verstappen-vergeeft-red-bull-blunder-maar-als-ik-iets-fout-doe-hoor-ik-het-ook",
+    "type": "article",
+    "title": "Verstappen vergeeft Red Bull blunder: ‘Maar als ik iets fout doe hoor ik het ook’",
+    "subtitle": null,
+    "published_at": "2022-10-01T17:44:07+02:00",
+    "updated_at": "2022-10-01T17:44:08+02:00",
+    "media_id": "wpxxjzba46jw",
+    "duration": null,
+    "canonical_section": {
+      "id": 1778846,
+      "slug": "nu-formule-1",
+      "type": "default",
+      "name": "NU+ Formule 1",
+      "style": "nusport",
+      "media_id": "gtmxcxnaui5m",
+      "partner": null
+    },
+    "url": "/nu-formule-1/6227313/verstappen-vergeeft-red-bull-blunder-maar-als-ik-iets-fout-doe-hoor-ik-het-ook.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6227311,
     "slug": "union-berlin-en-dortmund-begaan-misstap-letsch-bij-debuut-hard-onderuit",
     "type": "article",
     "title": "Union Berlin en Dortmund begaan misstap, Letsch bij debuut hard onderuit",
     "subtitle": null,
     "published_at": "2022-10-01T17:25:28+02:00",
-    "updated_at": "2022-10-01T17:34:00+02:00",
+    "updated_at": "2022-10-01T17:45:13+02:00",
     "media_id": "i9rxpd9ar42q",
     "duration": null,
     "canonical_section": {
@@ -277,13 +323,13 @@
   },
   {
     "id": 6227293,
-    "slug": "psv-jaagt-op-openingstreffer-tegen-sterkspelend-cambuur",
+    "slug": "van-der-water-schiet-cambuur-op-voorsprong-tegen-psv",
     "type": "article",
-    "title": "PSV jaagt op openingstreffer tegen sterkspelend Cambuur",
+    "title": "Van der Water schiet Cambuur op voorsprong tegen PSV",
     "subtitle": "Liveblog Eredivisie",
     "published_at": "2022-10-01T15:48:25+02:00",
-    "updated_at": "2022-10-01T17:32:58+02:00",
-    "media_id": "ypzxk5naqgh4",
+    "updated_at": "2022-10-01T17:50:49+02:00",
+    "media_id": "d2pxg9na0q9k",
     "duration": null,
     "canonical_section": {
       "id": 1772338,
@@ -294,7 +340,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6227293/psv-jaagt-op-openingstreffer-tegen-sterkspelend-cambuur.html",
+    "url": "/voetbal/6227293/van-der-water-schiet-cambuur-op-voorsprong-tegen-psv.html",
     "open_new_window": false,
     "partner": null
   },
@@ -640,52 +686,6 @@
       "partner": null
     },
     "url": "/formule-1/6227251/horner-woest-om-schadelijke-opmerkingen-teambazen-over-budgetlimiet-red-bull.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6227246,
-    "slug": "kuijt-over-onvrede-ado-aanhang-na-nieuwe-nederlaag-ik-snap-de-emotie",
-    "type": "article",
-    "title": "Kuijt over onvrede ADO-aanhang na nieuwe nederlaag: 'Ik snap de emotie'",
-    "subtitle": null,
-    "published_at": "2022-10-01T11:03:10+02:00",
-    "updated_at": "2022-10-01T11:16:17+02:00",
-    "media_id": "mjfx6mta2111",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6227246/kuijt-over-onvrede-ado-aanhang-na-nieuwe-nederlaag-ik-snap-de-emotie.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6227247,
-    "slug": "achttien-spanjaarden-raken-gewond-doordat-vat-met-stikstof-ontploft",
-    "type": "video",
-    "title": "Achttien Spanjaarden raken gewond doordat vat met stikstof ontploft",
-    "subtitle": "Video",
-    "published_at": "2022-10-01T11:01:38+02:00",
-    "updated_at": "2022-10-01T14:28:07+02:00",
-    "media_id": "5msxgu1aqeds",
-    "duration": "0:56",
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6227247/achttien-spanjaarden-raken-gewond-doordat-vat-met-stikstof-ontploft.html",
     "open_new_window": false,
     "partner": null
   }
