@@ -1,12 +1,58 @@
 [
   {
+    "id": 6227297,
+    "slug": "vingegaard-slaat-in-ronde-van-kroatie-dubbelslag-met-ritzege-en-leiderstrui",
+    "type": "article",
+    "title": "Vingegaard slaat in Ronde van Kroatië dubbelslag met ritzege en leiderstrui",
+    "subtitle": null,
+    "published_at": "2022-10-01T15:51:40+02:00",
+    "updated_at": "2022-10-01T15:51:41+02:00",
+    "media_id": "aa0xryeatfq9",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772339,
+      "slug": "wielrennen",
+      "type": "default",
+      "name": "Wielrennen",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/wielrennen/6227297/vingegaard-slaat-in-ronde-van-kroatie-dubbelslag-met-ritzege-en-leiderstrui.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6227293,
+    "slug": "koploper-psv-wil-goede-reeks-voortzetten-tegen-cambuur",
+    "type": "article",
+    "title": "Koploper PSV wil goede reeks voortzetten tegen Cambuur",
+    "subtitle": "Liveblog Eredivisie",
+    "published_at": "2022-10-01T15:48:25+02:00",
+    "updated_at": "2022-10-01T15:48:26+02:00",
+    "media_id": "qpoxki1apgfo",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6227293/koploper-psv-wil-goede-reeks-voortzetten-tegen-cambuur.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6227292,
     "slug": "arsenal-verstevigt-koppositie-dankzij-winst-in-derby-tegen-tiental-tottenham",
     "type": "article",
     "title": "Arsenal verstevigt koppositie dankzij winst in derby tegen tiental Tottenham",
     "subtitle": null,
     "published_at": "2022-10-01T15:31:16+02:00",
-    "updated_at": "2022-10-01T15:41:26+02:00",
+    "updated_at": "2022-10-01T15:47:45+02:00",
     "media_id": "tkcx8h8a1rky",
     "duration": null,
     "canonical_section": {
@@ -29,7 +75,7 @@
     "title": "PSV-trainer Van Nistelrooij kiest tegen Cambuur weer voor Simons als valse spits",
     "subtitle": null,
     "published_at": "2022-10-01T15:18:07+02:00",
-    "updated_at": "2022-10-01T15:31:03+02:00",
+    "updated_at": "2022-10-01T15:55:00+02:00",
     "media_id": "56kxy8xawikw",
     "duration": null,
     "canonical_section": {
@@ -75,7 +121,7 @@
     "title": "Shirt Maradona met waarde van 8,4 miljoen euro tentoongesteld tijdens WK",
     "subtitle": null,
     "published_at": "2022-10-01T15:05:15+02:00",
-    "updated_at": "2022-10-01T15:20:06+02:00",
+    "updated_at": "2022-10-01T15:55:57+02:00",
     "media_id": "pd9x24makk6i",
     "duration": null,
     "canonical_section": {
@@ -640,52 +686,6 @@
       "partner": null
     },
     "url": "/uitgelicht/6227210/de-woordle-van-vandaag-raad-jij-het-woord-van-de-dag.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6227203,
-    "slug": "goed-nieuws-akkoord-lagere-elektriciteitsprijzen-nasa-botst-in-de-ruimte",
-    "type": "article",
-    "title": "Goed nieuws: Akkoord lagere elektriciteitsprijzen | NASA botst in de ruimte",
-    "subtitle": null,
-    "published_at": "2022-10-01T06:29:36+02:00",
-    "updated_at": "2022-10-01T07:56:30+02:00",
-    "media_id": "wooxh8saywfe",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6227203/goed-nieuws-akkoord-lagere-elektriciteitsprijzen-nasa-botst-in-de-ruimte.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6226682,
-    "slug": "vijf-jaar-na-dodelijkste-schietpartij-vs-weinig-veranderd-maar-wel-meer-hoop",
-    "type": "article",
-    "title": "Vijf jaar na dodelijkste schietpartij VS: weinig veranderd, maar wel meer hoop",
-    "subtitle": null,
-    "published_at": "2022-10-01T06:27:08+02:00",
-    "updated_at": "2022-10-01T06:27:09+02:00",
-    "media_id": "65lxg72au0as",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6226682/vijf-jaar-na-dodelijkste-schietpartij-vs-weinig-veranderd-maar-wel-meer-hoop.html",
     "open_new_window": false,
     "partner": null
   }
