@@ -1,12 +1,35 @@
 [
   {
-    "id": 6227670,
-    "slug": "cameraman-helpt-tijdens-live-uitzending-door-orkaan-ian-getroffen-mensen",
+    "id": 6227674,
+    "slug": "dit-britse-huis-is-volledig-bedekt-met-doedels",
     "type": "video",
-    "title": "Cameraman helpt tijdens live-uitzending door orkaan Ian getroffen mensen",
+    "title": "Dit Britse huis is volledig bedekt met doedels",
+    "subtitle": "Video",
+    "published_at": "2022-10-03T22:29:47+02:00",
+    "updated_at": "2022-10-03T22:30:44+02:00",
+    "media_id": "m3xx9luaucli",
+    "duration": "0:50",
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6227674/dit-britse-huis-is-volledig-bedekt-met-doedels.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6227670,
+    "slug": "cameraman-helpt-tijdens-live-uitzending-slachtoffers-van-orkaan-ian",
+    "type": "video",
+    "title": "Cameraman helpt tijdens live-uitzending slachtoffers van orkaan Ian",
     "subtitle": "Video",
     "published_at": "2022-10-03T21:40:37+02:00",
-    "updated_at": "2022-10-03T21:49:46+02:00",
+    "updated_at": "2022-10-03T22:41:39+02:00",
     "media_id": "e0sx6opaw62m",
     "duration": "0:55",
     "canonical_section": {
@@ -18,7 +41,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/buitenland/6227670/cameraman-helpt-tijdens-live-uitzending-door-orkaan-ian-getroffen-mensen.html",
+    "url": "/buitenland/6227670/cameraman-helpt-tijdens-live-uitzending-slachtoffers-van-orkaan-ian.html",
     "open_new_window": false,
     "partner": null
   },
@@ -98,7 +121,7 @@
     "title": "Twee Nederlanders omgekomen en twaalf gewond door busongeluk in Ecuador",
     "subtitle": null,
     "published_at": "2022-10-03T20:44:41+02:00",
-    "updated_at": "2022-10-03T22:01:00+02:00",
+    "updated_at": "2022-10-03T22:04:08+02:00",
     "media_id": "ochxdo8a20pf",
     "duration": null,
     "canonical_section": {
@@ -663,29 +686,6 @@
       "partner": null
     },
     "url": "/tennis/6227598/swiatek-niet-naar-billie-jean-king-cup-finals-situatie-is-niet-veilig.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6227618,
-    "slug": "arsenal-en-miedema-stuiten-op-lyon-van-van-de-donk-in-champions-league",
-    "type": "article",
-    "title": "Arsenal en Miedema stuiten op Lyon van Van de Donk in Champions League",
-    "subtitle": null,
-    "published_at": "2022-10-03T15:30:39+02:00",
-    "updated_at": "2022-10-03T15:30:40+02:00",
-    "media_id": "8v7x8l7agiqb",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6227618/arsenal-en-miedema-stuiten-op-lyon-van-van-de-donk-in-champions-league.html",
     "open_new_window": false,
     "partner": null
   }
