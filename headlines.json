@@ -1,12 +1,35 @@
 [
   {
+    "id": 6227490,
+    "slug": "de-woordle-van-vandaag-raad-jij-het-woord-van-de-dag",
+    "type": "article",
+    "title": "De Woordle van vandaag: Raad jij het woord van de dag?",
+    "subtitle": null,
+    "published_at": "2022-10-03T06:58:34+02:00",
+    "updated_at": "2022-10-03T06:58:35+02:00",
+    "media_id": "q90x8w2aq9up",
+    "duration": null,
+    "canonical_section": {
+      "id": 1773179,
+      "slug": "uitgelicht",
+      "type": "default",
+      "name": "Uitgelicht",
+      "style": "mediapartner-external",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/uitgelicht/6227490/de-woordle-van-vandaag-raad-jij-het-woord-van-de-dag.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6227488,
     "slug": "zeker-zeventien-kinderen-onder-doden-bij-rellen-in-indonesisch-stadion",
     "type": "article",
     "title": "Zeker zeventien kinderen onder doden bij rellen in Indonesisch stadion",
     "subtitle": null,
     "published_at": "2022-10-03T06:21:12+02:00",
-    "updated_at": "2022-10-03T06:34:43+02:00",
+    "updated_at": "2022-10-03T07:03:37+02:00",
     "media_id": "yvtxz39ac713",
     "duration": null,
     "canonical_section": {
@@ -259,7 +282,7 @@
     "title": "Lula verslaat Bolsonaro bij eerste ronde Braziliaanse presidentsverkiezingen",
     "subtitle": null,
     "published_at": "2022-10-03T03:10:41+02:00",
-    "updated_at": "2022-10-03T06:22:52+02:00",
+    "updated_at": "2022-10-03T07:01:43+02:00",
     "media_id": "350x4jcah5nb",
     "duration": null,
     "canonical_section": {
@@ -663,29 +686,6 @@
       "partner": null
     },
     "url": "/tennis/6227453/djokovic-boekt-in-tel-aviv-eerste-toernooizege-sinds-wimbledon-titel.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6227452,
-    "slug": "bekijk-de-samenvatting-van-de-chaotische-gp-van-singapore",
-    "type": "video",
-    "title": "Bekijk de samenvatting van de chaotische GP van Singapore",
-    "subtitle": "Video",
-    "published_at": "2022-10-02T18:55:55+02:00",
-    "updated_at": "2022-10-02T20:27:34+02:00",
-    "media_id": "9wtxw7sabiyr",
-    "duration": "1:22",
-    "canonical_section": {
-      "id": 1772449,
-      "slug": "formule-1",
-      "type": "default",
-      "name": "Formule 1",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/formule-1/6227452/bekijk-de-samenvatting-van-de-chaotische-gp-van-singapore.html",
     "open_new_window": false,
     "partner": null
   }
