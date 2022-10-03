@@ -1,5 +1,51 @@
 [
   {
+    "id": 6227502,
+    "slug": "haaland-ook-in-manchester-derby-op-schot-zijn-statistieken-zijn-beangstigend",
+    "type": "article",
+    "title": "Haaland ook in Manchester-derby op schot: 'Zijn statistieken zijn beangstigend'",
+    "subtitle": null,
+    "published_at": "2022-10-03T08:09:55+02:00",
+    "updated_at": "2022-10-03T08:09:56+02:00",
+    "media_id": "g68x61jacw29",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6227502/haaland-ook-in-manchester-derby-op-schot-zijn-statistieken-zijn-beangstigend.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6227501,
+    "slug": "rusland-blokkeert-soundcloud-om-verspreiding-nepnieuws-over-oorlog",
+    "type": "article",
+    "title": "Rusland blokkeert SoundCloud om verspreiding 'nepnieuws' over oorlog",
+    "subtitle": null,
+    "published_at": "2022-10-03T08:01:49+02:00",
+    "updated_at": "2022-10-03T08:09:38+02:00",
+    "media_id": "1dfx5oxab7oh",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771438,
+      "slug": "tech",
+      "type": "default",
+      "name": "Tech",
+      "style": "nutech",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/tech/6227501/rusland-blokkeert-soundcloud-om-verspreiding-nepnieuws-over-oorlog.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6227500,
     "slug": "bosz-vreest-niet-voor-ontslag-na-vierde-verlies-op-rij-met-olympique-lyonnais",
     "type": "article",
@@ -29,7 +75,7 @@
     "title": "Manifest voor betere seksuele voorlichting: 'Seksueel plezier als uitgangspunt'",
     "subtitle": null,
     "published_at": "2022-10-03T07:49:57+02:00",
-    "updated_at": "2022-10-03T07:49:58+02:00",
+    "updated_at": "2022-10-03T08:06:55+02:00",
     "media_id": "o33xlo1aq3is",
     "duration": null,
     "canonical_section": {
@@ -75,7 +121,7 @@
     "title": "Vleesvervanger McPlant komt terug bij Nederlandse McDonald's",
     "subtitle": null,
     "published_at": "2022-10-03T07:41:53+02:00",
-    "updated_at": "2022-10-03T07:47:54+02:00",
+    "updated_at": "2022-10-03T08:03:49+02:00",
     "media_id": "xkkx5kaa6ya7",
     "duration": null,
     "canonical_section": {
@@ -640,52 +686,6 @@
       "partner": null
     },
     "url": "/binnenland/6227468/politie-tasert-man-die-ravage-veroorzaakt-bij-achtervolging.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6227465,
-    "slug": "van-bommel-lijdt-eerste-competitienederlaag-met-antwerp-ondanks-goal-janssen",
-    "type": "article",
-    "title": "Van Bommel lijdt eerste competitienederlaag met Antwerp ondanks goal Janssen",
-    "subtitle": null,
-    "published_at": "2022-10-02T20:27:54+02:00",
-    "updated_at": "2022-10-02T21:46:48+02:00",
-    "media_id": "nnhx2x1au80k",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6227465/van-bommel-lijdt-eerste-competitienederlaag-met-antwerp-ondanks-goal-janssen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6227075,
-    "slug": "nunl-in-het-teken-van-armoede-het-gaat-iedereen-aan",
-    "type": "article",
-    "title": "NU.nl in het teken van armoede: 'Het gaat iedereen aan'",
-    "subtitle": null,
-    "published_at": "2022-10-02T20:19:41+02:00",
-    "updated_at": "2022-10-03T07:12:32+02:00",
-    "media_id": "ijwx52maaspy",
-    "duration": null,
-    "canonical_section": {
-      "id": 1774275,
-      "slug": "over-nu",
-      "type": "default",
-      "name": "Over NU.nl",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/over-nu/6227075/nunl-in-het-teken-van-armoede-het-gaat-iedereen-aan.html",
     "open_new_window": false,
     "partner": null
   }
