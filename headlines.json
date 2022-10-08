@@ -1,5 +1,51 @@
 [
   {
+    "id": 6228704,
+    "slug": "jarige-van-vleuten-lost-op-slotklim-en-grijpt-naast-ritzege-in-ronde-van-romandie",
+    "type": "article",
+    "title": "Jarige Van Vleuten lost op slotklim en grijpt naast ritzege in Ronde van Romandië",
+    "subtitle": null,
+    "published_at": "2022-10-08T15:03:17+02:00",
+    "updated_at": "2022-10-08T15:03:17+02:00",
+    "media_id": "99rxy5uaa4er",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772339,
+      "slug": "wielrennen",
+      "type": "default",
+      "name": "Wielrennen",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/wielrennen/6228704/jarige-van-vleuten-lost-op-slotklim-en-grijpt-naast-ritzege-in-ronde-van-romandie.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6228321,
+    "slug": "hoe-kom-jij-rond-dionne-30-ik-geef-mijn-geld-het-liefst-uit-aan-ervaringen",
+    "type": "article",
+    "title": "Hoe kom jij rond? Dionne (30): 'Ik geef mijn geld het liefst uit aan ervaringen'",
+    "subtitle": null,
+    "published_at": "2022-10-08T15:01:04+02:00",
+    "updated_at": "2022-10-08T15:12:34+02:00",
+    "media_id": "l95x9fsa75a4",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771719,
+      "slug": "geldzaken",
+      "type": "default",
+      "name": "Geld",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/geldzaken/6228321/hoe-kom-jij-rond-dionne-30-ik-geef-mijn-geld-het-liefst-uit-aan-ervaringen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6228698,
     "slug": "rusland-meldt-minstens-drie-doden-door-explosie-op-brug-tussen-vasteland-en-krim",
     "type": "article",
@@ -24,12 +70,12 @@
   },
   {
     "id": 6228693,
-    "slug": "herstelde-de-jong-keert-voor-belangrijke-week-terug-in-selectie-barcelona",
+    "slug": "herstelde-de-jong-keert-voor-belangrijke-week-terug-in-selectie-fc-barcelona",
     "type": "article",
-    "title": "Herstelde De Jong keert voor belangrijke week terug in selectie Barcelona",
+    "title": "Herstelde De Jong keert voor belangrijke week terug in selectie FC Barcelona",
     "subtitle": null,
     "published_at": "2022-10-08T13:22:16+02:00",
-    "updated_at": "2022-10-08T13:55:06+02:00",
+    "updated_at": "2022-10-08T14:33:40+02:00",
     "media_id": "arsxu6vaz500",
     "duration": null,
     "canonical_section": {
@@ -41,7 +87,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6228693/herstelde-de-jong-keert-voor-belangrijke-week-terug-in-selectie-barcelona.html",
+    "url": "/voetbal/6228693/herstelde-de-jong-keert-voor-belangrijke-week-terug-in-selectie-fc-barcelona.html",
     "open_new_window": false,
     "partner": null
   },
@@ -70,12 +116,12 @@
   },
   {
     "id": 6228664,
-    "slug": "hoe-nyck-de-vries-via-een-ongebruikelijke-route-alsnog-de-formule-1-haalde",
+    "slug": "hoe-nyck-de-vries-via-een-ongebruikelijke-weg-de-formule-1-haalde",
     "type": "article",
-    "title": "Hoe Nyck de Vries via een ongebruikelijke route alsnog de Formule 1 haalde",
-    "subtitle": null,
+    "title": "Hoe Nyck de Vries via een ongebruikelijke weg de Formule 1 haalde",
+    "subtitle": "NU+",
     "published_at": "2022-10-08T13:09:52+02:00",
-    "updated_at": "2022-10-08T13:32:24+02:00",
+    "updated_at": "2022-10-08T14:25:35+02:00",
     "media_id": "kaix5mea8z8i",
     "duration": null,
     "canonical_section": {
@@ -87,7 +133,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/formule-1/6228664/hoe-nyck-de-vries-via-een-ongebruikelijke-route-alsnog-de-formule-1-haalde.html",
+    "url": "/formule-1/6228664/hoe-nyck-de-vries-via-een-ongebruikelijke-weg-de-formule-1-haalde.html",
     "open_new_window": false,
     "partner": null
   },
@@ -213,7 +259,7 @@
     "title": "Op deze manieren kan Max Verstappen zondag wereldkampioen worden",
     "subtitle": null,
     "published_at": "2022-10-08T12:06:56+02:00",
-    "updated_at": "2022-10-08T13:08:13+02:00",
+    "updated_at": "2022-10-08T14:04:02+02:00",
     "media_id": "9trx9a7au1mp",
     "duration": null,
     "canonical_section": {
@@ -374,7 +420,7 @@
     "title": "Zeker zeven doden en meerdere gewonden door explosie bij Iers tankstation",
     "subtitle": null,
     "published_at": "2022-10-08T10:44:04+02:00",
-    "updated_at": "2022-10-08T13:00:46+02:00",
+    "updated_at": "2022-10-08T15:00:10+02:00",
     "media_id": "xdaxudqalhbg",
     "duration": null,
     "canonical_section": {
@@ -640,52 +686,6 @@
       "partner": null
     },
     "url": "/sport-overig/6228077/tot-nieuwe-rico-gebombardeerde-kickbokser-rigters-wil-belofte-eindelijk-inlossen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6228547,
-    "slug": "verkoop-van-motoren-op-hoogste-niveau-in-veertien-jaar",
-    "type": "article",
-    "title": "Verkoop van motoren op hoogste niveau in veertien jaar",
-    "subtitle": null,
-    "published_at": "2022-10-08T07:00:04+02:00",
-    "updated_at": "2022-10-08T07:00:05+02:00",
-    "media_id": "nzjxya0a6plw",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6228547/verkoop-van-motoren-op-hoogste-niveau-in-veertien-jaar.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6228622,
-    "slug": "de-woordle-van-vandaag-raad-jij-het-woord-van-de-dag",
-    "type": "article",
-    "title": "De Woordle van vandaag: Raad jij het woord van de dag?",
-    "subtitle": null,
-    "published_at": "2022-10-08T06:27:05+02:00",
-    "updated_at": "2022-10-08T06:27:06+02:00",
-    "media_id": "q90x8w2aq9up",
-    "duration": null,
-    "canonical_section": {
-      "id": 1773179,
-      "slug": "uitgelicht",
-      "type": "default",
-      "name": "Uitgelicht",
-      "style": "mediapartner-external",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/uitgelicht/6228622/de-woordle-van-vandaag-raad-jij-het-woord-van-de-dag.html",
     "open_new_window": false,
     "partner": null
   }
