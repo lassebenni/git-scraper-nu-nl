@@ -1,12 +1,58 @@
 [
   {
+    "id": 6229537,
+    "slug": "waaghalzen-steppen-over-metershoge-brugboog-in-belgie",
+    "type": "video",
+    "title": "Waaghalzen steppen over metershoge brugboog in België",
+    "subtitle": "Video",
+    "published_at": "2022-10-12T19:08:46+02:00",
+    "updated_at": "2022-10-12T19:08:47+02:00",
+    "media_id": "3wxx1zfaj38x",
+    "duration": "0:45",
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6229537/waaghalzen-steppen-over-metershoge-brugboog-in-belgie.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6229529,
+    "slug": "man-vrijgesproken-van-spuiten-bijtende-vloeistof-bij-asielopvang-in-ter-apel",
+    "type": "article",
+    "title": "Man vrijgesproken van spuiten bijtende vloeistof bij asielopvang in Ter Apel",
+    "subtitle": null,
+    "published_at": "2022-10-12T18:27:52+02:00",
+    "updated_at": "2022-10-12T18:27:53+02:00",
+    "media_id": "fbtxowna0eoe",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6229529/man-vrijgesproken-van-spuiten-bijtende-vloeistof-bij-asielopvang-in-ter-apel.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6229521,
     "slug": "khloe-kardashian-laat-extreem-zeldzame-tumor-uit-gezicht-verwijderen",
     "type": "article",
     "title": "Khloe Kardashian laat 'extreem zeldzame' tumor uit gezicht verwijderen",
     "subtitle": null,
     "published_at": "2022-10-12T18:03:18+02:00",
-    "updated_at": "2022-10-12T18:03:19+02:00",
+    "updated_at": "2022-10-12T18:07:51+02:00",
     "media_id": "mdsxf1sakcnm",
     "duration": null,
     "canonical_section": {
@@ -70,13 +116,13 @@
   },
   {
     "id": 6229520,
-    "slug": "ajax-aast-met-klaassen-in-de-basis-op-revanche-tegen-napoli",
+    "slug": "ajax-na-kwartier-al-op-2-0-achterstand-tegen-napoli",
     "type": "article",
-    "title": "Ajax aast met Klaassen in de basis op revanche tegen Napoli",
+    "title": "Ajax na kwartier al op 2-0-achterstand tegen Napoli",
     "subtitle": "Liveblog CL",
     "published_at": "2022-10-12T17:40:02+02:00",
-    "updated_at": "2022-10-12T18:05:09+02:00",
-    "media_id": "yc4xwk0axir8",
+    "updated_at": "2022-10-12T19:09:54+02:00",
+    "media_id": "tasx0c5apiyf",
     "duration": null,
     "canonical_section": {
       "id": 1772338,
@@ -87,7 +133,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6229520/ajax-aast-met-klaassen-in-de-basis-op-revanche-tegen-napoli.html",
+    "url": "/voetbal/6229520/ajax-na-kwartier-al-op-2-0-achterstand-tegen-napoli.html",
     "open_new_window": false,
     "partner": null
   },
@@ -167,8 +213,8 @@
     "title": "Ajax met basisdebutant Sánchez tegen Napoli, Kudus weer in de spits",
     "subtitle": null,
     "published_at": "2022-10-12T17:23:41+02:00",
-    "updated_at": "2022-10-12T17:35:35+02:00",
-    "media_id": "45qxcmbaex9b",
+    "updated_at": "2022-10-12T18:47:02+02:00",
+    "media_id": "v8zx178ax5fa",
     "duration": null,
     "canonical_section": {
       "id": 1772338,
@@ -213,7 +259,7 @@
     "title": "Slot ziet kritiek op Feyenoord als compliment: 'Worden weer als topclub benaderd'",
     "subtitle": null,
     "published_at": "2022-10-12T17:04:23+02:00",
-    "updated_at": "2022-10-12T17:08:26+02:00",
+    "updated_at": "2022-10-12T18:36:11+02:00",
     "media_id": "1qzxvc3atfs5",
     "duration": null,
     "canonical_section": {
@@ -282,7 +328,7 @@
     "title": "Eerste ruimtetoerist ter wereld boekt reisje om de maan bij SpaceX",
     "subtitle": null,
     "published_at": "2022-10-12T16:34:14+02:00",
-    "updated_at": "2022-10-12T16:34:15+02:00",
+    "updated_at": "2022-10-12T18:31:59+02:00",
     "media_id": "3fmxkpea48rc",
     "duration": null,
     "canonical_section": {
@@ -489,7 +535,7 @@
     "title": "Alberto Stegeman krijgt in hoger beroep 2,5 keer zo hoge boete voor nepbom",
     "subtitle": null,
     "published_at": "2022-10-12T15:04:11+02:00",
-    "updated_at": "2022-10-12T17:51:49+02:00",
+    "updated_at": "2022-10-12T18:33:23+02:00",
     "media_id": "552xbkaammvk",
     "duration": null,
     "canonical_section": {
@@ -640,52 +686,6 @@
       "partner": null
     },
     "url": "/gaswinning-groningen/6229446/nam-wordt-vervolgd-voor-lozen-van-gasafval-in-bodem-groningen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6229444,
-    "slug": "pauw-door-het-stof-omdat-ierse-voetbalsters-ira-lied-zongen-na-wk-kwalificatie",
-    "type": "article",
-    "title": "Pauw door het stof omdat Ierse voetbalsters IRA-lied zongen na WK-kwalificatie",
-    "subtitle": null,
-    "published_at": "2022-10-12T13:40:25+02:00",
-    "updated_at": "2022-10-12T14:56:56+02:00",
-    "media_id": "psfxg9mapuen",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6229444/pauw-door-het-stof-omdat-ierse-voetbalsters-ira-lied-zongen-na-wk-kwalificatie.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6229400,
-    "slug": "twaalf-jaar-cel-en-tbs-voor-man-die-motoragent-doodreed-in-rotterdam",
-    "type": "article",
-    "title": "Twaalf jaar cel en tbs voor man die motoragent doodreed in Rotterdam",
-    "subtitle": null,
-    "published_at": "2022-10-12T13:18:09+02:00",
-    "updated_at": "2022-10-12T13:58:47+02:00",
-    "media_id": "uf7xcexaw68w",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6229400/twaalf-jaar-cel-en-tbs-voor-man-die-motoragent-doodreed-in-rotterdam.html",
     "open_new_window": false,
     "partner": null
   }
