@@ -1,5 +1,28 @@
 [
   {
+    "id": 6230042,
+    "slug": "zo-reageert-rutte-op-de-bedreigingen-richting-prinses-amalia",
+    "type": "video",
+    "title": "Zo reageert Rutte op de bedreigingen richting prinses Amalia",
+    "subtitle": "Video",
+    "published_at": "2022-10-14T20:25:59+02:00",
+    "updated_at": "2022-10-14T20:26:00+02:00",
+    "media_id": "y54xk6aa9u6k",
+    "duration": "1:33",
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6230042/zo-reageert-rutte-op-de-bedreigingen-richting-prinses-amalia.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6229893,
     "slug": "gevolgen-voor-kinderen-in-bevingsgebied-groot-ze-cijferen-zich-weg-voor-ouders",
     "type": "article",
@@ -24,13 +47,13 @@
   },
   {
     "id": 6230036,
-    "slug": "baanwielrenner-havik-zorgt-voor-verrassing-met-wereldtitel-op-puntenkoers",
+    "slug": "hoogland-en-havik-pakken-tweede-en-derde-nederlandse-goud-op-wk-baan",
     "type": "article",
-    "title": "Baanwielrenner Havik zorgt voor verrassing met wereldtitel op puntenkoers",
+    "title": "Hoogland en Havik pakken tweede en derde Nederlandse goud op WK baan",
     "subtitle": null,
     "published_at": "2022-10-14T19:24:52+02:00",
-    "updated_at": "2022-10-14T19:53:09+02:00",
-    "media_id": "vfmxne4awfwz",
+    "updated_at": "2022-10-14T20:58:10+02:00",
+    "media_id": "kypxhe2a43oa",
     "duration": null,
     "canonical_section": {
       "id": 1772456,
@@ -41,7 +64,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/sport-overig/6230036/baanwielrenner-havik-zorgt-voor-verrassing-met-wereldtitel-op-puntenkoers.html",
+    "url": "/sport-overig/6230036/hoogland-en-havik-pakken-tweede-en-derde-nederlandse-goud-op-wk-baan.html",
     "open_new_window": false,
     "partner": null
   },
@@ -98,7 +121,7 @@
     "title": "Rutte wil dreiging rond Amalia snel beëindigen: 'Permanent hoogste prioriteit'",
     "subtitle": null,
     "published_at": "2022-10-14T19:01:15+02:00",
-    "updated_at": "2022-10-14T19:10:14+02:00",
+    "updated_at": "2022-10-14T20:22:39+02:00",
     "media_id": "hz0x78ca1d6i",
     "duration": null,
     "canonical_section": {
@@ -663,29 +686,6 @@
       "partner": null
     },
     "url": "/binnenland/6229945/bus-en-tram-volgend-jaar-stuk-duurder-wegens-hoge-energie-en-brandstofprijzen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6229942,
-    "slug": "defensie-breekt-met-kamp-van-koningsbrugge-te-veel-entertainment",
-    "type": "article",
-    "title": "Defensie breekt met Kamp Van Koningsbrugge: 'Te veel entertainment'",
-    "subtitle": null,
-    "published_at": "2022-10-14T14:25:33+02:00",
-    "updated_at": "2022-10-14T19:43:20+02:00",
-    "media_id": "wugx9imao312",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771675,
-      "slug": "media",
-      "type": "default",
-      "name": "Media",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/media/6229942/defensie-breekt-met-kamp-van-koningsbrugge-te-veel-entertainment.html",
     "open_new_window": false,
     "partner": null
   }
