@@ -1,12 +1,58 @@
 [
   {
+    "id": 6230133,
+    "slug": "politie-onderzoekt-omgeving-catshuis",
+    "type": "video",
+    "title": "Politie onderzoekt omgeving Catshuis",
+    "subtitle": "Video",
+    "published_at": "2022-10-15T15:50:12+02:00",
+    "updated_at": "2022-10-15T15:52:02+02:00",
+    "media_id": "dllxupgabzx2",
+    "duration": "0:37",
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6230133/politie-onderzoekt-omgeving-catshuis.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6230132,
+    "slug": "xavi-heeft-begrip-voor-kritiek-in-aanloop-naar-clasico-ik-ben-ook-verdrietig",
+    "type": "article",
+    "title": "Xavi heeft begrip voor kritiek in aanloop naar Clásico: 'Ik ben óók verdrietig'",
+    "subtitle": null,
+    "published_at": "2022-10-15T15:47:20+02:00",
+    "updated_at": "2022-10-15T15:53:03+02:00",
+    "media_id": "8w2xnwwaigsu",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6230132/xavi-heeft-begrip-voor-kritiek-in-aanloop-naar-clasico-ik-ben-ook-verdrietig.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6230128,
     "slug": "real-madrid-moet-het-ook-in-clasico-zonder-doelman-courtois-stellen",
     "type": "article",
     "title": "Real Madrid moet het ook in Clásico zonder doelman Courtois stellen",
     "subtitle": null,
     "published_at": "2022-10-15T14:55:51+02:00",
-    "updated_at": "2022-10-15T14:55:52+02:00",
+    "updated_at": "2022-10-15T15:20:07+02:00",
     "media_id": "unmxz4vauq9x",
     "duration": null,
     "canonical_section": {
@@ -24,12 +70,12 @@
   },
   {
     "id": 6230127,
-    "slug": "verdachte-situatie-bij-catshuis-in-den-haag-omgeving-ruim-afgezet",
+    "slug": "verdachte-situatie-in-de-buurt-van-catshuis-in-den-haag-omgeving-ruim-afgezet",
     "type": "article",
-    "title": "Verdachte situatie bij Catshuis in Den Haag, omgeving ruim afgezet",
+    "title": "Verdachte situatie in de buurt van Catshuis in Den Haag, omgeving ruim afgezet",
     "subtitle": null,
     "published_at": "2022-10-15T14:52:45+02:00",
-    "updated_at": "2022-10-15T15:11:48+02:00",
+    "updated_at": "2022-10-15T15:44:46+02:00",
     "media_id": "omhxsula9zgq",
     "duration": null,
     "canonical_section": {
@@ -41,7 +87,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/binnenland/6230127/verdachte-situatie-bij-catshuis-in-den-haag-omgeving-ruim-afgezet.html",
+    "url": "/binnenland/6230127/verdachte-situatie-in-de-buurt-van-catshuis-in-den-haag-omgeving-ruim-afgezet.html",
     "open_new_window": false,
     "partner": null
   },
@@ -52,7 +98,7 @@
     "title": "Peruaanse archeologen vinden eeuwenoude begraafplaats onder park",
     "subtitle": "Video",
     "published_at": "2022-10-15T14:47:10+02:00",
-    "updated_at": "2022-10-15T14:47:10+02:00",
+    "updated_at": "2022-10-15T15:52:44+02:00",
     "media_id": "x9xxnhuaz67l",
     "duration": "0:38",
     "canonical_section": {
@@ -70,12 +116,12 @@
   },
   {
     "id": 6230125,
-    "slug": "klimaatdemonstranten-aangehouden-omdat-ze-op-a12-bij-den-haag-zaten",
+    "slug": "zeker-60-klimaatdemonstranten-aangehouden-omdat-ze-op-a12-bij-den-haag-zaten",
     "type": "article",
-    "title": "Klimaatdemonstranten aangehouden omdat ze op A12 bij Den Haag zaten",
+    "title": "Zeker 60 klimaatdemonstranten aangehouden omdat ze op A12 bij Den Haag zaten",
     "subtitle": null,
     "published_at": "2022-10-15T14:03:53+02:00",
-    "updated_at": "2022-10-15T14:16:18+02:00",
+    "updated_at": "2022-10-15T16:03:21+02:00",
     "media_id": "dewxd7iab9d0",
     "duration": null,
     "canonical_section": {
@@ -87,7 +133,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/binnenland/6230125/klimaatdemonstranten-aangehouden-omdat-ze-op-a12-bij-den-haag-zaten.html",
+    "url": "/binnenland/6230125/zeker-60-klimaatdemonstranten-aangehouden-omdat-ze-op-a12-bij-den-haag-zaten.html",
     "open_new_window": false,
     "partner": null
   },
@@ -282,7 +328,7 @@
     "title": "Weer lange rijen op Schiphol, nu door personeelsprobleem marechaussee",
     "subtitle": null,
     "published_at": "2022-10-15T12:13:17+02:00",
-    "updated_at": "2022-10-15T12:38:12+02:00",
+    "updated_at": "2022-10-15T15:33:24+02:00",
     "media_id": "d31xmqbaynzr",
     "duration": null,
     "canonical_section": {
@@ -640,52 +686,6 @@
       "partner": null
     },
     "url": "/economie/6230066/voor-tweede-keer-vogelgriep-bij-fries-bedrijf-opnieuw-duizenden-kuikens-gedood.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6230063,
-    "slug": "waarom-wolven-niet-gewend-mogen-raken-aan-contact-met-mensen",
-    "type": "video",
-    "title": "Waarom wolven niet gewend mogen raken aan contact met mensen",
-    "subtitle": "Video",
-    "published_at": "2022-10-15T07:11:29+02:00",
-    "updated_at": "2022-10-15T08:52:48+02:00",
-    "media_id": "19ex6l2a82em",
-    "duration": "2:41",
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6230063/waarom-wolven-niet-gewend-mogen-raken-aan-contact-met-mensen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6230061,
-    "slug": "de-woordle-van-vandaag-raad-jij-het-woord-van-de-dag",
-    "type": "article",
-    "title": "De Woordle van vandaag: Raad jij het woord van de dag?",
-    "subtitle": null,
-    "published_at": "2022-10-15T06:27:19+02:00",
-    "updated_at": "2022-10-15T06:27:20+02:00",
-    "media_id": "q90x8w2aq9up",
-    "duration": null,
-    "canonical_section": {
-      "id": 1773179,
-      "slug": "uitgelicht",
-      "type": "default",
-      "name": "Uitgelicht",
-      "style": "mediapartner-external",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/uitgelicht/6230061/de-woordle-van-vandaag-raad-jij-het-woord-van-de-dag.html",
     "open_new_window": false,
     "partner": null
   }
