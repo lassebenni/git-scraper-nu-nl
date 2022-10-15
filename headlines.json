@@ -1,12 +1,35 @@
 [
   {
+    "id": 6230102,
+    "slug": "journalistenbond-wil-dat-veiligheidsdiensten-stoppen-met-werven-journalisten",
+    "type": "article",
+    "title": "Journalistenbond wil dat veiligheidsdiensten stoppen met werven journalisten",
+    "subtitle": null,
+    "published_at": "2022-10-15T10:37:09+02:00",
+    "updated_at": "2022-10-15T10:49:57+02:00",
+    "media_id": "0qqx21caqc67",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771675,
+      "slug": "media",
+      "type": "default",
+      "name": "Media",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/media/6230102/journalistenbond-wil-dat-veiligheidsdiensten-stoppen-met-werven-journalisten.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6230093,
     "slug": "pec-captain-van-polen-wint-topper-met-bloedende-lip-word-er-niet-knapper-op",
     "type": "article",
     "title": "PEC-captain Van Polen wint topper met bloedende lip: 'Word er niet knapper op'",
     "subtitle": null,
     "published_at": "2022-10-15T09:55:42+02:00",
-    "updated_at": "2022-10-15T09:55:43+02:00",
+    "updated_at": "2022-10-15T10:19:30+02:00",
     "media_id": "d8fxnymar4ik",
     "duration": null,
     "canonical_section": {
@@ -52,7 +75,7 @@
     "title": "Asielcrisis nog lang niet voorbij: nog maanden tekort aan opvangplekken",
     "subtitle": null,
     "published_at": "2022-10-15T09:16:18+02:00",
-    "updated_at": "2022-10-15T09:41:15+02:00",
+    "updated_at": "2022-10-15T10:15:54+02:00",
     "media_id": "w91x9nwaa17n",
     "duration": null,
     "canonical_section": {
@@ -70,12 +93,12 @@
   },
   {
     "id": 6230076,
-    "slug": "bouwmeester-herpakt-zich-op-vierde-dag-op-wk-en-heeft-medailles-in-zicht",
+    "slug": "bouwmeester-herpakt-zich-op-vierde-dag-van-wk-en-heeft-medailles-in-zicht",
     "type": "article",
-    "title": "Bouwmeester herpakt zich op vierde dag op WK en heeft medailles in zicht",
+    "title": "Bouwmeester herpakt zich op vierde dag van WK en heeft medailles in zicht",
     "subtitle": null,
     "published_at": "2022-10-15T08:59:52+02:00",
-    "updated_at": "2022-10-15T08:59:53+02:00",
+    "updated_at": "2022-10-15T10:59:57+02:00",
     "media_id": "ub5xvm4a06ka",
     "duration": null,
     "canonical_section": {
@@ -87,7 +110,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/sport-overig/6230076/bouwmeester-herpakt-zich-op-vierde-dag-op-wk-en-heeft-medailles-in-zicht.html",
+    "url": "/sport-overig/6230076/bouwmeester-herpakt-zich-op-vierde-dag-van-wk-en-heeft-medailles-in-zicht.html",
     "open_new_window": false,
     "partner": null
   },
@@ -121,7 +144,7 @@
     "title": "Kuijt trots op wederopstanding ADO: 'We zijn paar keer op onze bek gegaan'",
     "subtitle": null,
     "published_at": "2022-10-15T08:31:20+02:00",
-    "updated_at": "2022-10-15T09:52:33+02:00",
+    "updated_at": "2022-10-15T10:05:57+02:00",
     "media_id": "9gnxzivasu5c",
     "duration": null,
     "canonical_section": {
@@ -328,7 +351,7 @@
     "title": "Spoorloos gebruikte tot 2019 bijna geen DNA-onderzoek: hoe gingen ze te werk?",
     "subtitle": null,
     "published_at": "2022-10-15T05:28:57+02:00",
-    "updated_at": "2022-10-15T05:50:42+02:00",
+    "updated_at": "2022-10-15T10:55:38+02:00",
     "media_id": "gh6xm3eaxeuk",
     "duration": null,
     "canonical_section": {
@@ -663,29 +686,6 @@
       "partner": null
     },
     "url": "/gaswinning-groningen/6229893/gevolgen-voor-kinderen-in-bevingsgebied-groot-ze-cijferen-zich-weg-voor-ouders.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6230036,
-    "slug": "hoogland-en-havik-zorgen-voor-nieuw-nederlands-goud-bij-wk-baanwielrennen",
-    "type": "article",
-    "title": "Hoogland en Havik zorgen voor nieuw Nederlands goud bij WK baanwielrennen",
-    "subtitle": null,
-    "published_at": "2022-10-14T19:24:52+02:00",
-    "updated_at": "2022-10-15T09:55:02+02:00",
-    "media_id": "7v4xfl7apdqv",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772456,
-      "slug": "sport-overig",
-      "type": "default",
-      "name": "Sport Overig",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/sport-overig/6230036/hoogland-en-havik-zorgen-voor-nieuw-nederlands-goud-bij-wk-baanwielrennen.html",
     "open_new_window": false,
     "partner": null
   }
