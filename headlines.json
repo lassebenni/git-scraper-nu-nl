@@ -1,12 +1,58 @@
 [
   {
+    "id": 6230144,
+    "slug": "londense-soepgooiers-op-borgtocht-vrij-met-museum-lijm-en-verfverbod",
+    "type": "article",
+    "title": "Londense soepgooiers op borgtocht vrij met museum-, lijm- en verfverbod",
+    "subtitle": null,
+    "published_at": "2022-10-15T16:59:06+02:00",
+    "updated_at": "2022-10-15T16:59:06+02:00",
+    "media_id": "i2qxx75a6ofx",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771675,
+      "slug": "media",
+      "type": "default",
+      "name": "Media",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/media/6230144/londense-soepgooiers-op-borgtocht-vrij-met-museum-lijm-en-verfverbod.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6230140,
+    "slug": "extinction-rebellion-blokkeert-utrechtsebaan-in-den-haag",
+    "type": "video",
+    "title": "Extinction Rebellion blokkeert Utrechtsebaan in Den Haag",
+    "subtitle": "Video",
+    "published_at": "2022-10-15T16:29:55+02:00",
+    "updated_at": "2022-10-15T16:31:04+02:00",
+    "media_id": "2s2x31ha4n6i",
+    "duration": "0:41",
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6230140/extinction-rebellion-blokkeert-utrechtsebaan-in-den-haag.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6230133,
     "slug": "politie-onderzoekt-omgeving-catshuis",
     "type": "video",
     "title": "Politie onderzoekt omgeving Catshuis",
     "subtitle": "Video",
     "published_at": "2022-10-15T15:50:12+02:00",
-    "updated_at": "2022-10-15T15:52:02+02:00",
+    "updated_at": "2022-10-15T16:37:45+02:00",
     "media_id": "dllxupgabzx2",
     "duration": "0:37",
     "canonical_section": {
@@ -70,12 +116,12 @@
   },
   {
     "id": 6230127,
-    "slug": "verdachte-situatie-in-de-buurt-van-catshuis-in-den-haag-omgeving-ruim-afgezet",
+    "slug": "verdachte-situatie-in-de-buurt-van-catshuis-in-den-haag-blijkt-loos-alarm",
     "type": "article",
-    "title": "Verdachte situatie in de buurt van Catshuis in Den Haag, omgeving ruim afgezet",
+    "title": "Verdachte situatie in de buurt van Catshuis in Den Haag blijkt loos alarm",
     "subtitle": null,
     "published_at": "2022-10-15T14:52:45+02:00",
-    "updated_at": "2022-10-15T15:44:46+02:00",
+    "updated_at": "2022-10-15T16:15:57+02:00",
     "media_id": "omhxsula9zgq",
     "duration": null,
     "canonical_section": {
@@ -87,7 +133,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/binnenland/6230127/verdachte-situatie-in-de-buurt-van-catshuis-in-den-haag-omgeving-ruim-afgezet.html",
+    "url": "/binnenland/6230127/verdachte-situatie-in-de-buurt-van-catshuis-in-den-haag-blijkt-loos-alarm.html",
     "open_new_window": false,
     "partner": null
   },
@@ -116,13 +162,13 @@
   },
   {
     "id": 6230125,
-    "slug": "zeker-60-klimaatdemonstranten-aangehouden-omdat-ze-op-a12-bij-den-haag-zaten",
+    "slug": "zestig-klimaatdemonstranten-aangehouden-omdat-ze-op-a12-bij-den-haag-zaten",
     "type": "article",
-    "title": "Zeker 60 klimaatdemonstranten aangehouden omdat ze op A12 bij Den Haag zaten",
+    "title": "Zestig klimaatdemonstranten aangehouden omdat ze op A12 bij Den Haag zaten",
     "subtitle": null,
     "published_at": "2022-10-15T14:03:53+02:00",
-    "updated_at": "2022-10-15T16:03:21+02:00",
-    "media_id": "dewxd7iab9d0",
+    "updated_at": "2022-10-15T16:32:21+02:00",
+    "media_id": "9jyx854atubo",
     "duration": null,
     "canonical_section": {
       "id": 1771435,
@@ -133,7 +179,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/binnenland/6230125/zeker-60-klimaatdemonstranten-aangehouden-omdat-ze-op-a12-bij-den-haag-zaten.html",
+    "url": "/binnenland/6230125/zestig-klimaatdemonstranten-aangehouden-omdat-ze-op-a12-bij-den-haag-zaten.html",
     "open_new_window": false,
     "partner": null
   },
@@ -627,7 +673,7 @@
     "title": "Ook in het bedrijfsleven nemen de zorgen over een recessie toe",
     "subtitle": null,
     "published_at": "2022-10-15T08:13:00+02:00",
-    "updated_at": "2022-10-15T08:13:00+02:00",
+    "updated_at": "2022-10-15T16:40:01+02:00",
     "media_id": "khmxrk3adlm3",
     "duration": null,
     "canonical_section": {
@@ -640,52 +686,6 @@
       "partner": null
     },
     "url": "/economie/6229944/ook-in-het-bedrijfsleven-nemen-de-zorgen-over-een-recessie-toe.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6230067,
-    "slug": "waaghalzen-kajakken-op-kolkende-rivier-tijdens-overstromingen-australie",
-    "type": "video",
-    "title": "Waaghalzen kajakken op kolkende rivier tijdens overstromingen Australië",
-    "subtitle": "Video",
-    "published_at": "2022-10-15T07:52:13+02:00",
-    "updated_at": "2022-10-15T07:52:14+02:00",
-    "media_id": "e72xddtacwh3",
-    "duration": "0:34",
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6230067/waaghalzen-kajakken-op-kolkende-rivier-tijdens-overstromingen-australie.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6230066,
-    "slug": "voor-tweede-keer-vogelgriep-bij-fries-bedrijf-opnieuw-duizenden-kuikens-gedood",
-    "type": "article",
-    "title": "Voor tweede keer vogelgriep bij Fries bedrijf, opnieuw duizenden kuikens gedood",
-    "subtitle": null,
-    "published_at": "2022-10-15T07:48:21+02:00",
-    "updated_at": "2022-10-15T09:47:51+02:00",
-    "media_id": "fnixgvoazgcx",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6230066/voor-tweede-keer-vogelgriep-bij-fries-bedrijf-opnieuw-duizenden-kuikens-gedood.html",
     "open_new_window": false,
     "partner": null
   }
