@@ -1,12 +1,35 @@
 [
   {
+    "id": 6230312,
+    "slug": "zeer-grote-brand-in-restaurant-historisch-centrum-gorinchem",
+    "type": "article",
+    "title": "Zeer grote brand in restaurant historisch centrum Gorinchem",
+    "subtitle": null,
+    "published_at": "2022-10-17T00:43:58+02:00",
+    "updated_at": "2022-10-17T00:54:21+02:00",
+    "media_id": "it5x1d0a3cfl",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6230312/zeer-grote-brand-in-restaurant-historisch-centrum-gorinchem.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6230310,
     "slug": "ajax-trainer-schreuder-woest-na-onwaarheden-in-de-media-ik-ben-er-klaar-mee",
     "type": "article",
     "title": "Ajax-trainer Schreuder woest na 'onwaarheden' in de media: 'Ik ben er klaar mee'",
     "subtitle": null,
     "published_at": "2022-10-16T23:53:05+02:00",
-    "updated_at": "2022-10-16T23:53:06+02:00",
+    "updated_at": "2022-10-17T00:02:23+02:00",
     "media_id": "vttxu31a1ttz",
     "duration": null,
     "canonical_section": {
@@ -663,29 +686,6 @@
       "partner": null
     },
     "url": "/binnenland/6230250/duikinstructeur-overleden-na-ernstig-incident-in-zwembad-amstelveen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6230248,
-    "slug": "nederland-zit-centrale-bank-volgens-dnb-baas-in-de-weg-met-inflatiesteun",
-    "type": "article",
-    "title": "Nederland zit centrale bank volgens DNB-baas in de weg met inflatiesteun",
-    "subtitle": null,
-    "published_at": "2022-10-16T15:41:59+02:00",
-    "updated_at": "2022-10-16T16:36:56+02:00",
-    "media_id": "871xu68amdat",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6230248/nederland-zit-centrale-bank-volgens-dnb-baas-in-de-weg-met-inflatiesteun.html",
     "open_new_window": false,
     "partner": null
   }
