@@ -1,12 +1,35 @@
 [
   {
+    "id": 6230300,
+    "slug": "ajax-herovert-koppositie-in-eredivisie-door-monsterzege-op-excelsior",
+    "type": "article",
+    "title": "Ajax herovert koppositie in Eredivisie door monsterzege op Excelsior",
+    "subtitle": null,
+    "published_at": "2022-10-16T21:52:11+02:00",
+    "updated_at": "2022-10-16T21:56:50+02:00",
+    "media_id": "bmtx6vnabekn",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6230300/ajax-herovert-koppositie-in-eredivisie-door-monsterzege-op-excelsior.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6230291,
     "slug": "explosies-in-belgorod-russische-militairen-bij-grensbewaking-belarus",
     "type": "article",
     "title": "Explosies in Belgorod | Russische militairen bij grensbewaking Belarus",
     "subtitle": "Overzicht",
     "published_at": "2022-10-16T20:57:53+02:00",
-    "updated_at": "2022-10-16T20:59:24+02:00",
+    "updated_at": "2022-10-16T21:09:47+02:00",
     "media_id": "56cxcbma33qn",
     "duration": null,
     "canonical_section": {
@@ -185,13 +208,13 @@
   },
   {
     "id": 6230283,
-    "slug": "glijpartij-van-dortmund-doelman-leidt-nieuwe-zege-van-koploper-union-berlin-in",
+    "slug": "flekken-krijgt-vijf-goals-om-de-oren-tegen-bayern-glijpartij-helpt-union-berlin",
     "type": "article",
-    "title": "Glijpartij van Dortmund-doelman leidt nieuwe zege van koploper Union Berlin in",
+    "title": "Flekken krijgt vijf goals om de oren tegen Bayern, glijpartij helpt Union Berlin",
     "subtitle": null,
     "published_at": "2022-10-16T19:23:29+02:00",
-    "updated_at": "2022-10-16T19:38:59+02:00",
-    "media_id": "eh0xas5a4ncy",
+    "updated_at": "2022-10-16T21:28:37+02:00",
+    "media_id": "izoxtouagp6z",
     "duration": null,
     "canonical_section": {
       "id": 1772338,
@@ -202,7 +225,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6230283/glijpartij-van-dortmund-doelman-leidt-nieuwe-zege-van-koploper-union-berlin-in.html",
+    "url": "/voetbal/6230283/flekken-krijgt-vijf-goals-om-de-oren-tegen-bayern-glijpartij-helpt-union-berlin.html",
     "open_new_window": false,
     "partner": null
   },
@@ -236,7 +259,7 @@
     "title": "AZ lijdt tegen Feyenoord eerste competitienederlaag en is koppositie kwijt",
     "subtitle": null,
     "published_at": "2022-10-16T18:39:16+02:00",
-    "updated_at": "2022-10-16T18:51:50+02:00",
+    "updated_at": "2022-10-16T21:58:26+02:00",
     "media_id": "i0sxvoaaxgr8",
     "duration": null,
     "canonical_section": {
@@ -663,29 +686,6 @@
       "partner": null
     },
     "url": "/binnenland/6230240/weekweerbericht-wisselvallig-met-zon-en-regen-maar-niet-koud-of-onstuimig.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6230236,
-    "slug": "flat-in-istanboel-aan-een-kant-volledig-in-brand",
-    "type": "video",
-    "title": "Flat in Istanboel aan één kant volledig in brand",
-    "subtitle": "Video",
-    "published_at": "2022-10-16T14:37:33+02:00",
-    "updated_at": "2022-10-16T14:38:24+02:00",
-    "media_id": "tzmxr1fapdc7",
-    "duration": "0:34",
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6230236/flat-in-istanboel-aan-een-kant-volledig-in-brand.html",
     "open_new_window": false,
     "partner": null
   }
