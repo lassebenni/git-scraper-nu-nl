@@ -1,12 +1,104 @@
 [
   {
-    "id": 6230300,
-    "slug": "ajax-herovert-koppositie-in-eredivisie-door-monsterzege-op-excelsior",
+    "id": 6230305,
+    "slug": "venezolanen-trekken-door-gevaarlijke-jungle-naar-grens-vs",
+    "type": "video",
+    "title": "Venezolanen trekken door gevaarlijke jungle naar grens VS",
+    "subtitle": "Video",
+    "published_at": "2022-10-16T22:31:29+02:00",
+    "updated_at": "2022-10-16T22:46:26+02:00",
+    "media_id": "tepxoovabmev",
+    "duration": "1:17",
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6230305/venezolanen-trekken-door-gevaarlijke-jungle-naar-grens-vs.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6230304,
+    "slug": "ook-excelsior-captain-droeg-one-love-band-niet-steun-actie-op-mijn-manier",
     "type": "article",
-    "title": "Ajax herovert koppositie in Eredivisie door monsterzege op Excelsior",
+    "title": "Ook Excelsior-captain droeg One Love-band niet: 'Steun actie op mijn manier'",
+    "subtitle": null,
+    "published_at": "2022-10-16T22:27:15+02:00",
+    "updated_at": "2022-10-16T22:47:27+02:00",
+    "media_id": "b42xyy5awca5",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6230304/ook-excelsior-captain-droeg-one-love-band-niet-steun-actie-op-mijn-manier.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6230302,
+    "slug": "veldrijdster-van-empel-wint-in-fayetteville-ook-tweede-wereldbekerwedstrijd",
+    "type": "article",
+    "title": "Veldrijdster Van Empel wint in Fayetteville ook tweede wereldbekerwedstrijd",
+    "subtitle": null,
+    "published_at": "2022-10-16T22:07:17+02:00",
+    "updated_at": "2022-10-16T22:31:25+02:00",
+    "media_id": "pmtxclaaq8dy",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772456,
+      "slug": "sport-overig",
+      "type": "default",
+      "name": "Sport Overig",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/sport-overig/6230302/veldrijdster-van-empel-wint-in-fayetteville-ook-tweede-wereldbekerwedstrijd.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6230303,
+    "slug": "klopp-en-guardiola-zeer-kritisch-op-arbitrage-er-waren-duizend-overtredingen",
+    "type": "article",
+    "title": "Klopp en Guardiola zeer kritisch op arbitrage: 'Er waren duizend overtredingen'",
+    "subtitle": null,
+    "published_at": "2022-10-16T22:07:01+02:00",
+    "updated_at": "2022-10-16T22:27:53+02:00",
+    "media_id": "udaxye2ae4ez",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6230303/klopp-en-guardiola-zeer-kritisch-op-arbitrage-er-waren-duizend-overtredingen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6230300,
+    "slug": "ajax-herovert-koppositie-in-eredivisie-dankzij-monsterzege-op-excelsior",
+    "type": "article",
+    "title": "Ajax herovert koppositie in Eredivisie dankzij monsterzege op Excelsior",
     "subtitle": null,
     "published_at": "2022-10-16T21:52:11+02:00",
-    "updated_at": "2022-10-16T21:56:50+02:00",
+    "updated_at": "2022-10-16T22:46:44+02:00",
     "media_id": "bmtx6vnabekn",
     "duration": null,
     "canonical_section": {
@@ -18,7 +110,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6230300/ajax-herovert-koppositie-in-eredivisie-door-monsterzege-op-excelsior.html",
+    "url": "/voetbal/6230300/ajax-herovert-koppositie-in-eredivisie-dankzij-monsterzege-op-excelsior.html",
     "open_new_window": false,
     "partner": null
   },
@@ -139,13 +231,13 @@
   },
   {
     "id": 6230288,
-    "slug": "koploper-napoli-boekt-ondanks-doelpunt-zirkzee-tiende-overwinning-op-rij",
+    "slug": "psg-wint-le-classique-dankzij-neymar-napoli-ontsnapt-ondanks-goal-zirkzee",
     "type": "article",
-    "title": "Koploper Napoli boekt ondanks doelpunt Zirkzee tiende overwinning op rij",
+    "title": "PSG wint Le Classique dankzij Neymar, Napoli ontsnapt ondanks goal Zirkzee",
     "subtitle": null,
     "published_at": "2022-10-16T19:52:48+02:00",
-    "updated_at": "2022-10-16T20:10:45+02:00",
-    "media_id": "g3nxl6jakord",
+    "updated_at": "2022-10-16T22:57:37+02:00",
+    "media_id": "l3lx2wjaandu",
     "duration": null,
     "canonical_section": {
       "id": 1772338,
@@ -156,7 +248,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6230288/koploper-napoli-boekt-ondanks-doelpunt-zirkzee-tiende-overwinning-op-rij.html",
+    "url": "/voetbal/6230288/psg-wint-le-classique-dankzij-neymar-napoli-ontsnapt-ondanks-goal-zirkzee.html",
     "open_new_window": false,
     "partner": null
   },
@@ -213,7 +305,7 @@
     "title": "Flekken krijgt vijf goals om de oren tegen Bayern, glijpartij helpt Union Berlin",
     "subtitle": null,
     "published_at": "2022-10-16T19:23:29+02:00",
-    "updated_at": "2022-10-16T21:28:37+02:00",
+    "updated_at": "2022-10-16T22:11:47+02:00",
     "media_id": "izoxtouagp6z",
     "duration": null,
     "canonical_section": {
@@ -259,7 +351,7 @@
     "title": "AZ lijdt tegen Feyenoord eerste competitienederlaag en is koppositie kwijt",
     "subtitle": null,
     "published_at": "2022-10-16T18:39:16+02:00",
-    "updated_at": "2022-10-16T21:58:26+02:00",
+    "updated_at": "2022-10-16T22:56:27+02:00",
     "media_id": "i0sxvoaaxgr8",
     "duration": null,
     "canonical_section": {
@@ -594,98 +686,6 @@
       "partner": null
     },
     "url": "/voetbal/6230226/feyenoord-met-dilrosun-tegen-az-bazoer-weer-op-de-bank-bij-alkmaarders.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6230237,
-    "slug": "het-wordt-steeds-drukker-op-zee-maar-dieren-stranden-niet-vaker",
-    "type": "article",
-    "title": "Het wordt steeds drukker op zee, maar dieren stranden niet vaker",
-    "subtitle": null,
-    "published_at": "2022-10-16T15:36:56+02:00",
-    "updated_at": "2022-10-16T18:32:29+02:00",
-    "media_id": "h5rxc1za8bf8",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772536,
-      "slug": "dieren",
-      "type": "default",
-      "name": "Dieren",
-      "style": "nunjij",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/dieren/6230237/het-wordt-steeds-drukker-op-zee-maar-dieren-stranden-niet-vaker.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6230245,
-    "slug": "feyenoord-aanvoerder-kokcu-weigert-vanwege-religie-regenboogband-te-dragen",
-    "type": "article",
-    "title": "Feyenoord-aanvoerder Kökçü weigert vanwege religie regenboogband te dragen",
-    "subtitle": null,
-    "published_at": "2022-10-16T15:29:17+02:00",
-    "updated_at": "2022-10-16T19:53:35+02:00",
-    "media_id": "t50xvzaab67y",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6230245/feyenoord-aanvoerder-kokcu-weigert-vanwege-religie-regenboogband-te-dragen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6230244,
-    "slug": "nederlander-bax-verdient-met-zijn-eerste-wielerzege-transfer-naar-ploeg-pogacar",
-    "type": "article",
-    "title": "Nederlander Bax verdient met zijn eerste wielerzege transfer naar ploeg Pogacar",
-    "subtitle": null,
-    "published_at": "2022-10-16T15:28:29+02:00",
-    "updated_at": "2022-10-16T15:43:51+02:00",
-    "media_id": "70nxmnlam2ep",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772339,
-      "slug": "wielrennen",
-      "type": "default",
-      "name": "Wielrennen",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/wielrennen/6230244/nederlander-bax-verdient-met-zijn-eerste-wielerzege-transfer-naar-ploeg-pogacar.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6230240,
-    "slug": "weekweerbericht-wisselvallig-met-zon-en-regen-maar-niet-koud-of-onstuimig",
-    "type": "article",
-    "title": "Weekweerbericht: Wisselvallig met zon en regen, maar niet koud of onstuimig",
-    "subtitle": null,
-    "published_at": "2022-10-16T15:09:33+02:00",
-    "updated_at": "2022-10-16T15:14:15+02:00",
-    "media_id": "ao9x3yqauh40",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6230240/weekweerbericht-wisselvallig-met-zon-en-regen-maar-niet-koud-of-onstuimig.html",
     "open_new_window": false,
     "partner": null
   }
