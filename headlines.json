@@ -1,5 +1,28 @@
 [
   {
+    "id": 6230190,
+    "slug": "twee-gewonden-door-schietpartij-bij-centraal-station-amsterdam",
+    "type": "article",
+    "title": "Twee gewonden door schietpartij bij Centraal Station Amsterdam",
+    "subtitle": null,
+    "published_at": "2022-10-16T02:44:01+02:00",
+    "updated_at": "2022-10-16T02:44:02+02:00",
+    "media_id": "2jfxszya3n89",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6230190/twee-gewonden-door-schietpartij-bij-centraal-station-amsterdam.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6230189,
     "slug": "brand-en-gewonden-door-onrust-in-beruchte-iraanse-evin-gevangenis",
     "type": "article",
@@ -663,29 +686,6 @@
       "partner": null
     },
     "url": "/binnenland/6230140/extinction-rebellion-blokkeert-utrechtsebaan-in-den-haag.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6230133,
-    "slug": "politie-onderzoekt-omgeving-catshuis",
-    "type": "video",
-    "title": "Politie onderzoekt omgeving Catshuis",
-    "subtitle": "Video",
-    "published_at": "2022-10-15T15:50:12+02:00",
-    "updated_at": "2022-10-15T16:37:45+02:00",
-    "media_id": "dllxupgabzx2",
-    "duration": "0:37",
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6230133/politie-onderzoekt-omgeving-catshuis.html",
     "open_new_window": false,
     "partner": null
   }
