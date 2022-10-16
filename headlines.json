@@ -1,5 +1,28 @@
 [
   {
+    "id": 6230191,
+    "slug": "dode-en-zes-gewonden-bij-ernstig-ongeluk-a73-in-limburg",
+    "type": "article",
+    "title": "Dode en zes gewonden bij ernstig ongeluk A73 in Limburg",
+    "subtitle": null,
+    "published_at": "2022-10-16T04:18:34+02:00",
+    "updated_at": "2022-10-16T04:18:35+02:00",
+    "media_id": "jsexoooa1mz5",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6230191/dode-en-zes-gewonden-bij-ernstig-ongeluk-a73-in-limburg.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6230190,
     "slug": "twee-gewonden-door-schietpartij-bij-centraal-station-amsterdam",
     "type": "article",
@@ -663,29 +686,6 @@
       "partner": null
     },
     "url": "/media/6230144/activisten-die-tomatensoep-gooiden-op-borgtocht-vrij-met-museum-en-lijmverbod.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6230140,
-    "slug": "extinction-rebellion-blokkeert-utrechtsebaan-in-den-haag",
-    "type": "video",
-    "title": "Extinction Rebellion blokkeert Utrechtsebaan in Den Haag",
-    "subtitle": "Video",
-    "published_at": "2022-10-15T16:29:55+02:00",
-    "updated_at": "2022-10-15T16:31:04+02:00",
-    "media_id": "2s2x31ha4n6i",
-    "duration": "0:41",
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6230140/extinction-rebellion-blokkeert-utrechtsebaan-in-den-haag.html",
     "open_new_window": false,
     "partner": null
   }
