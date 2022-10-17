@@ -1,12 +1,81 @@
 [
   {
+    "id": 6230342,
+    "slug": "leden-van-k-popgroep-bts-gaan-toch-het-leger-in",
+    "type": "article",
+    "title": "Leden van K-popgroep BTS gaan toch het leger in",
+    "subtitle": null,
+    "published_at": "2022-10-17T10:07:34+02:00",
+    "updated_at": "2022-10-17T10:08:38+02:00",
+    "media_id": "bb2x9lha6wpp",
+    "duration": null,
+    "canonical_section": {
+      "id": 868281,
+      "slug": "muziek",
+      "type": "default",
+      "name": "Muziek",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/muziek/6230342/leden-van-k-popgroep-bts-gaan-toch-het-leger-in.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6230338,
+    "slug": "vereniging-eigen-huis-wil-dat-appartementen-verduurzamen-makkelijker-wordt",
+    "type": "article",
+    "title": "Vereniging Eigen Huis wil dat appartementen verduurzamen makkelijker wordt",
+    "subtitle": null,
+    "published_at": "2022-10-17T09:46:17+02:00",
+    "updated_at": "2022-10-17T10:08:15+02:00",
+    "media_id": "i8yxub4ao73z",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6230338/vereniging-eigen-huis-wil-dat-appartementen-verduurzamen-makkelijker-wordt.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6230344,
+    "slug": "brand-woedt-in-gebouw-na-aanval-met-kamikazedrones-in-kyiv",
+    "type": "video",
+    "title": "Brand woedt in gebouw na aanval met kamikazedrones in Kyiv",
+    "subtitle": "Video",
+    "published_at": "2022-10-17T09:41:48+02:00",
+    "updated_at": "2022-10-17T09:41:49+02:00",
+    "media_id": "zf9xah3ar6aw",
+    "duration": "0:32",
+    "canonical_section": {
+      "id": 1778980,
+      "slug": "spanningen-oekraine",
+      "type": "default",
+      "name": "Oorlog in Oekraïne",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/spanningen-oekraine/6230344/brand-woedt-in-gebouw-na-aanval-met-kamikazedrones-in-kyiv.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6229199,
     "slug": "politieagenten-moeten-meer-van-elkaar-leren-na-het-gebruik-van-geweld",
     "type": "article",
     "title": "Politieagenten moeten meer van elkaar leren na het gebruik van geweld",
     "subtitle": null,
     "published_at": "2022-10-17T09:00:12+02:00",
-    "updated_at": "2022-10-17T09:00:13+02:00",
+    "updated_at": "2022-10-17T09:55:03+02:00",
     "media_id": "3fxxsdfatgjl",
     "duration": null,
     "canonical_section": {
@@ -47,12 +116,12 @@
   },
   {
     "id": 6230329,
-    "slug": "qatar-mag-na-wk-ook-azie-cup-organiseren-infrastructuur-is-van-wereldklasse",
+    "slug": "qatar-mag-na-omstreden-wk-in-2023-ook-azie-cup-organiseren",
     "type": "article",
-    "title": "Qatar mag na WK ook Azië Cup organiseren: 'Infrastructuur is van wereldklasse'",
+    "title": "Qatar mag na omstreden WK in 2023 ook Azië Cup organiseren",
     "subtitle": null,
     "published_at": "2022-10-17T08:49:28+02:00",
-    "updated_at": "2022-10-17T08:58:29+02:00",
+    "updated_at": "2022-10-17T09:42:05+02:00",
     "media_id": "kt2xnt5a5reo",
     "duration": null,
     "canonical_section": {
@@ -64,7 +133,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6230329/qatar-mag-na-wk-ook-azie-cup-organiseren-infrastructuur-is-van-wereldklasse.html",
+    "url": "/voetbal/6230329/qatar-mag-na-omstreden-wk-in-2023-ook-azie-cup-organiseren.html",
     "open_new_window": false,
     "partner": null
   },
@@ -75,7 +144,7 @@
     "title": "Tweede Russische aanval op Kyiv in een week, explosies door kamikazedrones",
     "subtitle": null,
     "published_at": "2022-10-17T08:41:33+02:00",
-    "updated_at": "2022-10-17T08:48:53+02:00",
+    "updated_at": "2022-10-17T10:00:16+02:00",
     "media_id": "wl5xpumasz8f",
     "duration": null,
     "canonical_section": {
@@ -121,7 +190,7 @@
     "title": "Ombudsman wil dat sociaal minimum omhooggaat: 'Burgers zakken nu door ijs'",
     "subtitle": null,
     "published_at": "2022-10-17T08:14:30+02:00",
-    "updated_at": "2022-10-17T09:11:12+02:00",
+    "updated_at": "2022-10-17T09:25:51+02:00",
     "media_id": "twextclals34",
     "duration": null,
     "canonical_section": {
@@ -282,7 +351,7 @@
     "title": "Van Miedema tot Gravenberch: dit zijn de genomineerden bij het Gouden Bal-gala",
     "subtitle": null,
     "published_at": "2022-10-17T06:59:58+02:00",
-    "updated_at": "2022-10-17T06:59:59+02:00",
+    "updated_at": "2022-10-17T09:47:57+02:00",
     "media_id": "60wxb15abpbp",
     "duration": null,
     "canonical_section": {
@@ -397,7 +466,7 @@
     "title": "Waarom ruimtemissies naar onbewoonbaar Venus, terwijl Mars bewoonbaar lijkt?",
     "subtitle": null,
     "published_at": "2022-10-17T05:39:42+02:00",
-    "updated_at": "2022-10-17T09:14:18+02:00",
+    "updated_at": "2022-10-17T09:57:57+02:00",
     "media_id": "6vdxxkya8lo5",
     "duration": null,
     "canonical_section": {
@@ -489,7 +558,7 @@
     "title": "Goed paddenstoelenjaar, maar eigenlijk mag er niks uit het bos mee naar huis",
     "subtitle": null,
     "published_at": "2022-10-17T05:27:33+02:00",
-    "updated_at": "2022-10-17T05:27:34+02:00",
+    "updated_at": "2022-10-17T09:22:02+02:00",
     "media_id": "n0yx3riabvqo",
     "duration": null,
     "canonical_section": {
@@ -617,75 +686,6 @@
       "partner": null
     },
     "url": "/voetbal/6230310/ajax-trainer-schreuder-woest-na-onwaarheden-in-de-media-ik-ben-er-klaar-mee.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6230308,
-    "slug": "zeilster-bouwmeester-eindigt-wk-als-negende-zesde-plek-voor-jonker",
-    "type": "article",
-    "title": "Zeilster Bouwmeester eindigt WK als negende, zesde plek voor Jonker",
-    "subtitle": null,
-    "published_at": "2022-10-16T23:26:57+02:00",
-    "updated_at": "2022-10-16T23:33:25+02:00",
-    "media_id": "3amxp5qajj0x",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772456,
-      "slug": "sport-overig",
-      "type": "default",
-      "name": "Sport Overig",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/sport-overig/6230308/zeilster-bouwmeester-eindigt-wk-als-negende-zesde-plek-voor-jonker.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6230305,
-    "slug": "venezolanen-trekken-door-gevaarlijke-jungle-naar-grens-vs",
-    "type": "video",
-    "title": "Venezolanen trekken door gevaarlijke jungle naar grens VS",
-    "subtitle": "Video",
-    "published_at": "2022-10-16T22:31:29+02:00",
-    "updated_at": "2022-10-16T22:46:26+02:00",
-    "media_id": "tepxoovabmev",
-    "duration": "1:17",
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6230305/venezolanen-trekken-door-gevaarlijke-jungle-naar-grens-vs.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6230304,
-    "slug": "ook-excelsior-captain-droeg-one-love-band-niet-steun-actie-op-mijn-manier",
-    "type": "article",
-    "title": "Ook Excelsior-captain droeg One Love-band niet: 'Steun actie op mijn manier'",
-    "subtitle": null,
-    "published_at": "2022-10-16T22:27:15+02:00",
-    "updated_at": "2022-10-16T22:47:27+02:00",
-    "media_id": "b42xyy5awca5",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6230304/ook-excelsior-captain-droeg-one-love-band-niet-steun-actie-op-mijn-manier.html",
     "open_new_window": false,
     "partner": null
   }
