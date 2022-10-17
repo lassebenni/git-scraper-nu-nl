@@ -1,12 +1,58 @@
 [
   {
+    "id": 6230314,
+    "slug": "ruim-zeshonderd-doden-en-2400-gewonden-door-overstromingen-nigeria",
+    "type": "article",
+    "title": "Ruim zeshonderd doden en 2.400 gewonden door overstromingen Nigeria",
+    "subtitle": null,
+    "published_at": "2022-10-17T03:29:44+02:00",
+    "updated_at": "2022-10-17T03:29:45+02:00",
+    "media_id": "l21x1iva0a9t",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6230314/ruim-zeshonderd-doden-en-2400-gewonden-door-overstromingen-nigeria.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6230313,
+    "slug": "onderzoek-naar-corruptie-zwolse-ziekenhuis-isala-richt-zich-op-duits-bedrijf",
+    "type": "article",
+    "title": "Onderzoek naar corruptie Zwolse ziekenhuis Isala richt zich op Duits bedrijf",
+    "subtitle": null,
+    "published_at": "2022-10-17T02:42:56+02:00",
+    "updated_at": "2022-10-17T02:42:57+02:00",
+    "media_id": "9pkxtf3a5t1o",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6230313/onderzoek-naar-corruptie-zwolse-ziekenhuis-isala-richt-zich-op-duits-bedrijf.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6230312,
     "slug": "zeer-grote-brand-in-restaurant-historisch-centrum-gorinchem",
     "type": "article",
     "title": "Zeer grote brand in restaurant historisch centrum Gorinchem",
     "subtitle": null,
     "published_at": "2022-10-17T00:43:58+02:00",
-    "updated_at": "2022-10-17T00:54:21+02:00",
+    "updated_at": "2022-10-17T02:48:25+02:00",
     "media_id": "it5x1d0a3cfl",
     "duration": null,
     "canonical_section": {
@@ -420,7 +466,7 @@
     "title": "AZ lijdt tegen Feyenoord eerste competitienederlaag en is koppositie kwijt",
     "subtitle": null,
     "published_at": "2022-10-16T18:39:16+02:00",
-    "updated_at": "2022-10-16T22:56:27+02:00",
+    "updated_at": "2022-10-17T03:30:23+02:00",
     "media_id": "i0sxvoaaxgr8",
     "duration": null,
     "canonical_section": {
@@ -640,52 +686,6 @@
       "partner": null
     },
     "url": "/voetbal/6230256/til-simons-en-el-ghazi-leiden-psv-naar-ruime-overwinning-op-zwak-fc-utrecht.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6230238,
-    "slug": "lavreysen-verovert-voor-vierde-jaar-op-rij-wk-goud-op-koningsnummer-sprint",
-    "type": "article",
-    "title": "Lavreysen verovert voor vierde jaar op rij WK-goud op koningsnummer sprint",
-    "subtitle": null,
-    "published_at": "2022-10-16T16:03:10+02:00",
-    "updated_at": "2022-10-16T17:22:27+02:00",
-    "media_id": "4nsxbrpaorzb",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772456,
-      "slug": "sport-overig",
-      "type": "default",
-      "name": "Sport Overig",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/sport-overig/6230238/lavreysen-verovert-voor-vierde-jaar-op-rij-wk-goud-op-koningsnummer-sprint.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6230250,
-    "slug": "duikinstructeur-overleden-na-ernstig-incident-in-zwembad-amstelveen",
-    "type": "article",
-    "title": "Duikinstructeur overleden na ernstig incident in zwembad Amstelveen",
-    "subtitle": null,
-    "published_at": "2022-10-16T15:46:51+02:00",
-    "updated_at": "2022-10-16T18:48:09+02:00",
-    "media_id": "w6wxcriam9s4",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6230250/duikinstructeur-overleden-na-ernstig-incident-in-zwembad-amstelveen.html",
     "open_new_window": false,
     "partner": null
   }
