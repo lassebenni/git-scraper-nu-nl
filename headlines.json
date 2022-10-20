@@ -1,5 +1,120 @@
 [
   {
+    "id": 6231026,
+    "slug": "pest-blijkt-onze-gezondheid-700-jaar-na-oorsprong-nog-steeds-te-beinvloeden",
+    "type": "article",
+    "title": "Pest blijkt onze gezondheid 700 jaar na oorsprong nog steeds te beïnvloeden",
+    "subtitle": null,
+    "published_at": "2022-10-20T08:48:44+02:00",
+    "updated_at": "2022-10-20T08:48:45+02:00",
+    "media_id": "31gxlv1avnzg",
+    "duration": null,
+    "canonical_section": {
+      "id": 1146768,
+      "slug": "gezondheid",
+      "type": "default",
+      "name": "Gezondheid",
+      "style": "nunjij",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/gezondheid/6231026/pest-blijkt-onze-gezondheid-700-jaar-na-oorsprong-nog-steeds-te-beinvloeden.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6231029,
+    "slug": "zwitserse-aanklagers-definitief-in-beroep-tegen-vrijspraak-blatter-en-platini",
+    "type": "article",
+    "title": "Zwitserse aanklagers definitief in beroep tegen vrijspraak Blatter en Platini",
+    "subtitle": null,
+    "published_at": "2022-10-20T08:37:04+02:00",
+    "updated_at": "2022-10-20T09:06:20+02:00",
+    "media_id": "162x6pba0i7t",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6231029/zwitserse-aanklagers-definitief-in-beroep-tegen-vrijspraak-blatter-en-platini.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6230985,
+    "slug": "nederland-ruimde-in-jaar-tijd-al-meer-dan-55-miljoen-dieren-vanwege-vogelgriep",
+    "type": "article",
+    "title": "Nederland ruimde in jaar tijd al meer dan 5,5 miljoen dieren vanwege vogelgriep",
+    "subtitle": null,
+    "published_at": "2022-10-20T08:28:44+02:00",
+    "updated_at": "2022-10-20T08:28:45+02:00",
+    "media_id": "a6ox4rraihuu",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6230985/nederland-ruimde-in-jaar-tijd-al-meer-dan-55-miljoen-dieren-vanwege-vogelgriep.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6231025,
+    "slug": "bedrijven-investeren-meer-in-gebouwen-machines-en-autos",
+    "type": "article",
+    "title": "Bedrijven investeren meer in gebouwen, machines en auto's",
+    "subtitle": null,
+    "published_at": "2022-10-20T08:25:26+02:00",
+    "updated_at": "2022-10-20T08:25:27+02:00",
+    "media_id": "nu5xj0xaqjb2",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6231025/bedrijven-investeren-meer-in-gebouwen-machines-en-autos.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6231022,
+    "slug": "special-jeroen-pauw-over-oorlog-in-oekraine-bekeken-door-630000-mensen",
+    "type": "article",
+    "title": "Special Jeroen Pauw over oorlog in Oekraïne bekeken door 630.000 mensen",
+    "subtitle": null,
+    "published_at": "2022-10-20T08:24:53+02:00",
+    "updated_at": "2022-10-20T08:26:01+02:00",
+    "media_id": "zr1x9goamr57",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771675,
+      "slug": "media",
+      "type": "default",
+      "name": "Media",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/media/6231022/special-jeroen-pauw-over-oorlog-in-oekraine-bekeken-door-630000-mensen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6231018,
     "slug": "trainer-oosting-is-doodziek-van-zeperd-b-elftal-rkc-waalwijk-in-knvb-beker",
     "type": "article",
@@ -24,12 +139,12 @@
   },
   {
     "id": 6231013,
-    "slug": "aantal-werklozen-in-ons-land-stijgt-naar-382000-in-september",
+    "slug": "aantal-werklozen-in-ons-land-stijgt-naar-382000",
     "type": "article",
-    "title": "Aantal werklozen in ons land stijgt naar 382.000 in september",
+    "title": "Aantal werklozen in ons land stijgt naar 382.000",
     "subtitle": null,
     "published_at": "2022-10-20T07:47:58+02:00",
-    "updated_at": "2022-10-20T07:48:00+02:00",
+    "updated_at": "2022-10-20T08:16:15+02:00",
     "media_id": "p56xvzcaky8k",
     "duration": null,
     "canonical_section": {
@@ -41,18 +156,18 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/economie/6231013/aantal-werklozen-in-ons-land-stijgt-naar-382000-in-september.html",
+    "url": "/economie/6231013/aantal-werklozen-in-ons-land-stijgt-naar-382000.html",
     "open_new_window": false,
     "partner": null
   },
   {
     "id": 6231016,
-    "slug": "nicki-minaj-zegt-door-moederschap-angstiger-te-zijn-geworden",
+    "slug": "nicki-minaj-is-angstiger-geworden-door-moederschap",
     "type": "article",
-    "title": "Nicki Minaj zegt door moederschap angstiger te zijn geworden",
+    "title": "Nicki Minaj is angstiger geworden door moederschap",
     "subtitle": null,
     "published_at": "2022-10-20T07:46:13+02:00",
-    "updated_at": "2022-10-20T07:46:14+02:00",
+    "updated_at": "2022-10-20T08:06:48+02:00",
     "media_id": "64vx8xyasbj1",
     "duration": null,
     "canonical_section": {
@@ -64,7 +179,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/achterklap/6231016/nicki-minaj-zegt-door-moederschap-angstiger-te-zijn-geworden.html",
+    "url": "/achterklap/6231016/nicki-minaj-is-angstiger-geworden-door-moederschap.html",
     "open_new_window": false,
     "partner": null
   },
@@ -75,19 +190,19 @@
     "title": "Astronomen ontdekken enorm zwart gat 'praktisch in onze achtertuin'",
     "subtitle": null,
     "published_at": "2022-10-20T07:44:40+02:00",
-    "updated_at": "2022-10-20T07:59:54+02:00",
+    "updated_at": "2022-10-20T08:31:07+02:00",
     "media_id": "sc9xd3eakp6q",
     "duration": null,
     "canonical_section": {
-      "id": 1771438,
-      "slug": "tech",
+      "id": 478878,
+      "slug": "wetenschap",
       "type": "default",
-      "name": "Tech",
-      "style": "nutech",
+      "name": "Wetenschap",
+      "style": "nunjij",
       "media_id": null,
       "partner": null
     },
-    "url": "/tech/6231015/astronomen-ontdekken-enorm-zwart-gat-praktisch-in-onze-achtertuin.html",
+    "url": "/wetenschap/6231015/astronomen-ontdekken-enorm-zwart-gat-praktisch-in-onze-achtertuin.html",
     "open_new_window": false,
     "partner": null
   },
@@ -277,12 +392,12 @@
   },
   {
     "id": 6230964,
-    "slug": "corona-slaat-weer-toe-op-de-werkvloer-verzuim-stijgt",
+    "slug": "corona-slaat-weer-toe-op-de-werkvloer-verzuimcijfers-stijgen",
     "type": "article",
-    "title": "Corona slaat weer toe op de werkvloer, verzuim stijgt",
+    "title": "Corona slaat weer toe op de werkvloer: verzuimcijfers stijgen",
     "subtitle": null,
     "published_at": "2022-10-20T05:31:00+02:00",
-    "updated_at": "2022-10-20T05:31:01+02:00",
+    "updated_at": "2022-10-20T08:50:42+02:00",
     "media_id": "i4yx8yuaved5",
     "duration": null,
     "canonical_section": {
@@ -294,7 +409,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/economie/6230964/corona-slaat-weer-toe-op-de-werkvloer-verzuim-stijgt.html",
+    "url": "/economie/6230964/corona-slaat-weer-toe-op-de-werkvloer-verzuimcijfers-stijgen.html",
     "open_new_window": false,
     "partner": null
   },
@@ -369,12 +484,12 @@
   },
   {
     "id": 6230666,
-    "slug": "switch-van-vee-naar-landbouw-idee-van-minister-klinkt-simpel-maar-is-het-niet",
+    "slug": "switch-van-vee-naar-akkerbouw-idee-van-minister-klinkt-simpel-maar-is-het-niet",
     "type": "article",
-    "title": "'Switch van vee naar landbouw': idee van minister klinkt simpel, maar is het niet",
+    "title": "'Switch van vee naar akkerbouw': idee van minister klinkt simpel, maar is het niet",
     "subtitle": null,
     "published_at": "2022-10-20T05:01:01+02:00",
-    "updated_at": "2022-10-20T05:01:01+02:00",
+    "updated_at": "2022-10-20T08:09:38+02:00",
     "media_id": "subx1skaiq39",
     "duration": null,
     "canonical_section": {
@@ -386,7 +501,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/binnenland/6230666/switch-van-vee-naar-landbouw-idee-van-minister-klinkt-simpel-maar-is-het-niet.html",
+    "url": "/binnenland/6230666/switch-van-vee-naar-akkerbouw-idee-van-minister-klinkt-simpel-maar-is-het-niet.html",
     "open_new_window": false,
     "partner": null
   },
@@ -466,7 +581,7 @@
     "title": "Twee overleden mensen gevonden in auto, politie 'twijfelt er niet aan' dat het Hebe en Sanne zijn",
     "subtitle": null,
     "published_at": "2022-10-20T00:25:36+02:00",
-    "updated_at": "2022-10-20T07:04:42+02:00",
+    "updated_at": "2022-10-20T09:09:33+02:00",
     "media_id": "zjdxlgwav6xw",
     "duration": null,
     "canonical_section": {
@@ -571,121 +686,6 @@
       "partner": null
     },
     "url": "/voetbal/6230990/invaller-miedema-haalt-met-arsenal-uit-bij-champions-league-winnaar-lyon.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6230560,
-    "slug": "twee-overleden-mensen-gevonden-in-auto-vermoedelijk-vermiste-hebe-en-sanne",
-    "type": "article",
-    "title": "Twee overleden mensen gevonden in auto, vermoedelijk vermiste Hebe en Sanne",
-    "subtitle": null,
-    "published_at": "2022-10-19T22:57:49+02:00",
-    "updated_at": "2022-10-19T23:44:11+02:00",
-    "media_id": "zjdxlgwav6xw",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6230560/twee-overleden-mensen-gevonden-in-auto-vermoedelijk-vermiste-hebe-en-sanne.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6230989,
-    "slug": "bultrug-verrast-vissende-zoon-en-vader-in-new-jersey",
-    "type": "video",
-    "title": "Bultrug verrast vissende zoon en vader in New Jersey",
-    "subtitle": "Video",
-    "published_at": "2022-10-19T22:47:10+02:00",
-    "updated_at": "2022-10-19T22:47:11+02:00",
-    "media_id": "tooxa12ad59g",
-    "duration": "0:35",
-    "canonical_section": {
-      "id": 1772536,
-      "slug": "dieren",
-      "type": "default",
-      "name": "Dieren",
-      "style": "nunjij",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/dieren/6230989/bultrug-verrast-vissende-zoon-en-vader-in-new-jersey.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6230984,
-    "slug": "united-en-ten-hag-winnen-van-spurs-geirriteerde-ronaldo-eerder-naar-binnen",
-    "type": "article",
-    "title": "United en Ten Hag winnen van Spurs, geïrriteerde Ronaldo eerder naar binnen",
-    "subtitle": null,
-    "published_at": "2022-10-19T22:29:48+02:00",
-    "updated_at": "2022-10-20T06:44:52+02:00",
-    "media_id": "mhzxvvca62z2",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6230984/united-en-ten-hag-winnen-van-spurs-geirriteerde-ronaldo-eerder-naar-binnen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6230686,
-    "slug": "donkere-kia-picanto-gevonden-in-het-water-in-zoektocht-naar-vermiste-hebe-10-en-sanne",
-    "type": "article",
-    "title": "Donkere Kia Picanto gevonden in het water in zoektocht naar vermiste Hebe (10) en Sanne",
-    "subtitle": null,
-    "published_at": "2022-10-19T22:18:40+02:00",
-    "updated_at": "2022-10-19T22:42:48+02:00",
-    "media_id": "t6oxab3ahgxp",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6230686/donkere-kia-picanto-gevonden-in-het-water-in-zoektocht-naar-vermiste-hebe-10-en-sanne.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6230987,
-    "slug": "vitesse-en-rkc-waalwijk-blameren-zich-tegen-amateurclub-in-knvb-beker",
-    "type": "article",
-    "title": "Vitesse en RKC Waalwijk blameren zich tegen amateurclub in KNVB-beker",
-    "subtitle": null,
-    "published_at": "2022-10-19T21:59:52+02:00",
-    "updated_at": "2022-10-19T23:29:07+02:00",
-    "media_id": "38nx1n5afm0i",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6230987/vitesse-en-rkc-waalwijk-blameren-zich-tegen-amateurclub-in-knvb-beker.html",
     "open_new_window": false,
     "partner": null
   }
