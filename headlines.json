@@ -1,5 +1,28 @@
 [
   {
+    "id": 6231237,
+    "slug": "eu-overleg-levert-nog-geen-akkoord-op-voor-de-maximumprijs-voor-gas",
+    "type": "article",
+    "title": "EU-overleg levert nog geen akkoord op voor de maximumprijs voor gas",
+    "subtitle": null,
+    "published_at": "2022-10-21T04:39:37+02:00",
+    "updated_at": "2022-10-21T04:39:38+02:00",
+    "media_id": "yd8xc9ra9b0p",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6231237/eu-overleg-levert-nog-geen-akkoord-op-voor-de-maximumprijs-voor-gas.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6231235,
     "slug": "rechter-geeft-in-hoger-beroep-alsnog-levenslang-voor-aanslag-charlie-hebdo",
     "type": "article",
@@ -663,29 +686,6 @@
       "partner": null
     },
     "url": "/voetbal/6231186/reacties-na-1-0-nederlaag-psv-bij-arsenal-gesloten.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6231176,
-    "slug": "auto-vliegt-in-brand-op-snelweg-bij-ede",
-    "type": "video",
-    "title": "Auto vliegt in brand op snelweg bij Ede",
-    "subtitle": "Video",
-    "published_at": "2022-10-20T18:01:00+02:00",
-    "updated_at": "2022-10-20T18:01:01+02:00",
-    "media_id": "ajqxivfahe49",
-    "duration": "0:34",
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6231176/auto-vliegt-in-brand-op-snelweg-bij-ede.html",
     "open_new_window": false,
     "partner": null
   }
