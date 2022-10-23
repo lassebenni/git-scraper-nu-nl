@@ -1,12 +1,58 @@
 [
   {
+    "id": 6231745,
+    "slug": "opnieuw-duel-van-anderlecht-gestaakt-wegens-misdragingen-fans",
+    "type": "article",
+    "title": "Opnieuw duel van Anderlecht gestaakt wegens misdragingen fans",
+    "subtitle": null,
+    "published_at": "2022-10-23T20:40:57+02:00",
+    "updated_at": "2022-10-23T20:59:35+02:00",
+    "media_id": "63hxpf1a1z65",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6231745/opnieuw-duel-van-anderlecht-gestaakt-wegens-misdragingen-fans.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6231744,
+    "slug": "verstappen-kan-record-schumacher-en-vettel-evenaren-in-austin",
+    "type": "article",
+    "title": "Verstappen kan record Schumacher en Vettel evenaren in Austin",
+    "subtitle": "Liveblog F1",
+    "published_at": "2022-10-23T20:27:48+02:00",
+    "updated_at": "2022-10-23T20:58:02+02:00",
+    "media_id": "78kx8zmaqf9x",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772449,
+      "slug": "formule-1",
+      "type": "default",
+      "name": "Formule 1",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/formule-1/6231744/verstappen-kan-record-schumacher-en-vettel-evenaren-in-austin.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6231742,
     "slug": "de-roon-valt-maand-voor-wk-geblesseerd-uit-bij-eerste-competitieverlies-atalanta",
     "type": "article",
     "title": "De Roon valt maand voor WK geblesseerd uit bij eerste competitieverlies Atalanta",
     "subtitle": null,
     "published_at": "2022-10-23T20:01:47+02:00",
-    "updated_at": "2022-10-23T20:01:48+02:00",
+    "updated_at": "2022-10-23T20:12:30+02:00",
     "media_id": "wswxf1vavlvn",
     "duration": null,
     "canonical_section": {
@@ -305,7 +351,7 @@
     "title": "Grote brand op woonboulevard in Delft, meerdere winkels ontruimd",
     "subtitle": null,
     "published_at": "2022-10-23T17:40:57+02:00",
-    "updated_at": "2022-10-23T18:43:42+02:00",
+    "updated_at": "2022-10-23T21:00:23+02:00",
     "media_id": "v48x9i6adu2u",
     "duration": null,
     "canonical_section": {
@@ -512,7 +558,7 @@
     "title": "Aan tumor geopereerde Boëtius viert rentree bij Hertha BSC met overwinning",
     "subtitle": null,
     "published_at": "2022-10-23T15:26:08+02:00",
-    "updated_at": "2022-10-23T19:52:54+02:00",
+    "updated_at": "2022-10-23T20:57:49+02:00",
     "media_id": "catx097aonz2",
     "duration": null,
     "canonical_section": {
@@ -640,52 +686,6 @@
       "partner": null
     },
     "url": "/voetbal/6231701/feyenoord-vrouwen-komt-in-zwolle-voor-het-eerst-dit-seizoen-niet-tot-winst.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6231702,
-    "slug": "weekweerbericht-het-blijft-warm-temperaturen-stijgen-zelfs-verder",
-    "type": "article",
-    "title": "Weekweerbericht: het blijft warm, temperaturen stijgen zelfs verder",
-    "subtitle": null,
-    "published_at": "2022-10-23T14:08:22+02:00",
-    "updated_at": "2022-10-23T14:29:02+02:00",
-    "media_id": "ltqxp6ha9pvd",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6231702/weekweerbericht-het-blijft-warm-temperaturen-stijgen-zelfs-verder.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6231700,
-    "slug": "excelsior-bezorgt-teleurstellend-az-derde-nederlaag-op-rij",
-    "type": "article",
-    "title": "Excelsior bezorgt teleurstellend AZ derde nederlaag op rij",
-    "subtitle": null,
-    "published_at": "2022-10-23T14:07:06+02:00",
-    "updated_at": "2022-10-23T17:27:37+02:00",
-    "media_id": "2ejxa57a168d",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6231700/excelsior-bezorgt-teleurstellend-az-derde-nederlaag-op-rij.html",
     "open_new_window": false,
     "partner": null
   }
