@@ -1,5 +1,51 @@
 [
   {
+    "id": 6231920,
+    "slug": "politie-vervaagt-voortaan-automatisch-gezichten-op-fotos-van-kentekencameras",
+    "type": "article",
+    "title": "Politie vervaagt voortaan automatisch gezichten op foto's van kentekencamera's",
+    "subtitle": null,
+    "published_at": "2022-10-24T15:56:48+02:00",
+    "updated_at": "2022-10-24T15:56:49+02:00",
+    "media_id": "98xxiopa5b47",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771438,
+      "slug": "tech",
+      "type": "default",
+      "name": "Tech",
+      "style": "nutech",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/tech/6231920/politie-vervaagt-voortaan-automatisch-gezichten-op-fotos-van-kentekencameras.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6231928,
+    "slug": "oud-schaatskampioene-achtereekte-mag-door-bij-wielerploeg-jumbo-visma",
+    "type": "article",
+    "title": "Oud-schaatskampioene Achtereekte mag door bij wielerploeg Jumbo-Visma",
+    "subtitle": null,
+    "published_at": "2022-10-24T15:49:30+02:00",
+    "updated_at": "2022-10-24T16:00:12+02:00",
+    "media_id": "dhax9fmarghm",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6231928/oud-schaatskampioene-achtereekte-mag-door-bij-wielerploeg-jumbo-visma.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6231915,
     "slug": "tim-den-besten-interviewt-koning-willem-alexander-voor-nieuwe-jeugdserie",
     "type": "article",
@@ -29,8 +75,8 @@
     "title": "Antwoorden op jullie vragen over de GP in Austin: 'F1 heeft vaste grond in VS'",
     "subtitle": null,
     "published_at": "2022-10-24T15:03:22+02:00",
-    "updated_at": "2022-10-24T15:12:00+02:00",
-    "media_id": "suxxm45a6grr",
+    "updated_at": "2022-10-24T15:21:09+02:00",
+    "media_id": "q6ox549a2ceb",
     "duration": null,
     "canonical_section": {
       "id": 1778846,
@@ -75,7 +121,7 @@
     "title": "Rishi Sunak volgt Liz Truss op als nieuwe Britse premier",
     "subtitle": null,
     "published_at": "2022-10-24T15:01:36+02:00",
-    "updated_at": "2022-10-24T15:14:30+02:00",
+    "updated_at": "2022-10-24T15:56:29+02:00",
     "media_id": "5igxlq4aevw7",
     "duration": null,
     "canonical_section": {
@@ -116,12 +162,12 @@
   },
   {
     "id": 6231908,
-    "slug": "familie-van-sanne-wil-dat-inzamelingsacties-stoppen",
+    "slug": "familie-van-omgekomen-sanne-wil-dat-inzamelingsacties-stoppen",
     "type": "article",
-    "title": "Familie van Sanne wil dat inzamelingsacties stoppen",
+    "title": "Familie van omgekomen Sanne wil dat inzamelingsacties stoppen",
     "subtitle": null,
     "published_at": "2022-10-24T14:43:52+02:00",
-    "updated_at": "2022-10-24T14:43:54+02:00",
+    "updated_at": "2022-10-24T16:16:29+02:00",
     "media_id": "wlexopialw6i",
     "duration": null,
     "canonical_section": {
@@ -133,7 +179,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/binnenland/6231908/familie-van-sanne-wil-dat-inzamelingsacties-stoppen.html",
+    "url": "/binnenland/6231908/familie-van-omgekomen-sanne-wil-dat-inzamelingsacties-stoppen.html",
     "open_new_window": false,
     "partner": null
   },
@@ -144,7 +190,7 @@
     "title": "Qatar arresteert en mishandelt volgens onderzoek lhbti's, ook in aanloop naar WK",
     "subtitle": null,
     "published_at": "2022-10-24T14:22:57+02:00",
-    "updated_at": "2022-10-24T14:22:58+02:00",
+    "updated_at": "2022-10-24T15:26:32+02:00",
     "media_id": "osxx382ax2c9",
     "duration": null,
     "canonical_section": {
@@ -213,7 +259,7 @@
     "title": "Chileen wekenlang opgesloten en mishandeld in Den Haag, politie zoekt daders",
     "subtitle": null,
     "published_at": "2022-10-24T13:46:02+02:00",
-    "updated_at": "2022-10-24T15:17:48+02:00",
+    "updated_at": "2022-10-24T15:28:49+02:00",
     "media_id": "d3bxlfqaq9vn",
     "duration": null,
     "canonical_section": {
@@ -489,7 +535,7 @@
     "title": "Ministerie verwacht dat volgend jaar meer vluchtelingen asiel aanvragen",
     "subtitle": null,
     "published_at": "2022-10-24T11:52:55+02:00",
-    "updated_at": "2022-10-24T13:43:50+02:00",
+    "updated_at": "2022-10-24T15:57:28+02:00",
     "media_id": "ndnxlxgatt4w",
     "duration": null,
     "canonical_section": {
@@ -558,7 +604,7 @@
     "title": "Gasprijs duikt onder de 100 euro, laagste punt in ruim vier maanden",
     "subtitle": null,
     "published_at": "2022-10-24T11:34:33+02:00",
-    "updated_at": "2022-10-24T11:55:36+02:00",
+    "updated_at": "2022-10-24T15:48:07+02:00",
     "media_id": "uncxc6rargv8",
     "duration": null,
     "canonical_section": {
@@ -640,52 +686,6 @@
       "partner": null
     },
     "url": "/buitenland/6231804/britse-conservatieven-buigen-zich-over-nieuwe-leider-dit-gaat-er-gebeuren.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6231816,
-    "slug": "gameplatform-steam-breekt-eigen-record-30-miljoen-spelers-tegelijk-online",
-    "type": "article",
-    "title": "Gameplatform Steam breekt eigen record: 30 miljoen spelers tegelijk online",
-    "subtitle": null,
-    "published_at": "2022-10-24T10:28:36+02:00",
-    "updated_at": "2022-10-24T10:28:36+02:00",
-    "media_id": "yukx6sba283o",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771438,
-      "slug": "tech",
-      "type": "default",
-      "name": "Tech",
-      "style": "nutech",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/tech/6231816/gameplatform-steam-breekt-eigen-record-30-miljoen-spelers-tegelijk-online.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6231817,
-    "slug": "politieauto-beschadigd-door-granaat-van-braziliaanse-politicus",
-    "type": "video",
-    "title": "Politieauto beschadigd door granaat van Braziliaanse politicus",
-    "subtitle": "Video",
-    "published_at": "2022-10-24T10:21:17+02:00",
-    "updated_at": "2022-10-24T10:21:17+02:00",
-    "media_id": "fxsxfw4am1sk",
-    "duration": "0:47",
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6231817/politieauto-beschadigd-door-granaat-van-braziliaanse-politicus.html",
     "open_new_window": false,
     "partner": null
   }
