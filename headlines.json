@@ -1,12 +1,58 @@
 [
   {
+    "id": 6232915,
+    "slug": "tientallen-medewerkers-staken-bij-amsterdamse-bijenkorf",
+    "type": "video",
+    "title": "Tientallen medewerkers staken bij Amsterdamse Bijenkorf",
+    "subtitle": "Video",
+    "published_at": "2022-10-29T13:51:50+02:00",
+    "updated_at": "2022-10-29T14:00:52+02:00",
+    "media_id": "zdnxo0ha41f4",
+    "duration": "0:35",
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6232915/tientallen-medewerkers-staken-bij-amsterdamse-bijenkorf.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6232908,
+    "slug": "acht-nederlanders-genomineerd-voor-prestigieuze-wielerprijs-velo-dor",
+    "type": "article",
+    "title": "Acht Nederlanders genomineerd voor prestigieuze wielerprijs Vélo d'Or",
+    "subtitle": null,
+    "published_at": "2022-10-29T13:33:51+02:00",
+    "updated_at": "2022-10-29T14:00:04+02:00",
+    "media_id": "rdzxzfoaard4",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772339,
+      "slug": "wielrennen",
+      "type": "default",
+      "name": "Wielrennen",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/wielrennen/6232908/acht-nederlanders-genomineerd-voor-prestigieuze-wielerprijs-velo-dor.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6232804,
     "slug": "is-de-straf-die-red-bull-kreeg-afschrikwekkend-genoeg",
     "type": "article",
     "title": "Is de straf die Red Bull kreeg afschrikwekkend genoeg?",
     "subtitle": "Analyse",
     "published_at": "2022-10-29T13:00:23+02:00",
-    "updated_at": "2022-10-29T13:00:24+02:00",
+    "updated_at": "2022-10-29T13:45:28+02:00",
     "media_id": "krexnika9zak",
     "duration": null,
     "canonical_section": {
@@ -144,7 +190,7 @@
     "title": "Zoogdieren die planten eten en vroeg zelfstandig zijn evolueren sneller",
     "subtitle": null,
     "published_at": "2022-10-29T11:49:16+02:00",
-    "updated_at": "2022-10-29T12:59:02+02:00",
+    "updated_at": "2022-10-29T13:06:04+02:00",
     "media_id": "dnyxh3raytw6",
     "duration": null,
     "canonical_section": {
@@ -167,7 +213,7 @@
     "title": "Mercedes-teambaas Wolff hoopt vooral dat soap rond Red Bull-budget nu voorbij is",
     "subtitle": null,
     "published_at": "2022-10-29T11:31:25+02:00",
-    "updated_at": "2022-10-29T12:28:49+02:00",
+    "updated_at": "2022-10-29T13:06:10+02:00",
     "media_id": "dzfx2urasrwi",
     "duration": null,
     "canonical_section": {
@@ -640,52 +686,6 @@
       "partner": null
     },
     "url": "/stelling/6232637/mensen-en-wolven-kunnen-niet-samenleven-in-dichtbevolkt-nederland.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6232845,
-    "slug": "autofabrikant-gm-stopt-tijdelijk-met-adverteren-op-twitter-na-overname-door-musk",
-    "type": "article",
-    "title": "Autofabrikant GM stopt tijdelijk met adverteren op Twitter na overname door Musk",
-    "subtitle": null,
-    "published_at": "2022-10-29T01:01:43+02:00",
-    "updated_at": "2022-10-29T10:02:36+02:00",
-    "media_id": "9wpxsh6ao0im",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771438,
-      "slug": "tech",
-      "type": "default",
-      "name": "Tech",
-      "style": "nutech",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/tech/6232845/autofabrikant-gm-stopt-tijdelijk-met-adverteren-op-twitter-na-overname-door-musk.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6232844,
-    "slug": "leclerc-crasht-in-tweede-training-gp-mexico-russell-snelst-bij-bandentest",
-    "type": "article",
-    "title": "Leclerc crasht in tweede training GP Mexico, Russell snelst bij bandentest",
-    "subtitle": null,
-    "published_at": "2022-10-29T00:31:02+02:00",
-    "updated_at": "2022-10-29T09:44:17+02:00",
-    "media_id": "b99x3hpaeqlm",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772449,
-      "slug": "formule-1",
-      "type": "default",
-      "name": "Formule 1",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/formule-1/6232844/leclerc-crasht-in-tweede-training-gp-mexico-russell-snelst-bij-bandentest.html",
     "open_new_window": false,
     "partner": null
   }
