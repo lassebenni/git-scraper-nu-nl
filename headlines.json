@@ -1,14 +1,83 @@
 [
   {
-    "id": 6232948,
-    "slug": "hulpdiensten-razen-door-enorme-drukte-in-seoel",
-    "type": "video",
-    "title": "Hulpdiensten razen door enorme drukte in Seoel",
-    "subtitle": "Video",
-    "published_at": "2022-10-29T19:48:44+02:00",
-    "updated_at": "2022-10-29T19:48:44+02:00",
-    "media_id": "11ux4znaevf6",
-    "duration": "0:39",
+    "id": 6232955,
+    "slug": "duel-shakhtar-donetsk-tijdelijk-stilgelegd-na-afgaan-luchtalarm",
+    "type": "article",
+    "title": "Duel Shakhtar Donetsk tijdelijk stilgelegd na afgaan luchtalarm",
+    "subtitle": null,
+    "published_at": "2022-10-29T20:57:50+02:00",
+    "updated_at": "2022-10-29T20:57:51+02:00",
+    "media_id": "utkxw8uan6f8",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6232955/duel-shakhtar-donetsk-tijdelijk-stilgelegd-na-afgaan-luchtalarm.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6232954,
+    "slug": "sparta-verslaat-fortuna-en-beeindigt-ongeslagen-reeks-van-coach-velazquez",
+    "type": "article",
+    "title": "Sparta verslaat Fortuna en beëindigt ongeslagen reeks van coach Velázquez",
+    "subtitle": null,
+    "published_at": "2022-10-29T20:42:55+02:00",
+    "updated_at": "2022-10-29T21:00:12+02:00",
+    "media_id": "qetxe64ap9mp",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6232954/sparta-verslaat-fortuna-en-beeindigt-ongeslagen-reeks-van-coach-velazquez.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6232946,
+    "slug": "verstappen-derde-in-slottraining-mexico-mercedes-maakt-indruk",
+    "type": "article",
+    "title": "Verstappen derde in slottraining Mexico, Mercedes maakt indruk",
+    "subtitle": null,
+    "published_at": "2022-10-29T20:07:41+02:00",
+    "updated_at": "2022-10-29T20:57:24+02:00",
+    "media_id": "fcbxevqa85u7",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772449,
+      "slug": "formule-1",
+      "type": "default",
+      "name": "Formule 1",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/formule-1/6232946/verstappen-derde-in-slottraining-mexico-mercedes-maakt-indruk.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6232950,
+    "slug": "dodental-door-drukte-halloweenfeest-zuid-korea-loopt-op-naar-120",
+    "type": "article",
+    "title": "Dodental door drukte halloweenfeest Zuid-Korea loopt op naar 120",
+    "subtitle": null,
+    "published_at": "2022-10-29T20:06:56+02:00",
+    "updated_at": "2022-10-29T20:18:11+02:00",
+    "media_id": "xvixi8habz3g",
+    "duration": null,
     "canonical_section": {
       "id": 1771436,
       "slug": "buitenland",
@@ -18,7 +87,30 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/buitenland/6232948/hulpdiensten-razen-door-enorme-drukte-in-seoel.html",
+    "url": "/buitenland/6232950/dodental-door-drukte-halloweenfeest-zuid-korea-loopt-op-naar-120.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6232948,
+    "slug": "feestvierder-filmt-verdrukking-in-seoel",
+    "type": "video",
+    "title": "Feestvierder filmt verdrukking in Seoel",
+    "subtitle": "Video",
+    "published_at": "2022-10-29T19:48:44+02:00",
+    "updated_at": "2022-10-29T20:31:30+02:00",
+    "media_id": "6s7xezwazd6v",
+    "duration": "0:45",
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6232948/feestvierder-filmt-verdrukking-in-seoel.html",
     "open_new_window": false,
     "partner": null
   },
@@ -29,7 +121,7 @@
     "title": "Alles is nieuw voor Leerdam bij Jumbo-Visma: 'Blij dat ik meteen win'",
     "subtitle": null,
     "published_at": "2022-10-29T19:38:35+02:00",
-    "updated_at": "2022-10-29T19:48:12+02:00",
+    "updated_at": "2022-10-29T20:34:07+02:00",
     "media_id": "1zqxweva1do4",
     "duration": null,
     "canonical_section": {
@@ -75,7 +167,7 @@
     "title": "Reacties na derde tijd Verstappen in laatste training Mexico",
     "subtitle": "Liveblog F1",
     "published_at": "2022-10-29T18:27:36+02:00",
-    "updated_at": "2022-10-29T20:01:37+02:00",
+    "updated_at": "2022-10-29T20:06:09+02:00",
     "media_id": "ukmx5fza68bb",
     "duration": null,
     "canonical_section": {
@@ -98,7 +190,7 @@
     "title": "Zeer effectief FC Utrecht verslaat sc Heerenveen dankzij prachtige goals",
     "subtitle": null,
     "published_at": "2022-10-29T18:24:05+02:00",
-    "updated_at": "2022-10-29T18:31:39+02:00",
+    "updated_at": "2022-10-29T20:37:04+02:00",
     "media_id": "h2mxtgyaqbwi",
     "duration": null,
     "canonical_section": {
@@ -162,12 +254,12 @@
   },
   {
     "id": 6232936,
-    "slug": "de-ligt-uit-voorzorg-gewisseld-bij-overtuigende-overwinning-bayern-munchen",
+    "slug": "de-ligt-uit-voorzorg-gewisseld-bij-ruime-zege-bayern-assist-malen-bij-dortmund",
     "type": "article",
-    "title": "De Ligt uit voorzorg gewisseld bij overtuigende overwinning Bayern München",
+    "title": "De Ligt uit voorzorg gewisseld bij ruime zege Bayern, assist Malen bij Dortmund",
     "subtitle": null,
     "published_at": "2022-10-29T17:26:10+02:00",
-    "updated_at": "2022-10-29T18:45:06+02:00",
+    "updated_at": "2022-10-29T20:48:41+02:00",
     "media_id": "038xkvqa86ji",
     "duration": null,
     "canonical_section": {
@@ -179,7 +271,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6232936/de-ligt-uit-voorzorg-gewisseld-bij-overtuigende-overwinning-bayern-munchen.html",
+    "url": "/voetbal/6232936/de-ligt-uit-voorzorg-gewisseld-bij-ruime-zege-bayern-assist-malen-bij-dortmund.html",
     "open_new_window": false,
     "partner": null
   },
@@ -236,7 +328,7 @@
     "title": "NS-conducteurs machteloos in stampvolle treinen: 'We worden totaal niet gehoord'",
     "subtitle": null,
     "published_at": "2022-10-29T16:56:14+02:00",
-    "updated_at": "2022-10-29T16:56:15+02:00",
+    "updated_at": "2022-10-29T20:05:22+02:00",
     "media_id": "rmnx9wtatgbw",
     "duration": null,
     "canonical_section": {
@@ -259,7 +351,7 @@
     "title": "Neymar en Messi gidsen PSG naar moeizame zege, Napoli verstevigt koppositie",
     "subtitle": null,
     "published_at": "2022-10-29T16:55:14+02:00",
-    "updated_at": "2022-10-29T19:59:14+02:00",
+    "updated_at": "2022-10-29T20:03:33+02:00",
     "media_id": "guaxp2qak2tk",
     "duration": null,
     "canonical_section": {
@@ -323,13 +415,13 @@
   },
   {
     "id": 6232928,
-    "slug": "sparta-leidt-tegen-fortuna-dankzij-strafschop",
+    "slug": "go-ahead-en-excelsior-sluiten-avond-af",
     "type": "article",
-    "title": "Sparta leidt tegen Fortuna dankzij strafschop",
+    "title": "Go Ahead en Excelsior sluiten avond af",
     "subtitle": "Liveblog Eredivisie",
     "published_at": "2022-10-29T16:23:43+02:00",
-    "updated_at": "2022-10-29T20:01:36+02:00",
-    "media_id": "88hx5jnaexe5",
+    "updated_at": "2022-10-29T20:45:09+02:00",
+    "media_id": "ib1xpiiahk6r",
     "duration": null,
     "canonical_section": {
       "id": 1772338,
@@ -340,7 +432,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6232928/sparta-leidt-tegen-fortuna-dankzij-strafschop.html",
+    "url": "/voetbal/6232928/go-ahead-en-excelsior-sluiten-avond-af.html",
     "open_new_window": false,
     "partner": null
   },
@@ -420,7 +512,7 @@
     "title": "Chelsea hard onderuit door twee eigen goals, De Bruyne schiet City naar zege",
     "subtitle": null,
     "published_at": "2022-10-29T15:22:51+02:00",
-    "updated_at": "2022-10-29T19:22:46+02:00",
+    "updated_at": "2022-10-29T20:21:46+02:00",
     "media_id": "rrmx9hbaa0dq",
     "duration": null,
     "canonical_section": {
@@ -594,98 +686,6 @@
       "partner": null
     },
     "url": "/binnenland/6232915/tientallen-medewerkers-staken-bij-amsterdamse-bijenkorf.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6232908,
-    "slug": "acht-nederlanders-genomineerd-voor-prestigieuze-wielerprijs-velo-dor",
-    "type": "article",
-    "title": "Acht Nederlanders genomineerd voor prestigieuze wielerprijs Vélo d'Or",
-    "subtitle": null,
-    "published_at": "2022-10-29T13:33:51+02:00",
-    "updated_at": "2022-10-29T14:00:04+02:00",
-    "media_id": "rdzxzfoaard4",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772339,
-      "slug": "wielrennen",
-      "type": "default",
-      "name": "Wielrennen",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/wielrennen/6232908/acht-nederlanders-genomineerd-voor-prestigieuze-wielerprijs-velo-dor.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6232804,
-    "slug": "is-de-straf-die-red-bull-kreeg-afschrikwekkend-genoeg",
-    "type": "article",
-    "title": "Is de straf die Red Bull kreeg afschrikwekkend genoeg?",
-    "subtitle": "Analyse",
-    "published_at": "2022-10-29T13:00:23+02:00",
-    "updated_at": "2022-10-29T15:58:20+02:00",
-    "media_id": "krexnika9zak",
-    "duration": null,
-    "canonical_section": {
-      "id": 1778846,
-      "slug": "nu-formule-1",
-      "type": "default",
-      "name": "NU+ Formule 1",
-      "style": "nusport",
-      "media_id": "gtmxcxnaui5m",
-      "partner": null
-    },
-    "url": "/nu-formule-1/6232804/is-de-straf-die-red-bull-kreeg-afschrikwekkend-genoeg.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6232904,
-    "slug": "obama-tijdens-campagnetoespraak-we-bidden-voor-paul-pelosi",
-    "type": "video",
-    "title": "Obama tijdens campagnetoespraak: 'We bidden voor Paul Pelosi'",
-    "subtitle": "Video",
-    "published_at": "2022-10-29T12:40:28+02:00",
-    "updated_at": "2022-10-29T12:40:28+02:00",
-    "media_id": "2yvxxghar5ub",
-    "duration": "0:56",
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6232904/obama-tijdens-campagnetoespraak-we-bidden-voor-paul-pelosi.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6232669,
-    "slug": "wolf-25-gaat-naar-de-voedselbank-hulp-is-er-om-aan-te-nemen",
-    "type": "article",
-    "title": "Wolf (25) gaat naar de voedselbank: 'Hulp is er om aan te nemen'",
-    "subtitle": null,
-    "published_at": "2022-10-29T12:00:40+02:00",
-    "updated_at": "2022-10-29T16:52:52+02:00",
-    "media_id": "zt1xqwta75s6",
-    "duration": null,
-    "canonical_section": {
-      "id": 100,
-      "slug": "algemeen",
-      "type": "default",
-      "name": "Algemeen",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/algemeen/6232669/wolf-25-gaat-naar-de-voedselbank-hulp-is-er-om-aan-te-nemen.html",
     "open_new_window": false,
     "partner": null
   }
