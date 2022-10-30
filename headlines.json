@@ -1,5 +1,51 @@
 [
   {
+    "id": 6232975,
+    "slug": "bekijk-hoe-verhoeven-wint-van-gerges-na-ingrijpen-scheidsrechter",
+    "type": "video",
+    "title": "Bekijk hoe Verhoeven wint van Gerges na ingrijpen scheidsrechter",
+    "subtitle": "Video",
+    "published_at": "2022-10-30T02:57:31+01:00",
+    "updated_at": "2022-10-30T03:04:56+01:00",
+    "media_id": "z6yxlgrailp7",
+    "duration": "0:59",
+    "canonical_section": {
+      "id": 149,
+      "slug": "sport",
+      "type": "default",
+      "name": "Sport",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/sport/6232975/bekijk-hoe-verhoeven-wint-van-gerges-na-ingrijpen-scheidsrechter.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6232974,
+    "slug": "verhoeven-en-gerges-klaagden-over-ringroest-maar-wat-is-dat",
+    "type": "video",
+    "title": "Verhoeven en Gerges klaagden over 'ringroest', maar wat is dat?",
+    "subtitle": "Video",
+    "published_at": "2022-10-30T02:32:19+01:00",
+    "updated_at": "2022-10-30T02:32:19+01:00",
+    "media_id": "aa4xn59adl15",
+    "duration": "1:52",
+    "canonical_section": {
+      "id": 149,
+      "slug": "sport",
+      "type": "default",
+      "name": "Sport",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/sport/6232974/verhoeven-en-gerges-klaagden-over-ringroest-maar-wat-is-dat.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6232973,
     "slug": "uurtje-langer-slapen-de-wintertijd-is-vannacht-ingegaan",
     "type": "article",
@@ -167,7 +213,7 @@
     "title": "Verhoeven merkte tegen Gerges dat hij een jaar lang niet had gevochten",
     "subtitle": null,
     "published_at": "2022-10-30T00:15:41+02:00",
-    "updated_at": "2022-10-30T01:06:37+02:00",
+    "updated_at": "2022-10-30T03:00:59+01:00",
     "media_id": "p4axrtracdwr",
     "duration": null,
     "canonical_section": {
@@ -259,7 +305,7 @@
     "title": "Het gaat beter met de man van Nancy Pelosi, die met hamer werd aangevallen",
     "subtitle": null,
     "published_at": "2022-10-29T22:48:40+02:00",
-    "updated_at": "2022-10-29T23:02:24+02:00",
+    "updated_at": "2022-10-30T03:29:28+01:00",
     "media_id": "cndxpyyagpjt",
     "duration": null,
     "canonical_section": {
@@ -282,7 +328,7 @@
     "title": "Verhoeven verlengt ongeslagen reeks met overwinning op Gerges in Ahoy",
     "subtitle": null,
     "published_at": "2022-10-29T22:37:57+02:00",
-    "updated_at": "2022-10-30T01:06:52+02:00",
+    "updated_at": "2022-10-30T03:01:55+01:00",
     "media_id": "yqxx2wmamjwo",
     "duration": null,
     "canonical_section": {
@@ -640,52 +686,6 @@
       "partner": null
     },
     "url": "/voetbal/6232940/rangers-verliest-bij-zege-op-aberdeen-twee-spelers-richting-cl-duel-met-ajax.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6232938,
-    "slug": "roest-klopt-krol-en-wint-ook-1500-meter-bij-world-cup-kwalificatietoernooi",
-    "type": "article",
-    "title": "Roest klopt Krol en wint ook 1.500 meter bij World Cup-kwalificatietoernooi",
-    "subtitle": null,
-    "published_at": "2022-10-29T17:38:36+02:00",
-    "updated_at": "2022-10-29T19:28:49+02:00",
-    "media_id": "3r7xzukacqds",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772452,
-      "slug": "schaatsen",
-      "type": "default",
-      "name": "Schaatsen",
-      "style": "nusport",
-      "media_id": "5ktx9n6axubw",
-      "partner": null
-    },
-    "url": "/schaatsen/6232938/roest-klopt-krol-en-wint-ook-1500-meter-bij-world-cup-kwalificatietoernooi.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6232936,
-    "slug": "de-ligt-uit-voorzorg-gewisseld-bij-ruime-zege-bayern-assist-malen-bij-dortmund",
-    "type": "article",
-    "title": "De Ligt uit voorzorg gewisseld bij ruime zege Bayern, assist Malen bij Dortmund",
-    "subtitle": null,
-    "published_at": "2022-10-29T17:26:10+02:00",
-    "updated_at": "2022-10-29T21:02:47+02:00",
-    "media_id": "yxnx695a3flk",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6232936/de-ligt-uit-voorzorg-gewisseld-bij-ruime-zege-bayern-assist-malen-bij-dortmund.html",
     "open_new_window": false,
     "partner": null
   }
