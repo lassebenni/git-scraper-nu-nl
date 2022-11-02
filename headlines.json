@@ -1,5 +1,97 @@
 [
   {
+    "id": 6233578,
+    "slug": "nederlanders-verbruiken-meer-mobiele-data-maar-minder-belminuten-en-smsjes",
+    "type": "article",
+    "title": "Nederlanders verbruiken meer mobiele data, maar minder belminuten en sms'jes",
+    "subtitle": null,
+    "published_at": "2022-11-02T09:56:12+01:00",
+    "updated_at": "2022-11-02T09:57:19+01:00",
+    "media_id": "6edxdz9akhbu",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771438,
+      "slug": "tech",
+      "type": "default",
+      "name": "Tech",
+      "style": "nutech",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/tech/6233578/nederlanders-verbruiken-meer-mobiele-data-maar-minder-belminuten-en-smsjes.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6233584,
+    "slug": "netanyahu-en-bondgenoten-lijken-af-te-stevenen-op-verkiezingswinst-in-israel",
+    "type": "article",
+    "title": "Netanyahu en bondgenoten lijken af te stevenen op verkiezingswinst in Israël",
+    "subtitle": null,
+    "published_at": "2022-11-02T09:48:36+01:00",
+    "updated_at": "2022-11-02T09:48:37+01:00",
+    "media_id": "8xyxutka9z6q",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6233584/netanyahu-en-bondgenoten-lijken-af-te-stevenen-op-verkiezingswinst-in-israel.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6233586,
+    "slug": "australische-dierenverzorgers-onderzoeken-leeuwenverblijf-na-ontsnapping",
+    "type": "video",
+    "title": "Australische dierenverzorgers onderzoeken leeuwenverblijf na ontsnapping",
+    "subtitle": "Video",
+    "published_at": "2022-11-02T09:46:54+01:00",
+    "updated_at": "2022-11-02T09:46:55+01:00",
+    "media_id": "f4vxf2fays2e",
+    "duration": "0:45",
+    "canonical_section": {
+      "id": 1772536,
+      "slug": "dieren",
+      "type": "default",
+      "name": "Dieren",
+      "style": "nunjij",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/dieren/6233586/australische-dierenverzorgers-onderzoeken-leeuwenverblijf-na-ontsnapping.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6233580,
+    "slug": "hollywood-verfilmt-tweede-boek-van-zweedse-auteur-jonas-jonasson",
+    "type": "article",
+    "title": "Hollywood verfilmt tweede boek van Zweedse auteur Jonas Jonasson",
+    "subtitle": null,
+    "published_at": "2022-11-02T09:29:16+01:00",
+    "updated_at": "2022-11-02T09:29:17+01:00",
+    "media_id": "fmdxpvva7xdu",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772075,
+      "slug": "cultuur-overig",
+      "type": "default",
+      "name": "Boek & Cultuur",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/cultuur-overig/6233580/hollywood-verfilmt-tweede-boek-van-zweedse-auteur-jonas-jonasson.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6233576,
     "slug": "zuid-korea-en-vs-houden-grote-oefening-met-gevechtsvliegtuigen",
     "type": "video",
@@ -98,7 +190,7 @@
     "title": "Marseille verprutst EL-ticket door kamikazeactie: 'De spelers hoorden me niet'",
     "subtitle": null,
     "published_at": "2022-11-02T08:18:25+01:00",
-    "updated_at": "2022-11-02T08:41:53+01:00",
+    "updated_at": "2022-11-02T09:29:21+01:00",
     "media_id": "xdxxd9cafcl4",
     "duration": null,
     "canonical_section": {
@@ -255,13 +347,13 @@
   {
     "id": 6233522,
     "slug": "taylor-swift-bezet-complete-top-10-in-vs-hoe-doet-ze-dat",
-    "type": "video",
+    "type": "article",
     "title": "Taylor Swift bezet complete top 10 in VS: hoe doet ze dat?",
     "subtitle": "Video",
     "published_at": "2022-11-02T06:01:19+01:00",
-    "updated_at": "2022-11-02T06:01:20+01:00",
+    "updated_at": "2022-11-02T09:14:02+01:00",
     "media_id": "alzxo7wa673j",
-    "duration": "2:17",
+    "duration": null,
     "canonical_section": {
       "id": 100,
       "slug": "algemeen",
@@ -282,7 +374,7 @@
     "title": "We moeten stoppen met het verzetten  van de klok elk half jaar",
     "subtitle": null,
     "published_at": "2022-11-02T05:55:50+01:00",
-    "updated_at": "2022-11-02T05:55:51+01:00",
+    "updated_at": "2022-11-02T09:18:25+01:00",
     "media_id": "30wxyoua9kid",
     "duration": null,
     "canonical_section": {
@@ -328,7 +420,7 @@
     "title": "Loonstijging in oktober zwakt iets af, maar blijft historisch hoog",
     "subtitle": null,
     "published_at": "2022-11-02T05:35:03+01:00",
-    "updated_at": "2022-11-02T05:35:04+01:00",
+    "updated_at": "2022-11-02T09:41:42+01:00",
     "media_id": "51hxmxxab28t",
     "duration": null,
     "canonical_section": {
@@ -397,7 +489,7 @@
     "title": "Kamer praat over stelselwijziging pensioenen, hoe wordt 1.500 miljard verdeeld?",
     "subtitle": null,
     "published_at": "2022-11-02T05:32:17+01:00",
-    "updated_at": "2022-11-02T06:07:12+01:00",
+    "updated_at": "2022-11-02T09:39:56+01:00",
     "media_id": "ph6xj6nab5mo",
     "duration": null,
     "canonical_section": {
@@ -535,7 +627,7 @@
     "title": "Schreuder kan leven met Europa League-ticket: 'Staan op plek die we verdienen'",
     "subtitle": null,
     "published_at": "2022-11-01T23:39:39+01:00",
-    "updated_at": "2022-11-02T08:26:18+01:00",
+    "updated_at": "2022-11-02T09:30:30+01:00",
     "media_id": "0bvx9gpao2xs",
     "duration": null,
     "canonical_section": {
@@ -594,98 +686,6 @@
       "partner": null
     },
     "url": "/voetbal/6233535/tottenham-hotspur-en-eintracht-frankfurt-overleven-zeer-spannende-cl-groep.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6233531,
-    "slug": "bayern-sluit-cl-groepsfase-in-stijl-af-barca-wint-spektakelstuk-zonder-de-jong",
-    "type": "article",
-    "title": "Bayern sluit CL-groepsfase in stijl af, Barça wint spektakelstuk zonder De Jong",
-    "subtitle": null,
-    "published_at": "2022-11-01T22:54:27+01:00",
-    "updated_at": "2022-11-02T00:48:15+01:00",
-    "media_id": "p0sx4svas6h3",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6233531/bayern-sluit-cl-groepsfase-in-stijl-af-barca-wint-spektakelstuk-zonder-de-jong.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6233530,
-    "slug": "ajax-wint-simpel-bij-rangers-en-plaatst-zich-voor-knock-outfase-europa-league",
-    "type": "article",
-    "title": "Ajax wint simpel bij Rangers en plaatst zich voor knock-outfase Europa League",
-    "subtitle": null,
-    "published_at": "2022-11-01T22:52:41+01:00",
-    "updated_at": "2022-11-01T23:40:09+01:00",
-    "media_id": "ypax9jraa0uu",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6233530/ajax-wint-simpel-bij-rangers-en-plaatst-zich-voor-knock-outfase-europa-league.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6233529,
-    "slug": "opnieuw-rekenfout-in-rivm-lijst-grootste-uitstoters-minister-baalt-enorm",
-    "type": "article",
-    "title": "Opnieuw rekenfout in RIVM-lijst grootste uitstoters, minister baalt enorm",
-    "subtitle": null,
-    "published_at": "2022-11-01T22:41:43+01:00",
-    "updated_at": "2022-11-01T23:00:59+01:00",
-    "media_id": "jiixu86anrdb",
-    "duration": null,
-    "canonical_section": {
-      "id": 1778778,
-      "slug": "stikstof",
-      "type": "default",
-      "name": "Stikstof",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/stikstof/6233529/opnieuw-rekenfout-in-rivm-lijst-grootste-uitstoters-minister-baalt-enorm.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6233528,
-    "slug": "bolsonaro-legt-zich-neer-bij-verlies-ik-respecteer-de-grondwet",
-    "type": "video",
-    "title": "Bolsonaro legt zich neer bij verlies: 'Ik respecteer de grondwet'",
-    "subtitle": "Video",
-    "published_at": "2022-11-01T22:39:42+01:00",
-    "updated_at": "2022-11-01T22:46:51+01:00",
-    "media_id": "s3axbp3azok9",
-    "duration": "0:30",
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6233528/bolsonaro-legt-zich-neer-bij-verlies-ik-respecteer-de-grondwet.html",
     "open_new_window": false,
     "partner": null
   }
