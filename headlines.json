@@ -1,5 +1,97 @@
 [
   {
+    "id": 6234016,
+    "slug": "bekijk-de-samenvatting-van-feyenoord-lazio-1-0",
+    "type": "video",
+    "title": "Bekijk de samenvatting van Feyenoord-Lazio (1-0)",
+    "subtitle": "Video",
+    "published_at": "2022-11-03T21:58:33+01:00",
+    "updated_at": "2022-11-03T21:58:34+01:00",
+    "media_id": "n5fxf9aa61l5",
+    "duration": "5:07",
+    "canonical_section": {
+      "id": 149,
+      "slug": "sport",
+      "type": "default",
+      "name": "Sport",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/sport/6234016/bekijk-de-samenvatting-van-feyenoord-lazio-1-0.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6234009,
+    "slug": "signalen-dat-russen-zich-terugtrekken-uit-kherson",
+    "type": "article",
+    "title": "Signalen dat Russen zich terugtrekken uit Kherson",
+    "subtitle": "Overzicht",
+    "published_at": "2022-11-03T21:56:59+01:00",
+    "updated_at": "2022-11-03T21:57:18+01:00",
+    "media_id": "kg9x9fya08d7",
+    "duration": null,
+    "canonical_section": {
+      "id": 1778980,
+      "slug": "spanningen-oekraine",
+      "type": "default",
+      "name": "Oorlog in Oekraïne",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/spanningen-oekraine/6234009/signalen-dat-russen-zich-terugtrekken-uit-kherson.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6234013,
+    "slug": "dolgelukkige-kokcu-wist-pas-twee-minuten-voor-tijd-dat-feyenoord-door-zou-gaan",
+    "type": "article",
+    "title": "Dolgelukkige Kökçü wist pas twee minuten voor tijd dat Feyenoord door zou gaan",
+    "subtitle": null,
+    "published_at": "2022-11-03T21:44:06+01:00",
+    "updated_at": "2022-11-03T21:54:59+01:00",
+    "media_id": "ocmxohcaxdm0",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6234013/dolgelukkige-kokcu-wist-pas-twee-minuten-voor-tijd-dat-feyenoord-door-zou-gaan.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6234012,
+    "slug": "ruimtebeelden-tonen-krachtigste-onderzeese-vulkaanuitbarsting-ooit",
+    "type": "video",
+    "title": "Ruimtebeelden tonen krachtigste onderzeese vulkaanuitbarsting ooit",
+    "subtitle": "Video",
+    "published_at": "2022-11-03T21:09:00+01:00",
+    "updated_at": "2022-11-03T21:45:55+01:00",
+    "media_id": "mhqx5haayatx",
+    "duration": "0:27",
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6234012/ruimtebeelden-tonen-krachtigste-onderzeese-vulkaanuitbarsting-ooit.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6234008,
     "slug": "bekijk-het-winnende-doelpunt-van-gimenez-tegen-lazio",
     "type": "video",
@@ -24,12 +116,12 @@
   },
   {
     "id": 6234001,
-    "slug": "ten-hag-en-united-grijpen-naast-groepswinst-ondanks-zege-op-real-sociedad",
+    "slug": "united-grijpt-met-van-de-beek-naast-groepswinst-ondanks-zege-op-real-sociedad",
     "type": "article",
-    "title": "Ten Hag en United grijpen naast groepswinst ondanks zege op Real Sociedad",
+    "title": "United grijpt met Van de Beek naast groepswinst ondanks zege op Real Sociedad",
     "subtitle": null,
     "published_at": "2022-11-03T20:43:54+01:00",
-    "updated_at": "2022-11-03T20:59:51+01:00",
+    "updated_at": "2022-11-03T21:20:27+01:00",
     "media_id": "wd2xf0va2583",
     "duration": null,
     "canonical_section": {
@@ -41,7 +133,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6234001/ten-hag-en-united-grijpen-naast-groepswinst-ondanks-zege-op-real-sociedad.html",
+    "url": "/voetbal/6234001/united-grijpt-met-van-de-beek-naast-groepswinst-ondanks-zege-op-real-sociedad.html",
     "open_new_window": false,
     "partner": null
   },
@@ -52,7 +144,7 @@
     "title": "Feyenoord overwintert in Europa League na thuiszege op Lazio in bizarre groep",
     "subtitle": null,
     "published_at": "2022-11-03T20:43:33+01:00",
-    "updated_at": "2022-11-03T20:52:19+01:00",
+    "updated_at": "2022-11-03T21:44:46+01:00",
     "media_id": "prnxyd6ah0te",
     "duration": null,
     "canonical_section": {
@@ -75,7 +167,7 @@
     "title": "AZ verslaat Dnipro en stelt groepswinst veilig in Conference League",
     "subtitle": null,
     "published_at": "2022-11-03T20:39:53+01:00",
-    "updated_at": "2022-11-03T20:50:44+01:00",
+    "updated_at": "2022-11-03T21:17:59+01:00",
     "media_id": "kpex4k2a0xnj",
     "duration": null,
     "canonical_section": {
@@ -323,12 +415,12 @@
   },
   {
     "id": 6233969,
-    "slug": "barcelona-icoon-pique-35-kondigt-afscheid-aan-en-speelt-zaterdag-laatste-duel",
+    "slug": "barca-icoon-pique-35-kondigt-afscheid-aan-en-speelt-zaterdag-laatste-thuisduel",
     "type": "article",
-    "title": "Barcelona-icoon Piqué (35) kondigt afscheid aan en speelt zaterdag laatste duel",
+    "title": "Barça-icoon Piqué (35) kondigt afscheid aan en speelt zaterdag laatste thuisduel",
     "subtitle": null,
     "published_at": "2022-11-03T18:52:29+01:00",
-    "updated_at": "2022-11-03T19:57:26+01:00",
+    "updated_at": "2022-11-03T21:44:42+01:00",
     "media_id": "n7hxuena42rm",
     "duration": null,
     "canonical_section": {
@@ -340,7 +432,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6233969/barcelona-icoon-pique-35-kondigt-afscheid-aan-en-speelt-zaterdag-laatste-duel.html",
+    "url": "/voetbal/6233969/barca-icoon-pique-35-kondigt-afscheid-aan-en-speelt-zaterdag-laatste-thuisduel.html",
     "open_new_window": false,
     "partner": null
   },
@@ -443,7 +535,7 @@
     "title": "Kabinet gaat excuses aanbieden voor slavernijverleden",
     "subtitle": null,
     "published_at": "2022-11-03T18:00:59+01:00",
-    "updated_at": "2022-11-03T19:58:44+01:00",
+    "updated_at": "2022-11-03T21:50:09+01:00",
     "media_id": "ve7xc0zahskk",
     "duration": null,
     "canonical_section": {
@@ -461,13 +553,13 @@
   },
   {
     "id": 6233956,
-    "slug": "psv-moet-winnen-van-bodglimt-voor-groepswinst",
+    "slug": "groepswinst-ver-weg-voor-psv-ondanks-voorsprong-in-noorwegen",
     "type": "article",
-    "title": "PSV moet winnen van Bodø/Glimt voor groepswinst",
+    "title": "Groepswinst ver weg voor PSV ondanks voorsprong in Noorwegen",
     "subtitle": "Liveblog voetbal",
     "published_at": "2022-11-03T17:49:50+01:00",
-    "updated_at": "2022-11-03T21:01:07+01:00",
-    "media_id": "nvcxj05akjrd",
+    "updated_at": "2022-11-03T21:46:14+01:00",
+    "media_id": "33txw3sak7ks",
     "duration": null,
     "canonical_section": {
       "id": 1772338,
@@ -478,7 +570,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6233956/psv-moet-winnen-van-bodglimt-voor-groepswinst.html",
+    "url": "/voetbal/6233956/groepswinst-ver-weg-voor-psv-ondanks-voorsprong-in-noorwegen.html",
     "open_new_window": false,
     "partner": null
   },
@@ -594,98 +686,6 @@
       "partner": null
     },
     "url": "/achterklap/6233928/monica-geuze-wil-haar-borsten-na-twee-vergrotingen-weer-laten-verkleinen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6233923,
-    "slug": "waarom-gaan-ze-met-paintballguns-op-de-wolf-schieten",
-    "type": "video",
-    "title": "Waarom gaan ze met paintballguns op de wolf schieten?",
-    "subtitle": "Video",
-    "published_at": "2022-11-03T17:02:45+01:00",
-    "updated_at": "2022-11-03T17:11:48+01:00",
-    "media_id": "ws3x50saumup",
-    "duration": "2:34",
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6233923/waarom-gaan-ze-met-paintballguns-op-de-wolf-schieten.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6233861,
-    "slug": "review-god-of-war-ragnarok-is-een-game-over-de-puberteit",
-    "type": "article",
-    "title": "Review: God of War Ragnarök is een game over de puberteit",
-    "subtitle": null,
-    "published_at": "2022-11-03T17:01:23+01:00",
-    "updated_at": "2022-11-03T17:01:24+01:00",
-    "media_id": "mfdxo73abt79",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772398,
-      "slug": "reviews",
-      "type": "default",
-      "name": "Reviews",
-      "style": "nutech",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/reviews/6233861/review-god-of-war-ragnarok-is-een-game-over-de-puberteit.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6233931,
-    "slug": "brussel-wil-dat-airbnb-data-over-gebruikers-en-verblijven-met-overheden-deelt",
-    "type": "article",
-    "title": "Brussel wil dat Airbnb data over gebruikers en verblijven met overheden deelt",
-    "subtitle": null,
-    "published_at": "2022-11-03T16:53:43+01:00",
-    "updated_at": "2022-11-03T16:56:50+01:00",
-    "media_id": "wkjxm05agajs",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771438,
-      "slug": "tech",
-      "type": "default",
-      "name": "Tech",
-      "style": "nutech",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/tech/6233931/brussel-wil-dat-airbnb-data-over-gebruikers-en-verblijven-met-overheden-deelt.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6233930,
-    "slug": "albert-heijn-experimenteert-met-supermarkt-zonder-sigarettenverkoop",
-    "type": "article",
-    "title": "Albert Heijn experimenteert met supermarkt zonder sigarettenverkoop",
-    "subtitle": null,
-    "published_at": "2022-11-03T16:50:26+01:00",
-    "updated_at": "2022-11-03T19:14:13+01:00",
-    "media_id": "zkhxbipamm12",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6233930/albert-heijn-experimenteert-met-supermarkt-zonder-sigarettenverkoop.html",
     "open_new_window": false,
     "partner": null
   }
