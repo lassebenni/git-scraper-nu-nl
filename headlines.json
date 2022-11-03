@@ -1,5 +1,120 @@
 [
   {
+    "id": 6234008,
+    "slug": "bekijk-het-winnende-doelpunt-van-gimenez-tegen-lazio",
+    "type": "video",
+    "title": "Bekijk het winnende doelpunt van Giménez tegen Lazio",
+    "subtitle": "Video",
+    "published_at": "2022-11-03T20:58:18+01:00",
+    "updated_at": "2022-11-03T20:58:19+01:00",
+    "media_id": "0q9x92qafpp8",
+    "duration": "3:05",
+    "canonical_section": {
+      "id": 149,
+      "slug": "sport",
+      "type": "default",
+      "name": "Sport",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/sport/6234008/bekijk-het-winnende-doelpunt-van-gimenez-tegen-lazio.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6234001,
+    "slug": "ten-hag-en-united-grijpen-naast-groepswinst-ondanks-zege-op-real-sociedad",
+    "type": "article",
+    "title": "Ten Hag en United grijpen naast groepswinst ondanks zege op Real Sociedad",
+    "subtitle": null,
+    "published_at": "2022-11-03T20:43:54+01:00",
+    "updated_at": "2022-11-03T20:59:51+01:00",
+    "media_id": "wd2xf0va2583",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6234001/ten-hag-en-united-grijpen-naast-groepswinst-ondanks-zege-op-real-sociedad.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6234004,
+    "slug": "feyenoord-overwintert-in-europa-league-na-thuiszege-op-lazio-in-bizarre-groep",
+    "type": "article",
+    "title": "Feyenoord overwintert in Europa League na thuiszege op Lazio in bizarre groep",
+    "subtitle": null,
+    "published_at": "2022-11-03T20:43:33+01:00",
+    "updated_at": "2022-11-03T20:52:19+01:00",
+    "media_id": "prnxyd6ah0te",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6234004/feyenoord-overwintert-in-europa-league-na-thuiszege-op-lazio-in-bizarre-groep.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6233997,
+    "slug": "az-verslaat-dnipro-en-stelt-groepswinst-veilig-in-conference-league",
+    "type": "article",
+    "title": "AZ verslaat Dnipro en stelt groepswinst veilig in Conference League",
+    "subtitle": null,
+    "published_at": "2022-11-03T20:39:53+01:00",
+    "updated_at": "2022-11-03T20:50:44+01:00",
+    "media_id": "kpex4k2a0xnj",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6233997/az-verslaat-dnipro-en-stelt-groepswinst-veilig-in-conference-league.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6233983,
+    "slug": "memphis-haalt-uit-naar-spaanse-media-na-gerucht-rond-expres-uitstellen-rentree",
+    "type": "article",
+    "title": "Memphis haalt uit naar Spaanse media na gerucht rond expres uitstellen rentree",
+    "subtitle": null,
+    "published_at": "2022-11-03T20:02:57+01:00",
+    "updated_at": "2022-11-03T20:29:07+01:00",
+    "media_id": "05yxo3eadwtp",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6233983/memphis-haalt-uit-naar-spaanse-media-na-gerucht-rond-expres-uitstellen-rentree.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6233650,
     "slug": "onderwijs-vluchtelingenkinderen-piept-en-kraakt-niet-voor-iedereen-is-op-tijd-plek",
     "type": "article",
@@ -29,7 +144,7 @@
     "title": "PSV met flink gewijzigde formatie op jacht naar EL-groepswinst bij Bodø/Glimt",
     "subtitle": null,
     "published_at": "2022-11-03T19:51:27+01:00",
-    "updated_at": "2022-11-03T19:59:47+01:00",
+    "updated_at": "2022-11-03T20:08:36+01:00",
     "media_id": "4ktx2r5a9ozn",
     "duration": null,
     "canonical_section": {
@@ -47,12 +162,12 @@
   },
   {
     "id": 6233985,
-    "slug": "d66-wil-piekbelasters-onteigenen-als-vrijwilligheid-niet-werkt-hard-verhaal",
+    "slug": "d66-wil-piekbelasters-verplicht-uitkopen-als-vrijwilligheid-niet-werkt-hard-verhaal",
     "type": "article",
-    "title": "D66 wil piekbelasters onteigenen als vrijwilligheid niet werkt; 'Hard verhaal'",
+    "title": "D66 wil piekbelasters verplicht uitkopen als vrijwilligheid niet werkt: 'Hard verhaal'",
     "subtitle": null,
     "published_at": "2022-11-03T19:47:50+01:00",
-    "updated_at": "2022-11-03T19:47:51+01:00",
+    "updated_at": "2022-11-03T20:33:45+01:00",
     "media_id": "k2yxan6ahat3",
     "duration": null,
     "canonical_section": {
@@ -64,7 +179,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/politiek/6233985/d66-wil-piekbelasters-onteigenen-als-vrijwilligheid-niet-werkt-hard-verhaal.html",
+    "url": "/politiek/6233985/d66-wil-piekbelasters-verplicht-uitkopen-als-vrijwilligheid-niet-werkt-hard-verhaal.html",
     "open_new_window": false,
     "partner": null
   },
@@ -75,7 +190,7 @@
     "title": "Complotdenker David Icke mag Nederland niet in",
     "subtitle": null,
     "published_at": "2022-11-03T19:45:15+01:00",
-    "updated_at": "2022-11-03T19:53:09+01:00",
+    "updated_at": "2022-11-03T20:21:53+01:00",
     "media_id": "aunxbqeaox6o",
     "duration": null,
     "canonical_section": {
@@ -98,7 +213,7 @@
     "title": "Gerard Sanderink moet van rechter stoppen als bestuurder IT-bedrijf Centric",
     "subtitle": null,
     "published_at": "2022-11-03T19:40:05+01:00",
-    "updated_at": "2022-11-03T19:57:49+01:00",
+    "updated_at": "2022-11-03T20:02:16+01:00",
     "media_id": "ztxxlo5ast44",
     "duration": null,
     "canonical_section": {
@@ -144,7 +259,7 @@
     "title": "Djokovic verslaat Khachanov en blijft op koers voor zevende titel in Parijs",
     "subtitle": null,
     "published_at": "2022-11-03T19:19:56+01:00",
-    "updated_at": "2022-11-03T19:19:56+01:00",
+    "updated_at": "2022-11-03T20:27:48+01:00",
     "media_id": "egdx4rnapubc",
     "duration": null,
     "canonical_section": {
@@ -346,13 +461,13 @@
   },
   {
     "id": 6233956,
-    "slug": "feyenoord-heeft-goal-nodig-tegen-lazio-az-op-1-1",
+    "slug": "psv-moet-winnen-van-bodglimt-voor-groepswinst",
     "type": "article",
-    "title": "Feyenoord heeft goal nodig tegen Lazio, AZ op 1-1",
+    "title": "PSV moet winnen van Bodø/Glimt voor groepswinst",
     "subtitle": "Liveblog voetbal",
     "published_at": "2022-11-03T17:49:50+01:00",
-    "updated_at": "2022-11-03T19:57:18+01:00",
-    "media_id": "8h8xcv7ajhl5",
+    "updated_at": "2022-11-03T21:01:07+01:00",
+    "media_id": "nvcxj05akjrd",
     "duration": null,
     "canonical_section": {
       "id": 1772338,
@@ -363,7 +478,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6233956/feyenoord-heeft-goal-nodig-tegen-lazio-az-op-1-1.html",
+    "url": "/voetbal/6233956/psv-moet-winnen-van-bodglimt-voor-groepswinst.html",
     "open_new_window": false,
     "partner": null
   },
@@ -571,121 +686,6 @@
       "partner": null
     },
     "url": "/economie/6233930/albert-heijn-experimenteert-met-supermarkt-zonder-sigarettenverkoop.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6233935,
-    "slug": "grootste-vis-van-de-amazone-terug-van-weggeweest",
-    "type": "video",
-    "title": "Grootste vis van de Amazone terug van weggeweest",
-    "subtitle": "Video",
-    "published_at": "2022-11-03T16:49:07+01:00",
-    "updated_at": "2022-11-03T16:49:08+01:00",
-    "media_id": "i48xm2pa8xg9",
-    "duration": "0:48",
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6233935/grootste-vis-van-de-amazone-terug-van-weggeweest.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6233932,
-    "slug": "spits-werner-mist-wk-met-duits-elftal-door-scheurtje-in-enkelband",
-    "type": "article",
-    "title": "Spits Werner mist WK met Duits elftal door scheurtje in enkelband",
-    "subtitle": null,
-    "published_at": "2022-11-03T16:43:32+01:00",
-    "updated_at": "2022-11-03T17:50:13+01:00",
-    "media_id": "40nxmuca0jbg",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6233932/spits-werner-mist-wk-met-duits-elftal-door-scheurtje-in-enkelband.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6233113,
-    "slug": "nederland-organiseert-in-2026-samen-met-belgie-gecombineerd-wk-hockey",
-    "type": "article",
-    "title": "Nederland organiseert in 2026 samen met België gecombineerd WK hockey",
-    "subtitle": null,
-    "published_at": "2022-11-03T16:29:34+01:00",
-    "updated_at": "2022-11-03T19:33:34+01:00",
-    "media_id": "3yfx0jjaj49d",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772456,
-      "slug": "sport-overig",
-      "type": "default",
-      "name": "Sport Overig",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/sport-overig/6233113/nederland-organiseert-in-2026-samen-met-belgie-gecombineerd-wk-hockey.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6233521,
-    "slug": "het-liberale-idealisme-van-nijpels-54-jaar-voor-het-milieu-en-tegen-dictatuur",
-    "type": "article",
-    "title": "Het liberale idealisme van Nijpels: 54 jaar vóór het milieu en tegen dictatuur",
-    "subtitle": "NU+",
-    "published_at": "2022-11-03T16:19:30+01:00",
-    "updated_at": "2022-11-03T20:00:01+01:00",
-    "media_id": "w4lxb32aw0u2",
-    "duration": null,
-    "canonical_section": {
-      "id": 1778899,
-      "slug": "nu-klimaat",
-      "type": "region",
-      "name": "NU+ Klimaat",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/nu-klimaat/6233521/het-liberale-idealisme-van-nijpels-54-jaar-voor-het-milieu-en-tegen-dictatuur.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6233862,
-    "slug": "recensieoverzicht-verfilming-stromboli-schaap-sterk-maar-van-erp-maakt-misser",
-    "type": "article",
-    "title": "Recensieoverzicht verfilming Stromboli: Schaap sterk, maar Van Erp maakt misser",
-    "subtitle": null,
-    "published_at": "2022-11-03T16:15:21+01:00",
-    "updated_at": "2022-11-03T17:28:04+01:00",
-    "media_id": "pl4xurqajr0q",
-    "duration": null,
-    "canonical_section": {
-      "id": 127,
-      "slug": "film",
-      "type": "default",
-      "name": "Films & Series",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/film/6233862/recensieoverzicht-verfilming-stromboli-schaap-sterk-maar-van-erp-maakt-misser.html",
     "open_new_window": false,
     "partner": null
   }
