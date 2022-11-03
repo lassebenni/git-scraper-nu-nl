@@ -1,12 +1,150 @@
 [
   {
-    "id": 6233791,
-    "slug": "musk-wil-helft-van-het-twitter-personeel-ontslaan",
+    "id": 6233799,
+    "slug": "sakkari-naar-laatste-vier-op-wta-finals-eerste-zege-schuurs-in-dubbelspel",
     "type": "article",
-    "title": "Musk wil helft van het Twitter-personeel ontslaan",
+    "title": "Sakkari naar laatste vier op WTA Finals, eerste zege Schuurs in dubbelspel",
+    "subtitle": null,
+    "published_at": "2022-11-03T07:52:29+01:00",
+    "updated_at": "2022-11-03T07:59:34+01:00",
+    "media_id": "v5oxnq1a86zr",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772432,
+      "slug": "tennis",
+      "type": "default",
+      "name": "Tennis",
+      "style": "nusport",
+      "media_id": "m1oxohpan0gq",
+      "partner": null
+    },
+    "url": "/tennis/6233799/sakkari-naar-laatste-vier-op-wta-finals-eerste-zege-schuurs-in-dubbelspel.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6233798,
+    "slug": "ing-profiteert-van-hogere-rentes-maar-ziet-winst-toch-dalen",
+    "type": "article",
+    "title": "ING profiteert van hogere rentes maar ziet winst toch dalen",
+    "subtitle": null,
+    "published_at": "2022-11-03T07:48:45+01:00",
+    "updated_at": "2022-11-03T07:48:46+01:00",
+    "media_id": "ga0xjr1am33s",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6233798/ing-profiteert-van-hogere-rentes-maar-ziet-winst-toch-dalen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6233797,
+    "slug": "kim-jong-un-vuurt-recordaantal-raketten-af-japan-schrikt-van-ballistische-raket",
+    "type": "article",
+    "title": "Kim Jong-un vuurt recordaantal raketten af, Japan schrikt van ballistische raket",
+    "subtitle": null,
+    "published_at": "2022-11-03T07:47:51+01:00",
+    "updated_at": "2022-11-03T08:00:57+01:00",
+    "media_id": "affx2ttaunmg",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6233797/kim-jong-un-vuurt-recordaantal-raketten-af-japan-schrikt-van-ballistische-raket.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6233795,
+    "slug": "trump-mag-nog-niet-terug-op-twitter-musk-wil-schorsingen-eerst-laten-beoordelen",
+    "type": "article",
+    "title": "Trump mag nog niet terug op Twitter: Musk wil schorsingen eerst laten beoordelen",
+    "subtitle": null,
+    "published_at": "2022-11-03T07:29:22+01:00",
+    "updated_at": "2022-11-03T07:55:54+01:00",
+    "media_id": "x7yxa2da0o77",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771438,
+      "slug": "tech",
+      "type": "default",
+      "name": "Tech",
+      "style": "nutech",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/tech/6233795/trump-mag-nog-niet-terug-op-twitter-musk-wil-schorsingen-eerst-laten-beoordelen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6233794,
+    "slug": "trotse-schmidt-vindt-dat-benfica-wonderlijke-groepswinst-heeft-verdiend",
+    "type": "article",
+    "title": "Trotse Schmidt vindt dat Benfica wonderlijke groepswinst heeft verdiend",
+    "subtitle": null,
+    "published_at": "2022-11-03T07:22:03+01:00",
+    "updated_at": "2022-11-03T07:45:29+01:00",
+    "media_id": "xc9x5d7a0xsd",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6233794/trotse-schmidt-vindt-dat-benfica-wonderlijke-groepswinst-heeft-verdiend.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6233793,
+    "slug": "hulpdiensten-massaal-op-de-been-na-dodelijk-ongeluk-n50",
+    "type": "video",
+    "title": "Hulpdiensten massaal op de been na dodelijk ongeluk N50",
+    "subtitle": "Video",
+    "published_at": "2022-11-03T07:17:12+01:00",
+    "updated_at": "2022-11-03T07:25:53+01:00",
+    "media_id": "m3rxehcablya",
+    "duration": "0:45",
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6233793/hulpdiensten-massaal-op-de-been-na-dodelijk-ongeluk-n50.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6233791,
+    "slug": "musk-wil-helft-van-het-twitter-personeel-ontslaan-3800-banen-op-de-tocht",
+    "type": "article",
+    "title": "Musk wil helft van het Twitter-personeel ontslaan: 3.800 banen op de tocht",
     "subtitle": null,
     "published_at": "2022-11-03T06:59:25+01:00",
-    "updated_at": "2022-11-03T06:59:26+01:00",
+    "updated_at": "2022-11-03T07:32:06+01:00",
     "media_id": "h15x6tgaev2a",
     "duration": null,
     "canonical_section": {
@@ -18,7 +156,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/tech/6233791/musk-wil-helft-van-het-twitter-personeel-ontslaan.html",
+    "url": "/tech/6233791/musk-wil-helft-van-het-twitter-personeel-ontslaan-3800-banen-op-de-tocht.html",
     "open_new_window": false,
     "partner": null
   },
@@ -52,7 +190,7 @@
     "title": "Ye betaalde oud-werknemer schikking vanwege antisemitisch taalgebruik",
     "subtitle": null,
     "published_at": "2022-11-03T06:05:11+01:00",
-    "updated_at": "2022-11-03T06:51:37+01:00",
+    "updated_at": "2022-11-03T07:55:53+01:00",
     "media_id": "4rexwb2a94hr",
     "duration": null,
     "canonical_section": {
@@ -116,12 +254,12 @@
   },
   {
     "id": 6233789,
-    "slug": "weerbericht-bewolkt-en-regenachtig-maar-later-op-de-dag-klaart-het-op",
+    "slug": "weerbericht-bewolkt-en-regenachtig-later-op-de-dag-klaart-het-op",
     "type": "article",
-    "title": "Weerbericht: Bewolkt en regenachtig, maar later op de dag klaart het op",
+    "title": "Weerbericht: Bewolkt en regenachtig, later op de dag klaart het op",
     "subtitle": null,
     "published_at": "2022-11-03T05:34:37+01:00",
-    "updated_at": "2022-11-03T05:34:38+01:00",
+    "updated_at": "2022-11-03T07:37:09+01:00",
     "media_id": "m1oxr2faadg7",
     "duration": null,
     "canonical_section": {
@@ -133,7 +271,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/binnenland/6233789/weerbericht-bewolkt-en-regenachtig-maar-later-op-de-dag-klaart-het-op.html",
+    "url": "/binnenland/6233789/weerbericht-bewolkt-en-regenachtig-later-op-de-dag-klaart-het-op.html",
     "open_new_window": false,
     "partner": null
   },
@@ -213,7 +351,7 @@
     "title": "Waarom zou ik de extra coronaprik halen? 'Het is een eigen risicoafweging'",
     "subtitle": null,
     "published_at": "2022-11-03T05:06:59+01:00",
-    "updated_at": "2022-11-03T05:07:00+01:00",
+    "updated_at": "2022-11-03T07:18:57+01:00",
     "media_id": "oq4xprzameo2",
     "duration": null,
     "canonical_section": {
@@ -259,7 +397,7 @@
     "title": "Vrouw onder verdachte omstandigheden overleden in ziekenhuis Den Bosch",
     "subtitle": null,
     "published_at": "2022-11-03T04:36:33+01:00",
-    "updated_at": "2022-11-03T05:10:27+01:00",
+    "updated_at": "2022-11-03T07:05:04+01:00",
     "media_id": "dmyxxwjazog3",
     "duration": null,
     "canonical_section": {
@@ -282,7 +420,7 @@
     "title": "NS verhoogt prijzen: los treinkaartje wordt 5,5 procent duurder",
     "subtitle": null,
     "published_at": "2022-11-03T03:52:16+01:00",
-    "updated_at": "2022-11-03T06:58:03+01:00",
+    "updated_at": "2022-11-03T07:37:08+01:00",
     "media_id": "yc9xg8ea0k7g",
     "duration": null,
     "canonical_section": {
@@ -300,12 +438,12 @@
   },
   {
     "id": 6233785,
-    "slug": "levenslang-voor-liberische-oorlogsmisdadiger-die-in-nederland-woonde",
+    "slug": "levenslang-voor-liberiaanse-oorlogsmisdadiger-die-in-nederland-woonde",
     "type": "article",
-    "title": "Levenslang voor Liberische oorlogsmisdadiger die in Nederland woonde",
+    "title": "Levenslang voor Liberiaanse oorlogsmisdadiger die in Nederland woonde",
     "subtitle": null,
     "published_at": "2022-11-03T03:20:27+01:00",
-    "updated_at": "2022-11-03T03:20:28+01:00",
+    "updated_at": "2022-11-03T07:45:47+01:00",
     "media_id": "ud3xpz6ahxxv",
     "duration": null,
     "canonical_section": {
@@ -317,18 +455,18 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/buitenland/6233785/levenslang-voor-liberische-oorlogsmisdadiger-die-in-nederland-woonde.html",
+    "url": "/buitenland/6233785/levenslang-voor-liberiaanse-oorlogsmisdadiger-die-in-nederland-woonde.html",
     "open_new_window": false,
     "partner": null
   },
   {
     "id": 6233784,
-    "slug": "elfjarig-vermist-meisje-uit-soest-met-vader-teruggevonden-in-bulgarije",
+    "slug": "vermist-meisje-11-uit-soest-met-vader-teruggevonden-in-bulgarije",
     "type": "article",
-    "title": "Elfjarig vermist meisje uit Soest met vader teruggevonden in Bulgarije",
+    "title": "Vermist meisje (11) uit Soest met vader teruggevonden in Bulgarije",
     "subtitle": null,
     "published_at": "2022-11-03T00:11:36+01:00",
-    "updated_at": "2022-11-03T00:48:04+01:00",
+    "updated_at": "2022-11-03T07:19:43+01:00",
     "media_id": "5itxbz4a6r0k",
     "duration": null,
     "canonical_section": {
@@ -340,7 +478,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/binnenland/6233784/elfjarig-vermist-meisje-uit-soest-met-vader-teruggevonden-in-bulgarije.html",
+    "url": "/binnenland/6233784/vermist-meisje-11-uit-soest-met-vader-teruggevonden-in-bulgarije.html",
     "open_new_window": false,
     "partner": null
   },
@@ -351,7 +489,7 @@
     "title": "Nadal laat zich bij rentree na blessureleed verrassen op Masters-toernooi Parijs",
     "subtitle": null,
     "published_at": "2022-11-02T23:54:03+01:00",
-    "updated_at": "2022-11-03T00:00:06+01:00",
+    "updated_at": "2022-11-03T07:42:28+01:00",
     "media_id": "yv4x4d9ai24v",
     "duration": null,
     "canonical_section": {
@@ -489,7 +627,7 @@
     "title": "Drie doden door ernstig ongeluk na politieachtervolging bij Kampen",
     "subtitle": null,
     "published_at": "2022-11-02T22:41:29+01:00",
-    "updated_at": "2022-11-03T07:00:12+01:00",
+    "updated_at": "2022-11-03T07:17:43+01:00",
     "media_id": "nlmx14caayk9",
     "duration": null,
     "canonical_section": {
@@ -548,144 +686,6 @@
       "partner": null
     },
     "url": "/tennis/6233775/auger-aliassime-en-rublev-als-laatste-spelers-zeker-van-deelname-aan-atp-finals.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6233773,
-    "slug": "mbappe-zet-psg-op-fraaie-wijze-op-voorsprong-tegen-juventus",
-    "type": "video",
-    "title": "Mbappé zet PSG op fraaie wijze op voorsprong tegen Juventus",
-    "subtitle": "Video",
-    "published_at": "2022-11-02T21:40:02+01:00",
-    "updated_at": "2022-11-02T21:40:29+01:00",
-    "media_id": "l7oxrntarje3",
-    "duration": "1:15",
-    "canonical_section": {
-      "id": 149,
-      "slug": "sport",
-      "type": "default",
-      "name": "Sport",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/sport/6233773/mbappe-zet-psg-op-fraaie-wijze-op-voorsprong-tegen-juventus.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6233770,
-    "slug": "lazio-trainer-sarri-woest-over-extra-rustdagen-voor-feyenoord-een-schande",
-    "type": "article",
-    "title": "Lazio-trainer Sarri woest over extra rustdagen voor Feyenoord: 'Een schande'",
-    "subtitle": null,
-    "published_at": "2022-11-02T21:17:51+01:00",
-    "updated_at": "2022-11-02T21:20:32+01:00",
-    "media_id": "drkx5aya4q2o",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6233770/lazio-trainer-sarri-woest-over-extra-rustdagen-voor-feyenoord-een-schande.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6233769,
-    "slug": "agenten-in-superheldpakken-vallen-drugshuis-binnen-in-peru",
-    "type": "video",
-    "title": "Agenten in superheldpakken vallen drugshuis binnen in Peru",
-    "subtitle": "Video",
-    "published_at": "2022-11-02T20:53:37+01:00",
-    "updated_at": "2022-11-02T20:53:38+01:00",
-    "media_id": "2epx221an2g8",
-    "duration": "0:54",
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6233769/agenten-in-superheldpakken-vallen-drugshuis-binnen-in-peru.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6233768,
-    "slug": "ten-hag-zonder-antony-op-jacht-naar-groepswinst-met-united-maar-wordt-lastig",
-    "type": "article",
-    "title": "Ten Hag zonder Antony op jacht naar groepswinst met United: 'Maar wordt lastig'",
-    "subtitle": null,
-    "published_at": "2022-11-02T20:50:05+01:00",
-    "updated_at": "2022-11-02T20:54:02+01:00",
-    "media_id": "747x9eda06f6",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6233768/ten-hag-zonder-antony-op-jacht-naar-groepswinst-met-united-maar-wordt-lastig.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6233767,
-    "slug": "psv-trainer-van-nistelrooij-houdt-bij-el-duel-al-rekening-met-topper-tegen-ajax",
-    "type": "article",
-    "title": "PSV-trainer Van Nistelrooij houdt bij EL-duel al rekening met topper tegen Ajax",
-    "subtitle": null,
-    "published_at": "2022-11-02T20:38:15+01:00",
-    "updated_at": "2022-11-02T20:47:12+01:00",
-    "media_id": "rm9xa0ma6nr4",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6233767/psv-trainer-van-nistelrooij-houdt-bij-el-duel-al-rekening-met-topper-tegen-ajax.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6233766,
-    "slug": "leipzig-ten-koste-van-shakhtar-naar-knock-outfase-city-blijft-ongeslagen",
-    "type": "article",
-    "title": "Leipzig ten koste van Shakhtar naar knock-outfase, City blijft ongeslagen",
-    "subtitle": null,
-    "published_at": "2022-11-02T20:34:37+01:00",
-    "updated_at": "2022-11-02T23:22:04+01:00",
-    "media_id": "nq5x4quabawu",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6233766/leipzig-ten-koste-van-shakhtar-naar-knock-outfase-city-blijft-ongeslagen.html",
     "open_new_window": false,
     "partner": null
   }
