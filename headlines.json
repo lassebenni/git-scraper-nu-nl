@@ -1,5 +1,97 @@
 [
   {
+    "id": 6233637,
+    "slug": "ik-ga-geen-herhaalprikken-tegen-corona-meer-halen",
+    "type": "article",
+    "title": "Ik ga geen herhaalprikken tegen corona meer halen",
+    "subtitle": null,
+    "published_at": "2022-11-03T05:07:35+01:00",
+    "updated_at": "2022-11-03T05:07:36+01:00",
+    "media_id": "a97xpylake1w",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779134,
+      "slug": "stelling",
+      "type": "default",
+      "name": "stelling",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/stelling/6233637/ik-ga-geen-herhaalprikken-tegen-corona-meer-halen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6233433,
+    "slug": "waarom-zou-ik-de-extra-coronaprik-halen-het-is-een-eigen-risicoafweging",
+    "type": "article",
+    "title": "Waarom zou ik de extra coronaprik halen? 'Het is een eigen risicoafweging'",
+    "subtitle": null,
+    "published_at": "2022-11-03T05:06:59+01:00",
+    "updated_at": "2022-11-03T05:07:00+01:00",
+    "media_id": "oq4xprzameo2",
+    "duration": null,
+    "canonical_section": {
+      "id": 1778528,
+      "slug": "coronavirus",
+      "type": "default",
+      "name": "Coronavirus",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/coronavirus/6233433/waarom-zou-ik-de-extra-coronaprik-halen-het-is-een-eigen-risicoafweging.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6233696,
+    "slug": "in-tien-weken-bijna-20000-aanvragen-voor-langer-betaald-ouderschapsverlof",
+    "type": "article",
+    "title": "In tien weken bijna 20.000 aanvragen voor langer betaald ouderschapsverlof",
+    "subtitle": null,
+    "published_at": "2022-11-03T05:05:37+01:00",
+    "updated_at": "2022-11-03T05:05:38+01:00",
+    "media_id": "ggixynbawl3o",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6233696/in-tien-weken-bijna-20000-aanvragen-voor-langer-betaald-ouderschapsverlof.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6233787,
+    "slug": "vrouw-onder-verdachte-omstandigheden-overleden-in-ziekenhuis-den-bosch",
+    "type": "article",
+    "title": "Vrouw onder verdachte omstandigheden overleden in ziekenhuis Den Bosch",
+    "subtitle": null,
+    "published_at": "2022-11-03T04:36:33+01:00",
+    "updated_at": "2022-11-03T05:10:27+01:00",
+    "media_id": "dmyxxwjazog3",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6233787/vrouw-onder-verdachte-omstandigheden-overleden-in-ziekenhuis-den-bosch.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6233786,
     "slug": "ns-verhoogt-prijzen-los-treinkaartje-wordt-55-procent-duurder",
     "type": "article",
@@ -594,98 +686,6 @@
       "partner": null
     },
     "url": "/buitenland/6233753/rebellen-en-regering-ethiopie-sluiten-akkoord-na-twee-jaar-bloedige-strijd.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6233755,
-    "slug": "rechtbank-geeft-meisje-met-de-parel-activisten-maand-celstraf",
-    "type": "video",
-    "title": "Rechtbank geeft Meisje met de parel-activisten maand celstraf",
-    "subtitle": "Video",
-    "published_at": "2022-11-02T18:37:54+01:00",
-    "updated_at": "2022-11-02T18:37:55+01:00",
-    "media_id": "nhgxa3haqw43",
-    "duration": "1:25",
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6233755/rechtbank-geeft-meisje-met-de-parel-activisten-maand-celstraf.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6233749,
-    "slug": "qatar-weigert-gewonde-en-omgekomen-arbeidsmigranten-te-compenseren",
-    "type": "article",
-    "title": "Qatar weigert gewonde en omgekomen arbeidsmigranten te compenseren",
-    "subtitle": null,
-    "published_at": "2022-11-02T18:35:26+01:00",
-    "updated_at": "2022-11-02T19:14:41+01:00",
-    "media_id": "johxzcqaq1ms",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772307,
-      "slug": "wk-voetbal",
-      "type": "files",
-      "name": "WK voetbal",
-      "style": "nu",
-      "media_id": "m1mxoqoan7eu",
-      "partner": null
-    },
-    "url": "/wk-voetbal/6233749/qatar-weigert-gewonde-en-omgekomen-arbeidsmigranten-te-compenseren.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6233752,
-    "slug": "reacties-na-laatste-speelronde-in-groepsfase",
-    "type": "article",
-    "title": "Reacties na laatste speelronde in groepsfase",
-    "subtitle": "Liveblog CL",
-    "published_at": "2022-11-02T18:32:59+01:00",
-    "updated_at": "2022-11-02T22:53:03+01:00",
-    "media_id": "jcgxml4ae6ds",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6233752/reacties-na-laatste-speelronde-in-groepsfase.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6233652,
-    "slug": "ferrari-legende-forghieri-87-overleden-de-adrian-newey-van-zijn-tijd",
-    "type": "article",
-    "title": "Ferrari-legende Forghieri (87) overleden: de Adrian Newey van zijn tijd",
-    "subtitle": "NU+",
-    "published_at": "2022-11-02T18:15:27+01:00",
-    "updated_at": "2022-11-03T00:01:40+01:00",
-    "media_id": "5aexqo5af63e",
-    "duration": null,
-    "canonical_section": {
-      "id": 1778846,
-      "slug": "nu-formule-1",
-      "type": "default",
-      "name": "NU+ Formule 1",
-      "style": "nusport",
-      "media_id": "gtmxcxnaui5m",
-      "partner": null
-    },
-    "url": "/nu-formule-1/6233652/ferrari-legende-forghieri-87-overleden-de-adrian-newey-van-zijn-tijd.html",
     "open_new_window": false,
     "partner": null
   }
