@@ -1,12 +1,150 @@
 [
   {
+    "id": 6234562,
+    "slug": "waar-wil-jij-het-over-hebben-op-het-gebied-van-zelfrijdende-autos",
+    "type": "article",
+    "title": "Waar wil jij het over hebben op het gebied van zelfrijdende auto's?",
+    "subtitle": null,
+    "published_at": "2022-11-08T09:00:46+01:00",
+    "updated_at": "2022-11-08T09:00:47+01:00",
+    "media_id": "4xfxvhmam4a5",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779134,
+      "slug": "stelling",
+      "type": "default",
+      "name": "stelling",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/stelling/6234562/waar-wil-jij-het-over-hebben-op-het-gebied-van-zelfrijdende-autos.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6234676,
+    "slug": "bevoorrading-ruimtestation-iss-in-gevaar-door-problemen-met-ruimtevrachtschip",
+    "type": "article",
+    "title": "Bevoorrading ruimtestation ISS in gevaar door problemen met ruimtevrachtschip",
+    "subtitle": null,
+    "published_at": "2022-11-08T09:00:35+01:00",
+    "updated_at": "2022-11-08T09:00:36+01:00",
+    "media_id": "wa3xbpza7zth",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771438,
+      "slug": "tech",
+      "type": "default",
+      "name": "Tech",
+      "style": "nutech",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/tech/6234676/bevoorrading-ruimtestation-iss-in-gevaar-door-problemen-met-ruimtevrachtschip.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6234675,
+    "slug": "budget-energie-stopt-maandelijks-salderen-zonne-energie-na-golf-van-kritiek",
+    "type": "article",
+    "title": "Budget Energie stopt maandelijks salderen zonne-energie na golf van kritiek",
+    "subtitle": null,
+    "published_at": "2022-11-08T08:58:21+01:00",
+    "updated_at": "2022-11-08T08:58:22+01:00",
+    "media_id": "nblxzn2axqjx",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6234675/budget-energie-stopt-maandelijks-salderen-zonne-energie-na-golf-van-kritiek.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6234674,
+    "slug": "eeuw-oude-audio-van-een-van-de-eerste-nederlandse-nobelprijswinnaars-ontdekt",
+    "type": "article",
+    "title": "Eeuw oude audio van een van de eerste Nederlandse Nobelprijswinnaars ontdekt",
+    "subtitle": null,
+    "published_at": "2022-11-08T08:52:03+01:00",
+    "updated_at": "2022-11-08T08:52:04+01:00",
+    "media_id": "ln9xfkbacket",
+    "duration": null,
+    "canonical_section": {
+      "id": 937692,
+      "slug": "opmerkelijk",
+      "type": "default",
+      "name": "Opmerkelijk",
+      "style": "nunjij",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/opmerkelijk/6234674/eeuw-oude-audio-van-een-van-de-eerste-nederlandse-nobelprijswinnaars-ontdekt.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6234677,
+    "slug": "vuurwerk-ontploft-in-menigte-tijdens-viering-in-mexico",
+    "type": "video",
+    "title": "Vuurwerk ontploft in menigte tijdens viering in Mexico",
+    "subtitle": "Video",
+    "published_at": "2022-11-08T08:33:23+01:00",
+    "updated_at": "2022-11-08T08:33:24+01:00",
+    "media_id": "lhgxb6da0ue9",
+    "duration": "0:35",
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6234677/vuurwerk-ontploft-in-menigte-tijdens-viering-in-mexico.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6234672,
+    "slug": "zorgelijk-beeld-seksueel-geweld-tegen-kinderen-tieners-vaak-opnieuw-slachtoffer",
+    "type": "article",
+    "title": "'Zorgelijk beeld' seksueel geweld tegen kinderen, tieners vaak opnieuw slachtoffer",
+    "subtitle": null,
+    "published_at": "2022-11-08T08:25:13+01:00",
+    "updated_at": "2022-11-08T08:25:14+01:00",
+    "media_id": "xcwx05qau0if",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6234672/zorgelijk-beeld-seksueel-geweld-tegen-kinderen-tieners-vaak-opnieuw-slachtoffer.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6234673,
     "slug": "australie-verrassend-zonder-voormalig-eredivisie-verdediger-sainsbury-naar-wk",
     "type": "article",
     "title": "Australië verrassend zonder voormalig Eredivisie-verdediger Sainsbury naar WK",
     "subtitle": null,
     "published_at": "2022-11-08T07:59:15+01:00",
-    "updated_at": "2022-11-08T07:59:16+01:00",
+    "updated_at": "2022-11-08T08:49:28+01:00",
     "media_id": "xshx0fjam942",
     "duration": null,
     "canonical_section": {
@@ -29,7 +167,7 @@
     "title": "Française Garcia behaalt met winst WTA Finals grootste succes uit haar carrière",
     "subtitle": null,
     "published_at": "2022-11-08T07:40:46+01:00",
-    "updated_at": "2022-11-08T07:49:39+01:00",
+    "updated_at": "2022-11-08T09:00:19+01:00",
     "media_id": "8ycxgd0apn1m",
     "duration": null,
     "canonical_section": {
@@ -47,12 +185,12 @@
   },
   {
     "id": 6234668,
-    "slug": "claimstichting-organiseert-massaclaim-tegen-twitter-vanwege-illegale-datahandel",
+    "slug": "twitter-kan-nederlandse-massaclaim-tegemoetzien-vanwege-illegale-datahandel",
     "type": "article",
-    "title": "Claimstichting organiseert massaclaim tegen Twitter vanwege 'illegale datahandel'",
+    "title": "Twitter kan Nederlandse massaclaim tegemoetzien vanwege 'illegale datahandel'",
     "subtitle": null,
     "published_at": "2022-11-08T07:08:11+01:00",
-    "updated_at": "2022-11-08T07:24:42+01:00",
+    "updated_at": "2022-11-08T08:47:47+01:00",
     "media_id": "h15x6tgaev2a",
     "duration": null,
     "canonical_section": {
@@ -64,7 +202,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/tech/6234668/claimstichting-organiseert-massaclaim-tegen-twitter-vanwege-illegale-datahandel.html",
+    "url": "/tech/6234668/twitter-kan-nederlandse-massaclaim-tegemoetzien-vanwege-illegale-datahandel.html",
     "open_new_window": false,
     "partner": null
   },
@@ -93,12 +231,12 @@
   },
   {
     "id": 6234666,
-    "slug": "trump-hint-opnieuw-op-deelname-aan-amerikaanse-presidentsverkiezing",
+    "slug": "trump-hint-weer-op-deelname-aan-presidentsverkiezing-15-november-toespraak",
     "type": "article",
-    "title": "Trump hint opnieuw op deelname aan Amerikaanse presidentsverkiezing",
+    "title": "Trump hint weer op deelname aan presidentsverkiezing, 15 november toespraak",
     "subtitle": null,
     "published_at": "2022-11-08T06:48:42+01:00",
-    "updated_at": "2022-11-08T07:15:28+01:00",
+    "updated_at": "2022-11-08T08:53:15+01:00",
     "media_id": "ojfx2i1am17s",
     "duration": null,
     "canonical_section": {
@@ -110,7 +248,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/buitenland/6234666/trump-hint-opnieuw-op-deelname-aan-amerikaanse-presidentsverkiezing.html",
+    "url": "/buitenland/6234666/trump-hint-weer-op-deelname-aan-presidentsverkiezing-15-november-toespraak.html",
     "open_new_window": false,
     "partner": null
   },
@@ -121,7 +259,7 @@
     "title": "Prijzen ook in oktober flink gestegen, maar lagere inflatie dan in september",
     "subtitle": null,
     "published_at": "2022-11-08T06:40:21+01:00",
-    "updated_at": "2022-11-08T07:38:32+01:00",
+    "updated_at": "2022-11-08T08:05:43+01:00",
     "media_id": "i3vxaffalx0n",
     "duration": null,
     "canonical_section": {
@@ -167,7 +305,7 @@
     "title": "Uitvaart Migos-rapper Takeoff vindt vrijdag plaats in stadion in Atlanta",
     "subtitle": null,
     "published_at": "2022-11-08T06:28:44+01:00",
-    "updated_at": "2022-11-08T06:28:45+01:00",
+    "updated_at": "2022-11-08T08:27:58+01:00",
     "media_id": "5nvxv9xa7wch",
     "duration": null,
     "canonical_section": {
@@ -190,7 +328,7 @@
     "title": "Cher bevestigt relatie met veertig jaar jongere producer Alexander Edwards",
     "subtitle": null,
     "published_at": "2022-11-08T06:19:55+01:00",
-    "updated_at": "2022-11-08T07:43:37+01:00",
+    "updated_at": "2022-11-08T08:28:57+01:00",
     "media_id": "nu8x1tla7sm9",
     "duration": null,
     "canonical_section": {
@@ -254,12 +392,12 @@
   },
   {
     "id": 6234171,
-    "slug": "dit-betekent-het-slavernijverleden-waarvoor-nederland-excuses-gaat-aanbieden",
+    "slug": "dit-betekent-het-slavernijverleden-waarvoor-nederland-excuses-aanbiedt",
     "type": "article",
-    "title": "Dit betekent het slavernijverleden waarvoor Nederland excuses gaat aanbieden",
-    "subtitle": null,
+    "title": "Dit betekent het slavernijverleden waarvoor Nederland excuses aanbiedt",
+    "subtitle": "NU+",
     "published_at": "2022-11-08T06:02:04+01:00",
-    "updated_at": "2022-11-08T08:00:03+01:00",
+    "updated_at": "2022-11-08T08:48:09+01:00",
     "media_id": "o3ex2hmaxj7k",
     "duration": null,
     "canonical_section": {
@@ -271,7 +409,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/binnenland/6234171/dit-betekent-het-slavernijverleden-waarvoor-nederland-excuses-gaat-aanbieden.html",
+    "url": "/binnenland/6234171/dit-betekent-het-slavernijverleden-waarvoor-nederland-excuses-aanbiedt.html",
     "open_new_window": false,
     "partner": null
   },
@@ -374,7 +512,7 @@
     "title": "Nigeriaanse weduwen staken hun jarenlange juridische strijd tegen Shell",
     "subtitle": null,
     "published_at": "2022-11-08T02:31:42+01:00",
-    "updated_at": "2022-11-08T07:58:10+01:00",
+    "updated_at": "2022-11-08T08:06:15+01:00",
     "media_id": "akbxa04aml3w",
     "duration": null,
     "canonical_section": {
@@ -548,144 +686,6 @@
       "partner": null
     },
     "url": "/auto/6234308/zo-kun-je-met-een-standkachel-in-je-auto-brandstof-besparen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6234395,
-    "slug": "zelf-een-auto-importeren-zo-koop-je-een-betrouwbare-occasion-in-het-buitenland",
-    "type": "article",
-    "title": "Zelf een auto importeren? Zo koop je een betrouwbare occasion in het buitenland",
-    "subtitle": null,
-    "published_at": "2022-11-07T22:05:15+01:00",
-    "updated_at": "2022-11-07T22:05:16+01:00",
-    "media_id": "9woxr05a983q",
-    "duration": null,
-    "canonical_section": {
-      "id": 881569,
-      "slug": "auto",
-      "type": "default",
-      "name": "Onderweg",
-      "style": "nuzakelijk",
-      "media_id": "z66x61xaq79c",
-      "partner": null
-    },
-    "url": "/auto/6234395/zelf-een-auto-importeren-zo-koop-je-een-betrouwbare-occasion-in-het-buitenland.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6234399,
-    "slug": "met-deze-veranderingen-stimuleert-den-haag-in-2023-vergroening-op-de-weg",
-    "type": "article",
-    "title": "Met deze veranderingen stimuleert Den Haag in 2023 vergroening op de weg",
-    "subtitle": null,
-    "published_at": "2022-11-07T22:04:42+01:00",
-    "updated_at": "2022-11-07T22:04:43+01:00",
-    "media_id": "hkvxqzeaqrij",
-    "duration": null,
-    "canonical_section": {
-      "id": 881569,
-      "slug": "auto",
-      "type": "default",
-      "name": "Onderweg",
-      "style": "nuzakelijk",
-      "media_id": "z66x61xaq79c",
-      "partner": null
-    },
-    "url": "/auto/6234399/met-deze-veranderingen-stimuleert-den-haag-in-2023-vergroening-op-de-weg.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6234648,
-    "slug": "russische-troepen-dwingen-inwoners-van-oekraiense-stad-kherson-te-evacueren",
-    "type": "article",
-    "title": "Russische troepen dwingen inwoners van Oekraïense stad Kherson te evacueren",
-    "subtitle": null,
-    "published_at": "2022-11-07T21:22:49+01:00",
-    "updated_at": "2022-11-07T23:03:49+01:00",
-    "media_id": "cf5xfmjafw9g",
-    "duration": null,
-    "canonical_section": {
-      "id": 1778980,
-      "slug": "spanningen-oekraine",
-      "type": "default",
-      "name": "Oorlog in Oekraïne",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/spanningen-oekraine/6234648/russische-troepen-dwingen-inwoners-van-oekraiense-stad-kherson-te-evacueren.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6230879,
-    "slug": "de-selecties-van-alle-wk-deelnemers-op-een-rij",
-    "type": "article",
-    "title": "De selecties van alle WK-deelnemers op een rij",
-    "subtitle": "Overzicht",
-    "published_at": "2022-11-07T21:13:01+01:00",
-    "updated_at": "2022-11-08T07:11:06+01:00",
-    "media_id": "r73xnfsadv3b",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779159,
-      "slug": "wk-2022",
-      "type": "default",
-      "name": "WK voetbal 2022",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/wk-2022/6230879/de-selecties-van-alle-wk-deelnemers-op-een-rij.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6234651,
-    "slug": "ihattaren-accepteert-helpende-hand-van-sneijder-hij-heeft-het-licht-gezien",
-    "type": "article",
-    "title": "Ihattaren accepteert helpende hand van Sneijder: 'Hij heeft het licht gezien'",
-    "subtitle": null,
-    "published_at": "2022-11-07T20:54:56+01:00",
-    "updated_at": "2022-11-07T23:57:10+01:00",
-    "media_id": "06gxdm4azq05",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6234651/ihattaren-accepteert-helpende-hand-van-sneijder-hij-heeft-het-licht-gezien.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6234650,
-    "slug": "politie-voert-actievoerders-tegen-zwarte-piet-af-in-gemeentehuis-emmen",
-    "type": "video",
-    "title": "Politie voert actievoerders tegen Zwarte Piet af in gemeentehuis Emmen",
-    "subtitle": "Video",
-    "published_at": "2022-11-07T20:43:59+01:00",
-    "updated_at": "2022-11-07T20:44:14+01:00",
-    "media_id": "q91xne9ag7h5",
-    "duration": "0:40",
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6234650/politie-voert-actievoerders-tegen-zwarte-piet-af-in-gemeentehuis-emmen.html",
     "open_new_window": false,
     "partner": null
   }
