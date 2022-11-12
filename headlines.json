@@ -1,12 +1,81 @@
 [
   {
-    "id": 6235730,
-    "slug": "groenewoud-derde-op-1500-meter-in-stavanger-takagi-rijdt-naar-zege",
+    "id": 6235735,
+    "slug": "foden-knalt-manchester-city-op-fraaie-wijze-naast-brentford",
+    "type": "video",
+    "title": "Foden knalt Manchester City op fraaie wijze naast Brentford",
+    "subtitle": "Video",
+    "published_at": "2022-11-12T14:53:59+01:00",
+    "updated_at": "2022-11-12T14:54:00+01:00",
+    "media_id": "6hfxt29avojl",
+    "duration": "1:44",
+    "canonical_section": {
+      "id": 149,
+      "slug": "sport",
+      "type": "default",
+      "name": "Sport",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/sport/6235735/foden-knalt-manchester-city-op-fraaie-wijze-naast-brentford.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6235498,
+    "slug": "nieuw-op-netflix-deze-films-en-series-verschenen-afgelopen-week",
     "type": "article",
-    "title": "Groenewoud derde op 1.500 meter in Stavanger, Takagi rijdt naar zege",
+    "title": "Nieuw op Netflix: deze films en series verschenen afgelopen week",
+    "subtitle": null,
+    "published_at": "2022-11-12T14:51:59+01:00",
+    "updated_at": "2022-11-12T14:52:00+01:00",
+    "media_id": "hqoxl38andjp",
+    "duration": null,
+    "canonical_section": {
+      "id": 127,
+      "slug": "film",
+      "type": "default",
+      "name": "Films & Series",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/film/6235498/nieuw-op-netflix-deze-films-en-series-verschenen-afgelopen-week.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6235732,
+    "slug": "zo-zag-de-intocht-van-sinterklaas-in-hellevoetsluis-eruit",
+    "type": "video",
+    "title": "Zo zag de intocht van Sinterklaas in Hellevoetsluis eruit",
+    "subtitle": "Video",
+    "published_at": "2022-11-12T14:31:04+01:00",
+    "updated_at": "2022-11-12T14:31:04+01:00",
+    "media_id": "kooxm15ak6jq",
+    "duration": "0:53",
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6235732/zo-zag-de-intocht-van-sinterklaas-in-hellevoetsluis-eruit.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6235730,
+    "slug": "groenewoud-derde-op-1500-meter-in-stavanger-bijrol-voor-nederlandse-sprinters",
+    "type": "article",
+    "title": "Groenewoud derde op 1.500 meter in Stavanger, bijrol voor Nederlandse sprinters",
     "subtitle": null,
     "published_at": "2022-11-12T13:40:20+01:00",
-    "updated_at": "2022-11-12T13:56:00+01:00",
+    "updated_at": "2022-11-12T14:43:41+01:00",
     "media_id": "11ixdzkarbwd",
     "duration": null,
     "canonical_section": {
@@ -18,18 +87,18 @@
       "media_id": "5ktx9n6axubw",
       "partner": null
     },
-    "url": "/schaatsen/6235730/groenewoud-derde-op-1500-meter-in-stavanger-takagi-rijdt-naar-zege.html",
+    "url": "/schaatsen/6235730/groenewoud-derde-op-1500-meter-in-stavanger-bijrol-voor-nederlandse-sprinters.html",
     "open_new_window": false,
     "partner": null
   },
   {
     "id": 6235729,
-    "slug": "sinterklaas-komt-zaterdag-met-privejet-aan-in-hellevoetsluis",
+    "slug": "sinterklaas-in-privejet-gearriveerd-in-hellevoetsluis",
     "type": "article",
-    "title": "Sinterklaas komt zaterdag met privéjet aan in Hellevoetsluis",
+    "title": "Sinterklaas in privéjet gearriveerd in Hellevoetsluis",
     "subtitle": null,
     "published_at": "2022-11-12T13:37:22+01:00",
-    "updated_at": "2022-11-12T13:57:34+01:00",
+    "updated_at": "2022-11-12T14:38:06+01:00",
     "media_id": "e3gxehda08fx",
     "duration": null,
     "canonical_section": {
@@ -41,7 +110,7 @@
       "media_id": "m1oxgqmahlh5",
       "partner": null
     },
-    "url": "/sinterklaas/6235729/sinterklaas-komt-zaterdag-met-privejet-aan-in-hellevoetsluis.html",
+    "url": "/sinterklaas/6235729/sinterklaas-in-privejet-gearriveerd-in-hellevoetsluis.html",
     "open_new_window": false,
     "partner": null
   },
@@ -328,7 +397,7 @@
     "title": "Zorgverzekeraars maken flink hogere premies bekend: tot 10 euro erbij",
     "subtitle": null,
     "published_at": "2022-11-12T10:43:24+01:00",
-    "updated_at": "2022-11-12T12:06:39+01:00",
+    "updated_at": "2022-11-12T14:22:07+01:00",
     "media_id": "06xxbvhapt5i",
     "duration": null,
     "canonical_section": {
@@ -617,75 +686,6 @@
       "partner": null
     },
     "url": "/voetbal/6235651/brugts-speelt-als-linksachter-bij-oranjevrouwen-dit-had-ik-niet-verwacht.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6235660,
-    "slug": "democraten-behouden-belangrijke-senaatszetel-door-uitslag-in-swingstaat-arizona",
-    "type": "article",
-    "title": "Democraten behouden belangrijke senaatszetel door uitslag in swingstaat Arizona",
-    "subtitle": null,
-    "published_at": "2022-11-12T07:44:32+01:00",
-    "updated_at": "2022-11-12T08:03:25+01:00",
-    "media_id": "8n0xqxia5m9p",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6235660/democraten-behouden-belangrijke-senaatszetel-door-uitslag-in-swingstaat-arizona.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6235659,
-    "slug": "reisinformatie-van-ns-weer-beschikbaar-na-storing-van-25-uur",
-    "type": "article",
-    "title": "Reisinformatie van NS weer beschikbaar na storing van 2,5 uur",
-    "subtitle": null,
-    "published_at": "2022-11-12T07:32:24+01:00",
-    "updated_at": "2022-11-12T08:41:40+01:00",
-    "media_id": "9yux1g1agngs",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6235659/reisinformatie-van-ns-weer-beschikbaar-na-storing-van-25-uur.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6235449,
-    "slug": "waarom-superskinny-schoonheidsideaal-nooit-echt-comeback-kan-maken",
-    "type": "video",
-    "title": "Waarom superskinny-schoonheidsideaal nooit écht comeback kan maken",
-    "subtitle": "Video",
-    "published_at": "2022-11-12T07:23:09+01:00",
-    "updated_at": "2022-11-12T07:41:37+01:00",
-    "media_id": "jngxmska9ec6",
-    "duration": "1:59",
-    "canonical_section": {
-      "id": 1778830,
-      "slug": "nu-uitgelegd",
-      "type": "default",
-      "name": "NU-uitgelegd",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/nu-uitgelegd/6235449/waarom-superskinny-schoonheidsideaal-nooit-echt-comeback-kan-maken.html",
     "open_new_window": false,
     "partner": null
   }
