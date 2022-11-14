@@ -1,12 +1,58 @@
 [
   {
+    "id": 6236077,
+    "slug": "dumfries-verwacht-nederland-senegal-te-halen-ook-memphis-traint-mee-in-zeist",
+    "type": "article",
+    "title": "Dumfries verwacht Nederland-Senegal te halen, ook Memphis traint mee in Zeist",
+    "subtitle": null,
+    "published_at": "2022-11-14T18:43:37+01:00",
+    "updated_at": "2022-11-14T18:58:24+01:00",
+    "media_id": "z1hxu6daij15",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772307,
+      "slug": "wk-voetbal",
+      "type": "files",
+      "name": "WK voetbal",
+      "style": "nusport",
+      "media_id": "m1mxoqoan7eu",
+      "partner": null
+    },
+    "url": "/wk-voetbal/6236077/dumfries-verwacht-nederland-senegal-te-halen-ook-memphis-traint-mee-in-zeist.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6236119,
+    "slug": "een-op-de-drie-britse-pubs-is-vaker-dicht-om-dure-energie-te-besparen",
+    "type": "article",
+    "title": "Een op de drie Britse pubs is vaker dicht om dure energie te besparen",
+    "subtitle": null,
+    "published_at": "2022-11-14T18:31:21+01:00",
+    "updated_at": "2022-11-14T18:31:22+01:00",
+    "media_id": "75pxzf8a4gbe",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6236119/een-op-de-drie-britse-pubs-is-vaker-dicht-om-dure-energie-te-besparen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6236114,
     "slug": "zelensky-noemt-herovering-kherson-begin-van-einde-van-oorlog",
     "type": "video",
     "title": "Zelensky noemt herovering Kherson 'begin van einde van oorlog'",
     "subtitle": "Video",
     "published_at": "2022-11-14T18:06:36+01:00",
-    "updated_at": "2022-11-14T18:06:37+01:00",
+    "updated_at": "2022-11-14T18:08:49+01:00",
     "media_id": "5max2r5ay4xw",
     "duration": "1:07",
     "canonical_section": {
@@ -627,7 +673,7 @@
     "title": "Bergkamp zet onderzoek naar Arib door en hoopt dat ze alsnog meewerkt",
     "subtitle": null,
     "published_at": "2022-11-14T13:12:48+01:00",
-    "updated_at": "2022-11-14T14:03:37+01:00",
+    "updated_at": "2022-11-14T18:16:12+01:00",
     "media_id": "eatx348a72km",
     "duration": null,
     "canonical_section": {
@@ -640,52 +686,6 @@
       "partner": null
     },
     "url": "/politiek/6236039/bergkamp-zet-onderzoek-naar-arib-door-en-hoopt-dat-ze-alsnog-meewerkt.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6236040,
-    "slug": "oekrainers-hijsen-vlag-en-zingen-volkslied-in-kherson",
-    "type": "video",
-    "title": "Oekraïners hijsen vlag en zingen volkslied in Kherson",
-    "subtitle": "Video",
-    "published_at": "2022-11-14T13:06:53+01:00",
-    "updated_at": "2022-11-14T13:06:54+01:00",
-    "media_id": "hdjxrnzatjbo",
-    "duration": "0:44",
-    "canonical_section": {
-      "id": 1778980,
-      "slug": "spanningen-oekraine",
-      "type": "default",
-      "name": "Oorlog in Oekraïne",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/spanningen-oekraine/6236040/oekrainers-hijsen-vlag-en-zingen-volkslied-in-kherson.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6236037,
-    "slug": "privacywaakhond-kritisch-over-opslaan-gegevens-van-nederlanders-in-de-cloud",
-    "type": "article",
-    "title": "Privacywaakhond kritisch over opslaan gegevens van Nederlanders in de cloud",
-    "subtitle": null,
-    "published_at": "2022-11-14T12:50:14+01:00",
-    "updated_at": "2022-11-14T12:51:07+01:00",
-    "media_id": "y9xxn83an8i0",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771438,
-      "slug": "tech",
-      "type": "default",
-      "name": "Tech",
-      "style": "nutech",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/tech/6236037/privacywaakhond-kritisch-over-opslaan-gegevens-van-nederlanders-in-de-cloud.html",
     "open_new_window": false,
     "partner": null
   }
