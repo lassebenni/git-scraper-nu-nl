@@ -1,5 +1,51 @@
 [
   {
+    "id": 6236788,
+    "slug": "we-kopen-minder-maar-winkels-profiteren-toch-door-hogere-prijzen",
+    "type": "article",
+    "title": "We kopen minder, maar winkels profiteren toch door hogere prijzen",
+    "subtitle": null,
+    "published_at": "2022-11-18T00:01:04+01:00",
+    "updated_at": "2022-11-18T00:01:05+01:00",
+    "media_id": "h8sx9h3atehc",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6236788/we-kopen-minder-maar-winkels-profiteren-toch-door-hogere-prijzen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6236898,
+    "slug": "bezoek-arbeiders-aan-oranje-was-gekunsteld-maar-ze-genoten-wel",
+    "type": "video",
+    "title": "Bezoek arbeiders aan Oranje was gekunsteld, maar ze genoten wel",
+    "subtitle": "Video",
+    "published_at": "2022-11-17T23:36:02+01:00",
+    "updated_at": "2022-11-17T23:39:56+01:00",
+    "media_id": "wcsx9l2apfui",
+    "duration": "2:49",
+    "canonical_section": {
+      "id": 1772307,
+      "slug": "wk-voetbal",
+      "type": "files",
+      "name": "WK voetbal",
+      "style": "nusport",
+      "media_id": "m1mxoqoan7eu",
+      "partner": null
+    },
+    "url": "/wk-voetbal/6236898/bezoek-arbeiders-aan-oranje-was-gekunsteld-maar-ze-genoten-wel.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6236896,
     "slug": "van-gerwen-krijgt-negendarter-om-de-oren",
     "type": "video",
@@ -116,13 +162,13 @@
   },
   {
     "id": 6236877,
-    "slug": "wattimena-uitgeschakeld-op-grand-slam-of-darts-na-slechte-start-tegen-aspinall",
+    "slug": "van-gerwen-komt-negendarter-te-boven-in-thriller-en-bereikt-kwartfinales",
     "type": "article",
-    "title": "Wattimena uitgeschakeld op Grand Slam of Darts na slechte start tegen Aspinall",
+    "title": "Van Gerwen komt negendarter te boven in thriller en bereikt kwartfinales",
     "subtitle": null,
     "published_at": "2022-11-17T21:03:05+01:00",
-    "updated_at": "2022-11-17T22:03:37+01:00",
-    "media_id": "jpux6lxanscs",
+    "updated_at": "2022-11-17T23:59:27+01:00",
+    "media_id": "p6wxsbeatqpu",
     "duration": null,
     "canonical_section": {
       "id": 1777376,
@@ -133,7 +179,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/darts/6236877/wattimena-uitgeschakeld-op-grand-slam-of-darts-na-slechte-start-tegen-aspinall.html",
+    "url": "/darts/6236877/van-gerwen-komt-negendarter-te-boven-in-thriller-en-bereikt-kwartfinales.html",
     "open_new_window": false,
     "partner": null
   },
@@ -144,7 +190,7 @@
     "title": "Invaller Antonisse blinkt uit bij Jong PSV, Jong Ajax incasseert late gelijkmaker",
     "subtitle": null,
     "published_at": "2022-11-17T20:50:52+01:00",
-    "updated_at": "2022-11-17T22:56:28+01:00",
+    "updated_at": "2022-11-17T23:02:45+01:00",
     "media_id": "eqmx5fqa9dew",
     "duration": null,
     "canonical_section": {
@@ -259,7 +305,7 @@
     "title": "Oranje ontmoet arbeidsmigranten: 'Was moeilijk om tot een gesprek te komen'",
     "subtitle": null,
     "published_at": "2022-11-17T20:00:38+01:00",
-    "updated_at": "2022-11-17T22:21:20+01:00",
+    "updated_at": "2022-11-17T23:39:00+01:00",
     "media_id": "n0oxnkoacdot",
     "duration": null,
     "canonical_section": {
@@ -640,52 +686,6 @@
       "partner": null
     },
     "url": "/tech/6236821/franse-privacywaakhond-legt-discord-boete-op-van-800000-euro.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6236825,
-    "slug": "dit-vinden-nabestaanden-van-uitspraak-in-mh17-zaak",
-    "type": "video",
-    "title": "Dit vinden nabestaanden van uitspraak in MH17-zaak",
-    "subtitle": "Video",
-    "published_at": "2022-11-17T17:11:03+01:00",
-    "updated_at": "2022-11-17T17:47:40+01:00",
-    "media_id": "74mx9uxa6tyd",
-    "duration": "1:48",
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6236825/dit-vinden-nabestaanden-van-uitspraak-in-mh17-zaak.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6236820,
-    "slug": "psv-sluit-oefencampagne-op-30-december-af-met-wedstrijd-tegen-ac-milan",
-    "type": "article",
-    "title": "PSV sluit oefencampagne op 30 december af met wedstrijd tegen AC Milan",
-    "subtitle": null,
-    "published_at": "2022-11-17T17:06:05+01:00",
-    "updated_at": "2022-11-17T17:06:06+01:00",
-    "media_id": "54kxcd6a36ui",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6236820/psv-sluit-oefencampagne-op-30-december-af-met-wedstrijd-tegen-ac-milan.html",
     "open_new_window": false,
     "partner": null
   }
