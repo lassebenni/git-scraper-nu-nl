@@ -1,12 +1,81 @@
 [
   {
+    "id": 6236916,
+    "slug": "uitslaande-brand-in-vluchtelingenkamp-gazastrook",
+    "type": "video",
+    "title": "Uitslaande brand in vluchtelingenkamp Gazastrook",
+    "subtitle": "Video",
+    "published_at": "2022-11-18T07:37:29+01:00",
+    "updated_at": "2022-11-18T07:37:47+01:00",
+    "media_id": "x8oxqhsa5kfo",
+    "duration": "0:49",
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6236916/uitslaande-brand-in-vluchtelingenkamp-gazastrook.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6236910,
+    "slug": "laatste-trainingssessie-voor-makkelie-richting-wk-start",
+    "type": "article",
+    "title": "Laatste trainingssessie voor Makkelie richting WK-start",
+    "subtitle": "Liveblog WK voetbal",
+    "published_at": "2022-11-18T07:16:09+01:00",
+    "updated_at": "2022-11-18T07:58:31+01:00",
+    "media_id": "pfkxqdvaw5qb",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772307,
+      "slug": "wk-voetbal",
+      "type": "files",
+      "name": "WK voetbal",
+      "style": "nusport",
+      "media_id": "m1mxoqoan7eu",
+      "partner": null
+    },
+    "url": "/wk-voetbal/6236910/laatste-trainingssessie-voor-makkelie-richting-wk-start.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6236908,
+    "slug": "stil-protest-onder-twitter-personeel-dwingt-musk-om-zijn-toon-te-matigen",
+    "type": "article",
+    "title": "Stil protest onder Twitter-personeel dwingt Musk om zijn toon te matigen",
+    "subtitle": null,
+    "published_at": "2022-11-18T07:09:52+01:00",
+    "updated_at": "2022-11-18T07:53:19+01:00",
+    "media_id": "t5oxy1palw31",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771438,
+      "slug": "tech",
+      "type": "default",
+      "name": "Tech",
+      "style": "nutech",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/tech/6236908/stil-protest-onder-twitter-personeel-dwingt-musk-om-zijn-toon-te-matigen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6236905,
     "slug": "sting-breekt-concert-in-afas-live-af-vanwege-stemproblemen",
     "type": "article",
     "title": "Sting breekt concert in AFAS Live af vanwege stemproblemen",
     "subtitle": null,
     "published_at": "2022-11-18T06:42:41+01:00",
-    "updated_at": "2022-11-18T06:42:42+01:00",
+    "updated_at": "2022-11-18T07:41:21+01:00",
     "media_id": "lnyxzqsagcdp",
     "duration": null,
     "canonical_section": {
@@ -47,12 +116,12 @@
   },
   {
     "id": 6236304,
-    "slug": "het-lastige-leven-van-succesvolle-iraanse-filmmakers-het-is-een-mijnenveld",
+    "slug": "het-lastige-leven-van-succesvolle-iraanse-filmmakers-is-een-mijnenveld",
     "type": "article",
-    "title": "Het lastige leven van succesvolle Iraanse filmmakers: 'Het is een mijnenveld'",
+    "title": "Het lastige leven van succesvolle Iraanse filmmakers: 'Is een mijnenveld'",
     "subtitle": "NU+",
     "published_at": "2022-11-18T06:03:34+01:00",
-    "updated_at": "2022-11-18T06:59:46+01:00",
+    "updated_at": "2022-11-18T07:10:50+01:00",
     "media_id": "pvlx3o0a5w6t",
     "duration": null,
     "canonical_section": {
@@ -64,7 +133,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/film/6236304/het-lastige-leven-van-succesvolle-iraanse-filmmakers-het-is-een-mijnenveld.html",
+    "url": "/film/6236304/het-lastige-leven-van-succesvolle-iraanse-filmmakers-is-een-mijnenveld.html",
     "open_new_window": false,
     "partner": null
   },
@@ -75,7 +144,7 @@
     "title": "Oppermachtige Verstappen, falende Ferrari's en debuut De Vries",
     "subtitle": "Tijdlijn F1-jaar",
     "published_at": "2022-11-18T06:02:42+01:00",
-    "updated_at": "2022-11-18T06:02:43+01:00",
+    "updated_at": "2022-11-18T07:27:59+01:00",
     "media_id": "4y4x7dnaywmp",
     "duration": null,
     "canonical_section": {
@@ -144,7 +213,7 @@
     "title": "De Woordle van vandaag: Raad jij het woord van de dag?",
     "subtitle": null,
     "published_at": "2022-11-18T05:30:12+01:00",
-    "updated_at": "2022-11-18T05:30:13+01:00",
+    "updated_at": "2022-11-18T07:31:55+01:00",
     "media_id": "q90x8w2aq9up",
     "duration": null,
     "canonical_section": {
@@ -167,7 +236,7 @@
     "title": "Weerbericht: Vergeet je paraplu niet, druilerige herfstdag met lange buien",
     "subtitle": null,
     "published_at": "2022-11-18T05:25:28+01:00",
-    "updated_at": "2022-11-18T05:25:52+01:00",
+    "updated_at": "2022-11-18T07:14:48+01:00",
     "media_id": "o8qxnwuafav7",
     "duration": null,
     "canonical_section": {
@@ -213,7 +282,7 @@
     "title": "Oorlogsveteraan Tom Rice (101) overleden, Amerikaan sprong boven Nederland",
     "subtitle": null,
     "published_at": "2022-11-18T04:52:00+01:00",
-    "updated_at": "2022-11-18T06:57:44+01:00",
+    "updated_at": "2022-11-18T07:05:07+01:00",
     "media_id": "rgexyfsapz3w",
     "duration": null,
     "canonical_section": {
@@ -236,7 +305,7 @@
     "title": "Kaartverkoop concerten Taylor Swift geannuleerd vanwege overbelasting site",
     "subtitle": null,
     "published_at": "2022-11-18T03:13:57+01:00",
-    "updated_at": "2022-11-18T06:55:02+01:00",
+    "updated_at": "2022-11-18T07:09:33+01:00",
     "media_id": "pd4xusuak8mj",
     "duration": null,
     "canonical_section": {
@@ -259,7 +328,7 @@
     "title": "Zeker 21 doden bij brand in vluchtelingenkamp Gaza, onder wie 10 kinderen",
     "subtitle": null,
     "published_at": "2022-11-18T01:46:55+01:00",
-    "updated_at": "2022-11-18T01:56:15+01:00",
+    "updated_at": "2022-11-18T07:39:12+01:00",
     "media_id": "zh1xof7a0ih2",
     "duration": null,
     "canonical_section": {
@@ -282,7 +351,7 @@
     "title": "Onterechte boetes en onderbetaling: 2.500 uitzendbureaus overtreden de wet",
     "subtitle": null,
     "published_at": "2022-11-18T00:58:02+01:00",
-    "updated_at": "2022-11-18T06:55:28+01:00",
+    "updated_at": "2022-11-18T07:31:02+01:00",
     "media_id": "il9xu0lagjus",
     "duration": null,
     "canonical_section": {
@@ -300,12 +369,12 @@
   },
   {
     "id": 6236788,
-    "slug": "we-kopen-minder-maar-winkels-profiteren-toch-door-hogere-prijzen",
+    "slug": "we-kopen-minder-maar-winkels-zien-omzet-stijgen-toch-door-hogere-prijzen",
     "type": "article",
-    "title": "We kopen minder, maar winkels profiteren toch door hogere prijzen",
+    "title": "We kopen minder, maar winkels zien omzet stijgen toch door hogere prijzen",
     "subtitle": null,
     "published_at": "2022-11-18T00:01:04+01:00",
-    "updated_at": "2022-11-18T00:01:05+01:00",
+    "updated_at": "2022-11-18T07:20:56+01:00",
     "media_id": "h8sx9h3atehc",
     "duration": null,
     "canonical_section": {
@@ -317,7 +386,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/economie/6236788/we-kopen-minder-maar-winkels-profiteren-toch-door-hogere-prijzen.html",
+    "url": "/economie/6236788/we-kopen-minder-maar-winkels-zien-omzet-stijgen-toch-door-hogere-prijzen.html",
     "open_new_window": false,
     "partner": null
   },
@@ -328,7 +397,7 @@
     "title": "Bezoek arbeiders aan Oranje was gekunsteld, maar ze genoten wel",
     "subtitle": "Video",
     "published_at": "2022-11-17T23:36:02+01:00",
-    "updated_at": "2022-11-17T23:39:56+01:00",
+    "updated_at": "2022-11-18T07:12:39+01:00",
     "media_id": "wcsx9l2apfui",
     "duration": "2:49",
     "canonical_section": {
@@ -512,7 +581,7 @@
     "title": "Fritz verslaat Auger-Aliassime en treft Djokovic in halve finales ATP Finals",
     "subtitle": null,
     "published_at": "2022-11-17T20:48:51+01:00",
-    "updated_at": "2022-11-18T01:15:59+01:00",
+    "updated_at": "2022-11-18T07:36:50+01:00",
     "media_id": "827xd1majtu5",
     "duration": null,
     "canonical_section": {
@@ -617,75 +686,6 @@
       "partner": null
     },
     "url": "/wk-voetbal/6236864/oranje-ontmoet-arbeidsmigranten-was-moeilijk-om-tot-een-gesprek-te-komen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6236860,
-    "slug": "zo-ging-banksy-te-werk-in-oekraine",
-    "type": "video",
-    "title": "Zo ging Banksy te werk in Oekraïne",
-    "subtitle": "Video",
-    "published_at": "2022-11-17T19:30:42+01:00",
-    "updated_at": "2022-11-17T19:38:35+01:00",
-    "media_id": "piax14wadsua",
-    "duration": "0:43",
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6236860/zo-ging-banksy-te-werk-in-oekraine.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6236855,
-    "slug": "jamie-trenite-is-vader-geworden-van-zoontje-rafael",
-    "type": "article",
-    "title": "Jamie Trenité is vader geworden van zoontje Rafael",
-    "subtitle": null,
-    "published_at": "2022-11-17T19:20:06+01:00",
-    "updated_at": "2022-11-18T06:19:17+01:00",
-    "media_id": "4axxdpiaxj4a",
-    "duration": null,
-    "canonical_section": {
-      "id": 125,
-      "slug": "achterklap",
-      "type": "default",
-      "name": "Achterklap",
-      "style": "nuentertainment",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/achterklap/6236855/jamie-trenite-is-vader-geworden-van-zoontje-rafael.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6236859,
-    "slug": "selfies-en-partijtje-voetbal-oranje-ontmoet-arbeidsmigranten-in-qatar",
-    "type": "article",
-    "title": "Selfies en partijtje voetbal: Oranje ontmoet arbeidsmigranten in Qatar",
-    "subtitle": "In beeld",
-    "published_at": "2022-11-17T19:19:01+01:00",
-    "updated_at": "2022-11-17T20:05:04+01:00",
-    "media_id": "z95xtxbaas4d",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772307,
-      "slug": "wk-voetbal",
-      "type": "files",
-      "name": "WK voetbal",
-      "style": "nusport",
-      "media_id": "m1mxoqoan7eu",
-      "partner": null
-    },
-    "url": "/wk-voetbal/6236859/selfies-en-partijtje-voetbal-oranje-ontmoet-arbeidsmigranten-in-qatar.html",
     "open_new_window": false,
     "partner": null
   }
