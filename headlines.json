@@ -1,12 +1,58 @@
 [
   {
+    "id": 6237092,
+    "slug": "we-betalen-meer-energiebelasting-en-brandstofaccijns",
+    "type": "article",
+    "title": "We betalen meer energiebelasting en brandstofaccijns",
+    "subtitle": null,
+    "published_at": "2022-11-21T00:00:48+01:00",
+    "updated_at": "2022-11-21T00:00:49+01:00",
+    "media_id": "x5xxp96acpsd",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6237092/we-betalen-meer-energiebelasting-en-brandstofaccijns.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6237405,
+    "slug": "nba-club-brooklyn-nets-heft-schorsing-irving-om-promoten-antisemitische-film-op",
+    "type": "article",
+    "title": "NBA-club Brooklyn Nets heft schorsing Irving om promoten antisemitische film op",
+    "subtitle": null,
+    "published_at": "2022-11-20T23:39:53+01:00",
+    "updated_at": "2022-11-20T23:56:41+01:00",
+    "media_id": "prcxchqap8if",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772456,
+      "slug": "sport-overig",
+      "type": "default",
+      "name": "Sport Overig",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/sport-overig/6237405/nba-club-brooklyn-nets-heft-schorsing-irving-om-promoten-antisemitische-film-op.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6237404,
     "slug": "bondscoach-ecuador-ondanks-zege-ontevreden-we-moeten-ons-verbeteren",
     "type": "article",
     "title": "Bondscoach Ecuador ondanks zege ontevreden: 'We moeten ons verbeteren'",
     "subtitle": null,
     "published_at": "2022-11-20T22:56:22+01:00",
-    "updated_at": "2022-11-20T22:56:23+01:00",
+    "updated_at": "2022-11-20T23:20:19+01:00",
     "media_id": "5mmxb7da1et6",
     "duration": null,
     "canonical_section": {
@@ -29,7 +75,7 @@
     "title": "Emotionele Smith rekent af met finalevloek en wint Grand Slam of Darts",
     "subtitle": null,
     "published_at": "2022-11-20T22:23:33+01:00",
-    "updated_at": "2022-11-20T22:29:08+01:00",
+    "updated_at": "2022-11-20T23:13:24+01:00",
     "media_id": "rb4xusiaic3z",
     "duration": null,
     "canonical_section": {
@@ -259,7 +305,7 @@
     "title": "Het WK-programma van morgen: Oranje keert terug op mondiaal podium",
     "subtitle": null,
     "published_at": "2022-11-20T20:06:47+01:00",
-    "updated_at": "2022-11-20T20:06:47+01:00",
+    "updated_at": "2022-11-20T23:49:57+01:00",
     "media_id": "kiax9b9a29f9",
     "duration": null,
     "canonical_section": {
@@ -640,52 +686,6 @@
       "partner": null
     },
     "url": "/achterklap/6237365/helikopter-van-tom-cruise-verstoort-opnames-britse-tv-serie.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6237362,
-    "slug": "willem-ii-verspeelt-bij-fc-dordrecht-voor-derde-keer-op-rij-punten",
-    "type": "article",
-    "title": "Willem II verspeelt bij FC Dordrecht voor derde keer op rij punten",
-    "subtitle": null,
-    "published_at": "2022-11-20T16:29:51+01:00",
-    "updated_at": "2022-11-20T16:43:22+01:00",
-    "media_id": "lyexg2uar3l4",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6237362/willem-ii-verspeelt-bij-fc-dordrecht-voor-derde-keer-op-rij-punten.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6237360,
-    "slug": "doden-en-gewonden-bij-schietpartij-in-amerikaanse-gayclub",
-    "type": "video",
-    "title": "Doden en gewonden bij schietpartij in Amerikaanse gayclub",
-    "subtitle": "Video",
-    "published_at": "2022-11-20T16:08:33+01:00",
-    "updated_at": "2022-11-20T16:08:34+01:00",
-    "media_id": "u35xew7ayhdn",
-    "duration": "0:34",
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6237360/doden-en-gewonden-bij-schietpartij-in-amerikaanse-gayclub.html",
     "open_new_window": false,
     "partner": null
   }
