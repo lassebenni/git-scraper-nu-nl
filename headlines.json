@@ -1,12 +1,127 @@
 [
   {
-    "id": 6237586,
-    "slug": "begrotingstekort-van-75-miljard-door-hogere-energieprijzen-en-inflatie",
+    "id": 6237594,
+    "slug": "bale-redt-punt-voor-wales-tegen-verenigde-staten-bij-wk-rentree-na-64-jaar",
     "type": "article",
-    "title": "Begrotingstekort van 7,5 miljard door hogere energieprijzen en inflatie",
+    "title": "Bale redt punt voor Wales tegen Verenigde Staten bij WK-rentree na 64 jaar",
+    "subtitle": null,
+    "published_at": "2022-11-21T22:01:16+01:00",
+    "updated_at": "2022-11-21T22:01:16+01:00",
+    "media_id": "v9axj27a42p0",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772307,
+      "slug": "wk-voetbal",
+      "type": "files",
+      "name": "WK voetbal",
+      "style": "nusport",
+      "media_id": "m1mxoqoan7eu",
+      "partner": null
+    },
+    "url": "/wk-voetbal/6237594/bale-redt-punt-voor-wales-tegen-verenigde-staten-bij-wk-rentree-na-64-jaar.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6237593,
+    "slug": "iraanse-bondscoach-verdedigt-uitgefloten-spelers-die-volkslied-niet-zongen",
+    "type": "article",
+    "title": "Iraanse bondscoach verdedigt uitgefloten spelers die volkslied niet zongen",
+    "subtitle": null,
+    "published_at": "2022-11-21T21:47:31+01:00",
+    "updated_at": "2022-11-21T21:47:32+01:00",
+    "media_id": "y24xl19aj0qr",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772307,
+      "slug": "wk-voetbal",
+      "type": "files",
+      "name": "WK voetbal",
+      "style": "nusport",
+      "media_id": "m1mxoqoan7eu",
+      "partner": null
+    },
+    "url": "/wk-voetbal/6237593/iraanse-bondscoach-verdedigt-uitgefloten-spelers-die-volkslied-niet-zongen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6237592,
+    "slug": "enorme-rookwolken-bij-dodelijk-vliegtuigongeluk-in-colombia",
+    "type": "video",
+    "title": "Enorme rookwolken bij dodelijk vliegtuigongeluk in Colombia",
+    "subtitle": "Video",
+    "published_at": "2022-11-21T21:29:02+01:00",
+    "updated_at": "2022-11-21T21:47:32+01:00",
+    "media_id": "ufaxrr7a15ls",
+    "duration": "0:38",
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6237592/enorme-rookwolken-bij-dodelijk-vliegtuigongeluk-in-colombia.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6237591,
+    "slug": "gemeente-staphorst-kondigt-onderzoek-aan-naar-geweld-tegen-demonstranten",
+    "type": "article",
+    "title": "Gemeente Staphorst kondigt onderzoek aan naar geweld tegen demonstranten",
+    "subtitle": null,
+    "published_at": "2022-11-21T21:14:55+01:00",
+    "updated_at": "2022-11-21T21:29:54+01:00",
+    "media_id": "smvxof8ari5x",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6237591/gemeente-staphorst-kondigt-onderzoek-aan-naar-geweld-tegen-demonstranten.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6237588,
+    "slug": "groot-feest-op-oranjerotonde-in-apeldoorn-na-zege-nederland-op-wk",
+    "type": "video",
+    "title": "Groot feest op 'Oranjerotonde' in Apeldoorn na zege Nederland op WK",
+    "subtitle": "Video",
+    "published_at": "2022-11-21T21:01:38+01:00",
+    "updated_at": "2022-11-21T21:08:59+01:00",
+    "media_id": "mtlx9xaa8nm2",
+    "duration": "0:37",
+    "canonical_section": {
+      "id": 1772307,
+      "slug": "wk-voetbal",
+      "type": "files",
+      "name": "WK voetbal",
+      "style": "nusport",
+      "media_id": "m1mxoqoan7eu",
+      "partner": null
+    },
+    "url": "/wk-voetbal/6237588/groot-feest-op-oranjerotonde-in-apeldoorn-na-zege-nederland-op-wk.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6237586,
+    "slug": "begrotingstekort-van-75-miljard-verwacht-door-hogere-energieprijzen-en-inflatie",
+    "type": "article",
+    "title": "Begrotingstekort van 7,5 miljard verwacht door hogere energieprijzen en inflatie",
     "subtitle": null,
     "published_at": "2022-11-21T20:52:23+01:00",
-    "updated_at": "2022-11-21T20:52:24+01:00",
+    "updated_at": "2022-11-21T21:35:25+01:00",
     "media_id": "fp7xzsqarptd",
     "duration": null,
     "canonical_section": {
@@ -18,18 +133,18 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/politiek/6237586/begrotingstekort-van-75-miljard-door-hogere-energieprijzen-en-inflatie.html",
+    "url": "/politiek/6237586/begrotingstekort-van-75-miljard-verwacht-door-hogere-energieprijzen-en-inflatie.html",
     "open_new_window": false,
     "partner": null
   },
   {
     "id": 6237582,
-    "slug": "gemeente-rotterdam-krijgt-na-geldinzameling-verslaggever-toch-een-kerstboom",
+    "slug": "rotterdam-krijgt-na-inzameling-verslaggever-toch-kerstboom-op-stationsplein",
     "type": "article",
-    "title": "Gemeente Rotterdam krijgt na geldinzameling verslaggever toch een kerstboom",
+    "title": "Rotterdam krijgt na inzameling verslaggever toch kerstboom op stationsplein",
     "subtitle": null,
     "published_at": "2022-11-21T20:47:27+01:00",
-    "updated_at": "2022-11-21T20:47:28+01:00",
+    "updated_at": "2022-11-21T21:30:22+01:00",
     "media_id": "688xsjna5n5u",
     "duration": null,
     "canonical_section": {
@@ -41,7 +156,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/binnenland/6237582/gemeente-rotterdam-krijgt-na-geldinzameling-verslaggever-toch-een-kerstboom.html",
+    "url": "/binnenland/6237582/rotterdam-krijgt-na-inzameling-verslaggever-toch-kerstboom-op-stationsplein.html",
     "open_new_window": false,
     "partner": null
   },
@@ -52,7 +167,7 @@
     "title": "Van Gaal vond Oranje niet goed spelen: 'Er zat spanning op de spelersgroep'",
     "subtitle": null,
     "published_at": "2022-11-21T20:10:24+01:00",
-    "updated_at": "2022-11-21T20:31:11+01:00",
+    "updated_at": "2022-11-21T21:35:08+01:00",
     "media_id": "e0nxi4waqnkh",
     "duration": null,
     "canonical_section": {
@@ -98,7 +213,7 @@
     "title": "Debutant Noppert blinkt uit: 'We lopen altijd maar te zeiken over de keepers'",
     "subtitle": null,
     "published_at": "2022-11-21T19:37:26+01:00",
-    "updated_at": "2022-11-21T20:40:39+01:00",
+    "updated_at": "2022-11-21T21:35:43+01:00",
     "media_id": "xskx1e1a8wdo",
     "duration": null,
     "canonical_section": {
@@ -167,7 +282,7 @@
     "title": "Oranje rekent dankzij late goals af met Senegal in eerste WK-duel",
     "subtitle": null,
     "published_at": "2022-11-21T19:00:35+01:00",
-    "updated_at": "2022-11-21T20:54:51+01:00",
+    "updated_at": "2022-11-21T21:33:31+01:00",
     "media_id": "4h2xhk5aiof9",
     "duration": null,
     "canonical_section": {
@@ -190,7 +305,7 @@
     "title": "FIFA roert zich opnieuw: België moet uitshirt aanpassen vanwege LOVE-sticker",
     "subtitle": null,
     "published_at": "2022-11-21T18:23:39+01:00",
-    "updated_at": "2022-11-21T20:12:44+01:00",
+    "updated_at": "2022-11-21T21:05:20+01:00",
     "media_id": "s5nxtshaulr6",
     "duration": null,
     "canonical_section": {
@@ -351,7 +466,7 @@
     "title": "Staking PostNL dinsdag van de baan, actie op Black Friday nog steeds mogelijk",
     "subtitle": null,
     "published_at": "2022-11-21T17:21:15+01:00",
-    "updated_at": "2022-11-21T17:54:23+01:00",
+    "updated_at": "2022-11-21T21:45:27+01:00",
     "media_id": "n9uxas2an0y5",
     "duration": null,
     "canonical_section": {
@@ -374,7 +489,7 @@
     "title": "Sanil B. gaat in hoger beroep tegen celstraf voor dood Carlo Heuvelman",
     "subtitle": null,
     "published_at": "2022-11-21T17:16:31+01:00",
-    "updated_at": "2022-11-21T17:16:32+01:00",
+    "updated_at": "2022-11-21T21:12:56+01:00",
     "media_id": "t9qxb5tacxmt",
     "duration": null,
     "canonical_section": {
@@ -420,7 +535,7 @@
     "title": "Proef met elektrische auto's die al rijdend worden opgeladen",
     "subtitle": null,
     "published_at": "2022-11-21T16:56:00+01:00",
-    "updated_at": "2022-11-21T18:52:54+01:00",
+    "updated_at": "2022-11-21T21:35:20+01:00",
     "media_id": "ttex9u2a3trf",
     "duration": null,
     "canonical_section": {
@@ -571,121 +686,6 @@
       "partner": null
     },
     "url": "/voetbal/6237528/top-oss-moet-wedstrijd-overspelen-vanwege-opstellen-van-geschorste-speler.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6237532,
-    "slug": "twee-inzittenden-overleden-na-ongeluk-waarbij-auto-in-het-water-belandde",
-    "type": "article",
-    "title": "Twee inzittenden overleden na ongeluk waarbij auto in het water belandde",
-    "subtitle": null,
-    "published_at": "2022-11-21T16:22:02+01:00",
-    "updated_at": "2022-11-21T16:22:03+01:00",
-    "media_id": "jfqx1heab7ik",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6237532/twee-inzittenden-overleden-na-ongeluk-waarbij-auto-in-het-water-belandde.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6237529,
-    "slug": "china-slaat-grote-slag-in-wereldwijde-run-op-aardgas-uit-qatar",
-    "type": "article",
-    "title": "China slaat grote slag in wereldwijde run op aardgas uit Qatar",
-    "subtitle": null,
-    "published_at": "2022-11-21T16:18:58+01:00",
-    "updated_at": "2022-11-21T20:04:28+01:00",
-    "media_id": "v9yxx3hae60z",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6237529/china-slaat-grote-slag-in-wereldwijde-run-op-aardgas-uit-qatar.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6237516,
-    "slug": "engeland-laat-in-doelpuntrijk-eerste-groepsduel-op-wk-weinig-heel-van-iran",
-    "type": "article",
-    "title": "Engeland laat in doelpuntrijk eerste groepsduel op WK weinig heel van Iran",
-    "subtitle": null,
-    "published_at": "2022-11-21T16:13:21+01:00",
-    "updated_at": "2022-11-21T16:26:07+01:00",
-    "media_id": "p5hxdbiajvy1",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772307,
-      "slug": "wk-voetbal",
-      "type": "files",
-      "name": "WK voetbal",
-      "style": "nusport",
-      "media_id": "m1mxoqoan7eu",
-      "partner": null
-    },
-    "url": "/wk-voetbal/6237516/engeland-laat-in-doelpuntrijk-eerste-groepsduel-op-wk-weinig-heel-van-iran.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6237525,
-    "slug": "harrison-ford-80-digitaal-jonger-gemaakt-voor-nieuwste-indiana-jones",
-    "type": "article",
-    "title": "Harrison Ford (80) digitaal jonger gemaakt voor nieuwste Indiana Jones",
-    "subtitle": null,
-    "published_at": "2022-11-21T16:10:09+01:00",
-    "updated_at": "2022-11-21T18:29:49+01:00",
-    "media_id": "63kxdxpabj9a",
-    "duration": null,
-    "canonical_section": {
-      "id": 127,
-      "slug": "film",
-      "type": "default",
-      "name": "Films & Series",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/film/6237525/harrison-ford-80-digitaal-jonger-gemaakt-voor-nieuwste-indiana-jones.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6237523,
-    "slug": "wegen-in-servie-staan-blank-door-overstromingen",
-    "type": "video",
-    "title": "Wegen in Servië staan blank door overstromingen",
-    "subtitle": "Video",
-    "published_at": "2022-11-21T15:47:05+01:00",
-    "updated_at": "2022-11-21T16:06:02+01:00",
-    "media_id": "4bmx5jnab8z5",
-    "duration": "0:35",
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6237523/wegen-in-servie-staan-blank-door-overstromingen.html",
     "open_new_window": false,
     "partner": null
   }
