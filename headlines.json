@@ -1,12 +1,35 @@
 [
   {
+    "id": 6237407,
+    "slug": "liefdesbrieven-bob-dylan-geveild-voor-meer-dan-half-miljoen-dollar",
+    "type": "article",
+    "title": "Liefdesbrieven Bob Dylan geveild voor meer dan half miljoen dollar",
+    "subtitle": null,
+    "published_at": "2022-11-21T00:50:05+01:00",
+    "updated_at": "2022-11-21T00:50:08+01:00",
+    "media_id": "i1uxa6zay9fw",
+    "duration": null,
+    "canonical_section": {
+      "id": 868281,
+      "slug": "muziek",
+      "type": "default",
+      "name": "Muziek",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/muziek/6237407/liefdesbrieven-bob-dylan-geveild-voor-meer-dan-half-miljoen-dollar.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6237092,
     "slug": "we-betalen-meer-energiebelasting-en-brandstofaccijns",
     "type": "article",
     "title": "We betalen meer energiebelasting en brandstofaccijns",
     "subtitle": null,
     "published_at": "2022-11-21T00:00:48+01:00",
-    "updated_at": "2022-11-21T00:00:49+01:00",
+    "updated_at": "2022-11-21T00:08:10+01:00",
     "media_id": "x5xxp96acpsd",
     "duration": null,
     "canonical_section": {
@@ -663,29 +686,6 @@
       "partner": null
     },
     "url": "/schaatsen/6237367/nuis-geeft-met-zilver-in-thialf-boodschap-af-ik-ben-er-weer-stil-maar.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6237365,
-    "slug": "helikopter-van-tom-cruise-verstoort-opnames-britse-tv-serie",
-    "type": "article",
-    "title": "Helikopter van Tom Cruise verstoort opnames Britse tv-serie",
-    "subtitle": null,
-    "published_at": "2022-11-20T16:44:51+01:00",
-    "updated_at": "2022-11-20T21:04:15+01:00",
-    "media_id": "rr0xfj3azhvf",
-    "duration": null,
-    "canonical_section": {
-      "id": 125,
-      "slug": "achterklap",
-      "type": "default",
-      "name": "Achterklap",
-      "style": "nuentertainment",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/achterklap/6237365/helikopter-van-tom-cruise-verstoort-opnames-britse-tv-serie.html",
     "open_new_window": false,
     "partner": null
   }
