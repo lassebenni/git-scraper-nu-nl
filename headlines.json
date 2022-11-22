@@ -1,12 +1,35 @@
 [
   {
+    "id": 6237604,
+    "slug": "uitspraak-berichtgeving-nrc-over-omstreden-boek-over-anne-frank-was-onzorgvuldig",
+    "type": "article",
+    "title": "Uitspraak: berichtgeving NRC over omstreden boek over Anne Frank was onzorgvuldig",
+    "subtitle": null,
+    "published_at": "2022-11-22T02:58:43+01:00",
+    "updated_at": "2022-11-22T02:58:44+01:00",
+    "media_id": "znrx0bfapphi",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771675,
+      "slug": "media",
+      "type": "default",
+      "name": "Media",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/media/6237604/uitspraak-berichtgeving-nrc-over-omstreden-boek-over-anne-frank-was-onzorgvuldig.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6237603,
     "slug": "zeker-36-doden-bij-brand-in-chinese-fabriek",
     "type": "article",
     "title": "Zeker 36 doden bij brand in Chinese fabriek",
     "subtitle": null,
     "published_at": "2022-11-22T02:21:45+01:00",
-    "updated_at": "2022-11-22T02:21:46+01:00",
+    "updated_at": "2022-11-22T02:41:24+01:00",
     "media_id": "hwpxip5apc7l",
     "duration": null,
     "canonical_section": {
@@ -663,29 +686,6 @@
       "partner": null
     },
     "url": "/achterklap/6237535/harry-styles-en-olivia-wilde-volgens-amerikaanse-media-uit-elkaar.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6237478,
-    "slug": "proef-met-elektrische-autos-die-al-rijdend-worden-opgeladen",
-    "type": "article",
-    "title": "Proef met elektrische auto's die al rijdend worden opgeladen",
-    "subtitle": null,
-    "published_at": "2022-11-21T16:56:00+01:00",
-    "updated_at": "2022-11-21T21:35:20+01:00",
-    "media_id": "ttex9u2a3trf",
-    "duration": null,
-    "canonical_section": {
-      "id": 881569,
-      "slug": "auto",
-      "type": "default",
-      "name": "Onderweg",
-      "style": "nuzakelijk",
-      "media_id": "z66x61xaq79c",
-      "partner": null
-    },
-    "url": "/auto/6237478/proef-met-elektrische-autos-die-al-rijdend-worden-opgeladen.html",
     "open_new_window": false,
     "partner": null
   }
