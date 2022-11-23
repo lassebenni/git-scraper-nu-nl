@@ -1,12 +1,127 @@
 [
   {
+    "id": 6237857,
+    "slug": "a27-afgesloten-na-ongeluk-met-meerdere-vrachtwagens",
+    "type": "video",
+    "title": "A27 afgesloten na ongeluk met meerdere vrachtwagens",
+    "subtitle": "Video",
+    "published_at": "2022-11-23T08:00:39+01:00",
+    "updated_at": "2022-11-23T08:00:40+01:00",
+    "media_id": "x0lxfbea38ak",
+    "duration": "0:45",
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6237857/a27-afgesloten-na-ongeluk-met-meerdere-vrachtwagens.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6237850,
+    "slug": "tanende-populariteit-computers-kost-6000-hp-medewerkers-hun-baan",
+    "type": "article",
+    "title": "Tanende populariteit computers kost 6000 HP-medewerkers hun baan",
+    "subtitle": null,
+    "published_at": "2022-11-23T07:48:45+01:00",
+    "updated_at": "2022-11-23T07:52:45+01:00",
+    "media_id": "m1nxenpawxk2",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6237850/tanende-populariteit-computers-kost-6000-hp-medewerkers-hun-baan.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6237849,
+    "slug": "nieuw-blessureleed-bij-frankrijk-hernandez-verlaat-wk-met-kruisbandblessure",
+    "type": "article",
+    "title": "Nieuw blessureleed bij Frankrijk: Hernández verlaat WK met kruisbandblessure",
+    "subtitle": null,
+    "published_at": "2022-11-23T07:47:02+01:00",
+    "updated_at": "2022-11-23T07:55:45+01:00",
+    "media_id": "xn4xw17a654z",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772307,
+      "slug": "wk-voetbal",
+      "type": "files",
+      "name": "WK voetbal",
+      "style": "nusport",
+      "media_id": "m1mxoqoan7eu",
+      "partner": null
+    },
+    "url": "/wk-voetbal/6237849/nieuw-blessureleed-bij-frankrijk-hernandez-verlaat-wk-met-kruisbandblessure.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6237839,
+    "slug": "griekspoor-spreekt-van-pijnlijkste-nederlaag-in-loopbaan-na-domper-op-davis-cup",
+    "type": "article",
+    "title": "Griekspoor spreekt van pijnlijkste nederlaag in loopbaan na domper op Davis Cup",
+    "subtitle": null,
+    "published_at": "2022-11-23T07:13:50+01:00",
+    "updated_at": "2022-11-23T07:38:32+01:00",
+    "media_id": "xxzx4ghals57",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772432,
+      "slug": "tennis",
+      "type": "default",
+      "name": "Tennis",
+      "style": "nusport",
+      "media_id": "m1oxohpan0gq",
+      "partner": null
+    },
+    "url": "/tennis/6237839/griekspoor-spreekt-van-pijnlijkste-nederlaag-in-loopbaan-na-domper-op-davis-cup.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6237770,
+    "slug": "uitzonderlijke-verhoging-pensioenen-bouwvakkers-gaan-145-procent-omhoog",
+    "type": "article",
+    "title": "Uitzonderlijke verhoging: Pensioenen bouwvakkers gaan 14,5 procent omhoog",
+    "subtitle": null,
+    "published_at": "2022-11-23T07:07:01+01:00",
+    "updated_at": "2022-11-23T07:32:45+01:00",
+    "media_id": "nhzxglhapoqb",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6237770/uitzonderlijke-verhoging-pensioenen-bouwvakkers-gaan-145-procent-omhoog.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6237836,
     "slug": "uitgever-gebruikte-machine-om-handtekening-bob-dylan-na-te-maken-voor-boek",
     "type": "article",
     "title": "Uitgever gebruikte machine om handtekening Bob Dylan na te maken voor boek",
     "subtitle": null,
     "published_at": "2022-11-23T06:43:16+01:00",
-    "updated_at": "2022-11-23T06:43:17+01:00",
+    "updated_at": "2022-11-23T07:11:00+01:00",
     "media_id": "cx2xipfai3ih",
     "duration": null,
     "canonical_section": {
@@ -29,7 +144,7 @@
     "title": "Lichaam van vermiste Silvana Heber (36) gevonden in Brabants bosgebied",
     "subtitle": null,
     "published_at": "2022-11-23T06:37:25+01:00",
-    "updated_at": "2022-11-23T06:43:23+01:00",
+    "updated_at": "2022-11-23T07:02:27+01:00",
     "media_id": "mi0xsbkaz4p9",
     "duration": null,
     "canonical_section": {
@@ -47,12 +162,12 @@
   },
   {
     "id": 6237835,
-    "slug": "mediawaakhond-vreest-voor-onafhankelijk-onderzoek-door-npo-naar-misstanden-bij-dwdd",
+    "slug": "mediawaakhond-is-bang-dat-dwdd-onderzoek-van-npo-niet-onafhankelijk-zal-zijn",
     "type": "article",
-    "title": "Mediawaakhond vreest voor onafhankelijk onderzoek door NPO naar misstanden bij DWDD",
+    "title": "Mediawaakhond is bang dat DWDD-onderzoek van NPO niet onafhankelijk zal zijn",
     "subtitle": null,
     "published_at": "2022-11-23T06:26:12+01:00",
-    "updated_at": "2022-11-23T06:59:22+01:00",
+    "updated_at": "2022-11-23T07:38:22+01:00",
     "media_id": "qxfxtagadhy2",
     "duration": null,
     "canonical_section": {
@@ -64,7 +179,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/media/6237835/mediawaakhond-vreest-voor-onafhankelijk-onderzoek-door-npo-naar-misstanden-bij-dwdd.html",
+    "url": "/media/6237835/mediawaakhond-is-bang-dat-dwdd-onderzoek-van-npo-niet-onafhankelijk-zal-zijn.html",
     "open_new_window": false,
     "partner": null
   },
@@ -190,7 +305,7 @@
     "title": "Raad jij Het Woord van vandaag?",
     "subtitle": null,
     "published_at": "2022-11-23T05:21:52+01:00",
-    "updated_at": "2022-11-23T06:39:49+01:00",
+    "updated_at": "2022-11-23T07:45:00+01:00",
     "media_id": "q90x8w2aq9up",
     "duration": null,
     "canonical_section": {
@@ -210,10 +325,10 @@
     "id": 6237832,
     "slug": "tientallen-gewonden-bij-nachtelijke-aardbeving-in-turkije-met-een-kracht-van-59",
     "type": "article",
-    "title": "Tientallen gewonden bij nachtelijke aardbeving in Turkije met een kracht van 5,9",
+    "title": "Tientallen gewonden bij nachtelijke aardbeving in Turkije met een kracht van 5.9",
     "subtitle": null,
     "published_at": "2022-11-23T05:16:11+01:00",
-    "updated_at": "2022-11-23T05:22:52+01:00",
+    "updated_at": "2022-11-23T07:23:36+01:00",
     "media_id": "94hxrfcasgzk",
     "duration": null,
     "canonical_section": {
@@ -259,7 +374,7 @@
     "title": "Inbrekers stelen voor miljoenen aan oude Keltische munten uit Duits museum",
     "subtitle": null,
     "published_at": "2022-11-23T04:21:41+01:00",
-    "updated_at": "2022-11-23T04:30:40+01:00",
+    "updated_at": "2022-11-23T07:29:03+01:00",
     "media_id": "cyax92wa1dec",
     "duration": null,
     "canonical_section": {
@@ -282,7 +397,7 @@
     "title": "Veel jongeren willen wel verhuizen, maar kunnen geen woning vinden",
     "subtitle": null,
     "published_at": "2022-11-23T00:05:55+01:00",
-    "updated_at": "2022-11-23T00:05:56+01:00",
+    "updated_at": "2022-11-23T07:13:22+01:00",
     "media_id": "4q0xjpvacezp",
     "duration": null,
     "canonical_section": {
@@ -300,12 +415,12 @@
   },
   {
     "id": 6237828,
-    "slug": "giroud-trots-na-evenaren-legende-henry-hoop-dat-het-hier-niet-bij-blijft",
+    "slug": "giroud-trots-na-evenaren-legende-henry-ik-hoop-dat-het-hier-niet-bij-blijft",
     "type": "article",
-    "title": "Giroud trots na evenaren 'legende' Henry: 'Hoop dat het hier niet bij blijft'",
+    "title": "Giroud trots na evenaren 'legende' Henry: 'Ik hoop dat het hier niet bij blijft'",
     "subtitle": null,
     "published_at": "2022-11-22T23:42:33+01:00",
-    "updated_at": "2022-11-23T06:50:34+01:00",
+    "updated_at": "2022-11-23T07:42:33+01:00",
     "media_id": "je1xmlba772y",
     "duration": null,
     "canonical_section": {
@@ -317,7 +432,7 @@
       "media_id": "m1mxoqoan7eu",
       "partner": null
     },
-    "url": "/wk-voetbal/6237828/giroud-trots-na-evenaren-legende-henry-hoop-dat-het-hier-niet-bij-blijft.html",
+    "url": "/wk-voetbal/6237828/giroud-trots-na-evenaren-legende-henry-ik-hoop-dat-het-hier-niet-bij-blijft.html",
     "open_new_window": false,
     "partner": null
   },
@@ -571,121 +686,6 @@
       "partner": null
     },
     "url": "/achterklap/6237807/handbalster-tess-wester-is-voor-het-eerst-moeder-geworden.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6237740,
-    "slug": "had-van-dijk-wel-geel-mogen-krijgen-als-hij-de-onelove-band-had-gedragen",
-    "type": "article",
-    "title": "Had Van Dijk wel geel mogen krijgen als hij de OneLove-band had gedragen?",
-    "subtitle": null,
-    "published_at": "2022-11-22T19:57:12+01:00",
-    "updated_at": "2022-11-22T22:30:14+01:00",
-    "media_id": "k95x31camrri",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772307,
-      "slug": "wk-voetbal",
-      "type": "files",
-      "name": "WK voetbal",
-      "style": "nusport",
-      "media_id": "m1mxoqoan7eu",
-      "partner": null
-    },
-    "url": "/wk-voetbal/6237740/had-van-dijk-wel-geel-mogen-krijgen-als-hij-de-onelove-band-had-gedragen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6237804,
-    "slug": "voormalig-voetbaltalent-ihattaren-gearresteerd-vanwege-ernstige-bedreiging",
-    "type": "article",
-    "title": "Voormalig voetbaltalent Ihattaren gearresteerd vanwege ernstige bedreiging",
-    "subtitle": null,
-    "published_at": "2022-11-22T19:52:45+01:00",
-    "updated_at": "2022-11-23T06:00:02+01:00",
-    "media_id": "e6uxt5uadg5t",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6237804/voormalig-voetbaltalent-ihattaren-gearresteerd-vanwege-ernstige-bedreiging.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6237803,
-    "slug": "halina-reijn-maakt-met-haar-film-dubbel-kans-op-independent-spirit-award",
-    "type": "article",
-    "title": "Halina Reijn maakt met haar film dubbel kans op Independent Spirit Award",
-    "subtitle": null,
-    "published_at": "2022-11-22T19:39:48+01:00",
-    "updated_at": "2022-11-22T19:45:09+01:00",
-    "media_id": "hj1xto7ak4yl",
-    "duration": null,
-    "canonical_section": {
-      "id": 127,
-      "slug": "film",
-      "type": "default",
-      "name": "Films & Series",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/film/6237803/halina-reijn-maakt-met-haar-film-dubbel-kans-op-independent-spirit-award.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6237799,
-    "slug": "nederland-klaar-in-davis-cup-door-nederlagen-van-de-zandschulp-en-griekspoor",
-    "type": "article",
-    "title": "Nederland klaar in Davis Cup door nederlagen Van de Zandschulp en Griekspoor",
-    "subtitle": null,
-    "published_at": "2022-11-22T19:16:20+01:00",
-    "updated_at": "2022-11-22T23:02:39+01:00",
-    "media_id": "uyhxlmfahmgs",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772432,
-      "slug": "tennis",
-      "type": "default",
-      "name": "Tennis",
-      "style": "nusport",
-      "media_id": "m1oxohpan0gq",
-      "partner": null
-    },
-    "url": "/tennis/6237799/nederland-klaar-in-davis-cup-door-nederlagen-van-de-zandschulp-en-griekspoor.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6237796,
-    "slug": "ronaldo-over-vertrek-bij-united-het-juiste-moment-voor-een-nieuwe-uitdaging",
-    "type": "article",
-    "title": "Ronaldo over vertrek bij United: 'Het juiste moment voor een nieuwe uitdaging'",
-    "subtitle": null,
-    "published_at": "2022-11-22T19:10:19+01:00",
-    "updated_at": "2022-11-22T19:24:25+01:00",
-    "media_id": "q3wxh93awpoh",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6237796/ronaldo-over-vertrek-bij-united-het-juiste-moment-voor-een-nieuwe-uitdaging.html",
     "open_new_window": false,
     "partner": null
   }
