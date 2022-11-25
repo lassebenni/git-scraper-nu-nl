@@ -1,24 +1,70 @@
 [
   {
+    "id": 6238384,
+    "slug": "nieuw-op-netflix-deze-films-en-series-verschenen-deze-week",
+    "type": "article",
+    "title": "Nieuw op Netflix: deze films en series verschenen deze week",
+    "subtitle": null,
+    "published_at": "2022-11-25T20:25:19+01:00",
+    "updated_at": "2022-11-25T20:25:20+01:00",
+    "media_id": "4hfxj9mal6uf",
+    "duration": null,
+    "canonical_section": {
+      "id": 127,
+      "slug": "film",
+      "type": "default",
+      "name": "Films & Series",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/film/6238384/nieuw-op-netflix-deze-films-en-series-verschenen-deze-week.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6238336,
+    "slug": "dit-gebeurde-er-op-de-acht-plekken-waar-nederland-slavernij-excuses-aanbiedt",
+    "type": "article",
+    "title": "Dit gebeurde er op de acht plekken waar Nederland slavernij-excuses aanbiedt",
+    "subtitle": null,
+    "published_at": "2022-11-25T20:09:39+01:00",
+    "updated_at": "2022-11-25T20:15:40+01:00",
+    "media_id": "dq0xqm7am5y0",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6238336/dit-gebeurde-er-op-de-acht-plekken-waar-nederland-slavernij-excuses-aanbiedt.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6238512,
     "slug": "ook-buiten-dwdd-misstanden-bij-publieke-omroep-gemeld-npo-verbreedt-onderzoek",
     "type": "article",
     "title": "Ook buiten DWDD misstanden bij publieke omroep gemeld, NPO verbreedt onderzoek",
     "subtitle": null,
     "published_at": "2022-11-25T19:58:23+01:00",
-    "updated_at": "2022-11-25T20:00:52+01:00",
+    "updated_at": "2022-11-25T20:51:05+01:00",
     "media_id": "eklx8iaa3kjh",
     "duration": null,
     "canonical_section": {
-      "id": 100,
-      "slug": "algemeen",
+      "id": 1772242,
+      "slug": "entertainment",
       "type": "default",
-      "name": "Algemeen",
-      "style": "nu",
+      "name": "Media en Cultuur",
+      "style": "nuuit",
       "media_id": null,
       "partner": null
     },
-    "url": "/algemeen/6238512/ook-buiten-dwdd-misstanden-bij-publieke-omroep-gemeld-npo-verbreedt-onderzoek.html",
+    "url": "/entertainment/6238512/ook-buiten-dwdd-misstanden-bij-publieke-omroep-gemeld-npo-verbreedt-onderzoek.html",
     "open_new_window": false,
     "partner": null
   },
@@ -29,7 +75,7 @@
     "title": "Memphis ontevreden over invalbeurt: 'Ik kon niet in mijn spel komen'",
     "subtitle": null,
     "published_at": "2022-11-25T19:51:59+01:00",
-    "updated_at": "2022-11-25T19:56:56+01:00",
+    "updated_at": "2022-11-25T20:04:46+01:00",
     "media_id": "7okx42nau66l",
     "duration": null,
     "canonical_section": {
@@ -52,7 +98,7 @@
     "title": "Van Gaal wordt niet somber van matig Oranje: 'Denk dat deze spelers het kunnen'",
     "subtitle": null,
     "published_at": "2022-11-25T19:43:26+01:00",
-    "updated_at": "2022-11-25T20:01:19+01:00",
+    "updated_at": "2022-11-25T20:04:20+01:00",
     "media_id": "3zmxq75akmvg",
     "duration": null,
     "canonical_section": {
@@ -167,8 +213,8 @@
     "title": "Zwak Oranje komt goed weg met gelijkspel tegen Ecuador",
     "subtitle": null,
     "published_at": "2022-11-25T18:56:39+01:00",
-    "updated_at": "2022-11-25T19:17:06+01:00",
-    "media_id": "geuxdcfao5u2",
+    "updated_at": "2022-11-25T20:02:25+01:00",
+    "media_id": "qgyxu4ca9t5w",
     "duration": null,
     "canonical_section": {
       "id": 1772307,
@@ -282,7 +328,7 @@
     "title": "Vodafone verlengt gratis bellen en sms'en van en naar Oekraïne",
     "subtitle": null,
     "published_at": "2022-11-25T17:52:36+01:00",
-    "updated_at": "2022-11-25T19:00:33+01:00",
+    "updated_at": "2022-11-25T20:21:29+01:00",
     "media_id": "a0yxw8raxdjf",
     "duration": null,
     "canonical_section": {
@@ -328,7 +374,7 @@
     "title": "Van Barneveld onderuit in laatste test voor WK darts, Van Gerwen wel door",
     "subtitle": null,
     "published_at": "2022-11-25T17:47:26+01:00",
-    "updated_at": "2022-11-25T18:24:21+01:00",
+    "updated_at": "2022-11-25T20:03:20+01:00",
     "media_id": "ft9x035aeh3e",
     "duration": null,
     "canonical_section": {
@@ -397,7 +443,7 @@
     "title": "Goedkopere treinkaartjes kunnen forens niet uit auto halen",
     "subtitle": null,
     "published_at": "2022-11-25T17:17:31+01:00",
-    "updated_at": "2022-11-25T17:23:39+01:00",
+    "updated_at": "2022-11-25T20:09:49+01:00",
     "media_id": "58ixg6har1pz",
     "duration": null,
     "canonical_section": {
@@ -640,52 +686,6 @@
       "partner": null
     },
     "url": "/wk-voetbal/6238444/oranje-start-met-timber-koopmeiners-en-klaassen-tegen-ecuador.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6238453,
-    "slug": "wk-debutant-makkelie-fluit-cruciale-wedstrijd-tussen-duitsland-en-spanje",
-    "type": "article",
-    "title": "WK-debutant Makkelie fluit cruciale wedstrijd tussen Duitsland en Spanje",
-    "subtitle": null,
-    "published_at": "2022-11-25T15:43:17+01:00",
-    "updated_at": "2022-11-25T16:37:16+01:00",
-    "media_id": "4d8xgeralrss",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772307,
-      "slug": "wk-voetbal",
-      "type": "files",
-      "name": "WK voetbal",
-      "style": "nusport",
-      "media_id": "m1mxoqoan7eu",
-      "partner": null
-    },
-    "url": "/wk-voetbal/6238453/wk-debutant-makkelie-fluit-cruciale-wedstrijd-tussen-duitsland-en-spanje.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6238329,
-    "slug": "reacties-op-excuses-slavernij-koning-kan-zich-niet-in-achten-delen",
-    "type": "article",
-    "title": "Reacties op excuses slavernij: 'Koning kan zich niet in achten delen'",
-    "subtitle": null,
-    "published_at": "2022-11-25T15:39:18+01:00",
-    "updated_at": "2022-11-25T16:31:49+01:00",
-    "media_id": "tsbxf5qafzwt",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6238329/reacties-op-excuses-slavernij-koning-kan-zich-niet-in-achten-delen.html",
     "open_new_window": false,
     "partner": null
   }
