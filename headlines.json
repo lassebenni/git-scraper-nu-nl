@@ -1,5 +1,28 @@
 [
   {
+    "id": 6238653,
+    "slug": "vrachtwagen-vervoert-luxe-jacht-door-amsterdamse-winkelstraat",
+    "type": "video",
+    "title": "Vrachtwagen vervoert luxe jacht door Amsterdamse winkelstraat",
+    "subtitle": "Video",
+    "published_at": "2022-11-26T20:03:40+01:00",
+    "updated_at": "2022-11-26T20:03:41+01:00",
+    "media_id": "abfxtpcac69w",
+    "duration": "0:40",
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6238653/vrachtwagen-vervoert-luxe-jacht-door-amsterdamse-winkelstraat.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6238651,
     "slug": "regering-venezuela-tekent-akkoord-met-oppositie-vs-schrapt-deel-sancties",
     "type": "article",
@@ -213,7 +236,7 @@
     "title": "Deze tien BN'ers doen mee aan het 23e seizoen van Wie is de Mol?",
     "subtitle": null,
     "published_at": "2022-11-26T16:44:55+01:00",
-    "updated_at": "2022-11-26T18:34:55+01:00",
+    "updated_at": "2022-11-26T21:01:16+01:00",
     "media_id": "juixcy1atlae",
     "duration": null,
     "canonical_section": {
@@ -663,29 +686,6 @@
       "partner": null
     },
     "url": "/binnenland/6238609/man-opgepakt-omdat-hij-mogelijk-honderden-banden-lekprikte-in-omgeving-capelle.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6238572,
-    "slug": "wat-als-oranje-gelijk-eindigt-met-ecuador-loting-kan-de-doorslag-geven",
-    "type": "article",
-    "title": "Wat als Oranje gelijk eindigt met Ecuador? Loting kan de doorslag geven",
-    "subtitle": null,
-    "published_at": "2022-11-26T12:04:30+01:00",
-    "updated_at": "2022-11-26T19:34:43+01:00",
-    "media_id": "qaex4y1a7s14",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772307,
-      "slug": "wk-voetbal",
-      "type": "files",
-      "name": "WK voetbal",
-      "style": "nusport",
-      "media_id": "m1mxoqoan7eu",
-      "partner": null
-    },
-    "url": "/wk-voetbal/6238572/wat-als-oranje-gelijk-eindigt-met-ecuador-loting-kan-de-doorslag-geven.html",
     "open_new_window": false,
     "partner": null
   }
