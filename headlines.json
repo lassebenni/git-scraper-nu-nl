@@ -1,12 +1,81 @@
 [
   {
+    "id": 6238580,
+    "slug": "brandweer-blust-uitgebrande-vrachtwagen-na-in-veghel",
+    "type": "video",
+    "title": "Brandweer blust uitgebrande vrachtwagen na in Veghel",
+    "subtitle": "Video",
+    "published_at": "2022-11-26T10:43:08+01:00",
+    "updated_at": "2022-11-26T10:43:09+01:00",
+    "media_id": "i2yxvtjal8mm",
+    "duration": "0:28",
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6238580/brandweer-blust-uitgebrande-vrachtwagen-na-in-veghel.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6238574,
+    "slug": "oranje-traint-daags-na-teleurstellend-gelijkspel-basisploeg-snel-naar-binnen",
+    "type": "article",
+    "title": "Oranje traint daags na teleurstellend gelijkspel, basisploeg snel naar binnen",
+    "subtitle": null,
+    "published_at": "2022-11-26T10:20:22+01:00",
+    "updated_at": "2022-11-26T10:36:32+01:00",
+    "media_id": "tqnxltpai8ix",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772307,
+      "slug": "wk-voetbal",
+      "type": "files",
+      "name": "WK voetbal",
+      "style": "nusport",
+      "media_id": "m1mxoqoan7eu",
+      "partner": null
+    },
+    "url": "/wk-voetbal/6238574/oranje-traint-daags-na-teleurstellend-gelijkspel-basisploeg-snel-naar-binnen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6238184,
+    "slug": "waarom-was-deze-tweeling-in-het-nieuws-test-nu-jouw-nieuwskennis",
+    "type": "link",
+    "title": "Waarom was deze tweeling in het nieuws? Test nu jouw nieuwskennis",
+    "subtitle": "Quiz",
+    "published_at": "2022-11-26T10:03:18+01:00",
+    "updated_at": "2022-11-26T10:03:19+01:00",
+    "media_id": "9igxjswaew8n",
+    "duration": null,
+    "canonical_section": {
+      "id": 100,
+      "slug": "algemeen",
+      "type": "default",
+      "name": "Algemeen",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "https://www.nu.nl/nieuwsquiz",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6238569,
     "slug": "protest-tegen-lockdown-in-chinese-stad-na-brand-waarbij-tien-doden-vielen",
     "type": "article",
     "title": "Protest tegen lockdown in Chinese stad na brand waarbij tien doden vielen",
     "subtitle": null,
     "published_at": "2022-11-26T09:58:49+01:00",
-    "updated_at": "2022-11-26T09:58:50+01:00",
+    "updated_at": "2022-11-26T10:08:19+01:00",
     "media_id": "y82xvhhae28z",
     "duration": null,
     "canonical_section": {
@@ -29,7 +98,7 @@
     "title": "Ecuadoraanse bondscoach trots op punt tegen Oranje: 'Het begint bij de instelling'",
     "subtitle": null,
     "published_at": "2022-11-26T09:49:02+01:00",
-    "updated_at": "2022-11-26T09:49:03+01:00",
+    "updated_at": "2022-11-26T10:26:46+01:00",
     "media_id": "8r1xea0acv99",
     "duration": null,
     "canonical_section": {
@@ -139,13 +208,13 @@
   },
   {
     "id": 6238553,
-    "slug": "reserves-oranje-trainen-daags-na-teleurstellend-gelijkspel",
+    "slug": "eerste-keer-knockout-fase-komt-dichtbij-voor-tunesie-bij-winst-op-australie",
     "type": "article",
-    "title": "Reserves Oranje trainen daags na teleurstellend gelijkspel",
+    "title": "Eerste keer knockout-fase komt dichtbij voor Tunesië bij winst op Australië",
     "subtitle": "Liveblog WK",
     "published_at": "2022-11-26T09:03:11+01:00",
-    "updated_at": "2022-11-26T09:45:54+01:00",
-    "media_id": "sbixj7kayaqw",
+    "updated_at": "2022-11-26T11:00:17+01:00",
+    "media_id": "ab5xxdvawm4m",
     "duration": null,
     "canonical_section": {
       "id": 1772307,
@@ -156,7 +225,7 @@
       "media_id": "m1mxoqoan7eu",
       "partner": null
     },
-    "url": "/wk-voetbal/6238553/reserves-oranje-trainen-daags-na-teleurstellend-gelijkspel.html",
+    "url": "/wk-voetbal/6238553/eerste-keer-knockout-fase-komt-dichtbij-voor-tunesie-bij-winst-op-australie.html",
     "open_new_window": false,
     "partner": null
   },
@@ -190,7 +259,7 @@
     "title": "Amerikaanse kustwacht redt 's nachts man die dag eerder van schip viel",
     "subtitle": "Video",
     "published_at": "2022-11-26T08:04:57+01:00",
-    "updated_at": "2022-11-26T08:11:06+01:00",
+    "updated_at": "2022-11-26T10:47:57+01:00",
     "media_id": "n6txgjxatvuf",
     "duration": "0:37",
     "canonical_section": {
@@ -558,7 +627,7 @@
     "title": "Het WK-programma van vandaag: Argentinië moet zich bewijzen na afgang",
     "subtitle": null,
     "published_at": "2022-11-25T21:59:06+01:00",
-    "updated_at": "2022-11-26T00:26:21+01:00",
+    "updated_at": "2022-11-26T11:01:00+01:00",
     "media_id": "w1sxjivacq7z",
     "duration": null,
     "canonical_section": {
@@ -617,75 +686,6 @@
       "partner": null
     },
     "url": "/stikstof/6238534/reacties-op-stikstofplannen-kabinet-natuur-kan-niet-meer-wachten.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6238533,
-    "slug": "matig-engeland-moet-genoegen-nemen-met-gelijkspel-tegen-verenigde-staten",
-    "type": "article",
-    "title": "Matig Engeland moet genoegen nemen met gelijkspel tegen Verenigde Staten",
-    "subtitle": null,
-    "published_at": "2022-11-25T21:52:08+01:00",
-    "updated_at": "2022-11-25T21:58:11+01:00",
-    "media_id": "kipxdilaz7sk",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772307,
-      "slug": "wk-voetbal",
-      "type": "files",
-      "name": "WK voetbal",
-      "style": "nusport",
-      "media_id": "m1mxoqoan7eu",
-      "partner": null
-    },
-    "url": "/wk-voetbal/6238533/matig-engeland-moet-genoegen-nemen-met-gelijkspel-tegen-verenigde-staten.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6238527,
-    "slug": "fortuna-en-ado-boeken-overtuigende-zege-in-vrouwen-eredivisie",
-    "type": "article",
-    "title": "Fortuna en ADO boeken overtuigende zege in Vrouwen Eredivisie",
-    "subtitle": null,
-    "published_at": "2022-11-25T21:33:25+01:00",
-    "updated_at": "2022-11-25T21:36:14+01:00",
-    "media_id": "vh8xj2yafiqs",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6238527/fortuna-en-ado-boeken-overtuigende-zege-in-vrouwen-eredivisie.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6238384,
-    "slug": "nieuw-op-netflix-deze-films-en-series-verschenen-deze-week",
-    "type": "article",
-    "title": "Nieuw op Netflix: deze films en series verschenen deze week",
-    "subtitle": null,
-    "published_at": "2022-11-25T20:25:19+01:00",
-    "updated_at": "2022-11-25T20:25:20+01:00",
-    "media_id": "4hfxj9mal6uf",
-    "duration": null,
-    "canonical_section": {
-      "id": 127,
-      "slug": "film",
-      "type": "default",
-      "name": "Films & Series",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/film/6238384/nieuw-op-netflix-deze-films-en-series-verschenen-deze-week.html",
     "open_new_window": false,
     "partner": null
   }
