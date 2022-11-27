@@ -1,5 +1,28 @@
 [
   {
+    "id": 6238791,
+    "slug": "onrust-in-nederlandse-steden-na-zege-marokko-in-wk-duel",
+    "type": "video",
+    "title": "Onrust in Nederlandse steden na zege Marokko in WK-duel",
+    "subtitle": "Video",
+    "published_at": "2022-11-27T20:11:26+01:00",
+    "updated_at": "2022-11-27T20:11:27+01:00",
+    "media_id": "tdlxx29alkbh",
+    "duration": "0:43",
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6238791/onrust-in-nederlandse-steden-na-zege-marokko-in-wk-duel.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6238724,
     "slug": "wereld-leert-leven-met-corona-maar-china-kent-ondanks-protesten-geen-genade",
     "type": "article",
@@ -93,13 +116,13 @@
   },
   {
     "id": 6238775,
-    "slug": "rellen-na-wk-overwinning-marokko-me-ingezet-in-den-haag-rotterdam-en-amsterdam",
+    "slug": "arrestaties-en-twee-agenten-gewond-na-onlusten-grote-steden-door-wk-zege-marokko",
     "type": "article",
-    "title": "Rellen na WK-overwinning Marokko, ME ingezet in Den Haag, Rotterdam en Amsterdam",
+    "title": "Arrestaties en twee agenten gewond na onlusten grote steden door WK-zege Marokko",
     "subtitle": null,
     "published_at": "2022-11-27T18:32:20+01:00",
-    "updated_at": "2022-11-27T20:00:23+01:00",
-    "media_id": "vvmxtpnad0ld",
+    "updated_at": "2022-11-27T20:52:31+01:00",
+    "media_id": "rkix6eyagdrm",
     "duration": null,
     "canonical_section": {
       "id": 1771435,
@@ -110,7 +133,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/binnenland/6238775/rellen-na-wk-overwinning-marokko-me-ingezet-in-den-haag-rotterdam-en-amsterdam.html",
+    "url": "/binnenland/6238775/arrestaties-en-twee-agenten-gewond-na-onlusten-grote-steden-door-wk-zege-marokko.html",
     "open_new_window": false,
     "partner": null
   },
@@ -663,29 +686,6 @@
       "partner": null
     },
     "url": "/binnenland/6238711/vogelkenner-weet-al-dagen-ontsnapte-emoe-wel-te-vangen-je-moet-weten-hoe.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6238700,
-    "slug": "weekweerbericht-het-wordt-een-stuk-kouder-mogelijk-ook-nachtvorst",
-    "type": "article",
-    "title": "Weekweerbericht: Het wordt een stuk kouder, mogelijk ook nachtvorst",
-    "subtitle": null,
-    "published_at": "2022-11-27T12:02:09+01:00",
-    "updated_at": "2022-11-27T12:02:10+01:00",
-    "media_id": "n0gxeiqaivfj",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6238700/weekweerbericht-het-wordt-een-stuk-kouder-mogelijk-ook-nachtvorst.html",
     "open_new_window": false,
     "partner": null
   }
