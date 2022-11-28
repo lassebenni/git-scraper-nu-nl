@@ -1,12 +1,35 @@
 [
   {
-    "id": 6239017,
-    "slug": "voltallig-juventus-bestuur-stapt-op-vermoedelijk-door-onderzoek-naar-fraude",
+    "id": 6239018,
+    "slug": "makkelie-leidt-met-polen-argentinie-zijn-tweede-wedstrijd-van-dit-wk",
     "type": "article",
-    "title": "Voltallig Juventus-bestuur stapt op, vermoedelijk door onderzoek naar fraude",
+    "title": "Makkelie leidt met Polen-Argentinië zijn tweede wedstrijd van dit WK",
+    "subtitle": null,
+    "published_at": "2022-11-28T23:45:14+01:00",
+    "updated_at": "2022-11-28T23:45:15+01:00",
+    "media_id": "vlmx3lkargg2",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772307,
+      "slug": "wk-voetbal",
+      "type": "files",
+      "name": "WK voetbal",
+      "style": "nusport",
+      "media_id": "m1mxoqoan7eu",
+      "partner": null
+    },
+    "url": "/wk-voetbal/6239018/makkelie-leidt-met-polen-argentinie-zijn-tweede-wedstrijd-van-dit-wk.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6239017,
+    "slug": "voltallig-juventus-bestuur-stapt-op-vrijwel-zeker-door-onderzoek-naar-fraude",
+    "type": "article",
+    "title": "Voltallig Juventus-bestuur stapt op, vrijwel zeker door onderzoek naar fraude",
     "subtitle": null,
     "published_at": "2022-11-28T22:52:23+01:00",
-    "updated_at": "2022-11-28T22:55:55+01:00",
+    "updated_at": "2022-11-28T23:45:44+01:00",
     "media_id": "t62x0puanfvg",
     "duration": null,
     "canonical_section": {
@@ -18,18 +41,18 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6239017/voltallig-juventus-bestuur-stapt-op-vermoedelijk-door-onderzoek-naar-fraude.html",
+    "url": "/voetbal/6239017/voltallig-juventus-bestuur-stapt-op-vrijwel-zeker-door-onderzoek-naar-fraude.html",
     "open_new_window": false,
     "partner": null
   },
   {
     "id": 6238645,
-    "slug": "het-wk-programma-van-morgen-oranje-bij-gelijkspel-zeker-van-achtste-finale",
+    "slug": "het-wk-programma-van-vandaag-oranje-bij-gelijkspel-zeker-van-achtste-finale",
     "type": "article",
-    "title": "Het WK-programma van morgen: Oranje bij gelijkspel zeker van achtste finale",
+    "title": "Het WK-programma van vandaag: Oranje bij gelijkspel zeker van achtste finale",
     "subtitle": null,
     "published_at": "2022-11-28T22:07:48+01:00",
-    "updated_at": "2022-11-28T22:07:49+01:00",
+    "updated_at": "2022-11-28T23:57:41+01:00",
     "media_id": "j0lxu1qaompi",
     "duration": null,
     "canonical_section": {
@@ -41,7 +64,7 @@
       "media_id": "m1mxoqoan7eu",
       "partner": null
     },
-    "url": "/wk-voetbal/6238645/het-wk-programma-van-morgen-oranje-bij-gelijkspel-zeker-van-achtste-finale.html",
+    "url": "/wk-voetbal/6238645/het-wk-programma-van-vandaag-oranje-bij-gelijkspel-zeker-van-achtste-finale.html",
     "open_new_window": false,
     "partner": null
   },
@@ -397,7 +420,7 @@
     "title": "Brazilië ploetert zonder Neymar naar zege op Zwitsers en is achtstefinalist op WK",
     "subtitle": null,
     "published_at": "2022-11-28T18:54:17+01:00",
-    "updated_at": "2022-11-28T19:09:15+01:00",
+    "updated_at": "2022-11-28T23:27:45+01:00",
     "media_id": "p3uxom6axwsi",
     "duration": null,
     "canonical_section": {
@@ -663,29 +686,6 @@
       "partner": null
     },
     "url": "/buitenland/6238966/israelische-verkiezingswinnaar-netanyahu-gaat-in-zee-met-extreemrechtse-partij.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6238957,
-    "slug": "europol-haalt-ruim-12500-websites-met-illegale-content-en-producten-offline",
-    "type": "article",
-    "title": "Europol haalt ruim 12.500 websites met illegale content en producten offline",
-    "subtitle": null,
-    "published_at": "2022-11-28T17:08:31+01:00",
-    "updated_at": "2022-11-28T17:21:57+01:00",
-    "media_id": "40mxynjakb64",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771438,
-      "slug": "tech",
-      "type": "default",
-      "name": "Tech",
-      "style": "nutech",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/tech/6238957/europol-haalt-ruim-12500-websites-met-illegale-content-en-producten-offline.html",
     "open_new_window": false,
     "partner": null
   }
