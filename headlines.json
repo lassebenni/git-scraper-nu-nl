@@ -1,12 +1,58 @@
 [
   {
-    "id": 6240080,
-    "slug": "van-gaal-ondanks-zege-kritisch-op-oranje-ik-weet-dat-we-veel-beter-kunnen",
+    "id": 6240083,
+    "slug": "sylvia-geersen-zocht-oprecht-naar-liefde-in-the-bachelorette",
     "type": "article",
-    "title": "Van Gaal ondanks zege kritisch op Oranje: 'Ik weet dat we veel beter kunnen'",
+    "title": "Sylvia Geersen zocht 'oprecht' naar liefde in The Bachelorette",
+    "subtitle": null,
+    "published_at": "2022-12-03T19:49:03+01:00",
+    "updated_at": "2022-12-03T19:53:59+01:00",
+    "media_id": "5soxjaca13wl",
+    "duration": null,
+    "canonical_section": {
+      "id": 125,
+      "slug": "achterklap",
+      "type": "default",
+      "name": "Achterklap",
+      "style": "nuentertainment",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/achterklap/6240083/sylvia-geersen-zocht-oprecht-naar-liefde-in-the-bachelorette.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6240082,
+    "slug": "bondscoach-vs-trots-ondanks-verlies-we-waren-zeker-niet-minder-dan-oranje",
+    "type": "article",
+    "title": "Bondscoach VS trots ondanks verlies: 'We waren zeker niet minder dan Oranje'",
+    "subtitle": null,
+    "published_at": "2022-12-03T19:28:54+01:00",
+    "updated_at": "2022-12-03T19:34:03+01:00",
+    "media_id": "4isx1szah42q",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772307,
+      "slug": "wk-voetbal",
+      "type": "files",
+      "name": "WK voetbal",
+      "style": "nusport",
+      "media_id": "m1mxoqoan7eu",
+      "partner": null
+    },
+    "url": "/wk-voetbal/6240082/bondscoach-vs-trots-ondanks-verlies-we-waren-zeker-niet-minder-dan-oranje.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6240080,
+    "slug": "van-gaal-streng-voor-oranje-na-zege-op-vs-we-leden-veel-te-vaak-balverlies",
+    "type": "article",
+    "title": "Van Gaal streng voor Oranje na zege op VS: 'We leden veel te vaak balverlies'",
     "subtitle": null,
     "published_at": "2022-12-03T18:57:10+01:00",
-    "updated_at": "2022-12-03T18:57:11+01:00",
+    "updated_at": "2022-12-03T19:09:30+01:00",
     "media_id": "udzx9gwaoaw1",
     "duration": null,
     "canonical_section": {
@@ -18,7 +64,7 @@
       "media_id": "m1mxoqoan7eu",
       "partner": null
     },
-    "url": "/wk-voetbal/6240080/van-gaal-ondanks-zege-kritisch-op-oranje-ik-weet-dat-we-veel-beter-kunnen.html",
+    "url": "/wk-voetbal/6240080/van-gaal-streng-voor-oranje-na-zege-op-vs-we-leden-veel-te-vaak-balverlies.html",
     "open_new_window": false,
     "partner": null
   },
@@ -640,52 +686,6 @@
       "partner": null
     },
     "url": "/buitenland/6240027/bekijk-beelden-van-de-nieuwe-nucleaire-bommenwerper-van-de-vs.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6240017,
-    "slug": "mexicaanse-politie-vindt-300-kilo-fentanyl-in-kokosnoten",
-    "type": "video",
-    "title": "Mexicaanse politie vindt 300 kilo fentanyl in kokosnoten",
-    "subtitle": "Video",
-    "published_at": "2022-12-03T10:32:33+01:00",
-    "updated_at": "2022-12-03T10:32:33+01:00",
-    "media_id": "e6exvkaauwyr",
-    "duration": "0:40",
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6240017/mexicaanse-politie-vindt-300-kilo-fentanyl-in-kokosnoten.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6240008,
-    "slug": "teleurstelling-overheerst-bij-kameroen-na-historische-zege-op-b-elftal-brazilie",
-    "type": "article",
-    "title": "Teleurstelling overheerst bij Kameroen na 'historische zege' op B-elftal Brazilië",
-    "subtitle": null,
-    "published_at": "2022-12-03T10:31:42+01:00",
-    "updated_at": "2022-12-03T10:39:39+01:00",
-    "media_id": "q9vxkb7a7cwv",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772307,
-      "slug": "wk-voetbal",
-      "type": "files",
-      "name": "WK voetbal",
-      "style": "nusport",
-      "media_id": "m1mxoqoan7eu",
-      "partner": null
-    },
-    "url": "/wk-voetbal/6240008/teleurstelling-overheerst-bij-kameroen-na-historische-zege-op-b-elftal-brazilie.html",
     "open_new_window": false,
     "partner": null
   }
