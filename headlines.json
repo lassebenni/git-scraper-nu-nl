@@ -1,5 +1,51 @@
 [
   {
+    "id": 6240085,
+    "slug": "honderden-apeldoorners-vieren-uitbundig-wk-zege-op-vs",
+    "type": "video",
+    "title": "Honderden Apeldoorners vieren uitbundig WK-zege op VS",
+    "subtitle": "Video",
+    "published_at": "2022-12-03T20:12:49+01:00",
+    "updated_at": "2022-12-03T20:12:50+01:00",
+    "media_id": "9epxjq1a3ffv",
+    "duration": "0:36",
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6240085/honderden-apeldoorners-vieren-uitbundig-wk-zege-op-vs.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6240084,
+    "slug": "southgate-ziet-europa-niet-langer-domineren-niveau-stijgt-wereldwijd",
+    "type": "article",
+    "title": "Southgate ziet Europa niet langer domineren: 'Niveau stijgt wereldwijd'",
+    "subtitle": null,
+    "published_at": "2022-12-03T20:06:40+01:00",
+    "updated_at": "2022-12-03T20:13:22+01:00",
+    "media_id": "3pfxa2oaol3u",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772307,
+      "slug": "wk-voetbal",
+      "type": "files",
+      "name": "WK voetbal",
+      "style": "nusport",
+      "media_id": "m1mxoqoan7eu",
+      "partner": null
+    },
+    "url": "/wk-voetbal/6240084/southgate-ziet-europa-niet-langer-domineren-niveau-stijgt-wereldwijd.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6240083,
     "slug": "sylvia-geersen-zocht-oprecht-naar-liefde-in-the-bachelorette",
     "type": "article",
@@ -190,8 +236,8 @@
     "title": "Dumfries leidt Oranje met goal en twee assists tegen VS naar kwartfinales WK",
     "subtitle": null,
     "published_at": "2022-12-03T17:53:41+01:00",
-    "updated_at": "2022-12-03T18:39:02+01:00",
-    "media_id": "e6mxn80amx5l",
+    "updated_at": "2022-12-03T21:00:19+01:00",
+    "media_id": "abtx59famiu9",
     "duration": null,
     "canonical_section": {
       "id": 1772307,
@@ -210,10 +256,10 @@
     "id": 6240073,
     "slug": "vrouw-gewond-door-microfoon-guns-n-roses-zanger-zegt-te-stoppen-met-gooien",
     "type": "article",
-    "title": "Vrouw gewond door microfoon Guns 'N Roses, zanger zegt te stoppen met gooien",
+    "title": "Vrouw gewond door microfoon Guns N' Roses, zanger zegt te stoppen met gooien",
     "subtitle": null,
     "published_at": "2022-12-03T17:48:52+01:00",
-    "updated_at": "2022-12-03T17:54:11+01:00",
+    "updated_at": "2022-12-03T20:43:10+01:00",
     "media_id": "monx8vwatp8m",
     "duration": null,
     "canonical_section": {
@@ -640,52 +686,6 @@
       "partner": null
     },
     "url": "/algemeen/6240049/waarom-dit-winterse-wk-soccer-enorm-op-de-kaart-zet-in-de-vs.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6240030,
-    "slug": "tilburger-verdacht-van-witwassen-van-7-miljoen-euro-in-anderhalf-jaar-tijd",
-    "type": "article",
-    "title": "Tilburger verdacht van witwassen van 7 miljoen euro in anderhalf jaar tijd",
-    "subtitle": null,
-    "published_at": "2022-12-03T11:01:04+01:00",
-    "updated_at": "2022-12-03T11:37:15+01:00",
-    "media_id": "buxx7c4a7a3s",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6240030/tilburger-verdacht-van-witwassen-van-7-miljoen-euro-in-anderhalf-jaar-tijd.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6240027,
-    "slug": "bekijk-beelden-van-de-nieuwe-nucleaire-bommenwerper-van-de-vs",
-    "type": "video",
-    "title": "Bekijk beelden van de nieuwe nucleaire bommenwerper van de VS",
-    "subtitle": "Video",
-    "published_at": "2022-12-03T10:57:06+01:00",
-    "updated_at": "2022-12-03T10:57:07+01:00",
-    "media_id": "wsaxtd6alnu8",
-    "duration": "0:53",
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6240027/bekijk-beelden-van-de-nieuwe-nucleaire-bommenwerper-van-de-vs.html",
     "open_new_window": false,
     "partner": null
   }
