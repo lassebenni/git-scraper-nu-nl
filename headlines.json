@@ -1,12 +1,35 @@
 [
   {
+    "id": 6240113,
+    "slug": "praat-mee-over-alcohol",
+    "type": "article",
+    "title": "Praat mee over alcohol",
+    "subtitle": null,
+    "published_at": "2022-12-04T09:02:31+01:00",
+    "updated_at": "2022-12-04T09:11:57+01:00",
+    "media_id": "otzxyiyac1kp",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779134,
+      "slug": "stelling",
+      "type": "default",
+      "name": "Stelling",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/stelling/6240113/praat-mee-over-alcohol.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6240115,
     "slug": "tranen-bij-australie-na-uitschakeling-ik-hoop-dat-het-volk-trots-op-ons-is",
     "type": "article",
     "title": "Tranen bij Australië na uitschakeling: 'Ik hoop dat het volk trots op ons is'",
     "subtitle": null,
     "published_at": "2022-12-04T08:41:13+01:00",
-    "updated_at": "2022-12-04T08:53:05+01:00",
+    "updated_at": "2022-12-04T09:26:21+01:00",
     "media_id": "x6nxpmma0ml0",
     "duration": null,
     "canonical_section": {
@@ -70,12 +93,12 @@
   },
   {
     "id": 6240110,
-    "slug": "oranje-geniet-na-van-zege-op-vs-en-wacht-uitlooptraining",
+    "slug": "oranje-geniet-na-van-zege-op-vs-en-traint-met-reserves",
     "type": "article",
-    "title": "Oranje geniet na van zege op VS en wacht uitlooptraining",
+    "title": "Oranje geniet na van zege op VS en traint met reserves",
     "subtitle": "Liveblog WK",
     "published_at": "2022-12-04T08:06:44+01:00",
-    "updated_at": "2022-12-04T08:50:07+01:00",
+    "updated_at": "2022-12-04T09:16:17+01:00",
     "media_id": "yt5xdvday7ok",
     "duration": null,
     "canonical_section": {
@@ -87,7 +110,7 @@
       "media_id": "m1mxoqoan7eu",
       "partner": null
     },
-    "url": "/wk-voetbal/6240110/oranje-geniet-na-van-zege-op-vs-en-wacht-uitlooptraining.html",
+    "url": "/wk-voetbal/6240110/oranje-geniet-na-van-zege-op-vs-en-traint-met-reserves.html",
     "open_new_window": false,
     "partner": null
   },
@@ -121,7 +144,7 @@
     "title": "Messi verwacht zware strijd in duel met Oranje: 'Ze spelen erg goed'",
     "subtitle": null,
     "published_at": "2022-12-04T07:47:01+01:00",
-    "updated_at": "2022-12-04T08:48:08+01:00",
+    "updated_at": "2022-12-04T09:23:43+01:00",
     "media_id": "7xhxujqao36z",
     "duration": null,
     "canonical_section": {
@@ -167,7 +190,7 @@
     "title": "Noppert kijkt uit naar kwartfinale: 'Die schoten van Messi moet ik ook pakken'",
     "subtitle": null,
     "published_at": "2022-12-04T06:54:40+01:00",
-    "updated_at": "2022-12-04T06:54:41+01:00",
+    "updated_at": "2022-12-04T09:30:04+01:00",
     "media_id": "763xq8nawb7l",
     "duration": null,
     "canonical_section": {
@@ -188,9 +211,9 @@
     "slug": "dumfries-dankt-sportpsycholoog-na-glansrol-ik-zocht-innerlijke-rust",
     "type": "article",
     "title": "Dumfries dankt sportpsycholoog na glansrol: 'Ik zocht innerlijke rust'",
-    "subtitle": "NU+",
+    "subtitle": null,
     "published_at": "2022-12-04T06:46:53+01:00",
-    "updated_at": "2022-12-04T07:42:25+01:00",
+    "updated_at": "2022-12-04T09:45:27+01:00",
     "media_id": "v6pxqlea5ypm",
     "duration": null,
     "canonical_section": {
@@ -374,7 +397,7 @@
     "title": "Nederlandse natuur kan opbloeien als we leren samenleven met de wolf",
     "subtitle": null,
     "published_at": "2022-12-04T04:59:15+01:00",
-    "updated_at": "2022-12-04T07:58:33+01:00",
+    "updated_at": "2022-12-04T09:10:17+01:00",
     "media_id": "k6lxuifang87",
     "duration": null,
     "canonical_section": {
@@ -443,7 +466,7 @@
     "title": "Bokser Fury rekent af met Chisora en behoudt wereldtitel zwaargewicht",
     "subtitle": null,
     "published_at": "2022-12-03T23:56:51+01:00",
-    "updated_at": "2022-12-03T23:56:52+01:00",
+    "updated_at": "2022-12-04T09:41:15+01:00",
     "media_id": "nswx3fxaeosh",
     "duration": null,
     "canonical_section": {
@@ -512,7 +535,7 @@
     "title": "Ernstig zieke Pelé voelt zich 'sterk en hoopvol' tijdens behandelingen",
     "subtitle": null,
     "published_at": "2022-12-03T22:16:09+01:00",
-    "updated_at": "2022-12-03T23:59:04+01:00",
+    "updated_at": "2022-12-04T09:50:51+01:00",
     "media_id": "m2nx9xfa8nfi",
     "duration": null,
     "canonical_section": {
@@ -663,29 +686,6 @@
       "partner": null
     },
     "url": "/binnenland/6240085/honderden-apeldoorners-vieren-uitbundig-wk-zege-op-vs.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6240084,
-    "slug": "southgate-ziet-europa-niet-langer-domineren-niveau-stijgt-wereldwijd",
-    "type": "article",
-    "title": "Southgate ziet Europa niet langer domineren: 'Niveau stijgt wereldwijd'",
-    "subtitle": null,
-    "published_at": "2022-12-03T20:06:40+01:00",
-    "updated_at": "2022-12-03T20:13:22+01:00",
-    "media_id": "3pfxa2oaol3u",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772307,
-      "slug": "wk-voetbal",
-      "type": "files",
-      "name": "WK voetbal",
-      "style": "nusport",
-      "media_id": "m1mxoqoan7eu",
-      "partner": null
-    },
-    "url": "/wk-voetbal/6240084/southgate-ziet-europa-niet-langer-domineren-niveau-stijgt-wereldwijd.html",
     "open_new_window": false,
     "partner": null
   }
