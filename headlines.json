@@ -1,5 +1,51 @@
 [
   {
+    "id": 6240437,
+    "slug": "neymar-vreesde-dat-wk-voorbij-was-door-blessure-heb-de-hele-nacht-gehuild",
+    "type": "article",
+    "title": "Neymar vreesde dat WK voorbij was door blessure: 'Heb de hele nacht gehuild'",
+    "subtitle": null,
+    "published_at": "2022-12-05T23:27:41+01:00",
+    "updated_at": "2022-12-05T23:50:43+01:00",
+    "media_id": "2m2x54gamlhw",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772307,
+      "slug": "wk-voetbal",
+      "type": "files",
+      "name": "WK voetbal",
+      "style": "nusport",
+      "media_id": "m1mxoqoan7eu",
+      "partner": null
+    },
+    "url": "/wk-voetbal/6240437/neymar-vreesde-dat-wk-voorbij-was-door-blessure-heb-de-hele-nacht-gehuild.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6240436,
+    "slug": "bento-stopt-als-bondscoach-van-zuid-korea-na-uitschakeling-door-brazilie",
+    "type": "article",
+    "title": "Bento stopt als bondscoach van Zuid-Korea na uitschakeling door Brazilië",
+    "subtitle": null,
+    "published_at": "2022-12-05T23:18:55+01:00",
+    "updated_at": "2022-12-05T23:34:24+01:00",
+    "media_id": "9bqx7ltavhsv",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772307,
+      "slug": "wk-voetbal",
+      "type": "files",
+      "name": "WK voetbal",
+      "style": "nusport",
+      "media_id": "m1mxoqoan7eu",
+      "partner": null
+    },
+    "url": "/wk-voetbal/6240436/bento-stopt-als-bondscoach-van-zuid-korea-na-uitschakeling-door-brazilie.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6240434,
     "slug": "directeur-bierhoff-vertrekt-bij-duitse-voetbalbond-na-dramatisch-verlopen-wk",
     "type": "article",
@@ -93,12 +139,12 @@
   },
   {
     "id": 6240151,
-    "slug": "marokko-wil-dinsdag-geschiedenis-schrijven-tegen-spanje",
+    "slug": "marokko-wil-geschiedenis-schrijven-tegen-spanje",
     "type": "article",
-    "title": "Marokko wil dinsdag geschiedenis schrijven tegen Spanje",
+    "title": "Marokko wil geschiedenis schrijven tegen Spanje",
     "subtitle": "WK-programma",
     "published_at": "2022-12-05T21:55:26+01:00",
-    "updated_at": "2022-12-05T21:56:13+01:00",
+    "updated_at": "2022-12-05T23:31:38+01:00",
     "media_id": "r3uxam7at44n",
     "duration": null,
     "canonical_section": {
@@ -110,7 +156,7 @@
       "media_id": "m1mxoqoan7eu",
       "partner": null
     },
-    "url": "/wk-voetbal/6240151/marokko-wil-dinsdag-geschiedenis-schrijven-tegen-spanje.html",
+    "url": "/wk-voetbal/6240151/marokko-wil-geschiedenis-schrijven-tegen-spanje.html",
     "open_new_window": false,
     "partner": null
   },
@@ -640,52 +686,6 @@
       "partner": null
     },
     "url": "/wk-voetbal/6240377/fifa-start-onderzoek-naar-servie-na-vermeend-wangedrag-en-discriminatie.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6240359,
-    "slug": "scheidsrechters-geven-geen-interviews-meer-uit-onvrede-over-vragen",
-    "type": "article",
-    "title": "Scheidsrechters geven geen interviews meer uit onvrede over vragen",
-    "subtitle": null,
-    "published_at": "2022-12-05T16:26:17+01:00",
-    "updated_at": "2022-12-05T16:26:18+01:00",
-    "media_id": "cn8xgjeaf7lg",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6240359/scheidsrechters-geven-geen-interviews-meer-uit-onvrede-over-vragen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6240364,
-    "slug": "prins-harry-in-nieuwe-docutrailer-verhalen-worden-bewust-verzonnen",
-    "type": "video",
-    "title": "Prins Harry in nieuwe docutrailer: 'Verhalen worden bewust verzonnen'",
-    "subtitle": "Video",
-    "published_at": "2022-12-05T16:22:25+01:00",
-    "updated_at": "2022-12-05T16:22:26+01:00",
-    "media_id": "waux007a7rmr",
-    "duration": "1:00",
-    "canonical_section": {
-      "id": 1772242,
-      "slug": "entertainment",
-      "type": "default",
-      "name": "Media en Cultuur",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/entertainment/6240364/prins-harry-in-nieuwe-docutrailer-verhalen-worden-bewust-verzonnen.html",
     "open_new_window": false,
     "partner": null
   }
