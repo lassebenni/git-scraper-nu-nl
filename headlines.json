@@ -1,5 +1,51 @@
 [
   {
+    "id": 6240243,
+    "slug": "praat-mee-over-online-en-offline-tijd",
+    "type": "article",
+    "title": "Praat mee over online en offline tijd",
+    "subtitle": null,
+    "published_at": "2022-12-05T09:40:47+01:00",
+    "updated_at": "2022-12-05T09:40:48+01:00",
+    "media_id": "u9sx0u0a8cue",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779134,
+      "slug": "stelling",
+      "type": "default",
+      "name": "Stelling",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/stelling/6240243/praat-mee-over-online-en-offline-tijd.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6240254,
+    "slug": "grote-branden-verwoesten-gebouwen-in-nijmegen-en-eindhoven",
+    "type": "video",
+    "title": "Grote branden verwoesten gebouwen in Nijmegen en Eindhoven",
+    "subtitle": "Video",
+    "published_at": "2022-12-05T09:34:36+01:00",
+    "updated_at": "2022-12-05T09:34:37+01:00",
+    "media_id": "8uqx4arawhy2",
+    "duration": "0:58",
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6240254/grote-branden-verwoesten-gebouwen-in-nijmegen-en-eindhoven.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6240247,
     "slug": "eu-landen-verbruikten-ook-in-november-een-kwart-minder-gas",
     "type": "article",
@@ -351,7 +397,7 @@
     "title": "Bouw van grootste radiotelescoop ter wereld gaat na dertig jaar van start",
     "subtitle": null,
     "published_at": "2022-12-05T05:50:32+01:00",
-    "updated_at": "2022-12-05T08:45:23+01:00",
+    "updated_at": "2022-12-05T09:03:35+01:00",
     "media_id": "yq7xubvarstp",
     "duration": null,
     "canonical_section": {
@@ -512,7 +558,7 @@
     "title": "Grote drugsvangst van 9,7 ton cocaïne in Caribische Zee",
     "subtitle": null,
     "published_at": "2022-12-05T00:52:09+01:00",
-    "updated_at": "2022-12-05T07:21:08+01:00",
+    "updated_at": "2022-12-05T09:56:58+01:00",
     "media_id": "8iixevpaor3s",
     "duration": null,
     "canonical_section": {
@@ -535,7 +581,7 @@
     "title": "Kwaliteit van leven blijft op peil, maar staat in toekomst onder druk",
     "subtitle": null,
     "published_at": "2022-12-05T00:00:41+01:00",
-    "updated_at": "2022-12-05T08:45:42+01:00",
+    "updated_at": "2022-12-05T09:45:08+01:00",
     "media_id": "p4txkgjab86t",
     "duration": null,
     "canonical_section": {
@@ -640,52 +686,6 @@
       "partner": null
     },
     "url": "/wk-voetbal/6239909/japan-en-zuid-korea-azen-op-nieuwe-stunt.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6240218,
-    "slug": "engeland-wint-eenvoudig-van-senegal-en-treft-frankrijk-in-kwartfinales-wk",
-    "type": "article",
-    "title": "Engeland wint eenvoudig van Senegal en treft Frankrijk in kwartfinales WK",
-    "subtitle": null,
-    "published_at": "2022-12-04T21:53:39+01:00",
-    "updated_at": "2022-12-04T23:39:06+01:00",
-    "media_id": "upcxwg9agc9o",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772307,
-      "slug": "wk-voetbal",
-      "type": "files",
-      "name": "WK voetbal",
-      "style": "nusport",
-      "media_id": "m1mxoqoan7eu",
-      "partner": null
-    },
-    "url": "/wk-voetbal/6240218/engeland-wint-eenvoudig-van-senegal-en-treft-frankrijk-in-kwartfinales-wk.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6240217,
-    "slug": "politici-gaan-op-de-vuist-in-senegalees-parlement",
-    "type": "video",
-    "title": "Politici gaan op de vuist in Senegalees parlement",
-    "subtitle": "Video",
-    "published_at": "2022-12-04T21:41:01+01:00",
-    "updated_at": "2022-12-04T21:54:25+01:00",
-    "media_id": "osex7xnauxqd",
-    "duration": "0:38",
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6240217/politici-gaan-op-de-vuist-in-senegalees-parlement.html",
     "open_new_window": false,
     "partner": null
   }
