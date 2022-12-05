@@ -1,12 +1,81 @@
 [
   {
-    "id": 6240430,
-    "slug": "ruimtevaartuig-nasa-filmt-maan-vlak-voor-terugreis-naar-de-aarde",
+    "id": 6240434,
+    "slug": "directeur-bierhoff-vertrekt-bij-duitse-voetbalbond-na-dramatisch-verlopen-wk",
+    "type": "article",
+    "title": "Directeur Bierhoff vertrekt bij Duitse voetbalbond na dramatisch verlopen WK",
+    "subtitle": null,
+    "published_at": "2022-12-05T22:47:28+01:00",
+    "updated_at": "2022-12-05T22:56:07+01:00",
+    "media_id": "fuwxv4gacex5",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772307,
+      "slug": "wk-voetbal",
+      "type": "files",
+      "name": "WK voetbal",
+      "style": "nusport",
+      "media_id": "m1mxoqoan7eu",
+      "partner": null
+    },
+    "url": "/wk-voetbal/6240434/directeur-bierhoff-vertrekt-bij-duitse-voetbalbond-na-dramatisch-verlopen-wk.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6240433,
+    "slug": "camera-filmt-uitbarsting-vulkaan-stromboli-in-italie",
     "type": "video",
-    "title": "Ruimtevaartuig NASA filmt maan vlak voor terugreis naar de aarde",
+    "title": "Camera filmt uitbarsting vulkaan Stromboli in Italië",
+    "subtitle": "Video",
+    "published_at": "2022-12-05T22:37:45+01:00",
+    "updated_at": "2022-12-05T22:37:46+01:00",
+    "media_id": "zdqxxdma4lw6",
+    "duration": "0:40",
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6240433/camera-filmt-uitbarsting-vulkaan-stromboli-in-italie.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6240431,
+    "slug": "brazilianen-betuigen-steun-aan-zieke-landgenoot-pele",
+    "type": "article",
+    "title": "Brazilianen betuigen steun aan zieke landgenoot Pelé",
+    "subtitle": "In beeld",
+    "published_at": "2022-12-05T22:19:28+01:00",
+    "updated_at": "2022-12-05T22:39:55+01:00",
+    "media_id": "br7xeppa122m",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772307,
+      "slug": "wk-voetbal",
+      "type": "files",
+      "name": "WK voetbal",
+      "style": "nusport",
+      "media_id": "m1mxoqoan7eu",
+      "partner": null
+    },
+    "url": "/wk-voetbal/6240431/brazilianen-betuigen-steun-aan-zieke-landgenoot-pele.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6240430,
+    "slug": "ruimtevaartuig-nasa-filmt-maan-en-keert-terug-naar-aarde",
+    "type": "video",
+    "title": "Ruimtevaartuig NASA filmt maan en keert terug naar aarde",
     "subtitle": "Video",
     "published_at": "2022-12-05T21:57:32+01:00",
-    "updated_at": "2022-12-05T21:57:34+01:00",
+    "updated_at": "2022-12-05T22:11:52+01:00",
     "media_id": "sryxy07ay5ju",
     "duration": "0:39",
     "canonical_section": {
@@ -18,7 +87,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/tech/6240430/ruimtevaartuig-nasa-filmt-maan-vlak-voor-terugreis-naar-de-aarde.html",
+    "url": "/tech/6240430/ruimtevaartuig-nasa-filmt-maan-en-keert-terug-naar-aarde.html",
     "open_new_window": false,
     "partner": null
   },
@@ -52,7 +121,7 @@
     "title": "Brazilië dankzij wervelende eerste helft tegen Zuid-Korea naar laatste acht op WK",
     "subtitle": null,
     "published_at": "2022-12-05T21:54:27+01:00",
-    "updated_at": "2022-12-05T21:54:48+01:00",
+    "updated_at": "2022-12-05T22:20:58+01:00",
     "media_id": "744xrp2arszp",
     "duration": null,
     "canonical_section": {
@@ -254,12 +323,12 @@
   },
   {
     "id": 6240420,
-    "slug": "politie-schiet-verdachte-neer-na-steekpartij-in-rotterdam-hillegersberg",
+    "slug": "drie-gewonden-na-steekpartij-in-rotterdam-politie-schiet-verdachte-neer",
     "type": "article",
-    "title": "Politie schiet verdachte neer na steekpartij in Rotterdam-Hillegersberg",
+    "title": "Drie gewonden na steekpartij in Rotterdam, politie schiet verdachte neer",
     "subtitle": null,
     "published_at": "2022-12-05T19:42:31+01:00",
-    "updated_at": "2022-12-05T20:31:32+01:00",
+    "updated_at": "2022-12-05T22:52:10+01:00",
     "media_id": "mkcxl0wal63r",
     "duration": null,
     "canonical_section": {
@@ -271,7 +340,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/binnenland/6240420/politie-schiet-verdachte-neer-na-steekpartij-in-rotterdam-hillegersberg.html",
+    "url": "/binnenland/6240420/drie-gewonden-na-steekpartij-in-rotterdam-politie-schiet-verdachte-neer.html",
     "open_new_window": false,
     "partner": null
   },
@@ -617,75 +686,6 @@
       "partner": null
     },
     "url": "/entertainment/6240364/prins-harry-in-nieuwe-docutrailer-verhalen-worden-bewust-verzonnen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6240358,
-    "slug": "nick-cannon-nog-altijd-mentaal-gebroken-door-dood-van-zoontje",
-    "type": "article",
-    "title": "Nick Cannon nog altijd 'mentaal gebroken' door dood van zoontje",
-    "subtitle": null,
-    "published_at": "2022-12-05T16:10:37+01:00",
-    "updated_at": "2022-12-05T16:42:46+01:00",
-    "media_id": "r0yxo7eagf36",
-    "duration": null,
-    "canonical_section": {
-      "id": 125,
-      "slug": "achterklap",
-      "type": "default",
-      "name": "Achterklap",
-      "style": "nuentertainment",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/achterklap/6240358/nick-cannon-nog-altijd-mentaal-gebroken-door-dood-van-zoontje.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6240361,
-    "slug": "flauwgevallen-vrijduiker-wordt-gered-bij-recordpoging",
-    "type": "video",
-    "title": "Flauwgevallen vrijduiker wordt gered bij recordpoging",
-    "subtitle": "Video",
-    "published_at": "2022-12-05T16:10:07+01:00",
-    "updated_at": "2022-12-05T16:10:09+01:00",
-    "media_id": "egfxn2xac54o",
-    "duration": "0:45",
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6240361/flauwgevallen-vrijduiker-wordt-gered-bij-recordpoging.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6240356,
-    "slug": "spacex-gaat-satellietnetwerk-voor-amerikaanse-overheid-bouwen",
-    "type": "article",
-    "title": "SpaceX gaat satellietnetwerk voor Amerikaanse overheid bouwen",
-    "subtitle": null,
-    "published_at": "2022-12-05T16:00:37+01:00",
-    "updated_at": "2022-12-05T16:20:24+01:00",
-    "media_id": "bjexl3xajv7p",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771438,
-      "slug": "tech",
-      "type": "default",
-      "name": "Tech",
-      "style": "nutech",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/tech/6240356/spacex-gaat-satellietnetwerk-voor-amerikaanse-overheid-bouwen.html",
     "open_new_window": false,
     "partner": null
   }
