@@ -1,5 +1,51 @@
 [
   {
+    "id": 6241076,
+    "slug": "vervoerders-zochten-nog-nooit-zoveel-personeel-als-nu",
+    "type": "article",
+    "title": "Vervoerders zochten nog nooit zoveel personeel als nu",
+    "subtitle": null,
+    "published_at": "2022-12-09T00:00:06+01:00",
+    "updated_at": "2022-12-09T00:00:07+01:00",
+    "media_id": "f8pxz65ax14x",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6241076/vervoerders-zochten-nog-nooit-zoveel-personeel-als-nu.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6241089,
+    "slug": "de-evolutie-van-van-gaal-kan-niet-meer-dezelfde-coach-zijn-als-bij-ajax",
+    "type": "article",
+    "title": "De evolutie van Van Gaal: 'Kan niet meer dezelfde coach zijn als bij Ajax'",
+    "subtitle": "NU+",
+    "published_at": "2022-12-08T23:27:11+01:00",
+    "updated_at": "2022-12-08T23:39:37+01:00",
+    "media_id": "i2txag9at733",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772307,
+      "slug": "wk-voetbal",
+      "type": "files",
+      "name": "WK voetbal",
+      "style": "nusport",
+      "media_id": "m1mxoqoan7eu",
+      "partner": null
+    },
+    "url": "/wk-voetbal/6241089/de-evolutie-van-van-gaal-kan-niet-meer-dezelfde-coach-zijn-als-bij-ajax.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6241109,
     "slug": "grootste-kerstboom-ter-wereld-siert-heuvel-in-italie",
     "type": "video",
@@ -75,7 +121,7 @@
     "title": "Paus raakt geëmotioneerd tijdens gebed voor Oekraïne",
     "subtitle": "Video",
     "published_at": "2022-12-08T21:17:36+01:00",
-    "updated_at": "2022-12-08T21:17:37+01:00",
+    "updated_at": "2022-12-08T23:37:21+01:00",
     "media_id": "390x5twa6nm5",
     "duration": "1:27",
     "canonical_section": {
@@ -98,7 +144,7 @@
     "title": "Martens belangrijk voor PSG in CL, Roord valt geblesseerd uit bij Wolfsburg",
     "subtitle": null,
     "published_at": "2022-12-08T20:55:34+01:00",
-    "updated_at": "2022-12-08T21:17:40+01:00",
+    "updated_at": "2022-12-08T23:35:54+01:00",
     "media_id": "vjcxf3oa1m5w",
     "duration": null,
     "canonical_section": {
@@ -640,52 +686,6 @@
       "partner": null
     },
     "url": "/wk-voetbal/6241045/oranje-werkt-met-complete-selectie-laatste-training-voor-wk-kwartfinale-af.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6241012,
-    "slug": "bkr-wil-inzage-geven-in-hypotheekgegevens-maar-plan-ligt-onder-vuur",
-    "type": "article",
-    "title": "BKR wil inzage geven in hypotheekgegevens, maar plan ligt onder vuur",
-    "subtitle": null,
-    "published_at": "2022-12-08T16:22:12+01:00",
-    "updated_at": "2022-12-08T20:11:26+01:00",
-    "media_id": "x8yxqmnasr1p",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6241012/bkr-wil-inzage-geven-in-hypotheekgegevens-maar-plan-ligt-onder-vuur.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6241040,
-    "slug": "memphis-wil-in-persconferentie-geen-zoen-op-de-mond-van-van-gaal",
-    "type": "video",
-    "title": "Memphis wil in persconferentie geen zoen op de mond van Van Gaal",
-    "subtitle": "Video",
-    "published_at": "2022-12-08T16:15:50+01:00",
-    "updated_at": "2022-12-08T19:41:39+01:00",
-    "media_id": "omex6piawif3",
-    "duration": "1:15",
-    "canonical_section": {
-      "id": 100,
-      "slug": "algemeen",
-      "type": "default",
-      "name": "Algemeen",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/algemeen/6241040/memphis-wil-in-persconferentie-geen-zoen-op-de-mond-van-van-gaal.html",
     "open_new_window": false,
     "partner": null
   }
