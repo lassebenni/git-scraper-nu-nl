@@ -1,12 +1,104 @@
 [
   {
-    "id": 6241130,
-    "slug": "thuiswerken-is-blijvend-en-steeds-vaker-onderdeel-van-caos",
+    "id": 6241128,
+    "slug": "praat-mee-over-paarse-vrijdag",
     "type": "article",
-    "title": "Thuiswerken is blijvend en steeds vaker onderdeel van cao's",
+    "title": "Praat mee over Paarse Vrijdag",
+    "subtitle": null,
+    "published_at": "2022-12-09T09:00:17+01:00",
+    "updated_at": "2022-12-09T09:00:18+01:00",
+    "media_id": "m3rxmaba04xa",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779134,
+      "slug": "stelling",
+      "type": "default",
+      "name": "Stelling",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/stelling/6241128/praat-mee-over-paarse-vrijdag.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6241120,
+    "slug": "kwartfinale-tegen-argentinie-kan-best-bezochte-wk-duel-ooit-worden-van-oranje",
+    "type": "article",
+    "title": "Kwartfinale tegen Argentinië kan best bezochte WK-duel ooit worden van Oranje",
+    "subtitle": null,
+    "published_at": "2022-12-09T08:49:59+01:00",
+    "updated_at": "2022-12-09T08:50:00+01:00",
+    "media_id": "xk4x4puag2a9",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772307,
+      "slug": "wk-voetbal",
+      "type": "files",
+      "name": "WK voetbal",
+      "style": "nusport",
+      "media_id": "m1mxoqoan7eu",
+      "partner": null
+    },
+    "url": "/wk-voetbal/6241120/kwartfinale-tegen-argentinie-kan-best-bezochte-wk-duel-ooit-worden-van-oranje.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6241139,
+    "slug": "bijna-13-miljoen-mensen-kijken-naar-kika-special-van-beste-zangers",
+    "type": "article",
+    "title": "Bijna 1,3 miljoen mensen kijken naar KiKa-special van Beste Zangers",
+    "subtitle": null,
+    "published_at": "2022-12-09T08:41:34+01:00",
+    "updated_at": "2022-12-09T08:41:35+01:00",
+    "media_id": "onuxsaraugoo",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771675,
+      "slug": "media",
+      "type": "default",
+      "name": "Media",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/media/6241139/bijna-13-miljoen-mensen-kijken-naar-kika-special-van-beste-zangers.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6241141,
+    "slug": "japanse-miljardair-neemt-artiesten-mee-op-reis-rond-de-maan",
+    "type": "article",
+    "title": "Japanse miljardair neemt artiesten mee op reis rond de maan",
+    "subtitle": null,
+    "published_at": "2022-12-09T08:39:25+01:00",
+    "updated_at": "2022-12-09T08:39:26+01:00",
+    "media_id": "m4jxtefa6728",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771438,
+      "slug": "tech",
+      "type": "default",
+      "name": "Tech",
+      "style": "nutech",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/tech/6241141/japanse-miljardair-neemt-artiesten-mee-op-reis-rond-de-maan.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6241130,
+    "slug": "thuiswerken-blijft-populair-en-is-steeds-vaker-onderdeel-van-caos",
+    "type": "article",
+    "title": "Thuiswerken blijft populair en is steeds vaker onderdeel van cao's",
     "subtitle": null,
     "published_at": "2022-12-09T07:57:17+01:00",
-    "updated_at": "2022-12-09T07:57:18+01:00",
+    "updated_at": "2022-12-09T08:15:14+01:00",
     "media_id": "bspxij4a0gt3",
     "duration": null,
     "canonical_section": {
@@ -18,7 +110,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/economie/6241130/thuiswerken-is-blijvend-en-steeds-vaker-onderdeel-van-caos.html",
+    "url": "/economie/6241130/thuiswerken-blijft-populair-en-is-steeds-vaker-onderdeel-van-caos.html",
     "open_new_window": false,
     "partner": null
   },
@@ -236,7 +328,7 @@
     "title": "Als Oranje kampioen wordt krijgt het land meer vertrouwen, ook in de economie",
     "subtitle": null,
     "published_at": "2022-12-09T05:30:09+01:00",
-    "updated_at": "2022-12-09T06:10:51+01:00",
+    "updated_at": "2022-12-09T08:49:48+01:00",
     "media_id": "088xa1sahkp3",
     "duration": null,
     "canonical_section": {
@@ -351,7 +443,7 @@
     "title": "KNMI waarschuwt vrijdagochtend voor gladheid, gestrooid in het hele land",
     "subtitle": null,
     "published_at": "2022-12-09T05:24:05+01:00",
-    "updated_at": "2022-12-09T07:52:40+01:00",
+    "updated_at": "2022-12-09T08:58:08+01:00",
     "media_id": "te9x3jua1fpo",
     "duration": null,
     "canonical_section": {
@@ -576,12 +668,12 @@
   },
   {
     "id": 6241097,
-    "slug": "bolcom-gaat-bezuinigen-en-schrapt-de-komende-drie-jaar-driehonderd-banen",
+    "slug": "bolcom-gaat-bezuinigen-en-schrapt-driehonderd-banen",
     "type": "article",
-    "title": "Bol.com gaat bezuinigen en schrapt de komende drie jaar driehonderd banen",
+    "title": "Bol.com gaat bezuinigen en schrapt driehonderd banen",
     "subtitle": null,
     "published_at": "2022-12-08T20:32:53+01:00",
-    "updated_at": "2022-12-08T21:01:50+01:00",
+    "updated_at": "2022-12-09T08:29:36+01:00",
     "media_id": "qsmx4nmalmil",
     "duration": null,
     "canonical_section": {
@@ -593,99 +685,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/economie/6241097/bolcom-gaat-bezuinigen-en-schrapt-de-komende-drie-jaar-driehonderd-banen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6241028,
-    "slug": "ondanks-spannende-trailers-nog-geen-groot-nieuws-in-docu-harry-meghan",
-    "type": "article",
-    "title": "Ondanks spannende trailers nog geen groot nieuws in docu Harry & Meghan",
-    "subtitle": null,
-    "published_at": "2022-12-08T20:11:45+01:00",
-    "updated_at": "2022-12-09T05:38:32+01:00",
-    "media_id": "i03xwnoaiv76",
-    "duration": null,
-    "canonical_section": {
-      "id": 1778775,
-      "slug": "koningshuis",
-      "type": "default",
-      "name": "Koningshuis",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/koningshuis/6241028/ondanks-spannende-trailers-nog-geen-groot-nieuws-in-docu-harry-meghan.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6241025,
-    "slug": "fvder-van-meijeren-waarschijnlijk-in-2023-voor-rechter-wegens-door-rood-rijden",
-    "type": "article",
-    "title": "FVD'er Van Meijeren waarschijnlijk in 2023 voor rechter wegens door rood rijden",
-    "subtitle": null,
-    "published_at": "2022-12-08T20:10:50+01:00",
-    "updated_at": "2022-12-09T06:22:15+01:00",
-    "media_id": "krvx25fape5w",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6241025/fvder-van-meijeren-waarschijnlijk-in-2023-voor-rechter-wegens-door-rood-rijden.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6241091,
-    "slug": "nick-carter-aangeklaagd-wegens-seksueel-misbruik",
-    "type": "article",
-    "title": "Nick Carter aangeklaagd wegens seksueel misbruik",
-    "subtitle": null,
-    "published_at": "2022-12-08T20:06:16+01:00",
-    "updated_at": "2022-12-08T20:20:34+01:00",
-    "media_id": "hmixp0aa9i0k",
-    "duration": null,
-    "canonical_section": {
-      "id": 868281,
-      "slug": "muziek",
-      "type": "default",
-      "name": "Muziek",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/muziek/6241091/nick-carter-aangeklaagd-wegens-seksueel-misbruik.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6241081,
-    "slug": "amerikaanse-diplomatenvrouw-die-in-engeland-man-doodreed-alsnog-veroordeeld",
-    "type": "article",
-    "title": "Amerikaanse diplomatenvrouw die in Engeland man doodreed alsnog veroordeeld",
-    "subtitle": null,
-    "published_at": "2022-12-08T19:50:10+01:00",
-    "updated_at": "2022-12-09T00:37:26+01:00",
-    "media_id": "7plxchhatnzc",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6241081/amerikaanse-diplomatenvrouw-die-in-engeland-man-doodreed-alsnog-veroordeeld.html",
+    "url": "/economie/6241097/bolcom-gaat-bezuinigen-en-schrapt-driehonderd-banen.html",
     "open_new_window": false,
     "partner": null
   }
