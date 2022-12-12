@@ -1,13 +1,82 @@
 [
   {
-    "id": 6241728,
-    "slug": "door-rellen-geen-schermen-op-amsterdamse-en-haagse-pleinen-voor-wk-duel-marokko",
+    "id": 6241731,
+    "slug": "diddy-is-voor-de-zevende-keer-vader-geworden",
     "type": "article",
-    "title": "Door rellen geen schermen op Amsterdamse en Haagse pleinen voor WK-duel Marokko",
+    "title": "Diddy is voor de zevende keer vader geworden",
     "subtitle": null,
-    "published_at": "2022-12-12T20:00:50+01:00",
-    "updated_at": "2022-12-12T20:00:51+01:00",
-    "media_id": "wr3xrwra7pxk",
+    "published_at": "2022-12-12T20:52:31+01:00",
+    "updated_at": "2022-12-12T20:59:40+01:00",
+    "media_id": "ctnxykma4iau",
+    "duration": null,
+    "canonical_section": {
+      "id": 125,
+      "slug": "achterklap",
+      "type": "default",
+      "name": "Achterklap",
+      "style": "nuentertainment",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/achterklap/6241731/diddy-is-voor-de-zevende-keer-vader-geworden.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6241735,
+    "slug": "remco-evenepoel-veilt-wereldkampioenschapstrui-voor-herstel-amy-pieters",
+    "type": "article",
+    "title": "Remco Evenepoel veilt wereldkampioenschapstrui voor herstel Amy Pieters",
+    "subtitle": null,
+    "published_at": "2022-12-12T20:50:49+01:00",
+    "updated_at": "2022-12-12T20:50:52+01:00",
+    "media_id": "wegxaaeaoyr4",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772339,
+      "slug": "wielrennen",
+      "type": "default",
+      "name": "Wielrennen",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/wielrennen/6241735/remco-evenepoel-veilt-wereldkampioenschapstrui-voor-herstel-amy-pieters.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6241740,
+    "slug": "astana-zet-superman-lopez-op-straat-vanwege-banden-met-dopingdokter",
+    "type": "article",
+    "title": "Astana zet 'Superman' López op straat vanwege banden met dopingdokter",
+    "subtitle": null,
+    "published_at": "2022-12-12T20:34:01+01:00",
+    "updated_at": "2022-12-12T20:34:02+01:00",
+    "media_id": "euqxjvqa1vdr",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772339,
+      "slug": "wielrennen",
+      "type": "default",
+      "name": "Wielrennen",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/wielrennen/6241740/astana-zet-superman-lopez-op-straat-vanwege-banden-met-dopingdokter.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6241734,
+    "slug": "utrechtse-studentenvereniging-in-opspraak-om-tekst-over-homos-en-stomabeffers",
+    "type": "article",
+    "title": "Utrechtse studentenvereniging in opspraak om tekst over 'homo's en stomabeffers'",
+    "subtitle": null,
+    "published_at": "2022-12-12T20:03:09+01:00",
+    "updated_at": "2022-12-12T20:31:46+01:00",
+    "media_id": "ygcxfz1ad1lz",
     "duration": null,
     "canonical_section": {
       "id": 1771435,
@@ -18,7 +87,30 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/binnenland/6241728/door-rellen-geen-schermen-op-amsterdamse-en-haagse-pleinen-voor-wk-duel-marokko.html",
+    "url": "/binnenland/6241734/utrechtse-studentenvereniging-in-opspraak-om-tekst-over-homos-en-stomabeffers.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6241728,
+    "slug": "wegens-rellen-geen-schermen-op-haagse-en-amsterdamse-pleinen-voor-wk-duel-marokko",
+    "type": "article",
+    "title": "Wegens rellen geen schermen op Haagse en Amsterdamse pleinen voor WK-duel Marokko",
+    "subtitle": null,
+    "published_at": "2022-12-12T20:00:50+01:00",
+    "updated_at": "2022-12-12T20:30:50+01:00",
+    "media_id": "g4nxcspa0ubz",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6241728/wegens-rellen-geen-schermen-op-haagse-en-amsterdamse-pleinen-voor-wk-duel-marokko.html",
     "open_new_window": false,
     "partner": null
   },
@@ -29,7 +121,7 @@
     "title": "Mexicaanse arbiter fluit halve finale Frankrijk-Marokko, Makkelie moet afwachten",
     "subtitle": null,
     "published_at": "2022-12-12T19:46:55+01:00",
-    "updated_at": "2022-12-12T19:51:43+01:00",
+    "updated_at": "2022-12-12T20:37:28+01:00",
     "media_id": "u85x6p0ai5we",
     "duration": null,
     "canonical_section": {
@@ -47,12 +139,12 @@
   },
   {
     "id": 6241727,
-    "slug": "von-der-leyen-roept-op-tot-ethische-commissie-om-corruptiezaak-europees-parlement",
+    "slug": "von-der-leyen-wil-ethische-commissie-wegens-corruptiezaak-europees-parlement",
     "type": "article",
-    "title": "Von der Leyen roept op tot ethische commissie om corruptiezaak Europees Parlement",
+    "title": "Von der Leyen wil ethische commissie wegens corruptiezaak Europees Parlement",
     "subtitle": null,
     "published_at": "2022-12-12T19:33:48+01:00",
-    "updated_at": "2022-12-12T20:00:48+01:00",
+    "updated_at": "2022-12-12T20:51:49+01:00",
     "media_id": "3ksxq02ayqmz",
     "duration": null,
     "canonical_section": {
@@ -64,7 +156,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/buitenland/6241727/von-der-leyen-roept-op-tot-ethische-commissie-om-corruptiezaak-europees-parlement.html",
+    "url": "/buitenland/6241727/von-der-leyen-wil-ethische-commissie-wegens-corruptiezaak-europees-parlement.html",
     "open_new_window": false,
     "partner": null
   },
@@ -121,7 +213,7 @@
     "title": "Energiebedrijf Oxxio compenseert tienduizenden klanten na fout",
     "subtitle": null,
     "published_at": "2022-12-12T19:06:54+01:00",
-    "updated_at": "2022-12-12T19:41:23+01:00",
+    "updated_at": "2022-12-12T20:43:45+01:00",
     "media_id": "equxl8cahskv",
     "duration": null,
     "canonical_section": {
@@ -190,7 +282,7 @@
     "title": "F1-teambaas Capito verlaat Williams na twee jaar, ook technisch directeur weg",
     "subtitle": null,
     "published_at": "2022-12-12T18:20:29+01:00",
-    "updated_at": "2022-12-12T19:03:55+01:00",
+    "updated_at": "2022-12-12T20:58:38+01:00",
     "media_id": "qt8x8q5agb6e",
     "duration": null,
     "canonical_section": {
@@ -259,7 +351,7 @@
     "title": "Nederland en Japan kiezen partij voor VS in chipoorlog met China",
     "subtitle": null,
     "published_at": "2022-12-12T18:00:57+01:00",
-    "updated_at": "2022-12-12T18:02:58+01:00",
+    "updated_at": "2022-12-12T20:32:03+01:00",
     "media_id": "7tqxaipa3deq",
     "duration": null,
     "canonical_section": {
@@ -594,98 +686,6 @@
       "partner": null
     },
     "url": "/economie/6241686/benzineprijs-zakt-naar-laagste-punt-in-ruim-anderhalf-jaar.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6241694,
-    "slug": "hofland-ontslagen-als-trainer-van-willem-ii-na-derbynederlaag-tegen-nac",
-    "type": "article",
-    "title": "Hofland ontslagen als trainer van Willem II na derbynederlaag tegen NAC",
-    "subtitle": null,
-    "published_at": "2022-12-12T15:53:19+01:00",
-    "updated_at": "2022-12-12T16:40:14+01:00",
-    "media_id": "2sxx8lha6wcc",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6241694/hofland-ontslagen-als-trainer-van-willem-ii-na-derbynederlaag-tegen-nac.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6241691,
-    "slug": "beste-zangers-special-levert-ruim-16-miljoen-euro-op-voor-goed-doel",
-    "type": "article",
-    "title": "Beste Zangers-special levert ruim 1,6 miljoen euro op voor goed doel",
-    "subtitle": null,
-    "published_at": "2022-12-12T15:52:18+01:00",
-    "updated_at": "2022-12-12T15:52:27+01:00",
-    "media_id": "99yx88qaglbl",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771675,
-      "slug": "media",
-      "type": "default",
-      "name": "Media",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/media/6241691/beste-zangers-special-levert-ruim-16-miljoen-euro-op-voor-goed-doel.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6241687,
-    "slug": "coach-kroatie-hoopt-dat-halve-finale-niet-zo-pittig-wordt-als-nederland-argentinie",
-    "type": "article",
-    "title": "Coach Kroatië hoopt dat halve finale niet zo 'pittig' wordt als Nederland-Argentinië",
-    "subtitle": null,
-    "published_at": "2022-12-12T15:50:30+01:00",
-    "updated_at": "2022-12-12T16:58:23+01:00",
-    "media_id": "rq1x7lvaku8f",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772307,
-      "slug": "wk-voetbal",
-      "type": "files",
-      "name": "WK voetbal",
-      "style": "nusport",
-      "media_id": "m1mxoqoan7eu",
-      "partner": null
-    },
-    "url": "/wk-voetbal/6241687/coach-kroatie-hoopt-dat-halve-finale-niet-zo-pittig-wordt-als-nederland-argentinie.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6241690,
-    "slug": "laatste-sproeiverbod-in-nederland-na-negen-maanden-opgeheven",
-    "type": "article",
-    "title": "Laatste sproeiverbod in Nederland na negen maanden opgeheven",
-    "subtitle": null,
-    "published_at": "2022-12-12T15:47:22+01:00",
-    "updated_at": "2022-12-12T15:47:23+01:00",
-    "media_id": "i38xfd0aotek",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6241690/laatste-sproeiverbod-in-nederland-na-negen-maanden-opgeheven.html",
     "open_new_window": false,
     "partner": null
   }
