@@ -1,13 +1,82 @@
 [
   {
-    "id": 6242876,
-    "slug": "messi-dankzij-optreden-in-finale-speler-met-de-meeste-wk-wedstrijden",
+    "id": 6242894,
+    "slug": "bijna-duizend-kerstmannen-op-de-fiets-in-rome",
+    "type": "video",
+    "title": "Bijna duizend kerstmannen op de fiets in Rome",
+    "subtitle": "Video",
+    "published_at": "2022-12-18T16:41:07+01:00",
+    "updated_at": "2022-12-18T16:50:34+01:00",
+    "media_id": "qulxt9wa035z",
+    "duration": "0:38",
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6242894/bijna-duizend-kerstmannen-op-de-fiets-in-rome.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6242889,
+    "slug": "van-de-zandschulp-klopt-griekspoor-en-verovert-opnieuw-nederlandse-titel",
     "type": "article",
-    "title": "Messi dankzij optreden in finale speler met de meeste WK-wedstrijden",
+    "title": "Van de Zandschulp klopt Griekspoor en verovert opnieuw Nederlandse titel",
+    "subtitle": null,
+    "published_at": "2022-12-18T16:13:47+01:00",
+    "updated_at": "2022-12-18T16:39:47+01:00",
+    "media_id": "5xnx3ida8f03",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772432,
+      "slug": "tennis",
+      "type": "default",
+      "name": "Tennis",
+      "style": "nusport",
+      "media_id": "m1oxohpan0gq",
+      "partner": null
+    },
+    "url": "/tennis/6242889/van-de-zandschulp-klopt-griekspoor-en-verovert-opnieuw-nederlandse-titel.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6242890,
+    "slug": "weekweerbericht-kou-maakt-plaats-voor-zachte-temperaturen-met-veel-regen",
+    "type": "article",
+    "title": "Weekweerbericht: Kou maakt plaats voor zachte temperaturen met veel regen",
+    "subtitle": null,
+    "published_at": "2022-12-18T16:08:12+01:00",
+    "updated_at": "2022-12-18T16:26:44+01:00",
+    "media_id": "illxx86aq6y7",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6242890/weekweerbericht-kou-maakt-plaats-voor-zachte-temperaturen-met-veel-regen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6242876,
+    "slug": "messi-zorgt-met-goal-in-finale-voor-unicum-en-pakt-record-van-meeste-wk-duels",
+    "type": "article",
+    "title": "Messi zorgt met goal in finale voor unicum én pakt record van meeste WK-duels",
     "subtitle": null,
     "published_at": "2022-12-18T16:00:15+01:00",
-    "updated_at": "2022-12-18T16:00:17+01:00",
-    "media_id": "9t0xfgfac9s8",
+    "updated_at": "2022-12-18T17:01:02+01:00",
+    "media_id": "b4txmtva2fko",
     "duration": null,
     "canonical_section": {
       "id": 1772307,
@@ -18,18 +87,18 @@
       "media_id": "m1mxoqoan7eu",
       "partner": null
     },
-    "url": "/wk-voetbal/6242876/messi-dankzij-optreden-in-finale-speler-met-de-meeste-wk-wedstrijden.html",
+    "url": "/wk-voetbal/6242876/messi-zorgt-met-goal-in-finale-voor-unicum-en-pakt-record-van-meeste-wk-duels.html",
     "open_new_window": false,
     "partner": null
   },
   {
     "id": 6242888,
-    "slug": "tweevoudig-wereldkampioen-lewis-strandt-al-in-openingsronde-wk-darts",
+    "slug": "tweevoudig-wereldkampioen-lewis-strandt-al-in-tweede-ronde-wk-darts",
     "type": "article",
-    "title": "Tweevoudig wereldkampioen Lewis strandt al in openingsronde WK darts",
+    "title": "Tweevoudig wereldkampioen Lewis strandt al in tweede ronde WK darts",
     "subtitle": null,
     "published_at": "2022-12-18T15:53:24+01:00",
-    "updated_at": "2022-12-18T15:53:25+01:00",
+    "updated_at": "2022-12-18T16:13:06+01:00",
     "media_id": "p8yxzb1a8agr",
     "duration": null,
     "canonical_section": {
@@ -41,7 +110,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/darts/6242888/tweevoudig-wereldkampioen-lewis-strandt-al-in-openingsronde-wk-darts.html",
+    "url": "/darts/6242888/tweevoudig-wereldkampioen-lewis-strandt-al-in-tweede-ronde-wk-darts.html",
     "open_new_window": false,
     "partner": null
   },
@@ -420,7 +489,7 @@
     "title": "Van Kerkhof kent primeur met zege op 500 meter, Schulting sterkste op 1.000 meter",
     "subtitle": null,
     "published_at": "2022-12-18T11:15:50+01:00",
-    "updated_at": "2022-12-18T15:27:33+01:00",
+    "updated_at": "2022-12-18T16:12:50+01:00",
     "media_id": "ig8xrn5a8lby",
     "duration": null,
     "canonical_section": {
@@ -617,75 +686,6 @@
       "partner": null
     },
     "url": "/buitenland/6242839/nederlands-bedrijf-betrokken-bij-dambreuk-brazilie-waarbij-272-doden-vielen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6242833,
-    "slug": "aftellen-tot-finale-argentinie-tegen-frankrijk",
-    "type": "article",
-    "title": "Aftellen tot finale Argentinië tegen Frankrijk",
-    "subtitle": "Liveblog WK",
-    "published_at": "2022-12-18T08:15:40+01:00",
-    "updated_at": "2022-12-18T15:55:35+01:00",
-    "media_id": "scxxd4xaacv1",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772307,
-      "slug": "wk-voetbal",
-      "type": "files",
-      "name": "WK voetbal",
-      "style": "nusport",
-      "media_id": "m1mxoqoan7eu",
-      "partner": null
-    },
-    "url": "/wk-voetbal/6242833/aftellen-tot-finale-argentinie-tegen-frankrijk.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6242601,
-    "slug": "stelling-argentinie-wordt-vandaag-wereldkampioen-voetbal",
-    "type": "article",
-    "title": "Stelling: Argentinië wordt vandaag wereldkampioen voetbal",
-    "subtitle": null,
-    "published_at": "2022-12-18T08:01:13+01:00",
-    "updated_at": "2022-12-18T08:01:24+01:00",
-    "media_id": "4dlxi0jasel5",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779134,
-      "slug": "stelling",
-      "type": "default",
-      "name": "Stelling",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/stelling/6242601/stelling-argentinie-wordt-vandaag-wereldkampioen-voetbal.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6242668,
-    "slug": "we-zien-er-anders-uit-dat-is-goed-voor-onze-journalistiek",
-    "type": "article",
-    "title": "We zien er anders uit, dat is goed voor onze journalistiek",
-    "subtitle": "Van de hoofdredactie",
-    "published_at": "2022-12-18T07:56:03+01:00",
-    "updated_at": "2022-12-18T09:08:56+01:00",
-    "media_id": "3gvx52waxj62",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772069,
-      "slug": "blog",
-      "type": "default",
-      "name": "Van de hoofdredactie",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/blog/6242668/we-zien-er-anders-uit-dat-is-goed-voor-onze-journalistiek.html",
     "open_new_window": false,
     "partner": null
   }
