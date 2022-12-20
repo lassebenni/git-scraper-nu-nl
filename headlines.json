@@ -1,12 +1,81 @@
 [
   {
+    "id": 6243325,
+    "slug": "politie-deelt-beelden-van-megavondst-vuurwerk-bij-duitse-grens",
+    "type": "video",
+    "title": "Politie deelt beelden van megavondst vuurwerk bij Duitse grens",
+    "subtitle": "Video",
+    "published_at": "2022-12-20T20:48:43+01:00",
+    "updated_at": "2022-12-20T20:48:45+01:00",
+    "media_id": "9utxu3oa2hca",
+    "duration": "0:39",
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6243325/politie-deelt-beelden-van-megavondst-vuurwerk-bij-duitse-grens.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6243324,
+    "slug": "spelers-argentinie-en-marokko-feestelijk-onthaald-door-mensenmassa",
+    "type": "article",
+    "title": "Spelers Argentinië en Marokko feestelijk onthaald door mensenmassa",
+    "subtitle": "In beeld",
+    "published_at": "2022-12-20T20:46:29+01:00",
+    "updated_at": "2022-12-20T20:53:51+01:00",
+    "media_id": "lh5xmqpaqrh9",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6243324/spelers-argentinie-en-marokko-feestelijk-onthaald-door-mensenmassa.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6243318,
+    "slug": "twee-djs-glazen-huis-hebben-corona-drie-djs-maken-serious-request-in-isolatie-af",
+    "type": "article",
+    "title": "Twee dj's Glazen Huis hebben corona, drie dj's maken Serious Request in isolatie af",
+    "subtitle": null,
+    "published_at": "2022-12-20T20:04:16+01:00",
+    "updated_at": "2022-12-20T20:44:10+01:00",
+    "media_id": "n18x5mpav7xa",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771675,
+      "slug": "media",
+      "type": "default",
+      "name": "Media",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/media/6243318/twee-djs-glazen-huis-hebben-corona-drie-djs-maken-serious-request-in-isolatie-af.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6243317,
     "slug": "veelbesproken-kokcu-vindt-het-gek-dat-oranje-terugkrabbelde-in-onelove-kwestie",
     "type": "article",
     "title": "Veelbesproken Kökçü vindt het gek dat Oranje terugkrabbelde in OneLove-kwestie",
     "subtitle": null,
     "published_at": "2022-12-20T19:57:52+01:00",
-    "updated_at": "2022-12-20T19:59:55+01:00",
+    "updated_at": "2022-12-20T20:28:06+01:00",
     "media_id": "f6pxd8oaabmj",
     "duration": null,
     "canonical_section": {
@@ -47,12 +116,12 @@
   },
   {
     "id": 6243311,
-    "slug": "vrije-universiteit-vreest-datalek-door-diefstal-laptops-met-privacygegevens",
+    "slug": "vrije-universiteit-vreest-datalek-door-diefstal-van-laptops-met-persoonsgegevens",
     "type": "article",
-    "title": "Vrije Universiteit vreest datalek door diefstal laptops met privacygegevens",
+    "title": "Vrije Universiteit vreest datalek door diefstal van laptops met persoonsgegevens",
     "subtitle": null,
     "published_at": "2022-12-20T19:42:56+01:00",
-    "updated_at": "2022-12-20T19:42:57+01:00",
+    "updated_at": "2022-12-20T20:04:52+01:00",
     "media_id": "0olxgjxaulsu",
     "duration": null,
     "canonical_section": {
@@ -64,7 +133,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/tech/6243311/vrije-universiteit-vreest-datalek-door-diefstal-laptops-met-privacygegevens.html",
+    "url": "/tech/6243311/vrije-universiteit-vreest-datalek-door-diefstal-van-laptops-met-persoonsgegevens.html",
     "open_new_window": false,
     "partner": null
   },
@@ -167,7 +236,7 @@
     "title": "Taliban verklaren universiteiten verboden gebied voor Afghaanse vrouwen",
     "subtitle": null,
     "published_at": "2022-12-20T18:49:59+01:00",
-    "updated_at": "2022-12-20T18:50:01+01:00",
+    "updated_at": "2022-12-20T20:07:58+01:00",
     "media_id": "ec4xb1labsn5",
     "duration": null,
     "canonical_section": {
@@ -535,7 +604,7 @@
     "title": "Politie vindt kwart miljoen kilo aan vuurwerk van Nederlanders in Duitsland",
     "subtitle": null,
     "published_at": "2022-12-20T14:53:10+01:00",
-    "updated_at": "2022-12-20T14:53:11+01:00",
+    "updated_at": "2022-12-20T20:46:45+01:00",
     "media_id": "wsqxgh2arcog",
     "duration": null,
     "canonical_section": {
@@ -617,75 +686,6 @@
       "partner": null
     },
     "url": "/binnenland/6243240/vier-jaar-cel-voor-doodschieten-oud-profvoetballer-hoefdraad.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6243237,
-    "slug": "storing-treft-internetbankieren-en-app-van-de-rabobank",
-    "type": "article",
-    "title": "Storing treft internetbankieren en app van de Rabobank",
-    "subtitle": null,
-    "published_at": "2022-12-20T13:45:06+01:00",
-    "updated_at": "2022-12-20T15:13:58+01:00",
-    "media_id": "rt2x855abh6k",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771438,
-      "slug": "tech",
-      "type": "default",
-      "name": "Tech",
-      "style": "nutech",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/tech/6243237/storing-treft-internetbankieren-en-app-van-de-rabobank.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6243236,
-    "slug": "poetin-noemt-situatie-in-bezette-regios-heel-moeilijk-zelensky-bezoekt-bakhmut",
-    "type": "article",
-    "title": "Poetin noemt situatie in bezette regio's 'heel moeilijk', Zelensky bezoekt Bakhmut",
-    "subtitle": null,
-    "published_at": "2022-12-20T13:38:20+01:00",
-    "updated_at": "2022-12-20T18:41:08+01:00",
-    "media_id": "0myxk16a8clx",
-    "duration": null,
-    "canonical_section": {
-      "id": 1778980,
-      "slug": "spanningen-oekraine",
-      "type": "default",
-      "name": "Oorlog in Oekraïne",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/spanningen-oekraine/6243236/poetin-noemt-situatie-in-bezette-regios-heel-moeilijk-zelensky-bezoekt-bakhmut.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6243234,
-    "slug": "lichamen-van-vier-opvarenden-thais-schip-geborgen-ook-overlevenden-gevonden",
-    "type": "article",
-    "title": "Lichamen van vier opvarenden Thais schip geborgen, ook overlevenden gevonden",
-    "subtitle": null,
-    "published_at": "2022-12-20T13:29:22+01:00",
-    "updated_at": "2022-12-20T13:29:23+01:00",
-    "media_id": "ukqxtmhaqsn2",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6243234/lichamen-van-vier-opvarenden-thais-schip-geborgen-ook-overlevenden-gevonden.html",
     "open_new_window": false,
     "partner": null
   }
