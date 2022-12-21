@@ -1,12 +1,104 @@
 [
   {
-    "id": 6243364,
-    "slug": "3m-van-de-post-it-en-mondkapjes-stopt-met-eeuwige-chemicalien",
+    "id": 6243379,
+    "slug": "praat-mee-over-vrij-zijn-tijdens-religieuze-feestdagen",
     "type": "article",
-    "title": "3M van de Post-it en mondkapjes stopt met eeuwige chemicaliën",
+    "title": "Praat mee over vrij zijn tijdens religieuze feestdagen",
+    "subtitle": null,
+    "published_at": "2022-12-21T09:00:22+01:00",
+    "updated_at": "2022-12-21T09:00:23+01:00",
+    "media_id": "jn5xs1kabgyt",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779134,
+      "slug": "stelling",
+      "type": "default",
+      "name": "Stelling",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/stelling/6243379/praat-mee-over-vrij-zijn-tijdens-religieuze-feestdagen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6243377,
+    "slug": "risicos-bij-gebruik-slaapapneuapparaat-volgens-philips-zeer-klein",
+    "type": "article",
+    "title": "Risico's bij gebruik slaapapneuapparaat volgens Philips 'zeer klein'",
+    "subtitle": null,
+    "published_at": "2022-12-21T09:00:15+01:00",
+    "updated_at": "2022-12-21T09:00:16+01:00",
+    "media_id": "k14xxada60i8",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6243377/risicos-bij-gebruik-slaapapneuapparaat-volgens-philips-zeer-klein.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6243371,
+    "slug": "vervolg-op-black-adam-met-dwayne-johnson-voorlopig-van-de-baan",
+    "type": "article",
+    "title": "Vervolg op Black Adam met Dwayne Johnson voorlopig van de baan",
+    "subtitle": null,
+    "published_at": "2022-12-21T08:59:50+01:00",
+    "updated_at": "2022-12-21T08:59:51+01:00",
+    "media_id": "0clxbniafcel",
+    "duration": null,
+    "canonical_section": {
+      "id": 127,
+      "slug": "film",
+      "type": "default",
+      "name": "Films & Series",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/film/6243371/vervolg-op-black-adam-met-dwayne-johnson-voorlopig-van-de-baan.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6243369,
+    "slug": "hulpdiensten-uitgerukt-voor-dodelijke-schietpartij-in-brunssum",
+    "type": "video",
+    "title": "Hulpdiensten uitgerukt voor dodelijke schietpartij in Brunssum",
+    "subtitle": "Video",
+    "published_at": "2022-12-21T08:12:30+01:00",
+    "updated_at": "2022-12-21T08:12:31+01:00",
+    "media_id": "yphx5k7a4s6q",
+    "duration": "0:29",
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6243369/hulpdiensten-uitgerukt-voor-dodelijke-schietpartij-in-brunssum.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6243364,
+    "slug": "3m-van-de-post-it-en-mondkapjes-stopt-met-moeilijk-afbreekbare-chemicalien",
+    "type": "article",
+    "title": "3M van de Post-it en mondkapjes stopt met moeilijk afbreekbare chemicaliën",
     "subtitle": null,
     "published_at": "2022-12-21T07:39:32+01:00",
-    "updated_at": "2022-12-21T07:39:33+01:00",
+    "updated_at": "2022-12-21T08:52:59+01:00",
     "media_id": "3zbx2msab45p",
     "duration": null,
     "canonical_section": {
@@ -18,7 +110,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/economie/6243364/3m-van-de-post-it-en-mondkapjes-stopt-met-eeuwige-chemicalien.html",
+    "url": "/economie/6243364/3m-van-de-post-it-en-mondkapjes-stopt-met-moeilijk-afbreekbare-chemicalien.html",
     "open_new_window": false,
     "partner": null
   },
@@ -52,7 +144,7 @@
     "title": "Feestdagen vallen iets gunstiger, volgend jaar wordt een 'werknemersparadijs'",
     "subtitle": null,
     "published_at": "2022-12-21T07:07:20+01:00",
-    "updated_at": "2022-12-21T07:21:43+01:00",
+    "updated_at": "2022-12-21T08:50:42+01:00",
     "media_id": "3uoxv1za6lq4",
     "duration": null,
     "canonical_section": {
@@ -98,7 +190,7 @@
     "title": "Amerikaanse waakhond plaatst Twitter onder verscherpt toezicht",
     "subtitle": null,
     "published_at": "2022-12-21T06:57:49+01:00",
-    "updated_at": "2022-12-21T06:57:51+01:00",
+    "updated_at": "2022-12-21T08:13:58+01:00",
     "media_id": "1tkxzscahlmw",
     "duration": null,
     "canonical_section": {
@@ -121,7 +213,7 @@
     "title": "Rapper Donnie maakt debuut als tv-presentator bij SBS6",
     "subtitle": null,
     "published_at": "2022-12-21T06:40:26+01:00",
-    "updated_at": "2022-12-21T06:40:27+01:00",
+    "updated_at": "2022-12-21T08:33:42+01:00",
     "media_id": "yk6xo9ia5fr2",
     "duration": null,
     "canonical_section": {
@@ -236,7 +328,7 @@
     "title": "Dikke laag stof doet Marslander de das om: dit heeft het vaartuig allemaal ontdekt",
     "subtitle": null,
     "published_at": "2022-12-21T05:33:01+01:00",
-    "updated_at": "2022-12-21T05:33:02+01:00",
+    "updated_at": "2022-12-21T08:51:27+01:00",
     "media_id": "bh6x9osapk7a",
     "duration": null,
     "canonical_section": {
@@ -374,7 +466,7 @@
     "title": "Dode en drie gewonden na schietpartij in woning in Brunssum",
     "subtitle": null,
     "published_at": "2022-12-21T00:38:12+01:00",
-    "updated_at": "2022-12-21T07:11:59+01:00",
+    "updated_at": "2022-12-21T08:15:56+01:00",
     "media_id": "o7uxerhabz4x",
     "duration": null,
     "canonical_section": {
@@ -594,98 +686,6 @@
       "partner": null
     },
     "url": "/voetbal/6243339/zeker-achttien-gewonden-bij-volksfeest-in-buenos-aires-na-wk-winst.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6243338,
-    "slug": "trein-botst-tegen-vrachtwagen-met-pech-in-belgie",
-    "type": "video",
-    "title": "Trein botst tegen vrachtwagen met pech in België",
-    "subtitle": "Video",
-    "published_at": "2022-12-20T22:31:03+01:00",
-    "updated_at": "2022-12-20T22:31:05+01:00",
-    "media_id": "642xqlyamobw",
-    "duration": "0:45",
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6243338/trein-botst-tegen-vrachtwagen-met-pech-in-belgie.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6243336,
-    "slug": "van-barneveld-niet-fit-voor-eerste-partij-op-wk-zat-continu-op-het-toilet",
-    "type": "article",
-    "title": "Van Barneveld niet fit voor eerste partij op WK: 'Zat continu op het toilet'",
-    "subtitle": null,
-    "published_at": "2022-12-20T22:04:00+01:00",
-    "updated_at": "2022-12-20T22:49:00+01:00",
-    "media_id": "lv3xh6oa2ane",
-    "duration": null,
-    "canonical_section": {
-      "id": 1777376,
-      "slug": "darts",
-      "type": "default",
-      "name": "Darts",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/darts/6243336/van-barneveld-niet-fit-voor-eerste-partij-op-wk-zat-continu-op-het-toilet.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6243335,
-    "slug": "marokko-onthaalt-voetballers-als-helden-na-historisch-wk",
-    "type": "video",
-    "title": "Marokko onthaalt voetballers als helden na historisch WK",
-    "subtitle": "Video",
-    "published_at": "2022-12-20T21:57:14+01:00",
-    "updated_at": "2022-12-20T22:02:46+01:00",
-    "media_id": "izdxr4oalh1t",
-    "duration": "0:51",
-    "canonical_section": {
-      "id": 1772307,
-      "slug": "wk-voetbal",
-      "type": "files",
-      "name": "WK voetbal",
-      "style": "nusport",
-      "media_id": "m1mxoqoan7eu",
-      "partner": null
-    },
-    "url": "/wk-voetbal/6243335/marokko-onthaalt-voetballers-als-helden-na-historisch-wk.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6243334,
-    "slug": "auto-belandt-half-in-brandweerkazerne-na-botsing-in-zoetermeer",
-    "type": "video",
-    "title": "Auto belandt half in brandweerkazerne na botsing in Zoetermeer",
-    "subtitle": "Video",
-    "published_at": "2022-12-20T21:50:51+01:00",
-    "updated_at": "2022-12-20T21:56:05+01:00",
-    "media_id": "q37xxpvazcab",
-    "duration": "0:33",
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6243334/auto-belandt-half-in-brandweerkazerne-na-botsing-in-zoetermeer.html",
     "open_new_window": false,
     "partner": null
   }
