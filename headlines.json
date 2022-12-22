@@ -1,12 +1,81 @@
 [
   {
+    "id": 6243596,
+    "slug": "van-gerwen-begint-wk-darts-met-overtuigende-zege",
+    "type": "video",
+    "title": "Van Gerwen begint WK darts met overtuigende zege",
+    "subtitle": "Video",
+    "published_at": "2022-12-22T06:51:30+01:00",
+    "updated_at": "2022-12-22T06:51:31+01:00",
+    "media_id": "qhoxrygavw45",
+    "duration": "1:02",
+    "canonical_section": {
+      "id": 1777376,
+      "slug": "darts",
+      "type": "default",
+      "name": "Darts",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/darts/6243596/van-gerwen-begint-wk-darts-met-overtuigende-zege.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6243595,
+    "slug": "ontkerkelijking-zet-door-zes-op-de-tien-nederlanders-zeggen-niet-religieus-te-zijn",
+    "type": "article",
+    "title": "Ontkerkelijking zet door: zes op de tien Nederlanders zeggen niet religieus te zijn",
+    "subtitle": null,
+    "published_at": "2022-12-22T06:36:29+01:00",
+    "updated_at": "2022-12-22T06:57:22+01:00",
+    "media_id": "ek1xvkrancnw",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6243595/ontkerkelijking-zet-door-zes-op-de-tien-nederlanders-zeggen-niet-religieus-te-zijn.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6243594,
+    "slug": "frank-lammers-volgend-jaar-te-zien-als-kerstman-in-nieuwe-ziggo-dome-show",
+    "type": "article",
+    "title": "Frank Lammers volgend jaar te zien als kerstman in nieuwe Ziggo Dome-show",
+    "subtitle": null,
+    "published_at": "2022-12-22T06:34:22+01:00",
+    "updated_at": "2022-12-22T06:34:23+01:00",
+    "media_id": "kxyxxaca6857",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772075,
+      "slug": "cultuur-overig",
+      "type": "default",
+      "name": "Boek & Cultuur",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/cultuur-overig/6243594/frank-lammers-volgend-jaar-te-zien-als-kerstman-in-nieuwe-ziggo-dome-show.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6243503,
     "slug": "eva-kaili-die-van-die-sporttas-vol-cash-voor-de-rechter-in-eu-corruptiezaak",
     "type": "article",
     "title": "Eva Kaili (die van die sporttas vol cash) voor de rechter in EU-corruptiezaak",
     "subtitle": null,
     "published_at": "2022-12-22T05:53:49+01:00",
-    "updated_at": "2022-12-22T05:53:50+01:00",
+    "updated_at": "2022-12-22T06:58:29+01:00",
     "media_id": "iujxd2eary37",
     "duration": null,
     "canonical_section": {
@@ -121,7 +190,7 @@
     "title": "Bijna 140 nieuwe aanvragen vergoeding voor nazaten geëxecuteerde Indonesiërs",
     "subtitle": null,
     "published_at": "2022-12-22T05:26:07+01:00",
-    "updated_at": "2022-12-22T05:26:08+01:00",
+    "updated_at": "2022-12-22T06:57:09+01:00",
     "media_id": "v3exkswadh9p",
     "duration": null,
     "canonical_section": {
@@ -208,12 +277,12 @@
   },
   {
     "id": 6243591,
-    "slug": "netanyahu-kondigt-nieuwe-regering-voor-israel-aan",
+    "slug": "netanyahu-kondigt-op-valreep-toch-nog-nieuwe-israelische-regering-aan",
     "type": "article",
-    "title": "Netanyahu kondigt nieuwe regering voor Israël aan",
+    "title": "Netanyahu kondigt op valreep toch nog nieuwe Israëlische regering aan",
     "subtitle": null,
     "published_at": "2022-12-22T00:57:23+01:00",
-    "updated_at": "2022-12-22T01:51:35+01:00",
+    "updated_at": "2022-12-22T06:49:02+01:00",
     "media_id": "fv7x4ckajyg8",
     "duration": null,
     "canonical_section": {
@@ -225,19 +294,19 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/buitenland/6243591/netanyahu-kondigt-nieuwe-regering-voor-israel-aan.html",
+    "url": "/buitenland/6243591/netanyahu-kondigt-op-valreep-toch-nog-nieuwe-israelische-regering-aan.html",
     "open_new_window": false,
     "partner": null
   },
   {
     "id": 6243590,
-    "slug": "giel-beelen-wint-marconi-oeuvre-award",
+    "slug": "giel-beelen-wint-marconi-oeuvre-award-voor-zijn-carriere-monstertalent",
     "type": "article",
-    "title": "Giel Beelen wint Marconi Oeuvre Award",
+    "title": "Giel Beelen wint Marconi Oeuvre Award voor zijn carrière: 'Monstertalent'",
     "subtitle": null,
     "published_at": "2022-12-22T00:34:02+01:00",
-    "updated_at": "2022-12-22T00:34:03+01:00",
-    "media_id": "b8lxhdpa6kpc",
+    "updated_at": "2022-12-22T06:42:27+01:00",
+    "media_id": "zdkxkabat8ms",
     "duration": null,
     "canonical_section": {
       "id": 1771675,
@@ -248,18 +317,18 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/media/6243590/giel-beelen-wint-marconi-oeuvre-award.html",
+    "url": "/media/6243590/giel-beelen-wint-marconi-oeuvre-award-voor-zijn-carriere-monstertalent.html",
     "open_new_window": false,
     "partner": null
   },
   {
     "id": 6243589,
-    "slug": "biden-belooft-blijvende-steun-aan-stalen-ruggengraat-oekraine",
+    "slug": "vs-belooft-blijvende-steun-aan-stalen-ruggengraat-oekraine",
     "type": "article",
-    "title": "Biden belooft blijvende steun aan 'stalen ruggengraat' Oekraïne",
+    "title": "VS belooft blijvende steun aan 'stalen ruggengraat' Oekraïne",
     "subtitle": null,
     "published_at": "2022-12-22T00:14:22+01:00",
-    "updated_at": "2022-12-22T03:00:38+01:00",
+    "updated_at": "2022-12-22T06:48:41+01:00",
     "media_id": "hiyx3tsas9vi",
     "duration": null,
     "canonical_section": {
@@ -271,7 +340,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/spanningen-oekraine/6243589/biden-belooft-blijvende-steun-aan-stalen-ruggengraat-oekraine.html",
+    "url": "/spanningen-oekraine/6243589/vs-belooft-blijvende-steun-aan-stalen-ruggengraat-oekraine.html",
     "open_new_window": false,
     "partner": null
   },
@@ -305,7 +374,7 @@
     "title": "Van Gerwen geeft signaal af met sterke start op WK: 'Ze weten nu dat ik er ben'",
     "subtitle": null,
     "published_at": "2022-12-21T23:54:31+01:00",
-    "updated_at": "2022-12-22T01:54:22+01:00",
+    "updated_at": "2022-12-22T06:53:14+01:00",
     "media_id": "yvixtilak2bc",
     "duration": null,
     "canonical_section": {
@@ -374,7 +443,7 @@
     "title": "Topfavoriet Van Gerwen boekt indrukwekkende zege in openingspartij op WK darts",
     "subtitle": null,
     "published_at": "2022-12-21T22:55:26+01:00",
-    "updated_at": "2022-12-21T23:41:06+01:00",
+    "updated_at": "2022-12-22T06:53:36+01:00",
     "media_id": "o0fxrw5a9eut",
     "duration": null,
     "canonical_section": {
@@ -617,75 +686,6 @@
       "partner": null
     },
     "url": "/buitenland/6243576/bij-deze-argentijnen-ging-het-mis-tijdens-de-wk-huldiging.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6243573,
-    "slug": "van-de-donk-schakelt-beerensteyn-uit-in-champions-league-arsenal-wint-met-9-1",
-    "type": "article",
-    "title": "Van de Donk schakelt Beerensteyn uit in Champions League, Arsenal wint met 9-1",
-    "subtitle": null,
-    "published_at": "2022-12-21T20:51:52+01:00",
-    "updated_at": "2022-12-21T21:05:45+01:00",
-    "media_id": "0bpx2mta4ycr",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6243573/van-de-donk-schakelt-beerensteyn-uit-in-champions-league-arsenal-wint-met-9-1.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6243570,
-    "slug": "messi-lijkt-zijn-contract-bij-psg-te-gaan-verlengen-na-gewonnen-wk",
-    "type": "article",
-    "title": "Messi lijkt zijn contract bij PSG te gaan verlengen na gewonnen WK",
-    "subtitle": null,
-    "published_at": "2022-12-21T20:21:08+01:00",
-    "updated_at": "2022-12-21T20:29:36+01:00",
-    "media_id": "l3ax4llavy06",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6243570/messi-lijkt-zijn-contract-bij-psg-te-gaan-verlengen-na-gewonnen-wk.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6243569,
-    "slug": "veroordeelde-man-in-beuningse-vergismoord-knipt-enkelband-door-en-vlucht",
-    "type": "article",
-    "title": "Veroordeelde man in Beuningse vergismoord knipt enkelband door en vlucht",
-    "subtitle": null,
-    "published_at": "2022-12-21T20:12:08+01:00",
-    "updated_at": "2022-12-22T01:50:42+01:00",
-    "media_id": "t41xvpdayo0p",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6243569/veroordeelde-man-in-beuningse-vergismoord-knipt-enkelband-door-en-vlucht.html",
     "open_new_window": false,
     "partner": null
   }
