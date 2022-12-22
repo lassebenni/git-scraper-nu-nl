@@ -1,12 +1,127 @@
 [
   {
+    "id": 6243614,
+    "slug": "silly-walk-uit-monty-python-is-volgens-onderzoekers-heel-goed-voor-je-fitheid",
+    "type": "article",
+    "title": "'Silly walk' uit Monty Python is volgens onderzoekers heel goed voor je fitheid",
+    "subtitle": null,
+    "published_at": "2022-12-22T07:57:22+01:00",
+    "updated_at": "2022-12-22T07:57:23+01:00",
+    "media_id": "00txbayazrym",
+    "duration": null,
+    "canonical_section": {
+      "id": 478878,
+      "slug": "wetenschap",
+      "type": "default",
+      "name": "Wetenschap",
+      "style": "nunjij",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/wetenschap/6243614/silly-walk-uit-monty-python-is-volgens-onderzoekers-heel-goed-voor-je-fitheid.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6243613,
+    "slug": "zelensky-voor-amerikaans-congres-zorgen-samen-voor-vrijheid",
+    "type": "video",
+    "title": "Zelensky voor Amerikaans Congres: ‘Zorgen samen voor vrijheid’",
+    "subtitle": "Video",
+    "published_at": "2022-12-22T07:56:03+01:00",
+    "updated_at": "2022-12-22T07:56:04+01:00",
+    "media_id": "k7nx4g9a13a8",
+    "duration": "1:17",
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6243613/zelensky-voor-amerikaans-congres-zorgen-samen-voor-vrijheid.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6243609,
+    "slug": "braziliaanse-voetbalicoon-pele-brengt-kerstmis-met-familie-in-ziekenhuis-door",
+    "type": "article",
+    "title": "Braziliaanse voetbalicoon Pelé brengt Kerstmis met familie in ziekenhuis door",
+    "subtitle": null,
+    "published_at": "2022-12-22T07:42:22+01:00",
+    "updated_at": "2022-12-22T07:42:23+01:00",
+    "media_id": "zjbx29jayvj6",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6243609/braziliaanse-voetbalicoon-pele-brengt-kerstmis-met-familie-in-ziekenhuis-door.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6243610,
+    "slug": "nasa-krijgt-geen-contact-meer-met-marslander-missie-definitief-beeindigd",
+    "type": "article",
+    "title": "NASA krijgt geen contact meer met Marslander: missie definitief beëindigd",
+    "subtitle": null,
+    "published_at": "2022-12-22T07:42:04+01:00",
+    "updated_at": "2022-12-22T07:56:16+01:00",
+    "media_id": "j1wx8iva2oyx",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771438,
+      "slug": "tech",
+      "type": "default",
+      "name": "Tech",
+      "style": "nutech",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/tech/6243610/nasa-krijgt-geen-contact-meer-met-marslander-missie-definitief-beeindigd.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6243601,
+    "slug": "weghorst-blikt-terug-op-akkefietje-met-messi-hij-kent-nu-wel-mijn-naam",
+    "type": "article",
+    "title": "Weghorst blikt terug op akkefietje met Messi: 'Hij kent nu wel mijn naam'",
+    "subtitle": null,
+    "published_at": "2022-12-22T07:20:51+01:00",
+    "updated_at": "2022-12-22T07:54:14+01:00",
+    "media_id": "2e0xwdyals8y",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6243601/weghorst-blikt-terug-op-akkefietje-met-messi-hij-kent-nu-wel-mijn-naam.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6243596,
     "slug": "van-gerwen-begint-wk-darts-met-overtuigende-zege",
     "type": "video",
     "title": "Van Gerwen begint WK darts met overtuigende zege",
     "subtitle": "Video",
     "published_at": "2022-12-22T06:51:30+01:00",
-    "updated_at": "2022-12-22T06:51:31+01:00",
+    "updated_at": "2022-12-22T07:54:27+01:00",
     "media_id": "qhoxrygavw45",
     "duration": "1:02",
     "canonical_section": {
@@ -190,7 +305,7 @@
     "title": "Bijna 140 nieuwe aanvragen vergoeding voor nazaten geëxecuteerde Indonesiërs",
     "subtitle": null,
     "published_at": "2022-12-22T05:26:07+01:00",
-    "updated_at": "2022-12-22T06:57:09+01:00",
+    "updated_at": "2022-12-22T07:48:08+01:00",
     "media_id": "v3exkswadh9p",
     "duration": null,
     "canonical_section": {
@@ -213,7 +328,7 @@
     "title": "Weerbericht: Veel bewolking en regen, in de middag lokaal kans op wat zon",
     "subtitle": null,
     "published_at": "2022-12-22T05:23:53+01:00",
-    "updated_at": "2022-12-22T05:23:54+01:00",
+    "updated_at": "2022-12-22T07:41:29+01:00",
     "media_id": "u3dxps2awugg",
     "duration": null,
     "canonical_section": {
@@ -259,7 +374,7 @@
     "title": "Nieuwe pensioenwet zit nog vol onduidelijkheden",
     "subtitle": null,
     "published_at": "2022-12-22T04:59:08+01:00",
-    "updated_at": "2022-12-22T04:59:10+01:00",
+    "updated_at": "2022-12-22T07:31:47+01:00",
     "media_id": "522xtn4an8kj",
     "duration": null,
     "canonical_section": {
@@ -277,12 +392,12 @@
   },
   {
     "id": 6243591,
-    "slug": "netanyahu-kondigt-op-valreep-toch-nog-nieuwe-israelische-regering-aan",
+    "slug": "netanyahu-kondigt-op-valreep-meest-rechtse-israelische-regering-ooit-aan",
     "type": "article",
-    "title": "Netanyahu kondigt op valreep toch nog nieuwe Israëlische regering aan",
+    "title": "Netanyahu kondigt op valreep meest rechtse Israëlische regering ooit aan",
     "subtitle": null,
     "published_at": "2022-12-22T00:57:23+01:00",
-    "updated_at": "2022-12-22T06:49:02+01:00",
+    "updated_at": "2022-12-22T07:30:54+01:00",
     "media_id": "fv7x4ckajyg8",
     "duration": null,
     "canonical_section": {
@@ -294,7 +409,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/buitenland/6243591/netanyahu-kondigt-op-valreep-toch-nog-nieuwe-israelische-regering-aan.html",
+    "url": "/buitenland/6243591/netanyahu-kondigt-op-valreep-meest-rechtse-israelische-regering-ooit-aan.html",
     "open_new_window": false,
     "partner": null
   },
@@ -323,12 +438,12 @@
   },
   {
     "id": 6243589,
-    "slug": "vs-belooft-blijvende-steun-aan-stalen-ruggengraat-oekraine",
+    "slug": "vs-belooft-oekraine-blijvende-steun-zelensky-maakt-vergelijking-met-1944",
     "type": "article",
-    "title": "VS belooft blijvende steun aan 'stalen ruggengraat' Oekraïne",
+    "title": "VS belooft Oekraïne blijvende steun, Zelensky maakt vergelijking met 1944",
     "subtitle": null,
     "published_at": "2022-12-22T00:14:22+01:00",
-    "updated_at": "2022-12-22T06:48:41+01:00",
+    "updated_at": "2022-12-22T08:01:17+01:00",
     "media_id": "hiyx3tsas9vi",
     "duration": null,
     "canonical_section": {
@@ -340,7 +455,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/spanningen-oekraine/6243589/vs-belooft-blijvende-steun-aan-stalen-ruggengraat-oekraine.html",
+    "url": "/spanningen-oekraine/6243589/vs-belooft-oekraine-blijvende-steun-zelensky-maakt-vergelijking-met-1944.html",
     "open_new_window": false,
     "partner": null
   },
@@ -374,7 +489,7 @@
     "title": "Van Gerwen geeft signaal af met sterke start op WK: 'Ze weten nu dat ik er ben'",
     "subtitle": null,
     "published_at": "2022-12-21T23:54:31+01:00",
-    "updated_at": "2022-12-22T06:53:14+01:00",
+    "updated_at": "2022-12-22T07:54:11+01:00",
     "media_id": "yvixtilak2bc",
     "duration": null,
     "canonical_section": {
@@ -571,121 +686,6 @@
       "partner": null
     },
     "url": "/buitenland/6243580/bagagewagen-zit-vast-in-de-sneeuw-op-canadees-vliegveld.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6243530,
-    "slug": "verstappen-en-schouten-verkozen-tot-sportman-en-sportvrouw-van-het-jaar",
-    "type": "article",
-    "title": "Verstappen en Schouten verkozen tot Sportman en Sportvrouw van het Jaar",
-    "subtitle": null,
-    "published_at": "2022-12-21T21:53:39+01:00",
-    "updated_at": "2022-12-22T01:40:07+01:00",
-    "media_id": "kq0xa1caxn4u",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772456,
-      "slug": "sport-overig",
-      "type": "default",
-      "name": "Sport Overig",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/sport-overig/6243530/verstappen-en-schouten-verkozen-tot-sportman-en-sportvrouw-van-het-jaar.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6243579,
-    "slug": "treffer-noa-lang-baat-club-brugge-niet-weghorst-scoort-voor-besiktas",
-    "type": "article",
-    "title": "Treffer Noa Lang baat Club Brugge niet, Weghorst scoort voor Besiktas",
-    "subtitle": null,
-    "published_at": "2022-12-21T21:51:24+01:00",
-    "updated_at": "2022-12-21T22:13:41+01:00",
-    "media_id": "ha8xyaia2qhy",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6243579/treffer-noa-lang-baat-club-brugge-niet-weghorst-scoort-voor-besiktas.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6243481,
-    "slug": "adviesraad-voor-grip-op-migratie-moet-kabinet-focussen-op-arbeidsmigranten",
-    "type": "article",
-    "title": "Adviesraad: Voor grip op migratie moet kabinet focussen op arbeidsmigranten",
-    "subtitle": null,
-    "published_at": "2022-12-21T21:30:38+01:00",
-    "updated_at": "2022-12-21T21:30:40+01:00",
-    "media_id": "hdsxanaa47e0",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771437,
-      "slug": "politiek",
-      "type": "default",
-      "name": "Politiek",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/politiek/6243481/adviesraad-voor-grip-op-migratie-moet-kabinet-focussen-op-arbeidsmigranten.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6243578,
-    "slug": "knvb-voorzitter-spee-wil-na-herverkiezing-in-gesprek-met-fifa-over-onelove-rel",
-    "type": "article",
-    "title": "KNVB-voorzitter Spee wil na herverkiezing in gesprek met FIFA over OneLove-rel",
-    "subtitle": null,
-    "published_at": "2022-12-21T21:20:25+01:00",
-    "updated_at": "2022-12-21T21:30:06+01:00",
-    "media_id": "4opx1zuadg98",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6243578/knvb-voorzitter-spee-wil-na-herverkiezing-in-gesprek-met-fifa-over-onelove-rel.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6243576,
-    "slug": "bij-deze-argentijnen-ging-het-mis-tijdens-de-wk-huldiging",
-    "type": "video",
-    "title": "Bij deze Argentijnen ging het mis tijdens de WK-huldiging",
-    "subtitle": "Video",
-    "published_at": "2022-12-21T21:10:53+01:00",
-    "updated_at": "2022-12-21T21:11:56+01:00",
-    "media_id": "4p4xxxnagkg5",
-    "duration": "0:59",
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6243576/bij-deze-argentijnen-ging-het-mis-tijdens-de-wk-huldiging.html",
     "open_new_window": false,
     "partner": null
   }
