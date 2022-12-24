@@ -1,12 +1,35 @@
 [
   {
-    "id": 6244047,
-    "slug": "grote-stroomstoring-omgeving-haarlem-zeker-30000-huishoudens-zonder-stroom",
+    "id": 6244049,
+    "slug": "china-vermoedt-dat-37-miljoen-mensen-per-dag-corona-krijgen",
     "type": "article",
-    "title": "Grote stroomstoring omgeving Haarlem, zeker 30.000 huishoudens zonder stroom",
+    "title": "China vermoedt dat 37 miljoen mensen per dag corona krijgen",
+    "subtitle": null,
+    "published_at": "2022-12-24T04:27:25+01:00",
+    "updated_at": "2022-12-24T04:27:26+01:00",
+    "media_id": "hvnxw5kahutt",
+    "duration": null,
+    "canonical_section": {
+      "id": 1778528,
+      "slug": "coronavirus",
+      "type": "default",
+      "name": "Coronavirus",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/coronavirus/6244049/china-vermoedt-dat-37-miljoen-mensen-per-dag-corona-krijgen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6244047,
+    "slug": "grote-stroomstoring-in-de-omgeving-van-haarlem-verholpen",
+    "type": "article",
+    "title": "Grote stroomstoring in de omgeving van Haarlem verholpen",
     "subtitle": null,
     "published_at": "2022-12-24T01:15:32+01:00",
-    "updated_at": "2022-12-24T02:04:16+01:00",
+    "updated_at": "2022-12-24T04:55:10+01:00",
     "media_id": "qfvxz7kanft4",
     "duration": null,
     "canonical_section": {
@@ -18,7 +41,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/binnenland/6244047/grote-stroomstoring-omgeving-haarlem-zeker-30000-huishoudens-zonder-stroom.html",
+    "url": "/binnenland/6244047/grote-stroomstoring-in-de-omgeving-van-haarlem-verholpen.html",
     "open_new_window": false,
     "partner": null
   },
@@ -663,29 +686,6 @@
       "partner": null
     },
     "url": "/buitenland/6243988/kakkende-messi-populair-in-barcelona-tijdens-de-kerst.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6243745,
-    "slug": "kabinet-gaat-in-hoger-beroep-en-versoepelt-nareisbeleid-statushouders-niet",
-    "type": "article",
-    "title": "Kabinet gaat in hoger beroep en versoepelt nareisbeleid statushouders niet",
-    "subtitle": null,
-    "published_at": "2022-12-23T17:12:05+01:00",
-    "updated_at": "2022-12-23T19:02:48+01:00",
-    "media_id": "k7bxozlapo4c",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771437,
-      "slug": "politiek",
-      "type": "default",
-      "name": "Politiek",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/politiek/6243745/kabinet-gaat-in-hoger-beroep-en-versoepelt-nareisbeleid-statushouders-niet.html",
     "open_new_window": false,
     "partner": null
   }
