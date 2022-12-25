@@ -1,5 +1,28 @@
 [
   {
+    "id": 6244197,
+    "slug": "weekweerbericht-laatste-week-van-het-jaar-verloopt-zacht-en-wisselvallig",
+    "type": "article",
+    "title": "Weekweerbericht: Laatste week van het jaar verloopt zacht en wisselvallig",
+    "subtitle": null,
+    "published_at": "2022-12-25T14:56:11+01:00",
+    "updated_at": "2022-12-25T14:56:20+01:00",
+    "media_id": "flzxid8aho9r",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6244197/weekweerbericht-laatste-week-van-het-jaar-verloopt-zacht-en-wisselvallig.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6244189,
     "slug": "koning-doet-oproep-in-kersttoespraak-luister-denk-en-doe-mee",
     "type": "video",
@@ -29,7 +52,7 @@
     "title": "Lees hier de volledige kersttoespraak van koning Willem-Alexander terug",
     "subtitle": null,
     "published_at": "2022-12-25T13:35:30+01:00",
-    "updated_at": "2022-12-25T13:51:44+01:00",
+    "updated_at": "2022-12-25T14:21:43+01:00",
     "media_id": "jsgxeqgaaidt",
     "duration": null,
     "canonical_section": {
@@ -300,12 +323,12 @@
   },
   {
     "id": 6244152,
-    "slug": "vrouw-steelt-sneeuwpop-en-doet-kerstverlichting-uit-in-vs",
+    "slug": "vrouw-in-vs-steelt-sneeuwpop-en-doet-kerstverlichting-uit",
     "type": "video",
-    "title": "Vrouw steelt sneeuwpop en doet kerstverlichting uit in VS",
+    "title": "Vrouw in VS steelt sneeuwpop en doet kerstverlichting uit",
     "subtitle": "Video",
     "published_at": "2022-12-25T08:45:45+01:00",
-    "updated_at": "2022-12-25T10:22:40+01:00",
+    "updated_at": "2022-12-25T14:20:45+01:00",
     "media_id": "3rhxtpsahgfx",
     "duration": "0:37",
     "canonical_section": {
@@ -317,7 +340,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/buitenland/6244152/vrouw-steelt-sneeuwpop-en-doet-kerstverlichting-uit-in-vs.html",
+    "url": "/buitenland/6244152/vrouw-in-vs-steelt-sneeuwpop-en-doet-kerstverlichting-uit.html",
     "open_new_window": false,
     "partner": null
   },
@@ -663,29 +686,6 @@
       "partner": null
     },
     "url": "/binnenland/6244141/overvallers-bedreigen-gezin-met-vuurwapen-in-rotterdam-en-slaan-op-de-vlucht.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6244140,
-    "slug": "sportjournalist-baalt-dat-hij-verslag-moet-doen-van-sneeuwstorm-vs",
-    "type": "video",
-    "title": "Sportjournalist baalt dat hij verslag moet doen van sneeuwstorm VS",
-    "subtitle": "Video",
-    "published_at": "2022-12-24T22:35:16+01:00",
-    "updated_at": "2022-12-24T22:35:17+01:00",
-    "media_id": "rycxwotabtkl",
-    "duration": "1:01",
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6244140/sportjournalist-baalt-dat-hij-verslag-moet-doen-van-sneeuwstorm-vs.html",
     "open_new_window": false,
     "partner": null
   }
