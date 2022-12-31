@@ -1,5 +1,51 @@
 [
   {
+    "id": 6245213,
+    "slug": "na-twee-jaar-landelijk-vuurwerkverbod-knalt-nederland-ouderwets-2023-in",
+    "type": "article",
+    "title": "Na twee jaar landelijk vuurwerkverbod knalt Nederland 'ouderwets' 2023 in",
+    "subtitle": null,
+    "published_at": "2023-01-01T00:00:13+01:00",
+    "updated_at": "2023-01-01T00:00:29+01:00",
+    "media_id": "rr5xufsav2ut",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772236,
+      "slug": "jaarwisseling",
+      "type": "files",
+      "name": "Jaarwisseling",
+      "style": "nu",
+      "media_id": "m1oxc1gaswou",
+      "partner": null
+    },
+    "url": "/jaarwisseling/6245213/na-twee-jaar-landelijk-vuurwerkverbod-knalt-nederland-ouderwets-2023-in.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6245218,
+    "slug": "toch-veel-vuurwerk-in-centrum-amsterdam-ondanks-verbod",
+    "type": "video",
+    "title": "Toch veel vuurwerk in centrum Amsterdam ondanks verbod",
+    "subtitle": "Video",
+    "published_at": "2022-12-31T23:44:51+01:00",
+    "updated_at": "2022-12-31T23:47:32+01:00",
+    "media_id": "tz6x69tan12n",
+    "duration": "0:32",
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6245218/toch-veel-vuurwerk-in-centrum-amsterdam-ondanks-verbod.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6245212,
     "slug": "engelse-kustplaats-schrapt-vuurwerkshow-om-bezoekende-walrus-niet-te-storen",
     "type": "article",
@@ -640,52 +686,6 @@
       "partner": null
     },
     "url": "/voetbal/6245143/davy-propper-maakt-in-oefenduel-van-vitesse-eerste-minuten-sinds-comeback.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6245141,
-    "slug": "erik-van-loon-slaat-over-de-kop-in-proloog-dakar-rally-en-verliest-veel-tijd",
-    "type": "article",
-    "title": "Erik van Loon slaat over de kop in proloog Dakar Rally en verliest veel tijd",
-    "subtitle": null,
-    "published_at": "2022-12-31T13:33:41+01:00",
-    "updated_at": "2022-12-31T13:37:27+01:00",
-    "media_id": "lb0xzo3azim8",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772456,
-      "slug": "sport-overig",
-      "type": "default",
-      "name": "Sport Overig",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/sport-overig/6245141/erik-van-loon-slaat-over-de-kop-in-proloog-dakar-rally-en-verliest-veel-tijd.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6245139,
-    "slug": "europese-leiders-eren-benedictus-xvi-geschiedenis-zal-hem-niet-vergeten",
-    "type": "article",
-    "title": "Europese leiders eren Benedictus XVI: 'Geschiedenis zal hem niet vergeten'",
-    "subtitle": null,
-    "published_at": "2022-12-31T13:07:06+01:00",
-    "updated_at": "2022-12-31T14:41:20+01:00",
-    "media_id": "m1mxrara71y7",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6245139/europese-leiders-eren-benedictus-xvi-geschiedenis-zal-hem-niet-vergeten.html",
     "open_new_window": false,
     "partner": null
   }
