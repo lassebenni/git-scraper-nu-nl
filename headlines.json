@@ -1,12 +1,58 @@
 [
   {
+    "id": 6245222,
+    "slug": "nederland-luidt-2023-in-met-ouderwets-veel-vuurwerk-ook-in-steden-waar-dat-niet-mag",
+    "type": "article",
+    "title": "Nederland luidt 2023 in met 'ouderwets' veel vuurwerk, ook in steden waar dat niet mag",
+    "subtitle": null,
+    "published_at": "2023-01-01T00:46:47+01:00",
+    "updated_at": "2023-01-01T00:59:17+01:00",
+    "media_id": "u3yxrvoavxew",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772236,
+      "slug": "jaarwisseling",
+      "type": "files",
+      "name": "Jaarwisseling",
+      "style": "nu",
+      "media_id": "m1oxc1gaswou",
+      "partner": null
+    },
+    "url": "/jaarwisseling/6245222/nederland-luidt-2023-in-met-ouderwets-veel-vuurwerk-ook-in-steden-waar-dat-niet-mag.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6245221,
+    "slug": "zo-luidt-utrecht-het-nieuwe-jaar-in",
+    "type": "video",
+    "title": "Zo luidt Utrecht het nieuwe jaar in",
+    "subtitle": "Video",
+    "published_at": "2023-01-01T00:18:23+01:00",
+    "updated_at": "2023-01-01T00:26:38+01:00",
+    "media_id": "f3wxdesa7hvo",
+    "duration": "0:44",
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6245221/zo-luidt-utrecht-het-nieuwe-jaar-in.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6245213,
     "slug": "na-twee-jaar-landelijk-vuurwerkverbod-knalt-nederland-ouderwets-2023-in",
     "type": "article",
     "title": "Na twee jaar landelijk vuurwerkverbod knalt Nederland 'ouderwets' 2023 in",
     "subtitle": null,
     "published_at": "2023-01-01T00:00:13+01:00",
-    "updated_at": "2023-01-01T00:00:29+01:00",
+    "updated_at": "2023-01-01T00:25:39+01:00",
     "media_id": "rr5xufsav2ut",
     "duration": null,
     "canonical_section": {
@@ -29,7 +75,7 @@
     "title": "Toch veel vuurwerk in centrum Amsterdam ondanks verbod",
     "subtitle": "Video",
     "published_at": "2022-12-31T23:44:51+01:00",
-    "updated_at": "2022-12-31T23:47:32+01:00",
+    "updated_at": "2023-01-01T00:44:31+01:00",
     "media_id": "tz6x69tan12n",
     "duration": "0:32",
     "canonical_section": {
@@ -640,52 +686,6 @@
       "partner": null
     },
     "url": "/buitenland/6245148/nieuw-zeeland-en-australie-luiden-als-eerst-2023-in.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6245146,
-    "slug": "dit-zijn-de-best-bekeken-videos-uit-2022",
-    "type": "video",
-    "title": "Dit zijn de best bekeken video's uit 2022",
-    "subtitle": "Video",
-    "published_at": "2022-12-31T14:16:46+01:00",
-    "updated_at": "2022-12-31T14:49:15+01:00",
-    "media_id": "p20xzskacl6q",
-    "duration": "4:59",
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6245146/dit-zijn-de-best-bekeken-videos-uit-2022.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6245143,
-    "slug": "davy-propper-maakt-in-oefenduel-van-vitesse-eerste-minuten-sinds-comeback",
-    "type": "article",
-    "title": "Davy Pröpper maakt in oefenduel van Vitesse eerste minuten sinds comeback",
-    "subtitle": null,
-    "published_at": "2022-12-31T13:54:46+01:00",
-    "updated_at": "2022-12-31T14:32:46+01:00",
-    "media_id": "loexc3sapn6u",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6245143/davy-propper-maakt-in-oefenduel-van-vitesse-eerste-minuten-sinds-comeback.html",
     "open_new_window": false,
     "partner": null
   }
