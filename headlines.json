@@ -1,12 +1,58 @@
 [
   {
+    "id": 6245499,
+    "slug": "verdachte-moord-peter-r-de-vries-sprak-volgens-getuige-ook-over-ontvoeren-rutte",
+    "type": "article",
+    "title": "Verdachte moord Peter R. de Vries sprak volgens getuige ook over ontvoeren Rutte",
+    "subtitle": null,
+    "published_at": "2023-01-04T05:00:03+01:00",
+    "updated_at": "2023-01-04T05:00:05+01:00",
+    "media_id": "rs9xc0wa05qb",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6245499/verdachte-moord-peter-r-de-vries-sprak-volgens-getuige-ook-over-ontvoeren-rutte.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6245570,
+    "slug": "nederlandse-bevolking-groeide-in-2022-bijna-twee-keer-sneller-dan-een-jaar-eerder",
+    "type": "article",
+    "title": "Nederlandse bevolking groeide in 2022 bijna twee keer sneller dan een jaar eerder",
+    "subtitle": null,
+    "published_at": "2023-01-04T04:26:28+01:00",
+    "updated_at": "2023-01-04T04:29:25+01:00",
+    "media_id": "iwyxpmnahdqf",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6245570/nederlandse-bevolking-groeide-in-2022-bijna-twee-keer-sneller-dan-een-jaar-eerder.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6245569,
     "slug": "rusland-geeft-eigen-troepen-de-schuld-raketaanval-kwam-door-gebruik-mobieltjes",
     "type": "article",
-    "title": "Rusland geeft eigen troepen de schuld: 'Raketaanval kwam door gebruik mobieltjes'",
+    "title": "Rusland geeft eigen troepen de schuld: raketaanval kwam door gebruik mobieltjes",
     "subtitle": null,
     "published_at": "2023-01-04T03:30:28+01:00",
-    "updated_at": "2023-01-04T03:30:29+01:00",
+    "updated_at": "2023-01-04T04:51:23+01:00",
     "media_id": "xtaxkbnafcwa",
     "duration": null,
     "canonical_section": {
@@ -640,52 +686,6 @@
       "partner": null
     },
     "url": "/voetbal/6245539/pele-wordt-met-brandweerwagen-naar-laatste-rustplaats-gebracht.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6245538,
-    "slug": "duitse-arts-krijgt-33-maanden-cel-om-illegale-vrijstellingen-voor-mondkapjes",
-    "type": "article",
-    "title": "Duitse arts krijgt 33 maanden cel om illegale vrijstellingen voor mondkapjes",
-    "subtitle": null,
-    "published_at": "2023-01-03T17:08:17+01:00",
-    "updated_at": "2023-01-03T17:16:55+01:00",
-    "media_id": "dxlx8bca48ay",
-    "duration": null,
-    "canonical_section": {
-      "id": 1778528,
-      "slug": "coronavirus",
-      "type": "default",
-      "name": "Coronavirus",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/coronavirus/6245538/duitse-arts-krijgt-33-maanden-cel-om-illegale-vrijstellingen-voor-mondkapjes.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6245509,
-    "slug": "foute-nederlanders-na-wo-ii-mishandeld-in-strafkampen-stierven-van-uitputting",
-    "type": "article",
-    "title": "'Foute' Nederlanders na WO II mishandeld in strafkampen: 'Stierven van uitputting'",
-    "subtitle": null,
-    "published_at": "2023-01-03T17:01:02+01:00",
-    "updated_at": "2023-01-03T17:01:04+01:00",
-    "media_id": "j65x2gla6ffc",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6245509/foute-nederlanders-na-wo-ii-mishandeld-in-strafkampen-stierven-van-uitputting.html",
     "open_new_window": false,
     "partner": null
   }
