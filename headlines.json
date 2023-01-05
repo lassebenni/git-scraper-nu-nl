@@ -1,12 +1,81 @@
 [
   {
+    "id": 6245718,
+    "slug": "apple-krijgt-boete-van-8-miljoen-euro-vanwege-gepersonaliseerde-advertenties",
+    "type": "article",
+    "title": "Apple krijgt boete van 8 miljoen euro vanwege gepersonaliseerde advertenties",
+    "subtitle": null,
+    "published_at": "2023-01-05T08:57:30+01:00",
+    "updated_at": "2023-01-05T08:57:31+01:00",
+    "media_id": "u7px0jxauljn",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771438,
+      "slug": "tech",
+      "type": "default",
+      "name": "Tech",
+      "style": "nutech",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/tech/6245718/apple-krijgt-boete-van-8-miljoen-euro-vanwege-gepersonaliseerde-advertenties.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6245717,
+    "slug": "amerikanen-maken-zich-klaar-voor-winterstorm-we-zijn-bang",
+    "type": "video",
+    "title": "Amerikanen maken zich klaar voor winterstorm: ‘We zijn bang’",
+    "subtitle": "Video",
+    "published_at": "2023-01-05T08:51:54+01:00",
+    "updated_at": "2023-01-05T08:51:55+01:00",
+    "media_id": "ozqx64may08p",
+    "duration": "1:05",
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6245717/amerikanen-maken-zich-klaar-voor-winterstorm-we-zijn-bang.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6245714,
+    "slug": "djokovic-komt-met-schrik-vrij-in-achtste-finales-van-atp-toernooi-in-adelaide",
+    "type": "article",
+    "title": "Djokovic komt met schrik vrij in achtste finales van ATP-toernooi in Adelaide",
+    "subtitle": null,
+    "published_at": "2023-01-05T08:29:59+01:00",
+    "updated_at": "2023-01-05T08:36:59+01:00",
+    "media_id": "bamx58bay6dm",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772432,
+      "slug": "tennis",
+      "type": "default",
+      "name": "Tennis",
+      "style": "nusport",
+      "media_id": "m1oxohpan0gq",
+      "partner": null
+    },
+    "url": "/tennis/6245714/djokovic-komt-met-schrik-vrij-in-achtste-finales-van-atp-toernooi-in-adelaide.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6245710,
     "slug": "toestand-van-door-hartstilstand-getroffen-nfl-speler-hamlin-nog-altijd-kritiek",
     "type": "article",
     "title": "Toestand van door hartstilstand getroffen NFL-speler Hamlin nog altijd kritiek",
     "subtitle": null,
     "published_at": "2023-01-05T07:57:57+01:00",
-    "updated_at": "2023-01-05T07:57:58+01:00",
+    "updated_at": "2023-01-05T08:04:13+01:00",
     "media_id": "bpgx61earwvy",
     "duration": null,
     "canonical_section": {
@@ -75,7 +144,7 @@
     "title": "Amazon zet meer dan achttienduizend medewerkers op straat",
     "subtitle": null,
     "published_at": "2023-01-05T07:36:54+01:00",
-    "updated_at": "2023-01-05T07:59:29+01:00",
+    "updated_at": "2023-01-05T08:24:19+01:00",
     "media_id": "hg5x82qahmhm",
     "duration": null,
     "canonical_section": {
@@ -93,12 +162,12 @@
   },
   {
     "id": 6245705,
-    "slug": "200000-mensen-bewijzen-paus-emeritus-benedictus-laatste-eer-vandaag-begrafenis",
+    "slug": "200000-mensen-bezoeken-opgebaarde-paus-benedictus-vandaag-begrafenis",
     "type": "article",
-    "title": "200.000 mensen bewijzen paus emeritus Benedictus laatste eer, vandaag begrafenis",
+    "title": "200.000 mensen bezoeken opgebaarde paus Benedictus, vandaag begrafenis",
     "subtitle": null,
     "published_at": "2023-01-05T07:33:20+01:00",
-    "updated_at": "2023-01-05T07:47:41+01:00",
+    "updated_at": "2023-01-05T08:21:43+01:00",
     "media_id": "i86xt5va8y2u",
     "duration": null,
     "canonical_section": {
@@ -110,7 +179,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/buitenland/6245705/200000-mensen-bewijzen-paus-emeritus-benedictus-laatste-eer-vandaag-begrafenis.html",
+    "url": "/buitenland/6245705/200000-mensen-bezoeken-opgebaarde-paus-benedictus-vandaag-begrafenis.html",
     "open_new_window": false,
     "partner": null
   },
@@ -328,7 +397,7 @@
     "title": "Jeugdcriminaliteit verhardt, maar eigenlijk onderzoekt niemand waarom",
     "subtitle": null,
     "published_at": "2023-01-05T04:56:47+01:00",
-    "updated_at": "2023-01-05T04:56:49+01:00",
+    "updated_at": "2023-01-05T08:17:14+01:00",
     "media_id": "hzdxsm1alcey",
     "duration": null,
     "canonical_section": {
@@ -351,7 +420,7 @@
     "title": "Californië roept noodtoestand uit vanwege winterstorm",
     "subtitle": null,
     "published_at": "2023-01-05T01:50:20+01:00",
-    "updated_at": "2023-01-05T06:51:34+01:00",
+    "updated_at": "2023-01-05T08:52:42+01:00",
     "media_id": "ft1xkhvarqsx",
     "duration": null,
     "canonical_section": {
@@ -397,8 +466,8 @@
     "title": "Lonen gingen vorig jaar hard omhoog, maar prijzen nog veel harder",
     "subtitle": null,
     "published_at": "2023-01-05T00:00:14+01:00",
-    "updated_at": "2023-01-05T07:28:50+01:00",
-    "media_id": "k8uxzimajs5k",
+    "updated_at": "2023-01-05T08:31:35+01:00",
+    "media_id": "oz4x9jmayux1",
     "duration": null,
     "canonical_section": {
       "id": 99,
@@ -617,75 +686,6 @@
       "partner": null
     },
     "url": "/buitenland/6245679/oostenrijk-start-strafrechtelijk-onderzoek-naar-dood-nederlandse-skiester-in-tirol.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6245676,
-    "slug": "amnesty-wil-dat-ronaldo-zich-uitspreekt-over-mensenrechten-in-saoedi-arabie",
-    "type": "article",
-    "title": "Amnesty wil dat Ronaldo zich uitspreekt over mensenrechten in Saoedi-Arabië",
-    "subtitle": null,
-    "published_at": "2023-01-04T19:27:48+01:00",
-    "updated_at": "2023-01-04T22:17:22+01:00",
-    "media_id": "bcax7jyaaj7l",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6245676/amnesty-wil-dat-ronaldo-zich-uitspreekt-over-mensenrechten-in-saoedi-arabie.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6245672,
-    "slug": "ontsnapte-struisvogel-verstoort-militaire-oefening-in-cambodja",
-    "type": "video",
-    "title": "Ontsnapte struisvogel verstoort militaire oefening in Cambodja",
-    "subtitle": "Video",
-    "published_at": "2023-01-04T19:11:29+01:00",
-    "updated_at": "2023-01-04T19:11:36+01:00",
-    "media_id": "e45xxa8at6ov",
-    "duration": "0:41",
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6245672/ontsnapte-struisvogel-verstoort-militaire-oefening-in-cambodja.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6245675,
-    "slug": "zwaargewonden-bij-ongeluk-met-meerdere-autos-in-file-op-a6-bij-lemmer",
-    "type": "article",
-    "title": "Zwaargewonden bij ongeluk met meerdere auto's in file op A6 bij Lemmer",
-    "subtitle": null,
-    "published_at": "2023-01-04T19:00:14+01:00",
-    "updated_at": "2023-01-04T21:42:54+01:00",
-    "media_id": "25ixcg6ax20n",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6245675/zwaargewonden-bij-ongeluk-met-meerdere-autos-in-file-op-a6-bij-lemmer.html",
     "open_new_window": false,
     "partner": null
   }
