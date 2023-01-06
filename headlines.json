@@ -1,12 +1,58 @@
 [
   {
+    "id": 6246009,
+    "slug": "fc-twente-boekt-bij-herstart-eredivisie-simpele-thuiszege-op-fc-emmen",
+    "type": "article",
+    "title": "FC Twente boekt bij herstart Eredivisie simpele thuiszege op FC Emmen",
+    "subtitle": null,
+    "published_at": "2023-01-06T21:56:21+01:00",
+    "updated_at": "2023-01-06T22:00:52+01:00",
+    "media_id": "wxyxlz8a99m0",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6246009/fc-twente-boekt-bij-herstart-eredivisie-simpele-thuiszege-op-fc-emmen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6246005,
+    "slug": "man-bekent-fraude-om-ruim-duizend-manuscripten-te-stelen",
+    "type": "article",
+    "title": "Man bekent fraude om ruim duizend manuscripten te stelen",
+    "subtitle": null,
+    "published_at": "2023-01-06T21:01:54+01:00",
+    "updated_at": "2023-01-06T21:23:56+01:00",
+    "media_id": "acixn3uagxvm",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772075,
+      "slug": "cultuur-overig",
+      "type": "default",
+      "name": "Boek & Cultuur",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/cultuur-overig/6246005/man-bekent-fraude-om-ruim-duizend-manuscripten-te-stelen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6246001,
     "slug": "van-wapenstilstand-geen-sprake-vuur-aan-beide-kanten-van-het-front",
     "type": "article",
     "title": "Van wapenstilstand geen sprake: vuur aan beide kanten van het front",
     "subtitle": "Overzicht",
     "published_at": "2023-01-06T20:44:42+01:00",
-    "updated_at": "2023-01-06T20:47:57+01:00",
+    "updated_at": "2023-01-06T21:28:18+01:00",
     "media_id": "4xexnrkawmvv",
     "duration": null,
     "canonical_section": {
@@ -29,7 +75,7 @@
     "title": "Cabinevakbond blij met verplichte negatieve coronatest reizigers China",
     "subtitle": null,
     "published_at": "2023-01-06T20:36:57+01:00",
-    "updated_at": "2023-01-06T20:36:58+01:00",
+    "updated_at": "2023-01-06T21:17:06+01:00",
     "media_id": "ge7xg0ua9215",
     "duration": null,
     "canonical_section": {
@@ -640,52 +686,6 @@
       "partner": null
     },
     "url": "/voetbal/6245952/liverpool-weken-zonder-van-dijk-gakpo-kan-zaterdag-debuteren.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6245945,
-    "slug": "slot-raakt-niet-in-de-war-van-blessures-bij-feyenoord-kunnen-goed-team-inzetten",
-    "type": "article",
-    "title": "Slot raakt niet in de war van blessures bij Feyenoord: 'Kunnen goed team inzetten'",
-    "subtitle": null,
-    "published_at": "2023-01-06T15:00:37+01:00",
-    "updated_at": "2023-01-06T15:00:39+01:00",
-    "media_id": "kvyxu7ga3pay",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6245945/slot-raakt-niet-in-de-war-van-blessures-bij-feyenoord-kunnen-goed-team-inzetten.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6245947,
-    "slug": "schreuder-benadrukt-dat-hij-normale-band-had-met-vertrokken-ajax-icoon-blind",
-    "type": "article",
-    "title": "Schreuder benadrukt dat hij 'normale band' had met vertrokken Ajax-icoon Blind",
-    "subtitle": null,
-    "published_at": "2023-01-06T14:58:09+01:00",
-    "updated_at": "2023-01-06T19:17:21+01:00",
-    "media_id": "gjaxjaba5qh5",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6245947/schreuder-benadrukt-dat-hij-normale-band-had-met-vertrokken-ajax-icoon-blind.html",
     "open_new_window": false,
     "partner": null
   }
