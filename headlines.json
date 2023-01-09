@@ -1,12 +1,127 @@
 [
   {
+    "id": 6246325,
+    "slug": "politie-arresteert-1500-mensen-na-bestorming-overheidsgebouwen-brazilie",
+    "type": "article",
+    "title": "Politie arresteert 1.500 mensen na bestorming overheidsgebouwen Brazilië",
+    "subtitle": null,
+    "published_at": "2023-01-09T22:49:40+01:00",
+    "updated_at": "2023-01-09T22:57:21+01:00",
+    "media_id": "iggx4gna6r72",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6246325/politie-arresteert-1500-mensen-na-bestorming-overheidsgebouwen-brazilie.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6246324,
+    "slug": "door-liverpool-begeerde-koopmeiners-helpt-atalanta-met-prachtgoal-aan-winst",
+    "type": "article",
+    "title": "Door Liverpool begeerde Koopmeiners helpt Atalanta met prachtgoal aan winst",
+    "subtitle": null,
+    "published_at": "2023-01-09T22:40:53+01:00",
+    "updated_at": "2023-01-09T22:49:02+01:00",
+    "media_id": "eo8xp19aen81",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6246324/door-liverpool-begeerde-koopmeiners-helpt-atalanta-met-prachtgoal-aan-winst.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6246322,
+    "slug": "koopmeiners-scoort-met-prachtige-afstandsknal-voor-atalanta",
+    "type": "video",
+    "title": "Koopmeiners scoort met prachtige afstandsknal voor Atalanta",
+    "subtitle": "Video",
+    "published_at": "2023-01-09T22:14:35+01:00",
+    "updated_at": "2023-01-09T22:40:25+01:00",
+    "media_id": "ubixelyagtp2",
+    "duration": "0:55",
+    "canonical_section": {
+      "id": 149,
+      "slug": "sport",
+      "type": "default",
+      "name": "Sport",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/sport/6246322/koopmeiners-scoort-met-prachtige-afstandsknal-voor-atalanta.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6246321,
+    "slug": "wereldberoemd-restaurant-noma-sluit-eind-dit-jaar-de-deuren",
+    "type": "article",
+    "title": "Wereldberoemd restaurant Noma sluit eind dit jaar de deuren",
+    "subtitle": null,
+    "published_at": "2023-01-09T22:09:14+01:00",
+    "updated_at": "2023-01-09T22:25:02+01:00",
+    "media_id": "uelxmlna3w3d",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6246321/wereldberoemd-restaurant-noma-sluit-eind-dit-jaar-de-deuren.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6246280,
+    "slug": "az-versterkt-zich-met-ervaren-doelman-ryan-van-australisch-elftal",
+    "type": "article",
+    "title": "AZ versterkt zich met ervaren doelman Ryan van Australisch elftal",
+    "subtitle": null,
+    "published_at": "2023-01-09T22:06:21+01:00",
+    "updated_at": "2023-01-09T22:45:41+01:00",
+    "media_id": "l8tx3wtafxrf",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6246280/az-versterkt-zich-met-ervaren-doelman-ryan-van-australisch-elftal.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6246320,
     "slug": "boze-spits-barasi-helpt-jong-az-met-benutte-strafschoppen-aan-uitzege",
     "type": "article",
     "title": "Boze spits Barasi helpt Jong AZ met benutte strafschoppen aan uitzege",
     "subtitle": null,
     "published_at": "2023-01-09T21:55:28+01:00",
-    "updated_at": "2023-01-09T22:00:11+01:00",
+    "updated_at": "2023-01-09T22:08:51+01:00",
     "media_id": "l62x6h1arvv0",
     "duration": null,
     "canonical_section": {
@@ -24,12 +139,12 @@
   },
   {
     "id": 6246318,
-    "slug": "american-footballer-hamlin-mag-ziekenhuis-week-na-hartstilstand-verlaten",
+    "slug": "americanfootballer-hamlin-mag-ziekenhuis-week-na-hartstilstand-verlaten",
     "type": "article",
-    "title": "American footballer Hamlin mag ziekenhuis week na hartstilstand verlaten",
+    "title": "Americanfootballer Hamlin mag ziekenhuis week na hartstilstand verlaten",
     "subtitle": null,
     "published_at": "2023-01-09T21:47:35+01:00",
-    "updated_at": "2023-01-09T21:53:13+01:00",
+    "updated_at": "2023-01-09T22:17:52+01:00",
     "media_id": "1htxhxeab5uj",
     "duration": null,
     "canonical_section": {
@@ -41,7 +156,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/sport-overig/6246318/american-footballer-hamlin-mag-ziekenhuis-week-na-hartstilstand-verlaten.html",
+    "url": "/sport-overig/6246318/americanfootballer-hamlin-mag-ziekenhuis-week-na-hartstilstand-verlaten.html",
     "open_new_window": false,
     "partner": null
   },
@@ -185,12 +300,12 @@
   },
   {
     "id": 6246284,
-    "slug": "het-einde-van-bruinkooldorp-lutzerath-dichtbij-na-uitspraak-van-rechter",
+    "slug": "einde-van-bruinkooldorp-lutzerath-dichtbij-na-uitspraak-van-rechter",
     "type": "article",
-    "title": "Het einde van 'bruinkooldorp' Lützerath dichtbij na uitspraak van rechter",
+    "title": "Einde van 'bruinkooldorp' Lützerath dichtbij na uitspraak van rechter",
     "subtitle": null,
     "published_at": "2023-01-09T20:53:43+01:00",
-    "updated_at": "2023-01-09T21:27:47+01:00",
+    "updated_at": "2023-01-09T22:54:14+01:00",
     "media_id": "w4lxzz9aau0i",
     "duration": null,
     "canonical_section": {
@@ -202,7 +317,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/buitenland/6246284/het-einde-van-bruinkooldorp-lutzerath-dichtbij-na-uitspraak-van-rechter.html",
+    "url": "/buitenland/6246284/einde-van-bruinkooldorp-lutzerath-dichtbij-na-uitspraak-van-rechter.html",
     "open_new_window": false,
     "partner": null
   },
@@ -259,7 +374,7 @@
     "title": "Doodstraf Iraanse voetballer Nasr-Azadani omgezet in 26 jaar gevangenis",
     "subtitle": null,
     "published_at": "2023-01-09T19:19:23+01:00",
-    "updated_at": "2023-01-09T19:51:17+01:00",
+    "updated_at": "2023-01-09T22:20:46+01:00",
     "media_id": "wh7xv88a1bbn",
     "duration": null,
     "canonical_section": {
@@ -351,7 +466,7 @@
     "title": "Hoe Bolsonaro en zijn aanhangers (tevergeefs) hoopten op het leger",
     "subtitle": "Video",
     "published_at": "2023-01-09T17:44:43+01:00",
-    "updated_at": "2023-01-09T17:46:29+01:00",
+    "updated_at": "2023-01-09T22:21:31+01:00",
     "media_id": "0d5x1vtaosgd",
     "duration": "2:26",
     "canonical_section": {
@@ -489,7 +604,7 @@
     "title": "Opvallende aankondigingen op techbeurs: oven met livestream en een plassensor",
     "subtitle": null,
     "published_at": "2023-01-09T16:45:08+01:00",
-    "updated_at": "2023-01-09T20:03:10+01:00",
+    "updated_at": "2023-01-09T22:09:51+01:00",
     "media_id": "ogpxoefaoqai",
     "duration": null,
     "canonical_section": {
@@ -571,121 +686,6 @@
       "partner": null
     },
     "url": "/achterklap/6246270/yvonne-coldeweijer-door-rechtszaken-niet-ontmoedigd-om-juice-te-brengen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6246283,
-    "slug": "haller-sprak-veel-met-boetius-over-ziekte-en-kan-niet-wachten-op-gelbe-wand",
-    "type": "article",
-    "title": "Haller sprak veel met Boëtius over ziekte en kan niet wachten op 'Gelbe Wand'",
-    "subtitle": null,
-    "published_at": "2023-01-09T16:12:26+01:00",
-    "updated_at": "2023-01-09T16:22:13+01:00",
-    "media_id": "oatx3jtahdfm",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6246283/haller-sprak-veel-met-boetius-over-ziekte-en-kan-niet-wachten-op-gelbe-wand.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6246282,
-    "slug": "homeland-actrice-clare-danes-in-verwachting-van-derde-kind",
-    "type": "article",
-    "title": "Homeland-actrice Clare Danes in verwachting van derde kind",
-    "subtitle": null,
-    "published_at": "2023-01-09T16:07:58+01:00",
-    "updated_at": "2023-01-09T16:29:39+01:00",
-    "media_id": "amkxw4tao0l4",
-    "duration": null,
-    "canonical_section": {
-      "id": 125,
-      "slug": "achterklap",
-      "type": "default",
-      "name": "Achterklap",
-      "style": "nuentertainment",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/achterklap/6246282/homeland-actrice-clare-danes-in-verwachting-van-derde-kind.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6246279,
-    "slug": "aantal-reizigers-op-schiphol-verdubbeld-maar-precoronaniveau-is-nog-ver-weg",
-    "type": "article",
-    "title": "Aantal reizigers op Schiphol verdubbeld, maar precoronaniveau is nog ver weg",
-    "subtitle": null,
-    "published_at": "2023-01-09T15:50:58+01:00",
-    "updated_at": "2023-01-09T15:50:59+01:00",
-    "media_id": "dl4x7fhammhk",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6246279/aantal-reizigers-op-schiphol-verdubbeld-maar-precoronaniveau-is-nog-ver-weg.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6246277,
-    "slug": "besiktas-ontkent-dat-door-united-begeerde-weghorst-vertrekclausule-heeft",
-    "type": "article",
-    "title": "Besiktas ontkent dat door United begeerde Weghorst vertrekclausule heeft",
-    "subtitle": null,
-    "published_at": "2023-01-09T15:40:32+01:00",
-    "updated_at": "2023-01-09T15:49:05+01:00",
-    "media_id": "i68xtjyanve8",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6246277/besiktas-ontkent-dat-door-united-begeerde-weghorst-vertrekclausule-heeft.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6246245,
-    "slug": "rachel-hazes-vertelt-in-rechtbank-dat-relatie-met-zoon-andre-is-verslechterd",
-    "type": "article",
-    "title": "Rachel Hazes vertelt in rechtbank dat relatie met zoon André is verslechterd",
-    "subtitle": null,
-    "published_at": "2023-01-09T14:58:08+01:00",
-    "updated_at": "2023-01-09T19:09:48+01:00",
-    "media_id": "pw8xbs6al1xo",
-    "duration": null,
-    "canonical_section": {
-      "id": 125,
-      "slug": "achterklap",
-      "type": "default",
-      "name": "Achterklap",
-      "style": "nuentertainment",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/achterklap/6246245/rachel-hazes-vertelt-in-rechtbank-dat-relatie-met-zoon-andre-is-verslechterd.html",
     "open_new_window": false,
     "partner": null
   }
