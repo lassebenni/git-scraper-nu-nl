@@ -1,12 +1,150 @@
 [
   {
+    "id": 6246507,
+    "slug": "vuilnismannen-en-boas-gaan-eind-januari-in-grote-steden-staken",
+    "type": "article",
+    "title": "Vuilnismannen en boa's gaan eind januari in grote steden staken",
+    "subtitle": null,
+    "published_at": "2023-01-11T11:01:12+01:00",
+    "updated_at": "2023-01-11T11:01:14+01:00",
+    "media_id": "2ehxkuzabw8e",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6246507/vuilnismannen-en-boas-gaan-eind-januari-in-grote-steden-staken.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6246505,
+    "slug": "rusland-stuurt-vervangend-vaartuig-naar-iss-na-lek",
+    "type": "article",
+    "title": "Rusland stuurt vervangend vaartuig naar ISS na lek",
+    "subtitle": null,
+    "published_at": "2023-01-11T10:56:27+01:00",
+    "updated_at": "2023-01-11T10:58:30+01:00",
+    "media_id": "ly1xvvnarw1d",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771438,
+      "slug": "tech",
+      "type": "default",
+      "name": "Tech",
+      "style": "nutech",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/tech/6246505/rusland-stuurt-vervangend-vaartuig-naar-iss-na-lek.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6246501,
+    "slug": "australian-open-gaat-fans-verbannen-die-respectloos-zijn-naar-djokovic",
+    "type": "article",
+    "title": "Australian Open gaat fans verbannen die respectloos zijn naar Djokovic",
+    "subtitle": null,
+    "published_at": "2023-01-11T10:47:13+01:00",
+    "updated_at": "2023-01-11T10:51:39+01:00",
+    "media_id": "zktx1ehales5",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772432,
+      "slug": "tennis",
+      "type": "default",
+      "name": "Tennis",
+      "style": "nusport",
+      "media_id": "m1oxohpan0gq",
+      "partner": null
+    },
+    "url": "/tennis/6246501/australian-open-gaat-fans-verbannen-die-respectloos-zijn-naar-djokovic.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6246502,
+    "slug": "politie-begint-met-ontruiming-bruinkooldorp-lutzerath",
+    "type": "video",
+    "title": "Politie begint met ontruiming 'bruinkooldorp' Lützerath",
+    "subtitle": "Video",
+    "published_at": "2023-01-11T10:37:43+01:00",
+    "updated_at": "2023-01-11T10:37:44+01:00",
+    "media_id": "j0wxwppadbn9",
+    "duration": "1:01",
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6246502/politie-begint-met-ontruiming-bruinkooldorp-lutzerath.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6246496,
+    "slug": "politie-start-met-hardhandig-verwijderen-van-activisten-in-duits-bruinkooldorp",
+    "type": "article",
+    "title": "Politie start met hardhandig verwijderen van activisten in Duits 'bruinkooldorp'",
+    "subtitle": null,
+    "published_at": "2023-01-11T10:17:38+01:00",
+    "updated_at": "2023-01-11T10:37:58+01:00",
+    "media_id": "r1fxbqqa4rgy",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6246496/politie-start-met-hardhandig-verwijderen-van-activisten-in-duits-bruinkooldorp.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6246495,
+    "slug": "politie-rukt-uit-na-steekpartij-op-treinstation-parijs",
+    "type": "video",
+    "title": "Politie rukt uit na steekpartij op treinstation Parijs",
+    "subtitle": "Video",
+    "published_at": "2023-01-11T10:14:21+01:00",
+    "updated_at": "2023-01-11T10:14:22+01:00",
+    "media_id": "4p4xly5armrh",
+    "duration": "0:29",
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6246495/politie-rukt-uit-na-steekpartij-op-treinstation-parijs.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6246489,
     "slug": "twee-mannen-opgepakt-voor-aanslag-twee-jaar-geleden-op-huis-agent-in-best",
     "type": "article",
     "title": "Twee mannen opgepakt voor aanslag twee jaar geleden op huis agent in Best",
     "subtitle": null,
     "published_at": "2023-01-11T09:43:57+01:00",
-    "updated_at": "2023-01-11T09:43:59+01:00",
+    "updated_at": "2023-01-11T10:25:25+01:00",
     "media_id": "rftxxvuanih9",
     "duration": null,
     "canonical_section": {
@@ -31,7 +169,7 @@
     "published_at": "2023-01-11T09:31:47+01:00",
     "updated_at": "2023-01-11T09:31:48+01:00",
     "media_id": "hsxxosnafzn4",
-    "duration": "1:05",
+    "duration": "0:41",
     "canonical_section": {
       "id": 1772242,
       "slug": "entertainment",
@@ -190,7 +328,7 @@
     "title": "Verdachte aangehouden na steekpartij met zes gewonden op treinstation Parijs",
     "subtitle": null,
     "published_at": "2023-01-11T08:46:02+01:00",
-    "updated_at": "2023-01-11T09:59:17+01:00",
+    "updated_at": "2023-01-11T10:14:42+01:00",
     "media_id": "rstxloralzbv",
     "duration": null,
     "canonical_section": {
@@ -236,7 +374,7 @@
     "title": "Haase kan niet nogmaals stunten in Adelaide en verliest van Bautista Agut",
     "subtitle": null,
     "published_at": "2023-01-11T08:16:10+01:00",
-    "updated_at": "2023-01-11T08:16:11+01:00",
+    "updated_at": "2023-01-11T10:39:20+01:00",
     "media_id": "tjnxur4astys",
     "duration": null,
     "canonical_section": {
@@ -277,12 +415,12 @@
   },
   {
     "id": 6246472,
-    "slug": "vuurwerk-vult-de-lucht-in-kharkiv-na-russische-aanval-op-fabriek",
+    "slug": "vuurwerk-vult-de-lucht-in-kharkiv-na-russische-aanval-op-vuurwerkfabriek",
     "type": "video",
-    "title": "Vuurwerk vult de lucht in Kharkiv na Russische aanval op fabriek",
+    "title": "Vuurwerk vult de lucht in Kharkiv na Russische aanval op vuurwerkfabriek",
     "subtitle": "Video",
     "published_at": "2023-01-11T07:55:35+01:00",
-    "updated_at": "2023-01-11T09:40:00+01:00",
+    "updated_at": "2023-01-11T10:47:19+01:00",
     "media_id": "8rsx03ma16l9",
     "duration": "0:44",
     "canonical_section": {
@@ -294,7 +432,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/spanningen-oekraine/6246472/vuurwerk-vult-de-lucht-in-kharkiv-na-russische-aanval-op-fabriek.html",
+    "url": "/spanningen-oekraine/6246472/vuurwerk-vult-de-lucht-in-kharkiv-na-russische-aanval-op-vuurwerkfabriek.html",
     "open_new_window": false,
     "partner": null
   },
@@ -346,12 +484,12 @@
   },
   {
     "id": 6246468,
-    "slug": "regionale-vervoerders-leggen-vrijdag-opnieuw-werk-neer",
+    "slug": "werknemers-regionale-vervoerders-leggen-vrijdag-opnieuw-werk-neer",
     "type": "article",
-    "title": "Regionale vervoerders leggen vrijdag opnieuw werk neer",
+    "title": "Werknemers regionale vervoerders leggen vrijdag opnieuw werk neer",
     "subtitle": null,
     "published_at": "2023-01-11T07:22:06+01:00",
-    "updated_at": "2023-01-11T07:31:26+01:00",
+    "updated_at": "2023-01-11T10:08:46+01:00",
     "media_id": "nsmxu6wajq3h",
     "duration": null,
     "canonical_section": {
@@ -363,7 +501,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/economie/6246468/regionale-vervoerders-leggen-vrijdag-opnieuw-werk-neer.html",
+    "url": "/economie/6246468/werknemers-regionale-vervoerders-leggen-vrijdag-opnieuw-werk-neer.html",
     "open_new_window": false,
     "partner": null
   },
@@ -512,7 +650,7 @@
     "title": "The Fabelmans en The Banshees of Inisherin grote winnaars Golden Globes",
     "subtitle": null,
     "published_at": "2023-01-11T05:48:25+01:00",
-    "updated_at": "2023-01-11T06:56:40+01:00",
+    "updated_at": "2023-01-11T10:58:19+01:00",
     "media_id": "1uvxk3bak21l",
     "duration": null,
     "canonical_section": {
@@ -548,144 +686,6 @@
       "partner": null
     },
     "url": "/uitgelicht/6246462/het-woord-van-vandaag-raad-jij-het-woord-van-de-dag.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6246461,
-    "slug": "dodental-noodweer-californie-loopt-op-tot-zeventien-nieuwe-storm-op-komst",
-    "type": "article",
-    "title": "Dodental noodweer Californië loopt op tot zeventien, nieuwe storm op komst",
-    "subtitle": null,
-    "published_at": "2023-01-11T05:15:48+01:00",
-    "updated_at": "2023-01-11T06:13:11+01:00",
-    "media_id": "py8x4ccaz8ux",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6246461/dodental-noodweer-californie-loopt-op-tot-zeventien-nieuwe-storm-op-komst.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6246382,
-    "slug": "eten-en-drinken-wordt-de-komende-maanden-nog-duurder",
-    "type": "article",
-    "title": "Eten en drinken wordt de komende maanden nog duurder",
-    "subtitle": null,
-    "published_at": "2023-01-11T05:01:17+01:00",
-    "updated_at": "2023-01-11T07:45:18+01:00",
-    "media_id": "329xkxtawb4m",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6246382/eten-en-drinken-wordt-de-komende-maanden-nog-duurder.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6246460,
-    "slug": "van-misbruik-vrijgesproken-australische-kardinaal-george-pell-81-overleden",
-    "type": "article",
-    "title": "Van misbruik vrijgesproken Australische kardinaal George Pell (81) overleden",
-    "subtitle": null,
-    "published_at": "2023-01-11T04:00:43+01:00",
-    "updated_at": "2023-01-11T06:38:20+01:00",
-    "media_id": "97hxzpka7c29",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6246460/van-misbruik-vrijgesproken-australische-kardinaal-george-pell-81-overleden.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6246459,
-    "slug": "van-nistelrooij-neemt-drommel-fout-niet-kwalijk-hij-had-ook-een-wereldredding",
-    "type": "article",
-    "title": "Van Nistelrooij neemt Drommel fout niet kwalijk: 'Hij had ook een wereldredding'",
-    "subtitle": null,
-    "published_at": "2023-01-11T00:06:41+01:00",
-    "updated_at": "2023-01-11T07:10:29+01:00",
-    "media_id": "kfex45vazi4i",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6246459/van-nistelrooij-neemt-drommel-fout-niet-kwalijk-hij-had-ook-een-wereldredding.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6246458,
-    "slug": "antony-scoort-bij-ruime-zege-manchester-united-in-kwartfinales-league-cup",
-    "type": "article",
-    "title": "Antony scoort bij ruime zege Manchester United in kwartfinales League Cup",
-    "subtitle": null,
-    "published_at": "2023-01-10T22:57:06+01:00",
-    "updated_at": "2023-01-10T23:36:23+01:00",
-    "media_id": "fqcxph4andqk",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6246458/antony-scoort-bij-ruime-zege-manchester-united-in-kwartfinales-league-cup.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6246457,
-    "slug": "psv-wint-nu-wel-van-sparta-en-bereikt-achtste-finales-bekertoernooi",
-    "type": "article",
-    "title": "PSV wint nu wél van Sparta en bereikt achtste finales bekertoernooi",
-    "subtitle": null,
-    "published_at": "2023-01-10T22:55:02+01:00",
-    "updated_at": "2023-01-11T00:53:50+01:00",
-    "media_id": "6ywxm58af0mi",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6246457/psv-wint-nu-wel-van-sparta-en-bereikt-achtste-finales-bekertoernooi.html",
     "open_new_window": false,
     "partner": null
   }
