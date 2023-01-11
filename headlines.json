@@ -1,12 +1,35 @@
 [
   {
+    "id": 6246382,
+    "slug": "eten-en-drinken-wordt-de-komende-maanden-nog-duurder",
+    "type": "article",
+    "title": "Eten en drinken wordt de komende maanden nog duurder",
+    "subtitle": null,
+    "published_at": "2023-01-11T05:01:17+01:00",
+    "updated_at": "2023-01-11T05:01:19+01:00",
+    "media_id": "329xkxtawb4m",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6246382/eten-en-drinken-wordt-de-komende-maanden-nog-duurder.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6246460,
     "slug": "australische-kardinaal-pell-81-die-werd-vrijgesproken-van-misbruik-overleden",
     "type": "article",
     "title": "Australische kardinaal Pell (81), die werd vrijgesproken van misbruik, overleden",
     "subtitle": null,
     "published_at": "2023-01-11T04:00:43+01:00",
-    "updated_at": "2023-01-11T04:00:45+01:00",
+    "updated_at": "2023-01-11T04:03:14+01:00",
     "media_id": "97hxzpka7c29",
     "duration": null,
     "canonical_section": {
@@ -663,29 +686,6 @@
       "partner": null
     },
     "url": "/tech/6246397/bestormers-braziliaans-parlement-waren-autoriteiten-te-slim-af-op-sociale-media.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6246421,
-    "slug": "politie-bergt-busje-waarmee-jongen-15-werd-ontvoerd",
-    "type": "video",
-    "title": "Politie bergt busje waarmee jongen (15) werd ontvoerd",
-    "subtitle": "Video",
-    "published_at": "2023-01-10T16:58:44+01:00",
-    "updated_at": "2023-01-10T17:04:03+01:00",
-    "media_id": "twzxi1tafzz9",
-    "duration": "0:35",
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6246421/politie-bergt-busje-waarmee-jongen-15-werd-ontvoerd.html",
     "open_new_window": false,
     "partner": null
   }
