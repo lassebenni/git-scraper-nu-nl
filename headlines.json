@@ -1,12 +1,58 @@
 [
   {
-    "id": 6246995,
-    "slug": "china-telt-zeker-60000-coronadoden-in-een-maand-tijd",
+    "id": 6246998,
+    "slug": "andre-hazes-zegt-aan-nieuw-album-te-werken-mag-eindelijk-mezelf-zijn",
     "type": "article",
-    "title": "China telt zeker 60.000 coronadoden in een maand tijd",
+    "title": "André Hazes zegt aan nieuw album te werken: 'Mag eindelijk mezelf zijn'",
+    "subtitle": null,
+    "published_at": "2023-01-14T14:34:59+01:00",
+    "updated_at": "2023-01-14T14:44:52+01:00",
+    "media_id": "4hdxzp0aht38",
+    "duration": null,
+    "canonical_section": {
+      "id": 868281,
+      "slug": "muziek",
+      "type": "default",
+      "name": "Muziek",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/muziek/6246998/andre-hazes-zegt-aan-nieuw-album-te-werken-mag-eindelijk-mezelf-zijn.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6246996,
+    "slug": "duizenden-mensen-marcheren-richting-duits-bruinkooldorp-lutzerath",
+    "type": "video",
+    "title": "Duizenden mensen marcheren richting Duits 'bruinkooldorp' Lützerath",
+    "subtitle": "Video",
+    "published_at": "2023-01-14T14:26:32+01:00",
+    "updated_at": "2023-01-14T14:26:33+01:00",
+    "media_id": "xrax4hkaycrz",
+    "duration": "0:44",
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6246996/duizenden-mensen-marcheren-richting-duits-bruinkooldorp-lutzerath.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6246995,
+    "slug": "china-meldt-60000-coronadoden-in-een-maand-tijd",
+    "type": "article",
+    "title": "China meldt 60.000 coronadoden in een maand tijd",
     "subtitle": null,
     "published_at": "2023-01-14T13:53:07+01:00",
-    "updated_at": "2023-01-14T13:57:55+01:00",
+    "updated_at": "2023-01-14T14:12:44+01:00",
     "media_id": "lt6xsifa7etg",
     "duration": null,
     "canonical_section": {
@@ -18,7 +64,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/coronavirus/6246995/china-telt-zeker-60000-coronadoden-in-een-maand-tijd.html",
+    "url": "/coronavirus/6246995/china-meldt-60000-coronadoden-in-een-maand-tijd.html",
     "open_new_window": false,
     "partner": null
   },
@@ -213,7 +259,7 @@
     "title": "Duizenden mensen bij protest tegen ontruiming Duits 'bruinkooldorp' Lützerath",
     "subtitle": null,
     "published_at": "2023-01-14T11:42:42+01:00",
-    "updated_at": "2023-01-14T12:13:03+01:00",
+    "updated_at": "2023-01-14T14:28:32+01:00",
     "media_id": "gekxu1eaya3v",
     "duration": null,
     "canonical_section": {
@@ -640,52 +686,6 @@
       "partner": null
     },
     "url": "/media/6246526/geweld-schelden-seks-wanneer-is-een-film-ongeschikt-voor-jonge-kijkers.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6246833,
-    "slug": "euro-moest-kroatie-verder-helpen-maar-leidt-nu-vooral-tot-frustratie",
-    "type": "article",
-    "title": "Euro moest Kroatië verder helpen, maar leidt nu vooral tot frustratie",
-    "subtitle": null,
-    "published_at": "2023-01-14T05:30:31+01:00",
-    "updated_at": "2023-01-14T08:09:34+01:00",
-    "media_id": "fnox4l0aono8",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6246833/euro-moest-kroatie-verder-helpen-maar-leidt-nu-vooral-tot-frustratie.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6246767,
-    "slug": "kabinet-bezweert-crises-rond-koopkracht-asiel-en-stikstof-slechts-voorlopig",
-    "type": "article",
-    "title": "Kabinet bezweert crises rond koopkracht, asiel en stikstof slechts voorlopig",
-    "subtitle": "NU+",
-    "published_at": "2023-01-14T05:27:55+01:00",
-    "updated_at": "2023-01-14T05:27:57+01:00",
-    "media_id": "eqlx4wranh2l",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771437,
-      "slug": "politiek",
-      "type": "default",
-      "name": "Politiek",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/politiek/6246767/kabinet-bezweert-crises-rond-koopkracht-asiel-en-stikstof-slechts-voorlopig.html",
     "open_new_window": false,
     "partner": null
   }
