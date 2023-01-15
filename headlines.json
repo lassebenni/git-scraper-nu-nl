@@ -1,5 +1,97 @@
 [
   {
+    "id": 6247070,
+    "slug": "zweden-wil-vergunningsplicht-voor-dansen-in-horecazaken-afschaffen",
+    "type": "article",
+    "title": "Zweden wil vergunningsplicht voor dansen in horecazaken afschaffen",
+    "subtitle": null,
+    "published_at": "2023-01-15T13:28:37+01:00",
+    "updated_at": "2023-01-15T13:36:47+01:00",
+    "media_id": "zdnxsifapmu6",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6247070/zweden-wil-vergunningsplicht-voor-dansen-in-horecazaken-afschaffen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6247065,
+    "slug": "psv-begint-met-aan-chelsea-gelinkte-madueke-tegen-fortuna-sittard",
+    "type": "article",
+    "title": "PSV begint met aan Chelsea gelinkte Madueke tegen Fortuna Sittard",
+    "subtitle": null,
+    "published_at": "2023-01-15T13:21:18+01:00",
+    "updated_at": "2023-01-15T13:31:38+01:00",
+    "media_id": "44dxwqsa1gko",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6247065/psv-begint-met-aan-chelsea-gelinkte-madueke-tegen-fortuna-sittard.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6246781,
+    "slug": "apps-van-de-week-train-je-brein-door-je-vrienden-uit-te-dagen",
+    "type": "article",
+    "title": "Apps van de week: Train je brein door je vrienden uit te dagen",
+    "subtitle": null,
+    "published_at": "2023-01-15T13:12:57+01:00",
+    "updated_at": "2023-01-15T13:12:58+01:00",
+    "media_id": "fjcxu44a15ne",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771438,
+      "slug": "tech",
+      "type": "default",
+      "name": "Tech",
+      "style": "nutech",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/tech/6246781/apps-van-de-week-train-je-brein-door-je-vrienden-uit-te-dagen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6246860,
+    "slug": "hoe-de-relatie-tussen-rusland-en-de-navo-steeds-slechter-werd",
+    "type": "article",
+    "title": "Hoe de relatie tussen Rusland en de NAVO steeds slechter werd",
+    "subtitle": "NU+",
+    "published_at": "2023-01-15T13:11:52+01:00",
+    "updated_at": "2023-01-15T13:11:54+01:00",
+    "media_id": "h2jx7j3au1n7",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6246860/hoe-de-relatie-tussen-rusland-en-de-navo-steeds-slechter-werd.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6246783,
     "slug": "stelling-ik-wacht-met-het-kopen-van-een-huis-tot-de-prijzen-nog-verder-gedaald-zijn",
     "type": "article",
@@ -116,12 +208,12 @@
   },
   {
     "id": 6247061,
-    "slug": "nec-speler-tannane-krijgt-rood-tegen-ex-club-vitesse",
+    "slug": "vitesse-begint-aan-slotoffensief-tegen-tiental-nec",
     "type": "article",
-    "title": "NEC-speler Tannane krijgt rood tegen ex-club Vitesse",
+    "title": "Vitesse begint aan slotoffensief tegen tiental NEC",
     "subtitle": "Liveblog Eredivisie",
     "published_at": "2023-01-15T11:53:37+01:00",
-    "updated_at": "2023-01-15T12:46:15+01:00",
+    "updated_at": "2023-01-15T13:58:39+01:00",
     "media_id": "5yzxja4aooc0",
     "duration": null,
     "canonical_section": {
@@ -133,7 +225,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6247061/nec-speler-tannane-krijgt-rood-tegen-ex-club-vitesse.html",
+    "url": "/voetbal/6247061/vitesse-begint-aan-slotoffensief-tegen-tiental-nec.html",
     "open_new_window": false,
     "partner": null
   },
@@ -144,7 +236,7 @@
     "title": "Trucker Van Kasteren rijdt overtuigend naar eindzege in Dakar Rally",
     "subtitle": null,
     "published_at": "2023-01-15T11:28:06+01:00",
-    "updated_at": "2023-01-15T12:53:15+01:00",
+    "updated_at": "2023-01-15T14:01:01+01:00",
     "media_id": "sanxszdac6pw",
     "duration": null,
     "canonical_section": {
@@ -535,7 +627,7 @@
     "title": "Hartstilstand Hamlin legt grote risico's bloot: 'NFL geeft niks om zijn spelers'",
     "subtitle": null,
     "published_at": "2023-01-15T05:37:55+01:00",
-    "updated_at": "2023-01-15T11:59:20+01:00",
+    "updated_at": "2023-01-15T13:13:19+01:00",
     "media_id": "i6zxx1ba77hh",
     "duration": null,
     "canonical_section": {
@@ -594,98 +686,6 @@
       "partner": null
     },
     "url": "/uitgelicht/6247042/het-woord-van-vandaag-raad-jij-het-woord-van-de-dag.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6246841,
-    "slug": "wolf-op-hoge-veluwe-zoekt-mensen-niet-meer-op-maar-voor-hoelang",
-    "type": "article",
-    "title": "Wolf op Hoge Veluwe zoekt mensen niet meer op, maar voor hoelang?",
-    "subtitle": null,
-    "published_at": "2023-01-15T04:56:37+01:00",
-    "updated_at": "2023-01-15T11:34:07+01:00",
-    "media_id": "13xx3vwamobr",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772536,
-      "slug": "dieren",
-      "type": "default",
-      "name": "Dieren",
-      "style": "nunjij",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/dieren/6246841/wolf-op-hoge-veluwe-zoekt-mensen-niet-meer-op-maar-voor-hoelang.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6247041,
-    "slug": "archeologen-vinden-3500-jaar-oude-tombe-bij-egyptische-stad-luxor",
-    "type": "article",
-    "title": "Archeologen vinden 3.500 jaar oude tombe bij Egyptische stad Luxor",
-    "subtitle": null,
-    "published_at": "2023-01-15T04:19:04+01:00",
-    "updated_at": "2023-01-15T07:59:55+01:00",
-    "media_id": "igfxm45ax78h",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6247041/archeologen-vinden-3500-jaar-oude-tombe-bij-egyptische-stad-luxor.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6247040,
-    "slug": "medewerker-26-doodgestoken-in-jeugdinstelling-emmen-verdachten-zijn-16-en-19",
-    "type": "article",
-    "title": "Medewerker (26) doodgestoken in jeugdinstelling Emmen, verdachten zijn 16 en 19",
-    "subtitle": null,
-    "published_at": "2023-01-15T03:02:28+01:00",
-    "updated_at": "2023-01-15T12:41:01+01:00",
-    "media_id": "9mkxhz6aeu4o",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6247040/medewerker-26-doodgestoken-in-jeugdinstelling-emmen-verdachten-zijn-16-en-19.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6247039,
-    "slug": "mislukte-aanslag-op-gerechtsgebouw-in-surinaamse-hoofdstad-paramaribo",
-    "type": "article",
-    "title": "Mislukte aanslag op gerechtsgebouw in Surinaamse hoofdstad Paramaribo",
-    "subtitle": null,
-    "published_at": "2023-01-15T01:59:18+01:00",
-    "updated_at": "2023-01-15T08:16:07+01:00",
-    "media_id": "y96x7fva6w2x",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6247039/mislukte-aanslag-op-gerechtsgebouw-in-surinaamse-hoofdstad-paramaribo.html",
     "open_new_window": false,
     "partner": null
   }
