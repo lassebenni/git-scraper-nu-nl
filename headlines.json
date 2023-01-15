@@ -1,12 +1,58 @@
 [
   {
+    "id": 6247113,
+    "slug": "barcelona-verslaat-real-dankzij-hoofdrol-gavi-en-verovert-spaanse-supercup",
+    "type": "article",
+    "title": "Barcelona verslaat Real dankzij hoofdrol Gavi en verovert Spaanse supercup",
+    "subtitle": null,
+    "published_at": "2023-01-15T21:54:19+01:00",
+    "updated_at": "2023-01-15T21:57:56+01:00",
+    "media_id": "ro0xnyqaq8vo",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6247113/barcelona-verslaat-real-dankzij-hoofdrol-gavi-en-verovert-spaanse-supercup.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6247112,
+    "slug": "reddingswerkers-zoeken-overlevenden-onder-puin-na-raketaanval-dnipro",
+    "type": "video",
+    "title": "Reddingswerkers zoeken overlevenden onder puin na raketaanval Dnipro",
+    "subtitle": "Video",
+    "published_at": "2023-01-15T21:50:25+01:00",
+    "updated_at": "2023-01-15T21:50:28+01:00",
+    "media_id": "rvmxsdca5uy8",
+    "duration": "0:44",
+    "canonical_section": {
+      "id": 1778980,
+      "slug": "spanningen-oekraine",
+      "type": "default",
+      "name": "Oorlog in Oekraïne",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/spanningen-oekraine/6247112/reddingswerkers-zoeken-overlevenden-onder-puin-na-raketaanval-dnipro.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6247110,
     "slug": "ongelukkige-rol-vincent-janssen-in-verloren-topper-met-royal-antwerp",
     "type": "article",
     "title": "Ongelukkige rol Vincent Janssen in verloren topper met Royal Antwerp",
     "subtitle": null,
     "published_at": "2023-01-15T20:22:12+01:00",
-    "updated_at": "2023-01-15T20:58:54+01:00",
+    "updated_at": "2023-01-15T21:32:04+01:00",
     "media_id": "9twxv7pamks6",
     "duration": null,
     "canonical_section": {
@@ -52,8 +98,8 @@
     "title": "Handballers verslaan ook Noord-Macedonië en bereiken hoofdfase WK",
     "subtitle": null,
     "published_at": "2023-01-15T19:30:12+01:00",
-    "updated_at": "2023-01-15T20:43:56+01:00",
-    "media_id": "9bhx6d9aaixc",
+    "updated_at": "2023-01-15T21:14:56+01:00",
+    "media_id": "engxdorau6do",
     "duration": null,
     "canonical_section": {
       "id": 1772456,
@@ -305,7 +351,7 @@
     "title": "Burgemeester Dnipro vreest dat dodental na raketaanslag flat gaat verdubbelen",
     "subtitle": null,
     "published_at": "2023-01-15T17:53:52+01:00",
-    "updated_at": "2023-01-15T17:53:53+01:00",
+    "updated_at": "2023-01-15T21:51:42+01:00",
     "media_id": "1r6x57jawt4r",
     "duration": null,
     "canonical_section": {
@@ -640,52 +686,6 @@
       "partner": null
     },
     "url": "/schaatsen/6247078/schulting-sluit-ek-af-met-vier-keer-goud-aflossingsploegen-pakken-drie-titels.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6247066,
-    "slug": "geen-wijzigingen-bij-feyenoord-in-duel-met-fc-groningen-hancko-inzetbaar",
-    "type": "article",
-    "title": "Geen wijzigingen bij Feyenoord in duel met FC Groningen, Hancko inzetbaar",
-    "subtitle": null,
-    "published_at": "2023-01-15T15:40:51+01:00",
-    "updated_at": "2023-01-15T16:08:29+01:00",
-    "media_id": "fzux5iracm27",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6247066/geen-wijzigingen-bij-feyenoord-in-duel-met-fc-groningen-hancko-inzetbaar.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6247069,
-    "slug": "chelsea-troeft-arsenal-af-en-legt-aanvaller-mudryk-voor-100-miljoen-euro-vast",
-    "type": "article",
-    "title": "Chelsea troeft Arsenal af en legt aanvaller Mudryk voor 100 miljoen euro vast",
-    "subtitle": null,
-    "published_at": "2023-01-15T15:25:52+01:00",
-    "updated_at": "2023-01-15T16:11:54+01:00",
-    "media_id": "i4axeplajuhu",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6247069/chelsea-troeft-arsenal-af-en-legt-aanvaller-mudryk-voor-100-miljoen-euro-vast.html",
     "open_new_window": false,
     "partner": null
   }
