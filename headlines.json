@@ -1,12 +1,104 @@
 [
   {
+    "id": 6246919,
+    "slug": "overheid-deelt-broncode-van-digid-app-zodat-burgers-kunnen-meekijken",
+    "type": "article",
+    "title": "Overheid deelt broncode van DigiD-app zodat burgers kunnen meekijken",
+    "subtitle": null,
+    "published_at": "2023-01-16T14:51:36+01:00",
+    "updated_at": "2023-01-16T14:51:37+01:00",
+    "media_id": "6jsx790azryj",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771438,
+      "slug": "tech",
+      "type": "default",
+      "name": "Tech",
+      "style": "nutech",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/tech/6246919/overheid-deelt-broncode-van-digid-app-zodat-burgers-kunnen-meekijken.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6247203,
+    "slug": "ravage-na-dodelijke-aanrijding-bij-brandenburger-tor-in-berlijn",
+    "type": "video",
+    "title": "Ravage na dodelijke aanrijding bij Brandenburger Tor in Berlijn",
+    "subtitle": "Video",
+    "published_at": "2023-01-16T14:49:09+01:00",
+    "updated_at": "2023-01-16T14:49:10+01:00",
+    "media_id": "aevx0oeatmie",
+    "duration": "0:31",
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6247203/ravage-na-dodelijke-aanrijding-bij-brandenburger-tor-in-berlijn.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6247200,
+    "slug": "rijimpressie-citroen-ds3",
+    "type": "video",
+    "title": "Rijimpressie: Citroën DS3",
+    "subtitle": "Video",
+    "published_at": "2023-01-16T14:34:05+01:00",
+    "updated_at": "2023-01-16T14:36:02+01:00",
+    "media_id": "15nx205ahkn5",
+    "duration": "5:44",
+    "canonical_section": {
+      "id": 881569,
+      "slug": "auto",
+      "type": "default",
+      "name": "Onderweg",
+      "style": "nuzakelijk",
+      "media_id": "z66x61xaq79c",
+      "partner": null
+    },
+    "url": "/auto/6247200/rijimpressie-citroen-ds3.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6247196,
+    "slug": "politieagent-van-londense-elite-eenheid-bekent-49-misdrijven-tegen-vrouwen",
+    "type": "article",
+    "title": "Politieagent van Londense elite-eenheid bekent 49 misdrijven tegen vrouwen",
+    "subtitle": null,
+    "published_at": "2023-01-16T14:20:01+01:00",
+    "updated_at": "2023-01-16T14:20:03+01:00",
+    "media_id": "tkex06wa5ouw",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6247196/politieagent-van-londense-elite-eenheid-bekent-49-misdrijven-tegen-vrouwen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6247191,
     "slug": "verdachte-van-13-jaar-oude-zedendelicten-dankzij-3d-beeldtechniek-aangehouden",
     "type": "article",
     "title": "Verdachte van 13 jaar oude zedendelicten dankzij 3D-beeldtechniek aangehouden",
     "subtitle": null,
     "published_at": "2023-01-16T14:04:52+01:00",
-    "updated_at": "2023-01-16T14:04:53+01:00",
+    "updated_at": "2023-01-16T14:16:05+01:00",
     "media_id": "20cxe0eax0z8",
     "duration": null,
     "canonical_section": {
@@ -116,12 +208,12 @@
   },
   {
     "id": 6247187,
-    "slug": "vjeze-fur-gaat-voor-bnnvara-op-culinaire-reis-door-italie",
+    "slug": "vjeze-fur-maakt-culinaire-trip-door-italie-voor-bnnvara",
     "type": "article",
-    "title": "Vjèze Fur gaat voor BNNVARA op culinaire reis door Italië",
+    "title": "Vjèze Fur maakt culinaire trip door Italië voor BNNVARA",
     "subtitle": null,
     "published_at": "2023-01-16T13:23:16+01:00",
-    "updated_at": "2023-01-16T13:23:17+01:00",
+    "updated_at": "2023-01-16T14:24:48+01:00",
     "media_id": "nv3xjc3aboa4",
     "duration": null,
     "canonical_section": {
@@ -133,7 +225,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/media/6247187/vjeze-fur-gaat-voor-bnnvara-op-culinaire-reis-door-italie.html",
+    "url": "/media/6247187/vjeze-fur-maakt-culinaire-trip-door-italie-voor-bnnvara.html",
     "open_new_window": false,
     "partner": null
   },
@@ -162,12 +254,12 @@
   },
   {
     "id": 6247181,
-    "slug": "aanklager-wil-drie-wedstrijden-schorsing-voor-tannane-na-rood-in-gelderse-derby",
+    "slug": "tannane-drie-wedstrijden-geschorst-na-rood-in-gelderse-derby",
     "type": "article",
-    "title": "Aanklager wil drie wedstrijden schorsing voor Tannane na rood in Gelderse derby",
+    "title": "Tannane drie wedstrijden geschorst na rood in Gelderse derby",
     "subtitle": null,
     "published_at": "2023-01-16T13:05:55+01:00",
-    "updated_at": "2023-01-16T13:05:56+01:00",
+    "updated_at": "2023-01-16T14:57:44+01:00",
     "media_id": "dxdxv2xae5wp",
     "duration": null,
     "canonical_section": {
@@ -179,7 +271,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6247181/aanklager-wil-drie-wedstrijden-schorsing-voor-tannane-na-rood-in-gelderse-derby.html",
+    "url": "/voetbal/6247181/tannane-drie-wedstrijden-geschorst-na-rood-in-gelderse-derby.html",
     "open_new_window": false,
     "partner": null
   },
@@ -351,7 +443,7 @@
     "title": "Hockeyers geven bijna niets weg en winnen op WK ook ruim van Nieuw-Zeeland",
     "subtitle": null,
     "published_at": "2023-01-16T12:19:16+01:00",
-    "updated_at": "2023-01-16T12:44:23+01:00",
+    "updated_at": "2023-01-16T14:29:19+01:00",
     "media_id": "2yhx31faqxp9",
     "duration": null,
     "canonical_section": {
@@ -594,98 +686,6 @@
       "partner": null
     },
     "url": "/media/6247144/npo-werknemers-riskeren-hoge-boete-als-zij-geheimhoudingsplicht-schenden.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6247143,
-    "slug": "gasprijs-duikt-onder-de-60-euro-laagste-punt-in-ruim-een-jaar",
-    "type": "article",
-    "title": "Gasprijs duikt onder de 60 euro: laagste punt in ruim een jaar",
-    "subtitle": null,
-    "published_at": "2023-01-16T09:36:58+01:00",
-    "updated_at": "2023-01-16T12:54:12+01:00",
-    "media_id": "0m7x5jza7dcu",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779119,
-      "slug": "kostencrisis",
-      "type": "default",
-      "name": "Kostencrisis",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/kostencrisis/6247143/gasprijs-duikt-onder-de-60-euro-laagste-punt-in-ruim-een-jaar.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6247141,
-    "slug": "twitter-blokkeert-zonder-aankondiging-toegang-voor-externe-apps",
-    "type": "article",
-    "title": "Twitter blokkeert zonder aankondiging toegang voor externe apps",
-    "subtitle": null,
-    "published_at": "2023-01-16T09:33:10+01:00",
-    "updated_at": "2023-01-16T09:33:11+01:00",
-    "media_id": "i16xvxaagibn",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771438,
-      "slug": "tech",
-      "type": "default",
-      "name": "Tech",
-      "style": "nutech",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/tech/6247141/twitter-blokkeert-zonder-aankondiging-toegang-voor-externe-apps.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6247140,
-    "slug": "grieken-nemen-afscheid-van-voormalige-koning-constantijn",
-    "type": "video",
-    "title": "Grieken nemen afscheid van voormalige koning Constantijn",
-    "subtitle": "Video",
-    "published_at": "2023-01-16T09:18:36+01:00",
-    "updated_at": "2023-01-16T09:22:04+01:00",
-    "media_id": "l7zxfh6azii7",
-    "duration": "0:44",
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6247140/grieken-nemen-afscheid-van-voormalige-koning-constantijn.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6247136,
-    "slug": "handige-tool-of-gevaarlijke-ontwikkeling-praat-mee-over-chatbots",
-    "type": "article",
-    "title": "Handige tool of gevaarlijke ontwikkeling? Praat mee over chatbots",
-    "subtitle": null,
-    "published_at": "2023-01-16T09:11:06+01:00",
-    "updated_at": "2023-01-16T09:11:07+01:00",
-    "media_id": "awexpw4aw913",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779134,
-      "slug": "stelling",
-      "type": "default",
-      "name": "Stelling",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/stelling/6247136/handige-tool-of-gevaarlijke-ontwikkeling-praat-mee-over-chatbots.html",
     "open_new_window": false,
     "partner": null
   }
