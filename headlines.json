@@ -1,5 +1,143 @@
 [
   {
+    "id": 6247537,
+    "slug": "art-rooijakkers-leeft-meer-in-het-nu-na-kwijtraken-van-zijn-stem",
+    "type": "article",
+    "title": "Art Rooijakkers leeft meer in het nu na kwijtraken van zijn stem",
+    "subtitle": null,
+    "published_at": "2023-01-18T18:51:35+01:00",
+    "updated_at": "2023-01-18T18:58:36+01:00",
+    "media_id": "5kxxmgxazrxs",
+    "duration": null,
+    "canonical_section": {
+      "id": 125,
+      "slug": "achterklap",
+      "type": "default",
+      "name": "Achterklap",
+      "style": "nuentertainment",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/achterklap/6247537/art-rooijakkers-leeft-meer-in-het-nu-na-kwijtraken-van-zijn-stem.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6247493,
+    "slug": "wat-is-neussprayverslaving-en-hoe-kom-je-ervan-af",
+    "type": "article",
+    "title": "Wat is neussprayverslaving en hoe kom je ervan af?",
+    "subtitle": null,
+    "published_at": "2023-01-18T18:49:22+01:00",
+    "updated_at": "2023-01-18T18:49:23+01:00",
+    "media_id": "m1nxdnva269r",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779134,
+      "slug": "stelling",
+      "type": "default",
+      "name": "Stelling",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/stelling/6247493/wat-is-neussprayverslaving-en-hoe-kom-je-ervan-af.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6247538,
+    "slug": "nac-verrast-en-haalt-duitse-trainer-hyballa-terug-naar-nederland",
+    "type": "article",
+    "title": "NAC verrast en haalt Duitse trainer Hyballa terug naar Nederland",
+    "subtitle": null,
+    "published_at": "2023-01-18T18:41:23+01:00",
+    "updated_at": "2023-01-18T18:46:57+01:00",
+    "media_id": "570x3dkaohvf",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6247538/nac-verrast-en-haalt-duitse-trainer-hyballa-terug-naar-nederland.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6247535,
+    "slug": "topeconoom-barbara-baarsma-vertrekt-bij-rabobank",
+    "type": "article",
+    "title": "Topeconoom Barbara Baarsma vertrekt bij Rabobank",
+    "subtitle": null,
+    "published_at": "2023-01-18T18:36:05+01:00",
+    "updated_at": "2023-01-18T18:36:07+01:00",
+    "media_id": "h5dxvsbansr2",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6247535/topeconoom-barbara-baarsma-vertrekt-bij-rabobank.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6247536,
+    "slug": "dashcam-filmt-hoe-auto-over-ijzige-weg-in-engeland-slingert",
+    "type": "video",
+    "title": "Dashcam filmt hoe auto over ijzige weg in Engeland slingert",
+    "subtitle": "Video",
+    "published_at": "2023-01-18T18:32:15+01:00",
+    "updated_at": "2023-01-18T18:32:16+01:00",
+    "media_id": "s4exw85ak7nt",
+    "duration": "0:42",
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6247536/dashcam-filmt-hoe-auto-over-ijzige-weg-in-engeland-slingert.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6247498,
+    "slug": "syrier-uit-arkel-verdacht-van-is-verleden-waterdicht-asielsysteem-kan-niet",
+    "type": "article",
+    "title": "Syriër uit Arkel verdacht van IS-verleden: 'Waterdicht asielsysteem kan niet'",
+    "subtitle": null,
+    "published_at": "2023-01-18T18:09:37+01:00",
+    "updated_at": "2023-01-18T18:09:39+01:00",
+    "media_id": "8vdx1rrafczr",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6247498/syrier-uit-arkel-verdacht-van-is-verleden-waterdicht-asielsysteem-kan-niet.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6247531,
     "slug": "brit-beklimt-in-zwembroek-hoogste-berg-in-verenigd-koninkrijk",
     "type": "video",
@@ -47,12 +185,12 @@
   },
   {
     "id": 6247523,
-    "slug": "memphis-ontbreekt-op-training-fc-barcelona-en-lijkt-transfer-te-forceren",
+    "slug": "memphis-ontbreekt-in-selectie-fc-barcelona-en-lijkt-op-weg-naar-atletico",
     "type": "article",
-    "title": "Memphis ontbreekt op training FC Barcelona en lijkt transfer te forceren",
+    "title": "Memphis ontbreekt in selectie FC Barcelona en lijkt op weg naar Atlético",
     "subtitle": null,
     "published_at": "2023-01-18T17:08:22+01:00",
-    "updated_at": "2023-01-18T17:35:55+01:00",
+    "updated_at": "2023-01-18T18:11:00+01:00",
     "media_id": "pkjxixiajgaf",
     "duration": null,
     "canonical_section": {
@@ -64,7 +202,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6247523/memphis-ontbreekt-op-training-fc-barcelona-en-lijkt-transfer-te-forceren.html",
+    "url": "/voetbal/6247523/memphis-ontbreekt-in-selectie-fc-barcelona-en-lijkt-op-weg-naar-atletico.html",
     "open_new_window": false,
     "partner": null
   },
@@ -75,7 +213,7 @@
     "title": "Twee inzittenden van spookrijdende auto op A16 waren bekenden van de politie",
     "subtitle": null,
     "published_at": "2023-01-18T17:02:10+01:00",
-    "updated_at": "2023-01-18T17:02:12+01:00",
+    "updated_at": "2023-01-18T18:11:43+01:00",
     "media_id": "5mcx88taj8x5",
     "duration": null,
     "canonical_section": {
@@ -461,12 +599,12 @@
   },
   {
     "id": 6247450,
-    "slug": "jelle-brandt-corstius-vrijgesproken-van-smaad-in-zaak-gijs-van-dam",
+    "slug": "jelle-brandt-corstius-grotendeels-vrijgesproken-van-smaad-in-zaak-gijs-van-dam",
     "type": "article",
-    "title": "Jelle Brandt Corstius vrijgesproken van smaad in zaak Gijs van Dam",
+    "title": "Jelle Brandt Corstius grotendeels vrijgesproken van smaad in zaak Gijs van Dam",
     "subtitle": null,
     "published_at": "2023-01-18T13:59:36+01:00",
-    "updated_at": "2023-01-18T17:20:44+01:00",
+    "updated_at": "2023-01-18T18:45:12+01:00",
     "media_id": "oqbxd3hagzcs",
     "duration": null,
     "canonical_section": {
@@ -478,7 +616,7 @@
       "media_id": "m1mxmqea7g3b",
       "partner": null
     },
-    "url": "/metoo/6247450/jelle-brandt-corstius-vrijgesproken-van-smaad-in-zaak-gijs-van-dam.html",
+    "url": "/metoo/6247450/jelle-brandt-corstius-grotendeels-vrijgesproken-van-smaad-in-zaak-gijs-van-dam.html",
     "open_new_window": false,
     "partner": null
   },
@@ -548,144 +686,6 @@
       "partner": null
     },
     "url": "/binnenland/6247484/anwb-verwacht-donderdag-pittige-dag-op-wegen-door-stakingen-en-slecht-weer.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6247476,
-    "slug": "serie-a-club-van-vilhena-haalt-trainer-twee-dagen-na-ontslag-weer-terug",
-    "type": "article",
-    "title": "Serie A-club van Vilhena haalt trainer twee dagen na ontslag weer terug",
-    "subtitle": null,
-    "published_at": "2023-01-18T12:59:17+01:00",
-    "updated_at": "2023-01-18T13:00:53+01:00",
-    "media_id": "445xc93awcss",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6247476/serie-a-club-van-vilhena-haalt-trainer-twee-dagen-na-ontslag-weer-terug.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6247478,
-    "slug": "cambodjaans-woonhuis-stort-in-kolkend-water",
-    "type": "video",
-    "title": "Cambodjaans woonhuis stort in kolkend water",
-    "subtitle": "Video",
-    "published_at": "2023-01-18T12:58:27+01:00",
-    "updated_at": "2023-01-18T12:58:28+01:00",
-    "media_id": "sucxbxkazci0",
-    "duration": "0:45",
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6247478/cambodjaans-woonhuis-stort-in-kolkend-water.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6247474,
-    "slug": "cees-bol-vindt-onderdak-bij-astana-en-gaat-sprint-aantrekken-voor-cavendish",
-    "type": "article",
-    "title": "Cees Bol vindt onderdak bij Astana en gaat sprint aantrekken voor Cavendish",
-    "subtitle": null,
-    "published_at": "2023-01-18T12:34:13+01:00",
-    "updated_at": "2023-01-18T12:34:14+01:00",
-    "media_id": "b6zxkc1ayjol",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772339,
-      "slug": "wielrennen",
-      "type": "default",
-      "name": "Wielrennen",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/wielrennen/6247474/cees-bol-vindt-onderdak-bij-astana-en-gaat-sprint-aantrekken-voor-cavendish.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6247454,
-    "slug": "dit-vinden-jullie-ervan-dat-chatgpt-het-huiswerk-van-scholieren-kan-maken",
-    "type": "article",
-    "title": "Dit vinden jullie ervan dat ChatGPT het huiswerk van scholieren kan maken",
-    "subtitle": null,
-    "published_at": "2023-01-18T12:29:51+01:00",
-    "updated_at": "2023-01-18T12:29:52+01:00",
-    "media_id": "z29xxjvak9a1",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779134,
-      "slug": "stelling",
-      "type": "default",
-      "name": "Stelling",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/stelling/6247454/dit-vinden-jullie-ervan-dat-chatgpt-het-huiswerk-van-scholieren-kan-maken.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6247472,
-    "slug": "prins-harry-staat-bovenaan-de-lijst-met-bestverkochte-boeken-in-nederland",
-    "type": "article",
-    "title": "Prins Harry staat bovenaan de lijst met bestverkochte boeken in Nederland",
-    "subtitle": null,
-    "published_at": "2023-01-18T12:23:22+01:00",
-    "updated_at": "2023-01-18T14:06:55+01:00",
-    "media_id": "j8rxlsoaqae6",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772075,
-      "slug": "cultuur-overig",
-      "type": "default",
-      "name": "Boek & Cultuur",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/cultuur-overig/6247472/prins-harry-staat-bovenaan-de-lijst-met-bestverkochte-boeken-in-nederland.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6247463,
-    "slug": "huishoudens-met-blokverwarming-krijgen-800-euro-steun-in-eerste-helft-van-2023",
-    "type": "article",
-    "title": "Huishoudens met blokverwarming krijgen 800 euro steun in eerste helft van 2023",
-    "subtitle": null,
-    "published_at": "2023-01-18T12:09:04+01:00",
-    "updated_at": "2023-01-18T12:09:05+01:00",
-    "media_id": "xy0x4zaaf6o7",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6247463/huishoudens-met-blokverwarming-krijgen-800-euro-steun-in-eerste-helft-van-2023.html",
     "open_new_window": false,
     "partner": null
   }
