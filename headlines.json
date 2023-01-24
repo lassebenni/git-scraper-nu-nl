@@ -1,12 +1,58 @@
 [
   {
+    "id": 6248359,
+    "slug": "bakayoko-in-emmen-dicht-bij-openingstreffer-psv",
+    "type": "article",
+    "title": "Bakayoko in Emmen dicht bij openingstreffer PSV",
+    "subtitle": "Liveblog Eredivisie",
+    "published_at": "2023-01-24T18:24:04+01:00",
+    "updated_at": "2023-01-24T19:00:35+01:00",
+    "media_id": "50lxbaaalv3p",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6248359/bakayoko-in-emmen-dicht-bij-openingstreffer-psv.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6248355,
+    "slug": "al-441-aanklachten-tegen-mensen-die-duits-bruinkooldorp-lutzerath-bezetten",
+    "type": "article",
+    "title": "Al 441 aanklachten tegen mensen die Duits 'bruinkooldorp' Lützerath bezetten",
+    "subtitle": null,
+    "published_at": "2023-01-24T18:13:59+01:00",
+    "updated_at": "2023-01-24T18:14:01+01:00",
+    "media_id": "slhxyjbar5ot",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6248355/al-441-aanklachten-tegen-mensen-die-duits-bruinkooldorp-lutzerath-bezetten.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6248351,
     "slug": "doemdagklok-wijst-laatste-tijdstip-ooit-aan-negentig-seconden-voor-middernacht",
     "type": "article",
     "title": "Doemdagklok wijst laatste tijdstip ooit aan: negentig seconden voor middernacht",
     "subtitle": null,
     "published_at": "2023-01-24T17:42:41+01:00",
-    "updated_at": "2023-01-24T18:00:25+01:00",
+    "updated_at": "2023-01-24T18:06:59+01:00",
     "media_id": "jctx6rxarho8",
     "duration": null,
     "canonical_section": {
@@ -75,7 +121,7 @@
     "title": "Militairen rijden door verwoeste straten van Bakhmut",
     "subtitle": "Video",
     "published_at": "2023-01-24T17:19:07+01:00",
-    "updated_at": "2023-01-24T17:19:08+01:00",
+    "updated_at": "2023-01-24T18:18:03+01:00",
     "media_id": "1jcxvqnanbo1",
     "duration": "0:35",
     "canonical_section": {
@@ -535,7 +581,7 @@
     "title": "Ruim 125 jaar oude Nederlandse papierfabriek is failliet",
     "subtitle": null,
     "published_at": "2023-01-24T12:48:15+01:00",
-    "updated_at": "2023-01-24T13:50:51+01:00",
+    "updated_at": "2023-01-24T18:37:19+01:00",
     "media_id": "162xcqpalcwz",
     "duration": null,
     "canonical_section": {
@@ -640,52 +686,6 @@
       "partner": null
     },
     "url": "/economie/6248290/heb-jij-onlangs-gestaakt-of-weigerde-je-een-oproep-dan-zoeken-we-jou.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6248285,
-    "slug": "ex-premier-libanon-weer-aangeklaagd-voor-betrokkenheid-bij-explosie-beiroet",
-    "type": "article",
-    "title": "Ex-premier Libanon weer aangeklaagd voor betrokkenheid bij explosie Beiroet",
-    "subtitle": null,
-    "published_at": "2023-01-24T12:08:18+01:00",
-    "updated_at": "2023-01-24T12:08:19+01:00",
-    "media_id": "t08xs6ta9an2",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6248285/ex-premier-libanon-weer-aangeklaagd-voor-betrokkenheid-bij-explosie-beiroet.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6248291,
-    "slug": "hijskraan-plaatst-oude-boeing-voor-studenten-in-limburgse-hangaar",
-    "type": "video",
-    "title": "Hijskraan plaatst oude Boeing voor studenten in Limburgse hangaar",
-    "subtitle": "Video",
-    "published_at": "2023-01-24T12:06:16+01:00",
-    "updated_at": "2023-01-24T12:06:17+01:00",
-    "media_id": "snhxa46akb9j",
-    "duration": "0:43",
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6248291/hijskraan-plaatst-oude-boeing-voor-studenten-in-limburgse-hangaar.html",
     "open_new_window": false,
     "partner": null
   }
