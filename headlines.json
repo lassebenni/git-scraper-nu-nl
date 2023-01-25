@@ -1,12 +1,127 @@
 [
   {
-    "id": 6248538,
-    "slug": "barcelona-klopt-tiental-real-sociedad-en-bereikt-halve-finales-copa-del-rey",
+    "id": 6248510,
+    "slug": "fysieke-boekwinkels-maken-inhaalslag-nederlandstalige-boeken-minder-in-trek",
     "type": "article",
-    "title": "Barcelona klopt tiental Real Sociedad en bereikt halve finales Copa del Rey",
+    "title": "Fysieke boekwinkels maken inhaalslag, Nederlandstalige boeken minder in trek",
+    "subtitle": null,
+    "published_at": "2023-01-26T00:01:15+01:00",
+    "updated_at": "2023-01-26T00:01:16+01:00",
+    "media_id": "t83xhf6a6een",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772075,
+      "slug": "cultuur-overig",
+      "type": "default",
+      "name": "Boek & Cultuur",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/cultuur-overig/6248510/fysieke-boekwinkels-maken-inhaalslag-nederlandstalige-boeken-minder-in-trek.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6248469,
+    "slug": "we-zijn-dit-jaar-meer-kwijt-aan-parkeergeld-en-ophalen-afval",
+    "type": "article",
+    "title": "We zijn dit jaar meer kwijt aan parkeergeld en ophalen afval",
+    "subtitle": null,
+    "published_at": "2023-01-26T00:00:27+01:00",
+    "updated_at": "2023-01-26T00:00:28+01:00",
+    "media_id": "9ywx0ida2621",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6248469/we-zijn-dit-jaar-meer-kwijt-aan-parkeergeld-en-ophalen-afval.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6248540,
+    "slug": "nec-trainer-meijer-woest-over-schandalige-rode-kaart-tegen-feyenoord",
+    "type": "article",
+    "title": "NEC-trainer Meijer woest over 'schandalige' rode kaart tegen Feyenoord",
+    "subtitle": null,
+    "published_at": "2023-01-25T23:53:31+01:00",
+    "updated_at": "2023-01-25T23:54:57+01:00",
+    "media_id": "k26xwv3a6r7q",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6248540/nec-trainer-meijer-woest-over-schandalige-rode-kaart-tegen-feyenoord.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6248184,
+    "slug": "donald-trump-krijgt-weer-toegang-tot-zijn-accounts-op-facebook-en-instagram",
+    "type": "article",
+    "title": "Donald Trump krijgt weer toegang tot zijn accounts op Facebook en Instagram",
+    "subtitle": null,
+    "published_at": "2023-01-25T23:37:51+01:00",
+    "updated_at": "2023-01-25T23:55:50+01:00",
+    "media_id": "t83xgooaenic",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771438,
+      "slug": "tech",
+      "type": "default",
+      "name": "Tech",
+      "style": "nutech",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/tech/6248184/donald-trump-krijgt-weer-toegang-tot-zijn-accounts-op-facebook-en-instagram.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6248539,
+    "slug": "jaimie-vaes-lekte-zelf-beelden-van-mishandeling-naar-roddelvlogger-coldeweijer",
+    "type": "article",
+    "title": "Jaimie Vaes lekte zelf beelden van mishandeling naar roddelvlogger Coldeweijer",
+    "subtitle": null,
+    "published_at": "2023-01-25T23:22:28+01:00",
+    "updated_at": "2023-01-25T23:47:47+01:00",
+    "media_id": "o7pxlbka0sl8",
+    "duration": null,
+    "canonical_section": {
+      "id": 125,
+      "slug": "achterklap",
+      "type": "default",
+      "name": "Achterklap",
+      "style": "nuentertainment",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/achterklap/6248539/jaimie-vaes-lekte-zelf-beelden-van-mishandeling-naar-roddelvlogger-coldeweijer.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6248538,
+    "slug": "fc-barcelona-klopt-tiental-real-sociedad-en-bereikt-halve-finales-copa-del-rey",
+    "type": "article",
+    "title": "FC Barcelona klopt tiental Real Sociedad en bereikt halve finales Copa del Rey",
     "subtitle": null,
     "published_at": "2023-01-25T22:59:35+01:00",
-    "updated_at": "2023-01-25T22:59:36+01:00",
+    "updated_at": "2023-01-25T23:13:34+01:00",
     "media_id": "mt1x2ceavi6s",
     "duration": null,
     "canonical_section": {
@@ -18,18 +133,18 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6248538/barcelona-klopt-tiental-real-sociedad-en-bereikt-halve-finales-copa-del-rey.html",
+    "url": "/voetbal/6248538/fc-barcelona-klopt-tiental-real-sociedad-en-bereikt-halve-finales-copa-del-rey.html",
     "open_new_window": false,
     "partner": null
   },
   {
     "id": 6248536,
-    "slug": "feyenoord-profiteert-optimaal-van-misstap-psv-en-blijft-koploper-eredivisie",
+    "slug": "feyenoord-profiteert-optimaal-van-misstap-psv-en-blijft-koploper-in-eredivisie",
     "type": "article",
-    "title": "Feyenoord profiteert optimaal van misstap PSV en blijft koploper Eredivisie",
+    "title": "Feyenoord profiteert optimaal van misstap PSV en blijft koploper in Eredivisie",
     "subtitle": null,
     "published_at": "2023-01-25T22:57:16+01:00",
-    "updated_at": "2023-01-25T23:00:56+01:00",
+    "updated_at": "2023-01-25T23:14:48+01:00",
     "media_id": "fnhxt0ja5fnc",
     "duration": null,
     "canonical_section": {
@@ -41,7 +156,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6248536/feyenoord-profiteert-optimaal-van-misstap-psv-en-blijft-koploper-eredivisie.html",
+    "url": "/voetbal/6248536/feyenoord-profiteert-optimaal-van-misstap-psv-en-blijft-koploper-in-eredivisie.html",
     "open_new_window": false,
     "partner": null
   },
@@ -98,7 +213,7 @@
     "title": "United mede dankzij eerste treffer van Weghorst dicht bij League Cup-finale",
     "subtitle": null,
     "published_at": "2023-01-25T21:59:36+01:00",
-    "updated_at": "2023-01-25T22:59:03+01:00",
+    "updated_at": "2023-01-25T23:16:06+01:00",
     "media_id": "gxdxfp3ag0w9",
     "duration": null,
     "canonical_section": {
@@ -116,12 +231,12 @@
   },
   {
     "id": 6248531,
-    "slug": "fc-utrecht-klopt-excelsior-geblesseerde-noppert-ziet-heerenveen-verliezen",
+    "slug": "fc-utrecht-maakt-geen-fout-tegen-excelsior-heerenveen-verliest-zonder-noppert",
     "type": "article",
-    "title": "FC Utrecht klopt Excelsior, geblesseerde Noppert ziet Heerenveen verliezen",
+    "title": "FC Utrecht maakt geen fout tegen Excelsior, Heerenveen verliest zonder Noppert",
     "subtitle": null,
     "published_at": "2023-01-25T21:57:15+01:00",
-    "updated_at": "2023-01-25T22:57:25+01:00",
+    "updated_at": "2023-01-25T23:11:44+01:00",
     "media_id": "xn2xngsa86ld",
     "duration": null,
     "canonical_section": {
@@ -133,7 +248,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6248531/fc-utrecht-klopt-excelsior-geblesseerde-noppert-ziet-heerenveen-verliezen.html",
+    "url": "/voetbal/6248531/fc-utrecht-maakt-geen-fout-tegen-excelsior-heerenveen-verliest-zonder-noppert.html",
     "open_new_window": false,
     "partner": null
   },
@@ -231,12 +346,12 @@
   },
   {
     "id": 6248525,
-    "slug": "az-legt-druk-bij-feyenoord-na-zege-op-go-ahead-twente-niet-langs-vitesse",
+    "slug": "az-steviger-op-tweede-plek-na-zege-op-go-ahead-twente-niet-langs-vitesse",
     "type": "article",
-    "title": "AZ legt druk bij Feyenoord na zege op Go Ahead, Twente niet langs Vitesse",
+    "title": "AZ steviger op tweede plek na zege op Go Ahead, Twente niet langs Vitesse",
     "subtitle": null,
     "published_at": "2023-01-25T20:43:56+01:00",
-    "updated_at": "2023-01-25T21:14:20+01:00",
+    "updated_at": "2023-01-25T23:08:47+01:00",
     "media_id": "rt4x3mjak1o3",
     "duration": null,
     "canonical_section": {
@@ -248,7 +363,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6248525/az-legt-druk-bij-feyenoord-na-zege-op-go-ahead-twente-niet-langs-vitesse.html",
+    "url": "/voetbal/6248525/az-steviger-op-tweede-plek-na-zege-op-go-ahead-twente-niet-langs-vitesse.html",
     "open_new_window": false,
     "partner": null
   },
@@ -351,7 +466,7 @@
     "title": "Echtgenoot Carole Baskin (Tiger King) zou zijn gevonden, familie weet van niks",
     "subtitle": null,
     "published_at": "2023-01-25T19:57:33+01:00",
-    "updated_at": "2023-01-25T19:57:34+01:00",
+    "updated_at": "2023-01-25T23:38:11+01:00",
     "media_id": "tr6xqp0a299d",
     "duration": null,
     "canonical_section": {
@@ -553,12 +668,12 @@
   },
   {
     "id": 6248513,
-    "slug": "feyenoord-leidt-comfortabel-tegen-tiental-nec",
+    "slug": "reacties-na-moeiteloze-winst-feyenoord-op-tiental-nec-gesloten",
     "type": "article",
-    "title": "Feyenoord leidt comfortabel tegen tiental NEC",
+    "title": "Reacties na moeiteloze winst Feyenoord op tiental NEC (gesloten)",
     "subtitle": "Liveblog Eredivisie",
     "published_at": "2023-01-25T18:21:52+01:00",
-    "updated_at": "2023-01-25T22:30:00+01:00",
+    "updated_at": "2023-01-25T23:38:35+01:00",
     "media_id": "9q5xkttaeudm",
     "duration": null,
     "canonical_section": {
@@ -570,122 +685,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6248513/feyenoord-leidt-comfortabel-tegen-tiental-nec.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6248511,
-    "slug": "veel-hulpdiensten-op-de-been-na-steekpartij-in-duitse-trein",
-    "type": "video",
-    "title": "Veel hulpdiensten op de been na steekpartij in Duitse trein",
-    "subtitle": "Video",
-    "published_at": "2023-01-25T18:10:08+01:00",
-    "updated_at": "2023-01-25T18:10:09+01:00",
-    "media_id": "4pyxvkya91k2",
-    "duration": "0:41",
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6248511/veel-hulpdiensten-op-de-been-na-steekpartij-in-duitse-trein.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6248470,
-    "slug": "gaan-de-tanks-voor-oekraine-echt-het-verschil-maken-dit-zeggen-experts",
-    "type": "article",
-    "title": "Gaan de tanks voor Oekraïne écht het verschil maken? Dit zeggen experts",
-    "subtitle": null,
-    "published_at": "2023-01-25T18:04:21+01:00",
-    "updated_at": "2023-01-25T19:19:05+01:00",
-    "media_id": "nv3xd2lariop",
-    "duration": null,
-    "canonical_section": {
-      "id": 1778980,
-      "slug": "spanningen-oekraine",
-      "type": "default",
-      "name": "Oorlog in Oekraïne",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/spanningen-oekraine/6248470/gaan-de-tanks-voor-oekraine-echt-het-verschil-maken-dit-zeggen-experts.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6248506,
-    "slug": "uefa-introduceert-extra-ronde-in-nations-league-en-kleinere-poules-in-kwalificatie",
-    "type": "article",
-    "title": "UEFA introduceert extra ronde in Nations League en kleinere poules in kwalificatie",
-    "subtitle": null,
-    "published_at": "2023-01-25T18:04:12+01:00",
-    "updated_at": "2023-01-25T18:37:35+01:00",
-    "media_id": "2qmxuqxa9n27",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6248506/uefa-introduceert-extra-ronde-in-nations-league-en-kleinere-poules-in-kwalificatie.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6248326,
-    "slug": "ook-vs-gaat-overstag-en-levert-m1-abrams-tanks-aan-oekraine",
-    "type": "article",
-    "title": "Ook VS gaat overstag en levert M1 Abrams-tanks aan Oekraïne",
-    "subtitle": null,
-    "published_at": "2023-01-25T18:02:36+01:00",
-    "updated_at": "2023-01-25T19:29:57+01:00",
-    "media_id": "ci8xdi4aztq3",
-    "duration": null,
-    "canonical_section": {
-      "id": 1778980,
-      "slug": "spanningen-oekraine",
-      "type": "default",
-      "name": "Oorlog in Oekraïne",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/spanningen-oekraine/6248326/ook-vs-gaat-overstag-en-levert-m1-abrams-tanks-aan-oekraine.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6248505,
-    "slug": "twee-vrachtwagens-total-loss-na-kop-staartbotsing-bij-antwerpen",
-    "type": "video",
-    "title": "Twee vrachtwagens total loss na kop-staartbotsing bij Antwerpen",
-    "subtitle": "Video",
-    "published_at": "2023-01-25T17:37:13+01:00",
-    "updated_at": "2023-01-25T17:37:15+01:00",
-    "media_id": "yndx8xjafsju",
-    "duration": "0:33",
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6248505/twee-vrachtwagens-total-loss-na-kop-staartbotsing-bij-antwerpen.html",
+    "url": "/voetbal/6248513/reacties-na-moeiteloze-winst-feyenoord-op-tiental-nec-gesloten.html",
     "open_new_window": false,
     "partner": null
   }
