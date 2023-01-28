@@ -1,5 +1,74 @@
 [
   {
+    "id": 6248915,
+    "slug": "politie-den-haag-pakt-drie-minderjarigen-op-na-dodelijke-steekpartij",
+    "type": "article",
+    "title": "Politie Den Haag pakt drie minderjarigen op na dodelijke steekpartij",
+    "subtitle": null,
+    "published_at": "2023-01-28T11:58:32+01:00",
+    "updated_at": "2023-01-28T11:58:33+01:00",
+    "media_id": "jcyxyjwamjzh",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6248915/politie-den-haag-pakt-drie-minderjarigen-op-na-dodelijke-steekpartij.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6248914,
+    "slug": "academy-onderzoekt-oscarcampagnes-na-verrassende-nominatie-to-leslie",
+    "type": "article",
+    "title": "Academy onderzoekt Oscarcampagnes na verrassende nominatie To Leslie",
+    "subtitle": null,
+    "published_at": "2023-01-28T11:54:11+01:00",
+    "updated_at": "2023-01-28T11:54:12+01:00",
+    "media_id": "z5ax56oackti",
+    "duration": null,
+    "canonical_section": {
+      "id": 127,
+      "slug": "film",
+      "type": "default",
+      "name": "Films & Series",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/film/6248914/academy-onderzoekt-oscarcampagnes-na-verrassende-nominatie-to-leslie.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6248908,
+    "slug": "bodycambeelden-tonen-fatale-arrestatie-zwarte-man-in-vs",
+    "type": "video",
+    "title": "Bodycambeelden tonen fatale arrestatie zwarte man in VS",
+    "subtitle": "Video",
+    "published_at": "2023-01-28T11:09:01+01:00",
+    "updated_at": "2023-01-28T11:16:17+01:00",
+    "media_id": "pllxps5ag5rt",
+    "duration": "0:56",
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6248908/bodycambeelden-tonen-fatale-arrestatie-zwarte-man-in-vs.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6248905,
     "slug": "tientallen-arrestaties-na-dodelijke-schietpartij-bij-synagoge-in-jeruzalem",
     "type": "article",
@@ -70,12 +139,12 @@
   },
   {
     "id": 6248903,
-    "slug": "chipbedrijf-asml-past-groeiverwachting-niet-aan-na-exportbeperking-china",
+    "slug": "chipmachinemaker-asml-past-verwachtingen-niet-aan-na-exportbeperking-china",
     "type": "article",
-    "title": "Chipbedrijf ASML past groeiverwachting niet aan na exportbeperking China",
+    "title": "Chipmachinemaker ASML past verwachtingen niet aan na exportbeperking China",
     "subtitle": null,
     "published_at": "2023-01-28T10:05:40+01:00",
-    "updated_at": "2023-01-28T10:05:41+01:00",
+    "updated_at": "2023-01-28T11:59:12+01:00",
     "media_id": "ehkxkhdah9si",
     "duration": null,
     "canonical_section": {
@@ -87,7 +156,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/economie/6248903/chipbedrijf-asml-past-groeiverwachting-niet-aan-na-exportbeperking-china.html",
+    "url": "/economie/6248903/chipmachinemaker-asml-past-verwachtingen-niet-aan-na-exportbeperking-china.html",
     "open_new_window": false,
     "partner": null
   },
@@ -98,7 +167,7 @@
     "title": "Nederlandse renster Adegeest boekt in Australië eerste WorldTour-zege",
     "subtitle": null,
     "published_at": "2023-01-28T09:52:10+01:00",
-    "updated_at": "2023-01-28T09:52:48+01:00",
+    "updated_at": "2023-01-28T11:33:38+01:00",
     "media_id": "ocnxsjkamdet",
     "duration": null,
     "canonical_section": {
@@ -121,7 +190,7 @@
     "title": "Arsenal-doelwit Caicedo vraagt Brighton op sociale media om recordtransfer",
     "subtitle": null,
     "published_at": "2023-01-28T09:39:27+01:00",
-    "updated_at": "2023-01-28T10:50:00+01:00",
+    "updated_at": "2023-01-28T11:06:05+01:00",
     "media_id": "qxyxh14av4wr",
     "duration": null,
     "canonical_section": {
@@ -139,12 +208,12 @@
   },
   {
     "id": 6248899,
-    "slug": "sabalenka-doet-wat-terug-in-australian-open-finale",
+    "slug": "sabalenka-leidt-in-derde-set-australian-open-finale",
     "type": "article",
-    "title": "Sabalenka doet wat terug in Australian Open-finale",
+    "title": "Sabalenka leidt in derde set Australian Open-finale",
     "subtitle": "Liveblog tennis",
     "published_at": "2023-01-28T09:27:22+01:00",
-    "updated_at": "2023-01-28T10:45:29+01:00",
+    "updated_at": "2023-01-28T11:54:15+01:00",
     "media_id": "r55xuwba9faq",
     "duration": null,
     "canonical_section": {
@@ -156,7 +225,7 @@
       "media_id": "m1oxohpan0gq",
       "partner": null
     },
-    "url": "/tennis/6248899/sabalenka-doet-wat-terug-in-australian-open-finale.html",
+    "url": "/tennis/6248899/sabalenka-leidt-in-derde-set-australian-open-finale.html",
     "open_new_window": false,
     "partner": null
   },
@@ -374,7 +443,7 @@
     "title": "Meerdere protesten in VS na vrijgeven beelden van fatale arrestatie zwarte man",
     "subtitle": null,
     "published_at": "2023-01-28T05:25:24+01:00",
-    "updated_at": "2023-01-28T08:24:07+01:00",
+    "updated_at": "2023-01-28T11:09:45+01:00",
     "media_id": "gx4xf4pa48fw",
     "duration": null,
     "canonical_section": {
@@ -443,7 +512,7 @@
     "title": "Europa wil verbod op PFAS: wat zijn dat ook alweer?",
     "subtitle": "Video",
     "published_at": "2023-01-28T05:02:33+01:00",
-    "updated_at": "2023-01-28T05:02:33+01:00",
+    "updated_at": "2023-01-28T11:16:38+01:00",
     "media_id": "nnpxkj2ab76q",
     "duration": "1:33",
     "canonical_section": {
@@ -617,75 +686,6 @@
       "partner": null
     },
     "url": "/buitenland/6248882/suriname-pakt-vier-verdachten-op-voor-mislukte-aanslag-op-gerechtsgebouw.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6248880,
-    "slug": "matchwinner-ake-schiet-manchester-city-langs-arsenal-in-fa-cup",
-    "type": "article",
-    "title": "Matchwinner Aké schiet Manchester City langs Arsenal in FA Cup",
-    "subtitle": null,
-    "published_at": "2023-01-27T22:57:09+01:00",
-    "updated_at": "2023-01-27T23:47:50+01:00",
-    "media_id": "pnyxm43a2bqf",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6248880/matchwinner-ake-schiet-manchester-city-langs-arsenal-in-fa-cup.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6248879,
-    "slug": "koningspaar-en-amalia-aangekomen-op-bonaire-voor-bezoek-caribisch-gebied",
-    "type": "article",
-    "title": "Koningspaar en Amalia aangekomen op Bonaire voor bezoek Caribisch gebied",
-    "subtitle": null,
-    "published_at": "2023-01-27T22:29:42+01:00",
-    "updated_at": "2023-01-28T08:04:43+01:00",
-    "media_id": "akjx5e4acupt",
-    "duration": null,
-    "canonical_section": {
-      "id": 1778775,
-      "slug": "koningshuis",
-      "type": "default",
-      "name": "Koningshuis",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/koningshuis/6248879/koningspaar-en-amalia-aangekomen-op-bonaire-voor-bezoek-caribisch-gebied.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6248878,
-    "slug": "fraaie-terugkeer-hyballa-bij-nac-heracles-verliest-van-negental-eindhoven",
-    "type": "article",
-    "title": "Fraaie terugkeer Hyballa bij NAC, Heracles verliest van negental Eindhoven",
-    "subtitle": null,
-    "published_at": "2023-01-27T22:18:52+01:00",
-    "updated_at": "2023-01-27T22:44:57+01:00",
-    "media_id": "dhgxxpnahbdm",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6248878/fraaie-terugkeer-hyballa-bij-nac-heracles-verliest-van-negental-eindhoven.html",
     "open_new_window": false,
     "partner": null
   }
