@@ -1,12 +1,104 @@
 [
   {
-    "id": 6248915,
-    "slug": "politie-den-haag-pakt-drie-minderjarigen-op-na-dodelijke-steekpartij",
+    "id": 6248917,
+    "slug": "spiraalvormig-fenomeen-na-raketlancering-in-vs-gefilmd",
+    "type": "video",
+    "title": "Spiraalvormig fenomeen na raketlancering in VS gefilmd",
+    "subtitle": "Video",
+    "published_at": "2023-01-28T12:57:26+01:00",
+    "updated_at": "2023-01-28T12:57:29+01:00",
+    "media_id": "vbvxdl7axsfu",
+    "duration": "0:40",
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6248917/spiraalvormig-fenomeen-na-raketlancering-in-vs-gefilmd.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6248912,
+    "slug": "dit-vinden-jullie-van-agenten-die-zich-ergeren-aan-discussie-etnisch-profileren",
     "type": "article",
-    "title": "Politie Den Haag pakt drie minderjarigen op na dodelijke steekpartij",
+    "title": "Dit vinden jullie van agenten die zich ergeren aan discussie etnisch profileren",
+    "subtitle": null,
+    "published_at": "2023-01-28T12:31:42+01:00",
+    "updated_at": "2023-01-28T12:31:43+01:00",
+    "media_id": "rftxxvuanih9",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779134,
+      "slug": "stelling",
+      "type": "default",
+      "name": "Stelling",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/stelling/6248912/dit-vinden-jullie-van-agenten-die-zich-ergeren-aan-discussie-etnisch-profileren.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6248916,
+    "slug": "politie-grijpt-in-bij-klimaatdemonstratie-op-a12-bij-den-haag-eerste-demonstranten-weggevoerd",
+    "type": "article",
+    "title": "Politie grijpt in bij klimaatdemonstratie op A12 bij Den Haag, eerste demonstranten weggevoerd",
+    "subtitle": null,
+    "published_at": "2023-01-28T12:17:45+01:00",
+    "updated_at": "2023-01-28T12:57:27+01:00",
+    "media_id": "80rxdspasuic",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6248916/politie-grijpt-in-bij-klimaatdemonstratie-op-a12-bij-den-haag-eerste-demonstranten-weggevoerd.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6248913,
+    "slug": "sabalenka-wint-spannende-australian-open-finale-en-pakt-eerste-grand-slam-titel",
+    "type": "article",
+    "title": "Sabalenka wint spannende Australian Open-finale en pakt eerste Grand Slam-titel",
+    "subtitle": null,
+    "published_at": "2023-01-28T12:14:23+01:00",
+    "updated_at": "2023-01-28T12:53:27+01:00",
+    "media_id": "runxtqmaj8o4",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772432,
+      "slug": "tennis",
+      "type": "default",
+      "name": "Tennis",
+      "style": "nusport",
+      "media_id": "m1oxohpan0gq",
+      "partner": null
+    },
+    "url": "/tennis/6248913/sabalenka-wint-spannende-australian-open-finale-en-pakt-eerste-grand-slam-titel.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6248915,
+    "slug": "drie-minderjarigen-opgepakt-na-dodelijke-steekpartij-in-den-haag",
+    "type": "article",
+    "title": "Drie minderjarigen opgepakt na dodelijke steekpartij in Den Haag",
     "subtitle": null,
     "published_at": "2023-01-28T11:58:32+01:00",
-    "updated_at": "2023-01-28T11:58:33+01:00",
+    "updated_at": "2023-01-28T12:33:57+01:00",
     "media_id": "jcyxyjwamjzh",
     "duration": null,
     "canonical_section": {
@@ -18,18 +110,18 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/binnenland/6248915/politie-den-haag-pakt-drie-minderjarigen-op-na-dodelijke-steekpartij.html",
+    "url": "/binnenland/6248915/drie-minderjarigen-opgepakt-na-dodelijke-steekpartij-in-den-haag.html",
     "open_new_window": false,
     "partner": null
   },
   {
     "id": 6248914,
-    "slug": "academy-onderzoekt-oscarcampagnes-na-verrassende-nominatie-to-leslie",
+    "slug": "oscar-organisatie-onderzoekt-campagnes-na-verrassende-nominatie-riseborough",
     "type": "article",
-    "title": "Academy onderzoekt Oscarcampagnes na verrassende nominatie To Leslie",
+    "title": "Oscar-organisatie onderzoekt campagnes na verrassende nominatie Riseborough",
     "subtitle": null,
     "published_at": "2023-01-28T11:54:11+01:00",
-    "updated_at": "2023-01-28T11:54:12+01:00",
+    "updated_at": "2023-01-28T12:08:02+01:00",
     "media_id": "z5ax56oackti",
     "duration": null,
     "canonical_section": {
@@ -41,7 +133,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/film/6248914/academy-onderzoekt-oscarcampagnes-na-verrassende-nominatie-to-leslie.html",
+    "url": "/film/6248914/oscar-organisatie-onderzoekt-campagnes-na-verrassende-nominatie-riseborough.html",
     "open_new_window": false,
     "partner": null
   },
@@ -52,7 +144,7 @@
     "title": "Bodycambeelden tonen fatale arrestatie zwarte man in VS",
     "subtitle": "Video",
     "published_at": "2023-01-28T11:09:01+01:00",
-    "updated_at": "2023-01-28T11:16:17+01:00",
+    "updated_at": "2023-01-28T12:28:54+01:00",
     "media_id": "pllxps5ag5rt",
     "duration": "0:56",
     "canonical_section": {
@@ -75,7 +167,7 @@
     "title": "Tientallen arrestaties na dodelijke schietpartij bij synagoge in Jeruzalem",
     "subtitle": null,
     "published_at": "2023-01-28T10:47:10+01:00",
-    "updated_at": "2023-01-28T10:47:12+01:00",
+    "updated_at": "2023-01-28T12:28:20+01:00",
     "media_id": "1ixxijrauhr4",
     "duration": null,
     "canonical_section": {
@@ -98,7 +190,7 @@
     "title": "Parlement Peru verwerpt voorstel president voor vervroegde verkiezingen dit jaar",
     "subtitle": null,
     "published_at": "2023-01-28T10:27:50+01:00",
-    "updated_at": "2023-01-28T10:27:51+01:00",
+    "updated_at": "2023-01-28T12:14:01+01:00",
     "media_id": "jzsx916ay44i",
     "duration": null,
     "canonical_section": {
@@ -208,13 +300,13 @@
   },
   {
     "id": 6248899,
-    "slug": "sabalenka-leidt-in-derde-set-australian-open-finale",
+    "slug": "reacties-na-eerste-grand-slam-titel-sabalenka-op-australian-open",
     "type": "article",
-    "title": "Sabalenka leidt in derde set Australian Open-finale",
+    "title": "Reacties na eerste Grand Slam-titel Sabalenka op Australian Open",
     "subtitle": "Liveblog tennis",
     "published_at": "2023-01-28T09:27:22+01:00",
-    "updated_at": "2023-01-28T11:54:15+01:00",
-    "media_id": "r55xuwba9faq",
+    "updated_at": "2023-01-28T12:56:44+01:00",
+    "media_id": "kvgx506aoo38",
     "duration": null,
     "canonical_section": {
       "id": 1772432,
@@ -225,7 +317,7 @@
       "media_id": "m1oxohpan0gq",
       "partner": null
     },
-    "url": "/tennis/6248899/sabalenka-leidt-in-derde-set-australian-open-finale.html",
+    "url": "/tennis/6248899/reacties-na-eerste-grand-slam-titel-sabalenka-op-australian-open.html",
     "open_new_window": false,
     "partner": null
   },
@@ -594,98 +686,6 @@
       "partner": null
     },
     "url": "/binnenland/6248325/agenten-ergeren-zich-aan-discussie-etnisch-profileren-staan-altijd-met-1-0-achter.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6248885,
-    "slug": "jaren-cel-voor-man-die-tijdens-capitool-bestorming-politie-aanviel-met-pepperspray",
-    "type": "article",
-    "title": "Jaren cel voor man die tijdens Capitool-bestorming politie aanviel met pepperspray",
-    "subtitle": null,
-    "published_at": "2023-01-28T00:57:24+01:00",
-    "updated_at": "2023-01-28T08:16:19+01:00",
-    "media_id": "jyyxqphabnkk",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6248885/jaren-cel-voor-man-die-tijdens-capitool-bestorming-politie-aanviel-met-pepperspray.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6248884,
-    "slug": "inwoners-markelo-helpen-opgelichte-dorpsgenoot-met-vinden-belagers",
-    "type": "article",
-    "title": "Inwoners Markelo helpen opgelichte dorpsgenoot met vinden belagers",
-    "subtitle": null,
-    "published_at": "2023-01-28T00:32:25+01:00",
-    "updated_at": "2023-01-28T08:07:06+01:00",
-    "media_id": "g6ixqqnai9yh",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6248884/inwoners-markelo-helpen-opgelichte-dorpsgenoot-met-vinden-belagers.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6248883,
-    "slug": "van-duijvenbode-bereikt-tweede-ronde-van-the-masters-en-treft-price",
-    "type": "article",
-    "title": "Van Duijvenbode bereikt tweede ronde van The Masters en treft Price",
-    "subtitle": null,
-    "published_at": "2023-01-27T23:35:18+01:00",
-    "updated_at": "2023-01-28T08:04:43+01:00",
-    "media_id": "qgkxa11abo2m",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772456,
-      "slug": "sport-overig",
-      "type": "default",
-      "name": "Sport Overig",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/sport-overig/6248883/van-duijvenbode-bereikt-tweede-ronde-van-the-masters-en-treft-price.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6248882,
-    "slug": "suriname-pakt-vier-verdachten-op-voor-mislukte-aanslag-op-gerechtsgebouw",
-    "type": "article",
-    "title": "Suriname pakt vier verdachten op voor mislukte aanslag op gerechtsgebouw",
-    "subtitle": null,
-    "published_at": "2023-01-27T23:02:43+01:00",
-    "updated_at": "2023-01-27T23:02:44+01:00",
-    "media_id": "xdtxscfav1gp",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6248882/suriname-pakt-vier-verdachten-op-voor-mislukte-aanslag-op-gerechtsgebouw.html",
     "open_new_window": false,
     "partner": null
   }
