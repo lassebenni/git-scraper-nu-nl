@@ -1,5 +1,51 @@
 [
   {
+    "id": 6249011,
+    "slug": "nucheckt-onbewezen-dat-pfizer-coronavirus-muteert-al-zou-dat-niet-gek-zijn",
+    "type": "article",
+    "title": "NUcheckt: Onbewezen dat Pfizer coronavirus 'muteert' (al zou dat niet gek zijn)",
+    "subtitle": null,
+    "published_at": "2023-01-29T20:01:04+01:00",
+    "updated_at": "2023-01-29T20:01:06+01:00",
+    "media_id": "kzhxlb8aqga6",
+    "duration": null,
+    "canonical_section": {
+      "id": 1773663,
+      "slug": "nucheckt",
+      "type": "files",
+      "name": "NUcheckt",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/nucheckt/6249011/nucheckt-onbewezen-dat-pfizer-coronavirus-muteert-al-zou-dat-niet-gek-zijn.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6249037,
+    "slug": "mallorca-bedolven-onder-uniek-pak-sneeuw",
+    "type": "video",
+    "title": "Mallorca bedolven onder uniek pak sneeuw",
+    "subtitle": "Video",
+    "published_at": "2023-01-29T19:02:36+01:00",
+    "updated_at": "2023-01-29T19:04:57+01:00",
+    "media_id": "4dyx88caj86x",
+    "duration": "0:56",
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6249037/mallorca-bedolven-onder-uniek-pak-sneeuw.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6249034,
     "slug": "imposante-recordreeks-athletic-aanvaller-inaki-williams-na-251-duels-ten-einde",
     "type": "article",
@@ -98,7 +144,7 @@
     "title": "Nederlander Giri wint na spannende slotdag voor het eerst Tata Steel Chess",
     "subtitle": null,
     "published_at": "2023-01-29T17:16:02+01:00",
-    "updated_at": "2023-01-29T18:22:54+01:00",
+    "updated_at": "2023-01-29T19:06:19+01:00",
     "media_id": "98gxvu0ambbu",
     "duration": null,
     "canonical_section": {
@@ -213,7 +259,7 @@
     "title": "FC Groningen krijgt in Volendam volgende tik, concurrent Cambuur verliest ook",
     "subtitle": null,
     "published_at": "2023-01-29T16:21:47+01:00",
-    "updated_at": "2023-01-29T18:49:57+01:00",
+    "updated_at": "2023-01-29T19:09:18+01:00",
     "media_id": "9gixgo6a6p68",
     "duration": null,
     "canonical_section": {
@@ -282,7 +328,7 @@
     "title": "Militaire fabriek in hart van Iran getroffen bij droneaanval",
     "subtitle": null,
     "published_at": "2023-01-29T16:02:23+01:00",
-    "updated_at": "2023-01-29T18:01:40+01:00",
+    "updated_at": "2023-01-29T19:52:41+01:00",
     "media_id": "w14xvg2adnmp",
     "duration": null,
     "canonical_section": {
@@ -640,52 +686,6 @@
       "partner": null
     },
     "url": "/voetbal/6249003/heitinga-kiest-bij-debuut-als-ajax-trainer-voor-wijndal-bassey-op-de-bank.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6249000,
-    "slug": "honderden-mensen-bij-herdenking-holocaust-in-amsterdam",
-    "type": "article",
-    "title": "Honderden mensen bij herdenking Holocaust in Amsterdam",
-    "subtitle": null,
-    "published_at": "2023-01-29T12:53:04+01:00",
-    "updated_at": "2023-01-29T14:29:27+01:00",
-    "media_id": "e25x6vza631w",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6249000/honderden-mensen-bij-herdenking-holocaust-in-amsterdam.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6248646,
-    "slug": "djokovic-evenaart-nadal-bekijk-zijn-22-grand-slam-titels",
-    "type": "article",
-    "title": "Djokovic evenaart Nadal: bekijk zijn 22 Grand Slam-titels",
-    "subtitle": "In beeld",
-    "published_at": "2023-01-29T12:48:06+01:00",
-    "updated_at": "2023-01-29T15:33:24+01:00",
-    "media_id": "597xqb0as74j",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772432,
-      "slug": "tennis",
-      "type": "default",
-      "name": "Tennis",
-      "style": "nusport",
-      "media_id": "m1oxohpan0gq",
-      "partner": null
-    },
-    "url": "/tennis/6248646/djokovic-evenaart-nadal-bekijk-zijn-22-grand-slam-titels.html",
     "open_new_window": false,
     "partner": null
   }
