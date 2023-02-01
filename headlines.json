@@ -1,12 +1,58 @@
 [
   {
+    "id": 6249473,
+    "slug": "nieuwe-autos-waren-weer-in-trek-in-januari",
+    "type": "article",
+    "title": "Nieuwe auto's waren weer in trek in januari",
+    "subtitle": null,
+    "published_at": "2023-02-01T19:20:16+01:00",
+    "updated_at": "2023-02-01T19:20:17+01:00",
+    "media_id": "a02xf16al18h",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6249473/nieuwe-autos-waren-weer-in-trek-in-januari.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6249475,
+    "slug": "koninklijke-familie-reist-per-marineschip-van-aruba-naar-curacao",
+    "type": "video",
+    "title": "Koninklijke familie reist per marineschip van Aruba naar Curaçao",
+    "subtitle": "Video",
+    "published_at": "2023-02-01T19:15:14+01:00",
+    "updated_at": "2023-02-01T19:15:15+01:00",
+    "media_id": "gfcx93nalrqp",
+    "duration": "0:34",
+    "canonical_section": {
+      "id": 1778775,
+      "slug": "koningshuis",
+      "type": "default",
+      "name": "Koningshuis",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/koningshuis/6249475/koninklijke-familie-reist-per-marineschip-van-aruba-naar-curacao.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6249275,
     "slug": "samsung-kondigt-s23-ultra-met-200-megapixelcamerasensor-aan",
     "type": "article",
     "title": "Samsung kondigt S23 Ultra met 200 megapixelcamerasensor aan",
     "subtitle": null,
     "published_at": "2023-02-01T19:00:51+01:00",
-    "updated_at": "2023-02-01T19:00:54+01:00",
+    "updated_at": "2023-02-01T19:03:40+01:00",
     "media_id": "kcfx5fra923f",
     "duration": null,
     "canonical_section": {
@@ -75,7 +121,7 @@
     "title": "Grote ING-storing kan nog uren of zelfs dagen duren: 'Heel vervelend'",
     "subtitle": null,
     "published_at": "2023-02-01T18:29:36+01:00",
-    "updated_at": "2023-02-01T18:29:37+01:00",
+    "updated_at": "2023-02-01T19:46:06+01:00",
     "media_id": "ph4xlnbac2p6",
     "duration": null,
     "canonical_section": {
@@ -640,52 +686,6 @@
       "partner": null
     },
     "url": "/binnenland/6249425/minder-gevaarlijke-variant-gekkekoeienziekte-aangetroffen-in-nederland.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6249427,
-    "slug": "dartsbond-pdc-verbiedt-koptelefoons-na-opzienbarend-wk-optreden-price",
-    "type": "article",
-    "title": "Dartsbond PDC verbiedt koptelefoons na opzienbarend WK-optreden Price",
-    "subtitle": null,
-    "published_at": "2023-02-01T13:55:08+01:00",
-    "updated_at": "2023-02-01T16:33:23+01:00",
-    "media_id": "8tdx6kvas90q",
-    "duration": null,
-    "canonical_section": {
-      "id": 1777376,
-      "slug": "darts",
-      "type": "default",
-      "name": "Darts",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/darts/6249427/dartsbond-pdc-verbiedt-koptelefoons-na-opzienbarend-wk-optreden-price.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6249291,
-    "slug": "fossiel-van-200-miljoen-jaar-oude-zeekrokodil-gevonden-aan-de-britse-kust",
-    "type": "article",
-    "title": "Fossiel van 200 miljoen jaar oude zeekrokodil gevonden aan de Britse kust",
-    "subtitle": null,
-    "published_at": "2023-02-01T13:51:54+01:00",
-    "updated_at": "2023-02-01T14:00:11+01:00",
-    "media_id": "6cdx9nia62du",
-    "duration": null,
-    "canonical_section": {
-      "id": 478878,
-      "slug": "wetenschap",
-      "type": "default",
-      "name": "Wetenschap",
-      "style": "nunjij",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/wetenschap/6249291/fossiel-van-200-miljoen-jaar-oude-zeekrokodil-gevonden-aan-de-britse-kust.html",
     "open_new_window": false,
     "partner": null
   }
