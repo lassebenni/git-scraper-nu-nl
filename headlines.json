@@ -1,12 +1,58 @@
 [
   {
-    "id": 6249645,
-    "slug": "red-bull-kondigt-vrijdag-naar-verwachting-motorendeal-met-ford-aan-voor-2026",
+    "id": 6249646,
+    "slug": "cbs-registreerde-in-de-laatste-twee-weken-van-januari-geen-oversterfte-meer",
     "type": "article",
-    "title": "Red Bull kondigt vrijdag naar verwachting motorendeal met Ford aan voor 2026",
+    "title": "CBS registreerde in de laatste twee weken van januari geen oversterfte meer",
+    "subtitle": null,
+    "published_at": "2023-02-03T00:39:34+01:00",
+    "updated_at": "2023-02-03T00:41:22+01:00",
+    "media_id": "pbcxrr2anb0k",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6249646/cbs-registreerde-in-de-laatste-twee-weken-van-januari-geen-oversterfte-meer.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6249613,
+    "slug": "we-vliegen-vooral-binnen-europa-en-spanje-is-onze-favoriete-bestemming",
+    "type": "article",
+    "title": "We vliegen vooral binnen Europa en Spanje is onze favoriete bestemming",
+    "subtitle": null,
+    "published_at": "2023-02-03T00:03:34+01:00",
+    "updated_at": "2023-02-03T00:03:35+01:00",
+    "media_id": "d22x9nfaf1oe",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6249613/we-vliegen-vooral-binnen-europa-en-spanje-is-onze-favoriete-bestemming.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6249645,
+    "slug": "red-bull-kondigt-vandaag-waarschijnlijk-motorendeal-met-ford-voor-2026-aan",
+    "type": "article",
+    "title": "Red Bull kondigt vandaag waarschijnlijk motorendeal met Ford voor 2026 aan",
     "subtitle": null,
     "published_at": "2023-02-02T23:55:53+01:00",
-    "updated_at": "2023-02-03T00:00:31+01:00",
+    "updated_at": "2023-02-03T00:18:57+01:00",
     "media_id": "2qixqy4a2o60",
     "duration": null,
     "canonical_section": {
@@ -18,7 +64,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/formule-1/6249645/red-bull-kondigt-vrijdag-naar-verwachting-motorendeal-met-ford-aan-voor-2026.html",
+    "url": "/formule-1/6249645/red-bull-kondigt-vandaag-waarschijnlijk-motorendeal-met-ford-voor-2026-aan.html",
     "open_new_window": false,
     "partner": null
   },
@@ -167,7 +213,7 @@
     "title": "Van Gerwen buigt voor debutant Dobey in finale eerste Premier League-avond",
     "subtitle": null,
     "published_at": "2023-02-02T21:13:42+01:00",
-    "updated_at": "2023-02-02T23:56:59+01:00",
+    "updated_at": "2023-02-03T00:10:23+01:00",
     "media_id": "eq5x03gaql7x",
     "duration": null,
     "canonical_section": {
@@ -640,52 +686,6 @@
       "partner": null
     },
     "url": "/spanningen-oekraine/6249593/eu-richt-centrum-op-om-russische-oorlogsmisdaden-in-oekraine-te-onderzoeken.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6249610,
-    "slug": "bizarre-valpartij-op-brug-haalt-streep-door-tweede-etappe-ster-van-besseges",
-    "type": "article",
-    "title": "Bizarre valpartij op brug haalt streep door tweede etappe Ster van Bessèges",
-    "subtitle": null,
-    "published_at": "2023-02-02T16:51:33+01:00",
-    "updated_at": "2023-02-02T18:15:39+01:00",
-    "media_id": "66hx92wa95he",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772339,
-      "slug": "wielrennen",
-      "type": "default",
-      "name": "Wielrennen",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/wielrennen/6249610/bizarre-valpartij-op-brug-haalt-streep-door-tweede-etappe-ster-van-besseges.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6249606,
-    "slug": "burgemeester-wil-onafhankelijk-onderzoek-naar-dodelijke-brand-in-arnhem",
-    "type": "article",
-    "title": "Burgemeester wil onafhankelijk onderzoek naar dodelijke brand in Arnhem",
-    "subtitle": null,
-    "published_at": "2023-02-02T16:35:43+01:00",
-    "updated_at": "2023-02-02T18:21:08+01:00",
-    "media_id": "oh9xv5daxjmh",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6249606/burgemeester-wil-onafhankelijk-onderzoek-naar-dodelijke-brand-in-arnhem.html",
     "open_new_window": false,
     "partner": null
   }
