@@ -1,12 +1,81 @@
 [
   {
+    "id": 6250003,
+    "slug": "bekijk-de-ontknoping-van-de-wk-clash-tussen-van-der-poel-en-van-aert",
+    "type": "video",
+    "title": "Bekijk de ontknoping van de WK-clash tussen Van der Poel en Van Aert",
+    "subtitle": "Video",
+    "published_at": "2023-02-05T19:57:09+01:00",
+    "updated_at": "2023-02-05T19:57:10+01:00",
+    "media_id": "19axca4ama2x",
+    "duration": "0:35",
+    "canonical_section": {
+      "id": 149,
+      "slug": "sport",
+      "type": "default",
+      "name": "Sport",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/sport/6250003/bekijk-de-ontknoping-van-de-wk-clash-tussen-van-der-poel-en-van-aert.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6250001,
+    "slug": "met-titel-in-zijn-hoogerheide-voltooit-van-der-poel-fraaie-comeback-na-rugklachten",
+    "type": "article",
+    "title": "Met titel in 'zijn' Hoogerheide voltooit Van der Poel fraaie comeback na rugklachten",
+    "subtitle": null,
+    "published_at": "2023-02-05T19:40:55+01:00",
+    "updated_at": "2023-02-05T19:59:53+01:00",
+    "media_id": "eupx3q9au8v2",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772339,
+      "slug": "wielrennen",
+      "type": "default",
+      "name": "Wielrennen",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/wielrennen/6250001/met-titel-in-zijn-hoogerheide-voltooit-van-der-poel-fraaie-comeback-na-rugklachten.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6249996,
+    "slug": "kane-topscorer-aller-tijden-spurs-na-winnende-goal-tegen-city-ook-zege-bayern",
+    "type": "article",
+    "title": "Kane topscorer aller tijden Spurs na winnende goal tegen City, ook zege Bayern",
+    "subtitle": null,
+    "published_at": "2023-02-05T19:30:20+01:00",
+    "updated_at": "2023-02-05T19:56:27+01:00",
+    "media_id": "epzx9haa8kcq",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6249996/kane-topscorer-aller-tijden-spurs-na-winnende-goal-tegen-city-ook-zege-bayern.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6249992,
     "slug": "judoka-polling-pakt-op-grand-slam-in-parijs-eerste-medaille-sinds-moederschap",
     "type": "article",
     "title": "Judoka Polling pakt op Grand Slam in Parijs eerste medaille sinds moederschap",
     "subtitle": null,
     "published_at": "2023-02-05T18:44:12+01:00",
-    "updated_at": "2023-02-05T18:51:22+01:00",
+    "updated_at": "2023-02-05T19:38:51+01:00",
     "media_id": "u7pxc52aq8uf",
     "duration": null,
     "canonical_section": {
@@ -29,7 +98,7 @@
     "title": "FC Groningen voorkomt slechtste reeks ooit dankzij prachtgoal tegen FC Twente",
     "subtitle": null,
     "published_at": "2023-02-05T18:43:14+01:00",
-    "updated_at": "2023-02-05T18:54:41+01:00",
+    "updated_at": "2023-02-05T19:14:48+01:00",
     "media_id": "spjxa95aczvh",
     "duration": null,
     "canonical_section": {
@@ -52,7 +121,7 @@
     "title": "Wat is een juicekanaal?",
     "subtitle": null,
     "published_at": "2023-02-05T18:32:27+01:00",
-    "updated_at": "2023-02-05T18:32:28+01:00",
+    "updated_at": "2023-02-05T19:09:19+01:00",
     "media_id": "k3nx0voag8ph",
     "duration": null,
     "canonical_section": {
@@ -305,7 +374,7 @@
     "title": "Euforische Van der Poel wist zeker dat hij Van Aert zou verslaan: 'Ik had nul stress'",
     "subtitle": null,
     "published_at": "2023-02-05T16:35:22+01:00",
-    "updated_at": "2023-02-05T18:00:14+01:00",
+    "updated_at": "2023-02-05T19:07:50+01:00",
     "media_id": "leuxbs7a9isi",
     "duration": null,
     "canonical_section": {
@@ -397,7 +466,7 @@
     "title": "Van der Poel klopt Van Aert in prachtig duel en pakt vijfde wereldtitel veldrijden",
     "subtitle": null,
     "published_at": "2023-02-05T16:12:30+01:00",
-    "updated_at": "2023-02-05T16:42:43+01:00",
+    "updated_at": "2023-02-05T19:49:51+01:00",
     "media_id": "vfwx7tfa20rw",
     "duration": null,
     "canonical_section": {
@@ -617,75 +686,6 @@
       "partner": null
     },
     "url": "/voetbal/6249960/roda-jc-in-limburgse-derby-nipt-te-sterk-voor-mvv-maastricht.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6249956,
-    "slug": "weer-nieuwe-doden-door-lawines-in-oostenrijk",
-    "type": "article",
-    "title": "Weer nieuwe doden door lawines in Oostenrijk",
-    "subtitle": null,
-    "published_at": "2023-02-05T14:32:54+01:00",
-    "updated_at": "2023-02-05T14:53:37+01:00",
-    "media_id": "v9txu0ga6wpz",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6249956/weer-nieuwe-doden-door-lawines-in-oostenrijk.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6249945,
-    "slug": "onderzoekers-vinden-bewijs-dat-neanderthalers-op-gigantische-bosolifant-jaagden",
-    "type": "article",
-    "title": "Onderzoekers vinden bewijs dat neanderthalers op gigantische bosolifant jaagden",
-    "subtitle": null,
-    "published_at": "2023-02-05T14:27:47+01:00",
-    "updated_at": "2023-02-05T15:02:39+01:00",
-    "media_id": "jr4xo6ia6429",
-    "duration": null,
-    "canonical_section": {
-      "id": 478878,
-      "slug": "wetenschap",
-      "type": "default",
-      "name": "Wetenschap",
-      "style": "nunjij",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/wetenschap/6249945/onderzoekers-vinden-bewijs-dat-neanderthalers-op-gigantische-bosolifant-jaagden.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6249955,
-    "slug": "nederland-plaatst-zich-voor-davis-cup-finals-met-klinkende-zege-op-slowakije",
-    "type": "article",
-    "title": "Nederland plaatst zich voor Davis Cup Finals met klinkende zege op Slowakije",
-    "subtitle": null,
-    "published_at": "2023-02-05T14:23:35+01:00",
-    "updated_at": "2023-02-05T14:41:48+01:00",
-    "media_id": "83mx2taaulrs",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772432,
-      "slug": "tennis",
-      "type": "default",
-      "name": "Tennis",
-      "style": "nusport",
-      "media_id": "m1oxohpan0gq",
-      "partner": null
-    },
-    "url": "/tennis/6249955/nederland-plaatst-zich-voor-davis-cup-finals-met-klinkende-zege-op-slowakije.html",
     "open_new_window": false,
     "partner": null
   }
