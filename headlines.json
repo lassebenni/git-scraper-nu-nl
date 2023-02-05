@@ -1,12 +1,58 @@
 [
   {
+    "id": 6249888,
+    "slug": "zestienjarige-overleden-na-aanval-door-haai-in-australie",
+    "type": "article",
+    "title": "Zestienjarige overleden na aanval door haai in Australië",
+    "subtitle": null,
+    "published_at": "2023-02-05T00:08:52+01:00",
+    "updated_at": "2023-02-05T00:08:53+01:00",
+    "media_id": "f77x2qwazjp3",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6249888/zestienjarige-overleden-na-aanval-door-haai-in-australie.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6249908,
+    "slug": "vijf-doden-door-lawines-in-skigebieden-in-oostenrijk-en-zwitserland",
+    "type": "article",
+    "title": "Vijf doden door lawines in skigebieden in Oostenrijk en Zwitserland",
+    "subtitle": null,
+    "published_at": "2023-02-05T00:06:38+01:00",
+    "updated_at": "2023-02-05T00:30:56+01:00",
+    "media_id": "5itxlvia9fws",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6249908/vijf-doden-door-lawines-in-skigebieden-in-oostenrijk-en-zwitserland.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6249913,
     "slug": "femke-bol-opent-indoorseizoen-met-wereldrecord-op-500-meter-in-boston",
     "type": "article",
     "title": "Femke Bol opent indoorseizoen met wereldrecord op 500 meter in Boston",
     "subtitle": null,
     "published_at": "2023-02-04T22:37:55+01:00",
-    "updated_at": "2023-02-04T23:10:23+01:00",
+    "updated_at": "2023-02-05T00:43:50+01:00",
     "media_id": "q8uxpseaa664",
     "duration": null,
     "canonical_section": {
@@ -374,7 +420,7 @@
     "title": "Crosskoningin Van Empel lijkt na wonderjaar in alles de nieuwe Vos te worden",
     "subtitle": null,
     "published_at": "2023-02-04T19:18:09+01:00",
-    "updated_at": "2023-02-04T21:58:57+01:00",
+    "updated_at": "2023-02-05T00:07:35+01:00",
     "media_id": "wxkxwcfak4ok",
     "duration": null,
     "canonical_section": {
@@ -443,7 +489,7 @@
     "title": "Aandacht na Spelen werd Schouten toch te veel: 'In mijn wereld is er geen nee'",
     "subtitle": null,
     "published_at": "2023-02-04T18:44:29+01:00",
-    "updated_at": "2023-02-04T22:53:57+01:00",
+    "updated_at": "2023-02-05T00:07:01+01:00",
     "media_id": "vq0x6oaae8x7",
     "duration": null,
     "canonical_section": {
@@ -640,52 +686,6 @@
       "partner": null
     },
     "url": "/schaatsen/6249880/roest-verrast-nuis-en-krol-en-is-voor-het-eerst-nederlands-kampioen-1500-meter.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6249882,
-    "slug": "pim-lammers-trekt-zich-terug-als-dichter-kinderboekenweek-vanwege-doodsbedreigingen",
-    "type": "article",
-    "title": "Pim Lammers trekt zich terug als dichter Kinderboekenweek vanwege doodsbedreigingen",
-    "subtitle": null,
-    "published_at": "2023-02-04T16:59:43+01:00",
-    "updated_at": "2023-02-04T17:25:26+01:00",
-    "media_id": "uwkx7l3a7y22",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772075,
-      "slug": "cultuur-overig",
-      "type": "default",
-      "name": "Boek & Cultuur",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/cultuur-overig/6249882/pim-lammers-trekt-zich-terug-als-dichter-kinderboekenweek-vanwege-doodsbedreigingen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6249883,
-    "slug": "kippenvel-in-dortmund-haller-maakt-eerste-bundesliga-goal",
-    "type": "video",
-    "title": "Kippenvel in Dortmund: Haller maakt eerste Bundesliga-goal",
-    "subtitle": "Video",
-    "published_at": "2023-02-04T16:59:25+01:00",
-    "updated_at": "2023-02-04T17:02:37+01:00",
-    "media_id": "0cmxadrafnb7",
-    "duration": "1:25",
-    "canonical_section": {
-      "id": 149,
-      "slug": "sport",
-      "type": "default",
-      "name": "Sport",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/sport/6249883/kippenvel-in-dortmund-haller-maakt-eerste-bundesliga-goal.html",
     "open_new_window": false,
     "partner": null
   }
