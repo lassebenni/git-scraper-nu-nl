@@ -1,5 +1,51 @@
 [
   {
+    "id": 6249766,
+    "slug": "huiswerk-door-chatgpt-gemaakt-dit-programma-kan-jou-betrappen",
+    "type": "video",
+    "title": "Huiswerk door ChatGPT gemaakt? Dit programma kan jou betrappen",
+    "subtitle": "Video",
+    "published_at": "2023-02-06T05:01:38+01:00",
+    "updated_at": "2023-02-06T05:01:39+01:00",
+    "media_id": "wwxxf0rabhz3",
+    "duration": "1:48",
+    "canonical_section": {
+      "id": 100,
+      "slug": "algemeen",
+      "type": "default",
+      "name": "Algemeen",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/algemeen/6249766/huiswerk-door-chatgpt-gemaakt-dit-programma-kan-jou-betrappen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6249445,
+    "slug": "hoge-inflatie-en-looneisen-zorgen-voor-hete-winter-aan-cao-tafels",
+    "type": "article",
+    "title": "Hoge inflatie en looneisen zorgen voor hete winter aan cao-tafels",
+    "subtitle": null,
+    "published_at": "2023-02-06T05:00:16+01:00",
+    "updated_at": "2023-02-06T05:00:17+01:00",
+    "media_id": "y05xxxiarkfa",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6249445/hoge-inflatie-en-looneisen-zorgen-voor-hete-winter-aan-cao-tafels.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6250006,
     "slug": "dode-en-gewonde-bij-beschieting-helikopter-vn-vredesmissie-in-congo",
     "type": "article",
@@ -640,52 +686,6 @@
       "partner": null
     },
     "url": "/voetbal/6249978/feyenoord-knokt-zich-diep-in-blessuretijd-naar-gelijkspel-tegen-tiental-psv.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6249977,
-    "slug": "euforische-van-der-poel-wist-zeker-dat-hij-van-aert-zou-verslaan-ik-had-nul-stress",
-    "type": "article",
-    "title": "Euforische Van der Poel wist zeker dat hij Van Aert zou verslaan: 'Ik had nul stress'",
-    "subtitle": null,
-    "published_at": "2023-02-05T16:35:22+01:00",
-    "updated_at": "2023-02-05T20:11:16+01:00",
-    "media_id": "leuxbs7a9isi",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772339,
-      "slug": "wielrennen",
-      "type": "default",
-      "name": "Wielrennen",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/wielrennen/6249977/euforische-van-der-poel-wist-zeker-dat-hij-van-aert-zou-verslaan-ik-had-nul-stress.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6249976,
-    "slug": "go-ahead-eagles-maakt-einde-aan-reeks-nederlagen-en-nadert-middenmoot",
-    "type": "article",
-    "title": "Go Ahead Eagles maakt einde aan reeks nederlagen en nadert middenmoot",
-    "subtitle": null,
-    "published_at": "2023-02-05T16:34:21+01:00",
-    "updated_at": "2023-02-05T17:10:05+01:00",
-    "media_id": "rohx5jwa7j79",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6249976/go-ahead-eagles-maakt-einde-aan-reeks-nederlagen-en-nadert-middenmoot.html",
     "open_new_window": false,
     "partner": null
   }
