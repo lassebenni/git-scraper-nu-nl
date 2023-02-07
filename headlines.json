@@ -1,12 +1,35 @@
 [
   {
+    "id": 6250153,
+    "slug": "de-koning-grapt-maxima-schrijft-amalia-observeert",
+    "type": "article",
+    "title": "De koning grapt, Máxima schrijft, Amalia observeert",
+    "subtitle": null,
+    "published_at": "2023-02-07T01:11:31+01:00",
+    "updated_at": "2023-02-07T01:11:32+01:00",
+    "media_id": "uh0x7zca77l6",
+    "duration": null,
+    "canonical_section": {
+      "id": 1778775,
+      "slug": "koningshuis",
+      "type": "default",
+      "name": "Koningshuis",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/koningshuis/6250153/de-koning-grapt-maxima-schrijft-amalia-observeert.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6250168,
     "slug": "dodental-aardbevingen-turkije-en-syrie-stijgt-naar-ruim-3800",
     "type": "article",
     "title": "Dodental aardbevingen Turkije en Syrië stijgt naar ruim 3.800",
     "subtitle": null,
     "published_at": "2023-02-07T01:04:02+01:00",
-    "updated_at": "2023-02-07T01:04:03+01:00",
+    "updated_at": "2023-02-07T01:13:14+01:00",
     "media_id": "fs2xwcfa13ni",
     "duration": null,
     "canonical_section": {
@@ -663,29 +686,6 @@
       "partner": null
     },
     "url": "/tech/6250088/slim-omgaan-met-stroomverbruik-gaat-in-de-toekomst-veel-opleveren.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6250130,
-    "slug": "stap-regeling-aangescherpt-opleider-mag-geen-snoepreisje-meer-aanbieden",
-    "type": "article",
-    "title": "STAP-regeling aangescherpt, opleider mag geen snoepreisje meer aanbieden",
-    "subtitle": null,
-    "published_at": "2023-02-06T17:02:46+01:00",
-    "updated_at": "2023-02-06T17:28:03+01:00",
-    "media_id": "5xyxv6wajdqo",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6250130/stap-regeling-aangescherpt-opleider-mag-geen-snoepreisje-meer-aanbieden.html",
     "open_new_window": false,
     "partner": null
   }
