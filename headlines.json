@@ -1,12 +1,35 @@
 [
   {
+    "id": 6250267,
+    "slug": "blusvliegtuig-brandt-uit-na-crash-in-australie-piloten-lichtgewond",
+    "type": "video",
+    "title": "Blusvliegtuig brandt uit na crash in Australië, piloten lichtgewond",
+    "subtitle": "Video",
+    "published_at": "2023-02-07T15:23:15+01:00",
+    "updated_at": "2023-02-07T15:23:16+01:00",
+    "media_id": "xpexnuaalaxz",
+    "duration": "1:00",
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6250267/blusvliegtuig-brandt-uit-na-crash-in-australie-piloten-lichtgewond.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6250260,
     "slug": "coldeweijer-mag-hazes-gecremeerde-kroket-noemen-geen-hoger-beroep",
     "type": "article",
     "title": "Coldeweijer mag Hazes 'gecremeerde kroket' noemen, geen hoger beroep",
     "subtitle": null,
     "published_at": "2023-02-07T14:55:43+01:00",
-    "updated_at": "2023-02-07T15:00:11+01:00",
+    "updated_at": "2023-02-07T15:46:31+01:00",
     "media_id": "4q6xu7parmph",
     "duration": null,
     "canonical_section": {
@@ -259,7 +282,7 @@
     "title": "RIVM vraagt acht provincies geen hout te stoken vanwege gebrek aan wind",
     "subtitle": null,
     "published_at": "2023-02-07T13:31:57+01:00",
-    "updated_at": "2023-02-07T13:45:21+01:00",
+    "updated_at": "2023-02-07T15:30:25+01:00",
     "media_id": "kiqxtjwael06",
     "duration": null,
     "canonical_section": {
@@ -374,7 +397,7 @@
     "title": "Burgemeester Parijs: 'Geen Russische atleten op Spelen zolang oorlog woedt'",
     "subtitle": null,
     "published_at": "2023-02-07T12:12:52+01:00",
-    "updated_at": "2023-02-07T13:09:32+01:00",
+    "updated_at": "2023-02-07T15:56:19+01:00",
     "media_id": "3ltxqy0a9oby",
     "duration": null,
     "canonical_section": {
@@ -663,29 +686,6 @@
       "partner": null
     },
     "url": "/economie/6250199/ook-bp-boert-goed-bij-hoge-energieprijzen-en-boekt-recordwinst.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6250198,
-    "slug": "lage-inkomens-met-hoge-energiekosten-kunnen-nu-bij-noodfonds-aankloppen",
-    "type": "article",
-    "title": "Lage inkomens met hoge energiekosten kunnen nu bij noodfonds aankloppen",
-    "subtitle": null,
-    "published_at": "2023-02-07T10:07:13+01:00",
-    "updated_at": "2023-02-07T11:03:47+01:00",
-    "media_id": "glix6qratzzh",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6250198/lage-inkomens-met-hoge-energiekosten-kunnen-nu-bij-noodfonds-aankloppen.html",
     "open_new_window": false,
     "partner": null
   }
