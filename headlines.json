@@ -1,5 +1,74 @@
 [
   {
+    "id": 6250218,
+    "slug": "lezersreacties-op-kritiek-experts-over-de-manier-van-bouwen-in-turkije",
+    "type": "article",
+    "title": "Lezersreacties op kritiek experts over de manier van bouwen in Turkije",
+    "subtitle": null,
+    "published_at": "2023-02-07T12:39:30+01:00",
+    "updated_at": "2023-02-07T12:39:31+01:00",
+    "media_id": "8n6x2aoay4m0",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779134,
+      "slug": "stelling",
+      "type": "default",
+      "name": "Stelling",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/stelling/6250218/lezersreacties-op-kritiek-experts-over-de-manier-van-bouwen-in-turkije.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6250225,
+    "slug": "burgemeester-parijs-geen-russische-atleten-op-spelen-zolang-oorlog-woedt",
+    "type": "article",
+    "title": "Burgemeester Parijs: 'Geen Russische atleten op Spelen zolang oorlog woedt'",
+    "subtitle": null,
+    "published_at": "2023-02-07T12:12:52+01:00",
+    "updated_at": "2023-02-07T12:15:50+01:00",
+    "media_id": "3ltxqy0a9oby",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772456,
+      "slug": "sport-overig",
+      "type": "default",
+      "name": "Sport Overig",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/sport-overig/6250225/burgemeester-parijs-geen-russische-atleten-op-spelen-zolang-oorlog-woedt.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6250227,
+    "slug": "hulpverleners-redden-meisje-onder-puin-vandaan-in-syrie",
+    "type": "video",
+    "title": "Hulpverleners redden meisje onder puin vandaan in Syrië",
+    "subtitle": "Video",
+    "published_at": "2023-02-07T12:09:51+01:00",
+    "updated_at": "2023-02-07T12:10:24+01:00",
+    "media_id": "d0rx96daahh3",
+    "duration": "0:35",
+    "canonical_section": {
+      "id": 1779210,
+      "slug": "aardbeving-syrie-en-turkije",
+      "type": "files",
+      "name": "Aardbeving Syrië en Turkije",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/aardbeving-syrie-en-turkije/6250227/hulpverleners-redden-meisje-onder-puin-vandaan-in-syrie.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6250216,
     "slug": "nederland-wil-europees-pfas-verbod-op-ruim-tienduizend-chemische-stoffen",
     "type": "article",
@@ -29,8 +98,8 @@
     "title": "ACM over de vloer bij Eneco, Essent en Vattenfall voor onderzoek naar tarieven",
     "subtitle": null,
     "published_at": "2023-02-07T11:31:02+01:00",
-    "updated_at": "2023-02-07T11:59:35+01:00",
-    "media_id": "p6ux62sal6l0",
+    "updated_at": "2023-02-07T12:46:00+01:00",
+    "media_id": "srhxd7iaaq3a",
     "duration": null,
     "canonical_section": {
       "id": 99,
@@ -167,7 +236,7 @@
     "title": "Alfa Romeo-Sauber presenteert als eerste Formule 1-team auto voor 2023",
     "subtitle": null,
     "published_at": "2023-02-07T10:44:16+01:00",
-    "updated_at": "2023-02-07T11:11:14+01:00",
+    "updated_at": "2023-02-07T12:10:08+01:00",
     "media_id": "efux99iaj40c",
     "duration": null,
     "canonical_section": {
@@ -305,7 +374,7 @@
     "title": "Voormalig Vitesse-speler Atsu levend onder puin vandaan gehaald in Turkije",
     "subtitle": null,
     "published_at": "2023-02-07T09:35:40+01:00",
-    "updated_at": "2023-02-07T10:49:59+01:00",
+    "updated_at": "2023-02-07T12:07:35+01:00",
     "media_id": "i3cxbaya7oub",
     "duration": null,
     "canonical_section": {
@@ -420,7 +489,7 @@
     "title": "Groningse zorgboerderij moet dicht nadat inspectie ernstige misstanden ziet",
     "subtitle": null,
     "published_at": "2023-02-07T08:09:01+01:00",
-    "updated_at": "2023-02-07T08:09:02+01:00",
+    "updated_at": "2023-02-07T12:14:31+01:00",
     "media_id": "fx6xpbtahen6",
     "duration": null,
     "canonical_section": {
@@ -461,12 +530,12 @@
   },
   {
     "id": 6250179,
-    "slug": "zes-nederlanders-vermist-in-turkije-dodental-boven-de-vijfduizend",
+    "slug": "noodtoestand-in-tien-turkse-provincies-die-getroffen-werden-door-aardbeving",
     "type": "article",
-    "title": "Zes Nederlanders vermist in Turkije, dodental boven de vijfduizend",
+    "title": "Noodtoestand in tien Turkse provincies die getroffen werden door aardbeving",
     "subtitle": "Liveblog",
     "published_at": "2023-02-07T07:43:47+01:00",
-    "updated_at": "2023-02-07T11:59:59+01:00",
+    "updated_at": "2023-02-07T12:59:44+01:00",
     "media_id": "ugwxzjxauxmk",
     "duration": null,
     "canonical_section": {
@@ -478,7 +547,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/aardbeving-syrie-en-turkije/6250179/zes-nederlanders-vermist-in-turkije-dodental-boven-de-vijfduizend.html",
+    "url": "/aardbeving-syrie-en-turkije/6250179/noodtoestand-in-tien-turkse-provincies-die-getroffen-werden-door-aardbeving.html",
     "open_new_window": false,
     "partner": null
   },
@@ -617,75 +686,6 @@
       "partner": null
     },
     "url": "/aardbeving-syrie-en-turkije/6250118/mede-door-vriendjespolitiek-en-verkiezingsstunt-bouwt-turkije-nauwelijks-veiliger.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6250173,
-    "slug": "brendon-urie-van-panic-at-the-disco-is-vader-geworden",
-    "type": "article",
-    "title": "Brendon Urie van Panic! At The Disco is vader geworden",
-    "subtitle": null,
-    "published_at": "2023-02-07T06:38:55+01:00",
-    "updated_at": "2023-02-07T06:52:21+01:00",
-    "media_id": "dgjx2qvai33u",
-    "duration": null,
-    "canonical_section": {
-      "id": 125,
-      "slug": "achterklap",
-      "type": "default",
-      "name": "Achterklap",
-      "style": "nuentertainment",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/achterklap/6250173/brendon-urie-van-panic-at-the-disco-is-vader-geworden.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6250171,
-    "slug": "zo-is-het-nu-in-het-aardbevingsgebied-kou-en-regen-maken-situatie-nog-lastiger",
-    "type": "article",
-    "title": "Zo is het nu in het aardbevingsgebied: kou en regen maken situatie nog lastiger",
-    "subtitle": null,
-    "published_at": "2023-02-07T06:11:31+01:00",
-    "updated_at": "2023-02-07T10:37:28+01:00",
-    "media_id": "t3dx5aiap5u5",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779210,
-      "slug": "aardbeving-syrie-en-turkije",
-      "type": "files",
-      "name": "Aardbeving Syrië en Turkije",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/aardbeving-syrie-en-turkije/6250171/zo-is-het-nu-in-het-aardbevingsgebied-kou-en-regen-maken-situatie-nog-lastiger.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6250170,
-    "slug": "weerbericht-volop-zon-en-een-temperatuur-van-maximaal-6-graden",
-    "type": "article",
-    "title": "Weerbericht: Volop zon en een temperatuur van maximaal 6 graden",
-    "subtitle": null,
-    "published_at": "2023-02-07T05:28:00+01:00",
-    "updated_at": "2023-02-07T06:42:47+01:00",
-    "media_id": "34dxcxtabrw1",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6250170/weerbericht-volop-zon-en-een-temperatuur-van-maximaal-6-graden.html",
     "open_new_window": false,
     "partner": null
   }
