@@ -1,12 +1,150 @@
 [
   {
-    "id": 6250857,
-    "slug": "politie-arresteert-nog-drie-mannen-in-mogelijke-ontvoeringszaak-zoeterwoude",
+    "id": 6250867,
+    "slug": "knegt-loopt-finale-1500-meter-bij-wereldbekerfinale-mis-na-rumoerige-aanloop",
     "type": "article",
-    "title": "Politie arresteert nog drie mannen in mogelijke ontvoeringszaak Zoeterwoude",
+    "title": "Knegt loopt finale 1.500 meter bij wereldbekerfinale mis na rumoerige aanloop",
+    "subtitle": null,
+    "published_at": "2023-02-11T14:58:05+01:00",
+    "updated_at": "2023-02-11T14:59:52+01:00",
+    "media_id": "q4mxu7eaihue",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772452,
+      "slug": "schaatsen",
+      "type": "default",
+      "name": "Schaatsen",
+      "style": "nusport",
+      "media_id": "5ktx9n6axubw",
+      "partner": null
+    },
+    "url": "/schaatsen/6250867/knegt-loopt-finale-1500-meter-bij-wereldbekerfinale-mis-na-rumoerige-aanloop.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6250866,
+    "slug": "turks-reddingsteam-wordt-verrast-door-vallend-puin",
+    "type": "video",
+    "title": "Turks reddingsteam wordt verrast door vallend puin",
+    "subtitle": "Video",
+    "published_at": "2023-02-11T14:56:29+01:00",
+    "updated_at": "2023-02-11T14:56:30+01:00",
+    "media_id": "tbqxtqdarxaw",
+    "duration": "0:36",
+    "canonical_section": {
+      "id": 1779210,
+      "slug": "aardbeving-syrie-en-turkije",
+      "type": "files",
+      "name": "Aardbeving Syrië en Turkije",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/aardbeving-syrie-en-turkije/6250866/turks-reddingsteam-wordt-verrast-door-vallend-puin.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6250862,
+    "slug": "justin-bieber-aangeklaagd-vanwege-schietincident-op-super-bowl-feestje",
+    "type": "article",
+    "title": "Justin Bieber aangeklaagd vanwege schietincident op Super Bowl-feestje",
+    "subtitle": null,
+    "published_at": "2023-02-11T14:49:21+01:00",
+    "updated_at": "2023-02-11T14:57:34+01:00",
+    "media_id": "wqsx9zfacsff",
+    "duration": null,
+    "canonical_section": {
+      "id": 125,
+      "slug": "achterklap",
+      "type": "default",
+      "name": "Achterklap",
+      "style": "nuentertainment",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/achterklap/6250862/justin-bieber-aangeklaagd-vanwege-schietincident-op-super-bowl-feestje.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6250859,
+    "slug": "alvarado-pakt-eindzege-in-superprestige-in-stijl-met-solo-in-middelkerke",
+    "type": "article",
+    "title": "Alvarado pakt eindzege in Superprestige in stijl met solo in Middelkerke",
+    "subtitle": null,
+    "published_at": "2023-02-11T14:26:40+01:00",
+    "updated_at": "2023-02-11T14:53:11+01:00",
+    "media_id": "7mix53oa0o6j",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772339,
+      "slug": "wielrennen",
+      "type": "default",
+      "name": "Wielrennen",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/wielrennen/6250859/alvarado-pakt-eindzege-in-superprestige-in-stijl-met-solo-in-middelkerke.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6250733,
+    "slug": "met-slimmere-apparaten-haal-je-nu-al-voordeel-uit-dynamische-energieprijzen",
+    "type": "article",
+    "title": "Met slimmere apparaten haal je nu al voordeel uit dynamische energieprijzen",
+    "subtitle": null,
+    "published_at": "2023-02-11T14:15:17+01:00",
+    "updated_at": "2023-02-11T14:15:17+01:00",
+    "media_id": "3l8xm8vahfxj",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771438,
+      "slug": "tech",
+      "type": "default",
+      "name": "Tech",
+      "style": "nutech",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/tech/6250733/met-slimmere-apparaten-haal-je-nu-al-voordeel-uit-dynamische-energieprijzen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6250858,
+    "slug": "gasten-brabants-restaurant-overmeesteren-gewapende-overvaller",
+    "type": "video",
+    "title": "Gasten Brabants restaurant overmeesteren gewapende overvaller",
+    "subtitle": "Video",
+    "published_at": "2023-02-11T14:13:29+01:00",
+    "updated_at": "2023-02-11T14:42:24+01:00",
+    "media_id": "3jcx16jaao5a",
+    "duration": "0:35",
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6250858/gasten-brabants-restaurant-overmeesteren-gewapende-overvaller.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6250857,
+    "slug": "nog-drie-mannen-gearresteerd-vanwege-mogelijke-ontvoering-in-zoeterwoude",
+    "type": "article",
+    "title": "Nog drie mannen gearresteerd vanwege mogelijke ontvoering in Zoeterwoude",
     "subtitle": null,
     "published_at": "2023-02-11T14:03:51+01:00",
-    "updated_at": "2023-02-11T14:03:52+01:00",
+    "updated_at": "2023-02-11T14:15:52+01:00",
     "media_id": "0o2xecka1b3i",
     "duration": null,
     "canonical_section": {
@@ -18,18 +156,18 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/binnenland/6250857/politie-arresteert-nog-drie-mannen-in-mogelijke-ontvoeringszaak-zoeterwoude.html",
+    "url": "/binnenland/6250857/nog-drie-mannen-gearresteerd-vanwege-mogelijke-ontvoering-in-zoeterwoude.html",
     "open_new_window": false,
     "partner": null
   },
   {
     "id": 6250855,
-    "slug": "aantal-landen-staakt-reddingsoperatie-turkije-wegens-geweld-in-getroffen-gebied",
+    "slug": "meldingen-van-geweld-in-getroffen-gebied-turkije-nederlandse-redders-gaan-door",
     "type": "article",
-    "title": "Aantal landen staakt reddingsoperatie Turkije wegens geweld in getroffen gebied",
+    "title": "Meldingen van geweld in getroffen gebied Turkije, Nederlandse redders gaan door",
     "subtitle": null,
     "published_at": "2023-02-11T13:43:51+01:00",
-    "updated_at": "2023-02-11T14:00:09+01:00",
+    "updated_at": "2023-02-11T14:58:04+01:00",
     "media_id": "aiyxi7kaeret",
     "duration": null,
     "canonical_section": {
@@ -41,7 +179,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/aardbeving-syrie-en-turkije/6250855/aantal-landen-staakt-reddingsoperatie-turkije-wegens-geweld-in-getroffen-gebied.html",
+    "url": "/aardbeving-syrie-en-turkije/6250855/meldingen-van-geweld-in-getroffen-gebied-turkije-nederlandse-redders-gaan-door.html",
     "open_new_window": false,
     "partner": null
   },
@@ -49,10 +187,10 @@
     "id": 6250854,
     "slug": "wiebes-raakt-leiderstrui-in-bergetappe-uae-tour-kwijt-aan-longo-borghini",
     "type": "article",
-    "title": "Wiebes raakt leiderstrui in bergetappe UAE Tour kwijt aan Longo-Borghini",
+    "title": "Wiebes raakt leiderstrui in bergetappe UAE Tour kwijt aan Longo Borghini",
     "subtitle": null,
     "published_at": "2023-02-11T13:41:27+01:00",
-    "updated_at": "2023-02-11T13:41:28+01:00",
+    "updated_at": "2023-02-11T14:26:49+01:00",
     "media_id": "6kaxv0oa1vxu",
     "duration": null,
     "canonical_section": {
@@ -70,12 +208,12 @@
   },
   {
     "id": 6250852,
-    "slug": "argentijnse-keeper-over-gedrag-op-wk-mbappe-zal-me-wel-een-sukkel-vinden",
+    "slug": "argentijnse-keeper-blikt-terug-op-wk-waarom-zou-ik-mbappe-belachelijk-maken",
     "type": "article",
-    "title": "Argentijnse keeper over gedrag op WK: 'Mbappé zal me wel een sukkel vinden'",
+    "title": "Argentijnse keeper blikt terug op WK: 'Waarom zou ík Mbappé belachelijk maken?'",
     "subtitle": null,
     "published_at": "2023-02-11T13:24:43+01:00",
-    "updated_at": "2023-02-11T14:02:24+01:00",
+    "updated_at": "2023-02-11T14:45:13+01:00",
     "media_id": "jwsx4dzavgea",
     "duration": null,
     "canonical_section": {
@@ -87,7 +225,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6250852/argentijnse-keeper-over-gedrag-op-wk-mbappe-zal-me-wel-een-sukkel-vinden.html",
+    "url": "/voetbal/6250852/argentijnse-keeper-blikt-terug-op-wk-waarom-zou-ik-mbappe-belachelijk-maken.html",
     "open_new_window": false,
     "partner": null
   },
@@ -208,12 +346,12 @@
   },
   {
     "id": 6250538,
-    "slug": "vrouwen-hebben-vaker-klachten-na-coronaprik-wetenschap-moet-dat-serieus-nemen",
+    "slug": "vrouwen-hebben-vaker-klachten-na-coronaprik-moet-serieus-worden-genomen",
     "type": "article",
-    "title": "Vrouwen hebben vaker klachten na coronaprik: 'Wetenschap moet dat serieus nemen'",
+    "title": "Vrouwen hebben vaker klachten na coronaprik: 'Moet serieus worden genomen'",
     "subtitle": null,
     "published_at": "2023-02-11T11:46:43+01:00",
-    "updated_at": "2023-02-11T11:46:44+01:00",
+    "updated_at": "2023-02-11T14:20:24+01:00",
     "media_id": "ykdxi9kajrbe",
     "duration": null,
     "canonical_section": {
@@ -225,7 +363,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/wetenschap/6250538/vrouwen-hebben-vaker-klachten-na-coronaprik-wetenschap-moet-dat-serieus-nemen.html",
+    "url": "/wetenschap/6250538/vrouwen-hebben-vaker-klachten-na-coronaprik-moet-serieus-worden-genomen.html",
     "open_new_window": false,
     "partner": null
   },
@@ -259,7 +397,7 @@
     "title": "Canadese voetbalsters staken half jaar voor WK vanwege geldconflict met bond",
     "subtitle": null,
     "published_at": "2023-02-11T10:12:09+01:00",
-    "updated_at": "2023-02-11T11:22:18+01:00",
+    "updated_at": "2023-02-11T14:14:35+01:00",
     "media_id": "0bhxyanay5d9",
     "duration": null,
     "canonical_section": {
@@ -282,7 +420,7 @@
     "title": "WO II-bom in Engeland ontploft onverwachts bij ontmanteling",
     "subtitle": "Video",
     "published_at": "2023-02-11T10:11:15+01:00",
-    "updated_at": "2023-02-11T10:11:41+01:00",
+    "updated_at": "2023-02-11T14:34:32+01:00",
     "media_id": "xybxslua5z8u",
     "duration": "0:45",
     "canonical_section": {
@@ -548,144 +686,6 @@
       "partner": null
     },
     "url": "/uitgelicht/6250822/het-woord-van-vandaag-raad-jij-het-woord-van-de-dag.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6250768,
-    "slug": "wat-gebeurt-er-als-we-in-een-dieselcrisis-belanden",
-    "type": "video",
-    "title": "Wat gebeurt er als we in een dieselcrisis belanden?",
-    "subtitle": "Video",
-    "published_at": "2023-02-11T05:10:58+01:00",
-    "updated_at": "2023-02-11T05:10:59+01:00",
-    "media_id": "e7kximzath1r",
-    "duration": "2:08",
-    "canonical_section": {
-      "id": 1778967,
-      "slug": "uitleg",
-      "type": "default",
-      "name": "Het nieuws uitgelegd",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/uitleg/6250768/wat-gebeurt-er-als-we-in-een-dieselcrisis-belanden.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6250406,
-    "slug": "van-instagram-koning-naar-eredivisie-ster-xavi-simons-lost-nu-al-belofte-in",
-    "type": "article",
-    "title": "Van Instagram-koning naar Eredivisie-ster: Xavi Simons lost nu al belofte in",
-    "subtitle": "NU+",
-    "published_at": "2023-02-11T05:06:45+01:00",
-    "updated_at": "2023-02-11T13:51:29+01:00",
-    "media_id": "m3cxoooadke3",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779108,
-      "slug": "nu-voetbal",
-      "type": "default",
-      "name": "NU+ Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/nu-voetbal/6250406/van-instagram-koning-naar-eredivisie-ster-xavi-simons-lost-nu-al-belofte-in.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6250719,
-    "slug": "aardbeving-treft-ook-economische-motor-van-zuidoost-turkije",
-    "type": "article",
-    "title": "Aardbeving treft ook economische motor van Zuidoost-Turkije",
-    "subtitle": null,
-    "published_at": "2023-02-11T05:04:53+01:00",
-    "updated_at": "2023-02-11T05:04:54+01:00",
-    "media_id": "b8qx4hlau1aq",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6250719/aardbeving-treft-ook-economische-motor-van-zuidoost-turkije.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6250662,
-    "slug": "waarom-het-alphatauri-van-nyck-de-vries-in-een-identiteitscrisis-verkeert",
-    "type": "article",
-    "title": "Waarom het AlphaTauri van Nyck de Vries in een identiteitscrisis verkeert",
-    "subtitle": "NU+",
-    "published_at": "2023-02-11T05:03:12+01:00",
-    "updated_at": "2023-02-11T12:12:52+01:00",
-    "media_id": "1jzxlchanokf",
-    "duration": null,
-    "canonical_section": {
-      "id": 1778846,
-      "slug": "nu-formule-1",
-      "type": "default",
-      "name": "NU+ Formule 1",
-      "style": "nusport",
-      "media_id": "gtmxcxnaui5m",
-      "partner": null
-    },
-    "url": "/nu-formule-1/6250662/waarom-het-alphatauri-van-nyck-de-vries-in-een-identiteitscrisis-verkeert.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6250790,
-    "slug": "mee-met-amalia-naar-de-cariben-maximas-parfum-ruiken-of-overal-net-te-laat",
-    "type": "article",
-    "title": "Mee met Amalia naar de Cariben: Máxima's parfum ruiken of overal nét te laat",
-    "subtitle": null,
-    "published_at": "2023-02-11T05:02:17+01:00",
-    "updated_at": "2023-02-11T13:51:48+01:00",
-    "media_id": "voixzj1awat3",
-    "duration": null,
-    "canonical_section": {
-      "id": 1778775,
-      "slug": "koningshuis",
-      "type": "default",
-      "name": "Koningshuis",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/koningshuis/6250790/mee-met-amalia-naar-de-cariben-maximas-parfum-ruiken-of-overal-net-te-laat.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6250759,
-    "slug": "nederlands-team-redt-levens-in-turkije-toch-is-de-vreugde-vaak-van-korte-duur",
-    "type": "article",
-    "title": "Nederlands team redt levens in Turkije: 'Toch is de vreugde vaak van korte duur'",
-    "subtitle": null,
-    "published_at": "2023-02-11T05:00:50+01:00",
-    "updated_at": "2023-02-11T05:00:51+01:00",
-    "media_id": "cb3xhz3anbd1",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779210,
-      "slug": "aardbeving-syrie-en-turkije",
-      "type": "files",
-      "name": "Aardbeving Syrië en Turkije",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/aardbeving-syrie-en-turkije/6250759/nederlands-team-redt-levens-in-turkije-toch-is-de-vreugde-vaak-van-korte-duur.html",
     "open_new_window": false,
     "partner": null
   }
