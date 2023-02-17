@@ -1,12 +1,104 @@
 [
   {
+    "id": 6251708,
+    "slug": "fc-twente-verwacht-bruggink-binnenkort-aan-te-stellen-als-technisch-directeur",
+    "type": "article",
+    "title": "FC Twente verwacht Bruggink binnenkort aan te stellen als technisch directeur",
+    "subtitle": null,
+    "published_at": "2023-02-17T10:45:59+01:00",
+    "updated_at": "2023-02-17T11:00:20+01:00",
+    "media_id": "m33x082a58t3",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6251708/fc-twente-verwacht-bruggink-binnenkort-aan-te-stellen-als-technisch-directeur.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6251705,
+    "slug": "rutte-en-schreinemacher-ontmoeten-zelensky-tijdens-bliksembezoek-aan-kyiv",
+    "type": "article",
+    "title": "Rutte en Schreinemacher ontmoeten Zelensky tijdens 'bliksembezoek' aan Kyiv",
+    "subtitle": null,
+    "published_at": "2023-02-17T10:37:38+01:00",
+    "updated_at": "2023-02-17T10:45:14+01:00",
+    "media_id": "h9exzt4anbbt",
+    "duration": null,
+    "canonical_section": {
+      "id": 1778980,
+      "slug": "spanningen-oekraine",
+      "type": "default",
+      "name": "Oorlog in Oekraïne",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/spanningen-oekraine/6251705/rutte-en-schreinemacher-ontmoeten-zelensky-tijdens-bliksembezoek-aan-kyiv.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6251704,
+    "slug": "supersnelle-hyperloop-weer-stapje-dichterbij-door-nieuw-ontwerp-van-tu-delft",
+    "type": "article",
+    "title": "Supersnelle hyperloop weer stapje dichterbij door nieuw ontwerp van TU Delft",
+    "subtitle": null,
+    "published_at": "2023-02-17T10:26:10+01:00",
+    "updated_at": "2023-02-17T10:47:51+01:00",
+    "media_id": "qr3xqksanhdw",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771438,
+      "slug": "tech",
+      "type": "default",
+      "name": "Tech",
+      "style": "nutech",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/tech/6251704/supersnelle-hyperloop-weer-stapje-dichterbij-door-nieuw-ontwerp-van-tu-delft.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6251703,
+    "slug": "luipaard-raast-door-drukke-woonwijk-in-pakistan",
+    "type": "video",
+    "title": "Luipaard raast door drukke woonwijk in Pakistan",
+    "subtitle": "Video",
+    "published_at": "2023-02-17T10:05:25+01:00",
+    "updated_at": "2023-02-17T10:13:21+01:00",
+    "media_id": "quvx15lafapd",
+    "duration": "0:45",
+    "canonical_section": {
+      "id": 1772536,
+      "slug": "dieren",
+      "type": "default",
+      "name": "Dieren",
+      "style": "nunjij",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/dieren/6251703/luipaard-raast-door-drukke-woonwijk-in-pakistan.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6251697,
     "slug": "wat-wil-je-weten-over-de-redactie-stel-hier-al-je-vragen",
     "type": "article",
     "title": "Wat wil je weten over de redactie? Stel hier al je vragen",
-    "subtitle": null,
+    "subtitle": "Over NU",
     "published_at": "2023-02-17T09:59:12+01:00",
-    "updated_at": "2023-02-17T09:59:13+01:00",
+    "updated_at": "2023-02-17T10:06:48+01:00",
     "media_id": "m1oxf51arsnj",
     "duration": null,
     "canonical_section": {
@@ -52,7 +144,7 @@
     "title": "Detectiveserie Starsky & Hutch krijgt nieuwe versie met twee vrouwelijke agenten",
     "subtitle": null,
     "published_at": "2023-02-17T09:29:54+01:00",
-    "updated_at": "2023-02-17T09:31:30+01:00",
+    "updated_at": "2023-02-17T10:54:02+01:00",
     "media_id": "j87xqwgam6x6",
     "duration": null,
     "canonical_section": {
@@ -75,7 +167,7 @@
     "title": "Rebel Wilson mocht niet afvallen voor Pitch Perfect: 'Wilde gezond worden'",
     "subtitle": null,
     "published_at": "2023-02-17T09:11:23+01:00",
-    "updated_at": "2023-02-17T09:31:42+01:00",
+    "updated_at": "2023-02-17T10:28:22+01:00",
     "media_id": "osnx7ckaz2tp",
     "duration": null,
     "canonical_section": {
@@ -323,12 +415,12 @@
   },
   {
     "id": 6251624,
-    "slug": "glory-organiseert-eind-2023-na-tien-jaar-weer-prestigieuze-grand-prix",
+    "slug": "topgevechten-op-komst-bij-glory-na-tien-jaar-weer-prestigieuze-grand-prix",
     "type": "article",
-    "title": "GLORY organiseert eind 2023 na tien jaar weer prestigieuze Grand Prix",
+    "title": "Topgevechten op komst bij GLORY: na tien jaar weer prestigieuze Grand Prix",
     "subtitle": null,
     "published_at": "2023-02-17T06:55:25+01:00",
-    "updated_at": "2023-02-17T06:55:26+01:00",
+    "updated_at": "2023-02-17T10:18:24+01:00",
     "media_id": "fuwxmijaz8mj",
     "duration": null,
     "canonical_section": {
@@ -340,7 +432,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/sport-overig/6251624/glory-organiseert-eind-2023-na-tien-jaar-weer-prestigieuze-grand-prix.html",
+    "url": "/sport-overig/6251624/topgevechten-op-komst-bij-glory-na-tien-jaar-weer-prestigieuze-grand-prix.html",
     "open_new_window": false,
     "partner": null
   },
@@ -535,7 +627,7 @@
     "title": "Waarom Saïd R. nu pas zijn levenslange strafeis hoort in het Marengo-proces",
     "subtitle": null,
     "published_at": "2023-02-17T05:07:46+01:00",
-    "updated_at": "2023-02-17T05:07:47+01:00",
+    "updated_at": "2023-02-17T10:08:41+01:00",
     "media_id": "04txathar8e2",
     "duration": null,
     "canonical_section": {
@@ -594,98 +686,6 @@
       "partner": null
     },
     "url": "/voetbal/6251669/volgende-dreun-voor-psv-nieuweling-hazard-weken-uitgeschakeld-door-blessure.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6251560,
-    "slug": "stuk-minder-vergunningen-voor-koophuizen-afgegeven-voor-huur-juist-meer",
-    "type": "article",
-    "title": "Stuk minder vergunningen voor koophuizen afgegeven, voor huur juist meer",
-    "subtitle": null,
-    "published_at": "2023-02-17T00:24:49+01:00",
-    "updated_at": "2023-02-17T00:24:50+01:00",
-    "media_id": "veqxd1iauy4a",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6251560/stuk-minder-vergunningen-voor-koophuizen-afgegeven-voor-huur-juist-meer.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6251572,
-    "slug": "winkels-verkochten-minder-maar-behalen-meer-omzet-door-hogere-prijzen",
-    "type": "article",
-    "title": "Winkels verkochten minder, maar behalen meer omzet door hogere prijzen",
-    "subtitle": null,
-    "published_at": "2023-02-17T00:23:57+01:00",
-    "updated_at": "2023-02-17T00:23:58+01:00",
-    "media_id": "3ikxymfa75me",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6251572/winkels-verkochten-minder-maar-behalen-meer-omzet-door-hogere-prijzen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6251667,
-    "slug": "frustraties-bij-psv-na-sof-in-sevilla-we-hebben-de-wedstrijd-weggegooid",
-    "type": "article",
-    "title": "Frustraties bij PSV na sof in Sevilla: 'We hebben de wedstrijd weggegooid'",
-    "subtitle": null,
-    "published_at": "2023-02-16T23:56:08+01:00",
-    "updated_at": "2023-02-17T08:59:27+01:00",
-    "media_id": "exfx1uta9dnb",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6251667/frustraties-bij-psv-na-sof-in-sevilla-we-hebben-de-wedstrijd-weggegooid.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6251666,
-    "slug": "bijna-elf-dagen-na-aardbevingen-nog-mensen-levend-onder-puin-vandaan-gehaald",
-    "type": "article",
-    "title": "Bijna elf dagen na aardbevingen nog mensen levend onder puin vandaan gehaald",
-    "subtitle": null,
-    "published_at": "2023-02-16T22:56:42+01:00",
-    "updated_at": "2023-02-16T23:02:07+01:00",
-    "media_id": "e0rxna3a8wl4",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779210,
-      "slug": "aardbeving-syrie-en-turkije",
-      "type": "files",
-      "name": "Aardbeving Syrië en Turkije",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/aardbeving-syrie-en-turkije/6251666/bijna-elf-dagen-na-aardbevingen-nog-mensen-levend-onder-puin-vandaan-gehaald.html",
     "open_new_window": false,
     "partner": null
   }
