@@ -1,5 +1,28 @@
 [
   {
+    "id": 6252866,
+    "slug": "beer-ontsnapt-twee-keer-in-maand-tijd-uit-verblijf-amerikaanse-dierentuin",
+    "type": "article",
+    "title": "Beer ontsnapt twee keer in maand tijd uit verblijf Amerikaanse dierentuin",
+    "subtitle": null,
+    "published_at": "2023-02-24T21:42:04+01:00",
+    "updated_at": "2023-02-24T21:49:23+01:00",
+    "media_id": "n3pxcv9au9s2",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6252866/beer-ontsnapt-twee-keer-in-maand-tijd-uit-verblijf-amerikaanse-dierentuin.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6252862,
     "slug": "zo-herdenkt-nederland-een-jaar-oorlog-in-oekraine",
     "type": "video",
@@ -29,7 +52,7 @@
     "title": "Dodental aardbevingen Turkije en Syrië komt uit boven de 50.000",
     "subtitle": null,
     "published_at": "2023-02-24T20:34:39+01:00",
-    "updated_at": "2023-02-24T20:55:29+01:00",
+    "updated_at": "2023-02-24T21:26:21+01:00",
     "media_id": "lrtxs86ak7k2",
     "duration": null,
     "canonical_section": {
@@ -663,29 +686,6 @@
       "partner": null
     },
     "url": "/binnenland/6252809/man-die-haagse-huisarts-neerstak-verdacht-van-poging-tot-moord-of-doodslag.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6252810,
-    "slug": "circuit-zandvoort-lost-ruimtegebrek-in-pitsstraat-op-met-verlenging-en-extra-pitbox",
-    "type": "article",
-    "title": "Circuit Zandvoort lost ruimtegebrek in pitsstraat op met verlenging en extra pitbox",
-    "subtitle": null,
-    "published_at": "2023-02-24T15:57:30+01:00",
-    "updated_at": "2023-02-24T15:57:32+01:00",
-    "media_id": "i13xs4caib67",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772449,
-      "slug": "formule-1",
-      "type": "default",
-      "name": "Formule 1",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/formule-1/6252810/circuit-zandvoort-lost-ruimtegebrek-in-pitsstraat-op-met-verlenging-en-extra-pitbox.html",
     "open_new_window": false,
     "partner": null
   }
