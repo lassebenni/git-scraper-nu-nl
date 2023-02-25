@@ -1,13 +1,36 @@
 [
   {
-    "id": 6252942,
-    "slug": "koploper-napoli-houdt-stand-na-rode-kaart-en-boekt-achtste-competitiezege-op-rij",
+    "id": 6252941,
+    "slug": "de-tendens-die-door-niemand-wordt-ontkend-red-bull-is-echt-sterk",
     "type": "article",
-    "title": "Koploper Napoli houdt stand na rode kaart en boekt achtste competitiezege op rij",
+    "title": "De tendens die door niemand wordt ontkend: Red Bull is echt sterk",
+    "subtitle": "NU+",
+    "published_at": "2023-02-25T20:51:09+01:00",
+    "updated_at": "2023-02-25T20:51:10+01:00",
+    "media_id": "rjsxhvna4d1u",
+    "duration": null,
+    "canonical_section": {
+      "id": 1778846,
+      "slug": "nu-formule-1",
+      "type": "default",
+      "name": "NU+ Formule 1",
+      "style": "nusport",
+      "media_id": "gtmxcxnaui5m",
+      "partner": null
+    },
+    "url": "/nu-formule-1/6252941/de-tendens-die-door-niemand-wordt-ontkend-red-bull-is-echt-sterk.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6252947,
+    "slug": "rkc-verrast-heerenveen-in-laatste-halfuur-en-boekt-grootste-uitzege-van-seizoen",
+    "type": "article",
+    "title": "RKC verrast Heerenveen in laatste halfuur en boekt grootste uitzege van seizoen",
     "subtitle": null,
-    "published_at": "2023-02-25T19:56:47+01:00",
-    "updated_at": "2023-02-25T19:57:22+01:00",
-    "media_id": "01cxxw5aceqe",
+    "published_at": "2023-02-25T20:45:10+01:00",
+    "updated_at": "2023-02-25T20:47:57+01:00",
+    "media_id": "jboxmj8a4zee",
     "duration": null,
     "canonical_section": {
       "id": 1772338,
@@ -18,18 +41,110 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6252942/koploper-napoli-houdt-stand-na-rode-kaart-en-boekt-achtste-competitiezege-op-rij.html",
+    "url": "/voetbal/6252947/rkc-verrast-heerenveen-in-laatste-halfuur-en-boekt-grootste-uitzege-van-seizoen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6252946,
+    "slug": "omstander-filmt-aanhouding-verdachte-dodelijke-schietpartij-zwijndrecht",
+    "type": "video",
+    "title": "Omstander filmt aanhouding verdachte dodelijke schietpartij Zwijndrecht",
+    "subtitle": "Video",
+    "published_at": "2023-02-25T20:42:26+01:00",
+    "updated_at": "2023-02-25T20:54:58+01:00",
+    "media_id": "8rmxnjhai1l5",
+    "duration": "0:55",
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6252946/omstander-filmt-aanhouding-verdachte-dodelijke-schietpartij-zwijndrecht.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6252613,
+    "slug": "ook-particulieren-pikken-gemeentegrond-en-die-diefstal-loont-nog",
+    "type": "article",
+    "title": "Ook particulieren pikken gemeentegrond, en die diefstal loont (nog)",
+    "subtitle": null,
+    "published_at": "2023-02-25T20:09:40+01:00",
+    "updated_at": "2023-02-25T20:31:49+01:00",
+    "media_id": "kinx7ztaehg0",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772754,
+      "slug": "klimaat",
+      "type": "default",
+      "name": "Klimaat",
+      "style": "nuzakelijk",
+      "media_id": "kf4x3b2agsxg",
+      "partner": null
+    },
+    "url": "/klimaat/6252613/ook-particulieren-pikken-gemeentegrond-en-die-diefstal-loont-nog.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6252943,
+    "slug": "zelensky-geeft-rondleiding-door-zijn-oorlogsvertrek",
+    "type": "video",
+    "title": "Zelensky geeft rondleiding door zijn oorlogsvertrek",
+    "subtitle": "Video",
+    "published_at": "2023-02-25T20:01:59+01:00",
+    "updated_at": "2023-02-25T20:02:00+01:00",
+    "media_id": "hgdxfkda8hbm",
+    "duration": "1:01",
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6252943/zelensky-geeft-rondleiding-door-zijn-oorlogsvertrek.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6252942,
+    "slug": "real-in-derby-niet-langs-tiental-atletico-na-spectaculair-slot-napoli-weer-foutloos",
+    "type": "article",
+    "title": "Real in derby niet langs tiental Atlético na spectaculair slot, Napoli weer foutloos",
+    "subtitle": null,
+    "published_at": "2023-02-25T19:56:47+01:00",
+    "updated_at": "2023-02-25T20:54:41+01:00",
+    "media_id": "86ix2sjarnaz",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6252942/real-in-derby-niet-langs-tiental-atletico-na-spectaculair-slot-napoli-weer-foutloos.html",
     "open_new_window": false,
     "partner": null
   },
   {
     "id": 6252923,
-    "slug": "verstappen-zit-weer-op-streefgewicht-was-deze-winter-wat-meer-aangekomen",
+    "slug": "verstappen-zit-net-als-zijn-red-bull-weer-op-zijn-streefgewicht",
     "type": "article",
-    "title": "Verstappen zit weer op streefgewicht: 'Was deze winter wat meer aangekomen'",
+    "title": "Verstappen zit net als zijn Red Bull weer op zijn streefgewicht",
     "subtitle": null,
     "published_at": "2023-02-25T18:49:49+01:00",
-    "updated_at": "2023-02-25T19:07:42+01:00",
+    "updated_at": "2023-02-25T20:07:32+01:00",
     "media_id": "md8xaiea7w9t",
     "duration": null,
     "canonical_section": {
@@ -41,7 +156,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/formule-1/6252923/verstappen-zit-weer-op-streefgewicht-was-deze-winter-wat-meer-aangekomen.html",
+    "url": "/formule-1/6252923/verstappen-zit-net-als-zijn-red-bull-weer-op-zijn-streefgewicht.html",
     "open_new_window": false,
     "partner": null
   },
@@ -98,8 +213,8 @@
     "title": "Groningen boekt in degradatiekraker tegen Excelsior eerste zege sinds oktober",
     "subtitle": null,
     "published_at": "2023-02-25T18:20:16+01:00",
-    "updated_at": "2023-02-25T18:57:35+01:00",
-    "media_id": "3fkxg1pabvct",
+    "updated_at": "2023-02-25T20:45:39+01:00",
+    "media_id": "y2kxllsa4d3q",
     "duration": null,
     "canonical_section": {
       "id": 1772338,
@@ -139,13 +254,13 @@
   },
   {
     "id": 6252935,
-    "slug": "koploper-arsenal-verhoogt-druk-op-manchester-city-met-zege-op-leicester-city",
+    "slug": "manchester-city-blijft-door-zege-op-bournemouth-in-spoor-van-winnend-arsenal",
     "type": "article",
-    "title": "Koploper Arsenal verhoogt druk op Manchester City met zege op Leicester City",
+    "title": "Manchester City blijft door zege op Bournemouth in spoor van winnend Arsenal",
     "subtitle": null,
     "published_at": "2023-02-25T17:56:23+01:00",
-    "updated_at": "2023-02-25T18:02:31+01:00",
-    "media_id": "lagx44hawc68",
+    "updated_at": "2023-02-25T20:46:47+01:00",
+    "media_id": "88lx20uaq82g",
     "duration": null,
     "canonical_section": {
       "id": 1772338,
@@ -156,7 +271,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6252935/koploper-arsenal-verhoogt-druk-op-manchester-city-met-zege-op-leicester-city.html",
+    "url": "/voetbal/6252935/manchester-city-blijft-door-zege-op-bournemouth-in-spoor-van-winnend-arsenal.html",
     "open_new_window": false,
     "partner": null
   },
@@ -328,7 +443,7 @@
     "title": "Van Baarle na winst in Omloop Het Nieuwsblad: 'Ik heb mijn instinct gebruikt'",
     "subtitle": null,
     "published_at": "2023-02-25T16:55:54+01:00",
-    "updated_at": "2023-02-25T17:54:49+01:00",
+    "updated_at": "2023-02-25T20:34:55+01:00",
     "media_id": "j2nxlqraawxh",
     "duration": null,
     "canonical_section": {
@@ -346,13 +461,13 @@
   },
   {
     "id": 6252917,
-    "slug": "heerenveen-verdedigt-na-rust-nipte-voorsprong-tegen-rkc",
+    "slug": "az-halverwege-op-voorsprong-tegen-cambuur",
     "type": "article",
-    "title": "Heerenveen verdedigt na rust nipte voorsprong tegen RKC",
+    "title": "AZ halverwege op voorsprong tegen Cambuur",
     "subtitle": "Liveblog Eredivisie",
     "published_at": "2023-02-25T16:09:28+01:00",
-    "updated_at": "2023-02-25T19:54:16+01:00",
-    "media_id": "favxmyqa42o8",
+    "updated_at": "2023-02-25T20:54:56+01:00",
+    "media_id": "i5axvk0ah483",
     "duration": null,
     "canonical_section": {
       "id": 1772338,
@@ -363,7 +478,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6252917/heerenveen-verdedigt-na-rust-nipte-voorsprong-tegen-rkc.html",
+    "url": "/voetbal/6252917/az-halverwege-op-voorsprong-tegen-cambuur.html",
     "open_new_window": false,
     "partner": null
   },
@@ -397,7 +512,7 @@
     "title": "Verstappen heeft de perfecte afstelling van zijn auto al bijna te pakken",
     "subtitle": "NU+",
     "published_at": "2023-02-25T15:16:52+01:00",
-    "updated_at": "2023-02-25T19:39:22+01:00",
+    "updated_at": "2023-02-25T20:10:45+01:00",
     "media_id": "0dyx3xwa6rlp",
     "duration": null,
     "canonical_section": {
@@ -571,121 +686,6 @@
       "partner": null
     },
     "url": "/economie/6252905/g20-landen-nog-niet-eens-over-kwijtschelding-schulden-van-armere-landen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6248005,
-    "slug": "verdachte-dodelijke-schietpartij-zwijndrecht-opgepakt-na-wekenlange-zoektocht",
-    "type": "article",
-    "title": "Verdachte dodelijke schietpartij Zwijndrecht opgepakt na wekenlange zoektocht",
-    "subtitle": null,
-    "published_at": "2023-02-25T13:44:32+01:00",
-    "updated_at": "2023-02-25T14:37:46+01:00",
-    "media_id": "bekxk6daqasx",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6248005/verdachte-dodelijke-schietpartij-zwijndrecht-opgepakt-na-wekenlange-zoektocht.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6252904,
-    "slug": "nyck-de-vries-beleeft-nagenoeg-perfecte-formule-1-testweek-ben-er-klaar-voor",
-    "type": "article",
-    "title": "Nyck de Vries beleeft nagenoeg perfecte Formule 1-testweek: 'Ben er klaar voor'",
-    "subtitle": null,
-    "published_at": "2023-02-25T13:43:03+01:00",
-    "updated_at": "2023-02-25T17:32:31+01:00",
-    "media_id": "j9wxkkxask7r",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772449,
-      "slug": "formule-1",
-      "type": "default",
-      "name": "Formule 1",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/formule-1/6252904/nyck-de-vries-beleeft-nagenoeg-perfecte-formule-1-testweek-ben-er-klaar-voor.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6252902,
-    "slug": "groenewegen-kan-dag-na-imposante-zege-niet-meedoen-om-ritwinst-in-uae-tour",
-    "type": "article",
-    "title": "Groenewegen kan dag na imposante zege niet meedoen om ritwinst in UAE Tour",
-    "subtitle": null,
-    "published_at": "2023-02-25T13:34:54+01:00",
-    "updated_at": "2023-02-25T15:30:13+01:00",
-    "media_id": "mdqxzotaki4k",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772339,
-      "slug": "wielrennen",
-      "type": "default",
-      "name": "Wielrennen",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/wielrennen/6252902/groenewegen-kan-dag-na-imposante-zege-niet-meedoen-om-ritwinst-in-uae-tour.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6252894,
-    "slug": "lezersreacties-op-eindrapport-groningers-boven-gas-erkenning-altijd-eerste-stap",
-    "type": "article",
-    "title": "Lezersreacties op eindrapport Groningers boven gas: 'Erkenning altijd eerste stap'",
-    "subtitle": null,
-    "published_at": "2023-02-25T12:38:43+01:00",
-    "updated_at": "2023-02-25T12:43:31+01:00",
-    "media_id": "motxu9tabn0t",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779134,
-      "slug": "stelling",
-      "type": "default",
-      "name": "Stelling",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/stelling/6252894/lezersreacties-op-eindrapport-groningers-boven-gas-erkenning-altijd-eerste-stap.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6252405,
-    "slug": "op-de-stoel-van-de-regering-praat-jij-straks-mee-over-het-klimaat",
-    "type": "article",
-    "title": "Op de stoel van de regering: praat jij straks mee over het klimaat?",
-    "subtitle": "NU+",
-    "published_at": "2023-02-25T12:18:23+01:00",
-    "updated_at": "2023-02-25T17:11:46+01:00",
-    "media_id": "04ixns4a7wz7",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772754,
-      "slug": "klimaat",
-      "type": "default",
-      "name": "Klimaat",
-      "style": "nuzakelijk",
-      "media_id": "kf4x3b2agsxg",
-      "partner": null
-    },
-    "url": "/klimaat/6252405/op-de-stoel-van-de-regering-praat-jij-straks-mee-over-het-klimaat.html",
     "open_new_window": false,
     "partner": null
   }
