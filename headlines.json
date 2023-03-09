@@ -1,12 +1,81 @@
 [
   {
-    "id": 6254608,
-    "slug": "belastingdienst-maant-ondernemers-met-coronaschuld-tot-terugbetalen",
+    "id": 6254591,
+    "slug": "een-digitale-vingerafdruk-om-naaktfotos-te-beschermen-zo-werkt-het",
+    "type": "video",
+    "title": "Een digitale vingerafdruk om naaktfoto’s te beschermen: zo werkt het",
+    "subtitle": "Video",
+    "published_at": "2023-03-09T16:58:17+01:00",
+    "updated_at": "2023-03-09T16:58:18+01:00",
+    "media_id": "754xdxnaymc6",
+    "duration": "1:45",
+    "canonical_section": {
+      "id": 1778967,
+      "slug": "uitleg",
+      "type": "default",
+      "name": "Het nieuws uitgelegd",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/uitleg/6254591/een-digitale-vingerafdruk-om-naaktfotos-te-beschermen-zo-werkt-het.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6254610,
+    "slug": "hooggeplaatste-afghaanse-gouverneur-van-taliban-gedood-bij-explosie-in-kantoor",
     "type": "article",
-    "title": "Belastingdienst maant ondernemers met coronaschuld tot terugbetalen",
+    "title": "Hooggeplaatste Afghaanse gouverneur van Taliban gedood bij explosie in kantoor",
+    "subtitle": null,
+    "published_at": "2023-03-09T16:39:29+01:00",
+    "updated_at": "2023-03-09T16:39:30+01:00",
+    "media_id": "7ttx3fnaq7gu",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6254610/hooggeplaatste-afghaanse-gouverneur-van-taliban-gedood-bij-explosie-in-kantoor.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6254612,
+    "slug": "twee-mensen-krijgen-deel-van-30000-euro-tipgeld-schietpartij-zwijndrecht",
+    "type": "article",
+    "title": "Twee mensen krijgen deel van 30.000 euro tipgeld schietpartij Zwijndrecht",
+    "subtitle": null,
+    "published_at": "2023-03-09T16:15:37+01:00",
+    "updated_at": "2023-03-09T16:48:53+01:00",
+    "media_id": "7kpx4anacckb",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6254612/twee-mensen-krijgen-deel-van-30000-euro-tipgeld-schietpartij-zwijndrecht.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6254608,
+    "slug": "belastingdienst-maant-103000-ondernemers-met-coronaschuld-tot-terugbetalen",
+    "type": "article",
+    "title": "Belastingdienst maant 103.000 ondernemers met coronaschuld tot terugbetalen",
     "subtitle": null,
     "published_at": "2023-03-09T15:55:41+01:00",
-    "updated_at": "2023-03-09T15:59:17+01:00",
+    "updated_at": "2023-03-09T16:52:30+01:00",
     "media_id": "3jzxcbnap6qg",
     "duration": null,
     "canonical_section": {
@@ -18,7 +87,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/economie/6254608/belastingdienst-maant-ondernemers-met-coronaschuld-tot-terugbetalen.html",
+    "url": "/economie/6254608/belastingdienst-maant-103000-ondernemers-met-coronaschuld-tot-terugbetalen.html",
     "open_new_window": false,
     "partner": null
   },
@@ -52,8 +121,8 @@
     "title": "Roglic wint vierde rit Tirreno na rare val Van Aert in finale, bijrol voor Van der Poel",
     "subtitle": null,
     "published_at": "2023-03-09T15:50:52+01:00",
-    "updated_at": "2023-03-09T16:00:11+01:00",
-    "media_id": "ynzxn1wadp4f",
+    "updated_at": "2023-03-09T16:32:08+01:00",
+    "media_id": "02pxrlqamy4z",
     "duration": null,
     "canonical_section": {
       "id": 1772339,
@@ -75,8 +144,8 @@
     "title": "BMW verdient miljarden meer, terwijl het bedrijf minder auto's verkoopt",
     "subtitle": null,
     "published_at": "2023-03-09T15:42:04+01:00",
-    "updated_at": "2023-03-09T15:42:06+01:00",
-    "media_id": "jndxtshagzhb",
+    "updated_at": "2023-03-09T16:26:48+01:00",
+    "media_id": "1bbxa04adig7",
     "duration": null,
     "canonical_section": {
       "id": 99,
@@ -144,7 +213,7 @@
     "title": "Intimidatie en discriminatie bij NOS Sport, leiding sportredactie treedt op termijn terug",
     "subtitle": null,
     "published_at": "2023-03-09T14:18:41+01:00",
-    "updated_at": "2023-03-09T15:33:12+01:00",
+    "updated_at": "2023-03-09T16:58:05+01:00",
     "media_id": "tkkxerka0hr2",
     "duration": null,
     "canonical_section": {
@@ -236,7 +305,7 @@
     "title": "McDonald's stapt in Frankrijk tijdelijk over op friet van biet, wortel en pastinaak",
     "subtitle": null,
     "published_at": "2023-03-09T13:39:30+01:00",
-    "updated_at": "2023-03-09T13:39:32+01:00",
+    "updated_at": "2023-03-09T16:33:57+01:00",
     "media_id": "fgkx7f6a58xq",
     "duration": null,
     "canonical_section": {
@@ -254,12 +323,12 @@
   },
   {
     "id": 6254589,
-    "slug": "bondscoach-franse-voetbalsters-45-maand-voor-wk-ontslagen-na-opstand-vedettes",
+    "slug": "bondscoach-franse-voetbalsters-45-maand-voor-wk-ontslagen-na-conflict",
     "type": "article",
-    "title": "Bondscoach Franse voetbalsters 4,5 maand voor WK ontslagen na opstand vedettes",
+    "title": "Bondscoach Franse voetbalsters 4,5 maand voor WK ontslagen na conflict",
     "subtitle": null,
     "published_at": "2023-03-09T13:33:09+01:00",
-    "updated_at": "2023-03-09T15:36:01+01:00",
+    "updated_at": "2023-03-09T16:08:46+01:00",
     "media_id": "rx4x348abm02",
     "duration": null,
     "canonical_section": {
@@ -271,7 +340,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6254589/bondscoach-franse-voetbalsters-45-maand-voor-wk-ontslagen-na-opstand-vedettes.html",
+    "url": "/voetbal/6254589/bondscoach-franse-voetbalsters-45-maand-voor-wk-ontslagen-na-conflict.html",
     "open_new_window": false,
     "partner": null
   },
@@ -617,75 +686,6 @@
       "partner": null
     },
     "url": "/schaatsen/6254481/voor-shorttracknerd-jens-van-t-wout-is-niks-mooier-dan-wereldtitel-in-zuid-korea.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6254551,
-    "slug": "driedelige-docu-over-max-verstappen-vanaf-2-april-te-zien-op-viaplay",
-    "type": "article",
-    "title": "Driedelige docu over Max Verstappen vanaf 2 april te zien op Viaplay",
-    "subtitle": null,
-    "published_at": "2023-03-09T10:43:29+01:00",
-    "updated_at": "2023-03-09T10:43:30+01:00",
-    "media_id": "pv3xxqbaghcn",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771675,
-      "slug": "media",
-      "type": "default",
-      "name": "Media",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/media/6254551/driedelige-docu-over-max-verstappen-vanaf-2-april-te-zien-op-viaplay.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6254550,
-    "slug": "asielzoeker-die-te-lang-in-crisisnoodopvang-verblijft-loopt-grote-gezondheidsrisicos",
-    "type": "article",
-    "title": "Asielzoeker die te lang in crisisnoodopvang verblijft loopt grote gezondheidsrisico's",
-    "subtitle": null,
-    "published_at": "2023-03-09T10:41:15+01:00",
-    "updated_at": "2023-03-09T14:28:57+01:00",
-    "media_id": "k95xm2qaf1jg",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779109,
-      "slug": "asielcrisis",
-      "type": "default",
-      "name": "Asielcrisis",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/asielcrisis/6254550/asielzoeker-die-te-lang-in-crisisnoodopvang-verblijft-loopt-grote-gezondheidsrisicos.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6254554,
-    "slug": "suv-ramt-raam-achter-presentatoren-van-podcast-in-vs",
-    "type": "video",
-    "title": "SUV ramt raam achter presentatoren van podcast in VS",
-    "subtitle": "Video",
-    "published_at": "2023-03-09T10:37:07+01:00",
-    "updated_at": "2023-03-09T11:20:29+01:00",
-    "media_id": "msyxocnax6pq",
-    "duration": "0:45",
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6254554/suv-ramt-raam-achter-presentatoren-van-podcast-in-vs.html",
     "open_new_window": false,
     "partner": null
   }
