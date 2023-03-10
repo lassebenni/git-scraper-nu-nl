@@ -1,12 +1,58 @@
 [
   {
-    "id": 6254681,
-    "slug": "weerbericht-noorden-bedolven-onder-sneeuwbuien-die-zich-langzaam-verspreiden",
+    "id": 6254684,
+    "slug": "dader-schietpartij-hamburg-handelde-alleen-en-is-waarschijnlijk-overleden",
     "type": "article",
-    "title": "Weerbericht: noorden bedolven onder sneeuwbuien die zich langzaam verspreiden",
+    "title": "Dader schietpartij Hamburg handelde alleen en is waarschijnlijk overleden",
+    "subtitle": null,
+    "published_at": "2023-03-10T06:39:58+01:00",
+    "updated_at": "2023-03-10T06:39:59+01:00",
+    "media_id": "mswx45mavc9j",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6254684/dader-schietpartij-hamburg-handelde-alleen-en-is-waarschijnlijk-overleden.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6254682,
+    "slug": "sylvie-meis-en-rafael-van-der-vaart-kregen-50000-euro-voor-registratie-bruiloft",
+    "type": "article",
+    "title": "Sylvie Meis en Rafael van der Vaart kregen 50.000 euro voor registratie bruiloft",
+    "subtitle": null,
+    "published_at": "2023-03-10T06:14:29+01:00",
+    "updated_at": "2023-03-10T06:14:30+01:00",
+    "media_id": "rhzxalza279n",
+    "duration": null,
+    "canonical_section": {
+      "id": 125,
+      "slug": "achterklap",
+      "type": "default",
+      "name": "Achterklap",
+      "style": "nuentertainment",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/achterklap/6254682/sylvie-meis-en-rafael-van-der-vaart-kregen-50000-euro-voor-registratie-bruiloft.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6254681,
+    "slug": "weerbericht-noorden-snel-bedolven-onder-sneeuw-rest-ontkomt-er-ook-niet-aan",
+    "type": "article",
+    "title": "Weerbericht: noorden snel bedolven onder sneeuw, rest ontkomt er ook niet aan",
     "subtitle": null,
     "published_at": "2023-03-10T05:59:19+01:00",
-    "updated_at": "2023-03-10T05:59:20+01:00",
+    "updated_at": "2023-03-10T07:01:01+01:00",
     "media_id": "t7exdvfa4o02",
     "duration": null,
     "canonical_section": {
@@ -18,7 +64,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/binnenland/6254681/weerbericht-noorden-bedolven-onder-sneeuwbuien-die-zich-langzaam-verspreiden.html",
+    "url": "/binnenland/6254681/weerbericht-noorden-snel-bedolven-onder-sneeuw-rest-ontkomt-er-ook-niet-aan.html",
     "open_new_window": false,
     "partner": null
   },
@@ -185,12 +231,12 @@
   },
   {
     "id": 6254679,
-    "slug": "soldaten-in-belarus-kunnen-voortaan-doodstraf-krijgen-voor-hoogverraad",
+    "slug": "militairen-in-belarus-kunnen-voortaan-doodstraf-krijgen-voor-hoogverraad",
     "type": "article",
-    "title": "Soldaten in Belarus kunnen voortaan doodstraf krijgen voor hoogverraad",
+    "title": "Militairen in Belarus kunnen voortaan doodstraf krijgen voor hoogverraad",
     "subtitle": null,
     "published_at": "2023-03-10T00:50:01+01:00",
-    "updated_at": "2023-03-10T00:58:40+01:00",
+    "updated_at": "2023-03-10T06:54:44+01:00",
     "media_id": "fthxrzxaj19d",
     "duration": null,
     "canonical_section": {
@@ -202,7 +248,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/buitenland/6254679/soldaten-in-belarus-kunnen-voortaan-doodstraf-krijgen-voor-hoogverraad.html",
+    "url": "/buitenland/6254679/militairen-in-belarus-kunnen-voortaan-doodstraf-krijgen-voor-hoogverraad.html",
     "open_new_window": false,
     "partner": null
   },
@@ -213,7 +259,7 @@
     "title": "Man (35) zat 18 jaar onterecht vast in VS omdat justitie verkeerde foto gebruikte",
     "subtitle": null,
     "published_at": "2023-03-10T00:40:43+01:00",
-    "updated_at": "2023-03-10T00:40:45+01:00",
+    "updated_at": "2023-03-10T06:41:49+01:00",
     "media_id": "k03x4n3asucu",
     "duration": null,
     "canonical_section": {
@@ -328,7 +374,7 @@
     "title": "Meerdere doden en zwaargewonden bij schietpartij in gebedsruimte in Hamburg",
     "subtitle": null,
     "published_at": "2023-03-09T22:36:12+01:00",
-    "updated_at": "2023-03-10T00:42:52+01:00",
+    "updated_at": "2023-03-10T06:14:46+01:00",
     "media_id": "6dcx98fagnu7",
     "duration": null,
     "canonical_section": {
@@ -640,52 +686,6 @@
       "partner": null
     },
     "url": "/wielrennen/6254643/vreugde-overheerst-na-wonderlijke-dag-jumbo-visma-niet-alles-liep-volgens-plan.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6254641,
-    "slug": "szymanski-lost-dilrosun-af-bij-feyenoord-in-europa-league-duel-met-shakhtar",
-    "type": "article",
-    "title": "Szymanski lost Dilrosun af bij Feyenoord in Europa League-duel met Shakhtar",
-    "subtitle": null,
-    "published_at": "2023-03-09T19:34:47+01:00",
-    "updated_at": "2023-03-09T21:12:26+01:00",
-    "media_id": "1tyxcq9aqd5s",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6254641/szymanski-lost-dilrosun-af-bij-feyenoord-in-europa-league-duel-met-shakhtar.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6254653,
-    "slug": "willem-alexander-over-tien-jaar-koningschap-geen-moment-saai-geweest",
-    "type": "article",
-    "title": "Willem-Alexander over tien jaar koningschap: 'Geen moment saai geweest'",
-    "subtitle": null,
-    "published_at": "2023-03-09T19:26:33+01:00",
-    "updated_at": "2023-03-09T21:28:03+01:00",
-    "media_id": "qyzx1z2aage1",
-    "duration": null,
-    "canonical_section": {
-      "id": 1778775,
-      "slug": "koningshuis",
-      "type": "default",
-      "name": "Koningshuis",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/koningshuis/6254653/willem-alexander-over-tien-jaar-koningschap-geen-moment-saai-geweest.html",
     "open_new_window": false,
     "partner": null
   }
