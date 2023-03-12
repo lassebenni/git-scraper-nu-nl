@@ -1,24 +1,70 @@
 [
   {
-    "id": 6254933,
-    "slug": "loreen-opnieuw-zweedse-kandidaat-voor-eurovisie-songfestival",
+    "id": 6254936,
+    "slug": "andre-hazes-geniet-meer-van-optreden-nu-hij-geen-alcohol-of-drugs-gebruikt",
     "type": "article",
-    "title": "Loreen opnieuw Zweedse kandidaat voor Eurovisie Songfestival",
+    "title": "André Hazes geniet meer van optreden nu hij geen alcohol of drugs gebruikt",
     "subtitle": null,
-    "published_at": "2023-03-12T00:29:07+01:00",
-    "updated_at": "2023-03-12T00:29:08+01:00",
-    "media_id": "1kjxw4zaj46a",
+    "published_at": "2023-03-12T02:27:47+01:00",
+    "updated_at": "2023-03-12T02:27:48+01:00",
+    "media_id": "go4x4pya993g",
     "duration": null,
     "canonical_section": {
-      "id": 1772242,
-      "slug": "entertainment",
+      "id": 125,
+      "slug": "achterklap",
       "type": "default",
-      "name": "Media en Cultuur",
+      "name": "Achterklap",
+      "style": "nuentertainment",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/achterklap/6254936/andre-hazes-geniet-meer-van-optreden-nu-hij-geen-alcohol-of-drugs-gebruikt.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6254935,
+    "slug": "interview-met-de-mol-ik-had-mezelf-echt-een-eikel-gevonden",
+    "type": "article",
+    "title": "Interview met de Mol: 'Ik had mezelf echt een eikel gevonden'",
+    "subtitle": null,
+    "published_at": "2023-03-12T02:19:25+01:00",
+    "updated_at": "2023-03-12T02:19:27+01:00",
+    "media_id": "tmdx4woa2e5o",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771675,
+      "slug": "media",
+      "type": "default",
+      "name": "Media",
       "style": "nuuit",
       "media_id": null,
       "partner": null
     },
-    "url": "/entertainment/6254933/loreen-opnieuw-zweedse-kandidaat-voor-eurovisie-songfestival.html",
+    "url": "/media/6254935/interview-met-de-mol-ik-had-mezelf-echt-een-eikel-gevonden.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6254933,
+    "slug": "loreen-elf-jaar-na-winst-met-euphoria-weer-zweedse-kandidaat-voor-songfestival",
+    "type": "article",
+    "title": "Loreen elf jaar na winst met Euphoria weer Zweedse kandidaat voor Songfestival",
+    "subtitle": null,
+    "published_at": "2023-03-12T00:29:07+01:00",
+    "updated_at": "2023-03-12T02:22:21+01:00",
+    "media_id": "1kjxw4zaj46a",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772282,
+      "slug": "songfestival",
+      "type": "default",
+      "name": "Songfestival",
+      "style": "nuuit",
+      "media_id": "4a9xjerag1rk",
+      "partner": null
+    },
+    "url": "/songfestival/6254933/loreen-elf-jaar-na-winst-met-euphoria-weer-zweedse-kandidaat-voor-songfestival.html",
     "open_new_window": false,
     "partner": null
   },
@@ -351,7 +397,7 @@
     "title": "Slechte generale Lazio voor return tegen AZ, Napoli zet nieuwe stap richting titel",
     "subtitle": null,
     "published_at": "2023-03-11T20:10:30+01:00",
-    "updated_at": "2023-03-11T22:54:58+01:00",
+    "updated_at": "2023-03-12T01:57:20+01:00",
     "media_id": "fcrxee3abo3x",
     "duration": null,
     "canonical_section": {
@@ -640,52 +686,6 @@
       "partner": null
     },
     "url": "/voetbal/6254903/reacties-op-overwinningen-az-sparta-twente-en-emmen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6254901,
-    "slug": "kluivert-schiet-valencia-naar-winst-en-weg-van-degradatieplekken-in-la-liga",
-    "type": "article",
-    "title": "Kluivert schiet Valencia naar winst en weg van degradatieplekken in La Liga",
-    "subtitle": null,
-    "published_at": "2023-03-11T16:04:02+01:00",
-    "updated_at": "2023-03-11T23:47:11+01:00",
-    "media_id": "p2exw9zalxdr",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6254901/kluivert-schiet-valencia-naar-winst-en-weg-van-degradatieplekken-in-la-liga.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6254891,
-    "slug": "honkballers-door-verlies-nog-niet-zeker-van-kwartfinales-op-world-baseball-classic",
-    "type": "article",
-    "title": "Honkballers door verlies nog niet zeker van kwartfinales op World Baseball Classic",
-    "subtitle": null,
-    "published_at": "2023-03-11T15:51:38+01:00",
-    "updated_at": "2023-03-11T21:42:50+01:00",
-    "media_id": "hunxp2na74me",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772456,
-      "slug": "sport-overig",
-      "type": "default",
-      "name": "Sport Overig",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/sport-overig/6254891/honkballers-door-verlies-nog-niet-zeker-van-kwartfinales-op-world-baseball-classic.html",
     "open_new_window": false,
     "partner": null
   }
