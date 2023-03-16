@@ -1,5 +1,97 @@
 [
   {
+    "id": 6255515,
+    "slug": "medvedev-in-indian-wells-nog-twee-zeges-verwijderd-van-vierde-titel-op-rij",
+    "type": "article",
+    "title": "Medvedev in Indian Wells nog twee zeges verwijderd van vierde titel op rij",
+    "subtitle": null,
+    "published_at": "2023-03-16T07:56:19+01:00",
+    "updated_at": "2023-03-16T08:00:04+01:00",
+    "media_id": "jgdxilsa8s8f",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772432,
+      "slug": "tennis",
+      "type": "default",
+      "name": "Tennis",
+      "style": "nusport",
+      "media_id": "m1oxohpan0gq",
+      "partner": null
+    },
+    "url": "/tennis/6255515/medvedev-in-indian-wells-nog-twee-zeges-verwijderd-van-vierde-titel-op-rij.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6255514,
+    "slug": "credit-suisse-leent-50-miljard-frank-van-zwitserse-centrale-bank",
+    "type": "article",
+    "title": "Credit Suisse leent 50 miljard frank van Zwitserse centrale bank",
+    "subtitle": null,
+    "published_at": "2023-03-16T07:48:49+01:00",
+    "updated_at": "2023-03-16T07:56:03+01:00",
+    "media_id": "94xxnjpaaem9",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6255514/credit-suisse-leent-50-miljard-frank-van-zwitserse-centrale-bank.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6255512,
+    "slug": "nasa-presenteert-soepel-ruimtepak-voor-maanmissie",
+    "type": "video",
+    "title": "NASA presenteert 'soepel' ruimtepak voor maanmissie",
+    "subtitle": "Video",
+    "published_at": "2023-03-16T07:29:50+01:00",
+    "updated_at": "2023-03-16T07:30:12+01:00",
+    "media_id": "em7x039ayddx",
+    "duration": "0:48",
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6255512/nasa-presenteert-soepel-ruimtepak-voor-maanmissie.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6255510,
+    "slug": "aantal-werklozen-in-februari-licht-gedaald-naar-356000",
+    "type": "article",
+    "title": "Aantal werklozen in februari licht gedaald naar 356.000",
+    "subtitle": null,
+    "published_at": "2023-03-16T07:27:55+01:00",
+    "updated_at": "2023-03-16T07:39:06+01:00",
+    "media_id": "qklxvvva7nbn",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6255510/aantal-werklozen-in-februari-licht-gedaald-naar-356000.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6255409,
     "slug": "stelling-staken-in-publieke-en-dienstverlenende-sectoren-moet-verboden-zijn",
     "type": "article",
@@ -24,12 +116,12 @@
   },
   {
     "id": 6255358,
-    "slug": "hoe-de-rekrutering-van-oekraiense-militairen-steeds-dwingender-wordt",
+    "slug": "oekrainers-ontlopen-hun-dienstplicht-en-dit-wordt-ertegen-gedaan",
     "type": "video",
-    "title": "Hoe de rekrutering van Oekraïense militairen steeds dwingender wordt",
+    "title": "Oekraïners ontlopen hun dienstplicht en dit wordt ertegen gedaan",
     "subtitle": "Video",
     "published_at": "2023-03-16T06:45:37+01:00",
-    "updated_at": "2023-03-16T06:45:38+01:00",
+    "updated_at": "2023-03-16T07:45:31+01:00",
     "media_id": "f0txi0zahuii",
     "duration": "2:32",
     "canonical_section": {
@@ -41,7 +133,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/algemeen/6255358/hoe-de-rekrutering-van-oekraiense-militairen-steeds-dwingender-wordt.html",
+    "url": "/algemeen/6255358/oekrainers-ontlopen-hun-dienstplicht-en-dit-wordt-ertegen-gedaan.html",
     "open_new_window": false,
     "partner": null
   },
@@ -52,8 +144,8 @@
     "title": "Polen arresteert zes mensen op verdenking van spionage voor Rusland",
     "subtitle": null,
     "published_at": "2023-03-16T06:06:51+01:00",
-    "updated_at": "2023-03-16T06:17:52+01:00",
-    "media_id": "0p0xg54anjne",
+    "updated_at": "2023-03-16T07:39:07+01:00",
+    "media_id": "bv9x3o4a4qg5",
     "duration": null,
     "canonical_section": {
       "id": 1771436,
@@ -98,7 +190,7 @@
     "title": "Het Woord van vandaag: Raad jij het woord van de dag?",
     "subtitle": null,
     "published_at": "2023-03-16T05:32:14+01:00",
-    "updated_at": "2023-03-16T05:32:15+01:00",
+    "updated_at": "2023-03-16T07:45:27+01:00",
     "media_id": "5orxtf5awygy",
     "duration": null,
     "canonical_section": {
@@ -144,7 +236,7 @@
     "title": "Hierom staakt het ziekenhuispersoneel en dit merkt de patiënt ervan",
     "subtitle": "NU+",
     "published_at": "2023-03-16T05:13:59+01:00",
-    "updated_at": "2023-03-16T05:14:00+01:00",
+    "updated_at": "2023-03-16T07:33:18+01:00",
     "media_id": "j9bx6diaqeo0",
     "duration": null,
     "canonical_section": {
@@ -438,12 +530,12 @@
   },
   {
     "id": 6255485,
-    "slug": "exitpoll-verpletterende-zege-bbb-coalitiepartijen-verliezen-fors-in-eerste-kamer",
+    "slug": "prognose-verpletterende-zege-bbb-coalitie-verliest-fors-in-eerste-kamer",
     "type": "article",
-    "title": "Exitpoll: Verpletterende zege BBB, coalitiepartijen verliezen fors in Eerste Kamer",
+    "title": "Prognose: Verpletterende zege BBB, coalitie verliest fors in Eerste Kamer",
     "subtitle": null,
     "published_at": "2023-03-15T22:02:52+01:00",
-    "updated_at": "2023-03-16T06:46:05+01:00",
+    "updated_at": "2023-03-16T07:19:52+01:00",
     "media_id": "vndxjx7a73c9",
     "duration": null,
     "canonical_section": {
@@ -455,7 +547,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/provinciale-statenverkiezingen/6255485/exitpoll-verpletterende-zege-bbb-coalitiepartijen-verliezen-fors-in-eerste-kamer.html",
+    "url": "/provinciale-statenverkiezingen/6255485/prognose-verpletterende-zege-bbb-coalitie-verliest-fors-in-eerste-kamer.html",
     "open_new_window": false,
     "partner": null
   },
@@ -594,98 +686,6 @@
       "partner": null
     },
     "url": "/entertainment/6255477/harry-styles-improviseert-liedje-voor-fans-in-bananenpak.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6255475,
-    "slug": "amerikaanse-zanger-bobby-caldwell-71-overleden",
-    "type": "article",
-    "title": "Amerikaanse zanger Bobby Caldwell (71) overleden",
-    "subtitle": null,
-    "published_at": "2023-03-15T21:04:29+01:00",
-    "updated_at": "2023-03-15T21:08:16+01:00",
-    "media_id": "v1tx3zsa7ux9",
-    "duration": null,
-    "canonical_section": {
-      "id": 868281,
-      "slug": "muziek",
-      "type": "default",
-      "name": "Muziek",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/muziek/6255475/amerikaanse-zanger-bobby-caldwell-71-overleden.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6255473,
-    "slug": "zwitserse-centrale-bank-zal-geplaagd-credit-suisse-steunen-wanneer-nodig",
-    "type": "article",
-    "title": "Zwitserse centrale bank zal geplaagd Credit Suisse steunen wanneer nodig",
-    "subtitle": null,
-    "published_at": "2023-03-15T20:48:46+01:00",
-    "updated_at": "2023-03-15T23:16:49+01:00",
-    "media_id": "lppx2kqaeirj",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6255473/zwitserse-centrale-bank-zal-geplaagd-credit-suisse-steunen-wanneer-nodig.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6255468,
-    "slug": "nederlandse-banken-volgens-ministerie-weerbaar-om-schokken-op-te-vangen",
-    "type": "article",
-    "title": "Nederlandse banken volgens ministerie weerbaar om schokken op te vangen",
-    "subtitle": null,
-    "published_at": "2023-03-15T20:20:40+01:00",
-    "updated_at": "2023-03-15T20:33:32+01:00",
-    "media_id": "oi5xkulautdg",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6255468/nederlandse-banken-volgens-ministerie-weerbaar-om-schokken-op-te-vangen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6255466,
-    "slug": "lees-alles-over-zeges-van-real-madrid-en-napoli",
-    "type": "article",
-    "title": "Lees alles over zeges van Real Madrid en Napoli",
-    "subtitle": "Liveblog CL",
-    "published_at": "2023-03-15T20:18:25+01:00",
-    "updated_at": "2023-03-15T23:45:58+01:00",
-    "media_id": "nm2xzs8a26wt",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6255466/lees-alles-over-zeges-van-real-madrid-en-napoli.html",
     "open_new_window": false,
     "partner": null
   }
