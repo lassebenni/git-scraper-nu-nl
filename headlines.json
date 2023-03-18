@@ -1,5 +1,51 @@
 [
   {
+    "id": 6255729,
+    "slug": "waarom-hoogste-topsnelheid-ferrari-niet-altijd-de-snelste-ronde-geeft",
+    "type": "video",
+    "title": "Waarom hoogste topsnelheid Ferrari niet altijd de snelste ronde geeft",
+    "subtitle": "Video",
+    "published_at": "2023-03-18T06:28:13+01:00",
+    "updated_at": "2023-03-18T06:28:13+01:00",
+    "media_id": "gklxhxvazjf2",
+    "duration": "1:32",
+    "canonical_section": {
+      "id": 1772449,
+      "slug": "formule-1",
+      "type": "default",
+      "name": "GP Saoedi-Arabië",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/formule-1/6255729/waarom-hoogste-topsnelheid-ferrari-niet-altijd-de-snelste-ronde-geeft.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6255867,
+    "slug": "elon-musk-maakt-deel-twitter-algoritme-eind-maart-openbaar",
+    "type": "article",
+    "title": "Elon Musk maakt deel Twitter-algoritme eind maart openbaar",
+    "subtitle": null,
+    "published_at": "2023-03-18T06:03:23+01:00",
+    "updated_at": "2023-03-18T06:03:24+01:00",
+    "media_id": "aa2xjynatcda",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771438,
+      "slug": "tech",
+      "type": "default",
+      "name": "Tech",
+      "style": "nutech",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/tech/6255867/elon-musk-maakt-deel-twitter-algoritme-eind-maart-openbaar.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6255866,
     "slug": "weerbericht-zacht-met-in-de-middag-kans-op-een-flinke-bui",
     "type": "article",
@@ -75,7 +121,7 @@
     "title": "AI-parodieën van Seinfeld en Simpsons zijn grappig, maar vooral onbedoeld",
     "subtitle": "NU+",
     "published_at": "2023-03-18T05:05:51+01:00",
-    "updated_at": "2023-03-18T05:05:52+01:00",
+    "updated_at": "2023-03-18T06:34:07+01:00",
     "media_id": "rjdxw11ai1ag",
     "duration": null,
     "canonical_section": {
@@ -236,7 +282,7 @@
     "title": "Burgemeester van Rome wil geen fans van Feyenoord in zijn stad toelaten",
     "subtitle": null,
     "published_at": "2023-03-17T22:44:56+01:00",
-    "updated_at": "2023-03-17T23:14:31+01:00",
+    "updated_at": "2023-03-18T06:04:33+01:00",
     "media_id": "wesxgndayavw",
     "duration": null,
     "canonical_section": {
@@ -397,7 +443,7 @@
     "title": "Omstreden miljonair Sanderink geschorst als topman Strukton en Oranjewoud",
     "subtitle": null,
     "published_at": "2023-03-17T21:15:13+01:00",
-    "updated_at": "2023-03-17T21:56:31+01:00",
+    "updated_at": "2023-03-18T06:10:13+01:00",
     "media_id": "556xqnxa9s0q",
     "duration": null,
     "canonical_section": {
@@ -640,52 +686,6 @@
       "partner": null
     },
     "url": "/voetbal/6255837/barcelona-preses-laporta-haalt-weer-uit-in-omkopingszaak-we-kiezen-de-aanval.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6255836,
-    "slug": "australier-vindt-een-miljoen-dode-vissen-in-rivier",
-    "type": "video",
-    "title": "Australiër vindt een miljoen dode vissen in rivier",
-    "subtitle": "Video",
-    "published_at": "2023-03-17T18:56:43+01:00",
-    "updated_at": "2023-03-17T18:56:45+01:00",
-    "media_id": "pfjxbxwa4xlm",
-    "duration": "0:45",
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6255836/australier-vindt-een-miljoen-dode-vissen-in-rivier.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6255821,
-    "slug": "deze-boeren-draaien-hun-vlaggen-weer-om-ik-voel-me-gesteund",
-    "type": "article",
-    "title": "Deze boeren draaien hun vlaggen weer om: 'Ik voel me gesteund'",
-    "subtitle": null,
-    "published_at": "2023-03-17T18:48:57+01:00",
-    "updated_at": "2023-03-17T19:02:01+01:00",
-    "media_id": "ev6xitja9puw",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6255821/deze-boeren-draaien-hun-vlaggen-weer-om-ik-voel-me-gesteund.html",
     "open_new_window": false,
     "partner": null
   }
