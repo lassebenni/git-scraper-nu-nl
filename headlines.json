@@ -1,5 +1,74 @@
 [
   {
+    "id": 6255532,
+    "slug": "recensieoverzicht-shazam-fury-of-the-gods-druk-en-vreugdeloos",
+    "type": "article",
+    "title": "Recensieoverzicht Shazam! Fury of the Gods: 'Druk en vreugdeloos'",
+    "subtitle": null,
+    "published_at": "2023-03-19T12:08:04+01:00",
+    "updated_at": "2023-03-19T12:08:06+01:00",
+    "media_id": "7i8xwqbaphma",
+    "duration": null,
+    "canonical_section": {
+      "id": 127,
+      "slug": "film",
+      "type": "default",
+      "name": "Films & Series",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/film/6255532/recensieoverzicht-shazam-fury-of-the-gods-druk-en-vreugdeloos.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6255786,
+    "slug": "jongeren-dromen-niet-van-vast-contract-ze-kunnen-toch-geen-hypotheek-krijgen",
+    "type": "article",
+    "title": "Jongeren dromen niet van vast contract: 'Ze kunnen toch geen hypotheek krijgen'",
+    "subtitle": null,
+    "published_at": "2023-03-19T12:04:42+01:00",
+    "updated_at": "2023-03-19T12:31:05+01:00",
+    "media_id": "yusxebzagrx8",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6255786/jongeren-dromen-niet-van-vast-contract-ze-kunnen-toch-geen-hypotheek-krijgen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6255978,
+    "slug": "beleggen-of-niet-praat-mee-over-crypto-aandelen-en-sparen",
+    "type": "article",
+    "title": "Beleggen of niet? Praat mee over crypto, aandelen en sparen",
+    "subtitle": null,
+    "published_at": "2023-03-19T12:02:54+01:00",
+    "updated_at": "2023-03-19T12:02:56+01:00",
+    "media_id": "dndxx2kavfio",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779134,
+      "slug": "stelling",
+      "type": "default",
+      "name": "Stelling",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/stelling/6255978/beleggen-of-niet-praat-mee-over-crypto-aandelen-en-sparen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6255980,
     "slug": "minibus-ligt-op-de-kant-na-zwaar-ongeluk-in-antwerpen",
     "type": "video",
@@ -24,13 +93,13 @@
   },
   {
     "id": 6255979,
-    "slug": "groningen-ontvangt-heerenveen-op-hectische-dag",
+    "slug": "van-hooijdonk-slaat-twee-keer-toe-aftellen-naar-klassieker",
     "type": "article",
-    "title": "Groningen ontvangt Heerenveen op hectische dag",
+    "title": "Van Hooijdonk slaat twee keer toe, aftellen naar Klassieker",
     "subtitle": "Liveblog Eredivisie",
     "published_at": "2023-03-19T11:50:39+01:00",
-    "updated_at": "2023-03-19T11:55:12+01:00",
-    "media_id": "xbwxr3wablzw",
+    "updated_at": "2023-03-19T12:59:25+01:00",
+    "media_id": "1fdxpjxamfvd",
     "duration": null,
     "canonical_section": {
       "id": 1772338,
@@ -41,7 +110,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6255979/groningen-ontvangt-heerenveen-op-hectische-dag.html",
+    "url": "/voetbal/6255979/van-hooijdonk-slaat-twee-keer-toe-aftellen-naar-klassieker.html",
     "open_new_window": false,
     "partner": null
   },
@@ -52,7 +121,7 @@
     "title": "Succescoach Lukkien vertrekt na dit seizoen bij Emmen en gaat naar Groningen",
     "subtitle": null,
     "published_at": "2023-03-19T11:21:26+01:00",
-    "updated_at": "2023-03-19T12:00:23+01:00",
+    "updated_at": "2023-03-19T12:08:15+01:00",
     "media_id": "mxhxqaba3xrs",
     "duration": null,
     "canonical_section": {
@@ -282,7 +351,7 @@
     "title": "Vooruitblik GP Jeddah: Verstappen kan bij inhaalrace vertrouwen op topsnelheid",
     "subtitle": null,
     "published_at": "2023-03-19T07:55:30+01:00",
-    "updated_at": "2023-03-19T11:58:08+01:00",
+    "updated_at": "2023-03-19T12:49:09+01:00",
     "media_id": "8j7xh7fae3e7",
     "duration": null,
     "canonical_section": {
@@ -328,7 +397,7 @@
     "title": "Dode en achttien gewonden bij ongeluk in Antwerpen",
     "subtitle": null,
     "published_at": "2023-03-19T07:19:15+01:00",
-    "updated_at": "2023-03-19T11:53:03+01:00",
+    "updated_at": "2023-03-19T12:02:43+01:00",
     "media_id": "hh3xpaaav1ne",
     "duration": null,
     "canonical_section": {
@@ -617,75 +686,6 @@
       "partner": null
     },
     "url": "/wielrennen/6255953/de-mooiste-fotos-van-de-zege-van-van-der-poel-in-milaan-san-remo.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6255955,
-    "slug": "zeker-veertien-doden-door-aardbeving-in-ecuador-en-noorden-van-peru",
-    "type": "article",
-    "title": "Zeker veertien doden door aardbeving in Ecuador en noorden van Peru",
-    "subtitle": null,
-    "published_at": "2023-03-18T23:29:39+01:00",
-    "updated_at": "2023-03-19T08:06:52+01:00",
-    "media_id": "ac4xphnagx6x",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6255955/zeker-veertien-doden-door-aardbeving-in-ecuador-en-noorden-van-peru.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6255950,
-    "slug": "conte-woest-na-onacceptabele-vertoning-spurs-ik-zie-elf-egoistische-spelers",
-    "type": "article",
-    "title": "Conte woest na 'onacceptabele vertoning' Spurs: 'Ik zie elf egoïstische spelers'",
-    "subtitle": null,
-    "published_at": "2023-03-18T23:10:24+01:00",
-    "updated_at": "2023-03-19T09:44:01+01:00",
-    "media_id": "e9lxh7vazrji",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6255950/conte-woest-na-onacceptabele-vertoning-spurs-ik-zie-elf-egoistische-spelers.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6255954,
-    "slug": "milan-ondanks-recordgoal-ibrahimovic-onderuit-memphis-wint-ruim-met-atletico",
-    "type": "article",
-    "title": "Milan ondanks recordgoal Ibrahimovic onderuit, Memphis wint ruim met Atlético",
-    "subtitle": null,
-    "published_at": "2023-03-18T22:46:25+01:00",
-    "updated_at": "2023-03-19T09:42:56+01:00",
-    "media_id": "zr4xwr1aagjw",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6255954/milan-ondanks-recordgoal-ibrahimovic-onderuit-memphis-wint-ruim-met-atletico.html",
     "open_new_window": false,
     "partner": null
   }
