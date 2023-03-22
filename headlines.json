@@ -1,5 +1,51 @@
 [
   {
+    "id": 6256293,
+    "slug": "nog-steeds-minder-mensen-in-het-openbaar-vervoer-dan-voor-corona",
+    "type": "article",
+    "title": "Nog steeds minder mensen in het openbaar vervoer dan voor corona",
+    "subtitle": null,
+    "published_at": "2023-03-22T00:02:41+01:00",
+    "updated_at": "2023-03-22T00:02:42+01:00",
+    "media_id": "fs7xoi0acnde",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6256293/nog-steeds-minder-mensen-in-het-openbaar-vervoer-dan-voor-corona.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6256301,
+    "slug": "huizenprijzen-dalen-voor-het-eerst-sinds-2014-in-vergelijking-met-jaar-eerder",
+    "type": "article",
+    "title": "Huizenprijzen dalen voor het eerst sinds 2014 in vergelijking met jaar eerder",
+    "subtitle": null,
+    "published_at": "2023-03-22T00:01:51+01:00",
+    "updated_at": "2023-03-22T00:01:52+01:00",
+    "media_id": "f4pxurra9zqq",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6256301/huizenprijzen-dalen-voor-het-eerst-sinds-2014-in-vergelijking-met-jaar-eerder.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6256356,
     "slug": "belarussische-tennisster-sabalenka-schrikt-van-reacties-wat-heb-ik-misdaan",
     "type": "article",
@@ -24,13 +70,13 @@
   },
   {
     "id": 6256349,
-    "slug": "hoekstra-blijft-na-crisisberaad-met-cda-top-partijleider-ondanks-verkiezingsnederlaag",
+    "slug": "hoekstra-blijft-na-crisisberaad-met-cda-top-partijleider-ondanks-verkiezingsverlies",
     "type": "article",
-    "title": "Hoekstra blijft na crisisberaad met CDA-top partijleider ondanks verkiezingsnederlaag",
+    "title": "Hoekstra blijft na crisisberaad met CDA-top partijleider ondanks verkiezingsverlies",
     "subtitle": null,
     "published_at": "2023-03-21T23:36:05+01:00",
-    "updated_at": "2023-03-21T23:53:10+01:00",
-    "media_id": "v48xjsaahk1a",
+    "updated_at": "2023-03-22T00:39:39+01:00",
+    "media_id": "sadx1zvatix2",
     "duration": null,
     "canonical_section": {
       "id": 1779224,
@@ -41,7 +87,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/provinciale-statenverkiezingen/6256349/hoekstra-blijft-na-crisisberaad-met-cda-top-partijleider-ondanks-verkiezingsnederlaag.html",
+    "url": "/provinciale-statenverkiezingen/6256349/hoekstra-blijft-na-crisisberaad-met-cda-top-partijleider-ondanks-verkiezingsverlies.html",
     "open_new_window": false,
     "partner": null
   },
@@ -640,52 +686,6 @@
       "partner": null
     },
     "url": "/voetbal/6256321/johan-cruijffs-oudere-broer-henny-cruijff-op-78-jarige-leeftijd-overleden.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6256320,
-    "slug": "ciccone-troeft-roglic-en-evenepoel-af-in-enerverende-bergrit-ronde-van-catalonie",
-    "type": "article",
-    "title": "Ciccone troeft Roglic en Evenepoel af in enerverende bergrit Ronde van Catalonië",
-    "subtitle": null,
-    "published_at": "2023-03-21T17:19:49+01:00",
-    "updated_at": "2023-03-21T17:38:48+01:00",
-    "media_id": "fyexbk5azqt4",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772339,
-      "slug": "wielrennen",
-      "type": "default",
-      "name": "Wielrennen",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/wielrennen/6256320/ciccone-troeft-roglic-en-evenepoel-af-in-enerverende-bergrit-ronde-van-catalonie.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6256319,
-    "slug": "poetin-uitgebreid-gesproken-over-versterken-samenwerking-met-china",
-    "type": "video",
-    "title": "Poetin: 'Uitgebreid gesproken over versterken samenwerking met China'",
-    "subtitle": "Video",
-    "published_at": "2023-03-21T17:19:13+01:00",
-    "updated_at": "2023-03-21T17:56:42+01:00",
-    "media_id": "vnkxnb0a6u5w",
-    "duration": "0:58",
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6256319/poetin-uitgebreid-gesproken-over-versterken-samenwerking-met-china.html",
     "open_new_window": false,
     "partner": null
   }
