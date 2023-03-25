@@ -1,5 +1,28 @@
 [
   {
+    "id": 6256859,
+    "slug": "milieudemonstratie-ontaardt-in-ware-veldslag-in-frankrijk",
+    "type": "video",
+    "title": "Milieudemonstratie ontaardt in ware veldslag in Frankrijk",
+    "subtitle": "Video",
+    "published_at": "2023-03-25T18:45:54+01:00",
+    "updated_at": "2023-03-25T18:47:19+01:00",
+    "media_id": "h0wxunkaf4hc",
+    "duration": "1:05",
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6256859/milieudemonstratie-ontaardt-in-ware-veldslag-in-frankrijk.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6256855,
     "slug": "eerste-bosbrand-van-het-jaar-in-spanje-nog-niet-onder-controle",
     "type": "video",
@@ -663,29 +686,6 @@
       "partner": null
     },
     "url": "/binnenland/6256814/om-concludeert-dat-oud-medewerker-geheime-dienst-natuurlijke-dood-stierf.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6256650,
-    "slug": "stelling-elektrische-fietsen-zijn-zonder-snelheidslimiet-een-gevaar-in-het-verkeer",
-    "type": "article",
-    "title": "Stelling: Elektrische fietsen zijn zonder snelheidslimiet een gevaar in het verkeer",
-    "subtitle": null,
-    "published_at": "2023-03-25T08:02:08+01:00",
-    "updated_at": "2023-03-25T12:50:20+01:00",
-    "media_id": "qtmxug6afbxv",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779134,
-      "slug": "stelling",
-      "type": "default",
-      "name": "Stelling",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/stelling/6256650/stelling-elektrische-fietsen-zijn-zonder-snelheidslimiet-een-gevaar-in-het-verkeer.html",
     "open_new_window": false,
     "partner": null
   }
