@@ -1,12 +1,58 @@
 [
   {
-    "id": 6256948,
-    "slug": "israelische-premier-ontslaat-minister-die-kritiek-had-op-hervormingen",
+    "id": 6256951,
+    "slug": "dit-is-het-moment-dat-theo-maassen-een-peuter-de-zaal-uitzet",
+    "type": "video",
+    "title": "Dit is het moment dat Theo Maassen een peuter de zaal uitzet",
+    "subtitle": "Video",
+    "published_at": "2023-03-26T21:47:15+02:00",
+    "updated_at": "2023-03-26T21:56:22+02:00",
+    "media_id": "4blxwklaz6vu",
+    "duration": "1:47",
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6256951/dit-is-het-moment-dat-theo-maassen-een-peuter-de-zaal-uitzet.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6256949,
+    "slug": "vloeistoflek-in-zuid-engelse-haven-poole-harbour-door-kapotte-pijpleiding",
     "type": "article",
-    "title": "Israëlische premier ontslaat minister die kritiek had op hervormingen",
+    "title": "Vloeistoflek in Zuid-Engelse haven Poole Harbour door kapotte pijpleiding",
+    "subtitle": null,
+    "published_at": "2023-03-26T21:31:15+02:00",
+    "updated_at": "2023-03-26T21:41:30+02:00",
+    "media_id": "czwxnnka246x",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6256949/vloeistoflek-in-zuid-engelse-haven-poole-harbour-door-kapotte-pijpleiding.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6256948,
+    "slug": "israelische-premier-netanyahu-ontslaat-minister-wegens-kritiek-op-hervormingen",
+    "type": "article",
+    "title": "Israëlische premier Netanyahu ontslaat minister wegens kritiek op hervormingen",
     "subtitle": null,
     "published_at": "2023-03-26T20:33:40+02:00",
-    "updated_at": "2023-03-26T20:33:42+02:00",
+    "updated_at": "2023-03-26T21:09:11+02:00",
     "media_id": "8y7xjtnacisv",
     "duration": null,
     "canonical_section": {
@@ -18,7 +64,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/buitenland/6256948/israelische-premier-ontslaat-minister-die-kritiek-had-op-hervormingen.html",
+    "url": "/buitenland/6256948/israelische-premier-netanyahu-ontslaat-minister-wegens-kritiek-op-hervormingen.html",
     "open_new_window": false,
     "partner": null
   },
@@ -52,7 +98,7 @@
     "title": "Van Gerwen gaat voor tweede keer in vier dagen ten onder tegen Price",
     "subtitle": null,
     "published_at": "2023-03-26T20:05:36+02:00",
-    "updated_at": "2023-03-26T20:46:17+02:00",
+    "updated_at": "2023-03-26T21:44:54+02:00",
     "media_id": "afbxj96a89mg",
     "duration": null,
     "canonical_section": {
@@ -70,12 +116,12 @@
   },
   {
     "id": 6256945,
-    "slug": "engeland-wint-mede-dankzij-schitterende-treffer-saka-ook-van-oekraine",
+    "slug": "engeland-wint-ook-van-oekraine-mede-dankzij-schitterende-treffer-saka",
     "type": "article",
-    "title": "Engeland wint mede dankzij schitterende treffer Saka ook van Oekraïne",
+    "title": "Engeland wint ook van Oekraïne mede dankzij schitterende treffer Saka",
     "subtitle": null,
     "published_at": "2023-03-26T19:56:46+02:00",
-    "updated_at": "2023-03-26T19:56:48+02:00",
+    "updated_at": "2023-03-26T21:11:51+02:00",
     "media_id": "4k6xirkaxh2s",
     "duration": null,
     "canonical_section": {
@@ -87,7 +133,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6256945/engeland-wint-mede-dankzij-schitterende-treffer-saka-ook-van-oekraine.html",
+    "url": "/voetbal/6256945/engeland-wint-ook-van-oekraine-mede-dankzij-schitterende-treffer-saka.html",
     "open_new_window": false,
     "partner": null
   },
@@ -236,7 +282,7 @@
     "title": "Vier Nederlanders omgekomen bij ongeluk met Porsches vlak over Duitse grens",
     "subtitle": null,
     "published_at": "2023-03-26T17:42:13+02:00",
-    "updated_at": "2023-03-26T19:39:32+02:00",
+    "updated_at": "2023-03-26T21:47:05+02:00",
     "media_id": "oz8xa01ajwo8",
     "duration": null,
     "canonical_section": {
@@ -443,7 +489,7 @@
     "title": "Waarom ridder Hans Kazàn zo belangrijk is voor de goochelwereld",
     "subtitle": "NU+",
     "published_at": "2023-03-26T15:00:29+02:00",
-    "updated_at": "2023-03-26T20:11:50+02:00",
+    "updated_at": "2023-03-26T21:13:26+02:00",
     "media_id": "39dx7xoaefhb",
     "duration": null,
     "canonical_section": {
@@ -640,52 +686,6 @@
       "partner": null
     },
     "url": "/wielrennen/6256915/roglic-pareert-aanval-van-evenepoel-in-slotrit-en-wint-ronde-van-catalonie.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6256911,
-    "slug": "prorail-heeft-geen-das-gezien-bij-werk-aan-spoor-in-esch-dat-is-een-goed-teken",
-    "type": "article",
-    "title": "ProRail heeft geen das gezien bij werk aan spoor in Esch: 'Dat is een goed teken'",
-    "subtitle": null,
-    "published_at": "2023-03-26T13:48:11+02:00",
-    "updated_at": "2023-03-26T19:27:13+02:00",
-    "media_id": "u13xy3ganvzo",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6256911/prorail-heeft-geen-das-gezien-bij-werk-aan-spoor-in-esch-dat-is-een-goed-teken.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6256912,
-    "slug": "politie-weet-door-tips-wie-dode-vrouw-bij-apeldoorn-is-doet-verder-onderzoek",
-    "type": "article",
-    "title": "Politie weet door tips wie dode vrouw bij Apeldoorn is, doet verder onderzoek",
-    "subtitle": null,
-    "published_at": "2023-03-26T13:26:51+02:00",
-    "updated_at": "2023-03-26T13:58:49+02:00",
-    "media_id": "csmxwlxaoqe0",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6256912/politie-weet-door-tips-wie-dode-vrouw-bij-apeldoorn-is-doet-verder-onderzoek.html",
     "open_new_window": false,
     "partner": null
   }
