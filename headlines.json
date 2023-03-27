@@ -1,12 +1,58 @@
 [
   {
+    "id": 6257059,
+    "slug": "twee-cubaanse-migranten-komen-met-deltavliegtuig-vs-binnen",
+    "type": "video",
+    "title": "Twee Cubaanse migranten komen met deltavliegtuig VS binnen",
+    "subtitle": "Video",
+    "published_at": "2023-03-27T18:33:51+02:00",
+    "updated_at": "2023-03-27T18:33:52+02:00",
+    "media_id": "ax6xqjbabiy6",
+    "duration": "0:37",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6257059/twee-cubaanse-migranten-komen-met-deltavliegtuig-vs-binnen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6257053,
+    "slug": "jongen-5-weer-thuis-na-ongeluk-met-bus-in-utrecht-waarbij-zus-7-overleed",
+    "type": "article",
+    "title": "Jongen (5) weer thuis na ongeluk met bus in Utrecht waarbij zus (7) overleed",
+    "subtitle": null,
+    "published_at": "2023-03-27T18:22:39+02:00",
+    "updated_at": "2023-03-27T18:53:52+02:00",
+    "media_id": "m2bxjfua0y8u",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6257053/jongen-5-weer-thuis-na-ongeluk-met-bus-in-utrecht-waarbij-zus-7-overleed.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6257030,
     "slug": "jullie-vragen-over-de-ramadan-vasten-draait-om-de-toewijding-aan-god",
     "type": "article",
     "title": "Jullie vragen over de ramadan: 'Vasten draait om de toewijding aan God'",
     "subtitle": null,
     "published_at": "2023-03-27T18:00:17+02:00",
-    "updated_at": "2023-03-27T18:00:19+02:00",
+    "updated_at": "2023-03-27T18:33:15+02:00",
     "media_id": "shzx95davie9",
     "duration": null,
     "canonical_section": {
@@ -75,7 +121,7 @@
     "title": "Politiebewakers luiden noodklok over gebrekkige opleiding en onveilige auto's",
     "subtitle": null,
     "published_at": "2023-03-27T17:22:41+02:00",
-    "updated_at": "2023-03-27T17:22:42+02:00",
+    "updated_at": "2023-03-27T18:17:30+02:00",
     "media_id": "oewxp3dadasv",
     "duration": null,
     "canonical_section": {
@@ -640,52 +686,6 @@
       "partner": null
     },
     "url": "/voetbal/6256990/memphis-miste-in-oranje-al-vier-strafschoppen-is-er-een-alternatief.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6257002,
-    "slug": "belastingdienst-wil-dat-medewerkers-tiktok-van-werktelefoon-halen",
-    "type": "article",
-    "title": "Belastingdienst wil dat medewerkers TikTok van werktelefoon halen",
-    "subtitle": null,
-    "published_at": "2023-03-27T13:16:41+02:00",
-    "updated_at": "2023-03-27T17:20:02+02:00",
-    "media_id": "b54xos0af5sh",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771438,
-      "slug": "tech",
-      "type": "default",
-      "name": "Tech",
-      "style": "nutech",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/tech/6257002/belastingdienst-wil-dat-medewerkers-tiktok-van-werktelefoon-halen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6250395,
-    "slug": "psv-perschef-thijs-slegers-46-die-mensen-opriep-donor-te-worden-overleden",
-    "type": "article",
-    "title": "PSV-perschef Thijs Slegers (46) - die mensen opriep donor te worden - overleden",
-    "subtitle": null,
-    "published_at": "2023-03-27T12:56:23+02:00",
-    "updated_at": "2023-03-27T14:14:08+02:00",
-    "media_id": "93tx2siajzyr",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6250395/psv-perschef-thijs-slegers-46-die-mensen-opriep-donor-te-worden-overleden.html",
     "open_new_window": false,
     "partner": null
   }
