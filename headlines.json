@@ -1,12 +1,81 @@
 [
   {
+    "id": 6257417,
+    "slug": "amerikaanse-journalist-in-rusland-gearresteerd-op-verdenking-van-spionage",
+    "type": "article",
+    "title": "Amerikaanse journalist in Rusland gearresteerd op verdenking van spionage",
+    "subtitle": null,
+    "published_at": "2023-03-30T10:49:47+02:00",
+    "updated_at": "2023-03-30T10:49:48+02:00",
+    "media_id": "m1mxrgraw41k",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771675,
+      "slug": "media",
+      "type": "default",
+      "name": "Media",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/media/6257417/amerikaanse-journalist-in-rusland-gearresteerd-op-verdenking-van-spionage.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6257388,
+    "slug": "aicha-marghadi-haalt-fel-uit-naar-tom-egbers-en-jack-van-gelder",
+    "type": "article",
+    "title": "Aïcha Marghadi haalt fel uit naar Tom Egbers en Jack van Gelder",
+    "subtitle": null,
+    "published_at": "2023-03-30T10:39:57+02:00",
+    "updated_at": "2023-03-30T10:53:19+02:00",
+    "media_id": "6qoxbxya6rhc",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771675,
+      "slug": "media",
+      "type": "default",
+      "name": "Media",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/media/6257388/aicha-marghadi-haalt-fel-uit-naar-tom-egbers-en-jack-van-gelder.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6257419,
+    "slug": "gegevens-duizenden-bezoekers-vrienden-van-amstel-live-op-straat-door-datalek",
+    "type": "article",
+    "title": "Gegevens duizenden bezoekers Vrienden van Amstel LIVE op straat door datalek",
+    "subtitle": null,
+    "published_at": "2023-03-30T10:11:22+02:00",
+    "updated_at": "2023-03-30T10:11:24+02:00",
+    "media_id": "n5qxsauapmnr",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771438,
+      "slug": "tech",
+      "type": "default",
+      "name": "Tech",
+      "style": "nutech",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/tech/6257419/gegevens-duizenden-bezoekers-vrienden-van-amstel-live-op-straat-door-datalek.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6257418,
     "slug": "amsterdamse-straat-afgezet-na-dodelijke-schietpartij",
     "type": "video",
     "title": "Amsterdamse straat afgezet na dodelijke schietpartij",
     "subtitle": "Video",
     "published_at": "2023-03-30T09:54:37+02:00",
-    "updated_at": "2023-03-30T09:54:38+02:00",
+    "updated_at": "2023-03-30T10:51:19+02:00",
     "media_id": "u82xroda8rw5",
     "duration": "0:44",
     "canonical_section": {
@@ -231,13 +300,13 @@
   },
   {
     "id": 6257398,
-    "slug": "vrouw-doodgeschoten-in-portiek-in-amsterdam-verdachte-gevlucht",
+    "slug": "vrouw-doodgeschoten-in-portiek-amsterdam-vermoedelijke-dader-ook-overleden",
     "type": "article",
-    "title": "Vrouw doodgeschoten in portiek in Amsterdam, verdachte gevlucht",
+    "title": "Vrouw doodgeschoten in portiek Amsterdam, vermoedelijke dader ook overleden",
     "subtitle": null,
     "published_at": "2023-03-30T08:54:19+02:00",
-    "updated_at": "2023-03-30T09:52:12+02:00",
-    "media_id": "30mx85hazb8g",
+    "updated_at": "2023-03-30T10:28:14+02:00",
+    "media_id": "u9ixzl9ay10q",
     "duration": null,
     "canonical_section": {
       "id": 1771435,
@@ -248,7 +317,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/binnenland/6257398/vrouw-doodgeschoten-in-portiek-in-amsterdam-verdachte-gevlucht.html",
+    "url": "/binnenland/6257398/vrouw-doodgeschoten-in-portiek-amsterdam-vermoedelijke-dader-ook-overleden.html",
     "open_new_window": false,
     "partner": null
   },
@@ -604,7 +673,7 @@
     "title": "Een derde Meiland-biografie van Jan Dijkgraaf: 'Maxime is opmerkelijk volwassen'",
     "subtitle": null,
     "published_at": "2023-03-30T05:02:14+02:00",
-    "updated_at": "2023-03-30T05:02:15+02:00",
+    "updated_at": "2023-03-30T10:04:55+02:00",
     "media_id": "ztixrh2amtnm",
     "duration": null,
     "canonical_section": {
@@ -617,75 +686,6 @@
       "partner": null
     },
     "url": "/achterklap/6257173/een-derde-meiland-biografie-van-jan-dijkgraaf-maxime-is-opmerkelijk-volwassen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6257340,
-    "slug": "aan-plannen-geen-gebrek-maar-minister-heeft-hele-klus-aan-woningbouwambities",
-    "type": "article",
-    "title": "Aan plannen geen gebrek, maar minister heeft hele klus aan woningbouwambities",
-    "subtitle": null,
-    "published_at": "2023-03-30T05:00:57+02:00",
-    "updated_at": "2023-03-30T06:46:04+02:00",
-    "media_id": "kbmxk11a2pet",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6257340/aan-plannen-geen-gebrek-maar-minister-heeft-hele-klus-aan-woningbouwambities.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6257226,
-    "slug": "sobere-opvang-voor-asielzoekers-in-lege-gevangenis-almere-stap-dichterbij",
-    "type": "article",
-    "title": "Sobere opvang voor asielzoekers in lege gevangenis Almere stap dichterbij",
-    "subtitle": null,
-    "published_at": "2023-03-30T04:59:51+02:00",
-    "updated_at": "2023-03-30T04:59:52+02:00",
-    "media_id": "cknxnnva67zl",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6257226/sobere-opvang-voor-asielzoekers-in-lege-gevangenis-almere-stap-dichterbij.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6257380,
-    "slug": "na-dip-in-coronajaren-worden-privevliegtuigen-weer-volop-gebruikt",
-    "type": "article",
-    "title": "Na dip in coronajaren worden privévliegtuigen weer volop gebruikt",
-    "subtitle": null,
-    "published_at": "2023-03-30T00:34:57+02:00",
-    "updated_at": "2023-03-30T07:44:20+02:00",
-    "media_id": "oybxr5sajmyv",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772754,
-      "slug": "klimaat",
-      "type": "default",
-      "name": "Klimaat",
-      "style": "nuzakelijk",
-      "media_id": "kf4x3b2agsxg",
-      "partner": null
-    },
-    "url": "/klimaat/6257380/na-dip-in-coronajaren-worden-privevliegtuigen-weer-volop-gebruikt.html",
     "open_new_window": false,
     "partner": null
   }
