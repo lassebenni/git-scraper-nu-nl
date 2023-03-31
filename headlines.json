@@ -1,12 +1,127 @@
 [
   {
+    "id": 6257601,
+    "slug": "waar-luister-jij-naar-deze-week-praat-mee-over-new-music-friday",
+    "type": "article",
+    "title": "Waar luister jij naar deze week? Praat mee over New Music Friday",
+    "subtitle": null,
+    "published_at": "2023-03-31T12:38:05+02:00",
+    "updated_at": "2023-03-31T12:38:06+02:00",
+    "media_id": "ygqxbzwaxr5f",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779134,
+      "slug": "stelling",
+      "type": "default",
+      "name": "Stelling",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/stelling/6257601/waar-luister-jij-naar-deze-week-praat-mee-over-new-music-friday.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6257620,
+    "slug": "groningen-eist-30-miljard-euro-extra-voor-inlossen-ereschuld-vanwege-gaswinning",
+    "type": "article",
+    "title": "Groningen eist 30 miljard euro extra voor inlossen ereschuld vanwege gaswinning",
+    "subtitle": null,
+    "published_at": "2023-03-31T12:27:24+02:00",
+    "updated_at": "2023-03-31T12:57:08+02:00",
+    "media_id": "k8sx48naqs1c",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772247,
+      "slug": "gaswinning-groningen",
+      "type": "files",
+      "name": "Gaswinning",
+      "style": "nu",
+      "media_id": "m1mxes7a42ey",
+      "partner": null
+    },
+    "url": "/gaswinning-groningen/6257620/groningen-eist-30-miljard-euro-extra-voor-inlossen-ereschuld-vanwege-gaswinning.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6257617,
+    "slug": "the-american-acteur-johan-leysen-73-onverwachts-overleden",
+    "type": "article",
+    "title": "The American-acteur Johan Leysen (73) onverwachts overleden",
+    "subtitle": null,
+    "published_at": "2023-03-31T12:25:07+02:00",
+    "updated_at": "2023-03-31T12:25:08+02:00",
+    "media_id": "aryx9piat7u9",
+    "duration": null,
+    "canonical_section": {
+      "id": 127,
+      "slug": "film",
+      "type": "default",
+      "name": "Films & Series",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/film/6257617/the-american-acteur-johan-leysen-73-onverwachts-overleden.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6257613,
+    "slug": "talentvolle-megan-de-cler-ervoer-jarenlang-onveilig-sportklimaat-binnen-boksbond",
+    "type": "article",
+    "title": "Talentvolle Megan de Cler ervoer jarenlang onveilig sportklimaat binnen boksbond",
+    "subtitle": null,
+    "published_at": "2023-03-31T12:19:19+02:00",
+    "updated_at": "2023-03-31T12:19:20+02:00",
+    "media_id": "buxxygra60ma",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772456,
+      "slug": "sport-overig",
+      "type": "default",
+      "name": "Sport Overig",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/sport-overig/6257613/talentvolle-megan-de-cler-ervoer-jarenlang-onveilig-sportklimaat-binnen-boksbond.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6257611,
+    "slug": "britse-wielerronde-womens-tour-gaat-niet-door-vanwege-financiele-problemen",
+    "type": "article",
+    "title": "Britse wielerronde Women's Tour gaat niet door vanwege financiële problemen",
+    "subtitle": null,
+    "published_at": "2023-03-31T12:01:54+02:00",
+    "updated_at": "2023-03-31T12:01:56+02:00",
+    "media_id": "mzexy1zal7wt",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772339,
+      "slug": "wielrennen",
+      "type": "default",
+      "name": "Wielrennen",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/wielrennen/6257611/britse-wielerronde-womens-tour-gaat-niet-door-vanwege-financiele-problemen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6257604,
     "slug": "wetenschappers-staan-versteld-van-platste-explosie-in-de-ruimte-ooit",
     "type": "article",
     "title": "Wetenschappers staan versteld van platste explosie in de ruimte ooit",
     "subtitle": null,
     "published_at": "2023-03-31T11:52:41+02:00",
-    "updated_at": "2023-03-31T11:52:43+02:00",
+    "updated_at": "2023-03-31T12:57:51+02:00",
     "media_id": "0txxj5haspn9",
     "duration": null,
     "canonical_section": {
@@ -52,7 +167,7 @@
     "title": "Ook inflatie in eurolanden lager, maar boodschappen blijven duur",
     "subtitle": null,
     "published_at": "2023-03-31T11:35:49+02:00",
-    "updated_at": "2023-03-31T11:35:50+02:00",
+    "updated_at": "2023-03-31T12:16:45+02:00",
     "media_id": "220xq2qa864f",
     "duration": null,
     "canonical_section": {
@@ -70,12 +185,12 @@
   },
   {
     "id": 6257602,
-    "slug": "natuur-in-zuid-holland-en-limburg-zwaar-onder-druk-analyses-andere-gebieden-volgen-later",
+    "slug": "natuur-zuid-holland-en-limburg-fors-onder-druk-andere-plekken-later-onderzocht",
     "type": "article",
-    "title": "Natuur in Zuid-Holland en Limburg zwaar onder druk, analyses andere gebieden volgen later",
+    "title": "Natuur Zuid-Holland en Limburg fors onder druk, andere plekken later onderzocht",
     "subtitle": null,
     "published_at": "2023-03-31T11:27:40+02:00",
-    "updated_at": "2023-03-31T11:52:34+02:00",
+    "updated_at": "2023-03-31T12:47:14+02:00",
     "media_id": "mgzxm01aysul",
     "duration": null,
     "canonical_section": {
@@ -87,7 +202,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/stikstof/6257602/natuur-in-zuid-holland-en-limburg-zwaar-onder-druk-analyses-andere-gebieden-volgen-later.html",
+    "url": "/stikstof/6257602/natuur-zuid-holland-en-limburg-fors-onder-druk-andere-plekken-later-onderzocht.html",
     "open_new_window": false,
     "partner": null
   },
@@ -98,7 +213,7 @@
     "title": "Kangoeroe die rond Ede ontsnapte blijkt nog niet te vangen: 'Keer wat anders'",
     "subtitle": null,
     "published_at": "2023-03-31T11:21:46+02:00",
-    "updated_at": "2023-03-31T11:34:03+02:00",
+    "updated_at": "2023-03-31T12:04:11+02:00",
     "media_id": "6x3x5inazy0k",
     "duration": null,
     "canonical_section": {
@@ -144,7 +259,7 @@
     "title": "Loonstijging in maart komt uit op recordniveau van 7,3 procent, hoger dan inflatie",
     "subtitle": null,
     "published_at": "2023-03-31T11:13:39+02:00",
-    "updated_at": "2023-03-31T11:26:31+02:00",
+    "updated_at": "2023-03-31T12:02:50+02:00",
     "media_id": "111xw1qaiy7t",
     "duration": null,
     "canonical_section": {
@@ -190,7 +305,7 @@
     "title": "OH Leuven-speler vliegt met auto sporthal binnen, verkeert niet in levensgevaar",
     "subtitle": null,
     "published_at": "2023-03-31T10:25:20+02:00",
-    "updated_at": "2023-03-31T10:30:00+02:00",
+    "updated_at": "2023-03-31T12:37:42+02:00",
     "media_id": "smnxkura3pyu",
     "duration": null,
     "canonical_section": {
@@ -277,12 +392,12 @@
   },
   {
     "id": 6257583,
-    "slug": "belgische-terreurverdachten-wilden-aanslag-plegen-op-antwerpse-burgemeester",
+    "slug": "terreurverdachten-belgie-planden-mogelijk-aanslag-op-antwerpse-burgemeester",
     "type": "article",
-    "title": "Belgische terreurverdachten wilden aanslag plegen op Antwerpse burgemeester",
+    "title": "Terreurverdachten België planden mogelijk aanslag op Antwerpse burgemeester",
     "subtitle": null,
     "published_at": "2023-03-31T10:07:47+02:00",
-    "updated_at": "2023-03-31T10:07:49+02:00",
+    "updated_at": "2023-03-31T12:49:24+02:00",
     "media_id": "gc7xvlfawald",
     "duration": null,
     "canonical_section": {
@@ -294,7 +409,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/buitenland/6257583/belgische-terreurverdachten-wilden-aanslag-plegen-op-antwerpse-burgemeester.html",
+    "url": "/buitenland/6257583/terreurverdachten-belgie-planden-mogelijk-aanslag-op-antwerpse-burgemeester.html",
     "open_new_window": false,
     "partner": null
   },
@@ -328,7 +443,7 @@
     "title": "Tegenslag Ajax in zoektocht naar technisch directeur: topkandidaat Ward zegt af",
     "subtitle": null,
     "published_at": "2023-03-31T09:39:30+02:00",
-    "updated_at": "2023-03-31T10:41:41+02:00",
+    "updated_at": "2023-03-31T12:39:25+02:00",
     "media_id": "65jxzn9a0v7v",
     "duration": null,
     "canonical_section": {
@@ -571,121 +686,6 @@
       "partner": null
     },
     "url": "/gezondheid/6257435/ook-voorjaarsvakantie-zorgde-voor-lawine-aan-knieblessures-tijdens-wintersport.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6257470,
-    "slug": "stelling-er-moet-naast-hondenbelasting-ook-kattenbelasting-komen",
-    "type": "article",
-    "title": "Stelling: Er moet naast hondenbelasting ook kattenbelasting komen",
-    "subtitle": null,
-    "published_at": "2023-03-31T07:00:52+02:00",
-    "updated_at": "2023-03-31T09:33:43+02:00",
-    "media_id": "9s7x01ca1nm3",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779134,
-      "slug": "stelling",
-      "type": "default",
-      "name": "Stelling",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/stelling/6257470/stelling-er-moet-naast-hondenbelasting-ook-kattenbelasting-komen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6257560,
-    "slug": "reacties-na-regenachtige-tweede-vrije-training-in-melbourne",
-    "type": "article",
-    "title": "Reacties na regenachtige tweede vrije training in Melbourne",
-    "subtitle": "Liveblog",
-    "published_at": "2023-03-31T07:00:06+02:00",
-    "updated_at": "2023-03-31T08:02:31+02:00",
-    "media_id": "ingxfwyao77r",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772449,
-      "slug": "formule-1",
-      "type": "default",
-      "name": "GP Australië",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/formule-1/6257560/reacties-na-regenachtige-tweede-vrije-training-in-melbourne.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6257559,
-    "slug": "maurice-de-hond-verliest-zaak-rond-podcast-en-film-over-deventer-moordzaak",
-    "type": "article",
-    "title": "Maurice de Hond verliest zaak rond podcast en film over Deventer moordzaak",
-    "subtitle": null,
-    "published_at": "2023-03-31T06:58:59+02:00",
-    "updated_at": "2023-03-31T10:36:53+02:00",
-    "media_id": "3z4xv3ja5cwj",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771675,
-      "slug": "media",
-      "type": "default",
-      "name": "Media",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/media/6257559/maurice-de-hond-verliest-zaak-rond-podcast-en-film-over-deventer-moordzaak.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6257558,
-    "slug": "horner-verwacht-dat-concurrentie-red-bull-in-tweede-seizoenshelft-bijhaalt",
-    "type": "article",
-    "title": "Horner verwacht dat concurrentie Red Bull in tweede seizoenshelft bijhaalt",
-    "subtitle": null,
-    "published_at": "2023-03-31T06:58:21+02:00",
-    "updated_at": "2023-03-31T09:37:26+02:00",
-    "media_id": "j43xmqvan4ot",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772449,
-      "slug": "formule-1",
-      "type": "default",
-      "name": "GP Australië",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/formule-1/6257558/horner-verwacht-dat-concurrentie-red-bull-in-tweede-seizoenshelft-bijhaalt.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6257557,
-    "slug": "inflatie-daalde-flink-in-maart-prijzen-nog-maar-44-procent-hoger-dan-jaar-eerder",
-    "type": "article",
-    "title": "Inflatie daalde flink in maart: prijzen nog 'maar' 4,4 procent hoger dan jaar eerder",
-    "subtitle": null,
-    "published_at": "2023-03-31T06:45:12+02:00",
-    "updated_at": "2023-03-31T07:16:17+02:00",
-    "media_id": "fpnxk7zajpp0",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6257557/inflatie-daalde-flink-in-maart-prijzen-nog-maar-44-procent-hoger-dan-jaar-eerder.html",
     "open_new_window": false,
     "partner": null
   }
