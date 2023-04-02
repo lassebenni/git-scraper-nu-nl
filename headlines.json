@@ -1,5 +1,97 @@
 [
   {
+    "id": 6257577,
+    "slug": "verstappen-begint-van-pole-aan-grand-prix-van-australie",
+    "type": "article",
+    "title": "Verstappen begint van pole aan Grand Prix van Australië",
+    "subtitle": "Liveblog",
+    "published_at": "2023-04-02T06:47:17+02:00",
+    "updated_at": "2023-04-02T06:47:41+02:00",
+    "media_id": "lmmx8u3a5w8o",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772449,
+      "slug": "formule-1",
+      "type": "default",
+      "name": "GP Australië",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/formule-1/6257577/verstappen-begint-van-pole-aan-grand-prix-van-australie.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6257658,
+    "slug": "iedereen-elektrisch-laten-rijden-als-het-goedkoper-is-gaat-het-vanzelf",
+    "type": "video",
+    "title": "Iedereen elektrisch laten rijden: ‘Als het goedkoper is gaat het vanzelf’",
+    "subtitle": "Explainer",
+    "published_at": "2023-04-02T06:33:46+02:00",
+    "updated_at": "2023-04-02T06:33:47+02:00",
+    "media_id": "fswxxa3a6rmp",
+    "duration": "7:20",
+    "canonical_section": {
+      "id": 100,
+      "slug": "algemeen",
+      "type": "default",
+      "name": "Algemeen",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/algemeen/6257658/iedereen-elektrisch-laten-rijden-als-het-goedkoper-is-gaat-het-vanzelf.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6257824,
+    "slug": "palestijn-doodgeschoten-nadat-hij-inreed-op-drie-israelische-soldaten",
+    "type": "article",
+    "title": "Palestijn doodgeschoten nadat hij inreed op drie Israëlische soldaten",
+    "subtitle": null,
+    "published_at": "2023-04-02T06:23:30+02:00",
+    "updated_at": "2023-04-02T06:37:26+02:00",
+    "media_id": "6yhxw7faxw53",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6257824/palestijn-doodgeschoten-nadat-hij-inreed-op-drie-israelische-soldaten.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6257823,
+    "slug": "nieuwe-waterweg-na-verhelpen-lekkage-weer-open-voor-scheepvaart",
+    "type": "article",
+    "title": "Nieuwe Waterweg na verhelpen lekkage weer open voor scheepvaart",
+    "subtitle": null,
+    "published_at": "2023-04-02T06:04:39+02:00",
+    "updated_at": "2023-04-02T06:04:40+02:00",
+    "media_id": "5pwxw8dapxr5",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6257823/nieuwe-waterweg-na-verhelpen-lekkage-weer-open-voor-scheepvaart.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6257821,
     "slug": "weerbericht-veel-zonneschijn-en-droog-wel-kan-het-fris-aanvoelen",
     "type": "article",
@@ -144,7 +236,7 @@
     "title": "Bekerkoorts heerst in Spakenburg richting PSV: 'Hele dorp kleurt blauw'",
     "subtitle": "NU+",
     "published_at": "2023-04-02T05:02:24+02:00",
-    "updated_at": "2023-04-02T05:02:25+02:00",
+    "updated_at": "2023-04-02T06:53:58+02:00",
     "media_id": "xj2x5sva6dkw",
     "duration": null,
     "canonical_section": {
@@ -397,7 +489,7 @@
     "title": "PSV rekent simpel af met NEC ondanks wereldgoals Tannane",
     "subtitle": null,
     "published_at": "2023-04-01T22:00:29+02:00",
-    "updated_at": "2023-04-02T01:20:00+02:00",
+    "updated_at": "2023-04-02T06:34:33+02:00",
     "media_id": "eknxkyoaeusv",
     "duration": null,
     "canonical_section": {
@@ -594,98 +686,6 @@
       "partner": null
     },
     "url": "/algemeen/6257797/vrouw-rijdt-met-auto-tramstation-binnen-in-brussel.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6257785,
-    "slug": "boscagli-maakt-na-jaar-basisrentree-bij-psv-in-uitduel-met-nec-sangare-op-de-bank",
-    "type": "article",
-    "title": "Boscagli maakt na jaar basisrentree bij PSV in uitduel met NEC, Sangaré op de bank",
-    "subtitle": null,
-    "published_at": "2023-04-01T18:47:44+02:00",
-    "updated_at": "2023-04-01T19:23:46+02:00",
-    "media_id": "xoqx7qga1gba",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6257785/boscagli-maakt-na-jaar-basisrentree-bij-psv-in-uitduel-met-nec-sangare-op-de-bank.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6257782,
-    "slug": "dit-vinden-jullie-van-de-nipt-test-die-vanaf-vandaag-voor-elke-zwangere-gratis-is",
-    "type": "article",
-    "title": "Dit vinden jullie van de NIPT-test die vanaf vandaag voor elke zwangere gratis is",
-    "subtitle": null,
-    "published_at": "2023-04-01T18:37:25+02:00",
-    "updated_at": "2023-04-01T18:37:26+02:00",
-    "media_id": "wwaxqzfa8dtm",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779134,
-      "slug": "stelling",
-      "type": "default",
-      "name": "Stelling",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/stelling/6257782/dit-vinden-jullie-van-de-nipt-test-die-vanaf-vandaag-voor-elke-zwangere-gratis-is.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6257796,
-    "slug": "az-loopt-met-gelijkspel-tegen-heerenveen-weer-schade-op-in-top-eredivisie",
-    "type": "article",
-    "title": "AZ loopt met gelijkspel tegen Heerenveen weer schade op in top Eredivisie",
-    "subtitle": null,
-    "published_at": "2023-04-01T18:36:33+02:00",
-    "updated_at": "2023-04-01T22:18:47+02:00",
-    "media_id": "4gyxcm6a594q",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6257796/az-loopt-met-gelijkspel-tegen-heerenveen-weer-schade-op-in-top-eredivisie.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6257795,
-    "slug": "wet-die-dragshows-verbiedt-in-amerikaanse-staat-tennessee-gaat-nog-niet-in",
-    "type": "article",
-    "title": "Wet die dragshows verbiedt in Amerikaanse staat Tennessee gaat (nog) niet in",
-    "subtitle": null,
-    "published_at": "2023-04-01T18:31:42+02:00",
-    "updated_at": "2023-04-01T19:12:42+02:00",
-    "media_id": "96jxgvyal1rn",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6257795/wet-die-dragshows-verbiedt-in-amerikaanse-staat-tennessee-gaat-nog-niet-in.html",
     "open_new_window": false,
     "partner": null
   }
