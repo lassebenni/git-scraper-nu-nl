@@ -1,13 +1,36 @@
 [
   {
-    "id": 6257577,
-    "slug": "verstappen-begint-van-pole-aan-grand-prix-van-australie",
+    "id": 6257618,
+    "slug": "stelling-er-moet-een-verbod-komen-op-de-e-sigaret",
     "type": "article",
-    "title": "Verstappen begint van pole aan Grand Prix van Australië",
+    "title": "Stelling: Er moet een verbod komen op de e-sigaret",
+    "subtitle": null,
+    "published_at": "2023-04-02T08:00:35+02:00",
+    "updated_at": "2023-04-02T08:00:37+02:00",
+    "media_id": "xb6xub4arwit",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779134,
+      "slug": "stelling",
+      "type": "default",
+      "name": "Stelling",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/stelling/6257618/stelling-er-moet-een-verbod-komen-op-de-e-sigaret.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6257577,
+    "slug": "verstappen-leidt-gp-australie-auto-van-russell-vat-vlam",
+    "type": "article",
+    "title": "Verstappen leidt GP Australië, auto van Russell vat vlam",
     "subtitle": "Liveblog",
     "published_at": "2023-04-02T06:47:17+02:00",
-    "updated_at": "2023-04-02T06:47:41+02:00",
-    "media_id": "lmmx8u3a5w8o",
+    "updated_at": "2023-04-02T07:50:48+02:00",
+    "media_id": "193xca5amz3c",
     "duration": null,
     "canonical_section": {
       "id": 1772449,
@@ -18,7 +41,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/formule-1/6257577/verstappen-begint-van-pole-aan-grand-prix-van-australie.html",
+    "url": "/formule-1/6257577/verstappen-leidt-gp-australie-auto-van-russell-vat-vlam.html",
     "open_new_window": false,
     "partner": null
   },
@@ -93,12 +116,12 @@
   },
   {
     "id": 6257821,
-    "slug": "weerbericht-veel-zonneschijn-en-droog-wel-kan-het-fris-aanvoelen",
+    "slug": "weerbericht-veel-zonneschijn-en-droog-maar-het-kan-fris-aanvoelen",
     "type": "article",
-    "title": "Weerbericht: Veel zonneschijn en droog, wel kan het fris aanvoelen",
+    "title": "Weerbericht: Veel zonneschijn en droog, maar het kan fris aanvoelen",
     "subtitle": null,
     "published_at": "2023-04-02T05:42:21+02:00",
-    "updated_at": "2023-04-02T05:49:12+02:00",
+    "updated_at": "2023-04-02T07:35:10+02:00",
     "media_id": "nhgxaxcasa4v",
     "duration": null,
     "canonical_section": {
@@ -110,7 +133,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/binnenland/6257821/weerbericht-veel-zonneschijn-en-droog-wel-kan-het-fris-aanvoelen.html",
+    "url": "/binnenland/6257821/weerbericht-veel-zonneschijn-en-droog-maar-het-kan-fris-aanvoelen.html",
     "open_new_window": false,
     "partner": null
   },
@@ -300,12 +323,12 @@
   },
   {
     "id": 6257819,
-    "slug": "veel-hulpverleners-gewond-en-onderzoek-naar-politiegeweld-bij-franse-protesten",
+    "slug": "veel-hulpverleners-gewond-bij-franse-protesten-onderzoek-naar-politiegeweld",
     "type": "article",
-    "title": "Veel hulpverleners gewond en onderzoek naar politiegeweld bij Franse protesten",
+    "title": "Veel hulpverleners gewond bij Franse protesten, onderzoek naar politiegeweld",
     "subtitle": null,
     "published_at": "2023-04-02T01:06:32+02:00",
-    "updated_at": "2023-04-02T01:06:34+02:00",
+    "updated_at": "2023-04-02T07:43:45+02:00",
     "media_id": "7pvxoloaok5k",
     "duration": null,
     "canonical_section": {
@@ -317,7 +340,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/buitenland/6257819/veel-hulpverleners-gewond-en-onderzoek-naar-politiegeweld-bij-franse-protesten.html",
+    "url": "/buitenland/6257819/veel-hulpverleners-gewond-bij-franse-protesten-onderzoek-naar-politiegeweld.html",
     "open_new_window": false,
     "partner": null
   },
@@ -663,29 +686,6 @@
       "partner": null
     },
     "url": "/sport/6257799/dortmund-keeper-maakt-enorme-blunder-tegen-bayern.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6257797,
-    "slug": "vrouw-rijdt-met-auto-tramstation-binnen-in-brussel",
-    "type": "video",
-    "title": "Vrouw rijdt met auto tramstation binnen in Brussel",
-    "subtitle": "Video",
-    "published_at": "2023-04-01T18:48:48+02:00",
-    "updated_at": "2023-04-01T22:02:30+02:00",
-    "media_id": "qqexq7hac8l4",
-    "duration": "0:27",
-    "canonical_section": {
-      "id": 100,
-      "slug": "algemeen",
-      "type": "default",
-      "name": "Algemeen",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/algemeen/6257797/vrouw-rijdt-met-auto-tramstation-binnen-in-brussel.html",
     "open_new_window": false,
     "partner": null
   }
