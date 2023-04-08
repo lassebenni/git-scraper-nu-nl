@@ -1,5 +1,97 @@
 [
   {
+    "id": 6258691,
+    "slug": "oekraiens-leger-schiet-russisch-gevechtsvliegtuig-neer",
+    "type": "video",
+    "title": "Oekraïens leger schiet Russisch gevechtsvliegtuig neer",
+    "subtitle": "Video",
+    "published_at": "2023-04-08T08:50:05+02:00",
+    "updated_at": "2023-04-08T08:50:06+02:00",
+    "media_id": "xtzxpfzavy8e",
+    "duration": "0:36",
+    "canonical_section": {
+      "id": 1778980,
+      "slug": "spanningen-oekraine",
+      "type": "default",
+      "name": "Oorlog in Oekraïne",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/spanningen-oekraine/6258691/oekraiens-leger-schiet-russisch-gevechtsvliegtuig-neer.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6258690,
+    "slug": "foute-namen-op-oorlogsmonument-eindhoven-ook-ssers-en-nsbers-herdacht",
+    "type": "article",
+    "title": "'Foute' namen op oorlogsmonument Eindhoven: ook SS’ers en NSB’ers herdacht",
+    "subtitle": null,
+    "published_at": "2023-04-08T08:40:43+02:00",
+    "updated_at": "2023-04-08T08:40:58+02:00",
+    "media_id": "144xsy4alqd7",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6258690/foute-namen-op-oorlogsmonument-eindhoven-ook-ssers-en-nsbers-herdacht.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6258257,
+    "slug": "dragqueen-envy-peru-drag-is-kunst-dat-snapt-nog-niet-iedereen",
+    "type": "article",
+    "title": "Dragqueen Envy Peru: 'Drag is kunst, dat snapt nog niet iedereen'",
+    "subtitle": null,
+    "published_at": "2023-04-08T08:03:24+02:00",
+    "updated_at": "2023-04-08T08:03:25+02:00",
+    "media_id": "ph2x87faxeap",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771675,
+      "slug": "media",
+      "type": "default",
+      "name": "Media",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/media/6258257/dragqueen-envy-peru-drag-is-kunst-dat-snapt-nog-niet-iedereen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6258595,
+    "slug": "stelling-zzpers-moeten-verplicht-verzekerd-zijn",
+    "type": "article",
+    "title": "Stelling: Zzp'ers moeten verplicht verzekerd zijn",
+    "subtitle": null,
+    "published_at": "2023-04-08T08:02:27+02:00",
+    "updated_at": "2023-04-08T08:02:29+02:00",
+    "media_id": "c5ax11oarvjy",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779134,
+      "slug": "stelling",
+      "type": "default",
+      "name": "Stelling",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/stelling/6258595/stelling-zzpers-moeten-verplicht-verzekerd-zijn.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6258689,
     "slug": "israelische-politie-onderzoekt-auto-na-aanslag-op-boulevard",
     "type": "video",
@@ -23,37 +115,14 @@
     "partner": null
   },
   {
-    "id": 6258688,
-    "slug": "rechters-in-amerika-tegenstrijdig-over-vergunning-abortuspil",
-    "type": "article",
-    "title": "Rechters in Amerika tegenstrijdig over vergunning abortuspil",
-    "subtitle": null,
-    "published_at": "2023-04-08T07:50:05+02:00",
-    "updated_at": "2023-04-08T08:00:14+02:00",
-    "media_id": "p39xafaaf8z2",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6258688/rechters-in-amerika-tegenstrijdig-over-vergunning-abortuspil.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
     "id": 6258686,
     "slug": "china-begint-driedaagse-militaire-oefening-om-provocerend-taiwan-af-te-schrikken",
     "type": "article",
     "title": "China begint driedaagse militaire oefening om 'provocerend' Taiwan af te schrikken",
     "subtitle": null,
     "published_at": "2023-04-08T06:51:08+02:00",
-    "updated_at": "2023-04-08T07:47:34+02:00",
-    "media_id": "acyxos9ad1a8",
+    "updated_at": "2023-04-08T08:43:57+02:00",
+    "media_id": "q4bxuexai5e6",
     "duration": null,
     "canonical_section": {
       "id": 1771436,
@@ -75,7 +144,7 @@
     "title": "Honderdduizenden huishoudens in Canada nog zonder stroom na winterstorm",
     "subtitle": null,
     "published_at": "2023-04-08T06:22:46+02:00",
-    "updated_at": "2023-04-08T07:04:42+02:00",
+    "updated_at": "2023-04-08T08:57:55+02:00",
     "media_id": "7tkxsmiam373",
     "duration": null,
     "canonical_section": {
@@ -282,7 +351,7 @@
     "title": "Na diep dal zijn Oranjevrouwen op weg terug: 'Kunnen ons meten met wereldtop'",
     "subtitle": null,
     "published_at": "2023-04-08T05:02:12+02:00",
-    "updated_at": "2023-04-08T05:02:13+02:00",
+    "updated_at": "2023-04-08T08:02:53+02:00",
     "media_id": "208xybsaxydv",
     "duration": null,
     "canonical_section": {
@@ -351,7 +420,7 @@
     "title": "Mensen in Spanje gebruikten 3.000 jaar geleden al hallucinerende drugs",
     "subtitle": null,
     "published_at": "2023-04-08T00:23:19+02:00",
-    "updated_at": "2023-04-08T00:28:34+02:00",
+    "updated_at": "2023-04-08T08:17:55+02:00",
     "media_id": "f5vxpvgaz3qb",
     "duration": null,
     "canonical_section": {
@@ -617,75 +686,6 @@
       "partner": null
     },
     "url": "/videos/6258662/vlammen-slaan-uit-wooncomplex-bij-grote-brand-in-vs.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6258659,
-    "slug": "oud-fvders-baudet-intimideerde-gooide-met-wijnflessen-en-stuurde-porno",
-    "type": "article",
-    "title": "Oud-FVD'ers: Baudet intimideerde, gooide met wijnflessen en stuurde porno",
-    "subtitle": null,
-    "published_at": "2023-04-07T19:59:30+02:00",
-    "updated_at": "2023-04-07T20:54:20+02:00",
-    "media_id": "mdkx5hgarcm6",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771437,
-      "slug": "politiek",
-      "type": "default",
-      "name": "Politiek",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/politiek/6258659/oud-fvders-baudet-intimideerde-gooide-met-wijnflessen-en-stuurde-porno.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6258660,
-    "slug": "clubloze-royston-drenthe-35-gaat-weer-voor-amateurs-kozakken-boys-spelen",
-    "type": "article",
-    "title": "Clubloze Royston Drenthe (35) gaat weer voor amateurs Kozakken Boys spelen",
-    "subtitle": null,
-    "published_at": "2023-04-07T19:58:33+02:00",
-    "updated_at": "2023-04-07T20:52:53+02:00",
-    "media_id": "4taxqv8a81ap",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6258660/clubloze-royston-drenthe-35-gaat-weer-voor-amateurs-kozakken-boys-spelen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6258658,
-    "slug": "reacties-na-bittere-oefennederlaag-oranjevrouwen-gesloten",
-    "type": "article",
-    "title": "Reacties na bittere oefennederlaag Oranjevrouwen (gesloten)",
-    "subtitle": "Liveblog",
-    "published_at": "2023-04-07T19:27:58+02:00",
-    "updated_at": "2023-04-07T22:45:08+02:00",
-    "media_id": "620x36cau79j",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6258658/reacties-na-bittere-oefennederlaag-oranjevrouwen-gesloten.html",
     "open_new_window": false,
     "partner": null
   }
