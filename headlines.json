@@ -1,12 +1,81 @@
 [
   {
+    "id": 6258592,
+    "slug": "nieuw-op-netflix-deze-films-en-series-verschenen-deze-week",
+    "type": "article",
+    "title": "Nieuw op Netflix: Deze films en series verschenen deze week",
+    "subtitle": null,
+    "published_at": "2023-04-09T08:00:34+02:00",
+    "updated_at": "2023-04-09T08:00:35+02:00",
+    "media_id": "1qox21danpri",
+    "duration": null,
+    "canonical_section": {
+      "id": 127,
+      "slug": "film",
+      "type": "default",
+      "name": "Films & Series",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/film/6258592/nieuw-op-netflix-deze-films-en-series-verschenen-deze-week.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6258608,
+    "slug": "we-zijn-er-altijd-voor-je-ook-als-we-slapen-of-een-biertje-drinken",
+    "type": "article",
+    "title": "We zijn er altijd voor je, ook als we slapen of een biertje drinken",
+    "subtitle": "Van de hoofdredactie",
+    "published_at": "2023-04-09T07:58:32+02:00",
+    "updated_at": "2023-04-09T07:58:33+02:00",
+    "media_id": "wcwx3k7alrcp",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772069,
+      "slug": "blog",
+      "type": "default",
+      "name": "Van de hoofdredactie",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/blog/6258608/we-zijn-er-altijd-voor-je-ook-als-we-slapen-of-een-biertje-drinken.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6258780,
+    "slug": "kees-van-kooten-over-overlijden-wim-de-bie-alsof-deel-van-mijzelf-is-gestorven",
+    "type": "article",
+    "title": "Kees van Kooten over overlijden Wim de Bie: 'Alsof deel van mijzelf is gestorven'",
+    "subtitle": null,
+    "published_at": "2023-04-09T07:30:38+02:00",
+    "updated_at": "2023-04-09T07:45:52+02:00",
+    "media_id": "5g8xz84aucf0",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772242,
+      "slug": "entertainment",
+      "type": "default",
+      "name": "Media en Cultuur",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/entertainment/6258780/kees-van-kooten-over-overlijden-wim-de-bie-alsof-deel-van-mijzelf-is-gestorven.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6258779,
     "slug": "flatgebouw-in-marseille-stort-in-na-mogelijke-explosie",
     "type": "article",
     "title": "Flatgebouw in Marseille stort in na mogelijke explosie",
     "subtitle": null,
     "published_at": "2023-04-09T06:59:56+02:00",
-    "updated_at": "2023-04-09T06:59:57+02:00",
+    "updated_at": "2023-04-09T07:44:56+02:00",
     "media_id": "lx1x2cqadbly",
     "duration": null,
     "canonical_section": {
@@ -29,7 +98,7 @@
     "title": "Israël vuurt raketten af op Syrië na raketaanval op Golanhoogte",
     "subtitle": null,
     "published_at": "2023-04-09T06:29:28+02:00",
-    "updated_at": "2023-04-09T06:41:13+02:00",
+    "updated_at": "2023-04-09T07:53:13+02:00",
     "media_id": "27hx7buafpz5",
     "duration": null,
     "canonical_section": {
@@ -52,7 +121,7 @@
     "title": "Nieuwe truc in Parijs-Roubaix: je banden oppompen tijdens het fietsen",
     "subtitle": "Explainer",
     "published_at": "2023-04-09T05:58:15+02:00",
-    "updated_at": "2023-04-09T05:58:16+02:00",
+    "updated_at": "2023-04-09T07:39:08+02:00",
     "media_id": "q7lxazpaw3wv",
     "duration": "2:26",
     "canonical_section": {
@@ -70,12 +139,12 @@
   },
   {
     "id": 6258777,
-    "slug": "weerbericht-lenteachtige-eerste-paasdag-met-afwisseling-van-zon-en-wolken",
+    "slug": "weerbericht-met-mogelijk-17-graden-zweten-geblazen-tijdens-paaseieren-zoeken",
     "type": "article",
-    "title": "Weerbericht: Lenteachtige Eerste Paasdag met afwisseling van zon en wolken",
+    "title": "Weerbericht: Met mogelijk 17 graden zweten geblazen tijdens paaseieren zoeken",
     "subtitle": null,
     "published_at": "2023-04-09T05:44:57+02:00",
-    "updated_at": "2023-04-09T05:55:58+02:00",
+    "updated_at": "2023-04-09T07:35:36+02:00",
     "media_id": "h8jxzgla6z7x",
     "duration": null,
     "canonical_section": {
@@ -87,7 +156,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/binnenland/6258777/weerbericht-lenteachtige-eerste-paasdag-met-afwisseling-van-zon-en-wolken.html",
+    "url": "/binnenland/6258777/weerbericht-met-mogelijk-17-graden-zweten-geblazen-tijdens-paaseieren-zoeken.html",
     "open_new_window": false,
     "partner": null
   },
@@ -190,7 +259,7 @@
     "title": "Boetes voor Binance en Coinbase: waarom hebben cryptobedrijven het zo lastig?",
     "subtitle": "NU+",
     "published_at": "2023-04-09T05:03:25+02:00",
-    "updated_at": "2023-04-09T05:19:05+02:00",
+    "updated_at": "2023-04-09T07:30:00+02:00",
     "media_id": "dxwx4o2adr41",
     "duration": null,
     "canonical_section": {
@@ -617,75 +686,6 @@
       "partner": null
     },
     "url": "/gezondheid/6258444/zo-begin-je-weer-met-sporten-en-voorkom-je-blessures.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6258759,
-    "slug": "vos-kan-comeback-in-chaotische-parijs-roubaix-niet-bekronen-het-was-afzien",
-    "type": "article",
-    "title": "Vos kan comeback in chaotische Parijs-Roubaix niet bekronen: 'Het was afzien'",
-    "subtitle": null,
-    "published_at": "2023-04-08T19:42:07+02:00",
-    "updated_at": "2023-04-08T19:53:02+02:00",
-    "media_id": "xbuxisnaxwwc",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772339,
-      "slug": "wielrennen",
-      "type": "default",
-      "name": "Wielrennen",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/wielrennen/6258759/vos-kan-comeback-in-chaotische-parijs-roubaix-niet-bekronen-het-was-afzien.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6258756,
-    "slug": "groep-ontsnapte-herten-legt-treinverkeer-almere-lelystad-urenlang-stil",
-    "type": "article",
-    "title": "Groep ontsnapte herten legt treinverkeer Almere-Lelystad urenlang stil",
-    "subtitle": null,
-    "published_at": "2023-04-08T19:21:38+02:00",
-    "updated_at": "2023-04-08T19:29:49+02:00",
-    "media_id": "mjqx4qvawi28",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6258756/groep-ontsnapte-herten-legt-treinverkeer-almere-lelystad-urenlang-stil.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6258757,
-    "slug": "drie-autos-over-weg-geslingerd-bij-dodelijk-ongeluk-in-vuren",
-    "type": "video",
-    "title": "Drie auto's over weg geslingerd bij dodelijk ongeluk in Vuren",
-    "subtitle": "Video",
-    "published_at": "2023-04-08T19:19:24+02:00",
-    "updated_at": "2023-04-08T20:19:42+02:00",
-    "media_id": "49qxm0da1xsu",
-    "duration": "0:46",
-    "canonical_section": {
-      "id": 100,
-      "slug": "algemeen",
-      "type": "default",
-      "name": "Algemeen",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/algemeen/6258757/drie-autos-over-weg-geslingerd-bij-dodelijk-ongeluk-in-vuren.html",
     "open_new_window": false,
     "partner": null
   }
