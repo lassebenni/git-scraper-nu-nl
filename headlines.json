@@ -1,12 +1,127 @@
 [
   {
-    "id": 6258574,
-    "slug": "milieu-centraal-de-ongemakkelijke-waarheid-is-dat-we-moeten-consuminderen",
+    "id": 6258141,
+    "slug": "veel-geld-voor-weinig-resultaat-lage-btw-tarief-onder-druk",
     "type": "article",
-    "title": "Milieu Centraal: 'De ongemakkelijke waarheid is dat we móéten consuminderen'",
+    "title": "Veel geld voor weinig resultaat: lage btw-tarief onder druk",
+    "subtitle": null,
+    "published_at": "2023-04-11T15:45:42+02:00",
+    "updated_at": "2023-04-11T15:45:43+02:00",
+    "media_id": "d77xiloag0bv",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6258141/veel-geld-voor-weinig-resultaat-lage-btw-tarief-onder-druk.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6259032,
+    "slug": "rijimpressie-aiways-u6",
+    "type": "video",
+    "title": "Rijimpressie - Aiways U6",
+    "subtitle": "Video",
+    "published_at": "2023-04-11T15:37:55+02:00",
+    "updated_at": "2023-04-11T15:38:31+02:00",
+    "media_id": "knexlvvauhjz",
+    "duration": "11:40",
+    "canonical_section": {
+      "id": 881569,
+      "slug": "auto",
+      "type": "default",
+      "name": "Onderweg",
+      "style": "nuzakelijk",
+      "media_id": "z66x61xaq79c",
+      "partner": null
+    },
+    "url": "/auto/6259032/rijimpressie-aiways-u6.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6259030,
+    "slug": "we-zijn-nog-niet-van-de-inflatie-af-ook-volgend-jaar-stijgen-de-prijzen",
+    "type": "article",
+    "title": "We zijn nog niet van de inflatie af, ook volgend jaar stijgen de prijzen",
+    "subtitle": null,
+    "published_at": "2023-04-11T15:37:54+02:00",
+    "updated_at": "2023-04-11T16:00:49+02:00",
+    "media_id": "vqbx3wearxij",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6259030/we-zijn-nog-niet-van-de-inflatie-af-ook-volgend-jaar-stijgen-de-prijzen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6258995,
+    "slug": "timmermans-waardeert-inzet-bbb-maar-stikstofreductie-speelt-cruciale-rol",
+    "type": "article",
+    "title": "Timmermans waardeert inzet BBB, maar stikstofreductie speelt 'cruciale rol'",
+    "subtitle": null,
+    "published_at": "2023-04-11T15:32:19+02:00",
+    "updated_at": "2023-04-11T15:35:35+02:00",
+    "media_id": "k7yx4brajyq0",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779224,
+      "slug": "provinciale-statenverkiezingen",
+      "type": "default",
+      "name": "Provinciale Statenverkiezingen",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/provinciale-statenverkiezingen/6258995/timmermans-waardeert-inzet-bbb-maar-stikstofreductie-speelt-cruciale-rol.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6259027,
+    "slug": "ancelotti-neemt-het-op-voor-veelbesproken-valverde-een-bijzonder-mens",
+    "type": "article",
+    "title": "Ancelotti neemt het op voor veelbesproken Valverde: 'Een bijzonder mens'",
+    "subtitle": null,
+    "published_at": "2023-04-11T15:23:52+02:00",
+    "updated_at": "2023-04-11T15:46:48+02:00",
+    "media_id": "vozxhoval2b8",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6259027/ancelotti-neemt-het-op-voor-veelbesproken-valverde-een-bijzonder-mens.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6258574,
+    "slug": "milieu-centraal-ongemakkelijke-waarheid-dat-we-moeten-consuminderen",
+    "type": "article",
+    "title": "Milieu Centraal: 'Ongemakkelijke waarheid dat we móéten consuminderen'",
     "subtitle": "NU+",
     "published_at": "2023-04-11T15:00:55+02:00",
-    "updated_at": "2023-04-11T15:01:15+02:00",
+    "updated_at": "2023-04-11T15:12:34+02:00",
     "media_id": "1enxmf2a6ui2",
     "duration": null,
     "canonical_section": {
@@ -18,7 +133,7 @@
       "media_id": "kf4x3b2agsxg",
       "partner": null
     },
-    "url": "/klimaat/6258574/milieu-centraal-de-ongemakkelijke-waarheid-is-dat-we-moeten-consuminderen.html",
+    "url": "/klimaat/6258574/milieu-centraal-ongemakkelijke-waarheid-dat-we-moeten-consuminderen.html",
     "open_new_window": false,
     "partner": null
   },
@@ -93,12 +208,12 @@
   },
   {
     "id": 6259013,
-    "slug": "zeker-130-meisjes-misbruikt-in-grootste-online-misbruikzaak-ooit-19-aangiften",
+    "slug": "zeker-130-meisjes-afgeperst-in-grootste-online-misbruikzaak-ooit-19-aangiften",
     "type": "article",
-    "title": "Zeker 130 meisjes misbruikt in grootste online misbruikzaak ooit, 19 aangiften",
+    "title": "Zeker 130 meisjes afgeperst in grootste online misbruikzaak ooit, 19 aangiften",
     "subtitle": null,
     "published_at": "2023-04-11T13:38:31+02:00",
-    "updated_at": "2023-04-11T14:36:20+02:00",
+    "updated_at": "2023-04-11T15:05:29+02:00",
     "media_id": "ea0xnysai6fe",
     "duration": null,
     "canonical_section": {
@@ -110,7 +225,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/binnenland/6259013/zeker-130-meisjes-misbruikt-in-grootste-online-misbruikzaak-ooit-19-aangiften.html",
+    "url": "/binnenland/6259013/zeker-130-meisjes-afgeperst-in-grootste-online-misbruikzaak-ooit-19-aangiften.html",
     "open_new_window": false,
     "partner": null
   },
@@ -236,7 +351,7 @@
     "title": "NOS: Omstreden UvA-docent Buijs was toch 'niet beste duider' anti-lhbtiq+-geweld",
     "subtitle": null,
     "published_at": "2023-04-11T13:05:12+02:00",
-    "updated_at": "2023-04-11T14:38:31+02:00",
+    "updated_at": "2023-04-11T15:22:59+02:00",
     "media_id": "oqfxzegaov8s",
     "duration": null,
     "canonical_section": {
@@ -571,121 +686,6 @@
       "partner": null
     },
     "url": "/economie/6258974/bitcoinkoers-voor-het-eerst-in-tien-maanden-boven-de-30000-dollar.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6258971,
-    "slug": "villarreal-speler-baena-krijgt-doodsbedreigingen-na-ruzie-met-valverde-van-real",
-    "type": "article",
-    "title": "Villarreal-speler Baena krijgt doodsbedreigingen na ruzie met Valverde van Real",
-    "subtitle": null,
-    "published_at": "2023-04-11T09:59:13+02:00",
-    "updated_at": "2023-04-11T09:59:14+02:00",
-    "media_id": "3goxsyfaq7ge",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6258971/villarreal-speler-baena-krijgt-doodsbedreigingen-na-ruzie-met-valverde-van-real.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6258973,
-    "slug": "pete-philly-perquisite-geven-in-herfst-reunieconcert-in-afas-live",
-    "type": "article",
-    "title": "Pete Philly & Perquisite geven in herfst reünieconcert in AFAS Live",
-    "subtitle": null,
-    "published_at": "2023-04-11T09:56:04+02:00",
-    "updated_at": "2023-04-11T10:32:21+02:00",
-    "media_id": "0hvxy3ra0m6o",
-    "duration": null,
-    "canonical_section": {
-      "id": 868281,
-      "slug": "muziek",
-      "type": "default",
-      "name": "Muziek",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/muziek/6258973/pete-philly-perquisite-geven-in-herfst-reunieconcert-in-afas-live.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6258965,
-    "slug": "australische-politie-valt-tabaksplantage-binnen-op-crossmotoren",
-    "type": "video",
-    "title": "Australische politie valt tabaksplantage binnen op crossmotoren",
-    "subtitle": "Video",
-    "published_at": "2023-04-11T09:21:31+02:00",
-    "updated_at": "2023-04-11T12:13:34+02:00",
-    "media_id": "yogxnuzaveiy",
-    "duration": "0:37",
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6258965/australische-politie-valt-tabaksplantage-binnen-op-crossmotoren.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6258963,
-    "slug": "centrale-banken-moeten-volgens-imf-ondanks-bankenonrust-rentes-verhogen",
-    "type": "article",
-    "title": "Centrale banken moeten volgens IMF ondanks bankenonrust rentes verhogen",
-    "subtitle": null,
-    "published_at": "2023-04-11T08:30:26+02:00",
-    "updated_at": "2023-04-11T09:06:07+02:00",
-    "media_id": "4mnx9dxa2occ",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6258963/centrale-banken-moeten-volgens-imf-ondanks-bankenonrust-rentes-verhogen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6258961,
-    "slug": "taiwan-ziet-na-militaire-oefening-china-nog-steeds-marineschepen-en-straaljagers",
-    "type": "article",
-    "title": "Taiwan ziet na militaire oefening China nog steeds marineschepen en straaljagers",
-    "subtitle": null,
-    "published_at": "2023-04-11T08:29:09+02:00",
-    "updated_at": "2023-04-11T08:29:10+02:00",
-    "media_id": "yg6x7u6a5yeu",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6258961/taiwan-ziet-na-militaire-oefening-china-nog-steeds-marineschepen-en-straaljagers.html",
     "open_new_window": false,
     "partner": null
   }
