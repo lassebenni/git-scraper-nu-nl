@@ -1,12 +1,104 @@
 [
   {
+    "id": 6259317,
+    "slug": "asiel-in-nederland-aanvragen-zo-lang-duurt-dat-echt",
+    "type": "video",
+    "title": "Asiel in Nederland aanvragen? Zo lang duurt dat echt",
+    "subtitle": "Explainer",
+    "published_at": "2023-04-13T13:54:47+02:00",
+    "updated_at": "2023-04-13T13:54:48+02:00",
+    "media_id": "2kfxu8yaa3yv",
+    "duration": "2:31",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6259317/asiel-in-nederland-aanvragen-zo-lang-duurt-dat-echt.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6259302,
+    "slug": "we-hebben-ruim-24-miljoen-bedrijven-opmars-van-zzpers-zet-door",
+    "type": "article",
+    "title": "We hebben ruim 2,4 miljoen bedrijven, opmars van zzp'ers zet door",
+    "subtitle": null,
+    "published_at": "2023-04-13T13:03:51+02:00",
+    "updated_at": "2023-04-13T13:03:53+02:00",
+    "media_id": "tw2xro9ad5ue",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6259302/we-hebben-ruim-24-miljoen-bedrijven-opmars-van-zzpers-zet-door.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6259307,
+    "slug": "deel-tweede-kamer-korte-tijd-ontruimd-om-calamiteit-in-de-postkamer",
+    "type": "article",
+    "title": "Deel Tweede Kamer korte tijd ontruimd om 'calamiteit in de postkamer'",
+    "subtitle": null,
+    "published_at": "2023-04-13T13:03:43+02:00",
+    "updated_at": "2023-04-13T13:44:57+02:00",
+    "media_id": "2abxfv1am4kb",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6259307/deel-tweede-kamer-korte-tijd-ontruimd-om-calamiteit-in-de-postkamer.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6259305,
+    "slug": "italiaans-volleybaltalent-ituma-18-overleden-na-val-uit-hotelkamer-in-istanboel",
+    "type": "article",
+    "title": "Italiaans volleybaltalent Ituma (18) overleden na val uit hotelkamer in Istanboel",
+    "subtitle": null,
+    "published_at": "2023-04-13T13:02:00+02:00",
+    "updated_at": "2023-04-13T13:02:01+02:00",
+    "media_id": "zg7xwnlat0s3",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772456,
+      "slug": "sport-overig",
+      "type": "default",
+      "name": "Sport Overig",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/sport-overig/6259305/italiaans-volleybaltalent-ituma-18-overleden-na-val-uit-hotelkamer-in-istanboel.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6259287,
     "slug": "nederland-telt-nu-negen-gebieden-waar-wolven-territorium-hebben",
     "type": "article",
     "title": "Nederland telt nu negen gebieden waar wolven territorium hebben",
     "subtitle": null,
     "published_at": "2023-04-13T13:00:37+02:00",
-    "updated_at": "2023-04-13T13:00:39+02:00",
+    "updated_at": "2023-04-13T13:01:35+02:00",
     "media_id": "rv1x846ad9m3",
     "duration": null,
     "canonical_section": {
@@ -24,12 +116,12 @@
   },
   {
     "id": 6259304,
-    "slug": "oud-ing-topman-ralph-hamers-en-commissarissen-alsnog-berispt-om-beloning",
+    "slug": "voormalig-ing-topman-hamers-en-commissarissen-alsnog-berispt-om-beloning",
     "type": "article",
-    "title": "Oud-ING-topman Ralph Hamers en commissarissen alsnog berispt om beloning",
+    "title": "Voormalig ING-topman Hamers en commissarissen alsnog berispt om beloning",
     "subtitle": null,
     "published_at": "2023-04-13T12:52:40+02:00",
-    "updated_at": "2023-04-13T12:55:31+02:00",
+    "updated_at": "2023-04-13T13:32:23+02:00",
     "media_id": "2t7xxhua15nm",
     "duration": null,
     "canonical_section": {
@@ -41,7 +133,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/economie/6259304/oud-ing-topman-ralph-hamers-en-commissarissen-alsnog-berispt-om-beloning.html",
+    "url": "/economie/6259304/voormalig-ing-topman-hamers-en-commissarissen-alsnog-berispt-om-beloning.html",
     "open_new_window": false,
     "partner": null
   },
@@ -144,7 +236,7 @@
     "title": "Advies: raak niet zwanger in eerste maanden na stoppen met pil",
     "subtitle": null,
     "published_at": "2023-04-13T12:07:10+02:00",
-    "updated_at": "2023-04-13T12:07:12+02:00",
+    "updated_at": "2023-04-13T13:56:23+02:00",
     "media_id": "3c0x1igab3o2",
     "duration": null,
     "canonical_section": {
@@ -443,7 +535,7 @@
     "title": "Kinderen kunnen alleen nog in Groningen en Rotterdam terecht voor hartoperatie",
     "subtitle": null,
     "published_at": "2023-04-13T10:39:34+02:00",
-    "updated_at": "2023-04-13T11:39:01+02:00",
+    "updated_at": "2023-04-13T13:25:37+02:00",
     "media_id": "qonxq6fadexx",
     "duration": null,
     "canonical_section": {
@@ -594,98 +686,6 @@
       "partner": null
     },
     "url": "/voetbal/6259257/napoli-coach-spalletti-woest-op-arbitrage-welk-signaal-geef-je-aan-kinderen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6259262,
-    "slug": "bijna-miljoen-kijkers-voor-nieuwe-medische-dramaserie-dag-nacht",
-    "type": "article",
-    "title": "Bijna miljoen kijkers voor nieuwe medische dramaserie Dag & nacht",
-    "subtitle": null,
-    "published_at": "2023-04-13T09:33:10+02:00",
-    "updated_at": "2023-04-13T09:33:11+02:00",
-    "media_id": "4ocx8gda85c3",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771675,
-      "slug": "media",
-      "type": "default",
-      "name": "Media",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/media/6259262/bijna-miljoen-kijkers-voor-nieuwe-medische-dramaserie-dag-nacht.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6259258,
-    "slug": "vattenfall-waarschuwt-30000-klanten-voor-gevolgen-van-mogelijk-datalek",
-    "type": "article",
-    "title": "Vattenfall waarschuwt 30.000 klanten voor gevolgen van mogelijk datalek",
-    "subtitle": null,
-    "published_at": "2023-04-13T09:31:09+02:00",
-    "updated_at": "2023-04-13T09:31:10+02:00",
-    "media_id": "epdx5miadxj3",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771438,
-      "slug": "tech",
-      "type": "default",
-      "name": "Tech",
-      "style": "nutech",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/tech/6259258/vattenfall-waarschuwt-30000-klanten-voor-gevolgen-van-mogelijk-datalek.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6259256,
-    "slug": "amerikaan-rent-snelweg-over-tijdens-politieachtervolging",
-    "type": "video",
-    "title": "Amerikaan rent snelweg over tijdens politieachtervolging",
-    "subtitle": "Video",
-    "published_at": "2023-04-13T09:07:15+02:00",
-    "updated_at": "2023-04-13T09:07:16+02:00",
-    "media_id": "qv8xv6havxgs",
-    "duration": "0:39",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6259256/amerikaan-rent-snelweg-over-tijdens-politieachtervolging.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6259253,
-    "slug": "finse-miljardair-trekt-zich-boos-terug-uit-overnameproces-manchester-united",
-    "type": "article",
-    "title": "Finse miljardair trekt zich boos terug uit overnameproces Manchester United",
-    "subtitle": null,
-    "published_at": "2023-04-13T08:56:18+02:00",
-    "updated_at": "2023-04-13T08:56:19+02:00",
-    "media_id": "0b7xbwcamphs",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6259253/finse-miljardair-trekt-zich-boos-terug-uit-overnameproces-manchester-united.html",
     "open_new_window": false,
     "partner": null
   }
