@@ -1,12 +1,104 @@
 [
   {
+    "id": 6259220,
+    "slug": "waarom-pakt-nederland-zo-uit-voor-het-staatsbezoek-van-macron",
+    "type": "video",
+    "title": "Waarom pakt Nederland zo uit voor het staatsbezoek van Macron?",
+    "subtitle": "Explainer",
+    "published_at": "2023-04-13T06:45:35+02:00",
+    "updated_at": "2023-04-13T06:45:36+02:00",
+    "media_id": "802x1dma9u5x",
+    "duration": "1:59",
+    "canonical_section": {
+      "id": 1778967,
+      "slug": "uitleg",
+      "type": "default",
+      "name": "Het nieuws uitgelegd",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/uitleg/6259220/waarom-pakt-nederland-zo-uit-voor-het-staatsbezoek-van-macron.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6259144,
+    "slug": "kans-dat-je-smartphone-gehackt-wordt-bij-een-openbaar-oplaadpunt-is-heel-klein",
+    "type": "article",
+    "title": "Kans dat je smartphone gehackt wordt bij een openbaar oplaadpunt is heel klein",
+    "subtitle": "NU+",
+    "published_at": "2023-04-13T06:43:51+02:00",
+    "updated_at": "2023-04-13T06:57:45+02:00",
+    "media_id": "rs0xwtsat0q0",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771438,
+      "slug": "tech",
+      "type": "default",
+      "name": "Tech",
+      "style": "nutech",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/tech/6259144/kans-dat-je-smartphone-gehackt-wordt-bij-een-openbaar-oplaadpunt-is-heel-klein.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6259217,
+    "slug": "chiptekort-over-hoogtepunt-heen-wachttijd-voor-auto-en-tv-neemt-af",
+    "type": "article",
+    "title": "Chiptekort over hoogtepunt heen, wachttijd voor auto en tv neemt af",
+    "subtitle": null,
+    "published_at": "2023-04-13T06:43:08+02:00",
+    "updated_at": "2023-04-13T06:49:41+02:00",
+    "media_id": "ezqx2iaaby6a",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6259217/chiptekort-over-hoogtepunt-heen-wachttijd-voor-auto-en-tv-neemt-af.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6259240,
+    "slug": "medewerker-legerbasis-lekte-geheime-amerikaanse-overheidsdocumenten",
+    "type": "article",
+    "title": "Medewerker legerbasis lekte geheime Amerikaanse overheidsdocumenten",
+    "subtitle": null,
+    "published_at": "2023-04-13T06:42:22+02:00",
+    "updated_at": "2023-04-13T06:56:46+02:00",
+    "media_id": "qfzxje1aufbs",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6259240/medewerker-legerbasis-lekte-geheime-amerikaanse-overheidsdocumenten.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6259238,
     "slug": "weerbericht-de-dag-begint-wisselvallig-maar-later-wordt-het-droog-en-zonnig",
     "type": "article",
     "title": "Weerbericht: De dag begint wisselvallig, maar later wordt het droog en zonnig",
     "subtitle": null,
     "published_at": "2023-04-13T05:58:02+02:00",
-    "updated_at": "2023-04-13T05:58:04+02:00",
+    "updated_at": "2023-04-13T06:06:25+02:00",
     "media_id": "b9ixjoraq0t8",
     "duration": null,
     "canonical_section": {
@@ -121,7 +213,7 @@
     "title": "Fantasyserie Game of Thrones krijgt nog een spin-off",
     "subtitle": null,
     "published_at": "2023-04-12T23:42:50+02:00",
-    "updated_at": "2023-04-12T23:53:59+02:00",
+    "updated_at": "2023-04-13T06:18:10+02:00",
     "media_id": "38dx5bma2nor",
     "duration": null,
     "canonical_section": {
@@ -144,7 +236,7 @@
     "title": "Jake Paul vertelt over relatie met Jutta Leerdam: 'Een engel met het puurste hart'",
     "subtitle": null,
     "published_at": "2023-04-12T22:59:35+02:00",
-    "updated_at": "2023-04-13T05:20:01+02:00",
+    "updated_at": "2023-04-13T06:49:00+02:00",
     "media_id": "vcyxj65aosr4",
     "duration": null,
     "canonical_section": {
@@ -374,7 +466,7 @@
     "title": "Mourinho deelt plaagstootje uit aan Feyenoord: 'Zie elke dag die mooie beker'",
     "subtitle": null,
     "published_at": "2023-04-12T20:35:55+02:00",
-    "updated_at": "2023-04-13T05:19:06+02:00",
+    "updated_at": "2023-04-13T06:33:49+02:00",
     "media_id": "697xv2katn6x",
     "duration": null,
     "canonical_section": {
@@ -594,98 +686,6 @@
       "partner": null
     },
     "url": "/tech/6259149/elon-musk-sluit-voorlopige-wapenstilstand-met-nieuwsbriefdienst-substack.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6259183,
-    "slug": "president-macron-op-staatsbezoek-in-nederland-zo-ziet-dat-eruit",
-    "type": "article",
-    "title": "President Macron op staatsbezoek in Nederland: zo ziet dat eruit",
-    "subtitle": "In beeld",
-    "published_at": "2023-04-12T18:53:33+02:00",
-    "updated_at": "2023-04-12T18:56:13+02:00",
-    "media_id": "wnfx34pabcde",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6259183/president-macron-op-staatsbezoek-in-nederland-zo-ziet-dat-eruit.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6259208,
-    "slug": "jullie-reacties-op-deeltijdwerkende-vrouwen-ruimte-voor-rust-blijkbaar-niet-nodig",
-    "type": "article",
-    "title": "Jullie reacties op deeltijdwerkende vrouwen: 'Ruimte voor rust blijkbaar niet nodig'",
-    "subtitle": null,
-    "published_at": "2023-04-12T18:34:59+02:00",
-    "updated_at": "2023-04-12T18:35:01+02:00",
-    "media_id": "a5fx09ua59pk",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779134,
-      "slug": "stelling",
-      "type": "default",
-      "name": "Stelling",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/stelling/6259208/jullie-reacties-op-deeltijdwerkende-vrouwen-ruimte-voor-rust-blijkbaar-niet-nodig.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6259211,
-    "slug": "marijn-de-vries-betreurt-grote-ingrepen-nos-sport-had-niet-zover-hoeven-komen",
-    "type": "article",
-    "title": "Marijn de Vries betreurt grote ingrepen NOS Sport: 'Had niet zover hoeven komen'",
-    "subtitle": null,
-    "published_at": "2023-04-12T18:28:21+02:00",
-    "updated_at": "2023-04-13T05:20:52+02:00",
-    "media_id": "3xix1gzarqzf",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771675,
-      "slug": "media",
-      "type": "default",
-      "name": "Media",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/media/6259211/marijn-de-vries-betreurt-grote-ingrepen-nos-sport-had-niet-zover-hoeven-komen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6259210,
-    "slug": "koningin-maxima-en-brigitte-macron-bezoeken-anne-frank-huis",
-    "type": "video",
-    "title": "Koningin Máxima en Brigitte Macron bezoeken Anne Frank Huis",
-    "subtitle": "Video",
-    "published_at": "2023-04-12T18:13:24+02:00",
-    "updated_at": "2023-04-12T18:13:26+02:00",
-    "media_id": "36wxetpa3e22",
-    "duration": "0:43",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6259210/koningin-maxima-en-brigitte-macron-bezoeken-anne-frank-huis.html",
     "open_new_window": false,
     "partner": null
   }
