@@ -1,12 +1,35 @@
 [
   {
+    "id": 6259425,
+    "slug": "nachtmerrie-in-de-vs-zombiedrugs-gevaar-voor-samenleving",
+    "type": "video",
+    "title": "Nachtmerrie in de VS: zombiedrugs gevaar voor samenleving",
+    "subtitle": "Explainer",
+    "published_at": "2023-04-15T06:38:04+02:00",
+    "updated_at": "2023-04-15T06:39:31+02:00",
+    "media_id": "01txpaoajdeh",
+    "duration": "1:21",
+    "canonical_section": {
+      "id": 1778967,
+      "slug": "uitleg",
+      "type": "default",
+      "name": "Het nieuws uitgelegd",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/uitleg/6259425/nachtmerrie-in-de-vs-zombiedrugs-gevaar-voor-samenleving.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6259562,
     "slug": "weerbericht-afwisseling-van-zon-en-wolken-in-het-oosten-kans-op-een-bui",
     "type": "article",
     "title": "Weerbericht: Afwisseling van zon en wolken, in het oosten kans op een bui",
     "subtitle": null,
     "published_at": "2023-04-15T05:57:56+02:00",
-    "updated_at": "2023-04-15T05:57:58+02:00",
+    "updated_at": "2023-04-15T06:33:15+02:00",
     "media_id": "kmyxai4axy27",
     "duration": null,
     "canonical_section": {
@@ -29,8 +52,8 @@
     "title": "Japanse premier geëvacueerd na explosie tijdens toespraak",
     "subtitle": null,
     "published_at": "2023-04-15T05:42:44+02:00",
-    "updated_at": "2023-04-15T05:47:59+02:00",
-    "media_id": "7w8xcu8a30jq",
+    "updated_at": "2023-04-15T06:56:12+02:00",
+    "media_id": "sh2xia5arx08",
     "duration": null,
     "canonical_section": {
       "id": 1771436,
@@ -98,7 +121,7 @@
     "title": "Maarten Ducrot: 'Ik hoop dat ik niet alleen om linkeballen word herinnerd'",
     "subtitle": "NU+",
     "published_at": "2023-04-15T05:07:51+02:00",
-    "updated_at": "2023-04-15T05:07:52+02:00",
+    "updated_at": "2023-04-15T06:56:52+02:00",
     "media_id": "j1mxfh2a1w6u",
     "duration": null,
     "canonical_section": {
@@ -663,29 +686,6 @@
       "partner": null
     },
     "url": "/buitenland/6259443/dit-is-jack-teixeira-de-verdachte-van-het-grote-pentagon-lek.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6259542,
-    "slug": "ziggo-sport-analist-robert-doornbos-mishandeld-en-beroofd-van-horloge",
-    "type": "article",
-    "title": "Ziggo Sport-analist Robert Doornbos mishandeld en beroofd van horloge",
-    "subtitle": null,
-    "published_at": "2023-04-14T19:30:56+02:00",
-    "updated_at": "2023-04-14T20:04:33+02:00",
-    "media_id": "u9fxumyas8yr",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772242,
-      "slug": "entertainment",
-      "type": "default",
-      "name": "Media en Cultuur",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/entertainment/6259542/ziggo-sport-analist-robert-doornbos-mishandeld-en-beroofd-van-horloge.html",
     "open_new_window": false,
     "partner": null
   }
