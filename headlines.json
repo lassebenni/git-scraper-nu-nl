@@ -1,5 +1,51 @@
 [
   {
+    "id": 6259596,
+    "slug": "een-poging-wagen-of-niet-praat-mee-over-loterijen-en-gokken",
+    "type": "article",
+    "title": "Een poging wagen of niet? Praat mee over loterijen en gokken",
+    "subtitle": null,
+    "published_at": "2023-04-15T12:00:36+02:00",
+    "updated_at": "2023-04-15T12:00:38+02:00",
+    "media_id": "866xrg4a3y5u",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779134,
+      "slug": "stelling",
+      "type": "default",
+      "name": "Stelling",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/stelling/6259596/een-poging-wagen-of-niet-praat-mee-over-loterijen-en-gokken.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6259598,
+    "slug": "auto-rijdt-in-op-menigte-bij-straatrace-in-bordeaux",
+    "type": "video",
+    "title": "Auto rijdt in op menigte bij straatrace in Bordeaux",
+    "subtitle": "Video",
+    "published_at": "2023-04-15T11:41:13+02:00",
+    "updated_at": "2023-04-15T12:00:29+02:00",
+    "media_id": "5hqx6uuacdvh",
+    "duration": "0:32",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6259598/auto-rijdt-in-op-menigte-bij-straatrace-in-bordeaux.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6259592,
     "slug": "het-eerste-deel-van-de-lente-was-somber-koud-en-kletsnat",
     "type": "article",
@@ -29,7 +75,7 @@
     "title": "Zo ziet het ondergronds uitgebreide Paleis Het Loo eruit",
     "subtitle": "Video",
     "published_at": "2023-04-15T10:27:41+02:00",
-    "updated_at": "2023-04-15T10:27:42+02:00",
+    "updated_at": "2023-04-15T11:16:42+02:00",
     "media_id": "0i2x6snay99m",
     "duration": "0:45",
     "canonical_section": {
@@ -52,7 +98,7 @@
     "title": "Zeven gewonden doordat auto inrijdt op menigte bij straatrace in Bordeaux",
     "subtitle": null,
     "published_at": "2023-04-15T10:27:08+02:00",
-    "updated_at": "2023-04-15T10:40:10+02:00",
+    "updated_at": "2023-04-15T11:38:26+02:00",
     "media_id": "62bx007ae0pv",
     "duration": null,
     "canonical_section": {
@@ -640,52 +686,6 @@
       "partner": null
     },
     "url": "/voetbal/6259547/pec-kan-zondag-zonder-te-spelen-promoveren-heracles-boekt-simpele-zege.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6259553,
-    "slug": "nac-willem-ii-volgens-nieuwe-regels-gestaakt-omdat-fans-met-voorwerpen-gooien",
-    "type": "article",
-    "title": "NAC-Willem II volgens nieuwe regels gestaakt omdat fans met voorwerpen gooien",
-    "subtitle": null,
-    "published_at": "2023-04-14T21:59:51+02:00",
-    "updated_at": "2023-04-15T08:49:22+02:00",
-    "media_id": "r49x1lja3b5y",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6259553/nac-willem-ii-volgens-nieuwe-regels-gestaakt-omdat-fans-met-voorwerpen-gooien.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6259552,
-    "slug": "thai-spuiten-elkaar-drijfnat-tijdens-festival",
-    "type": "video",
-    "title": "Thai spuiten elkaar drijfnat tijdens festival",
-    "subtitle": "Video",
-    "published_at": "2023-04-14T21:53:29+02:00",
-    "updated_at": "2023-04-14T21:53:31+02:00",
-    "media_id": "kphx36oa9cz7",
-    "duration": "0:41",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6259552/thai-spuiten-elkaar-drijfnat-tijdens-festival.html",
     "open_new_window": false,
     "partner": null
   }
