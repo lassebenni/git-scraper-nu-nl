@@ -1,5 +1,51 @@
 [
   {
+    "id": 6259647,
+    "slug": "songfestival-duo-zong-opnieuw-vals-mensen-in-de-zaal-schrokken-ervan",
+    "type": "video",
+    "title": "Songfestival-duo zong opnieuw vals: 'Mensen in de zaal schrokken ervan'",
+    "subtitle": "Video",
+    "published_at": "2023-04-16T00:59:40+02:00",
+    "updated_at": "2023-04-16T00:59:41+02:00",
+    "media_id": "rmgxtgdadt7h",
+    "duration": "2:15",
+    "canonical_section": {
+      "id": 868281,
+      "slug": "muziek",
+      "type": "default",
+      "name": "Muziek",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/muziek/6259647/songfestival-duo-zong-opnieuw-vals-mensen-in-de-zaal-schrokken-ervan.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6259631,
+    "slug": "duitsers-verdeeld-over-sluiting-laatste-kerncentrales-feest-en-protesten",
+    "type": "article",
+    "title": "Duitsers verdeeld over sluiting laatste kerncentrales: feest en protesten",
+    "subtitle": null,
+    "published_at": "2023-04-16T00:02:18+02:00",
+    "updated_at": "2023-04-16T00:02:19+02:00",
+    "media_id": "tu3xhdhadqig",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772754,
+      "slug": "klimaat",
+      "type": "default",
+      "name": "Klimaat",
+      "style": "nuzakelijk",
+      "media_id": "kf4x3b2agsxg",
+      "partner": null
+    },
+    "url": "/klimaat/6259631/duitsers-verdeeld-over-sluiting-laatste-kerncentrales-feest-en-protesten.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6259639,
     "slug": "veel-slachtoffers-russische-aanval-sloviansk-doden-in-donetsk",
     "type": "article",
@@ -52,7 +98,7 @@
     "title": "Bekijk eerste optreden van Songfestival-duo Mia en Dion in Nederland",
     "subtitle": "Video",
     "published_at": "2023-04-15T23:15:51+02:00",
-    "updated_at": "2023-04-15T23:31:41+02:00",
+    "updated_at": "2023-04-16T01:01:19+02:00",
     "media_id": "5wwxt2zakla8",
     "duration": "3:10",
     "canonical_section": {
@@ -640,52 +686,6 @@
       "partner": null
     },
     "url": "/voetbal/6259612/newcastle-en-tottenham-lijden-pijnlijk-verlies-united-van-ten-hag-kan-profiteren.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6259597,
-    "slug": "vier-jaar-na-de-brand-hoe-gaat-het-met-de-restauratie-van-de-notre-dame",
-    "type": "article",
-    "title": "Vier jaar na de brand: hoe gaat het met de restauratie van de Notre-Dame?",
-    "subtitle": null,
-    "published_at": "2023-04-15T15:06:57+02:00",
-    "updated_at": "2023-04-15T15:06:58+02:00",
-    "media_id": "jogxxvqahex7",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6259597/vier-jaar-na-de-brand-hoe-gaat-het-met-de-restauratie-van-de-notre-dame.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6259608,
-    "slug": "gevechtsvliegtuigen-boven-soedan-door-clash-tussen-machthebbers",
-    "type": "video",
-    "title": "Gevechtsvliegtuigen boven Soedan door clash tussen machthebbers",
-    "subtitle": "Video",
-    "published_at": "2023-04-15T14:20:18+02:00",
-    "updated_at": "2023-04-15T14:47:55+02:00",
-    "media_id": "cmvxsmpa0n6o",
-    "duration": "0:44",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6259608/gevechtsvliegtuigen-boven-soedan-door-clash-tussen-machthebbers.html",
     "open_new_window": false,
     "partner": null
   }
