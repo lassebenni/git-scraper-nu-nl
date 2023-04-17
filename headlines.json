@@ -1,12 +1,81 @@
 [
   {
-    "id": 6259761,
-    "slug": "lasterzaak-van-stemmachinefabrikant-tegen-fox-news-begint-een-dag-later",
+    "id": 6259778,
+    "slug": "brand-in-purmerendse-woning-die-eerder-is-beschoten",
+    "type": "video",
+    "title": "Brand in Purmerendse woning die eerder is beschoten",
+    "subtitle": "Video",
+    "published_at": "2023-04-17T10:59:54+02:00",
+    "updated_at": "2023-04-17T10:59:56+02:00",
+    "media_id": "vydxj3qahuqk",
+    "duration": "0:37",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6259778/brand-in-purmerendse-woning-die-eerder-is-beschoten.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6259771,
+    "slug": "oproep-vier-jij-ied-al-fitr-met-een-kleiner-budget",
     "type": "article",
-    "title": "Lasterzaak van stemmachinefabrikant tegen Fox News begint een dag later",
+    "title": "Oproep: Vier jij Ied-al-Fitr met een kleiner budget?",
+    "subtitle": null,
+    "published_at": "2023-04-17T10:44:56+02:00",
+    "updated_at": "2023-04-17T10:56:21+02:00",
+    "media_id": "6iqx0jjaqn4n",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6259771/oproep-vier-jij-ied-al-fitr-met-een-kleiner-budget.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6259768,
+    "slug": "meeste-leaserijders-vinden-elektrische-autos-te-duur",
+    "type": "article",
+    "title": "Meeste leaserijders vinden elektrische auto's te duur",
+    "subtitle": null,
+    "published_at": "2023-04-17T10:19:13+02:00",
+    "updated_at": "2023-04-17T10:19:14+02:00",
+    "media_id": "ueixo5xa6a5a",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6259768/meeste-leaserijders-vinden-elektrische-autos-te-duur.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6259761,
+    "slug": "maker-stemmachines-en-fox-news-krijgen-extra-dag-voor-schikking-in-lasterzaak",
+    "type": "article",
+    "title": "Maker stemmachines en Fox News krijgen extra dag voor schikking in lasterzaak",
     "subtitle": null,
     "published_at": "2023-04-17T09:36:38+02:00",
-    "updated_at": "2023-04-17T09:55:15+02:00",
+    "updated_at": "2023-04-17T10:49:14+02:00",
     "media_id": "un1xc80akef1",
     "duration": null,
     "canonical_section": {
@@ -18,7 +87,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/media/6259761/lasterzaak-van-stemmachinefabrikant-tegen-fox-news-begint-een-dag-later.html",
+    "url": "/media/6259761/maker-stemmachines-en-fox-news-krijgen-extra-dag-voor-schikking-in-lasterzaak.html",
     "open_new_window": false,
     "partner": null
   },
@@ -70,12 +139,12 @@
   },
   {
     "id": 6259756,
-    "slug": "koperdiefstal-verstoort-maandagochtend-treinverkeer-tussen-den-bosch-en-oss",
+    "slug": "koperdiefstal-verstoorde-maandagochtend-treinverkeer-tussen-den-bosch-en-oss",
     "type": "article",
-    "title": "Koperdiefstal verstoort maandagochtend treinverkeer tussen Den Bosch en Oss",
+    "title": "Koperdiefstal verstoorde maandagochtend treinverkeer tussen Den Bosch en Oss",
     "subtitle": null,
     "published_at": "2023-04-17T08:08:56+02:00",
-    "updated_at": "2023-04-17T08:17:26+02:00",
+    "updated_at": "2023-04-17T10:55:51+02:00",
     "media_id": "znrxamhauxj7",
     "duration": null,
     "canonical_section": {
@@ -87,7 +156,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/binnenland/6259756/koperdiefstal-verstoort-maandagochtend-treinverkeer-tussen-den-bosch-en-oss.html",
+    "url": "/binnenland/6259756/koperdiefstal-verstoorde-maandagochtend-treinverkeer-tussen-den-bosch-en-oss.html",
     "open_new_window": false,
     "partner": null
   },
@@ -98,8 +167,8 @@
     "title": "Geweld in Purmerend houdt aan: explosie bij huis dat onlangs beschoten werd",
     "subtitle": null,
     "published_at": "2023-04-17T07:47:16+02:00",
-    "updated_at": "2023-04-17T09:59:29+02:00",
-    "media_id": "7zrxaica2815",
+    "updated_at": "2023-04-17T10:44:38+02:00",
+    "media_id": "fdoxjizaypxp",
     "duration": null,
     "canonical_section": {
       "id": 1771435,
@@ -617,75 +686,6 @@
       "partner": null
     },
     "url": "/voetbal/6259740/ajax-boekt-mede-door-goal-en-assist-sanchez-moeizame-zege-op-fc-emmen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6259739,
-    "slug": "odgaard-kopieert-goal-van-basten-tegen-west-duitsland-en-leidt-ruime-zege-az-in",
-    "type": "article",
-    "title": "Odgaard kopieert goal Van Basten tegen West-Duitsland en leidt ruime zege AZ in",
-    "subtitle": null,
-    "published_at": "2023-04-16T21:54:45+02:00",
-    "updated_at": "2023-04-16T22:18:17+02:00",
-    "media_id": "t25xyu5au3ph",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6259739/odgaard-kopieert-goal-van-basten-tegen-west-duitsland-en-leidt-ruime-zege-az-in.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6259738,
-    "slug": "vrouw-brengt-kind-ter-wereld-op-snelwegafrit-bij-delft",
-    "type": "video",
-    "title": "Vrouw brengt kind ter wereld op snelwegafrit bij Delft",
-    "subtitle": "Video",
-    "published_at": "2023-04-16T21:49:49+02:00",
-    "updated_at": "2023-04-16T22:38:58+02:00",
-    "media_id": "222x9ghakn2k",
-    "duration": "0:33",
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6259738/vrouw-brengt-kind-ter-wereld-op-snelwegafrit-bij-delft.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6259723,
-    "slug": "nationale-bijentelling-wordt-met-een-week-verlengd-wegens-koud-weer",
-    "type": "article",
-    "title": "Nationale Bijentelling wordt met een week verlengd wegens koud weer",
-    "subtitle": null,
-    "published_at": "2023-04-16T21:46:27+02:00",
-    "updated_at": "2023-04-16T21:46:28+02:00",
-    "media_id": "ucexsklap660",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6259723/nationale-bijentelling-wordt-met-een-week-verlengd-wegens-koud-weer.html",
     "open_new_window": false,
     "partner": null
   }
