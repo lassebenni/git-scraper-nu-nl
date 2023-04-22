@@ -1,5 +1,51 @@
 [
   {
+    "id": 6260574,
+    "slug": "brandende-touringcar-zorgt-voor-dikke-rookwolken-boven-a2",
+    "type": "video",
+    "title": "Brandende touringcar zorgt voor dikke rookwolken boven A2",
+    "subtitle": "Video",
+    "published_at": "2023-04-22T11:45:42+02:00",
+    "updated_at": "2023-04-22T11:45:43+02:00",
+    "media_id": "nllxizeapphh",
+    "duration": "0:14",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6260574/brandende-touringcar-zorgt-voor-dikke-rookwolken-boven-a2.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6260568,
+    "slug": "touringcar-in-brand-op-a2-snelweg-tussen-utrecht-en-amsterdam-afgesloten",
+    "type": "article",
+    "title": "Touringcar in brand op A2, snelweg tussen Utrecht en Amsterdam afgesloten",
+    "subtitle": null,
+    "published_at": "2023-04-22T11:18:11+02:00",
+    "updated_at": "2023-04-22T11:36:38+02:00",
+    "media_id": "xgqxbksaajig",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6260568/touringcar-in-brand-op-a2-snelweg-tussen-utrecht-en-amsterdam-afgesloten.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6260565,
     "slug": "koning-krijgt-rondleiding-door-gloednieuw-paleis-het-loo",
     "type": "video",
@@ -75,7 +121,7 @@
     "title": "Nieuwe leden van Amsterdams studentencorps jarenlang geschopt en geslagen",
     "subtitle": null,
     "published_at": "2023-04-22T10:18:36+02:00",
-    "updated_at": "2023-04-22T10:40:13+02:00",
+    "updated_at": "2023-04-22T11:13:25+02:00",
     "media_id": "tkkxdmvatqwa",
     "duration": null,
     "canonical_section": {
@@ -93,12 +139,12 @@
   },
   {
     "id": 6260555,
-    "slug": "klopp-ziet-voordeel-aan-rampseizoen-liverpool-weten-nu-hoe-het-niet-moet",
+    "slug": "klopp-ziet-voordeel-in-rampseizoen-liverpool-weten-nu-hoe-het-niet-moet",
     "type": "article",
-    "title": "Klopp ziet voordeel aan rampseizoen Liverpool: 'Weten nu hoe het níet moet'",
+    "title": "Klopp ziet voordeel in rampseizoen Liverpool: 'Weten nu hoe het níét moet'",
     "subtitle": null,
     "published_at": "2023-04-22T10:08:41+02:00",
-    "updated_at": "2023-04-22T10:17:09+02:00",
+    "updated_at": "2023-04-22T11:17:31+02:00",
     "media_id": "0klxqntajm5z",
     "duration": null,
     "canonical_section": {
@@ -110,7 +156,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6260555/klopp-ziet-voordeel-aan-rampseizoen-liverpool-weten-nu-hoe-het-niet-moet.html",
+    "url": "/voetbal/6260555/klopp-ziet-voordeel-in-rampseizoen-liverpool-weten-nu-hoe-het-niet-moet.html",
     "open_new_window": false,
     "partner": null
   },
@@ -144,7 +190,7 @@
     "title": "Russisch toptalent Chikunova verpulvert wereldrecord op 200 meter schoolslag",
     "subtitle": null,
     "published_at": "2023-04-22T09:19:55+02:00",
-    "updated_at": "2023-04-22T09:19:56+02:00",
+    "updated_at": "2023-04-22T11:14:24+02:00",
     "media_id": "2fqxu66as0q4",
     "duration": null,
     "canonical_section": {
@@ -236,7 +282,7 @@
     "title": "Feestende fans onthalen PEC Zwolle-spelers na promotie",
     "subtitle": "In beeld",
     "published_at": "2023-04-22T09:00:29+02:00",
-    "updated_at": "2023-04-22T09:00:30+02:00",
+    "updated_at": "2023-04-22T11:07:10+02:00",
     "media_id": "h4sxd2tapi4s",
     "duration": null,
     "canonical_section": {
@@ -282,7 +328,7 @@
     "title": "Manager Arteta prijst Arsenal-spelers ondanks nieuwe tegenslag: 'Ik houd van ze'",
     "subtitle": null,
     "published_at": "2023-04-22T08:43:45+02:00",
-    "updated_at": "2023-04-22T10:21:40+02:00",
+    "updated_at": "2023-04-22T11:06:32+02:00",
     "media_id": "gelx0ksant3i",
     "duration": null,
     "canonical_section": {
@@ -374,7 +420,7 @@
     "title": "Hoofdredacteur Duits tijdschrift ontslagen na nepinterview Michael Schumacher",
     "subtitle": null,
     "published_at": "2023-04-22T07:33:16+02:00",
-    "updated_at": "2023-04-22T08:50:11+02:00",
+    "updated_at": "2023-04-22T11:13:02+02:00",
     "media_id": "m1rxrwhav9ik",
     "duration": null,
     "canonical_section": {
@@ -512,7 +558,7 @@
     "title": "Zo worden de Europese tickets verdeeld (en het effect van een Europese titel)",
     "subtitle": null,
     "published_at": "2023-04-22T05:07:23+02:00",
-    "updated_at": "2023-04-22T08:08:16+02:00",
+    "updated_at": "2023-04-22T11:15:02+02:00",
     "media_id": "on0xkn0ah7mn",
     "duration": null,
     "canonical_section": {
@@ -558,7 +604,7 @@
     "title": "Heftige discussie rond trans atleten: kan sport eerlijk én inclusief?",
     "subtitle": "NU+",
     "published_at": "2023-04-22T05:02:16+02:00",
-    "updated_at": "2023-04-22T05:02:17+02:00",
+    "updated_at": "2023-04-22T11:56:39+02:00",
     "media_id": "yx8xk5xaqgyc",
     "duration": null,
     "canonical_section": {
@@ -640,52 +686,6 @@
       "partner": null
     },
     "url": "/buitenland/6260521/nieuwe-poging-tot-staakt-het-vuren-in-soedan.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6260518,
-    "slug": "derde-van-beloofde-munitie-in-oekraine-russen-raken-eigen-stad",
-    "type": "article",
-    "title": "Derde van beloofde munitie in Oekraïne | Russen raken eigen stad",
-    "subtitle": "Overzicht",
-    "published_at": "2023-04-21T23:54:59+02:00",
-    "updated_at": "2023-04-22T09:51:43+02:00",
-    "media_id": "6ggxi2zaiwco",
-    "duration": null,
-    "canonical_section": {
-      "id": 1778980,
-      "slug": "spanningen-oekraine",
-      "type": "default",
-      "name": "Oorlog in Oekraïne",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/spanningen-oekraine/6260518/derde-van-beloofde-munitie-in-oekraine-russen-raken-eigen-stad.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6260519,
-    "slug": "pec-gaat-drie-dagen-feestvieren-na-promotie-het-wordt-een-gekkenhuis",
-    "type": "article",
-    "title": "PEC gaat drie dagen feestvieren na promotie: 'Het wordt een gekkenhuis'",
-    "subtitle": null,
-    "published_at": "2023-04-21T23:35:41+02:00",
-    "updated_at": "2023-04-22T10:59:34+02:00",
-    "media_id": "9goxhxia52w7",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6260519/pec-gaat-drie-dagen-feestvieren-na-promotie-het-wordt-een-gekkenhuis.html",
     "open_new_window": false,
     "partner": null
   }
