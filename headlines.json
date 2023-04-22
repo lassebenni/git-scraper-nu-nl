@@ -1,12 +1,58 @@
 [
   {
+    "id": 6260595,
+    "slug": "eerste-kennismaking-cupra-tavascan",
+    "type": "video",
+    "title": "Eerste kennismaking: Cupra Tavascan",
+    "subtitle": "Video",
+    "published_at": "2023-04-22T14:44:47+02:00",
+    "updated_at": "2023-04-22T14:44:49+02:00",
+    "media_id": "zw9xizyakfih",
+    "duration": "5:43",
+    "canonical_section": {
+      "id": 881569,
+      "slug": "auto",
+      "type": "default",
+      "name": "Onderweg",
+      "style": "nuzakelijk",
+      "media_id": "z66x61xaq79c",
+      "partner": null
+    },
+    "url": "/auto/6260595/eerste-kennismaking-cupra-tavascan.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6260593,
+    "slug": "zo-zagen-de-praalwagens-van-bloemencorso-bollenstreek-eruit",
+    "type": "video",
+    "title": "Zo zagen de praalwagens van bloemencorso Bollenstreek eruit",
+    "subtitle": "Video",
+    "published_at": "2023-04-22T14:24:44+02:00",
+    "updated_at": "2023-04-22T14:24:46+02:00",
+    "media_id": "b1bxyqyabmcv",
+    "duration": "0:43",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6260593/zo-zagen-de-praalwagens-van-bloemencorso-bollenstreek-eruit.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6260586,
-    "slug": "pec-zwolle-supporters-voorlopig-niet-meer-welkom-in-eindhoven",
+    "slug": "pec-zwolle-supporters-zijn-voorlopig-niet-meer-welkom-in-eindhoven",
     "type": "article",
-    "title": "PEC Zwolle-supporters voorlopig niet meer welkom in Eindhoven",
+    "title": "PEC Zwolle-supporters zijn voorlopig niet meer welkom in Eindhoven",
     "subtitle": null,
     "published_at": "2023-04-22T13:44:36+02:00",
-    "updated_at": "2023-04-22T13:50:00+02:00",
+    "updated_at": "2023-04-22T14:12:32+02:00",
     "media_id": "0flx9uza54zc",
     "duration": null,
     "canonical_section": {
@@ -18,18 +64,18 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6260586/pec-zwolle-supporters-voorlopig-niet-meer-welkom-in-eindhoven.html",
+    "url": "/voetbal/6260586/pec-zwolle-supporters-zijn-voorlopig-niet-meer-welkom-in-eindhoven.html",
     "open_new_window": false,
     "partner": null
   },
   {
     "id": 6260587,
-    "slug": "barry-humphries-komiek-en-bedenker-dame-edna-overleden-op-89-jarige-leeftijd",
+    "slug": "komiek-en-dame-edna-bedenker-barry-humphries-89-overleden",
     "type": "article",
-    "title": "Barry Humphries, komiek en bedenker Dame Edna, overleden op 89-jarige leeftijd",
+    "title": "Komiek en Dame Edna-bedenker Barry Humphries (89) overleden",
     "subtitle": null,
     "published_at": "2023-04-22T13:21:48+02:00",
-    "updated_at": "2023-04-22T13:59:54+02:00",
+    "updated_at": "2023-04-22T14:04:58+02:00",
     "media_id": "1vnx57ca5d90",
     "duration": null,
     "canonical_section": {
@@ -41,18 +87,18 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/film/6260587/barry-humphries-komiek-en-bedenker-dame-edna-overleden-op-89-jarige-leeftijd.html",
+    "url": "/film/6260587/komiek-en-dame-edna-bedenker-barry-humphries-89-overleden.html",
     "open_new_window": false,
     "partner": null
   },
   {
     "id": 6260581,
-    "slug": "neef-van-ridouan-taghi-opnieuw-gearresteerd",
+    "slug": "neef-van-ridouan-taghi-die-wordt-verdacht-van-rol-bij-moord-op-wiersum-opnieuw-gearresteerd",
     "type": "article",
-    "title": "Neef van Ridouan Taghi opnieuw gearresteerd",
+    "title": "Neef van Ridouan Taghi die wordt verdacht van rol bij moord op Wiersum opnieuw gearresteerd",
     "subtitle": null,
     "published_at": "2023-04-22T13:15:03+02:00",
-    "updated_at": "2023-04-22T13:48:58+02:00",
+    "updated_at": "2023-04-22T14:51:03+02:00",
     "media_id": "98kx8h0agimb",
     "duration": null,
     "canonical_section": {
@@ -64,7 +110,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/marengo-proces/6260581/neef-van-ridouan-taghi-opnieuw-gearresteerd.html",
+    "url": "/marengo-proces/6260581/neef-van-ridouan-taghi-die-wordt-verdacht-van-rol-bij-moord-op-wiersum-opnieuw-gearresteerd.html",
     "open_new_window": false,
     "partner": null
   },
@@ -75,7 +121,7 @@
     "title": "Frenkie de Jong terug bij Barcelona, ook vijftienjarige aanvaller geselecteerd",
     "subtitle": null,
     "published_at": "2023-04-22T13:03:19+02:00",
-    "updated_at": "2023-04-22T13:31:55+02:00",
+    "updated_at": "2023-04-22T14:09:50+02:00",
     "media_id": "3tzxz9na3tlt",
     "duration": null,
     "canonical_section": {
@@ -640,52 +686,6 @@
       "partner": null
     },
     "url": "/buitenland/6260525/hooggerechtshof-vs-schort-verbod-op-abortuspil-blijft-beschikbaar.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6260443,
-    "slug": "hoe-jij-straks-gaat-betalen-voor-je-co2-uitstoot",
-    "type": "video",
-    "title": "Hoe jij straks gaat betalen voor je CO2-uitstoot",
-    "subtitle": "Video",
-    "published_at": "2023-04-22T06:26:03+02:00",
-    "updated_at": "2023-04-22T06:27:53+02:00",
-    "media_id": "wunxasyay1d6",
-    "duration": "1:37",
-    "canonical_section": {
-      "id": 1778967,
-      "slug": "uitleg",
-      "type": "default",
-      "name": "Het nieuws uitgelegd",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/uitleg/6260443/hoe-jij-straks-gaat-betalen-voor-je-co2-uitstoot.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6260523,
-    "slug": "weerbericht-het-wordt-een-zachte-dag-maar-wel-met-bewolking-en-regen",
-    "type": "article",
-    "title": "Weerbericht: Het wordt een zachte dag, maar wel met bewolking en regen",
-    "subtitle": null,
-    "published_at": "2023-04-22T05:44:37+02:00",
-    "updated_at": "2023-04-22T09:06:04+02:00",
-    "media_id": "nwexi4tag2m0",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6260523/weerbericht-het-wordt-een-zachte-dag-maar-wel-met-bewolking-en-regen.html",
     "open_new_window": false,
     "partner": null
   }
