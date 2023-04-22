@@ -1,5 +1,51 @@
 [
   {
+    "id": 6260621,
+    "slug": "italie-wil-beren-het-land-uitzetten-na-dodelijke-aanval-op-jogger",
+    "type": "article",
+    "title": "Italië wil beren het land uitzetten na dodelijke aanval op jogger",
+    "subtitle": null,
+    "published_at": "2023-04-22T23:53:58+02:00",
+    "updated_at": "2023-04-22T23:53:59+02:00",
+    "media_id": "ao1xrlua919e",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6260621/italie-wil-beren-het-land-uitzetten-na-dodelijke-aanval-op-jogger.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6260638,
+    "slug": "real-madrid-loopt-wat-in-op-koploper-barcelona-dankzij-zege-op-celta-de-vigo",
+    "type": "article",
+    "title": "Real Madrid loopt wat in op koploper Barcelona dankzij zege op Celta de Vigo",
+    "subtitle": null,
+    "published_at": "2023-04-22T23:04:06+02:00",
+    "updated_at": "2023-04-22T23:09:38+02:00",
+    "media_id": "vkxxomqam54o",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6260638/real-madrid-loopt-wat-in-op-koploper-barcelona-dankzij-zege-op-celta-de-vigo.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6260627,
     "slug": "keniaanse-politie-vindt-21-lichamen-van-uitgehongerde-sekteleden",
     "type": "article",
@@ -98,7 +144,7 @@
     "title": "Ajax Vrouwen pakt koppositie door zege bij Fortuna en legt druk bij FC Twente",
     "subtitle": null,
     "published_at": "2023-04-22T21:30:09+02:00",
-    "updated_at": "2023-04-22T21:43:08+02:00",
+    "updated_at": "2023-04-22T23:45:52+02:00",
     "media_id": "85exnama5ioz",
     "duration": null,
     "canonical_section": {
@@ -640,52 +686,6 @@
       "partner": null
     },
     "url": "/sport-overig/6260598/tweevoudig-wereldkampioen-lewis-stopt-voorlopig-met-darts-heb-pauze-nodig.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6260597,
-    "slug": "ook-djokovic-zegt-af-voor-madrid-hopelijk-weer-in-vorm-bij-roland-garros",
-    "type": "article",
-    "title": "Ook Djokovic zegt af voor Madrid: 'Hopelijk weer in vorm bij Roland Garros'",
-    "subtitle": null,
-    "published_at": "2023-04-22T15:19:17+02:00",
-    "updated_at": "2023-04-22T15:22:23+02:00",
-    "media_id": "eilxzt5a8z8k",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772432,
-      "slug": "tennis",
-      "type": "default",
-      "name": "Tennis",
-      "style": "nusport",
-      "media_id": "m1oxohpan0gq",
-      "partner": null
-    },
-    "url": "/tennis/6260597/ook-djokovic-zegt-af-voor-madrid-hopelijk-weer-in-vorm-bij-roland-garros.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6260595,
-    "slug": "eerste-kennismaking-cupra-tavascan",
-    "type": "video",
-    "title": "Eerste kennismaking: Cupra Tavascan",
-    "subtitle": "Video",
-    "published_at": "2023-04-22T14:44:47+02:00",
-    "updated_at": "2023-04-22T14:44:49+02:00",
-    "media_id": "zw9xizyakfih",
-    "duration": "5:43",
-    "canonical_section": {
-      "id": 881569,
-      "slug": "auto",
-      "type": "default",
-      "name": "Onderweg",
-      "style": "nuzakelijk",
-      "media_id": "z66x61xaq79c",
-      "partner": null
-    },
-    "url": "/auto/6260595/eerste-kennismaking-cupra-tavascan.html",
     "open_new_window": false,
     "partner": null
   }
