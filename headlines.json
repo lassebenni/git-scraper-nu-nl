@@ -1,5 +1,74 @@
 [
   {
+    "id": 6260431,
+    "slug": "steeds-meer-ouders-hebben-vrijstelling-waardoor-hun-kind-niet-naar-school-hoeft",
+    "type": "article",
+    "title": "Steeds meer ouders hebben vrijstelling waardoor hun kind niet naar school hoeft",
+    "subtitle": null,
+    "published_at": "2023-04-22T07:35:40+02:00",
+    "updated_at": "2023-04-22T07:35:41+02:00",
+    "media_id": "jtexe1qakekh",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6260431/steeds-meer-ouders-hebben-vrijstelling-waardoor-hun-kind-niet-naar-school-hoeft.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6260527,
+    "slug": "hoofdredacteur-duits-tijdschrift-ontslagen-na-nepinterview-michael-schumacher",
+    "type": "article",
+    "title": "Hoofdredacteur Duits tijdschrift ontslagen na nepinterview Michael Schumacher",
+    "subtitle": null,
+    "published_at": "2023-04-22T07:33:16+02:00",
+    "updated_at": "2023-04-22T07:47:06+02:00",
+    "media_id": "m1rxrwhav9ik",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771675,
+      "slug": "media",
+      "type": "default",
+      "name": "Media",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/media/6260527/hoofdredacteur-duits-tijdschrift-ontslagen-na-nepinterview-michael-schumacher.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6260525,
+    "slug": "hooggerechtshof-vs-schort-verbod-op-abortuspil-blijft-beschikbaar",
+    "type": "article",
+    "title": "Hooggerechtshof VS schort verbod op: abortuspil blijft beschikbaar",
+    "subtitle": null,
+    "published_at": "2023-04-22T07:20:35+02:00",
+    "updated_at": "2023-04-22T07:36:59+02:00",
+    "media_id": "epoxsbtawm6o",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6260525/hooggerechtshof-vs-schort-verbod-op-abortuspil-blijft-beschikbaar.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6260443,
     "slug": "hoe-jij-straks-gaat-betalen-voor-je-co2-uitstoot",
     "type": "video",
@@ -617,75 +686,6 @@
       "partner": null
     },
     "url": "/binnenland/6260496/a73-weer-open-na-urenlange-afsluiting-door-botsing-tussen-vier-autos.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6260495,
-    "slug": "drone-brengt-vanuit-nederland-medicijnen-naar-duits-ziekenhuis",
-    "type": "video",
-    "title": "Drone brengt vanuit Nederland medicijnen naar Duits ziekenhuis",
-    "subtitle": "Video",
-    "published_at": "2023-04-21T20:10:40+02:00",
-    "updated_at": "2023-04-21T20:10:41+02:00",
-    "media_id": "vndxctlal0x7",
-    "duration": "0:43",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6260495/drone-brengt-vanuit-nederland-medicijnen-naar-duits-ziekenhuis.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6260494,
-    "slug": "moslims-vieren-over-de-hele-wereld-het-einde-van-de-ramadan",
-    "type": "article",
-    "title": "Moslims vieren over de hele wereld het einde van de ramadan",
-    "subtitle": "In beeld",
-    "published_at": "2023-04-21T20:05:40+02:00",
-    "updated_at": "2023-04-21T20:08:20+02:00",
-    "media_id": "n7oxxj2a1vde",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6260494/moslims-vieren-over-de-hele-wereld-het-einde-van-de-ramadan.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6260488,
-    "slug": "reacties-op-promotie-pec-zwolle-naar-de-eredivisie",
-    "type": "article",
-    "title": "Reacties op promotie PEC Zwolle naar de Eredivisie",
-    "subtitle": "Liveblog",
-    "published_at": "2023-04-21T19:33:05+02:00",
-    "updated_at": "2023-04-21T22:58:56+02:00",
-    "media_id": "6ifx8s2a3b72",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6260488/reacties-op-promotie-pec-zwolle-naar-de-eredivisie.html",
     "open_new_window": false,
     "partner": null
   }
