@@ -1,5 +1,120 @@
 [
   {
+    "id": 6260794,
+    "slug": "ongehoord-nederland-krijgt-weer-boete-voor-slechte-journalistiek-132000-euro",
+    "type": "article",
+    "title": "Ongehoord Nederland krijgt weer boete voor slechte journalistiek: 132.000 euro",
+    "subtitle": null,
+    "published_at": "2023-04-24T12:43:22+02:00",
+    "updated_at": "2023-04-24T12:58:01+02:00",
+    "media_id": "rmkxu2daf7zi",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771675,
+      "slug": "media",
+      "type": "default",
+      "name": "Media",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/media/6260794/ongehoord-nederland-krijgt-weer-boete-voor-slechte-journalistiek-132000-euro.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6260787,
+    "slug": "jarmo-uit-nederland-is-de-beste-meeuwenschreeuwer-van-europa",
+    "type": "video",
+    "title": "Jarmo uit Nederland is de beste meeuwenschreeuwer van Europa",
+    "subtitle": "Video",
+    "published_at": "2023-04-24T12:28:09+02:00",
+    "updated_at": "2023-04-24T12:28:11+02:00",
+    "media_id": "qtsxyyia7tdh",
+    "duration": "0:31",
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6260787/jarmo-uit-nederland-is-de-beste-meeuwenschreeuwer-van-europa.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6260790,
+    "slug": "defensie-deelt-beelden-van-eerste-evacuatievlucht-vanuit-soedan",
+    "type": "video",
+    "title": "Defensie deelt beelden van eerste evacuatievlucht vanuit Soedan",
+    "subtitle": "Video",
+    "published_at": "2023-04-24T12:22:28+02:00",
+    "updated_at": "2023-04-24T12:38:58+02:00",
+    "media_id": "rgzxgnbazw2j",
+    "duration": "0:45",
+    "canonical_section": {
+      "id": 100,
+      "slug": "algemeen",
+      "type": "default",
+      "name": "Algemeen",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/algemeen/6260790/defensie-deelt-beelden-van-eerste-evacuatievlucht-vanuit-soedan.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6260786,
+    "slug": "ijssalons-pretparken-en-strandtenten-zuchten-onder-het-slechte-weer",
+    "type": "article",
+    "title": "IJssalons, pretparken en strandtenten zuchten onder het slechte weer",
+    "subtitle": null,
+    "published_at": "2023-04-24T12:20:40+02:00",
+    "updated_at": "2023-04-24T12:41:41+02:00",
+    "media_id": "almxww4anwql",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6260786/ijssalons-pretparken-en-strandtenten-zuchten-onder-het-slechte-weer.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6260788,
+    "slug": "drone-explodeert-boven-sebastopol-bij-aanval-op-russische-vloot",
+    "type": "video",
+    "title": "Drone explodeert boven Sebastopol bij aanval op Russische vloot",
+    "subtitle": "Video",
+    "published_at": "2023-04-24T12:13:55+02:00",
+    "updated_at": "2023-04-24T12:13:56+02:00",
+    "media_id": "273xm5faqnme",
+    "duration": "0:33",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6260788/drone-explodeert-boven-sebastopol-bij-aanval-op-russische-vloot.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6260772,
     "slug": "the-tribute-battle-of-the-bands-keert-terug-voor-derde-seizoen-en-concert",
     "type": "article",
@@ -29,8 +144,8 @@
     "title": "Inspecteur toeslagen ziet toeslagenstelsel het liefst helemaal verdwijnen",
     "subtitle": null,
     "published_at": "2023-04-24T11:44:09+02:00",
-    "updated_at": "2023-04-24T11:44:10+02:00",
-    "media_id": "horxp7iay845",
+    "updated_at": "2023-04-24T12:15:18+02:00",
+    "media_id": "9t9x6keadeg7",
     "duration": null,
     "canonical_section": {
       "id": 99,
@@ -70,12 +185,12 @@
   },
   {
     "id": 6260768,
-    "slug": "ing-heeft-opnieuw-storing-rond-salarisdag-klanten-kunnen-geen-geld-overmaken",
+    "slug": "ing-verhelpt-storing-op-salarisdag-klanten-kunnen-weer-geld-overmaken",
     "type": "article",
-    "title": "ING heeft opnieuw storing rond salarisdag: klanten kunnen geen geld overmaken",
+    "title": "ING verhelpt storing op salarisdag: klanten kunnen weer geld overmaken",
     "subtitle": null,
     "published_at": "2023-04-24T10:49:48+02:00",
-    "updated_at": "2023-04-24T11:57:27+02:00",
+    "updated_at": "2023-04-24T12:53:29+02:00",
     "media_id": "bhox7raa8t8m",
     "duration": null,
     "canonical_section": {
@@ -87,7 +202,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/tech/6260768/ing-heeft-opnieuw-storing-rond-salarisdag-klanten-kunnen-geen-geld-overmaken.html",
+    "url": "/tech/6260768/ing-verhelpt-storing-op-salarisdag-klanten-kunnen-weer-geld-overmaken.html",
     "open_new_window": false,
     "partner": null
   },
@@ -167,7 +282,7 @@
     "title": "Spurs beleven nachtmerrie in Newcastle: 'Ergste 25 minuten die ik ooit heb gezien'",
     "subtitle": null,
     "published_at": "2023-04-24T09:05:22+02:00",
-    "updated_at": "2023-04-24T09:50:46+02:00",
+    "updated_at": "2023-04-24T12:11:36+02:00",
     "media_id": "xhpxpkaa132p",
     "duration": null,
     "canonical_section": {
@@ -185,12 +300,12 @@
   },
   {
     "id": 6260750,
-    "slug": "albert-heijn-klanten-kunnen-misgrijpen-door-stakingen-in-distributiecentra",
+    "slug": "lege-schappen-dreigen-bij-albert-heijn-naarmate-stakingen-uitbreiden",
     "type": "article",
-    "title": "Albert Heijn-klanten kunnen misgrijpen door stakingen in distributiecentra",
+    "title": "Lege schappen dreigen bij Albert Heijn naarmate stakingen uitbreiden",
     "subtitle": null,
     "published_at": "2023-04-24T08:27:27+02:00",
-    "updated_at": "2023-04-24T11:40:00+02:00",
+    "updated_at": "2023-04-24T12:38:01+02:00",
     "media_id": "mzgxcxmadpbu",
     "duration": null,
     "canonical_section": {
@@ -202,7 +317,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/economie/6260750/albert-heijn-klanten-kunnen-misgrijpen-door-stakingen-in-distributiecentra.html",
+    "url": "/economie/6260750/lege-schappen-dreigen-bij-albert-heijn-naarmate-stakingen-uitbreiden.html",
     "open_new_window": false,
     "partner": null
   },
@@ -282,8 +397,8 @@
     "title": "Eerste Nederlandse toestel met evacués uit Soedan geland in Jordanië",
     "subtitle": null,
     "published_at": "2023-04-24T07:54:20+02:00",
-    "updated_at": "2023-04-24T11:46:19+02:00",
-    "media_id": "xkfxjg3a100f",
+    "updated_at": "2023-04-24T12:17:16+02:00",
+    "media_id": "kxzxj8tafbyj",
     "duration": null,
     "canonical_section": {
       "id": 1771436,
@@ -512,7 +627,7 @@
     "title": "Nederlands windpark op zee direct gekoppeld aan nieuwe stroomkabel richting VK",
     "subtitle": null,
     "published_at": "2023-04-24T06:01:53+02:00",
-    "updated_at": "2023-04-24T10:06:54+02:00",
+    "updated_at": "2023-04-24T12:03:21+02:00",
     "media_id": "bs0xfx2ammoo",
     "duration": null,
     "canonical_section": {
@@ -571,121 +686,6 @@
       "partner": null
     },
     "url": "/binnenland/6260732/weerbericht-voor-dagen-als-vandaag-is-het-woord-guur-bedacht.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6260731,
-    "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
-    "type": "article",
-    "title": "Het Woord van vandaag: Raad jij het woord van de dag?",
-    "subtitle": null,
-    "published_at": "2023-04-24T05:14:58+02:00",
-    "updated_at": "2023-04-24T05:14:59+02:00",
-    "media_id": "5orxtf5awygy",
-    "duration": null,
-    "canonical_section": {
-      "id": 1773179,
-      "slug": "uitgelicht",
-      "type": "default",
-      "name": "Uitgelicht",
-      "style": "mediapartner-external",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/uitgelicht/6260731/het-woord-van-vandaag-raad-jij-het-woord-van-de-dag.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6260093,
-    "slug": "david-kushner-liet-fans-wachten-op-nieuw-lied-en-heeft-daardoor-nu-een-hit",
-    "type": "article",
-    "title": "David Kushner liet fans wachten op nieuw lied en heeft daardoor nu een hit",
-    "subtitle": "NU+",
-    "published_at": "2023-04-24T05:14:31+02:00",
-    "updated_at": "2023-04-24T10:08:33+02:00",
-    "media_id": "jtgxrdbazljw",
-    "duration": null,
-    "canonical_section": {
-      "id": 868281,
-      "slug": "muziek",
-      "type": "default",
-      "name": "Muziek",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/muziek/6260093/david-kushner-liet-fans-wachten-op-nieuw-lied-en-heeft-daardoor-nu-een-hit.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6260730,
-    "slug": "ook-op-de-marathon-schrijft-buitenaardse-sifan-hassan-een-uniek-verhaal",
-    "type": "article",
-    "title": "Ook op de marathon schrijft 'buitenaardse' Sifan Hassan een uniek verhaal",
-    "subtitle": "NU+",
-    "published_at": "2023-04-24T05:13:59+02:00",
-    "updated_at": "2023-04-24T07:18:37+02:00",
-    "media_id": "gkgxdmtav7dt",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772456,
-      "slug": "sport-overig",
-      "type": "default",
-      "name": "Sport Overig",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/sport-overig/6260730/ook-op-de-marathon-schrijft-buitenaardse-sifan-hassan-een-uniek-verhaal.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6260481,
-    "slug": "in-deze-vijf-provincies-zijn-de-huizenprijzen-toch-nog-iets-gestegen",
-    "type": "article",
-    "title": "In deze vijf provincies zijn de huizenprijzen toch nog iets gestegen",
-    "subtitle": null,
-    "published_at": "2023-04-24T05:13:30+02:00",
-    "updated_at": "2023-04-24T08:16:29+02:00",
-    "media_id": "q4rxfwqawqpl",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6260481/in-deze-vijf-provincies-zijn-de-huizenprijzen-toch-nog-iets-gestegen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6260423,
-    "slug": "1-op-25-huishoudens-heeft-een-vermogen-van-meer-dan-1-miljoen-euro",
-    "type": "article",
-    "title": "1 op 25 huishoudens heeft een vermogen van meer dan 1 miljoen euro",
-    "subtitle": null,
-    "published_at": "2023-04-24T00:04:20+02:00",
-    "updated_at": "2023-04-24T10:51:00+02:00",
-    "media_id": "zg1xuaea7l95",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6260423/1-op-25-huishoudens-heeft-een-vermogen-van-meer-dan-1-miljoen-euro.html",
     "open_new_window": false,
     "partner": null
   }
