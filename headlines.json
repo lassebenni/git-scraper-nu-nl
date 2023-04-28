@@ -1,12 +1,81 @@
 [
   {
+    "id": 6261460,
+    "slug": "politie-roosendaal-gaat-controleren-op-wapens-na-recente-schietincidenten",
+    "type": "article",
+    "title": "Politie Roosendaal gaat controleren op wapens na recente schietincidenten",
+    "subtitle": null,
+    "published_at": "2023-04-28T20:57:29+02:00",
+    "updated_at": "2023-04-28T20:58:57+02:00",
+    "media_id": "7zrxaica2815",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6261460/politie-roosendaal-gaat-controleren-op-wapens-na-recente-schietincidenten.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6261459,
+    "slug": "raketaanval-in-donetsk-kost-7-mensen-het-leven",
+    "type": "video",
+    "title": "Raketaanval in Donetsk kost 7 mensen het leven",
+    "subtitle": "Video",
+    "published_at": "2023-04-28T20:55:51+02:00",
+    "updated_at": "2023-04-28T20:55:53+02:00",
+    "media_id": "f4vxji9ay4jz",
+    "duration": "0:46",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6261459/raketaanval-in-donetsk-kost-7-mensen-het-leven.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6261458,
+    "slug": "zo-klinkt-de-nieuwe-versie-van-songfestivalliedje-van-mia-en-dion",
+    "type": "video",
+    "title": "Zo klinkt de 'nieuwe versie' van Songfestivalliedje van Mia en Dion",
+    "subtitle": "Video",
+    "published_at": "2023-04-28T20:10:00+02:00",
+    "updated_at": "2023-04-28T20:28:55+02:00",
+    "media_id": "puaxtbfamkup",
+    "duration": "0:59",
+    "canonical_section": {
+      "id": 100,
+      "slug": "algemeen",
+      "type": "default",
+      "name": "Algemeen",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/algemeen/6261458/zo-klinkt-de-nieuwe-versie-van-songfestivalliedje-van-mia-en-dion.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6261457,
     "slug": "mia-en-dion-zingen-aangepast-songfestivallied-na-kritiek-op-optredens",
     "type": "article",
-    "title": "Mia en Dion zingen aangepast songfestivallied na kritiek op optredens",
+    "title": "Mia en Dion zingen aangepast Songfestivallied na kritiek op optredens",
     "subtitle": null,
     "published_at": "2023-04-28T20:00:33+02:00",
-    "updated_at": "2023-04-28T20:00:36+02:00",
+    "updated_at": "2023-04-28T20:31:27+02:00",
     "media_id": "8vbx56saxahu",
     "duration": null,
     "canonical_section": {
@@ -47,13 +116,13 @@
   },
   {
     "id": 6261456,
-    "slug": "lukt-het-heracles-vanavond-om-terug-te-keren-in-de-eredivisie",
+    "slug": "heracles-leidt-halverwege-tegen-jong-psv-en-is-dicht-bij-promotie",
     "type": "article",
-    "title": "Lukt het Heracles vanavond om terug te keren in de Eredivisie?",
+    "title": "Heracles leidt halverwege tegen Jong PSV en is dicht bij promotie",
     "subtitle": "Liveblog",
     "published_at": "2023-04-28T19:40:37+02:00",
-    "updated_at": "2023-04-28T19:42:45+02:00",
-    "media_id": "bqzxpsja1zse",
+    "updated_at": "2023-04-28T20:55:40+02:00",
+    "media_id": "fi6xlrdavo6f",
     "duration": null,
     "canonical_section": {
       "id": 1772338,
@@ -64,7 +133,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6261456/lukt-het-heracles-vanavond-om-terug-te-keren-in-de-eredivisie.html",
+    "url": "/voetbal/6261456/heracles-leidt-halverwege-tegen-jong-psv-en-is-dicht-bij-promotie.html",
     "open_new_window": false,
     "partner": null
   },
@@ -121,7 +190,7 @@
     "title": "Opnieuw zit een Amerikaanse bank diep in de problemen",
     "subtitle": null,
     "published_at": "2023-04-28T18:45:01+02:00",
-    "updated_at": "2023-04-28T18:45:03+02:00",
+    "updated_at": "2023-04-28T20:28:27+02:00",
     "media_id": "qvhxmfza5q4o",
     "duration": null,
     "canonical_section": {
@@ -167,7 +236,7 @@
     "title": "Analyse: Verrassende pole Leclerc zegt iets over zijn magere winstkansen",
     "subtitle": "NU+",
     "published_at": "2023-04-28T18:33:22+02:00",
-    "updated_at": "2023-04-28T19:46:42+02:00",
+    "updated_at": "2023-04-28T20:03:18+02:00",
     "media_id": "730xsp3ahszc",
     "duration": null,
     "canonical_section": {
@@ -617,75 +686,6 @@
       "partner": null
     },
     "url": "/economie/6261413/tweeduizend-gedupeerde-transavia-reizigers-dienen-claim-in-voor-compensatie.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6261408,
-    "slug": "katy-perry-verliest-van-katie-perry-merchandise-schond-copyright-van-modemerk",
-    "type": "article",
-    "title": "Katy Perry verliest van Katie Perry: merchandise schond copyright van modemerk",
-    "subtitle": null,
-    "published_at": "2023-04-28T14:50:26+02:00",
-    "updated_at": "2023-04-28T16:18:08+02:00",
-    "media_id": "ep2xcn2accq0",
-    "duration": null,
-    "canonical_section": {
-      "id": 125,
-      "slug": "achterklap",
-      "type": "default",
-      "name": "Achterklap",
-      "style": "nuentertainment",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/achterklap/6261408/katy-perry-verliest-van-katie-perry-merchandise-schond-copyright-van-modemerk.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6261409,
-    "slug": "vergoeding-voor-zorgpersoneel-dat-door-postcovidsyndroom-niet-meer-kan-werken",
-    "type": "article",
-    "title": "Vergoeding voor zorgpersoneel dat door postcovidsyndroom niet meer kan werken",
-    "subtitle": null,
-    "published_at": "2023-04-28T14:49:58+02:00",
-    "updated_at": "2023-04-28T18:56:47+02:00",
-    "media_id": "v8txow2aipyi",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6261409/vergoeding-voor-zorgpersoneel-dat-door-postcovidsyndroom-niet-meer-kan-werken.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6261410,
-    "slug": "zo-ziet-het-nieuwe-sprintraceweekend-in-de-f1-eruit",
-    "type": "video",
-    "title": "Zo ziet het nieuwe sprintraceweekend in de F1 eruit",
-    "subtitle": "Explainer",
-    "published_at": "2023-04-28T14:45:10+02:00",
-    "updated_at": "2023-04-28T14:45:50+02:00",
-    "media_id": "s05xye4a29cp",
-    "duration": "1:15",
-    "canonical_section": {
-      "id": 100,
-      "slug": "algemeen",
-      "type": "default",
-      "name": "Algemeen",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/algemeen/6261410/zo-ziet-het-nieuwe-sprintraceweekend-in-de-f1-eruit.html",
     "open_new_window": false,
     "partner": null
   }
