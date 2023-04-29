@@ -1,12 +1,58 @@
 [
   {
+    "id": 6261399,
+    "slug": "stelling-ideal-moet-het-europese-antwoord-op-de-creditcard-worden",
+    "type": "article",
+    "title": "Stelling: iDeal moet het Europese antwoord op de creditcard worden",
+    "subtitle": null,
+    "published_at": "2023-04-29T08:01:24+02:00",
+    "updated_at": "2023-04-29T08:01:25+02:00",
+    "media_id": "gwhxniqauikp",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779134,
+      "slug": "stelling",
+      "type": "default",
+      "name": "Stelling",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/stelling/6261399/stelling-ideal-moet-het-europese-antwoord-op-de-creditcard-worden.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6261116,
+    "slug": "wat-wil-jij-weten-over-de-turkse-verkiezingen-vraag-het-onze-verslaggever",
+    "type": "article",
+    "title": "Wat wil jij weten over de Turkse verkiezingen? Vraag het onze verslaggever",
+    "subtitle": null,
+    "published_at": "2023-04-29T07:57:29+02:00",
+    "updated_at": "2023-04-29T07:57:30+02:00",
+    "media_id": "kfsxb2qabwkn",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6261116/wat-wil-jij-weten-over-de-turkse-verkiezingen-vraag-het-onze-verslaggever.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6261424,
-    "slug": "waarom-de-red-bull-zoveel-sneller-is-dan-de-andere-f1-autos",
+    "slug": "waarom-de-red-bull-zo-veel-sneller-is-dan-de-andere-f1-autos",
     "type": "video",
-    "title": "Waarom de Red Bull zoveel sneller is dan de andere F1-auto’s",
+    "title": "Waarom de Red Bull zo veel sneller is dan de andere F1-auto's",
     "subtitle": "Explainer",
     "published_at": "2023-04-29T06:36:03+02:00",
-    "updated_at": "2023-04-29T06:36:04+02:00",
+    "updated_at": "2023-04-29T07:59:00+02:00",
     "media_id": "f37xq6ga2jxh",
     "duration": "1:40",
     "canonical_section": {
@@ -18,7 +64,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/formule-1-videos/6261424/waarom-de-red-bull-zoveel-sneller-is-dan-de-andere-f1-autos.html",
+    "url": "/formule-1-videos/6261424/waarom-de-red-bull-zo-veel-sneller-is-dan-de-andere-f1-autos.html",
     "open_new_window": false,
     "partner": null
   },
@@ -558,7 +604,7 @@
     "title": "Mia en Dion zingen aangepast Songfestivallied na kritiek op optredens",
     "subtitle": null,
     "published_at": "2023-04-28T20:00:33+02:00",
-    "updated_at": "2023-04-28T21:28:06+02:00",
+    "updated_at": "2023-04-29T07:58:52+02:00",
     "media_id": "8vbx56saxahu",
     "duration": null,
     "canonical_section": {
@@ -640,52 +686,6 @@
       "partner": null
     },
     "url": "/voetbal/6261453/tuchel-vindt-dat-ontevreden-mazraoui-in-spiegel-moet-kijken-ligt-alleen-aan-hem.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6261452,
-    "slug": "chatgpt-weer-beschikbaar-in-italie-na-verbod-door-toezichthouder",
-    "type": "article",
-    "title": "ChatGPT weer beschikbaar in Italië na verbod door toezichthouder",
-    "subtitle": null,
-    "published_at": "2023-04-28T18:48:55+02:00",
-    "updated_at": "2023-04-28T19:10:44+02:00",
-    "media_id": "m8fx55taotvj",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771438,
-      "slug": "tech",
-      "type": "default",
-      "name": "Tech",
-      "style": "nutech",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/tech/6261452/chatgpt-weer-beschikbaar-in-italie-na-verbod-door-toezichthouder.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6261451,
-    "slug": "opnieuw-zit-een-amerikaanse-bank-diep-in-de-problemen",
-    "type": "article",
-    "title": "Opnieuw zit een Amerikaanse bank diep in de problemen",
-    "subtitle": null,
-    "published_at": "2023-04-28T18:45:01+02:00",
-    "updated_at": "2023-04-28T20:28:27+02:00",
-    "media_id": "qvhxmfza5q4o",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6261451/opnieuw-zit-een-amerikaanse-bank-diep-in-de-problemen.html",
     "open_new_window": false,
     "partner": null
   }
