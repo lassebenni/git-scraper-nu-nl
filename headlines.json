@@ -1,13 +1,128 @@
 [
   {
+    "id": 6261644,
+    "slug": "waarom-verstappen-door-een-instelling-niet-net-zo-snel-als-perez-was",
+    "type": "video",
+    "title": "Waarom Verstappen door een instelling niet net zo snel als Pérez was",
+    "subtitle": "Explainer",
+    "published_at": "2023-04-30T17:42:54+02:00",
+    "updated_at": "2023-04-30T17:42:55+02:00",
+    "media_id": "4vfx9o5alpyf",
+    "duration": "1:36",
+    "canonical_section": {
+      "id": 1772449,
+      "slug": "formule-1",
+      "type": "default",
+      "name": "GP Azerbeidzjan",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/formule-1/6261644/waarom-verstappen-door-een-instelling-niet-net-zo-snel-als-perez-was.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6261642,
+    "slug": "misvatting-dat-perez-echt-met-verstappen-om-de-titel-gaat-strijden",
+    "type": "article",
+    "title": "Misvatting dat Pérez echt met Verstappen om de titel gaat strijden",
+    "subtitle": "NU+",
+    "published_at": "2023-04-30T17:34:08+02:00",
+    "updated_at": "2023-04-30T17:34:09+02:00",
+    "media_id": "hzgxnnyaxjvn",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772449,
+      "slug": "formule-1",
+      "type": "default",
+      "name": "GP Azerbeidzjan",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/formule-1/6261642/misvatting-dat-perez-echt-met-verstappen-om-de-titel-gaat-strijden.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6261643,
+    "slug": "bayern-profiteert-met-mazraoui-van-misstap-dortmund-en-herovert-koppositie",
+    "type": "article",
+    "title": "Bayern profiteert met Mazraoui van misstap Dortmund en herovert koppositie",
+    "subtitle": null,
+    "published_at": "2023-04-30T17:24:06+02:00",
+    "updated_at": "2023-04-30T17:37:15+02:00",
+    "media_id": "0jpxp93a2ua7",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6261643/bayern-profiteert-met-mazraoui-van-misstap-dortmund-en-herovert-koppositie.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6261553,
+    "slug": "defensie-expert-colijn-over-hoe-voorspellingen-sneuvelen-tijdens-oorlog",
+    "type": "article",
+    "title": "Defensie-expert Colijn over hoe voorspellingen sneuvelen tijdens oorlog",
+    "subtitle": "NU+",
+    "published_at": "2023-04-30T17:20:54+02:00",
+    "updated_at": "2023-04-30T17:20:55+02:00",
+    "media_id": "3fuxbl1anttt",
+    "duration": null,
+    "canonical_section": {
+      "id": 1778980,
+      "slug": "spanningen-oekraine",
+      "type": "default",
+      "name": "Oorlog in Oekraïne",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/spanningen-oekraine/6261553/defensie-expert-colijn-over-hoe-voorspellingen-sneuvelen-tijdens-oorlog.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6261589,
+    "slug": "bij-israelische-demonstraties-klinkt-ook-kritiek-op-de-democratie-zoals-die-was",
+    "type": "article",
+    "title": "Bij Israëlische demonstraties klinkt ook kritiek op de democratie zoals die was",
+    "subtitle": null,
+    "published_at": "2023-04-30T17:16:29+02:00",
+    "updated_at": "2023-04-30T17:20:28+02:00",
+    "media_id": "nu9xpzuad8x1",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6261589/bij-israelische-demonstraties-klinkt-ook-kritiek-op-de-democratie-zoals-die-was.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6261641,
     "slug": "napoli-moet-kampioensfeest-uitstellen-door-late-treffer-salernitana",
     "type": "article",
     "title": "Napoli moet kampioensfeest uitstellen door late treffer Salernitana",
     "subtitle": null,
     "published_at": "2023-04-30T16:56:32+02:00",
-    "updated_at": "2023-04-30T16:56:33+02:00",
-    "media_id": "ngtxjdjav8ov",
+    "updated_at": "2023-04-30T17:23:36+02:00",
+    "media_id": "3dlxwkeacwlz",
     "duration": null,
     "canonical_section": {
       "id": 1772338,
@@ -29,7 +144,7 @@
     "title": "Ajax begint verrassend met Brobbey aan bekerfinale, PSV met verwachte elf",
     "subtitle": null,
     "published_at": "2023-04-30T16:46:21+02:00",
-    "updated_at": "2023-04-30T16:52:49+02:00",
+    "updated_at": "2023-04-30T17:17:17+02:00",
     "media_id": "3xzxdvna5j4w",
     "duration": null,
     "canonical_section": {
@@ -98,8 +213,8 @@
     "title": "Van Bommel loodst Antwerp naar bekerzege en pakt eerste prijs als hoofdtrainer",
     "subtitle": null,
     "published_at": "2023-04-30T16:28:14+02:00",
-    "updated_at": "2023-04-30T16:58:15+02:00",
-    "media_id": "3o0x71ca7tta",
+    "updated_at": "2023-04-30T17:15:33+02:00",
+    "media_id": "pmvxwsdaqg3l",
     "duration": null,
     "canonical_section": {
       "id": 1772338,
@@ -144,7 +259,7 @@
     "title": "Van Duijvenbode dag na knullig opgelopen blessure uitgeschakeld in Leeuwarden",
     "subtitle": null,
     "published_at": "2023-04-30T15:59:57+02:00",
-    "updated_at": "2023-04-30T16:25:24+02:00",
+    "updated_at": "2023-04-30T17:20:56+02:00",
     "media_id": "a07xbgqatoqk",
     "duration": null,
     "canonical_section": {
@@ -190,7 +305,7 @@
     "title": "Nyck de Vries schuldbewust na nieuwe uitvalbeurt: 'Was een heel stomme fout'",
     "subtitle": null,
     "published_at": "2023-04-30T15:54:34+02:00",
-    "updated_at": "2023-04-30T16:13:43+02:00",
+    "updated_at": "2023-04-30T17:09:29+02:00",
     "media_id": "b9jxeqwa78bg",
     "duration": null,
     "canonical_section": {
@@ -213,7 +328,7 @@
     "title": "Jake Paul verrast vriendin Jutta Leerdam met bezoek aan Nederland",
     "subtitle": null,
     "published_at": "2023-04-30T15:45:18+02:00",
-    "updated_at": "2023-04-30T16:07:14+02:00",
+    "updated_at": "2023-04-30T17:18:53+02:00",
     "media_id": "anyx89faza2p",
     "duration": null,
     "canonical_section": {
@@ -277,13 +392,13 @@
   },
   {
     "id": 6261626,
-    "slug": "de-kuip-stroomt-vol-voor-bekerfinale-tussen-ajax-en-psv",
+    "slug": "bekerfinale-tussen-psv-en-ajax-op-punt-van-beginnen",
     "type": "article",
-    "title": "De Kuip stroomt vol voor bekerfinale tussen Ajax en PSV",
+    "title": "Bekerfinale tussen PSV en Ajax op punt van beginnen",
     "subtitle": "Liveblog",
     "published_at": "2023-04-30T15:29:11+02:00",
-    "updated_at": "2023-04-30T16:59:37+02:00",
-    "media_id": "jetxt3xaqduo",
+    "updated_at": "2023-04-30T18:00:46+02:00",
+    "media_id": "a09xky6abdub",
     "duration": null,
     "canonical_section": {
       "id": 1772338,
@@ -294,7 +409,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6261626/de-kuip-stroomt-vol-voor-bekerfinale-tussen-ajax-en-psv.html",
+    "url": "/voetbal/6261626/bekerfinale-tussen-psv-en-ajax-op-punt-van-beginnen.html",
     "open_new_window": false,
     "partner": null
   },
@@ -323,13 +438,13 @@
   },
   {
     "id": 6261625,
-    "slug": "haaland-evenaart-premier-league-record-met-34e-doelpunt-van-seizoen",
+    "slug": "haaland-helpt-city-met-recordgoal-aan-koppositie-ook-driepunter-voor-ten-hag",
     "type": "article",
-    "title": "Haaland evenaart Premier League-record met 34e doelpunt van seizoen",
+    "title": "Haaland helpt City met recordgoal aan koppositie, ook driepunter voor Ten Hag",
     "subtitle": null,
     "published_at": "2023-04-30T15:24:08+02:00",
-    "updated_at": "2023-04-30T16:27:13+02:00",
-    "media_id": "h4oxbt8ak0g0",
+    "updated_at": "2023-04-30T17:12:15+02:00",
+    "media_id": "8fgxtxzauu3p",
     "duration": null,
     "canonical_section": {
       "id": 1772338,
@@ -340,7 +455,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6261625/haaland-evenaart-premier-league-record-met-34e-doelpunt-van-seizoen.html",
+    "url": "/voetbal/6261625/haaland-helpt-city-met-recordgoal-aan-koppositie-ook-driepunter-voor-ten-hag.html",
     "open_new_window": false,
     "partner": null
   },
@@ -392,12 +507,12 @@
   },
   {
     "id": 6261615,
-    "slug": "opnieuw-explosie-in-rotterdam-geld-voor-koningsdag-kon-beter-naar-beveiliging",
+    "slug": "rotterdammers-na-derde-explosie-in-de-straat-spannend-om-thuis-te-zijn",
     "type": "article",
-    "title": "Opnieuw explosie in Rotterdam: 'Geld voor Koningsdag kon beter naar beveiliging'",
+    "title": "Rotterdammers na derde explosie in de straat: 'Spannend om thuis te zijn'",
     "subtitle": null,
     "published_at": "2023-04-30T14:39:04+02:00",
-    "updated_at": "2023-04-30T16:51:16+02:00",
+    "updated_at": "2023-04-30T17:38:53+02:00",
     "media_id": "82vxihla4dd5",
     "duration": null,
     "canonical_section": {
@@ -409,7 +524,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/binnenland/6261615/opnieuw-explosie-in-rotterdam-geld-voor-koningsdag-kon-beter-naar-beveiliging.html",
+    "url": "/binnenland/6261615/rotterdammers-na-derde-explosie-in-de-straat-spannend-om-thuis-te-zijn.html",
     "open_new_window": false,
     "partner": null
   },
@@ -420,7 +535,7 @@
     "title": "Verstappen geklopt door teamgenoot Pérez in GP Azerbeidzjan, De Vries valt uit",
     "subtitle": null,
     "published_at": "2023-04-30T14:37:58+02:00",
-    "updated_at": "2023-04-30T16:44:07+02:00",
+    "updated_at": "2023-04-30T17:26:30+02:00",
     "media_id": "rvwxr1saen1c",
     "duration": null,
     "canonical_section": {
@@ -512,7 +627,7 @@
     "title": "Illegale rave in België nog steeds bezig, inmiddels zeker tienduizend feestvierders",
     "subtitle": null,
     "published_at": "2023-04-30T13:44:33+02:00",
-    "updated_at": "2023-04-30T15:00:33+02:00",
+    "updated_at": "2023-04-30T17:26:10+02:00",
     "media_id": "ndgxuycambj3",
     "duration": null,
     "canonical_section": {
@@ -558,7 +673,7 @@
     "title": "Lees hier alles over de door Pérez gewonnen race in Bakoe",
     "subtitle": "Liveblog F1",
     "published_at": "2023-04-30T12:12:38+02:00",
-    "updated_at": "2023-04-30T16:58:58+02:00",
+    "updated_at": "2023-04-30T17:02:18+02:00",
     "media_id": "txqxv4aa36wn",
     "duration": null,
     "canonical_section": {
@@ -571,121 +686,6 @@
       "partner": null
     },
     "url": "/formule-1/6261613/lees-hier-alles-over-de-door-perez-gewonnen-race-in-bakoe.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6261104,
-    "slug": "is-drake-nog-de-baas-over-zijn-stem-als-ai-ermee-aan-de-haal-gaat",
-    "type": "article",
-    "title": "Is Drake nog de baas over zijn stem als AI ermee aan de haal gaat?",
-    "subtitle": "NU+",
-    "published_at": "2023-04-30T12:10:08+02:00",
-    "updated_at": "2023-04-30T12:10:09+02:00",
-    "media_id": "vtkxv03ay4u8",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771438,
-      "slug": "tech",
-      "type": "default",
-      "name": "Tech",
-      "style": "nutech",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/tech/6261104/is-drake-nog-de-baas-over-zijn-stem-als-ai-ermee-aan-de-haal-gaat.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6261601,
-    "slug": "lid-van-een-politieke-partij-of-niet-praat-mee-over-politiek-activisme",
-    "type": "article",
-    "title": "Lid van een politieke partij of niet? Praat mee over (politiek) activisme",
-    "subtitle": null,
-    "published_at": "2023-04-30T12:01:55+02:00",
-    "updated_at": "2023-04-30T12:01:56+02:00",
-    "media_id": "1qwx86yax8s0",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779134,
-      "slug": "stelling",
-      "type": "default",
-      "name": "Stelling",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/stelling/6261601/lid-van-een-politieke-partij-of-niet-praat-mee-over-politiek-activisme.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6261611,
-    "slug": "knappe-comeback-levert-opgeleefde-luiten-derde-plaats-op-in-zuid-korea",
-    "type": "article",
-    "title": "Knappe comeback levert opgeleefde Luiten derde plaats op in Zuid-Korea",
-    "subtitle": null,
-    "published_at": "2023-04-30T11:59:53+02:00",
-    "updated_at": "2023-04-30T12:18:48+02:00",
-    "media_id": "yygxh5hazxiy",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772456,
-      "slug": "sport-overig",
-      "type": "default",
-      "name": "Sport Overig",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/sport-overig/6261611/knappe-comeback-levert-opgeleefde-luiten-derde-plaats-op-in-zuid-korea.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6261602,
-    "slug": "politie-heeft-geen-idee-wie-achter-explosies-rotterdam-zit-wisten-we-het-maar",
-    "type": "article",
-    "title": "Politie heeft geen idee wie achter explosies Rotterdam zit: 'Wisten we het maar'",
-    "subtitle": null,
-    "published_at": "2023-04-30T11:52:52+02:00",
-    "updated_at": "2023-04-30T14:49:55+02:00",
-    "media_id": "n19xy79aw007",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6261602/politie-heeft-geen-idee-wie-achter-explosies-rotterdam-zit-wisten-we-het-maar.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6261607,
-    "slug": "mia-en-dion-vol-zelfvertrouwen-naar-liverpool-na-aanpassing-songfestival-lied",
-    "type": "article",
-    "title": "Mia en Dion 'vol zelfvertrouwen' naar Liverpool na aanpassing Songfestival-lied",
-    "subtitle": null,
-    "published_at": "2023-04-30T11:48:20+02:00",
-    "updated_at": "2023-04-30T11:59:56+02:00",
-    "media_id": "5hfxykuacu33",
-    "duration": null,
-    "canonical_section": {
-      "id": 868281,
-      "slug": "muziek",
-      "type": "default",
-      "name": "Muziek",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/muziek/6261607/mia-en-dion-vol-zelfvertrouwen-naar-liverpool-na-aanpassing-songfestival-lied.html",
     "open_new_window": false,
     "partner": null
   }
