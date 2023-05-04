@@ -1,12 +1,81 @@
 [
   {
+    "id": 6262141,
+    "slug": "gascrisis-lijkt-volgens-energieagentschap-iea-grotendeels-voorbij",
+    "type": "article",
+    "title": "Gascrisis lijkt volgens energieagentschap IEA grotendeels voorbij",
+    "subtitle": null,
+    "published_at": "2023-05-04T08:54:51+02:00",
+    "updated_at": "2023-05-04T08:54:52+02:00",
+    "media_id": "vovx0rvamo3y",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6262141/gascrisis-lijkt-volgens-energieagentschap-iea-grotendeels-voorbij.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6262142,
+    "slug": "opnieuw-miljardenwinst-voor-shell-ondanks-lagere-prijzen-olie-en-gas",
+    "type": "article",
+    "title": "Opnieuw miljardenwinst voor Shell ondanks lagere prijzen olie en gas",
+    "subtitle": null,
+    "published_at": "2023-05-04T08:48:40+02:00",
+    "updated_at": "2023-05-04T09:00:17+02:00",
+    "media_id": "pc1xuuxa27xv",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6262142/opnieuw-miljardenwinst-voor-shell-ondanks-lagere-prijzen-olie-en-gas.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6262137,
+    "slug": "inheemse-leiders-willen-excuses-van-brits-koningshuis-voor-koloniaal-verleden",
+    "type": "article",
+    "title": "Inheemse leiders willen excuses van Brits koningshuis voor koloniaal verleden",
+    "subtitle": null,
+    "published_at": "2023-05-04T08:42:19+02:00",
+    "updated_at": "2023-05-04T08:50:04+02:00",
+    "media_id": "wrfx6nwau55p",
+    "duration": null,
+    "canonical_section": {
+      "id": 1778775,
+      "slug": "koningshuis",
+      "type": "default",
+      "name": "Koningshuis",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/koningshuis/6262137/inheemse-leiders-willen-excuses-van-brits-koningshuis-voor-koloniaal-verleden.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6262135,
     "slug": "recensieoverzicht-derde-guardians-of-the-galaxy-fijnste-marvel-film-in-jaren",
     "type": "article",
     "title": "Recensieoverzicht derde Guardians of the Galaxy: 'Fijnste Marvel-film in jaren'",
     "subtitle": null,
     "published_at": "2023-05-04T07:56:43+02:00",
-    "updated_at": "2023-05-04T08:00:29+02:00",
+    "updated_at": "2023-05-04T08:36:30+02:00",
     "media_id": "qtaxhyxacrhk",
     "duration": null,
     "canonical_section": {
@@ -29,19 +98,19 @@
     "title": "Tv-aanbieders komen met nieuw voorstel in strijd met ESPN om Eredivisie-rechten",
     "subtitle": null,
     "published_at": "2023-05-04T07:52:32+02:00",
-    "updated_at": "2023-05-04T07:52:33+02:00",
+    "updated_at": "2023-05-04T08:10:46+02:00",
     "media_id": "cnjxicoannks",
     "duration": null,
     "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
+      "id": 1771675,
+      "slug": "media",
       "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
+      "name": "Media",
+      "style": "nuuit",
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6262139/tv-aanbieders-komen-met-nieuw-voorstel-in-strijd-met-espn-om-eredivisie-rechten.html",
+    "url": "/media/6262139/tv-aanbieders-komen-met-nieuw-voorstel-in-strijd-met-espn-om-eredivisie-rechten.html",
     "open_new_window": false,
     "partner": null
   },
@@ -75,8 +144,8 @@
     "title": "Haaland reageert op eigen wijze na record: 'Nu naar huis, gamen en dan slapen'",
     "subtitle": null,
     "published_at": "2023-05-04T07:14:22+02:00",
-    "updated_at": "2023-05-04T07:43:02+02:00",
-    "media_id": "kglx6jzat1lo",
+    "updated_at": "2023-05-04T08:42:44+02:00",
+    "media_id": "a5dxjylag948",
     "duration": null,
     "canonical_section": {
       "id": 1772338,
@@ -167,7 +236,7 @@
     "title": "Meerdere explosies in Oekraïne na vermeende droneaanval op Kremlin",
     "subtitle": null,
     "published_at": "2023-05-04T06:11:15+02:00",
-    "updated_at": "2023-05-04T07:24:28+02:00",
+    "updated_at": "2023-05-04T08:03:42+02:00",
     "media_id": "rxhxnx6aefr7",
     "duration": null,
     "canonical_section": {
@@ -420,7 +489,7 @@
     "title": "Al bijna 130 doden door overstromingen en aardverschuivingen in Rwanda",
     "subtitle": null,
     "published_at": "2023-05-04T00:11:35+02:00",
-    "updated_at": "2023-05-04T00:11:36+02:00",
+    "updated_at": "2023-05-04T08:05:46+02:00",
     "media_id": "doox96bagkxj",
     "duration": null,
     "canonical_section": {
@@ -466,7 +535,7 @@
     "title": "Napoli moet kampioensfeest opnieuw uitstellen door overwinning van Lazio",
     "subtitle": null,
     "published_at": "2023-05-03T22:57:42+02:00",
-    "updated_at": "2023-05-03T23:43:25+02:00",
+    "updated_at": "2023-05-04T08:40:31+02:00",
     "media_id": "pjrxnjuafekm",
     "duration": null,
     "canonical_section": {
@@ -617,75 +686,6 @@
       "partner": null
     },
     "url": "/voetbal/6262114/ekkelenkamp-helpt-antwerp-en-van-bommel-richting-droomstart-in-kampioensstrijd.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6262116,
-    "slug": "zo-zag-de-tweede-repetitie-van-mia-en-dion-eruit",
-    "type": "video",
-    "title": "Zo zag de tweede repetitie van Mia en Dion eruit",
-    "subtitle": "Video",
-    "published_at": "2023-05-03T22:23:37+02:00",
-    "updated_at": "2023-05-03T22:40:48+02:00",
-    "media_id": "9xlxk9yats89",
-    "duration": "0:29",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6262116/zo-zag-de-tweede-repetitie-van-mia-en-dion-eruit.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6262115,
-    "slug": "belgisch-oekraiense-tennisster-krijgt-paniekaanval-door-alarm-hartslag-naar-200",
-    "type": "article",
-    "title": "Belgisch-Oekraïense tennisster krijgt paniekaanval door alarm: 'Hartslag naar 200'",
-    "subtitle": null,
-    "published_at": "2023-05-03T22:22:47+02:00",
-    "updated_at": "2023-05-03T23:36:41+02:00",
-    "media_id": "ut3xco9adpfh",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772432,
-      "slug": "tennis",
-      "type": "default",
-      "name": "Tennis",
-      "style": "nusport",
-      "media_id": "m1oxohpan0gq",
-      "partner": null
-    },
-    "url": "/tennis/6262115/belgisch-oekraiense-tennisster-krijgt-paniekaanval-door-alarm-hartslag-naar-200.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6262112,
-    "slug": "oekraiense-president-volodymyr-zelensky-is-onderweg-naar-nederland",
-    "type": "article",
-    "title": "Oekraïense president Volodymyr Zelensky is onderweg naar Nederland",
-    "subtitle": null,
-    "published_at": "2023-05-03T21:22:59+02:00",
-    "updated_at": "2023-05-03T23:04:33+02:00",
-    "media_id": "frixrowa433h",
-    "duration": null,
-    "canonical_section": {
-      "id": 1778980,
-      "slug": "spanningen-oekraine",
-      "type": "default",
-      "name": "Oorlog in Oekraïne",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/spanningen-oekraine/6262112/oekraiense-president-volodymyr-zelensky-is-onderweg-naar-nederland.html",
     "open_new_window": false,
     "partner": null
   }
