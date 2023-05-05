@@ -1,5 +1,97 @@
 [
   {
+    "id": 6262277,
+    "slug": "perez-wil-winst-in-bakoe-niet-ophangen-aan-safetycar-anders-had-ik-max-ingehaald",
+    "type": "article",
+    "title": "Pérez wil winst in Bakoe niet ophangen aan safetycar: 'Anders had ik Max ingehaald'",
+    "subtitle": null,
+    "published_at": "2023-05-05T12:46:07+02:00",
+    "updated_at": "2023-05-05T12:46:08+02:00",
+    "media_id": "n8sxdp2agtjh",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772449,
+      "slug": "formule-1",
+      "type": "default",
+      "name": "GP Miami",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/formule-1/6262277/perez-wil-winst-in-bakoe-niet-ophangen-aan-safetycar-anders-had-ik-max-ingehaald.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6262328,
+    "slug": "wagner-baas-woest-op-legertop-rusland-waar-blijft-de-munitie",
+    "type": "video",
+    "title": "Wagner-baas woest op legertop Rusland: 'Waar blijft de munitie?'",
+    "subtitle": "Video",
+    "published_at": "2023-05-05T12:45:19+02:00",
+    "updated_at": "2023-05-05T12:50:06+02:00",
+    "media_id": "azvxy0hahfyj",
+    "duration": "1:01",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6262328/wagner-baas-woest-op-legertop-rusland-waar-blijft-de-munitie.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6261831,
+    "slug": "ai-kan-revolutie-in-kankerzorg-ontketenen-maar-in-hoeverre-willen-we-dat",
+    "type": "article",
+    "title": "AI kan revolutie in kankerzorg ontketenen, maar in hoeverre willen we dat?",
+    "subtitle": "NU+",
+    "published_at": "2023-05-05T12:30:32+02:00",
+    "updated_at": "2023-05-05T12:34:33+02:00",
+    "media_id": "mauxx0ra2559",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779219,
+      "slug": "tech-wetenschap",
+      "type": "default",
+      "name": "Tech & Wetenschap",
+      "style": "nutech",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/tech-wetenschap/6261831/ai-kan-revolutie-in-kankerzorg-ontketenen-maar-in-hoeverre-willen-we-dat.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6262171,
+    "slug": "een-nunl-nieuwsredacteur-staat-constant-aan-je-belandt-in-een-hyperfocus",
+    "type": "article",
+    "title": "Een NU.nl-nieuwsredacteur staat constant aan: 'Je belandt in een hyperfocus'",
+    "subtitle": null,
+    "published_at": "2023-05-05T12:07:13+02:00",
+    "updated_at": "2023-05-05T12:33:01+02:00",
+    "media_id": "5ijxxkra9ihd",
+    "duration": null,
+    "canonical_section": {
+      "id": 1774275,
+      "slug": "over-nu",
+      "type": "default",
+      "name": "Over NU.nl",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/over-nu/6262171/een-nunl-nieuwsredacteur-staat-constant-aan-je-belandt-in-een-hyperfocus.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6262055,
     "slug": "hoe-vier-jij-onze-vrijheid-praat-mee-over-bevrijdingsfestivals",
     "type": "article",
@@ -75,8 +167,8 @@
     "title": "Kudus terug bij Ajax voor belangrijk duel met AZ, Berghuis twijfelgeval",
     "subtitle": null,
     "published_at": "2023-05-05T11:37:21+02:00",
-    "updated_at": "2023-05-05T12:00:44+02:00",
-    "media_id": "uayxo8iabrj2",
+    "updated_at": "2023-05-05T12:36:24+02:00",
+    "media_id": "1vwxwbiatrqm",
     "duration": null,
     "canonical_section": {
       "id": 1772338,
@@ -121,7 +213,7 @@
     "title": "Baas van Wagner Group zegt dat huurlingen Bakhmut over vijf dagen verlaten",
     "subtitle": null,
     "published_at": "2023-05-05T10:44:01+02:00",
-    "updated_at": "2023-05-05T11:20:41+02:00",
+    "updated_at": "2023-05-05T12:42:37+02:00",
     "media_id": "osoxmisaxna0",
     "duration": null,
     "canonical_section": {
@@ -236,7 +328,7 @@
     "title": "Sander Schimmelpenninck wordt vader: 'Ben er gewoon aan toe'",
     "subtitle": null,
     "published_at": "2023-05-05T09:47:05+02:00",
-    "updated_at": "2023-05-05T10:16:25+02:00",
+    "updated_at": "2023-05-05T12:43:58+02:00",
     "media_id": "t2pxuxca8bf1",
     "duration": null,
     "canonical_section": {
@@ -374,7 +466,7 @@
     "title": "Witte Huis wijst techbedrijven op hun morele plicht om AI veilig te houden",
     "subtitle": null,
     "published_at": "2023-05-05T08:48:51+02:00",
-    "updated_at": "2023-05-05T08:48:52+02:00",
+    "updated_at": "2023-05-05T12:36:54+02:00",
     "media_id": "m8fx55taotvj",
     "duration": null,
     "canonical_section": {
@@ -594,98 +686,6 @@
       "partner": null
     },
     "url": "/formule-1/6262276/zonder-dat-ze-met-elkaar-spraken-is-kou-tussen-verstappen-en-russell-uit-de-lucht.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6262279,
-    "slug": "opnieuw-schietpartij-in-servie-zeker-acht-doden-en-veertien-gewonden",
-    "type": "article",
-    "title": "Opnieuw schietpartij in Servië: zeker acht doden en veertien gewonden",
-    "subtitle": null,
-    "published_at": "2023-05-05T06:11:51+02:00",
-    "updated_at": "2023-05-05T11:01:57+02:00",
-    "media_id": "22qxw0pao0c1",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6262279/opnieuw-schietpartij-in-servie-zeker-acht-doden-en-veertien-gewonden.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6262281,
-    "slug": "weerbericht-bevrijdingsdag-vier-je-het-best-met-een-zonnebril-en-een-paraplu",
-    "type": "article",
-    "title": "Weerbericht: Bevrijdingsdag vier je het best met een zonnebril én een paraplu",
-    "subtitle": null,
-    "published_at": "2023-05-05T05:58:21+02:00",
-    "updated_at": "2023-05-05T07:29:12+02:00",
-    "media_id": "hnkxfqsa8cp8",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6262281/weerbericht-bevrijdingsdag-vier-je-het-best-met-een-zonnebril-en-een-paraplu.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6262280,
-    "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
-    "type": "article",
-    "title": "Het Woord van vandaag: Raad jij het woord van de dag?",
-    "subtitle": null,
-    "published_at": "2023-05-05T05:31:18+02:00",
-    "updated_at": "2023-05-05T05:31:19+02:00",
-    "media_id": "5orxtf5awygy",
-    "duration": null,
-    "canonical_section": {
-      "id": 1773179,
-      "slug": "uitgelicht",
-      "type": "default",
-      "name": "Uitgelicht",
-      "style": "mediapartner-external",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/uitgelicht/6262280/het-woord-van-vandaag-raad-jij-het-woord-van-de-dag.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6261874,
-    "slug": "weer-een-nieuw-album-van-ed-sheeran-hoe-blijft-hij-al-tien-jaar-zo-populair",
-    "type": "article",
-    "title": "Weer een nieuw album van Ed Sheeran: hoe blijft hij al tien jaar zo populair?",
-    "subtitle": null,
-    "published_at": "2023-05-05T05:06:11+02:00",
-    "updated_at": "2023-05-05T09:31:21+02:00",
-    "media_id": "1qdxo1xawgxc",
-    "duration": null,
-    "canonical_section": {
-      "id": 868281,
-      "slug": "muziek",
-      "type": "default",
-      "name": "Muziek",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/muziek/6261874/weer-een-nieuw-album-van-ed-sheeran-hoe-blijft-hij-al-tien-jaar-zo-populair.html",
     "open_new_window": false,
     "partner": null
   }
