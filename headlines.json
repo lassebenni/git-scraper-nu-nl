@@ -1,12 +1,81 @@
 [
   {
+    "id": 6262541,
+    "slug": "zeker-acht-mensen-gedood-bij-schietpartij-in-winkelcentrum-texas",
+    "type": "article",
+    "title": "Zeker acht mensen gedood bij schietpartij in winkelcentrum Texas",
+    "subtitle": null,
+    "published_at": "2023-05-07T06:45:06+02:00",
+    "updated_at": "2023-05-07T06:45:07+02:00",
+    "media_id": "9xixunca03rb",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6262541/zeker-acht-mensen-gedood-bij-schietpartij-in-winkelcentrum-texas.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6262540,
+    "slug": "noodtoestand-wegens-bosbranden-in-canada-duizenden-mensen-geevacueerd",
+    "type": "article",
+    "title": "Noodtoestand wegens bosbranden in Canada, duizenden mensen geëvacueerd",
+    "subtitle": null,
+    "published_at": "2023-05-07T06:26:42+02:00",
+    "updated_at": "2023-05-07T06:59:00+02:00",
+    "media_id": "pqix7drafq4r",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6262540/noodtoestand-wegens-bosbranden-in-canada-duizenden-mensen-geevacueerd.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6262357,
+    "slug": "hoe-china-steeds-vaker-mensen-opsluit-in-eigen-land",
+    "type": "video",
+    "title": "Hoe China steeds vaker mensen 'opsluit' in eigen land",
+    "subtitle": "Video",
+    "published_at": "2023-05-07T06:04:11+02:00",
+    "updated_at": "2023-05-07T06:04:12+02:00",
+    "media_id": "ghcxc63apfi5",
+    "duration": "1:53",
+    "canonical_section": {
+      "id": 1778967,
+      "slug": "uitleg",
+      "type": "default",
+      "name": "Het nieuws uitgelegd",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/uitleg/6262357/hoe-china-steeds-vaker-mensen-opsluit-in-eigen-land.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6262539,
     "slug": "weerbericht-benauwd-weer-met-een-aantal-stevige-regen-en-onweersbuien",
     "type": "article",
     "title": "Weerbericht: Benauwd weer met een aantal stevige regen- en onweersbuien",
     "subtitle": null,
     "published_at": "2023-05-07T05:48:06+02:00",
-    "updated_at": "2023-05-07T05:58:56+02:00",
+    "updated_at": "2023-05-07T06:05:17+02:00",
     "media_id": "m1nxi3la9q6r",
     "duration": null,
     "canonical_section": {
@@ -139,12 +208,12 @@
   },
   {
     "id": 6262535,
-    "slug": "verstappen-heeft-zege-ondanks-negende-startplek-nog-niet-uit-hoofd-gezet",
+    "slug": "verstappen-heeft-zege-ondanks-negende-startplek-niet-uit-hoofd-gezet",
     "type": "article",
-    "title": "Verstappen heeft zege ondanks negende startplek nog niet uit hoofd gezet",
+    "title": "Verstappen heeft zege ondanks negende startplek niet uit hoofd gezet",
     "subtitle": "NU+",
     "published_at": "2023-05-07T05:03:24+02:00",
-    "updated_at": "2023-05-07T05:32:15+02:00",
+    "updated_at": "2023-05-07T06:37:15+02:00",
     "media_id": "08wxygva9uid",
     "duration": null,
     "canonical_section": {
@@ -156,7 +225,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/algemeen/6262535/verstappen-heeft-zege-ondanks-negende-startplek-nog-niet-uit-hoofd-gezet.html",
+    "url": "/algemeen/6262535/verstappen-heeft-zege-ondanks-negende-startplek-niet-uit-hoofd-gezet.html",
     "open_new_window": false,
     "partner": null
   },
@@ -443,7 +512,7 @@
     "title": "Ajax verliest tweede plek uit zicht door gelijkspel in vermakelijke topper tegen AZ",
     "subtitle": null,
     "published_at": "2023-05-06T22:56:57+02:00",
-    "updated_at": "2023-05-06T23:28:21+02:00",
+    "updated_at": "2023-05-07T06:27:43+02:00",
     "media_id": "j1uxs8oaeugh",
     "duration": null,
     "canonical_section": {
@@ -581,7 +650,7 @@
     "title": "PSV wint bij Sparta en stelt kampioensfeest Feyenoord minstens een week uit",
     "subtitle": null,
     "published_at": "2023-05-06T20:41:17+02:00",
-    "updated_at": "2023-05-06T23:10:58+02:00",
+    "updated_at": "2023-05-07T06:29:42+02:00",
     "media_id": "8rexa6mapsx6",
     "duration": null,
     "canonical_section": {
@@ -617,75 +686,6 @@
       "partner": null
     },
     "url": "/voetbal/6262506/fraaie-assist-mazraoui-bij-zege-bayern-eerste-basisplek-gravenberch-in-maanden.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6262036,
-    "slug": "borstkankervereniging-legt-uit-zo-controleer-je-je-borsten-op-knobbeltjes",
-    "type": "article",
-    "title": "Borstkankervereniging legt uit: zo controleer je je borsten op knobbeltjes",
-    "subtitle": "NU+",
-    "published_at": "2023-05-06T20:18:02+02:00",
-    "updated_at": "2023-05-06T20:33:05+02:00",
-    "media_id": "sbhxvtja0kdl",
-    "duration": null,
-    "canonical_section": {
-      "id": 100,
-      "slug": "algemeen",
-      "type": "default",
-      "name": "Algemeen",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/algemeen/6262036/borstkankervereniging-legt-uit-zo-controleer-je-je-borsten-op-knobbeltjes.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6262472,
-    "slug": "ajax-start-met-herstelde-kudus-en-rensch-in-kraker-tegen-az-berghuis-afwezig",
-    "type": "article",
-    "title": "Ajax start met herstelde Kudus en Rensch in kraker tegen AZ, Berghuis afwezig",
-    "subtitle": null,
-    "published_at": "2023-05-06T19:51:49+02:00",
-    "updated_at": "2023-05-06T21:01:13+02:00",
-    "media_id": "h1wxbhya6j42",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6262472/ajax-start-met-herstelde-kudus-en-rensch-in-kraker-tegen-az-berghuis-afwezig.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6262502,
-    "slug": "verstappen-steekt-er-ook-in-laatste-training-met-kop-en-schouders-boven-uit",
-    "type": "article",
-    "title": "Verstappen steekt er ook in laatste training met kop en schouders boven uit",
-    "subtitle": null,
-    "published_at": "2023-05-06T19:35:59+02:00",
-    "updated_at": "2023-05-06T20:47:23+02:00",
-    "media_id": "o71x84gag5mm",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772449,
-      "slug": "formule-1",
-      "type": "default",
-      "name": "GP Miami",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/formule-1/6262502/verstappen-steekt-er-ook-in-laatste-training-met-kop-en-schouders-boven-uit.html",
     "open_new_window": false,
     "partner": null
   }
