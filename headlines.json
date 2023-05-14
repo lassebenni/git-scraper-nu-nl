@@ -1,5 +1,74 @@
 [
   {
+    "id": 6263566,
+    "slug": "schrijversstaking-hollywood-raakt-ook-broadway",
+    "type": "article",
+    "title": "Schrijversstaking Hollywood raakt ook Broadway",
+    "subtitle": null,
+    "published_at": "2023-05-14T08:55:37+02:00",
+    "updated_at": "2023-05-14T08:59:49+02:00",
+    "media_id": "wkdxivva1k56",
+    "duration": null,
+    "canonical_section": {
+      "id": 127,
+      "slug": "film",
+      "type": "default",
+      "name": "Films & Series",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/film/6263566/schrijversstaking-hollywood-raakt-ook-broadway.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6263562,
+    "slug": "finale-van-songfestival-in-jaren-niet-zo-slecht-bekeken",
+    "type": "article",
+    "title": "Finale van Songfestival in jaren niet zo slecht bekeken",
+    "subtitle": null,
+    "published_at": "2023-05-14T08:22:31+02:00",
+    "updated_at": "2023-05-14T08:47:44+02:00",
+    "media_id": "lmsxftkal36b",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772282,
+      "slug": "songfestival",
+      "type": "default",
+      "name": "Songfestival",
+      "style": "nuuit",
+      "media_id": "4a9xjerag1rk",
+      "partner": null
+    },
+    "url": "/songfestival/6263562/finale-van-songfestival-in-jaren-niet-zo-slecht-bekeken.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6263524,
+    "slug": "stelling-postcovid-patienten-moeten-ondanks-bezwaren-kuipers-landelijk-geregistreerd-worden",
+    "type": "article",
+    "title": "Stelling: Postcovid-patiënten moeten ondanks bezwaren Kuipers landelijk geregistreerd worden",
+    "subtitle": null,
+    "published_at": "2023-05-14T08:05:58+02:00",
+    "updated_at": "2023-05-14T08:06:00+02:00",
+    "media_id": "obuxxjba2qkw",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779134,
+      "slug": "stelling",
+      "type": "default",
+      "name": "Stelling",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/stelling/6263524/stelling-postcovid-patienten-moeten-ondanks-bezwaren-kuipers-landelijk-geregistreerd-worden.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6263483,
     "slug": "het-volleybalsprookje-van-vv-utrecht-vriendenteam-contributie-en-titelkandidaat",
     "type": "article",
@@ -29,7 +98,7 @@
     "title": "Weerbericht: Moederdag verloopt zonnig, warm en vrijwel overal droog",
     "subtitle": null,
     "published_at": "2023-05-14T05:45:03+02:00",
-    "updated_at": "2023-05-14T07:24:33+02:00",
+    "updated_at": "2023-05-14T08:10:16+02:00",
     "media_id": "h5wxgxuaeub1",
     "duration": null,
     "canonical_section": {
@@ -162,12 +231,12 @@
   },
   {
     "id": 6262969,
-    "slug": "turkije-naar-de-stembus-dit-kun-je-verwachten-van-de-verkiezingsdag",
+    "slug": "stembussen-in-turkije-geopend-dit-kun-je-verwachten-van-de-verkiezingsdag",
     "type": "article",
-    "title": "Turkije naar de stembus: dit kun je verwachten van de verkiezingsdag",
+    "title": "Stembussen in Turkije geopend: dit kun je verwachten van de verkiezingsdag",
     "subtitle": null,
     "published_at": "2023-05-14T04:59:28+02:00",
-    "updated_at": "2023-05-14T04:59:29+02:00",
+    "updated_at": "2023-05-14T08:27:35+02:00",
     "media_id": "ukjxv7kahzrb",
     "duration": null,
     "canonical_section": {
@@ -179,7 +248,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/buitenland/6262969/turkije-naar-de-stembus-dit-kun-je-verwachten-van-de-verkiezingsdag.html",
+    "url": "/buitenland/6262969/stembussen-in-turkije-geopend-dit-kun-je-verwachten-van-de-verkiezingsdag.html",
     "open_new_window": false,
     "partner": null
   },
@@ -190,7 +259,7 @@
     "title": "Waarom publiekslieveling Finland toch niet het Songfestival won",
     "subtitle": "Explainer",
     "published_at": "2023-05-14T04:38:14+02:00",
-    "updated_at": "2023-05-14T04:38:14+02:00",
+    "updated_at": "2023-05-14T08:08:31+02:00",
     "media_id": "nc1xsqya4o0t",
     "duration": "2:10",
     "canonical_section": {
@@ -213,7 +282,7 @@
     "title": "Nederland eindigde als dertiende in halve finale Songfestival",
     "subtitle": null,
     "published_at": "2023-05-14T02:48:08+02:00",
-    "updated_at": "2023-05-14T04:38:29+02:00",
+    "updated_at": "2023-05-14T08:06:58+02:00",
     "media_id": "9qsxl10arxd7",
     "duration": null,
     "canonical_section": {
@@ -254,12 +323,12 @@
   },
   {
     "id": 6263549,
-    "slug": "loreen-wint-voor-zweden-eurovisie-songfestival-van-2023",
+    "slug": "loreen-wint-voor-de-tweede-keer-eurovisie-songfestival-namens-zweden",
     "type": "article",
-    "title": "Loreen wint voor Zweden Eurovisie Songfestival van 2023",
+    "title": "Loreen wint voor de tweede keer Eurovisie Songfestival namens Zweden",
     "subtitle": null,
     "published_at": "2023-05-14T01:01:40+02:00",
-    "updated_at": "2023-05-14T08:00:31+02:00",
+    "updated_at": "2023-05-14T08:33:33+02:00",
     "media_id": "dgoxfmjajf79",
     "duration": null,
     "canonical_section": {
@@ -271,7 +340,7 @@
       "media_id": "4a9xjerag1rk",
       "partner": null
     },
-    "url": "/songfestival/6263549/loreen-wint-voor-zweden-eurovisie-songfestival-van-2023.html",
+    "url": "/songfestival/6263549/loreen-wint-voor-de-tweede-keer-eurovisie-songfestival-namens-zweden.html",
     "open_new_window": false,
     "partner": null
   },
@@ -282,7 +351,7 @@
     "title": "KNVB benadrukt dat FC Utrecht-RKC op last van burgemeester werd uitgespeeld",
     "subtitle": null,
     "published_at": "2023-05-14T00:01:37+02:00",
-    "updated_at": "2023-05-14T01:20:39+02:00",
+    "updated_at": "2023-05-14T08:14:35+02:00",
     "media_id": "kgaxod2a0gf9",
     "duration": null,
     "canonical_section": {
@@ -305,7 +374,7 @@
     "title": "Wapenstilstand moet humanitaire situatie in Gazastrook iets verlichten",
     "subtitle": null,
     "published_at": "2023-05-14T00:00:35+02:00",
-    "updated_at": "2023-05-14T00:18:56+02:00",
+    "updated_at": "2023-05-14T08:23:38+02:00",
     "media_id": "5tkxf6iapzy1",
     "duration": null,
     "canonical_section": {
@@ -328,7 +397,7 @@
     "title": "FC Utrecht en RKC stoppen uit protest met voetballen: 'Het is niet in verhouding'",
     "subtitle": null,
     "published_at": "2023-05-13T23:43:55+02:00",
-    "updated_at": "2023-05-14T07:55:20+02:00",
+    "updated_at": "2023-05-14T08:15:20+02:00",
     "media_id": "thkx24qauscd",
     "duration": null,
     "canonical_section": {
@@ -466,7 +535,7 @@
     "title": "Islamitische Jihad bevestigt wapenstilstand tussen Israël en Palestijnen",
     "subtitle": null,
     "published_at": "2023-05-13T21:12:56+02:00",
-    "updated_at": "2023-05-14T00:18:43+02:00",
+    "updated_at": "2023-05-14T08:03:17+02:00",
     "media_id": "atvxt59a25cn",
     "duration": null,
     "canonical_section": {
@@ -617,75 +686,6 @@
       "partner": null
     },
     "url": "/videos/6263536/vlammen-slaan-uit-loods-vol-afval-in-drachten.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6263535,
-    "slug": "bayern-sluit-opgeleefde-mazraoui-weer-in-de-armen-we-laten-hem-niet-gaan",
-    "type": "article",
-    "title": "Bayern sluit opgeleefde Mazraoui weer in de armen: 'We laten hem niet gaan'",
-    "subtitle": null,
-    "published_at": "2023-05-13T19:35:08+02:00",
-    "updated_at": "2023-05-13T19:44:03+02:00",
-    "media_id": "wjnxy5pa4058",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6263535/bayern-sluit-opgeleefde-mazraoui-weer-in-de-armen-we-laten-hem-niet-gaan.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6263534,
-    "slug": "fc-volendam-zet-reuzenstap-naar-handhaving-in-tijdelijk-gestaakt-duel-met-sparta",
-    "type": "article",
-    "title": "FC Volendam zet reuzenstap naar handhaving in tijdelijk gestaakt duel met Sparta",
-    "subtitle": null,
-    "published_at": "2023-05-13T19:29:16+02:00",
-    "updated_at": "2023-05-13T21:57:49+02:00",
-    "media_id": "9mxx9jfabs34",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6263534/fc-volendam-zet-reuzenstap-naar-handhaving-in-tijdelijk-gestaakt-duel-met-sparta.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6263533,
-    "slug": "door-oranje-bekritiseerde-lahoz-krijgt-in-spanje-erehaag-om-naderend-afscheid",
-    "type": "article",
-    "title": "Door Oranje bekritiseerde Lahoz krijgt in Spanje erehaag om naderend afscheid",
-    "subtitle": null,
-    "published_at": "2023-05-13T19:13:24+02:00",
-    "updated_at": "2023-05-13T19:42:19+02:00",
-    "media_id": "weux1mza1ot2",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6263533/door-oranje-bekritiseerde-lahoz-krijgt-in-spanje-erehaag-om-naderend-afscheid.html",
     "open_new_window": false,
     "partner": null
   }
