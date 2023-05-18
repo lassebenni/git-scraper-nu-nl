@@ -1,12 +1,81 @@
 [
   {
+    "id": 6264160,
+    "slug": "weerbericht-vrij-zonnige-maar-ietwat-frisse-hemelvaart",
+    "type": "article",
+    "title": "Weerbericht: Vrij zonnige, maar ietwat frisse Hemelvaart",
+    "subtitle": null,
+    "published_at": "2023-05-18T05:43:43+02:00",
+    "updated_at": "2023-05-18T05:43:44+02:00",
+    "media_id": "o19xhzeavxg4",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6264160/weerbericht-vrij-zonnige-maar-ietwat-frisse-hemelvaart.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6264159,
+    "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
+    "type": "article",
+    "title": "Het Woord van vandaag: Raad jij het woord van de dag?",
+    "subtitle": null,
+    "published_at": "2023-05-18T05:16:33+02:00",
+    "updated_at": "2023-05-18T05:16:35+02:00",
+    "media_id": "5orxtf5awygy",
+    "duration": null,
+    "canonical_section": {
+      "id": 1773179,
+      "slug": "uitgelicht",
+      "type": "default",
+      "name": "Uitgelicht",
+      "style": "mediapartner-external",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/uitgelicht/6264159/het-woord-van-vandaag-raad-jij-het-woord-van-de-dag.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6264074,
+    "slug": "ophef-over-eloise-in-badpak-we-moeten-wennen-aan-nieuwe-generatie-royals",
+    "type": "article",
+    "title": "Ophef over Eloise in badpak: 'We moeten wennen aan nieuwe generatie royals'",
+    "subtitle": null,
+    "published_at": "2023-05-18T05:04:29+02:00",
+    "updated_at": "2023-05-18T05:04:30+02:00",
+    "media_id": "qf1xk5hakn69",
+    "duration": null,
+    "canonical_section": {
+      "id": 1778775,
+      "slug": "koningshuis",
+      "type": "default",
+      "name": "Koningshuis",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/koningshuis/6264074/ophef-over-eloise-in-badpak-we-moeten-wennen-aan-nieuwe-generatie-royals.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6264039,
     "slug": "az-krijgt-na-18-jaar-nieuwe-kans-op-finale-het-doet-nog-steeds-pijn",
     "type": "article",
     "title": "AZ krijgt na 18 jaar nieuwe kans op finale: 'Het doet nog steeds pijn'",
     "subtitle": "NU+",
     "published_at": "2023-05-18T05:01:33+02:00",
-    "updated_at": "2023-05-18T05:01:35+02:00",
+    "updated_at": "2023-05-18T05:01:56+02:00",
     "media_id": "vxextt6atgs8",
     "duration": null,
     "canonical_section": {
@@ -144,7 +213,7 @@
     "title": "Nog geen groen licht voor landbouwakkoord, gesprekken lopen nog",
     "subtitle": null,
     "published_at": "2023-05-17T22:57:37+02:00",
-    "updated_at": "2023-05-17T23:00:00+02:00",
+    "updated_at": "2023-05-18T05:15:59+02:00",
     "media_id": "g9bx21xa3kc3",
     "duration": null,
     "canonical_section": {
@@ -236,7 +305,7 @@
     "title": "Landskampioen Ajax Vrouwen krijgt primeur met publieke huldiging in Amsterdam",
     "subtitle": null,
     "published_at": "2023-05-17T22:03:27+02:00",
-    "updated_at": "2023-05-18T00:04:26+02:00",
+    "updated_at": "2023-05-18T05:07:13+02:00",
     "media_id": "7srx22iafefl",
     "duration": null,
     "canonical_section": {
@@ -300,12 +369,12 @@
   },
   {
     "id": 6264144,
-    "slug": "extreme-regenval-na-extreme-droogte-zo-ziet-het-er-nu-uit-in-noord-italie",
+    "slug": "extreme-regenval-na-droogte-zo-ziet-het-er-nu-uit-in-noord-italie",
     "type": "article",
-    "title": "Extreme regenval na extreme droogte: zo ziet het er nu uit in Noord-Italië",
+    "title": "Extreme regenval na droogte: zo ziet het er nu uit in Noord-Italië",
     "subtitle": "In beeld",
     "published_at": "2023-05-17T21:53:50+02:00",
-    "updated_at": "2023-05-17T22:16:57+02:00",
+    "updated_at": "2023-05-18T05:06:32+02:00",
     "media_id": "xzsxr8xagxxl",
     "duration": null,
     "canonical_section": {
@@ -317,7 +386,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/buitenland/6264144/extreme-regenval-na-extreme-droogte-zo-ziet-het-er-nu-uit-in-noord-italie.html",
+    "url": "/buitenland/6264144/extreme-regenval-na-droogte-zo-ziet-het-er-nu-uit-in-noord-italie.html",
     "open_new_window": false,
     "partner": null
   },
@@ -617,75 +686,6 @@
       "partner": null
     },
     "url": "/binnenland/6264089/waarom-is-dit-nodig-en-nog-drie-vragen-over-de-hervormingen-in-de-jeugdzorg.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6264127,
-    "slug": "gezonken-titanic-in-detail-te-zien-op-nieuwe-3d-beelden",
-    "type": "video",
-    "title": "Gezonken Titanic in detail te zien op nieuwe 3D-beelden",
-    "subtitle": "Video",
-    "published_at": "2023-05-17T18:33:23+02:00",
-    "updated_at": "2023-05-17T18:33:24+02:00",
-    "media_id": "e9bx2ivabp1p",
-    "duration": "0:55",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6264127/gezonken-titanic-in-detail-te-zien-op-nieuwe-3d-beelden.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6264007,
-    "slug": "hoe-zou-jij-willen-meepraten-over-het-nieuws-op-nunl",
-    "type": "article",
-    "title": "Hoe zou jij willen meepraten over het nieuws op NU.nl?",
-    "subtitle": null,
-    "published_at": "2023-05-17T18:32:49+02:00",
-    "updated_at": "2023-05-17T18:39:57+02:00",
-    "media_id": "0whx6coa3rex",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779134,
-      "slug": "stelling",
-      "type": "default",
-      "name": "Stelling",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/stelling/6264007/hoe-zou-jij-willen-meepraten-over-het-nieuws-op-nunl.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6264124,
-    "slug": "az-ook-underdog-tegen-west-ham-wij-staan-in-de-halve-finale-anderlecht-niet",
-    "type": "article",
-    "title": "AZ ook underdog tegen West Ham: 'Wij staan in de halve finale, Anderlecht niet'",
-    "subtitle": null,
-    "published_at": "2023-05-17T18:30:50+02:00",
-    "updated_at": "2023-05-17T21:24:42+02:00",
-    "media_id": "v9cxamaaowss",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6264124/az-ook-underdog-tegen-west-ham-wij-staan-in-de-halve-finale-anderlecht-niet.html",
     "open_new_window": false,
     "partner": null
   }
