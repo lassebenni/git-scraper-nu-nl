@@ -1,12 +1,104 @@
 [
   {
-    "id": 6264323,
-    "slug": "bergrit-in-giro-verder-ingekort-vanwege-slechte-weersomstandigheden",
+    "id": 6264333,
+    "slug": "nieuwsgierige-beer-opent-voordeur-van-huis-in-vs",
+    "type": "video",
+    "title": "Nieuwsgierige beer opent voordeur van huis in VS",
+    "subtitle": "Video",
+    "published_at": "2023-05-19T12:01:27+02:00",
+    "updated_at": "2023-05-19T12:01:28+02:00",
+    "media_id": "tehxhh4ax8hi",
+    "duration": "0:35",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6264333/nieuwsgierige-beer-opent-voordeur-van-huis-in-vs.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6264332,
+    "slug": "schrijver-salman-rushdie-verschijnt-voor-het-eerst-in-openbaar-na-aanslag",
     "type": "article",
-    "title": "Bergrit in Giro verder ingekort vanwege slechte weersomstandigheden",
+    "title": "Schrijver Salman Rushdie verschijnt voor het eerst in openbaar na aanslag",
+    "subtitle": null,
+    "published_at": "2023-05-19T11:52:59+02:00",
+    "updated_at": "2023-05-19T11:53:00+02:00",
+    "media_id": "wt9xy8va0rum",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772075,
+      "slug": "cultuur-overig",
+      "type": "default",
+      "name": "Boek & Cultuur",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/cultuur-overig/6264332/schrijver-salman-rushdie-verschijnt-voor-het-eerst-in-openbaar-na-aanslag.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6264330,
+    "slug": "binnenvaart-moet-schoner-gaan-werken-bij-het-ontgassen-van-de-laadruimte",
+    "type": "article",
+    "title": "Binnenvaart moet schoner gaan werken bij het ontgassen van de laadruimte",
+    "subtitle": null,
+    "published_at": "2023-05-19T11:42:47+02:00",
+    "updated_at": "2023-05-19T11:42:48+02:00",
+    "media_id": "gj3xfa2apwj6",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6264330/binnenvaart-moet-schoner-gaan-werken-bij-het-ontgassen-van-de-laadruimte.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6264324,
+    "slug": "az-kan-nog-niet-trots-zijn-op-europees-jaar-wat-was-ik-graag-naar-praag-gegaan",
+    "type": "article",
+    "title": "AZ kan nog niet trots zijn op Europees jaar: 'Wat was ik graag naar Praag gegaan'",
+    "subtitle": null,
+    "published_at": "2023-05-19T11:31:31+02:00",
+    "updated_at": "2023-05-19T11:49:53+02:00",
+    "media_id": "o35xu0bahny9",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6264324/az-kan-nog-niet-trots-zijn-op-europees-jaar-wat-was-ik-graag-naar-praag-gegaan.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6264323,
+    "slug": "bergrit-in-giro-ditalia-verder-ingekort-vanwege-slechte-weersomstandigheden",
+    "type": "article",
+    "title": "Bergrit in Giro d'Italia verder ingekort vanwege slechte weersomstandigheden",
     "subtitle": null,
     "published_at": "2023-05-19T10:58:19+02:00",
-    "updated_at": "2023-05-19T10:58:20+02:00",
+    "updated_at": "2023-05-19T11:38:31+02:00",
     "media_id": "qrfxotdavsu2",
     "duration": null,
     "canonical_section": {
@@ -18,7 +110,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/wielrennen/6264323/bergrit-in-giro-verder-ingekort-vanwege-slechte-weersomstandigheden.html",
+    "url": "/wielrennen/6264323/bergrit-in-giro-ditalia-verder-ingekort-vanwege-slechte-weersomstandigheden.html",
     "open_new_window": false,
     "partner": null
   },
@@ -167,7 +259,7 @@
     "title": "Prins Harry en Meghan Markle eisen foto's van achtervolging door paparazzi",
     "subtitle": null,
     "published_at": "2023-05-19T10:10:52+02:00",
-    "updated_at": "2023-05-19T10:16:55+02:00",
+    "updated_at": "2023-05-19T11:53:15+02:00",
     "media_id": "645xzyfafvrb",
     "duration": null,
     "canonical_section": {
@@ -190,7 +282,7 @@
     "title": "Nog geen aanhoudingen na bestorming hoofdtribune door AZ-supporters",
     "subtitle": null,
     "published_at": "2023-05-19T09:57:31+02:00",
-    "updated_at": "2023-05-19T09:57:33+02:00",
+    "updated_at": "2023-05-19T11:36:26+02:00",
     "media_id": "xgbxvo2ae8cf",
     "duration": null,
     "canonical_section": {
@@ -213,7 +305,7 @@
     "title": "BumaStemra keerde vorig jaar opnieuw recordbedrag uit aan muziekmakers",
     "subtitle": null,
     "published_at": "2023-05-19T09:56:18+02:00",
-    "updated_at": "2023-05-19T09:56:19+02:00",
+    "updated_at": "2023-05-19T11:28:54+02:00",
     "media_id": "560x7z7a5zuf",
     "duration": null,
     "canonical_section": {
@@ -259,7 +351,7 @@
     "title": "Vijf miljoen mensen hebben goedkoper Netflix-abonnement met reclame",
     "subtitle": null,
     "published_at": "2023-05-19T09:49:11+02:00",
-    "updated_at": "2023-05-19T09:58:37+02:00",
+    "updated_at": "2023-05-19T11:37:31+02:00",
     "media_id": "cdixpbpad5jr",
     "duration": null,
     "canonical_section": {
@@ -374,7 +466,7 @@
     "title": "Leverkusen kraakt 'walgelijke' speelwijze Roma: 'Heeft niks met voetbal te maken'",
     "subtitle": null,
     "published_at": "2023-05-19T09:09:16+02:00",
-    "updated_at": "2023-05-19T09:09:17+02:00",
+    "updated_at": "2023-05-19T11:51:42+02:00",
     "media_id": "tjjxjywamzd7",
     "duration": null,
     "canonical_section": {
@@ -535,7 +627,7 @@
     "title": "Fotomodel Ireland Baldwin bevallen van eerste kind",
     "subtitle": null,
     "published_at": "2023-05-19T08:12:57+02:00",
-    "updated_at": "2023-05-19T08:16:03+02:00",
+    "updated_at": "2023-05-19T12:00:49+02:00",
     "media_id": "wk2xxubaox8k",
     "duration": null,
     "canonical_section": {
@@ -594,98 +686,6 @@
       "partner": null
     },
     "url": "/voetbal/6264275/angst-en-woede-bij-west-ham-na-rellen-familie-en-vrienden-werden-aangevallen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6264034,
-    "slug": "stelling-ik-wil-graag-op-andere-manieren-meepraten-over-het-nieuws",
-    "type": "article",
-    "title": "Stelling: Ik wil graag op andere manieren meepraten over het nieuws",
-    "subtitle": null,
-    "published_at": "2023-05-19T07:09:41+02:00",
-    "updated_at": "2023-05-19T09:24:51+02:00",
-    "media_id": "3hmxvlvakgod",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779134,
-      "slug": "stelling",
-      "type": "default",
-      "name": "Stelling",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/stelling/6264034/stelling-ik-wil-graag-op-andere-manieren-meepraten-over-het-nieuws.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6264273,
-    "slug": "dj-paul-elstak-wint-gouden-harp-voor-invloed-op-nederlandse-muziekcultuur",
-    "type": "article",
-    "title": "DJ Paul Elstak wint Gouden Harp voor invloed op Nederlandse muziekcultuur",
-    "subtitle": null,
-    "published_at": "2023-05-19T06:53:52+02:00",
-    "updated_at": "2023-05-19T07:17:55+02:00",
-    "media_id": "x9qxrgkae46v",
-    "duration": null,
-    "canonical_section": {
-      "id": 868281,
-      "slug": "muziek",
-      "type": "default",
-      "name": "Muziek",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/muziek/6264273/dj-paul-elstak-wint-gouden-harp-voor-invloed-op-nederlandse-muziekcultuur.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6264271,
-    "slug": "ontvoerde-australische-arts-88-in-burkina-faso-na-zeven-jaar-vrijgelaten",
-    "type": "article",
-    "title": "Ontvoerde Australische arts (88) in Burkina Faso na zeven jaar vrijgelaten",
-    "subtitle": null,
-    "published_at": "2023-05-19T06:20:56+02:00",
-    "updated_at": "2023-05-19T07:09:35+02:00",
-    "media_id": "r6qxeryavuyl",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6264271/ontvoerde-australische-arts-88-in-burkina-faso-na-zeven-jaar-vrijgelaten.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6264270,
-    "slug": "weerbericht-een-zonnebril-komt-vandaag-goed-van-pas",
-    "type": "article",
-    "title": "Weerbericht: Een zonnebril komt vandaag goed van pas",
-    "subtitle": null,
-    "published_at": "2023-05-19T05:32:19+02:00",
-    "updated_at": "2023-05-19T07:07:03+02:00",
-    "media_id": "xzcx6ara2mew",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6264270/weerbericht-een-zonnebril-komt-vandaag-goed-van-pas.html",
     "open_new_window": false,
     "partner": null
   }
