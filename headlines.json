@@ -1,12 +1,127 @@
 [
   {
-    "id": 6264893,
-    "slug": "weerbericht-frisse-lentebries-zorgt-net-als-gisteren-voor-koude-maar-droge-dag",
+    "id": 6264801,
+    "slug": "stelling-bij-mij-op-de-werkvloer-is-de-werkdruk-de-afgelopen-jaren-toegenomen",
     "type": "article",
-    "title": "Weerbericht: Frisse lentebries zorgt net als gisteren voor koude maar droge dag",
+    "title": "Stelling: Bij mij op de werkvloer is de werkdruk de afgelopen jaren toegenomen",
+    "subtitle": null,
+    "published_at": "2023-05-24T06:55:55+02:00",
+    "updated_at": "2023-05-24T06:55:56+02:00",
+    "media_id": "pgwx7iyaasx5",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779134,
+      "slug": "stelling",
+      "type": "default",
+      "name": "Stelling",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/stelling/6264801/stelling-bij-mij-op-de-werkvloer-is-de-werkdruk-de-afgelopen-jaren-toegenomen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6264897,
+    "slug": "amazon-ondernemer-jeff-bezos-is-verloofd-met-vriendin-lauren-sanchez",
+    "type": "article",
+    "title": "Amazon-ondernemer Jeff Bezos is verloofd met vriendin Lauren Sánchez",
+    "subtitle": null,
+    "published_at": "2023-05-24T06:49:50+02:00",
+    "updated_at": "2023-05-24T06:49:51+02:00",
+    "media_id": "s7kxk94a7wg8",
+    "duration": null,
+    "canonical_section": {
+      "id": 125,
+      "slug": "achterklap",
+      "type": "default",
+      "name": "Achterklap",
+      "style": "nuentertainment",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/achterklap/6264897/amazon-ondernemer-jeff-bezos-is-verloofd-met-vriendin-lauren-sanchez.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6264896,
+    "slug": "tumor-van-jeff-bridges-flink-geslonken-ik-had-me-al-overgegeven",
+    "type": "article",
+    "title": "Tumor van Jeff Bridges flink geslonken: 'Ik had me al overgegeven'",
+    "subtitle": null,
+    "published_at": "2023-05-24T06:36:30+02:00",
+    "updated_at": "2023-05-24T06:53:59+02:00",
+    "media_id": "yxgxfxdav2kl",
+    "duration": null,
+    "canonical_section": {
+      "id": 125,
+      "slug": "achterklap",
+      "type": "default",
+      "name": "Achterklap",
+      "style": "nuentertainment",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/achterklap/6264896/tumor-van-jeff-bridges-flink-geslonken-ik-had-me-al-overgegeven.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6264871,
+    "slug": "veranderingen-per-1-juni-wat-moet-ik-nu-met-mijn-energiecontract",
+    "type": "video",
+    "title": "Veranderingen per 1 juni: wat moet ik nu met mijn energiecontract?",
+    "subtitle": "Explainer",
+    "published_at": "2023-05-24T06:35:27+02:00",
+    "updated_at": "2023-05-24T06:35:50+02:00",
+    "media_id": "0cnxe8wa4hvb",
+    "duration": "2:29",
+    "canonical_section": {
+      "id": 100,
+      "slug": "algemeen",
+      "type": "default",
+      "name": "Algemeen",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/algemeen/6264871/veranderingen-per-1-juni-wat-moet-ik-nu-met-mijn-energiecontract.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6264895,
+    "slug": "parlement-israel-keurt-begroting-goed-ondanks-grote-weerstand-tegen-netanyahu",
+    "type": "article",
+    "title": "Parlement Israël keurt begroting goed ondanks grote weerstand tegen Netanyahu",
+    "subtitle": null,
+    "published_at": "2023-05-24T06:29:53+02:00",
+    "updated_at": "2023-05-24T06:38:28+02:00",
+    "media_id": "qkxx5t8adc0l",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6264895/parlement-israel-keurt-begroting-goed-ondanks-grote-weerstand-tegen-netanyahu.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6264893,
+    "slug": "weerbericht-frisse-lentebries-zorgt-opnieuw-voor-koude-maar-droge-dag",
+    "type": "article",
+    "title": "Weerbericht: Frisse lentebries zorgt opnieuw voor koude maar droge dag",
     "subtitle": null,
     "published_at": "2023-05-24T05:57:21+02:00",
-    "updated_at": "2023-05-24T05:57:22+02:00",
+    "updated_at": "2023-05-24T06:10:04+02:00",
     "media_id": "gnnx3hcap3eo",
     "duration": null,
     "canonical_section": {
@@ -18,7 +133,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/binnenland/6264893/weerbericht-frisse-lentebries-zorgt-net-als-gisteren-voor-koude-maar-droge-dag.html",
+    "url": "/binnenland/6264893/weerbericht-frisse-lentebries-zorgt-opnieuw-voor-koude-maar-droge-dag.html",
     "open_new_window": false,
     "partner": null
   },
@@ -144,7 +259,7 @@
     "title": "Kurkdroge regio's in Zuid-Spanje getroffen door zware regenval",
     "subtitle": null,
     "published_at": "2023-05-24T01:05:43+02:00",
-    "updated_at": "2023-05-24T01:10:27+02:00",
+    "updated_at": "2023-05-24T06:15:17+02:00",
     "media_id": "tygxyfkahmk5",
     "duration": null,
     "canonical_section": {
@@ -190,7 +305,7 @@
     "title": "FC Barcelona laat het lopen en blameert zich in tweede duel als kampioen",
     "subtitle": null,
     "published_at": "2023-05-24T00:00:41+02:00",
-    "updated_at": "2023-05-24T01:32:29+02:00",
+    "updated_at": "2023-05-24T06:25:41+02:00",
     "media_id": "d60x3m1axszv",
     "duration": null,
     "canonical_section": {
@@ -208,12 +323,12 @@
   },
   {
     "id": 6264887,
-    "slug": "racistisch-bejegende-vinicius-na-rood-niet-geschorst-valencia-door-bond-bestraft",
+    "slug": "racistisch-bejegende-vinicius-na-rood-niet-geschorst-bond-bestraft-valencia",
     "type": "article",
-    "title": "Racistisch bejegende Vinícius na rood niet geschorst, Valencia door bond bestraft",
+    "title": "Racistisch bejegende Vinícius na rood niet geschorst, bond bestraft Valencia",
     "subtitle": null,
     "published_at": "2023-05-23T23:35:22+02:00",
-    "updated_at": "2023-05-24T01:24:34+02:00",
+    "updated_at": "2023-05-24T06:22:29+02:00",
     "media_id": "w4hxu7eaxd5o",
     "duration": null,
     "canonical_section": {
@@ -225,7 +340,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6264887/racistisch-bejegende-vinicius-na-rood-niet-geschorst-valencia-door-bond-bestraft.html",
+    "url": "/voetbal/6264887/racistisch-bejegende-vinicius-na-rood-niet-geschorst-bond-bestraft-valencia.html",
     "open_new_window": false,
     "partner": null
   },
@@ -277,13 +392,13 @@
   },
   {
     "id": 6264879,
-    "slug": "peter-gillis-heeft-een-nieuwe-liefde-aan-de-haak-geslagen",
+    "slug": "peter-gillis-is-drie-maanden-na-breuk-met-ex-weer-gelukkig-in-de-liefde",
     "type": "article",
-    "title": "Peter Gillis heeft een nieuwe liefde aan de haak geslagen",
+    "title": "Peter Gillis is drie maanden na breuk met ex weer gelukkig in de liefde",
     "subtitle": null,
     "published_at": "2023-05-23T21:35:32+02:00",
-    "updated_at": "2023-05-23T21:35:34+02:00",
-    "media_id": "905xcz3aj4aw",
+    "updated_at": "2023-05-24T06:53:47+02:00",
+    "media_id": "ug8xap3a4ytf",
     "duration": null,
     "canonical_section": {
       "id": 125,
@@ -294,7 +409,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/achterklap/6264879/peter-gillis-heeft-een-nieuwe-liefde-aan-de-haak-geslagen.html",
+    "url": "/achterklap/6264879/peter-gillis-is-drie-maanden-na-breuk-met-ex-weer-gelukkig-in-de-liefde.html",
     "open_new_window": false,
     "partner": null
   },
@@ -397,7 +512,7 @@
     "title": "Voor een tientje Netflix en Viaplay kijken is voorbij met arrestatie digitale piraten",
     "subtitle": null,
     "published_at": "2023-05-23T19:15:10+02:00",
-    "updated_at": "2023-05-23T20:29:07+02:00",
+    "updated_at": "2023-05-24T06:31:21+02:00",
     "media_id": "asxxfsfahm3o",
     "duration": null,
     "canonical_section": {
@@ -571,121 +686,6 @@
       "partner": null
     },
     "url": "/sport-overig/6264856/herstelde-bol-verwacht-nog-geen-supertijden-in-eerste-weken-van-seizoen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6264857,
-    "slug": "stel-dat-minderjarig-kind-betrok-bij-sm-relatie-veroordeeld-tot-vier-jaar-cel",
-    "type": "article",
-    "title": "Stel dat minderjarig kind betrok bij sm-relatie veroordeeld tot vier jaar cel",
-    "subtitle": null,
-    "published_at": "2023-05-23T18:00:43+02:00",
-    "updated_at": "2023-05-23T18:00:46+02:00",
-    "media_id": "6cyx5rba4kke",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6264857/stel-dat-minderjarig-kind-betrok-bij-sm-relatie-veroordeeld-tot-vier-jaar-cel.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6264852,
-    "slug": "amerikaanse-journalist-blijft-drie-maanden-langer-vastzitten-in-rusland",
-    "type": "article",
-    "title": "Amerikaanse journalist blijft drie maanden langer vastzitten in Rusland",
-    "subtitle": null,
-    "published_at": "2023-05-23T17:41:16+02:00",
-    "updated_at": "2023-05-23T17:47:17+02:00",
-    "media_id": "eigxm86apa8c",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771675,
-      "slug": "media",
-      "type": "default",
-      "name": "Media",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/media/6264852/amerikaanse-journalist-blijft-drie-maanden-langer-vastzitten-in-rusland.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6264849,
-    "slug": "politie-stuit-in-zoektocht-naar-honden-van-brabantse-horrorfokker-op-drugslab",
-    "type": "article",
-    "title": "Politie stuit in zoektocht naar honden van Brabantse horrorfokker op drugslab",
-    "subtitle": null,
-    "published_at": "2023-05-23T17:33:23+02:00",
-    "updated_at": "2023-05-23T18:50:15+02:00",
-    "media_id": "xljx782atoq5",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6264849/politie-stuit-in-zoektocht-naar-honden-van-brabantse-horrorfokker-op-drugslab.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6264848,
-    "slug": "minister-wiersma-biedt-vvd-fractie-en-medewerkers-excuses-aan-voor-gedrag",
-    "type": "article",
-    "title": "Minister Wiersma biedt VVD-fractie en medewerkers excuses aan voor gedrag",
-    "subtitle": null,
-    "published_at": "2023-05-23T17:21:45+02:00",
-    "updated_at": "2023-05-23T17:21:47+02:00",
-    "media_id": "piqxj7qaykvk",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771437,
-      "slug": "politiek",
-      "type": "default",
-      "name": "Politiek",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/politiek/6264848/minister-wiersma-biedt-vvd-fractie-en-medewerkers-excuses-aan-voor-gedrag.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6264850,
-    "slug": "auto-van-spoor-getild-na-botsing-met-trein-in-bergen-op-zoom",
-    "type": "video",
-    "title": "Auto van spoor getild na botsing met trein in Bergen op Zoom",
-    "subtitle": "Video",
-    "published_at": "2023-05-23T17:16:06+02:00",
-    "updated_at": "2023-05-23T17:16:08+02:00",
-    "media_id": "5wpxoxca8vii",
-    "duration": "0:43",
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6264850/auto-van-spoor-getild-na-botsing-met-trein-in-bergen-op-zoom.html",
     "open_new_window": false,
     "partner": null
   }
