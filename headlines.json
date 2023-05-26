@@ -1,12 +1,81 @@
 [
   {
-    "id": 6265225,
-    "slug": "weerbericht-zonnige-dag-zet-de-toon-voor-zonovergoten-pinksterweekend",
+    "id": 6265102,
+    "slug": "ontgroeningen-zijn-waardevol-om-een-band-te-smeden",
     "type": "article",
-    "title": "Weerbericht: Zonnige dag zet de toon voor zonovergoten Pinksterweekend",
+    "title": "Ontgroeningen zijn waardevol om een band te smeden",
+    "subtitle": null,
+    "published_at": "2023-05-26T07:00:36+02:00",
+    "updated_at": "2023-05-26T07:00:38+02:00",
+    "media_id": "50wxitvar28o",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779134,
+      "slug": "stelling",
+      "type": "default",
+      "name": "Stelling",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/stelling/6265102/ontgroeningen-zijn-waardevol-om-een-band-te-smeden.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6265219,
+    "slug": "mercedes-rijdt-weer-met-sidepods-zo-zien-ze-eruit-en-zo-werken-ze",
+    "type": "video",
+    "title": "Mercedes rijdt weer met sidepods: zo zien ze eruit en zo werken ze",
+    "subtitle": "Explainer",
+    "published_at": "2023-05-26T06:44:34+02:00",
+    "updated_at": "2023-05-26T06:44:35+02:00",
+    "media_id": "vtgxsi9ax57h",
+    "duration": "2:05",
+    "canonical_section": {
+      "id": 1772449,
+      "slug": "formule-1",
+      "type": "default",
+      "name": "GP Monaco",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/formule-1/6265219/mercedes-rijdt-weer-met-sidepods-zo-zien-ze-eruit-en-zo-werken-ze.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6265223,
+    "slug": "van-gerwen-vindt-premier-league-record-niet-speciaal-ze-maken-er-een-ding-van",
+    "type": "article",
+    "title": "Van Gerwen vindt Premier League-record niet speciaal: 'Ze maken er een ding van'",
+    "subtitle": "NU+",
+    "published_at": "2023-05-26T06:29:08+02:00",
+    "updated_at": "2023-05-26T06:40:30+02:00",
+    "media_id": "u8tx8tna6cp4",
+    "duration": null,
+    "canonical_section": {
+      "id": 1777376,
+      "slug": "darts",
+      "type": "default",
+      "name": "Darts",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/darts/6265223/van-gerwen-vindt-premier-league-record-niet-speciaal-ze-maken-er-een-ding-van.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6265225,
+    "slug": "weerbericht-zonnige-dag-zet-de-toon-voor-prachtig-pinksterweekend",
+    "type": "article",
+    "title": "Weerbericht: Zonnige dag zet de toon voor prachtig Pinksterweekend",
     "subtitle": null,
     "published_at": "2023-05-26T05:54:18+02:00",
-    "updated_at": "2023-05-26T06:01:22+02:00",
+    "updated_at": "2023-05-26T06:43:24+02:00",
     "media_id": "ybyxqgeac5o0",
     "duration": null,
     "canonical_section": {
@@ -18,7 +87,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/binnenland/6265225/weerbericht-zonnige-dag-zet-de-toon-voor-zonovergoten-pinksterweekend.html",
+    "url": "/binnenland/6265225/weerbericht-zonnige-dag-zet-de-toon-voor-prachtig-pinksterweekend.html",
     "open_new_window": false,
     "partner": null
   },
@@ -144,8 +213,8 @@
     "title": "Verkiezingsupdate: Kan Erdogan achteroverleunen richting een overwinning?",
     "subtitle": null,
     "published_at": "2023-05-26T05:09:50+02:00",
-    "updated_at": "2023-05-26T06:00:56+02:00",
-    "media_id": "9byx291a55oa",
+    "updated_at": "2023-05-26T06:21:42+02:00",
+    "media_id": "utvxfupacsy0",
     "duration": null,
     "canonical_section": {
       "id": 1771436,
@@ -190,7 +259,7 @@
     "title": "Nederland wil in zomer beginnen met F-16-trainingen voor Oekraïners",
     "subtitle": null,
     "published_at": "2023-05-25T23:02:37+02:00",
-    "updated_at": "2023-05-25T23:44:50+02:00",
+    "updated_at": "2023-05-26T06:42:27+02:00",
     "media_id": "e7tx3pkaf5wa",
     "duration": null,
     "canonical_section": {
@@ -369,12 +438,12 @@
   },
   {
     "id": 6265203,
-    "slug": "sigrid-kaag-pinkt-traantje-weg-omdat-dochters-vrezen-voor-haar-leven",
+    "slug": "sigrid-kaag-geemotioneerd-omdat-dochters-vrezen-voor-haar-leven",
     "type": "video",
-    "title": "Sigrid Kaag pinkt traantje weg omdat dochters vrezen voor haar leven",
+    "title": "Sigrid Kaag geëmotioneerd omdat dochters vrezen voor haar leven",
     "subtitle": "Video",
     "published_at": "2023-05-25T21:00:15+02:00",
-    "updated_at": "2023-05-26T05:16:12+02:00",
+    "updated_at": "2023-05-26T06:39:32+02:00",
     "media_id": "xyhxgmray2c3",
     "duration": "0:31",
     "canonical_section": {
@@ -386,7 +455,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/videos/6265203/sigrid-kaag-pinkt-traantje-weg-omdat-dochters-vrezen-voor-haar-leven.html",
+    "url": "/videos/6265203/sigrid-kaag-geemotioneerd-omdat-dochters-vrezen-voor-haar-leven.html",
     "open_new_window": false,
     "partner": null
   },
@@ -617,75 +686,6 @@
       "partner": null
     },
     "url": "/buitenland/6265190/oprichter-oath-keepers-krijgt-de-tot-nu-toe-hoogste-straf-voor-bestorming-capitool.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6265189,
-    "slug": "thomas-dag-voor-koninginnenrit-giro-onder-de-indruk-van-roglic-hij-is-heel-sterk",
-    "type": "article",
-    "title": "Thomas dag voor koninginnenrit Giro onder de indruk van Roglic: 'Hij is heel sterk'",
-    "subtitle": null,
-    "published_at": "2023-05-25T19:31:36+02:00",
-    "updated_at": "2023-05-25T20:52:48+02:00",
-    "media_id": "nvlx2dialw80",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772339,
-      "slug": "wielrennen",
-      "type": "default",
-      "name": "Wielrennen",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/wielrennen/6265189/thomas-dag-voor-koninginnenrit-giro-onder-de-indruk-van-roglic-hij-is-heel-sterk.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6265181,
-    "slug": "az-deelt-43-stadionverboden-uit-wegens-rellen-tegen-west-ham-united",
-    "type": "article",
-    "title": "AZ deelt 43 stadionverboden uit wegens rellen tegen West Ham United",
-    "subtitle": null,
-    "published_at": "2023-05-25T18:45:50+02:00",
-    "updated_at": "2023-05-25T19:04:08+02:00",
-    "media_id": "tiux3doantxw",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6265181/az-deelt-43-stadionverboden-uit-wegens-rellen-tegen-west-ham-united.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6265179,
-    "slug": "de-vries-krijgt-na-weken-van-geruchten-kans-om-geen-verhaal-meer-te-zijn",
-    "type": "article",
-    "title": "De Vries krijgt na weken van geruchten kans om geen verhaal meer te zijn",
-    "subtitle": "NU+",
-    "published_at": "2023-05-25T18:43:47+02:00",
-    "updated_at": "2023-05-25T18:43:51+02:00",
-    "media_id": "thwxf3oae31n",
-    "duration": null,
-    "canonical_section": {
-      "id": 1778846,
-      "slug": "nu-formule-1",
-      "type": "default",
-      "name": "NU+ Formule 1",
-      "style": "nusport",
-      "media_id": "gtmxcxnaui5m",
-      "partner": null
-    },
-    "url": "/nu-formule-1/6265179/de-vries-krijgt-na-weken-van-geruchten-kans-om-geen-verhaal-meer-te-zijn.html",
     "open_new_window": false,
     "partner": null
   }
