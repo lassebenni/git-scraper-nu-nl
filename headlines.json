@@ -1,5 +1,51 @@
 [
   {
+    "id": 6265638,
+    "slug": "pole-van-verstappen-een-van-de-beste-ooit",
+    "type": "audio",
+    "title": "'Pole van Verstappen één van de beste ooit'",
+    "subtitle": "Podcast De Boordradio",
+    "published_at": "2023-05-29T01:43:24+02:00",
+    "updated_at": "2023-05-29T01:43:25+02:00",
+    "media_id": "36tx2lgapggp",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772449,
+      "slug": "formule-1",
+      "type": "default",
+      "name": "GP Monaco",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/formule-1/6265638/pole-van-verstappen-een-van-de-beste-ooit.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6265637,
+    "slug": "hoe-verstappen-bij-muren-en-vangrails-grenzen-opzocht-van-monaco",
+    "type": "video",
+    "title": "Hoe Verstappen bij muren en vangrails grenzen opzocht van Monaco",
+    "subtitle": "Explainer",
+    "published_at": "2023-05-29T01:39:31+02:00",
+    "updated_at": "2023-05-29T01:39:31+02:00",
+    "media_id": "z83xrmyai7jn",
+    "duration": "1:25",
+    "canonical_section": {
+      "id": 1772449,
+      "slug": "formule-1",
+      "type": "default",
+      "name": "GP Monaco",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/formule-1/6265637/hoe-verstappen-bij-muren-en-vangrails-grenzen-opzocht-van-monaco.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6265634,
     "slug": "succescoach-spalletti-vertrekt-na-dit-seizoen-bij-landskampioen-napoli",
     "type": "article",
@@ -75,7 +121,7 @@
     "title": "Horner vreesde voor start nog voor zege Verstappen: 'Maar Max was heel goed'",
     "subtitle": "NU+",
     "published_at": "2023-05-28T22:01:35+02:00",
-    "updated_at": "2023-05-28T22:15:23+02:00",
+    "updated_at": "2023-05-29T02:03:41+02:00",
     "media_id": "chexpkta29zy",
     "duration": null,
     "canonical_section": {
@@ -640,52 +686,6 @@
       "partner": null
     },
     "url": "/formule-1/6265234/wat-wil-jij-weten-over-de-grand-prix-van-monaco.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6265586,
-    "slug": "verstappen-houdt-hoofd-koel-in-natte-slotfase-en-wint-gp-monaco",
-    "type": "article",
-    "title": "Verstappen houdt hoofd koel in natte slotfase en wint GP Monaco",
-    "subtitle": null,
-    "published_at": "2023-05-28T16:52:45+02:00",
-    "updated_at": "2023-05-28T17:11:20+02:00",
-    "media_id": "g55xgg5ah1ac",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772449,
-      "slug": "formule-1",
-      "type": "default",
-      "name": "GP Monaco",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/formule-1/6265586/verstappen-houdt-hoofd-koel-in-natte-slotfase-en-wint-gp-monaco.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6265135,
-    "slug": "simons-samen-met-douvikas-topscorer-eredivisie-dankzij-goals-tegen-az",
-    "type": "article",
-    "title": "Simons samen met Douvikas topscorer Eredivisie dankzij goals tegen AZ",
-    "subtitle": null,
-    "published_at": "2023-05-28T16:40:32+02:00",
-    "updated_at": "2023-05-28T16:49:05+02:00",
-    "media_id": "zrrx718afpzh",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6265135/simons-samen-met-douvikas-topscorer-eredivisie-dankzij-goals-tegen-az.html",
     "open_new_window": false,
     "partner": null
   }
