@@ -1,12 +1,58 @@
 [
   {
+    "id": 6266027,
+    "slug": "acteur-danny-masterson-schuldig-verklaard-in-verkrachtingszaak",
+    "type": "article",
+    "title": "Acteur Danny Masterson schuldig verklaard in verkrachtingszaak",
+    "subtitle": null,
+    "published_at": "2023-06-01T00:09:37+02:00",
+    "updated_at": "2023-06-01T00:30:39+02:00",
+    "media_id": "byvxqvbaw2f7",
+    "duration": null,
+    "canonical_section": {
+      "id": 1778994,
+      "slug": "media-en-cultuur",
+      "type": "default",
+      "name": "Entertainment",
+      "style": "nuentertainment",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/media-en-cultuur/6266027/acteur-danny-masterson-schuldig-verklaard-in-verkrachtingszaak.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6266028,
+    "slug": "sevilla-wint-europa-league-voor-7e-keer-na-penaltys-tegen-roma-van-mourinho",
+    "type": "article",
+    "title": "Sevilla wint Europa League voor 7e keer na penalty's tegen Roma van Mourinho",
+    "subtitle": null,
+    "published_at": "2023-06-01T00:03:43+02:00",
+    "updated_at": "2023-06-01T00:13:32+02:00",
+    "media_id": "hx4xexya1ad7",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6266028/sevilla-wint-europa-league-voor-7e-keer-na-penaltys-tegen-roma-van-mourinho.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6266026,
     "slug": "griekspoor-doodziek-van-nederlaag-na-slijtageslag-van-bijna-vijf-uur-in-parijs",
     "type": "article",
     "title": "Griekspoor 'doodziek' van nederlaag na slijtageslag van bijna vijf uur in Parijs",
     "subtitle": null,
     "published_at": "2023-05-31T23:38:16+02:00",
-    "updated_at": "2023-05-31T23:44:12+02:00",
+    "updated_at": "2023-06-01T00:07:20+02:00",
     "media_id": "xpaxntja3dl9",
     "duration": null,
     "canonical_section": {
@@ -29,7 +75,7 @@
     "title": "Merendeel ExxonMobil-aandeelhouders wijst dwingende klimaataanpak af",
     "subtitle": null,
     "published_at": "2023-05-31T23:02:21+02:00",
-    "updated_at": "2023-05-31T23:12:43+02:00",
+    "updated_at": "2023-06-01T00:49:03+02:00",
     "media_id": "illx86yauwz8",
     "duration": null,
     "canonical_section": {
@@ -121,7 +167,7 @@
     "title": "Griekspoor kan net niet stunten in zinderende vijfsetter op Roland Garros",
     "subtitle": null,
     "published_at": "2023-05-31T21:37:11+02:00",
-    "updated_at": "2023-05-31T23:02:24+02:00",
+    "updated_at": "2023-06-01T00:08:35+02:00",
     "media_id": "dc1x1fmamgko",
     "duration": null,
     "canonical_section": {
@@ -254,12 +300,12 @@
   },
   {
     "id": 6266013,
-    "slug": "strafschoppen-bepalen-winnaar-in-el-finale-tussen-roma-en-sevilla",
+    "slug": "reacties-na-europa-league-winst-sevilla-ten-koste-van-roma",
     "type": "article",
-    "title": "Strafschoppen bepalen winnaar in EL-finale tussen Roma en Sevilla",
+    "title": "Reacties na Europa League-winst Sevilla ten koste van Roma",
     "subtitle": "Liveblog",
     "published_at": "2023-05-31T19:45:49+02:00",
-    "updated_at": "2023-05-31T23:51:28+02:00",
+    "updated_at": "2023-06-01T00:05:50+02:00",
     "media_id": "72lxae4a5ly3",
     "duration": null,
     "canonical_section": {
@@ -271,7 +317,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6266013/strafschoppen-bepalen-winnaar-in-el-finale-tussen-roma-en-sevilla.html",
+    "url": "/voetbal/6266013/reacties-na-europa-league-winst-sevilla-ten-koste-van-roma.html",
     "open_new_window": false,
     "partner": null
   },
@@ -420,7 +466,7 @@
     "title": "Oranjevrouwen spelen richting WK besloten oefenwedstrijd tegen jongensteam",
     "subtitle": null,
     "published_at": "2023-05-31T18:19:18+02:00",
-    "updated_at": "2023-05-31T23:59:35+02:00",
+    "updated_at": "2023-06-01T00:57:53+02:00",
     "media_id": "a25xv9kaaow0",
     "duration": null,
     "canonical_section": {
@@ -466,7 +512,7 @@
     "title": "KNVB ruziet met Europese topclubs over afstaan speelsters voor WK",
     "subtitle": null,
     "published_at": "2023-05-31T18:05:33+02:00",
-    "updated_at": "2023-05-31T19:32:30+02:00",
+    "updated_at": "2023-06-01T00:43:08+02:00",
     "media_id": "e7ex68saeg13",
     "duration": null,
     "canonical_section": {
@@ -640,52 +686,6 @@
       "partner": null
     },
     "url": "/tech-wetenschap/6265992/is-kaas-nou-echt-zo-slecht-voor-je.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6265986,
-    "slug": "dashcam-filmt-hoe-kruisraket-zonder-ontploffen-weg-in-kyiv-raakt",
-    "type": "video",
-    "title": "Dashcam filmt hoe kruisraket zonder ontploffen weg in Kyiv raakt",
-    "subtitle": "Video",
-    "published_at": "2023-05-31T16:28:57+02:00",
-    "updated_at": "2023-05-31T18:03:58+02:00",
-    "media_id": "bkjxb3max1sz",
-    "duration": "0:41",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6265986/dashcam-filmt-hoe-kruisraket-zonder-ontploffen-weg-in-kyiv-raakt.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6265982,
-    "slug": "leerplichtzaak-tegen-andre-hazes-en-monique-westenberg",
-    "type": "article",
-    "title": "Leerplichtzaak tegen André Hazes en Monique Westenberg",
-    "subtitle": null,
-    "published_at": "2023-05-31T16:18:07+02:00",
-    "updated_at": "2023-05-31T16:47:38+02:00",
-    "media_id": "xzoxnuuac9f0",
-    "duration": null,
-    "canonical_section": {
-      "id": 125,
-      "slug": "achterklap",
-      "type": "default",
-      "name": "Achterklap",
-      "style": "nuentertainment",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/achterklap/6265982/leerplichtzaak-tegen-andre-hazes-en-monique-westenberg.html",
     "open_new_window": false,
     "partner": null
   }
