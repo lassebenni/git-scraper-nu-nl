@@ -1,12 +1,127 @@
 [
   {
+    "id": 6266182,
+    "slug": "kamerleden-vinden-dat-twitter-moet-optreden-tegen-intimidatie-journalisten",
+    "type": "article",
+    "title": "Kamerleden vinden dat Twitter moet optreden tegen intimidatie journalisten",
+    "subtitle": null,
+    "published_at": "2023-06-01T20:50:29+02:00",
+    "updated_at": "2023-06-01T20:57:57+02:00",
+    "media_id": "1paxfxwal9b7",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771437,
+      "slug": "politiek",
+      "type": "default",
+      "name": "Politiek",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/politiek/6266182/kamerleden-vinden-dat-twitter-moet-optreden-tegen-intimidatie-journalisten.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6266180,
+    "slug": "fc-twente-slaat-in-slotfase-toe-tegen-heerenveen-in-strijd-om-europees-voetbal",
+    "type": "article",
+    "title": "FC Twente slaat in slotfase toe tegen Heerenveen in strijd om Europees voetbal",
+    "subtitle": null,
+    "published_at": "2023-06-01T20:48:19+02:00",
+    "updated_at": "2023-06-01T21:00:20+02:00",
+    "media_id": "8rcx610anqk7",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6266180/fc-twente-slaat-in-slotfase-toe-tegen-heerenveen-in-strijd-om-europees-voetbal.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6266178,
+    "slug": "honkballer-gooit-handschoen-met-bal-erin-naar-honk",
+    "type": "video",
+    "title": "Honkballer gooit handschoen met bal erin naar honk",
+    "subtitle": "Video",
+    "published_at": "2023-06-01T20:25:22+02:00",
+    "updated_at": "2023-06-01T20:25:24+02:00",
+    "media_id": "fsgx6fba7bwc",
+    "duration": "0:36",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6266178/honkballer-gooit-handschoen-met-bal-erin-naar-honk.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6266150,
+    "slug": "experts-over-rapport-amnesty-dit-wil-je-in-een-democratie-liever-niet",
+    "type": "article",
+    "title": "Experts over rapport Amnesty: 'Dit wil je in een democratie liever niet'",
+    "subtitle": "Gesprek van de dag",
+    "published_at": "2023-06-01T20:06:27+02:00",
+    "updated_at": "2023-06-01T20:06:29+02:00",
+    "media_id": "330xmf5asfdv",
+    "duration": null,
+    "canonical_section": {
+      "id": 1773185,
+      "slug": "nujij",
+      "type": "default",
+      "name": "Praat mee op NUjij",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/nujij/6266150/experts-over-rapport-amnesty-dit-wil-je-in-een-democratie-liever-niet.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6266144,
+    "slug": "hoe-een-rechter-bedrijfseigenaar-sanderink-buitenspel-kan-zetten",
+    "type": "article",
+    "title": "Hoe een rechter bedrijfseigenaar Sanderink buitenspel kan zetten",
+    "subtitle": null,
+    "published_at": "2023-06-01T20:05:13+02:00",
+    "updated_at": "2023-06-01T20:34:07+02:00",
+    "media_id": "aq7xoc4a5l84",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6266144/hoe-een-rechter-bedrijfseigenaar-sanderink-buitenspel-kan-zetten.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6266146,
     "slug": "snoeiharde-kritiek-op-spreidingswet-asielopvang-wij-zitten-ermee",
     "type": "article",
     "title": "Snoeiharde kritiek op spreidingswet asielopvang: 'Wij zitten ermee'",
     "subtitle": null,
     "published_at": "2023-06-01T19:47:48+02:00",
-    "updated_at": "2023-06-01T19:47:49+02:00",
+    "updated_at": "2023-06-01T20:23:46+02:00",
     "media_id": "8ltxhkna5hu3",
     "duration": null,
     "canonical_section": {
@@ -24,12 +139,12 @@
   },
   {
     "id": 6266168,
-    "slug": "russin-16-beleeft-sprookje-op-roland-garros-misschien-door-berichtje-murray",
+    "slug": "russin-16-beleeft-sprookje-op-roland-garros-misschien-door-murrays-berichtje",
     "type": "article",
-    "title": "Russin (16) beleeft sprookje op Roland Garros: 'Misschien door berichtje Murray'",
+    "title": "Russin (16) beleeft sprookje op Roland Garros: 'Misschien door Murrays berichtje'",
     "subtitle": null,
     "published_at": "2023-06-01T19:26:49+02:00",
-    "updated_at": "2023-06-01T20:00:36+02:00",
+    "updated_at": "2023-06-01T20:46:18+02:00",
     "media_id": "2zox3m1a7cbs",
     "duration": null,
     "canonical_section": {
@@ -41,7 +156,7 @@
       "media_id": "m1oxohpan0gq",
       "partner": null
     },
-    "url": "/tennis/6266168/russin-16-beleeft-sprookje-op-roland-garros-misschien-door-berichtje-murray.html",
+    "url": "/tennis/6266168/russin-16-beleeft-sprookje-op-roland-garros-misschien-door-murrays-berichtje.html",
     "open_new_window": false,
     "partner": null
   },
@@ -75,7 +190,7 @@
     "title": "Vanaf oprichting sprake van misbruik en geweld bij SOS Kinderdorpen Suriname",
     "subtitle": null,
     "published_at": "2023-06-01T18:49:33+02:00",
-    "updated_at": "2023-06-01T19:45:37+02:00",
+    "updated_at": "2023-06-01T20:38:24+02:00",
     "media_id": "0xtx8gnazlws",
     "duration": null,
     "canonical_section": {
@@ -116,13 +231,13 @@
   },
   {
     "id": 6266164,
-    "slug": "heerenveen-en-twente-na-rust-nog-in-evenwicht",
+    "slug": "utrecht-en-sparta-warmen-op-voor-tweede-wedstrijd-van-vandaag",
     "type": "article",
-    "title": "Heerenveen en Twente na rust nog in evenwicht",
+    "title": "Utrecht en Sparta warmen op voor tweede wedstrijd van vandaag",
     "subtitle": "Liveblog",
     "published_at": "2023-06-01T18:05:55+02:00",
-    "updated_at": "2023-06-01T19:55:36+02:00",
-    "media_id": "uo4xmigaltti",
+    "updated_at": "2023-06-01T20:48:03+02:00",
+    "media_id": "wmmxitnat5sq",
     "duration": null,
     "canonical_section": {
       "id": 1772338,
@@ -133,7 +248,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6266164/heerenveen-en-twente-na-rust-nog-in-evenwicht.html",
+    "url": "/voetbal/6266164/utrecht-en-sparta-warmen-op-voor-tweede-wedstrijd-van-vandaag.html",
     "open_new_window": false,
     "partner": null
   },
@@ -254,13 +369,13 @@
   },
   {
     "id": 6266148,
-    "slug": "titelverdediger-swiatek-opnieuw-zonder-setverlies-door-op-roland-garros",
+    "slug": "sinner-laat-matchpoints-liggen-in-marathonpartij-swiatek-en-gauff-met-gemak-door",
     "type": "article",
-    "title": "Titelverdediger Swiatek opnieuw zonder setverlies door op Roland Garros",
+    "title": "Sinner laat matchpoints liggen in marathonpartij, Swiatek en Gauff met gemak door",
     "subtitle": null,
     "published_at": "2023-06-01T17:15:04+02:00",
-    "updated_at": "2023-06-01T17:25:13+02:00",
-    "media_id": "85sx1ppa2r2v",
+    "updated_at": "2023-06-01T20:55:09+02:00",
+    "media_id": "47nx3gkau912",
     "duration": null,
     "canonical_section": {
       "id": 1772432,
@@ -271,7 +386,7 @@
       "media_id": "m1oxohpan0gq",
       "partner": null
     },
-    "url": "/tennis/6266148/titelverdediger-swiatek-opnieuw-zonder-setverlies-door-op-roland-garros.html",
+    "url": "/tennis/6266148/sinner-laat-matchpoints-liggen-in-marathonpartij-swiatek-en-gauff-met-gemak-door.html",
     "open_new_window": false,
     "partner": null
   },
@@ -374,7 +489,7 @@
     "title": "Verpleegkundige die patiënten zou hebben gedood komt vrij, maar blijft verdachte",
     "subtitle": null,
     "published_at": "2023-06-01T16:14:37+02:00",
-    "updated_at": "2023-06-01T19:43:32+02:00",
+    "updated_at": "2023-06-01T20:25:00+02:00",
     "media_id": "ci5xxqnan12a",
     "duration": null,
     "canonical_section": {
@@ -571,121 +686,6 @@
       "partner": null
     },
     "url": "/buitenland/6266124/duitsland-vervangt-bijna-half-miljoen-dwarsliggers-na-treinongeluk-in-beieren.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6266128,
-    "slug": "bijna-12-procent-meer-loon-voor-twaalfduizend-werknemers-in-zuivelindustrie",
-    "type": "article",
-    "title": "Bijna 12 procent meer loon voor twaalfduizend werknemers in zuivelindustrie",
-    "subtitle": null,
-    "published_at": "2023-06-01T15:13:57+02:00",
-    "updated_at": "2023-06-01T15:13:58+02:00",
-    "media_id": "kvux923ayutx",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6266128/bijna-12-procent-meer-loon-voor-twaalfduizend-werknemers-in-zuivelindustrie.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6265461,
-    "slug": "ajax-gaat-niet-verder-met-john-heitinga-als-hoofdtrainer",
-    "type": "article",
-    "title": "Ajax gaat niet verder met John Heitinga als hoofdtrainer",
-    "subtitle": null,
-    "published_at": "2023-06-01T15:11:24+02:00",
-    "updated_at": "2023-06-01T17:18:21+02:00",
-    "media_id": "supx89dakzpv",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6265461/ajax-gaat-niet-verder-met-john-heitinga-als-hoofdtrainer.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6266125,
-    "slug": "psg-zegt-kampioensfeest-af-wegens-zorgelijke-toestand-doelman-rico",
-    "type": "article",
-    "title": "PSG zegt kampioensfeest af wegens zorgelijke toestand doelman Rico",
-    "subtitle": null,
-    "published_at": "2023-06-01T14:48:46+02:00",
-    "updated_at": "2023-06-01T19:20:18+02:00",
-    "media_id": "s77xasvayh51",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6266125/psg-zegt-kampioensfeest-af-wegens-zorgelijke-toestand-doelman-rico.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6266122,
-    "slug": "gerard-sanderink-ook-geschorst-als-topman-van-bouwbedrijf-strukton",
-    "type": "article",
-    "title": "Gerard Sanderink ook geschorst als topman van bouwbedrijf Strukton",
-    "subtitle": null,
-    "published_at": "2023-06-01T14:14:25+02:00",
-    "updated_at": "2023-06-01T15:08:34+02:00",
-    "media_id": "556xqnxa9s0q",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6266122/gerard-sanderink-ook-geschorst-als-topman-van-bouwbedrijf-strukton.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6266106,
-    "slug": "sifan-hassan-staat-voor-test-op-fbk-games-na-mentaal-zware-trainingsweken",
-    "type": "article",
-    "title": "Sifan Hassan staat voor test op FBK Games na mentaal zware trainingsweken",
-    "subtitle": null,
-    "published_at": "2023-06-01T14:11:43+02:00",
-    "updated_at": "2023-06-01T14:11:44+02:00",
-    "media_id": "0ozx1t4axs8c",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772456,
-      "slug": "sport-overig",
-      "type": "default",
-      "name": "Sport Overig",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/sport-overig/6266106/sifan-hassan-staat-voor-test-op-fbk-games-na-mentaal-zware-trainingsweken.html",
     "open_new_window": false,
     "partner": null
   }
