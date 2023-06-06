@@ -1,12 +1,35 @@
 [
   {
+    "id": 6266908,
+    "slug": "poezensterilisatie-door-prik-in-plaats-van-operatie-is-veelbelovend",
+    "type": "article",
+    "title": "Poezensterilisatie door prik in plaats van operatie is veelbelovend",
+    "subtitle": null,
+    "published_at": "2023-06-07T00:13:11+02:00",
+    "updated_at": "2023-06-07T00:13:13+02:00",
+    "media_id": "ztnxdzhaj03z",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772536,
+      "slug": "dieren",
+      "type": "default",
+      "name": "Dieren",
+      "style": "nunjij",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/dieren/6266908/poezensterilisatie-door-prik-in-plaats-van-operatie-is-veelbelovend.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6266911,
     "slug": "oppositie-coalitiepartijen-houden-rutte-hand-boven-het-hoofd-in-groningendebat",
     "type": "article",
     "title": "Oppositie: Coalitiepartijen houden Rutte hand boven het hoofd in Groningendebat",
     "subtitle": null,
     "published_at": "2023-06-06T23:43:24+02:00",
-    "updated_at": "2023-06-06T23:49:12+02:00",
+    "updated_at": "2023-06-07T00:24:36+02:00",
     "media_id": "c0nxfioaic4q",
     "duration": null,
     "canonical_section": {
@@ -139,12 +162,12 @@
   },
   {
     "id": 6266880,
-    "slug": "beschuldigingen-na-ontplofte-dam-bij-kherson-fel-tegenoffensief-in-donetsk",
+    "slug": "beschuldigingen-na-ontplofte-dam-bij-kherson-offensief-in-donetsk",
     "type": "article",
-    "title": "Beschuldigingen na ontplofte dam bij Kherson | Fel tegenoffensief in Donetsk",
+    "title": "Beschuldigingen na ontplofte dam bij Kherson | Offensief in Donetsk",
     "subtitle": "Overzicht",
     "published_at": "2023-06-06T21:26:03+02:00",
-    "updated_at": "2023-06-06T21:49:40+02:00",
+    "updated_at": "2023-06-07T00:37:08+02:00",
     "media_id": "pzkxgd8a0r9b",
     "duration": null,
     "canonical_section": {
@@ -156,7 +179,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/spanningen-oekraine/6266880/beschuldigingen-na-ontplofte-dam-bij-kherson-fel-tegenoffensief-in-donetsk.html",
+    "url": "/spanningen-oekraine/6266880/beschuldigingen-na-ontplofte-dam-bij-kherson-offensief-in-donetsk.html",
     "open_new_window": false,
     "partner": null
   },
@@ -663,29 +686,6 @@
       "partner": null
     },
     "url": "/economie/6266872/shell-stopt-alweer-met-leveren-van-stroom-en-gas-bij-mensen-thuis.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6266873,
-    "slug": "dam-doorgebroken-bij-kherson-dit-zijn-de-drie-grootste-zorgen",
-    "type": "video",
-    "title": "Dam doorgebroken bij Kherson: dit zijn de drie grootste zorgen",
-    "subtitle": "Explainer",
-    "published_at": "2023-06-06T16:51:41+02:00",
-    "updated_at": "2023-06-06T17:16:30+02:00",
-    "media_id": "ttuxpx0adx2o",
-    "duration": "2:17",
-    "canonical_section": {
-      "id": 100,
-      "slug": "algemeen",
-      "type": "default",
-      "name": "Algemeen",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/algemeen/6266873/dam-doorgebroken-bij-kherson-dit-zijn-de-drie-grootste-zorgen.html",
     "open_new_window": false,
     "partner": null
   }
