@@ -1,5 +1,28 @@
 [
   {
+    "id": 6266764,
+    "slug": "hoe-apple-met-bril-van-ruim-3000-euro-de-vr-wereld-wil-veranderen",
+    "type": "video",
+    "title": "Hoe Apple met bril van ruim 3000 euro de VR-wereld wil veranderen",
+    "subtitle": "Explainer",
+    "published_at": "2023-06-06T02:26:30+02:00",
+    "updated_at": "2023-06-06T02:26:30+02:00",
+    "media_id": "bm2xokoau4v8",
+    "duration": "2:47",
+    "canonical_section": {
+      "id": 1771438,
+      "slug": "tech",
+      "type": "default",
+      "name": "Tech",
+      "style": "nutech",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/tech/6266764/hoe-apple-met-bril-van-ruim-3000-euro-de-vr-wereld-wil-veranderen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6266749,
     "slug": "vijf-kinderen-raken-gewond-bij-ernstig-ongeluk-met-taxibusje-in-zeeland",
     "type": "article",
@@ -259,7 +282,7 @@
     "title": "Nieuwe bril van Apple laat apps recht voor je ogen zweven",
     "subtitle": null,
     "published_at": "2023-06-05T20:34:47+02:00",
-    "updated_at": "2023-06-05T21:17:47+02:00",
+    "updated_at": "2023-06-06T02:27:02+02:00",
     "media_id": "f7xxqaia3n6s",
     "duration": null,
     "canonical_section": {
@@ -663,29 +686,6 @@
       "partner": null
     },
     "url": "/voetbal/6266717/oranje-begint-met-eerder-aangesloten-noppert-aan-nations-league-voorbereiding.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6266690,
-    "slug": "europees-hof-oordeelt-dat-hervorming-pools-rechtssysteem-eu-recht-schendt",
-    "type": "article",
-    "title": "Europees Hof oordeelt dat hervorming Pools rechtssysteem EU-recht schendt",
-    "subtitle": null,
-    "published_at": "2023-06-05T16:57:36+02:00",
-    "updated_at": "2023-06-05T18:11:40+02:00",
-    "media_id": "gnhxr9uap0pt",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6266690/europees-hof-oordeelt-dat-hervorming-pools-rechtssysteem-eu-recht-schendt.html",
     "open_new_window": false,
     "partner": null
   }
