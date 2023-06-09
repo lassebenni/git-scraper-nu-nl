@@ -1,13 +1,105 @@
 [
   {
+    "id": 6267245,
+    "slug": "lidl-legt-vegetarische-producten-direct-naast-vlees-om-vleeseter-te-verleiden",
+    "type": "article",
+    "title": "Lidl legt vegetarische producten direct naast vlees om vleeseter te verleiden",
+    "subtitle": null,
+    "published_at": "2023-06-09T07:48:56+02:00",
+    "updated_at": "2023-06-09T07:59:50+02:00",
+    "media_id": "2cpx890aqy28",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6267245/lidl-legt-vegetarische-producten-direct-naast-vlees-om-vleeseter-te-verleiden.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6267242,
+    "slug": "dag-na-aantreffen-verdachte-pakketjes-explosies-in-arnhems-winkelcentrum",
+    "type": "article",
+    "title": "Dag na aantreffen verdachte pakketjes explosies in Arnhems winkelcentrum",
+    "subtitle": null,
+    "published_at": "2023-06-09T07:10:38+02:00",
+    "updated_at": "2023-06-09T07:45:40+02:00",
+    "media_id": "nv6xzdoaqsmd",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6267242/dag-na-aantreffen-verdachte-pakketjes-explosies-in-arnhems-winkelcentrum.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6267243,
+    "slug": "groot-deel-curacao-heeft-weer-stroom-na-urenlange-storing",
+    "type": "article",
+    "title": "Groot deel Curaçao heeft weer stroom na urenlange storing",
+    "subtitle": null,
+    "published_at": "2023-06-09T07:06:54+02:00",
+    "updated_at": "2023-06-09T07:45:47+02:00",
+    "media_id": "buexqvka3m6k",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6267243/groot-deel-curacao-heeft-weer-stroom-na-urenlange-storing.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6267152,
+    "slug": "stelling-chatgpt-is-een-geoorloofd-hulpmiddel-voor-afstuderende-studenten",
+    "type": "article",
+    "title": "Stelling: ChatGPT is een geoorloofd hulpmiddel voor afstuderende studenten",
+    "subtitle": null,
+    "published_at": "2023-06-09T07:03:08+02:00",
+    "updated_at": "2023-06-09T07:03:09+02:00",
+    "media_id": "j34xxxuaprvb",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779134,
+      "slug": "stelling",
+      "type": "default",
+      "name": "Stelling",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/stelling/6267152/stelling-chatgpt-is-een-geoorloofd-hulpmiddel-voor-afstuderende-studenten.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6267240,
     "slug": "handbalster-estavana-polman-debuteert-als-presentatrice-in-beter-laat-dan-nooit",
     "type": "article",
     "title": "Handbalster Estavana Polman debuteert als presentatrice in Beter Laat Dan Nooit",
     "subtitle": null,
     "published_at": "2023-06-09T06:16:07+02:00",
-    "updated_at": "2023-06-09T06:16:08+02:00",
-    "media_id": "dw4x2ewa8sfo",
+    "updated_at": "2023-06-09T07:46:49+02:00",
+    "media_id": "lilx826akk7s",
     "duration": null,
     "canonical_section": {
       "id": 1771675,
@@ -29,7 +121,7 @@
     "title": "Weerbericht: Warm en flink wat zon, lokaal kans op tropische temperaturen",
     "subtitle": null,
     "published_at": "2023-06-09T06:08:26+02:00",
-    "updated_at": "2023-06-09T06:32:24+02:00",
+    "updated_at": "2023-06-09T07:02:03+02:00",
     "media_id": "brdxhuvas0vl",
     "duration": null,
     "canonical_section": {
@@ -144,7 +236,7 @@
     "title": "Overheid helpt mensen in de bijstand niet altijd goed genoeg",
     "subtitle": null,
     "published_at": "2023-06-09T05:08:21+02:00",
-    "updated_at": "2023-06-09T05:08:22+02:00",
+    "updated_at": "2023-06-09T07:58:13+02:00",
     "media_id": "n3txs0maw18x",
     "duration": null,
     "canonical_section": {
@@ -236,7 +328,7 @@
     "title": "Trump opnieuw aangeklaagd, nu voor opslag geheime documenten op landgoed",
     "subtitle": null,
     "published_at": "2023-06-09T02:42:57+02:00",
-    "updated_at": "2023-06-09T06:59:30+02:00",
+    "updated_at": "2023-06-09T07:30:08+02:00",
     "media_id": "63zx9e5azzns",
     "duration": null,
     "canonical_section": {
@@ -282,7 +374,7 @@
     "title": "Meer samenwerking tussen VS en VK om Rusland en China tegenwicht te bieden",
     "subtitle": null,
     "published_at": "2023-06-09T00:38:07+02:00",
-    "updated_at": "2023-06-09T00:39:13+02:00",
+    "updated_at": "2023-06-09T07:18:56+02:00",
     "media_id": "nkex85zaqa9o",
     "duration": null,
     "canonical_section": {
@@ -328,7 +420,7 @@
     "title": "Gemaskerde held Zerrouki redt FC Twente: 'Ik hou dat ding komende tijd maar op'",
     "subtitle": null,
     "published_at": "2023-06-08T23:33:30+02:00",
-    "updated_at": "2023-06-08T23:38:02+02:00",
+    "updated_at": "2023-06-09T07:51:49+02:00",
     "media_id": "8pexxggat8an",
     "duration": null,
     "canonical_section": {
@@ -594,98 +686,6 @@
       "partner": null
     },
     "url": "/film/6267213/eva-jinek-scoort-rol-in-nieuwe-grote-sinterklaasfilm.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6267211,
-    "slug": "fifa-gaat-wk-speelsters-individueel-belonen-250000-euro-per-persoon-bij-titel",
-    "type": "article",
-    "title": "FIFA gaat WK-speelsters individueel belonen: 250.000 euro per persoon bij titel",
-    "subtitle": null,
-    "published_at": "2023-06-08T20:29:26+02:00",
-    "updated_at": "2023-06-08T20:46:56+02:00",
-    "media_id": "c6qxtheayjzw",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6267211/fifa-gaat-wk-speelsters-individueel-belonen-250000-euro-per-persoon-bij-titel.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6267207,
-    "slug": "vingegaard-emotioneel-na-zege-in-dauphine-wielrennen-is-nu-even-onbelangrijk",
-    "type": "article",
-    "title": "Vingegaard emotioneel na zege in Dauphiné: 'Wielrennen is nu even onbelangrijk'",
-    "subtitle": null,
-    "published_at": "2023-06-08T20:06:21+02:00",
-    "updated_at": "2023-06-08T20:15:47+02:00",
-    "media_id": "cnsxct5azb06",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772339,
-      "slug": "wielrennen",
-      "type": "default",
-      "name": "Wielrennen",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/wielrennen/6267207/vingegaard-emotioneel-na-zege-in-dauphine-wielrennen-is-nu-even-onbelangrijk.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6266815,
-    "slug": "hier-kun-je-aankloppen-voor-financiele-sociale-of-mentale-hulp",
-    "type": "article",
-    "title": "Hier kun je aankloppen voor financiële, sociale of mentale hulp",
-    "subtitle": "NU+",
-    "published_at": "2023-06-08T19:59:43+02:00",
-    "updated_at": "2023-06-08T21:50:22+02:00",
-    "media_id": "pjoxbg0a1e19",
-    "duration": null,
-    "canonical_section": {
-      "id": 1146768,
-      "slug": "gezondheid",
-      "type": "default",
-      "name": "Gezondheid",
-      "style": "nunjij",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/gezondheid/6266815/hier-kun-je-aankloppen-voor-financiele-sociale-of-mentale-hulp.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6267184,
-    "slug": "damramp-oekraine-tussen-de-kogels-door-hulp-proberen-te-bieden",
-    "type": "article",
-    "title": "Damramp Oekraïne: 'Tussen de kogels door hulp proberen te bieden'",
-    "subtitle": "NU+",
-    "published_at": "2023-06-08T19:58:52+02:00",
-    "updated_at": "2023-06-08T20:33:18+02:00",
-    "media_id": "mllx28ra0jq3",
-    "duration": null,
-    "canonical_section": {
-      "id": 1778980,
-      "slug": "spanningen-oekraine",
-      "type": "default",
-      "name": "Oorlog in Oekraïne",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/spanningen-oekraine/6267184/damramp-oekraine-tussen-de-kogels-door-hulp-proberen-te-bieden.html",
     "open_new_window": false,
     "partner": null
   }
