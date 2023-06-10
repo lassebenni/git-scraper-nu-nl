@@ -1,5 +1,51 @@
 [
   {
+    "id": 6267508,
+    "slug": "weer-een-explosie-in-rotterdam-geen-gewonden",
+    "type": "article",
+    "title": "Weer een explosie in Rotterdam, geen gewonden",
+    "subtitle": null,
+    "published_at": "2023-06-11T00:25:19+02:00",
+    "updated_at": "2023-06-11T00:25:20+02:00",
+    "media_id": "rftxxvuanih9",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6267508/weer-een-explosie-in-rotterdam-geen-gewonden.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6267507,
+    "slug": "cl-winnaar-city-pas-maandag-gehuldigd-met-bustour-ake-voorlopig-niet-bij-oranje",
+    "type": "article",
+    "title": "CL-winnaar City pas maandag gehuldigd met bustour: Aké voorlopig niet bij Oranje",
+    "subtitle": null,
+    "published_at": "2023-06-11T00:11:15+02:00",
+    "updated_at": "2023-06-11T00:17:33+02:00",
+    "media_id": "s8lx324ah5cu",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6267507/cl-winnaar-city-pas-maandag-gehuldigd-met-bustour-ake-voorlopig-niet-bij-oranje.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6267506,
     "slug": "ake-uitzinnig-na-champions-league-winst-dit-was-een-perfect-seizoen",
     "type": "article",
@@ -98,7 +144,7 @@
     "title": "Aké volgt Van Dijk op en is 19e Nederlandse winnaar ooit in CL-finale",
     "subtitle": null,
     "published_at": "2023-06-10T22:58:31+02:00",
-    "updated_at": "2023-06-10T23:41:14+02:00",
+    "updated_at": "2023-06-11T00:22:51+02:00",
     "media_id": "k8nx7o0ah96e",
     "duration": null,
     "canonical_section": {
@@ -121,7 +167,7 @@
     "title": "Aké en Manchester City verslaan Inter en veroveren langverwachte Champions League",
     "subtitle": null,
     "published_at": "2023-06-10T22:55:53+02:00",
-    "updated_at": "2023-06-10T23:39:05+02:00",
+    "updated_at": "2023-06-11T00:07:34+02:00",
     "media_id": "4spxumqa80gm",
     "duration": null,
     "canonical_section": {
@@ -282,7 +328,7 @@
     "title": "City-spelers uitzinnig na zwaarbevochten winst op Inter in CL-finale",
     "subtitle": "Liveblog",
     "published_at": "2023-06-10T19:44:41+02:00",
-    "updated_at": "2023-06-10T23:39:31+02:00",
+    "updated_at": "2023-06-11T00:22:24+02:00",
     "media_id": "6rqxjsgaootd",
     "duration": null,
     "canonical_section": {
@@ -640,52 +686,6 @@
       "partner": null
     },
     "url": "/videos/6267481/63-jarige-argentijnse-ramt-lantaarnpaal-tijdens-rijexamen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6267480,
-    "slug": "hockeyers-herstellen-zich-tegen-koploper-india-van-grootste-thuisnederlaag-ooit",
-    "type": "article",
-    "title": "Hockeyers herstellen zich tegen koploper India van grootste thuisnederlaag ooit",
-    "subtitle": null,
-    "published_at": "2023-06-10T17:19:50+02:00",
-    "updated_at": "2023-06-10T20:47:16+02:00",
-    "media_id": "s1pxxpna13i0",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772456,
-      "slug": "sport-overig",
-      "type": "default",
-      "name": "Sport Overig",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/sport-overig/6267480/hockeyers-herstellen-zich-tegen-koploper-india-van-grootste-thuisnederlaag-ooit.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6265317,
-    "slug": "wat-is-nou-eigenlijk-de-rol-van-ridouan-taghis-nieuwe-advocaat",
-    "type": "article",
-    "title": "Wat is nou eigenlijk de rol van Ridouan Taghi's nieuwe advocaat?",
-    "subtitle": "NU+",
-    "published_at": "2023-06-10T17:04:46+02:00",
-    "updated_at": "2023-06-10T17:04:47+02:00",
-    "media_id": "39hxxk1au6ao",
-    "duration": null,
-    "canonical_section": {
-      "id": 1778794,
-      "slug": "marengo-proces",
-      "type": "default",
-      "name": "Marengo-proces",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/marengo-proces/6265317/wat-is-nou-eigenlijk-de-rol-van-ridouan-taghis-nieuwe-advocaat.html",
     "open_new_window": false,
     "partner": null
   }
