@@ -1,5 +1,28 @@
 [
   {
+    "id": 6267329,
+    "slug": "kyiv-steeds-vaker-aangevallen-zo-wordt-de-stad-beschermd",
+    "type": "video",
+    "title": "Kyiv steeds vaker aangevallen, zo wordt de stad beschermd",
+    "subtitle": "Explainer",
+    "published_at": "2023-06-11T06:23:26+02:00",
+    "updated_at": "2023-06-11T06:23:27+02:00",
+    "media_id": "425x2iza92oy",
+    "duration": "1:52",
+    "canonical_section": {
+      "id": 1778980,
+      "slug": "spanningen-oekraine",
+      "type": "default",
+      "name": "Oorlog in Oekraïne",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/spanningen-oekraine/6267329/kyiv-steeds-vaker-aangevallen-zo-wordt-de-stad-beschermd.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6267511,
     "slug": "tunesie-zegt-voor-migratietop-al-dat-het-geen-grenswacht-van-europa-wil-zijn",
     "type": "article",
@@ -374,7 +397,7 @@
     "title": "Na Boris Johnson stappen nog twee Britse parlementsleden op",
     "subtitle": null,
     "published_at": "2023-06-10T20:28:05+02:00",
-    "updated_at": "2023-06-10T20:37:45+02:00",
+    "updated_at": "2023-06-11T06:24:08+02:00",
     "media_id": "4u0xsoia426e",
     "duration": null,
     "canonical_section": {
@@ -512,7 +535,7 @@
     "title": "'Unabomber' Ted Kaczynski op 81-jarige leeftijd dood gevonden in gevangenis",
     "subtitle": null,
     "published_at": "2023-06-10T19:23:42+02:00",
-    "updated_at": "2023-06-10T22:33:23+02:00",
+    "updated_at": "2023-06-11T06:18:05+02:00",
     "media_id": "8w7xx5ya54c3",
     "duration": null,
     "canonical_section": {
@@ -663,29 +686,6 @@
       "partner": null
     },
     "url": "/binnenland/6267490/brand-in-ter-aar-kon-zo-groot-worden-door-twee-brandhaarden.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6267488,
-    "slug": "reddingsbrigade-en-anwb-erg-druk-door-de-hitte-festivals-verlopen-probleemloos",
-    "type": "article",
-    "title": "Reddingsbrigade en ANWB erg druk door de hitte, festivals verlopen probleemloos",
-    "subtitle": null,
-    "published_at": "2023-06-10T18:26:58+02:00",
-    "updated_at": "2023-06-11T05:18:05+02:00",
-    "media_id": "9tgxdv9a218n",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6267488/reddingsbrigade-en-anwb-erg-druk-door-de-hitte-festivals-verlopen-probleemloos.html",
     "open_new_window": false,
     "partner": null
   }
