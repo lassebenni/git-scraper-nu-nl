@@ -1,5 +1,28 @@
 [
   {
+    "id": 6268135,
+    "slug": "2022-was-opnieuw-een-stralend-jaar-voor-zonne-energie",
+    "type": "article",
+    "title": "2022 was opnieuw een stralend jaar voor zonne-energie",
+    "subtitle": null,
+    "published_at": "2023-06-16T00:03:36+02:00",
+    "updated_at": "2023-06-16T00:03:37+02:00",
+    "media_id": "4hcxe7xa4z5q",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772754,
+      "slug": "klimaat",
+      "type": "default",
+      "name": "Klimaat",
+      "style": "nuzakelijk",
+      "media_id": "kf4x3b2agsxg",
+      "partner": null
+    },
+    "url": "/klimaat/6268135/2022-was-opnieuw-een-stralend-jaar-voor-zonne-energie.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6268197,
     "slug": "analyse-ouderwets-formule-1-fenomeen-past-niet-bij-wat-de-sport-wil-zijn",
     "type": "article",
@@ -24,12 +47,12 @@
   },
   {
     "id": 6268195,
-    "slug": "meerdere-doden-bij-zwaar-ongeluk-tussen-vrachtwagen-en-bus-in-canada",
+    "slug": "zeker-vijftien-doden-bij-zwaar-ongeluk-tussen-vrachtwagen-en-bus-in-canada",
     "type": "article",
-    "title": "Meerdere doden bij zwaar ongeluk tussen vrachtwagen en bus in Canada",
+    "title": "Zeker vijftien doden bij zwaar ongeluk tussen vrachtwagen en bus in Canada",
     "subtitle": null,
     "published_at": "2023-06-15T23:06:14+02:00",
-    "updated_at": "2023-06-15T23:11:05+02:00",
+    "updated_at": "2023-06-16T00:12:25+02:00",
     "media_id": "c0txr64adchw",
     "duration": null,
     "canonical_section": {
@@ -41,7 +64,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/buitenland/6268195/meerdere-doden-bij-zwaar-ongeluk-tussen-vrachtwagen-en-bus-in-canada.html",
+    "url": "/buitenland/6268195/zeker-vijftien-doden-bij-zwaar-ongeluk-tussen-vrachtwagen-en-bus-in-canada.html",
     "open_new_window": false,
     "partner": null
   },
@@ -443,7 +466,7 @@
     "title": "KLM Groep wil overlast rond Schiphol verminderen met nieuwe vloot",
     "subtitle": null,
     "published_at": "2023-06-15T19:07:40+02:00",
-    "updated_at": "2023-06-15T21:58:00+02:00",
+    "updated_at": "2023-06-16T00:05:44+02:00",
     "media_id": "oqaxy46au5df",
     "duration": null,
     "canonical_section": {
@@ -663,29 +686,6 @@
       "partner": null
     },
     "url": "/economie/6268156/tonys-chocolonely-komt-grotendeels-in-handen-van-belgische-bierfamilie.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6268159,
-    "slug": "dankzij-3d-printer-kan-defensie-reserveonderdelen-thuislaten",
-    "type": "video",
-    "title": "Dankzij 3D-printer kan Defensie reserveonderdelen thuislaten",
-    "subtitle": "Video",
-    "published_at": "2023-06-15T17:36:49+02:00",
-    "updated_at": "2023-06-15T17:36:51+02:00",
-    "media_id": "fkaxjfdagzlv",
-    "duration": "1:17",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6268159/dankzij-3d-printer-kan-defensie-reserveonderdelen-thuislaten.html",
     "open_new_window": false,
     "partner": null
   }
