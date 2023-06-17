@@ -1,13 +1,59 @@
 [
   {
-    "id": 6268384,
-    "slug": "overblijfselen-nieuwe-dinosaurussoort-ontdekt-in-chili",
+    "id": 6268389,
+    "slug": "luchtvaartsector-wijst-op-noodzaak-meer-subsidie-voor-schonere-brandstof",
     "type": "article",
-    "title": "Overblijfselen nieuwe dinosaurussoort ontdekt in Chili",
+    "title": "Luchtvaartsector wijst op noodzaak meer subsidie voor schonere brandstof",
     "subtitle": null,
-    "published_at": "2023-06-17T06:44:43+02:00",
-    "updated_at": "2023-06-17T06:57:25+02:00",
-    "media_id": "az1xwcbakn0k",
+    "published_at": "2023-06-17T07:38:18+02:00",
+    "updated_at": "2023-06-17T07:56:20+02:00",
+    "media_id": "rr9xca5a0d01",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6268389/luchtvaartsector-wijst-op-noodzaak-meer-subsidie-voor-schonere-brandstof.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6268388,
+    "slug": "recordaantal-bouwplaatsen-biedt-een-kijkje-achter-de-schermen",
+    "type": "article",
+    "title": "Recordaantal bouwplaatsen biedt een kijkje achter de schermen",
+    "subtitle": null,
+    "published_at": "2023-06-17T07:28:39+02:00",
+    "updated_at": "2023-06-17T07:36:24+02:00",
+    "media_id": "ic2xfryajdu1",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6268388/recordaantal-bouwplaatsen-biedt-een-kijkje-achter-de-schermen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6268386,
+    "slug": "eerste-persoon-die-diagnose-autisme-kreeg-overleden-op-89-jarige-leeftijd",
+    "type": "article",
+    "title": "Eerste persoon die diagnose autisme kreeg overleden op 89-jarige leeftijd",
+    "subtitle": null,
+    "published_at": "2023-06-17T07:22:36+02:00",
+    "updated_at": "2023-06-17T07:22:38+02:00",
+    "media_id": "94ux1k1anc3w",
     "duration": null,
     "canonical_section": {
       "id": 1771436,
@@ -18,7 +64,53 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/buitenland/6268384/overblijfselen-nieuwe-dinosaurussoort-ontdekt-in-chili.html",
+    "url": "/buitenland/6268386/eerste-persoon-die-diagnose-autisme-kreeg-overleden-op-89-jarige-leeftijd.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6268385,
+    "slug": "drukte-op-spoor-amsterdam-verwacht-door-concerten-beyonce-en-onderhoud",
+    "type": "article",
+    "title": "Drukte op spoor Amsterdam verwacht door concerten Beyoncé en onderhoud",
+    "subtitle": null,
+    "published_at": "2023-06-17T07:05:47+02:00",
+    "updated_at": "2023-06-17T07:05:49+02:00",
+    "media_id": "4g4xohxahjhb",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6268385/drukte-op-spoor-amsterdam-verwacht-door-concerten-beyonce-en-onderhoud.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6268384,
+    "slug": "overblijfselen-onbekende-dinosaurussoort-ontdekt-in-chili",
+    "type": "article",
+    "title": "Overblijfselen onbekende dinosaurussoort ontdekt in Chili",
+    "subtitle": null,
+    "published_at": "2023-06-17T06:44:43+02:00",
+    "updated_at": "2023-06-17T07:35:43+02:00",
+    "media_id": "az1xwcbakn0k",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779219,
+      "slug": "tech-wetenschap",
+      "type": "default",
+      "name": "Tech & Wetenschap",
+      "style": "nutech",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/tech-wetenschap/6268384/overblijfselen-onbekende-dinosaurussoort-ontdekt-in-chili.html",
     "open_new_window": false,
     "partner": null
   },
@@ -47,12 +139,12 @@
   },
   {
     "id": 6268295,
-    "slug": "weer-een-ruzie-tussen-wagner-en-de-legertop-wordt-deze-cruciaal",
+    "slug": "wagner-baas-heeft-lak-aan-nieuwe-russische-eis-dit-speelt-er",
     "type": "video",
-    "title": "Wéér een ruzie tussen Wagner en de legertop, wordt deze cruciaal?",
+    "title": "Wagner-baas heeft lak aan nieuwe Russische eis: dit speelt er",
     "subtitle": "Explainer",
     "published_at": "2023-06-17T05:34:10+02:00",
-    "updated_at": "2023-06-17T05:34:11+02:00",
+    "updated_at": "2023-06-17T07:46:20+02:00",
     "media_id": "lc9xl4ua9o06",
     "duration": "2:28",
     "canonical_section": {
@@ -64,7 +156,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/algemeen/6268295/weer-een-ruzie-tussen-wagner-en-de-legertop-wordt-deze-cruciaal.html",
+    "url": "/algemeen/6268295/wagner-baas-heeft-lak-aan-nieuwe-russische-eis-dit-speelt-er.html",
     "open_new_window": false,
     "partner": null
   },
@@ -139,12 +231,12 @@
   },
   {
     "id": 6267800,
-    "slug": "masmeijer-wil-drugszaak-achter-zich-laten-iedereen-verdient-een-tweede-kans",
+    "slug": "documaker-volgde-masmeijer-dingen-die-hem-niet-bevallen-wil-hij-er-niet-in",
     "type": "article",
-    "title": "Masmeijer wil drugszaak achter zich laten: 'Iedereen verdient een tweede kans'",
+    "title": "Documaker volgde Masmeijer: 'Dingen die hem niet bevallen, wil hij er niet in'",
     "subtitle": null,
     "published_at": "2023-06-17T05:00:56+02:00",
-    "updated_at": "2023-06-17T05:00:57+02:00",
+    "updated_at": "2023-06-17T07:43:24+02:00",
     "media_id": "zt2xggjanh8s",
     "duration": null,
     "canonical_section": {
@@ -156,18 +248,18 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/achterklap/6267800/masmeijer-wil-drugszaak-achter-zich-laten-iedereen-verdient-een-tweede-kans.html",
+    "url": "/achterklap/6267800/documaker-volgde-masmeijer-dingen-die-hem-niet-bevallen-wil-hij-er-niet-in.html",
     "open_new_window": false,
     "partner": null
   },
   {
     "id": 6268238,
-    "slug": "belgie-wil-op-italiaanse-wijze-drugsmaffia-breken-dat-zijn-we-verdomde-verplicht",
+    "slug": "belgische-justitieminister-wil-nederlandse-drugsmaffia-breken-met-keiharde-aanpak",
     "type": "article",
-    "title": "België wil op Italiaanse wijze drugsmaffia breken: 'Dat zijn we verdomde verplicht'",
+    "title": "Belgische justitieminister wil (Nederlandse) drugsmaffia breken met keiharde aanpak",
     "subtitle": null,
     "published_at": "2023-06-17T04:59:56+02:00",
-    "updated_at": "2023-06-17T04:59:57+02:00",
+    "updated_at": "2023-06-17T07:44:08+02:00",
     "media_id": "mfxxundat4ys",
     "duration": null,
     "canonical_section": {
@@ -179,7 +271,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/buitenland/6268238/belgie-wil-op-italiaanse-wijze-drugsmaffia-breken-dat-zijn-we-verdomde-verplicht.html",
+    "url": "/buitenland/6268238/belgische-justitieminister-wil-nederlandse-drugsmaffia-breken-met-keiharde-aanpak.html",
     "open_new_window": false,
     "partner": null
   },
@@ -231,12 +323,12 @@
   },
   {
     "id": 6268379,
-    "slug": "verstappen-zesde-achter-mercedes-en-ferrari-in-extra-lange-tweede-training-montreal",
+    "slug": "verstappen-zesde-achter-mercedes-en-ferrari-in-lange-tweede-training-in-canada",
     "type": "article",
-    "title": "Verstappen zesde achter Mercedes en Ferrari in extra lange tweede training Montreal",
+    "title": "Verstappen zesde achter Mercedes en Ferrari in lange tweede training in Canada",
     "subtitle": null,
     "published_at": "2023-06-17T00:05:16+02:00",
-    "updated_at": "2023-06-17T02:45:21+02:00",
+    "updated_at": "2023-06-17T07:46:32+02:00",
     "media_id": "lqnxmyjai6lg",
     "duration": null,
     "canonical_section": {
@@ -248,18 +340,18 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/formule-1/6268379/verstappen-zesde-achter-mercedes-en-ferrari-in-extra-lange-tweede-training-montreal.html",
+    "url": "/formule-1/6268379/verstappen-zesde-achter-mercedes-en-ferrari-in-lange-tweede-training-in-canada.html",
     "open_new_window": false,
     "partner": null
   },
   {
     "id": 6268378,
-    "slug": "vs-akkoord-met-verkoop-reaper-drones-aan-nederland-voor-ruim-550-miljoen",
+    "slug": "defensie-pakt-door-en-koopt-voor-ruim-550-miljoen-euro-aan-reaper-drones-in-vs",
     "type": "article",
-    "title": "VS akkoord met verkoop Reaper-drones aan Nederland voor ruim 550 miljoen",
+    "title": "Defensie pakt door en koopt voor ruim 550 miljoen euro aan Reaper-drones in VS",
     "subtitle": null,
     "published_at": "2023-06-16T23:27:24+02:00",
-    "updated_at": "2023-06-16T23:33:14+02:00",
+    "updated_at": "2023-06-17T08:00:09+02:00",
     "media_id": "ex6x335a0rkv",
     "duration": null,
     "canonical_section": {
@@ -271,7 +363,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/buitenland/6268378/vs-akkoord-met-verkoop-reaper-drones-aan-nederland-voor-ruim-550-miljoen.html",
+    "url": "/buitenland/6268378/defensie-pakt-door-en-koopt-voor-ruim-550-miljoen-euro-aan-reaper-drones-in-vs.html",
     "open_new_window": false,
     "partner": null
   },
@@ -581,7 +673,7 @@
     "title": "Man die in 2018 elf mensen doodschoot in synagoge Pittsburgh riskeert doodstraf",
     "subtitle": null,
     "published_at": "2023-06-16T20:08:53+02:00",
-    "updated_at": "2023-06-16T20:24:43+02:00",
+    "updated_at": "2023-06-17T08:00:40+02:00",
     "media_id": "dspx8w3axldm",
     "duration": null,
     "canonical_section": {
@@ -594,98 +686,6 @@
       "partner": null
     },
     "url": "/buitenland/6268357/man-die-in-2018-elf-mensen-doodschoot-in-synagoge-pittsburgh-riskeert-doodstraf.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6268359,
-    "slug": "belgische-volleybalbond-wil-met-veelbesproken-geschorste-coach-naar-ek",
-    "type": "article",
-    "title": "Belgische volleybalbond wil met veelbesproken geschorste coach naar EK",
-    "subtitle": null,
-    "published_at": "2023-06-16T20:02:02+02:00",
-    "updated_at": "2023-06-16T21:45:57+02:00",
-    "media_id": "1dfxf14a4z8e",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772456,
-      "slug": "sport-overig",
-      "type": "default",
-      "name": "Sport Overig",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/sport-overig/6268359/belgische-volleybalbond-wil-met-veelbesproken-geschorste-coach-naar-ek.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6268360,
-    "slug": "syrische-broers-ontmoeten-elkaar-na-schipbreuk-bij-griekenland",
-    "type": "video",
-    "title": "Syrische broers ontmoeten elkaar na schipbreuk bij Griekenland",
-    "subtitle": "Video",
-    "published_at": "2023-06-16T19:59:47+02:00",
-    "updated_at": "2023-06-16T21:55:37+02:00",
-    "media_id": "nsjxm6aaj1ob",
-    "duration": "0:39",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6268360/syrische-broers-ontmoeten-elkaar-na-schipbreuk-bij-griekenland.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6268139,
-    "slug": "wanneer-kan-ik-de-tuin-sproeien-jullie-vragen-over-droogte-beantwoord",
-    "type": "article",
-    "title": "Wanneer kan ik de tuin sproeien? Jullie vragen over droogte beantwoord",
-    "subtitle": "NU+",
-    "published_at": "2023-06-16T19:57:14+02:00",
-    "updated_at": "2023-06-16T23:29:01+02:00",
-    "media_id": "fdrxm4da5wkk",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6268139/wanneer-kan-ik-de-tuin-sproeien-jullie-vragen-over-droogte-beantwoord.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6268358,
-    "slug": "media-boos-dat-ze-tien-euro-moeten-betalen-om-verslag-te-doen-van-lowlands",
-    "type": "article",
-    "title": "Media boos dat ze tien euro moeten betalen om verslag te doen van Lowlands",
-    "subtitle": null,
-    "published_at": "2023-06-16T19:53:41+02:00",
-    "updated_at": "2023-06-16T20:35:59+02:00",
-    "media_id": "054xlugajpqs",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771675,
-      "slug": "media",
-      "type": "default",
-      "name": "Media",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/media/6268358/media-boos-dat-ze-tien-euro-moeten-betalen-om-verslag-te-doen-van-lowlands.html",
     "open_new_window": false,
     "partner": null
   }
