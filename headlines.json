@@ -1,24 +1,47 @@
 [
   {
+    "id": 6268501,
+    "slug": "leclerc-gefrustreerd-door-keuzes-ferrari-maken-het-onszelf-zo-moeilijk",
+    "type": "article",
+    "title": "Leclerc gefrustreerd door keuzes Ferrari: 'Maken het onszelf zo moeilijk'",
+    "subtitle": null,
+    "published_at": "2023-06-18T01:30:22+02:00",
+    "updated_at": "2023-06-18T01:30:23+02:00",
+    "media_id": "s5vxnucaoomc",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772449,
+      "slug": "formule-1",
+      "type": "default",
+      "name": "GP Canada",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/formule-1/6268501/leclerc-gefrustreerd-door-keuzes-ferrari-maken-het-onszelf-zo-moeilijk.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6268500,
     "slug": "verstappen-en-red-bull-werkten-vrijdag-lang-door-om-auto-op-orde-te-krijgen",
     "type": "article",
     "title": "Verstappen en Red Bull werkten vrijdag lang door om auto op orde te krijgen",
     "subtitle": "NU+",
     "published_at": "2023-06-18T00:52:36+02:00",
-    "updated_at": "2023-06-18T00:52:37+02:00",
+    "updated_at": "2023-06-18T01:30:35+02:00",
     "media_id": "49vxg69anprb",
     "duration": null,
     "canonical_section": {
-      "id": 1778843,
-      "slug": "login-vereist",
+      "id": 1778846,
+      "slug": "nu-formule-1",
       "type": "default",
-      "name": "login-vereist",
-      "style": "nu",
-      "media_id": null,
+      "name": "NU+ Formule 1",
+      "style": "nusport",
+      "media_id": "gtmxcxnaui5m",
       "partner": null
     },
-    "url": "/login-vereist/6268500/verstappen-en-red-bull-werkten-vrijdag-lang-door-om-auto-op-orde-te-krijgen.html",
+    "url": "/nu-formule-1/6268500/verstappen-en-red-bull-werkten-vrijdag-lang-door-om-auto-op-orde-te-krijgen.html",
     "open_new_window": false,
     "partner": null
   },
@@ -663,29 +686,6 @@
       "partner": null
     },
     "url": "/wielrennen/6268463/van-der-poel-neemt-met-indrukwekkende-ritwinst-voorschot-op-eindzege-in-belgie.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6268450,
-    "slug": "hoe-gelukkig-ben-jij-praat-mee-over-tevredenheid",
-    "type": "article",
-    "title": "Hoe gelukkig ben jij? Praat mee over tevredenheid",
-    "subtitle": null,
-    "published_at": "2023-06-17T17:00:36+02:00",
-    "updated_at": "2023-06-17T17:19:16+02:00",
-    "media_id": "rt6xz6eazic1",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779134,
-      "slug": "stelling",
-      "type": "default",
-      "name": "Stelling",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/stelling/6268450/hoe-gelukkig-ben-jij-praat-mee-over-tevredenheid.html",
     "open_new_window": false,
     "partner": null
   }
