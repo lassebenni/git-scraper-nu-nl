@@ -1,12 +1,58 @@
 [
   {
+    "id": 6269246,
+    "slug": "boze-mourinho-trekt-zich-na-forse-schorsing-terug-uit-uefa-groep",
+    "type": "article",
+    "title": "Boze Mourinho trekt zich na forse schorsing terug uit UEFA-groep",
+    "subtitle": null,
+    "published_at": "2023-06-23T00:28:13+02:00",
+    "updated_at": "2023-06-23T00:41:42+02:00",
+    "media_id": "bqjxxwwa7rlo",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6269246/boze-mourinho-trekt-zich-na-forse-schorsing-terug-uit-uefa-groep.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6269210,
+    "slug": "wantrouwen-in-nederlandse-overheid-groeide-door-scepsis-over-coronabeleid",
+    "type": "article",
+    "title": "Wantrouwen in Nederlandse overheid groeide door scepsis over coronabeleid",
+    "subtitle": null,
+    "published_at": "2023-06-23T00:01:56+02:00",
+    "updated_at": "2023-06-23T00:01:58+02:00",
+    "media_id": "b3wxg7eav1v8",
+    "duration": null,
+    "canonical_section": {
+      "id": 1778528,
+      "slug": "coronavirus",
+      "type": "default",
+      "name": "Coronavirus",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/coronavirus/6269210/wantrouwen-in-nederlandse-overheid-groeide-door-scepsis-over-coronabeleid.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6269247,
     "slug": "oranje-international-shanice-van-de-sanden-en-vriendin-tatjana-verwachten-kind",
     "type": "article",
     "title": "Oranje-international Shanice van de Sanden en vriendin Tatjana verwachten kind",
     "subtitle": null,
     "published_at": "2023-06-22T23:59:48+02:00",
-    "updated_at": "2023-06-22T23:59:59+02:00",
+    "updated_at": "2023-06-23T00:13:50+02:00",
     "media_id": "3qfx8ata7v0n",
     "duration": null,
     "canonical_section": {
@@ -52,7 +98,7 @@
     "title": "Belgisch oud-international Demol op 57-jarige leeftijd overleden",
     "subtitle": null,
     "published_at": "2023-06-22T23:34:26+02:00",
-    "updated_at": "2023-06-22T23:34:27+02:00",
+    "updated_at": "2023-06-23T00:52:08+02:00",
     "media_id": "ghwxj6makyox",
     "duration": null,
     "canonical_section": {
@@ -190,8 +236,8 @@
     "title": "Kustwacht VS denkt dat opvarenden van onderzeeër zijn overleden na implosie",
     "subtitle": null,
     "published_at": "2023-06-22T20:52:17+02:00",
-    "updated_at": "2023-06-22T23:03:24+02:00",
-    "media_id": "f5yx2ytajx3h",
+    "updated_at": "2023-06-23T00:37:10+02:00",
+    "media_id": "wmzx0bsasak1",
     "duration": null,
     "canonical_section": {
       "id": 1771436,
@@ -640,52 +686,6 @@
       "partner": null
     },
     "url": "/sport-overig/6269192/moto2-coureur-bendsneyder-komt-niet-door-medische-keuring-en-mist-tt-assen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6269189,
-    "slug": "concertgangers-schuilen-onder-tafel-voor-enorme-hagelstenen-in-vs",
-    "type": "video",
-    "title": "Concertgangers schuilen onder tafel voor enorme hagelstenen in VS",
-    "subtitle": "Video",
-    "published_at": "2023-06-22T16:15:51+02:00",
-    "updated_at": "2023-06-22T16:15:52+02:00",
-    "media_id": "jthx40oabm0z",
-    "duration": "0:34",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6269189/concertgangers-schuilen-onder-tafel-voor-enorme-hagelstenen-in-vs.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6269083,
-    "slug": "waarom-de-onderzeeer-je-mogelijk-meer-boeit-dan-dode-vluchtelingen",
-    "type": "article",
-    "title": "Waarom de onderzeeër je mogelijk meer boeit dan dode vluchtelingen",
-    "subtitle": "NU+",
-    "published_at": "2023-06-22T16:01:15+02:00",
-    "updated_at": "2023-06-22T16:18:49+02:00",
-    "media_id": "omhxdfsafj76",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6269083/waarom-de-onderzeeer-je-mogelijk-meer-boeit-dan-dode-vluchtelingen.html",
     "open_new_window": false,
     "partner": null
   }
