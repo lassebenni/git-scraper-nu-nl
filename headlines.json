@@ -1,5 +1,51 @@
 [
   {
+    "id": 6269235,
+    "slug": "griekspoor-neemt-revanche-op-hurkacz-en-zet-zegereeks-voort-in-halle",
+    "type": "article",
+    "title": "Griekspoor neemt revanche op Hurkacz en zet zegereeks voort in Halle",
+    "subtitle": null,
+    "published_at": "2023-06-22T21:49:00+02:00",
+    "updated_at": "2023-06-22T21:49:01+02:00",
+    "media_id": "1mhxntiaa76e",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772432,
+      "slug": "tennis",
+      "type": "default",
+      "name": "Tennis",
+      "style": "nusport",
+      "media_id": "m1oxohpan0gq",
+      "partner": null
+    },
+    "url": "/tennis/6269235/griekspoor-neemt-revanche-op-hurkacz-en-zet-zegereeks-voort-in-halle.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6269229,
+    "slug": "amerikaanse-eigenaar-chelsea-breidt-imperium-uit-en-koopt-strasbourg",
+    "type": "article",
+    "title": "Amerikaanse eigenaar Chelsea breidt imperium uit en koopt Strasbourg",
+    "subtitle": null,
+    "published_at": "2023-06-22T21:32:39+02:00",
+    "updated_at": "2023-06-22T21:40:55+02:00",
+    "media_id": "4wlx07jape8x",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6269229/amerikaanse-eigenaar-chelsea-breidt-imperium-uit-en-koopt-strasbourg.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6269233,
     "slug": "bekijk-hier-de-persconferentie-over-de-vermiste-onderzeeer",
     "type": "video",
@@ -24,12 +70,12 @@
   },
   {
     "id": 6269232,
-    "slug": "kustwacht-vs-denkt-dat-alle-opvarenden-van-vermiste-onderzeeer-zijn-overleden",
+    "slug": "kustwacht-vs-denkt-dat-opvarenden-van-onderzeeer-zijn-overleden-na-implosie",
     "type": "article",
-    "title": "Kustwacht VS denkt dat alle opvarenden van vermiste onderzeeër zijn overleden",
+    "title": "Kustwacht VS denkt dat opvarenden van onderzeeër zijn overleden na implosie",
     "subtitle": null,
     "published_at": "2023-06-22T20:52:17+02:00",
-    "updated_at": "2023-06-22T20:59:27+02:00",
+    "updated_at": "2023-06-22T21:57:47+02:00",
     "media_id": "f5yx2ytajx3h",
     "duration": null,
     "canonical_section": {
@@ -41,18 +87,18 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/buitenland/6269232/kustwacht-vs-denkt-dat-alle-opvarenden-van-vermiste-onderzeeer-zijn-overleden.html",
+    "url": "/buitenland/6269232/kustwacht-vs-denkt-dat-opvarenden-van-onderzeeer-zijn-overleden-na-implosie.html",
     "open_new_window": false,
     "partner": null
   },
   {
     "id": 6269231,
-    "slug": "mollema-niet-geselecteerd-voor-tour-de-france-voelde-het-al-een-beetje-aankomen",
+    "slug": "mollema-voor-het-eerst-in-dertien-jaar-niet-naar-tour-voelde-het-al-aankomen",
     "type": "article",
-    "title": "Mollema niet geselecteerd voor Tour de France: 'Voelde het al een beetje aankomen'",
+    "title": "Mollema voor het eerst in dertien jaar niet naar Tour: 'Voelde het al aankomen'",
     "subtitle": null,
     "published_at": "2023-06-22T20:35:31+02:00",
-    "updated_at": "2023-06-22T20:44:53+02:00",
+    "updated_at": "2023-06-22T21:55:35+02:00",
     "media_id": "eyzxi8maheen",
     "duration": null,
     "canonical_section": {
@@ -64,18 +110,18 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/wielrennen/6269231/mollema-niet-geselecteerd-voor-tour-de-france-voelde-het-al-een-beetje-aankomen.html",
+    "url": "/wielrennen/6269231/mollema-voor-het-eerst-in-dertien-jaar-niet-naar-tour-voelde-het-al-aankomen.html",
     "open_new_window": false,
     "partner": null
   },
   {
     "id": 6269230,
-    "slug": "crowdfunding-voor-nieuw-kwf-monument-nadert-in-hoog-tempo-streefbedrag",
+    "slug": "inzameling-voor-nieuw-kwf-monument-nadert-in-hoog-tempo-streefbedrag",
     "type": "article",
-    "title": "Crowdfunding voor nieuw KWF-monument nadert in hoog tempo streefbedrag",
+    "title": "Inzameling voor nieuw KWF-monument nadert in hoog tempo streefbedrag",
     "subtitle": null,
     "published_at": "2023-06-22T20:29:09+02:00",
-    "updated_at": "2023-06-22T20:40:00+02:00",
+    "updated_at": "2023-06-22T21:22:39+02:00",
     "media_id": "x86xo29a5shm",
     "duration": null,
     "canonical_section": {
@@ -87,7 +133,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/opmerkelijk/6269230/crowdfunding-voor-nieuw-kwf-monument-nadert-in-hoog-tempo-streefbedrag.html",
+    "url": "/opmerkelijk/6269230/inzameling-voor-nieuw-kwf-monument-nadert-in-hoog-tempo-streefbedrag.html",
     "open_new_window": false,
     "partner": null
   },
@@ -640,52 +686,6 @@
       "partner": null
     },
     "url": "/binnenland/6269176/nederland-weigerde-tbs-verdachte-fatale-steekpartij-over-te-nemen-van-curacao.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6269162,
-    "slug": "brood-begint-bij-top-oss-aan-achtste-klus-als-hoofdtrainer-in-nederland",
-    "type": "article",
-    "title": "Brood begint bij TOP Oss aan achtste klus als hoofdtrainer in Nederland",
-    "subtitle": null,
-    "published_at": "2023-06-22T14:52:56+02:00",
-    "updated_at": "2023-06-22T14:52:58+02:00",
-    "media_id": "d94xm9nak8ru",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6269162/brood-begint-bij-top-oss-aan-achtste-klus-als-hoofdtrainer-in-nederland.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6269167,
-    "slug": "iers-debat-over-militaire-neutraliteit-verstoord-door-anti-navo-protest",
-    "type": "article",
-    "title": "Iers debat over militaire neutraliteit verstoord door anti-NAVO-protest",
-    "subtitle": null,
-    "published_at": "2023-06-22T14:52:26+02:00",
-    "updated_at": "2023-06-22T15:00:25+02:00",
-    "media_id": "hhhxgcka5rtz",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6269167/iers-debat-over-militaire-neutraliteit-verstoord-door-anti-navo-protest.html",
     "open_new_window": false,
     "partner": null
   }
