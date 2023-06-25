@@ -1,12 +1,35 @@
 [
   {
+    "id": 6269511,
+    "slug": "weerbericht-snikhete-dag-met-tropische-temperaturen-en-volop-zon",
+    "type": "article",
+    "title": "Weerbericht: Snikhete dag met tropische temperaturen en volop zon",
+    "subtitle": null,
+    "published_at": "2023-06-25T06:04:58+02:00",
+    "updated_at": "2023-06-25T06:04:59+02:00",
+    "media_id": "o1txql1a42kq",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6269511/weerbericht-snikhete-dag-met-tropische-temperaturen-en-volop-zon.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6269510,
     "slug": "vs-wisten-half-juni-al-dat-prigozjin-in-opstand-wilde-komen",
     "type": "article",
     "title": "'VS wisten half juni al dat Prigozjin in opstand wilde komen'",
     "subtitle": null,
     "published_at": "2023-06-25T05:39:35+02:00",
-    "updated_at": "2023-06-25T05:46:01+02:00",
+    "updated_at": "2023-06-25T07:00:24+02:00",
     "media_id": "0byxnzvaspna",
     "duration": null,
     "canonical_section": {
@@ -663,29 +686,6 @@
       "partner": null
     },
     "url": "/spanningen-oekraine/6269482/wagner-strijders-bezetten-straten-in-rostov-spanning-in-moskou.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6269480,
-    "slug": "superieure-vollering-verovert-nederlandse-titel-op-de-weg-en-vervolgt-droomjaar",
-    "type": "article",
-    "title": "Superieure Vollering verovert Nederlandse titel op de weg en vervolgt droomjaar",
-    "subtitle": null,
-    "published_at": "2023-06-24T16:57:19+02:00",
-    "updated_at": "2023-06-24T20:12:09+02:00",
-    "media_id": "lrlxvgmatj2r",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772339,
-      "slug": "wielrennen",
-      "type": "default",
-      "name": "Wielrennen",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/wielrennen/6269480/superieure-vollering-verovert-nederlandse-titel-op-de-weg-en-vervolgt-droomjaar.html",
     "open_new_window": false,
     "partner": null
   }
