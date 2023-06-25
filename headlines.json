@@ -1,12 +1,35 @@
 [
   {
+    "id": 6269512,
+    "slug": "wat-betekenen-de-vlaggen-op-het-strand",
+    "type": "video",
+    "title": "Wat betekenen de vlaggen op het strand?",
+    "subtitle": "Explainer",
+    "published_at": "2023-06-25T07:15:26+02:00",
+    "updated_at": "2023-06-25T07:15:56+02:00",
+    "media_id": "i5nxvsearweu",
+    "duration": "1:10",
+    "canonical_section": {
+      "id": 100,
+      "slug": "algemeen",
+      "type": "default",
+      "name": "Algemeen",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/algemeen/6269512/wat-betekenen-de-vlaggen-op-het-strand.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6269511,
     "slug": "weerbericht-snikhete-dag-met-tropische-temperaturen-en-volop-zon",
     "type": "article",
     "title": "Weerbericht: Snikhete dag met tropische temperaturen en volop zon",
     "subtitle": null,
     "published_at": "2023-06-25T06:04:58+02:00",
-    "updated_at": "2023-06-25T06:04:59+02:00",
+    "updated_at": "2023-06-25T07:33:02+02:00",
     "media_id": "o1txql1a42kq",
     "duration": null,
     "canonical_section": {
@@ -24,12 +47,12 @@
   },
   {
     "id": 6269510,
-    "slug": "vs-wisten-half-juni-al-dat-prigozjin-in-opstand-wilde-komen",
+    "slug": "vs-wist-half-juni-al-dat-prigozhin-in-opstand-wilde-komen",
     "type": "article",
-    "title": "'VS wisten half juni al dat Prigozjin in opstand wilde komen'",
+    "title": "'VS wist half juni al dat Prigozhin in opstand wilde komen'",
     "subtitle": null,
     "published_at": "2023-06-25T05:39:35+02:00",
-    "updated_at": "2023-06-25T07:00:24+02:00",
+    "updated_at": "2023-06-25T07:38:55+02:00",
     "media_id": "0byxnzvaspna",
     "duration": null,
     "canonical_section": {
@@ -41,7 +64,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/buitenland/6269510/vs-wisten-half-juni-al-dat-prigozjin-in-opstand-wilde-komen.html",
+    "url": "/buitenland/6269510/vs-wist-half-juni-al-dat-prigozhin-in-opstand-wilde-komen.html",
     "open_new_window": false,
     "partner": null
   },
@@ -121,7 +144,7 @@
     "title": "Dit verandert er op 1 juli allemaal voor je portemonnee",
     "subtitle": "NU+",
     "published_at": "2023-06-25T05:04:46+02:00",
-    "updated_at": "2023-06-25T05:19:56+02:00",
+    "updated_at": "2023-06-25T07:48:33+02:00",
     "media_id": "ji1xuuaaz10h",
     "duration": null,
     "canonical_section": {
@@ -190,7 +213,7 @@
     "title": "Belgische kogelstootster die 100 horden liep: 'Voelde alsof iedereen naar me keek'",
     "subtitle": null,
     "published_at": "2023-06-24T23:58:11+02:00",
-    "updated_at": "2023-06-24T23:58:12+02:00",
+    "updated_at": "2023-06-25T07:41:35+02:00",
     "media_id": "b08xepmaxuz0",
     "duration": null,
     "canonical_section": {
@@ -512,7 +535,7 @@
     "title": "Russen breken snelweg Moskou open, Wagner stopt opmars",
     "subtitle": "Video",
     "published_at": "2023-06-24T19:16:35+02:00",
-    "updated_at": "2023-06-24T21:17:09+02:00",
+    "updated_at": "2023-06-25T07:16:48+02:00",
     "media_id": "ty5xkrfacxo3",
     "duration": "0:42",
     "canonical_section": {
@@ -663,29 +686,6 @@
       "partner": null
     },
     "url": "/stelling/6269464/puzzelen-of-aan-de-slag-met-lego-praat-mee-over-speelgoed-voor-volwassenen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6269482,
-    "slug": "wagner-strijders-bezetten-straten-in-rostov-spanning-in-moskou",
-    "type": "video",
-    "title": "Wagner-strijders bezetten straten in Rostov, spanning in Moskou",
-    "subtitle": "Video",
-    "published_at": "2023-06-24T16:58:40+02:00",
-    "updated_at": "2023-06-24T17:01:25+02:00",
-    "media_id": "z24xdk1a7cpf",
-    "duration": "1:05",
-    "canonical_section": {
-      "id": 1778980,
-      "slug": "spanningen-oekraine",
-      "type": "default",
-      "name": "Oorlog in Oekraïne",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/spanningen-oekraine/6269482/wagner-strijders-bezetten-straten-in-rostov-spanning-in-moskou.html",
     "open_new_window": false,
     "partner": null
   }
