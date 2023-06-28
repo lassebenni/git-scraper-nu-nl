@@ -1,12 +1,104 @@
 [
   {
-    "id": 6270061,
-    "slug": "locoburgemeester-helsinki-op-heterdaad-betrapt-op-illegaal-spuiten-graffiti",
+    "id": 6269948,
+    "slug": "lerarentekort-vraagt-om-pijnlijke-keuzes-minder-uren-en-andere-lessen",
     "type": "article",
-    "title": "Locoburgemeester Helsinki op heterdaad betrapt op illegaal spuiten graffiti",
+    "title": "Lerarentekort vraagt om 'pijnlijke keuzes': minder uren en andere lessen",
+    "subtitle": null,
+    "published_at": "2023-06-29T00:00:35+02:00",
+    "updated_at": "2023-06-29T00:00:36+02:00",
+    "media_id": "cp6x5moa9qnx",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6269948/lerarentekort-vraagt-om-pijnlijke-keuzes-minder-uren-en-andere-lessen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6270064,
+    "slug": "23-grootste-amerikaanse-banken-zouden-een-forse-economische-crisis-overleven",
+    "type": "article",
+    "title": "23 grootste Amerikaanse banken zouden een forse economische crisis overleven",
+    "subtitle": null,
+    "published_at": "2023-06-28T23:46:52+02:00",
+    "updated_at": "2023-06-28T23:46:53+02:00",
+    "media_id": "ot5xhcda02lo",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6270064/23-grootste-amerikaanse-banken-zouden-een-forse-economische-crisis-overleven.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6270063,
+    "slug": "nog-een-oude-bekende-voor-messi-bij-inter-miami-martino-wordt-nieuwe-coach",
+    "type": "article",
+    "title": "Nóg een oude bekende voor Messi bij Inter Miami: Martino wordt nieuwe coach",
+    "subtitle": null,
+    "published_at": "2023-06-28T23:25:51+02:00",
+    "updated_at": "2023-06-28T23:33:58+02:00",
+    "media_id": "iihxkcbaikqd",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6270063/nog-een-oude-bekende-voor-messi-bij-inter-miami-martino-wordt-nieuwe-coach.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6270062,
+    "slug": "sagan-vlak-voor-laatste-tour-door-het-stof-na-dronken-scooterrit-heb-het-verpest",
+    "type": "article",
+    "title": "Sagan vlak voor laatste Tour door het stof na dronken scooterrit: 'Heb het verpest'",
+    "subtitle": null,
+    "published_at": "2023-06-28T23:13:36+02:00",
+    "updated_at": "2023-06-28T23:47:49+02:00",
+    "media_id": "gc7xnsias44q",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772173,
+      "slug": "tour-de-france",
+      "type": "default",
+      "name": "Tour de France",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/tour-de-france/6270062/sagan-vlak-voor-laatste-tour-door-het-stof-na-dronken-scooterrit-heb-het-verpest.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6270061,
+    "slug": "locoburgemeester-helsinki-op-heterdaad-betrapt-bij-illegaal-spuiten-graffiti",
+    "type": "article",
+    "title": "Locoburgemeester Helsinki op heterdaad betrapt bij illegaal spuiten graffiti",
     "subtitle": null,
     "published_at": "2023-06-28T23:00:59+02:00",
-    "updated_at": "2023-06-28T23:01:00+02:00",
+    "updated_at": "2023-06-28T23:06:54+02:00",
     "media_id": "e4gxfrgahv58",
     "duration": null,
     "canonical_section": {
@@ -18,7 +110,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/buitenland/6270061/locoburgemeester-helsinki-op-heterdaad-betrapt-op-illegaal-spuiten-graffiti.html",
+    "url": "/buitenland/6270061/locoburgemeester-helsinki-op-heterdaad-betrapt-bij-illegaal-spuiten-graffiti.html",
     "open_new_window": false,
     "partner": null
   },
@@ -52,7 +144,7 @@
     "title": "Madonna belandt op ic met bacteriële infectie en stelt wereldtournee uit",
     "subtitle": null,
     "published_at": "2023-06-28T22:00:32+02:00",
-    "updated_at": "2023-06-28T22:44:24+02:00",
+    "updated_at": "2023-06-28T23:25:53+02:00",
     "media_id": "fdnx5xra2rip",
     "duration": null,
     "canonical_section": {
@@ -558,7 +650,7 @@
     "title": "Lichaam vermiste Zwitser dankzij droogte na bijna twintig jaar gevonden in meer",
     "subtitle": null,
     "published_at": "2023-06-28T17:07:52+02:00",
-    "updated_at": "2023-06-28T17:07:54+02:00",
+    "updated_at": "2023-06-28T23:11:32+02:00",
     "media_id": "lu2xp4yaekb6",
     "duration": null,
     "canonical_section": {
@@ -594,98 +686,6 @@
       "partner": null
     },
     "url": "/algemeen/6270021/hoe-wagner-de-spanning-tussen-poetin-en-lukashenko-opvoert.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6270020,
-    "slug": "de-vergeten-slavernij-dit-deed-nederland-in-de-molukken",
-    "type": "video",
-    "title": "De vergeten slavernij: dit deed Nederland in de Molukken",
-    "subtitle": "Video",
-    "published_at": "2023-06-28T17:01:28+02:00",
-    "updated_at": "2023-06-28T17:48:00+02:00",
-    "media_id": "op4xdzwarw61",
-    "duration": "4:41",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6270020/de-vergeten-slavernij-dit-deed-nederland-in-de-molukken.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6269996,
-    "slug": "controleren-of-weggooien-praat-mee-over-het-kassabonnetje",
-    "type": "article",
-    "title": "Controleren of weggooien? Praat mee over het kassabonnetje",
-    "subtitle": null,
-    "published_at": "2023-06-28T17:00:49+02:00",
-    "updated_at": "2023-06-28T17:00:51+02:00",
-    "media_id": "ot5xtw4abkvw",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779134,
-      "slug": "stelling",
-      "type": "default",
-      "name": "Stelling",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/stelling/6269996/controleren-of-weggooien-praat-mee-over-het-kassabonnetje.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6270017,
-    "slug": "agent-schiet-17-jarige-jongen-dood-in-frankrijk",
-    "type": "video",
-    "title": "Agent schiet 17-jarige jongen dood in Frankrijk",
-    "subtitle": "Video",
-    "published_at": "2023-06-28T16:54:12+02:00",
-    "updated_at": "2023-06-28T16:57:49+02:00",
-    "media_id": "swax8b0ay5k9",
-    "duration": "0:43",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6270017/agent-schiet-17-jarige-jongen-dood-in-frankrijk.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6270014,
-    "slug": "noren-keuren-voor-miljarden-euros-aan-nieuwe-olie-en-gasprojecten-goed",
-    "type": "article",
-    "title": "Noren keuren voor miljarden euro's aan nieuwe olie- en gasprojecten goed",
-    "subtitle": null,
-    "published_at": "2023-06-28T16:43:39+02:00",
-    "updated_at": "2023-06-28T16:57:42+02:00",
-    "media_id": "bryxgbtarq04",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6270014/noren-keuren-voor-miljarden-euros-aan-nieuwe-olie-en-gasprojecten-goed.html",
     "open_new_window": false,
     "partner": null
   }
