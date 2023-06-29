@@ -1,12 +1,104 @@
 [
   {
+    "id": 6270080,
+    "slug": "politie-bestookt-met-vuurwerk-bij-nieuwe-rellen-in-frankrijk",
+    "type": "video",
+    "title": "Politie bestookt met vuurwerk bij nieuwe rellen in Frankrijk",
+    "subtitle": "Video",
+    "published_at": "2023-06-29T08:28:36+02:00",
+    "updated_at": "2023-06-29T08:30:15+02:00",
+    "media_id": "92yxgaaacncn",
+    "duration": "0:46",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6270080/politie-bestookt-met-vuurwerk-bij-nieuwe-rellen-in-frankrijk.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6270079,
+    "slug": "ook-in-de-efteling-dreigt-een-stroomtekort-door-overvol-elektriciteitsnet",
+    "type": "article",
+    "title": "Ook in de Efteling dreigt een stroomtekort door overvol elektriciteitsnet",
+    "subtitle": null,
+    "published_at": "2023-06-29T08:28:03+02:00",
+    "updated_at": "2023-06-29T08:44:33+02:00",
+    "media_id": "zsvxmf4ahsfj",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6270079/ook-in-de-efteling-dreigt-een-stroomtekort-door-overvol-elektriciteitsnet.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6270077,
+    "slug": "recensieoverzicht-ook-als-tachtiger-is-ford-een-geloofwaardige-indiana-jones",
+    "type": "article",
+    "title": "Recensieoverzicht: Ook als tachtiger is Ford een geloofwaardige Indiana Jones",
+    "subtitle": null,
+    "published_at": "2023-06-29T08:19:48+02:00",
+    "updated_at": "2023-06-29T08:20:01+02:00",
+    "media_id": "j5sx5mlagx0k",
+    "duration": null,
+    "canonical_section": {
+      "id": 127,
+      "slug": "film",
+      "type": "default",
+      "name": "Films & Series",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/film/6270077/recensieoverzicht-ook-als-tachtiger-is-ford-een-geloofwaardige-indiana-jones.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6270076,
+    "slug": "den-haag-vaardigt-noodbevel-uit-vanwege-boerenprotest-trekkers-niet-welkom",
+    "type": "article",
+    "title": "Den Haag vaardigt noodbevel uit vanwege boerenprotest: trekkers niet welkom",
+    "subtitle": null,
+    "published_at": "2023-06-29T08:15:19+02:00",
+    "updated_at": "2023-06-29T08:34:23+02:00",
+    "media_id": "wbmxul6acvgo",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6270076/den-haag-vaardigt-noodbevel-uit-vanwege-boerenprotest-trekkers-niet-welkom.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6270075,
     "slug": "yankees-pitcher-german-zorgt-voor-zeer-zeldzame-perfect-game-in-mlb",
     "type": "article",
     "title": "Yankees-pitcher Germán zorgt voor zeer zeldzame 'perfect game' in MLB",
     "subtitle": null,
     "published_at": "2023-06-29T07:59:40+02:00",
-    "updated_at": "2023-06-29T08:01:20+02:00",
+    "updated_at": "2023-06-29T08:34:10+02:00",
     "media_id": "efoxw39aebbo",
     "duration": null,
     "canonical_section": {
@@ -98,7 +190,7 @@
     "title": "John Legend en Chrissy Teigen krijgen vierde kind met hulp van draagmoeder",
     "subtitle": null,
     "published_at": "2023-06-29T06:50:42+02:00",
-    "updated_at": "2023-06-29T07:54:22+02:00",
+    "updated_at": "2023-06-29T08:58:03+02:00",
     "media_id": "8m0xzozauvi7",
     "duration": null,
     "canonical_section": {
@@ -167,7 +259,7 @@
     "title": "Dit is de winnaar van de tweede editie van Het Perfecte Plaatje Op Reis",
     "subtitle": null,
     "published_at": "2023-06-29T06:26:58+02:00",
-    "updated_at": "2023-06-29T07:48:18+02:00",
+    "updated_at": "2023-06-29T08:05:16+02:00",
     "media_id": "h6txai5at6od",
     "duration": null,
     "canonical_section": {
@@ -190,7 +282,7 @@
     "title": "Opnieuw rellen in Frankrijk omdat politie zeventienjarige jongen doodschoot",
     "subtitle": null,
     "published_at": "2023-06-29T06:04:55+02:00",
-    "updated_at": "2023-06-29T07:02:26+02:00",
+    "updated_at": "2023-06-29T08:47:34+02:00",
     "media_id": "zpax9bgawakr",
     "duration": null,
     "canonical_section": {
@@ -213,7 +305,7 @@
     "title": "De vouwwagen is op de weg terug",
     "subtitle": null,
     "published_at": "2023-06-29T05:07:09+02:00",
-    "updated_at": "2023-06-29T05:07:11+02:00",
+    "updated_at": "2023-06-29T08:28:53+02:00",
     "media_id": "kf6xet5a2ma9",
     "duration": null,
     "canonical_section": {
@@ -236,7 +328,7 @@
     "title": "De nieuwe Mathieu van der Poel wil alleen nog goed zijn wanneer het telt",
     "subtitle": "NU+",
     "published_at": "2023-06-29T05:04:36+02:00",
-    "updated_at": "2023-06-29T07:04:26+02:00",
+    "updated_at": "2023-06-29T08:18:14+02:00",
     "media_id": "9uexni2abjx9",
     "duration": null,
     "canonical_section": {
@@ -594,98 +686,6 @@
       "partner": null
     },
     "url": "/voetbal/6270051/arsenal-breekt-bijna-eigen-transferrecord-voor-havertz-maddison-naar-tottenham.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6270048,
-    "slug": "na-jong-oranje-ook-titelverdediger-jong-duitsland-roemloos-uitgeschakeld-op-ek",
-    "type": "article",
-    "title": "Na Jong Oranje ook titelverdediger Jong Duitsland roemloos uitgeschakeld op EK",
-    "subtitle": null,
-    "published_at": "2023-06-28T20:20:36+02:00",
-    "updated_at": "2023-06-28T20:41:17+02:00",
-    "media_id": "rv2xi1uauv8o",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6270048/na-jong-oranje-ook-titelverdediger-jong-duitsland-roemloos-uitgeschakeld-op-ek.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6270043,
-    "slug": "kroegen-clubs-en-podia-hoeven-muziek-voorlopig-niet-zachter-te-zetten",
-    "type": "article",
-    "title": "Kroegen, clubs en podia hoeven muziek voorlopig niet zachter te zetten",
-    "subtitle": null,
-    "published_at": "2023-06-28T20:07:09+02:00",
-    "updated_at": "2023-06-28T20:19:50+02:00",
-    "media_id": "s8vx19gah455",
-    "duration": null,
-    "canonical_section": {
-      "id": 868281,
-      "slug": "muziek",
-      "type": "default",
-      "name": "Muziek",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/muziek/6270043/kroegen-clubs-en-podia-hoeven-muziek-voorlopig-niet-zachter-te-zetten.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6270046,
-    "slug": "talpa-baas-wil-dat-talkshow-marcel-gijs-volgende-zomer-terugkeert",
-    "type": "article",
-    "title": "Talpa-baas wil dat talkshow Marcel & Gijs volgende zomer terugkeert",
-    "subtitle": null,
-    "published_at": "2023-06-28T19:56:58+02:00",
-    "updated_at": "2023-06-29T06:15:43+02:00",
-    "media_id": "kuux3f9a4ytg",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771675,
-      "slug": "media",
-      "type": "default",
-      "name": "Media",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/media/6270046/talpa-baas-wil-dat-talkshow-marcel-gijs-volgende-zomer-terugkeert.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6270045,
-    "slug": "nog-een-schorsing-voor-mourinho-ditmaal-vanwege-beledigen-serie-a-arbiter",
-    "type": "article",
-    "title": "Nóg een schorsing voor Mourinho, ditmaal vanwege beledigen Serie A-arbiter",
-    "subtitle": null,
-    "published_at": "2023-06-28T19:55:34+02:00",
-    "updated_at": "2023-06-29T00:02:48+02:00",
-    "media_id": "rhyxhamawamk",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6270045/nog-een-schorsing-voor-mourinho-ditmaal-vanwege-beledigen-serie-a-arbiter.html",
     "open_new_window": false,
     "partner": null
   }
