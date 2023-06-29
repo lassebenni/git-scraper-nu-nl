@@ -1,12 +1,35 @@
 [
   {
+    "id": 6270227,
+    "slug": "schokgolven-gemeten-van-twee-zwarte-gaten-die-ver-in-de-ruimte-op-elkaar-botsen",
+    "type": "article",
+    "title": "Schokgolven gemeten van twee zwarte gaten die ver in de ruimte op elkaar botsen",
+    "subtitle": null,
+    "published_at": "2023-06-29T23:53:52+02:00",
+    "updated_at": "2023-06-29T23:53:54+02:00",
+    "media_id": "x5kx4gbavutl",
+    "duration": null,
+    "canonical_section": {
+      "id": 478878,
+      "slug": "wetenschap",
+      "type": "default",
+      "name": "Wetenschap",
+      "style": "nunjij",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/wetenschap/6270227/schokgolven-gemeten-van-twee-zwarte-gaten-die-ver-in-de-ruimte-op-elkaar-botsen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6270225,
     "slug": "coalitie-gemeente-den-haag-gevallen-door-discussie-over-oppositieleider-de-mos",
     "type": "article",
     "title": "Coalitie gemeente Den Haag gevallen door discussie over oppositieleider De Mos",
     "subtitle": null,
     "published_at": "2023-06-29T22:34:02+02:00",
-    "updated_at": "2023-06-29T22:52:32+02:00",
+    "updated_at": "2023-06-29T23:34:51+02:00",
     "media_id": "lj8xlhsa13nu",
     "duration": null,
     "canonical_section": {
@@ -24,12 +47,12 @@
   },
   {
     "id": 6270220,
-    "slug": "universiteiten-in-vs-moeten-van-hoogste-hof-stoppen-met-positieve-discriminatie",
+    "slug": "amerikaanse-universiteiten-moeten-stoppen-met-positieve-discriminatie",
     "type": "article",
-    "title": "Universiteiten in VS moeten van hoogste hof stoppen met positieve discriminatie",
+    "title": "Amerikaanse universiteiten moeten stoppen met positieve discriminatie",
     "subtitle": null,
     "published_at": "2023-06-29T22:24:59+02:00",
-    "updated_at": "2023-06-29T22:48:11+02:00",
+    "updated_at": "2023-06-29T23:26:50+02:00",
     "media_id": "yh4xzn7a39po",
     "duration": null,
     "canonical_section": {
@@ -41,7 +64,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/buitenland/6270220/universiteiten-in-vs-moeten-van-hoogste-hof-stoppen-met-positieve-discriminatie.html",
+    "url": "/buitenland/6270220/amerikaanse-universiteiten-moeten-stoppen-met-positieve-discriminatie.html",
     "open_new_window": false,
     "partner": null
   },
@@ -52,7 +75,7 @@
     "title": "Franse politie drijft relschoppers uiteen met traangas",
     "subtitle": "Video",
     "published_at": "2023-06-29T22:09:03+02:00",
-    "updated_at": "2023-06-29T22:53:52+02:00",
+    "updated_at": "2023-06-30T00:00:50+02:00",
     "media_id": "krvxcrzaimme",
     "duration": "0:46",
     "canonical_section": {
@@ -663,29 +686,6 @@
       "partner": null
     },
     "url": "/voetbal/6270187/na-chaotische-voorbereiding-kunnen-oranjevrouwen-niet-overtuigen-in-oefenduel.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6270130,
-    "slug": "eerste-betalende-klanten-van-virgin-galactic-bezoeken-de-rand-van-de-ruimte",
-    "type": "article",
-    "title": "Eerste betalende klanten van Virgin Galactic bezoeken de rand van de ruimte",
-    "subtitle": null,
-    "published_at": "2023-06-29T17:42:22+02:00",
-    "updated_at": "2023-06-29T22:35:00+02:00",
-    "media_id": "yjhxmhiavpd9",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771438,
-      "slug": "tech",
-      "type": "default",
-      "name": "Tech",
-      "style": "nutech",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/tech/6270130/eerste-betalende-klanten-van-virgin-galactic-bezoeken-de-rand-van-de-ruimte.html",
     "open_new_window": false,
     "partner": null
   }
