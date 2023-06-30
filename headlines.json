@@ -1,12 +1,104 @@
 [
   {
+    "id": 6270245,
+    "slug": "ook-rellen-in-brussel-na-dood-franse-tiener",
+    "type": "video",
+    "title": "Ook rellen in Brussel na dood Franse tiener",
+    "subtitle": "Video",
+    "published_at": "2023-06-30T09:36:33+02:00",
+    "updated_at": "2023-06-30T09:46:28+02:00",
+    "media_id": "s8nxa05a0k5g",
+    "duration": "0:43",
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6270245/ook-rellen-in-brussel-na-dood-franse-tiener.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6270244,
+    "slug": "knor-draait-al-een-jaar-in-de-bioscoop-waar-zie-je-dat-nog-in-deze-tijden",
+    "type": "article",
+    "title": "Knor draait al een jaar in de bioscoop: 'Waar zie je dat nog in deze tijden?'",
+    "subtitle": null,
+    "published_at": "2023-06-30T09:27:07+02:00",
+    "updated_at": "2023-06-30T09:27:09+02:00",
+    "media_id": "timx9ola04bk",
+    "duration": null,
+    "canonical_section": {
+      "id": 127,
+      "slug": "film",
+      "type": "default",
+      "name": "Films & Series",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/film/6270244/knor-draait-al-een-jaar-in-de-bioscoop-waar-zie-je-dat-nog-in-deze-tijden.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6270241,
+    "slug": "wat-wil-je-weten-over-nunl-vraag-het-onze-hoofdredactie",
+    "type": "article",
+    "title": "Wat wil je weten over NU.nl? Vraag het onze hoofdredactie",
+    "subtitle": "Over NU",
+    "published_at": "2023-06-30T09:17:28+02:00",
+    "updated_at": "2023-06-30T09:17:29+02:00",
+    "media_id": "ffoxgnranjmy",
+    "duration": null,
+    "canonical_section": {
+      "id": 100,
+      "slug": "algemeen",
+      "type": "default",
+      "name": "Algemeen",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/algemeen/6270241/wat-wil-je-weten-over-nunl-vraag-het-onze-hoofdredactie.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6270243,
+    "slug": "ns-topman-roept-ministeries-op-geweld-tegen-personeel-tegen-te-gaan",
+    "type": "article",
+    "title": "NS-topman roept ministeries op geweld tegen personeel tegen te gaan",
+    "subtitle": null,
+    "published_at": "2023-06-30T09:15:19+02:00",
+    "updated_at": "2023-06-30T09:15:20+02:00",
+    "media_id": "cnfxxg7ar9c7",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6270243/ns-topman-roept-ministeries-op-geweld-tegen-personeel-tegen-te-gaan.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6270242,
     "slug": "we-houden-in-de-winkel-steeds-vaker-de-hand-op-de-knip",
     "type": "article",
     "title": "We houden in de winkel steeds vaker de hand op de knip",
     "subtitle": null,
     "published_at": "2023-06-30T08:23:06+02:00",
-    "updated_at": "2023-06-30T08:24:44+02:00",
+    "updated_at": "2023-06-30T09:30:51+02:00",
     "media_id": "dgoxny7a4jbm",
     "duration": null,
     "canonical_section": {
@@ -162,12 +254,12 @@
   },
   {
     "id": 6270233,
-    "slug": "prijzen-stijgen-in-juni-minder-hard-door-goedkopere-energie",
+    "slug": "goedkopere-energie-zet-een-rem-op-de-prijsstijging-in-juni",
     "type": "article",
-    "title": "Prijzen stijgen in juni minder hard door goedkopere energie",
+    "title": "Goedkopere energie zet een rem op de prijsstijging in juni",
     "subtitle": null,
     "published_at": "2023-06-30T06:39:01+02:00",
-    "updated_at": "2023-06-30T07:25:55+02:00",
+    "updated_at": "2023-06-30T09:31:28+02:00",
     "media_id": "mhixn89ais0d",
     "duration": null,
     "canonical_section": {
@@ -179,7 +271,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/economie/6270233/prijzen-stijgen-in-juni-minder-hard-door-goedkopere-energie.html",
+    "url": "/economie/6270233/goedkopere-energie-zet-een-rem-op-de-prijsstijging-in-juni.html",
     "open_new_window": false,
     "partner": null
   },
@@ -374,7 +466,7 @@
     "title": "Van Vleuten verbaasd over extreme motivatie in afscheidsjaar: 'Bijna hilarisch'",
     "subtitle": null,
     "published_at": "2023-06-30T05:06:12+02:00",
-    "updated_at": "2023-06-30T08:37:46+02:00",
+    "updated_at": "2023-06-30T09:31:46+02:00",
     "media_id": "zwtxtczathdo",
     "duration": null,
     "canonical_section": {
@@ -581,7 +673,7 @@
     "title": "Vingegaard doet niet mee aan mentale spelletjes: 'Maakt niet uit wie favoriet is'",
     "subtitle": null,
     "published_at": "2023-06-29T21:04:43+02:00",
-    "updated_at": "2023-06-29T21:51:46+02:00",
+    "updated_at": "2023-06-30T09:18:47+02:00",
     "media_id": "43nxhirayvlb",
     "duration": null,
     "canonical_section": {
@@ -594,98 +686,6 @@
       "partner": null
     },
     "url": "/tour-de-france/6270210/vingegaard-doet-niet-mee-aan-mentale-spelletjes-maakt-niet-uit-wie-favoriet-is.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6270217,
-    "slug": "politie-rukt-uit-voor-gecamoufleerde-mensen-met-wapens-blijkt-militaire-oefening",
-    "type": "article",
-    "title": "Politie rukt uit voor 'gecamoufleerde mensen met wapens', blijkt militaire oefening",
-    "subtitle": null,
-    "published_at": "2023-06-29T21:04:12+02:00",
-    "updated_at": "2023-06-29T21:22:47+02:00",
-    "media_id": "0fmxqwgawyjc",
-    "duration": null,
-    "canonical_section": {
-      "id": 937692,
-      "slug": "opmerkelijk",
-      "type": "default",
-      "name": "Opmerkelijk",
-      "style": "nunjij",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/opmerkelijk/6270217/politie-rukt-uit-voor-gecamoufleerde-mensen-met-wapens-blijkt-militaire-oefening.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6270215,
-    "slug": "handtas-kleiner-dan-zandkorrel-geveild-voor-bijna-64000-dollar",
-    "type": "article",
-    "title": "Handtas kleiner dan zandkorrel geveild voor bijna 64.000 dollar",
-    "subtitle": null,
-    "published_at": "2023-06-29T20:57:11+02:00",
-    "updated_at": "2023-06-29T21:48:10+02:00",
-    "media_id": "tllx53haqs0m",
-    "duration": null,
-    "canonical_section": {
-      "id": 937692,
-      "slug": "opmerkelijk",
-      "type": "default",
-      "name": "Opmerkelijk",
-      "style": "nunjij",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/opmerkelijk/6270215/handtas-kleiner-dan-zandkorrel-geveild-voor-bijna-64000-dollar.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6270214,
-    "slug": "modric-aangeklaagd-wegens-valse-verklaring-in-corruptiezaak",
-    "type": "article",
-    "title": "Modric aangeklaagd wegens valse verklaring in corruptiezaak",
-    "subtitle": null,
-    "published_at": "2023-06-29T20:31:28+02:00",
-    "updated_at": "2023-06-29T20:46:38+02:00",
-    "media_id": "g4oxz9pajkqt",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6270214/modric-aangeklaagd-wegens-valse-verklaring-in-corruptiezaak.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6270213,
-    "slug": "oranjevrouwen-verbaasd-over-stenen-en-glas-op-het-veld-te-gek-voor-woorden",
-    "type": "article",
-    "title": "Oranjevrouwen verbaasd over stenen en glas op het veld: 'Te gek voor woorden'",
-    "subtitle": null,
-    "published_at": "2023-06-29T20:30:15+02:00",
-    "updated_at": "2023-06-29T22:36:58+02:00",
-    "media_id": "bt7xgi9a26ui",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6270213/oranjevrouwen-verbaasd-over-stenen-en-glas-op-het-veld-te-gek-voor-woorden.html",
     "open_new_window": false,
     "partner": null
   }
