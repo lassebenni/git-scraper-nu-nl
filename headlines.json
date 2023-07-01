@@ -1,5 +1,51 @@
 [
   {
+    "id": 6270367,
+    "slug": "waarom-de-eerste-tour-week-de-zwaarste-van-deze-eeuw-wordt",
+    "type": "video",
+    "title": "Waarom de eerste Tour-week de zwaarste van deze eeuw wordt",
+    "subtitle": "Explainer",
+    "published_at": "2023-07-01T06:28:00+02:00",
+    "updated_at": "2023-07-01T06:28:01+02:00",
+    "media_id": "15yxc7raxfq7",
+    "duration": "1:55",
+    "canonical_section": {
+      "id": 1772173,
+      "slug": "tour-de-france",
+      "type": "default",
+      "name": "Tour de France",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/tour-de-france/6270367/waarom-de-eerste-tour-week-de-zwaarste-van-deze-eeuw-wordt.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6270395,
+    "slug": "zeker-471-mensen-aangehouden-tijdens-vierde-nacht-van-protesten-in-frankrijk",
+    "type": "article",
+    "title": "Zeker 471 mensen aangehouden tijdens vierde nacht van protesten in Frankrijk",
+    "subtitle": null,
+    "published_at": "2023-07-01T06:08:28+02:00",
+    "updated_at": "2023-07-01T06:21:04+02:00",
+    "media_id": "4f8xph2amvvl",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6270395/zeker-471-mensen-aangehouden-tijdens-vierde-nacht-van-protesten-in-frankrijk.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6270394,
     "slug": "weerbericht-grijze-en-bewolkte-dag-met-vooral-in-de-ochtend-kans-op-regen",
     "type": "article",
@@ -512,7 +558,7 @@
     "title": "Backstage bij fotosessie Oranjes: een wilde hond en Alexia maakt indruk",
     "subtitle": "NU+",
     "published_at": "2023-06-30T19:58:57+02:00",
-    "updated_at": "2023-06-30T20:44:00+02:00",
+    "updated_at": "2023-07-01T06:39:29+02:00",
     "media_id": "2d9x849ancsi",
     "duration": null,
     "canonical_section": {
@@ -535,7 +581,7 @@
     "title": "Weghorst ziet United-droom na slechts twee goals in 31 duels ten einde komen",
     "subtitle": null,
     "published_at": "2023-06-30T19:42:48+02:00",
-    "updated_at": "2023-06-30T22:09:35+02:00",
+    "updated_at": "2023-07-01T06:40:17+02:00",
     "media_id": "8nux6qaamxnx",
     "duration": null,
     "canonical_section": {
@@ -640,52 +686,6 @@
       "partner": null
     },
     "url": "/buitenland/6270361/amerikaanse-hooggerechtshof-blokkeert-kwijtschelden-miljarden-aan-studieschuld.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6270362,
-    "slug": "superieure-verstappen-pakt-poleposition-voor-gp-oostenrijk-de-vries-laatste",
-    "type": "article",
-    "title": "Superieure Verstappen pakt poleposition voor GP Oostenrijk, De Vries laatste",
-    "subtitle": null,
-    "published_at": "2023-06-30T18:08:19+02:00",
-    "updated_at": "2023-07-01T05:45:31+02:00",
-    "media_id": "6i7x4vxaknrc",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772449,
-      "slug": "formule-1",
-      "type": "default",
-      "name": "GP Oostenrijk",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/formule-1/6270362/superieure-verstappen-pakt-poleposition-voor-gp-oostenrijk-de-vries-laatste.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6270354,
-    "slug": "pantheon-in-rome-gaat-miljoenen-bezoekers-om-entreegeld-vragen",
-    "type": "article",
-    "title": "Pantheon in Rome gaat miljoenen bezoekers om entreegeld vragen",
-    "subtitle": null,
-    "published_at": "2023-06-30T17:55:37+02:00",
-    "updated_at": "2023-07-01T05:15:25+02:00",
-    "media_id": "5wdx44hai00r",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6270354/pantheon-in-rome-gaat-miljoenen-bezoekers-om-entreegeld-vragen.html",
     "open_new_window": false,
     "partner": null
   }
