@@ -1,5 +1,51 @@
 [
   {
+    "id": 6270394,
+    "slug": "weerbericht-grijze-en-bewolkte-dag-met-vooral-in-de-ochtend-kans-op-regen",
+    "type": "article",
+    "title": "Weerbericht: Grijze en bewolkte dag met vooral in de ochtend kans op regen",
+    "subtitle": null,
+    "published_at": "2023-07-01T05:44:06+02:00",
+    "updated_at": "2023-07-01T05:44:07+02:00",
+    "media_id": "m1oxdu3af5bf",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6270394/weerbericht-grijze-en-bewolkte-dag-met-vooral-in-de-ochtend-kans-op-regen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6270393,
+    "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
+    "type": "article",
+    "title": "Het Woord van vandaag: Raad jij het woord van de dag?",
+    "subtitle": null,
+    "published_at": "2023-07-01T05:18:09+02:00",
+    "updated_at": "2023-07-01T05:18:11+02:00",
+    "media_id": "5orxtf5awygy",
+    "duration": null,
+    "canonical_section": {
+      "id": 1773179,
+      "slug": "uitgelicht",
+      "type": "default",
+      "name": "Uitgelicht",
+      "style": "mediapartner-external",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/uitgelicht/6270393/het-woord-van-vandaag-raad-jij-het-woord-van-de-dag.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6270382,
     "slug": "red-bull-baas-horner-baalt-van-tegenvallende-perez-het-is-enorm-frustrerend",
     "type": "article",
@@ -604,7 +650,7 @@
     "title": "Superieure Verstappen pakt poleposition voor GP Oostenrijk, De Vries laatste",
     "subtitle": null,
     "published_at": "2023-06-30T18:08:19+02:00",
-    "updated_at": "2023-06-30T21:26:12+02:00",
+    "updated_at": "2023-07-01T05:45:31+02:00",
     "media_id": "6i7x4vxaknrc",
     "duration": null,
     "canonical_section": {
@@ -640,52 +686,6 @@
       "partner": null
     },
     "url": "/economie/6270354/pantheon-in-rome-gaat-miljoenen-bezoekers-om-entreegeld-vragen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6270357,
-    "slug": "tankfiles-op-vooravond-van-verhoging-accijns-op-brandstof",
-    "type": "video",
-    "title": "Tankfiles op vooravond van verhoging accijns op brandstof",
-    "subtitle": "Video",
-    "published_at": "2023-06-30T17:53:53+02:00",
-    "updated_at": "2023-06-30T17:53:55+02:00",
-    "media_id": "b3bx5t8aik2q",
-    "duration": "0:29",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6270357/tankfiles-op-vooravond-van-verhoging-accijns-op-brandstof.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6270355,
-    "slug": "vn-vredesmissie-in-mali-stopt-na-dringend-verzoek-van-militaire-junta",
-    "type": "article",
-    "title": "VN-vredesmissie in Mali stopt na dringend verzoek van militaire junta",
-    "subtitle": null,
-    "published_at": "2023-06-30T17:44:32+02:00",
-    "updated_at": "2023-06-30T19:43:02+02:00",
-    "media_id": "xd9xbtballrz",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6270355/vn-vredesmissie-in-mali-stopt-na-dringend-verzoek-van-militaire-junta.html",
     "open_new_window": false,
     "partner": null
   }
