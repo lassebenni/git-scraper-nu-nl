@@ -1,12 +1,127 @@
 [
   {
-    "id": 6270420,
-    "slug": "gewilde-marcus-thuram-kiest-voor-inter-en-treedt-in-voetsporen-van-vader-lilian",
+    "id": 6270427,
+    "slug": "willem-janssen-verlaat-vvv-venlo-al-na-een-jaar-voor-rol-in-staf-fc-utrecht",
     "type": "article",
-    "title": "Gewilde Marcus Thuram kiest voor Inter en treedt in voetsporen van vader Lilian",
+    "title": "Willem Janssen verlaat VVV-Venlo al na een jaar voor rol in staf FC Utrecht",
+    "subtitle": null,
+    "published_at": "2023-07-01T12:54:14+02:00",
+    "updated_at": "2023-07-01T12:58:02+02:00",
+    "media_id": "wdpxbe5amr0s",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6270427/willem-janssen-verlaat-vvv-venlo-al-na-een-jaar-voor-rol-in-staf-fc-utrecht.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6270425,
+    "slug": "verstappen-pakt-in-oostenrijk-ook-pole-voor-sprintrace-de-vries-veertiende",
+    "type": "article",
+    "title": "Verstappen pakt in Oostenrijk ook pole voor sprintrace, De Vries veertiende",
+    "subtitle": null,
+    "published_at": "2023-07-01T12:46:23+02:00",
+    "updated_at": "2023-07-01T12:56:36+02:00",
+    "media_id": "e1zxwtva3e39",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772449,
+      "slug": "formule-1",
+      "type": "default",
+      "name": "GP Oostenrijk",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/formule-1/6270425/verstappen-pakt-in-oostenrijk-ook-pole-voor-sprintrace-de-vries-veertiende.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6270423,
+    "slug": "ruim-1300-mensen-aangehouden-in-frankrijk-bij-protesten-na-dood-franse-tiener",
+    "type": "article",
+    "title": "Ruim 1.300 mensen aangehouden in Frankrijk bij protesten na dood Franse tiener",
+    "subtitle": null,
+    "published_at": "2023-07-01T12:44:58+02:00",
+    "updated_at": "2023-07-01T12:45:00+02:00",
+    "media_id": "kjix894aajxp",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6270423/ruim-1300-mensen-aangehouden-in-frankrijk-bij-protesten-na-dood-franse-tiener.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6270424,
+    "slug": "prominent-sp-kamerlid-renske-leijten-verlaat-na-17-jaar-tweede-kamer",
+    "type": "article",
+    "title": "Prominent SP-Kamerlid Renske Leijten verlaat na 17 jaar Tweede Kamer",
+    "subtitle": null,
+    "published_at": "2023-07-01T12:37:37+02:00",
+    "updated_at": "2023-07-01T12:59:48+02:00",
+    "media_id": "n3uxucqa90ht",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771437,
+      "slug": "politiek",
+      "type": "default",
+      "name": "Politiek",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/politiek/6270424/prominent-sp-kamerlid-renske-leijten-verlaat-na-17-jaar-tweede-kamer.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6270421,
+    "slug": "poldervaart-is-voldoende-hersteld-en-wordt-assistent-van-buijs-bij-fortuna-sittard",
+    "type": "article",
+    "title": "Poldervaart is voldoende hersteld en wordt assistent van Buijs bij Fortuna Sittard",
+    "subtitle": null,
+    "published_at": "2023-07-01T12:05:41+02:00",
+    "updated_at": "2023-07-01T12:21:08+02:00",
+    "media_id": "dbhx6vfay9fn",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6270421/poldervaart-is-voldoende-hersteld-en-wordt-assistent-van-buijs-bij-fortuna-sittard.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6270420,
+    "slug": "gewilde-marcus-thuram-kiest-voor-serie-a-en-treedt-in-voetsporen-van-vader-lilian",
+    "type": "article",
+    "title": "Gewilde Marcus Thuram kiest voor Serie A en treedt in voetsporen van vader Lilian",
     "subtitle": null,
     "published_at": "2023-07-01T12:00:54+02:00",
-    "updated_at": "2023-07-01T12:00:55+02:00",
+    "updated_at": "2023-07-01T12:32:59+02:00",
     "media_id": "f9qxkzcahrec",
     "duration": null,
     "canonical_section": {
@@ -18,18 +133,18 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6270420/gewilde-marcus-thuram-kiest-voor-inter-en-treedt-in-voetsporen-van-vader-lilian.html",
+    "url": "/voetbal/6270420/gewilde-marcus-thuram-kiest-voor-serie-a-en-treedt-in-voetsporen-van-vader-lilian.html",
     "open_new_window": false,
     "partner": null
   },
   {
     "id": 6270416,
-    "slug": "slavernijmonument-vlissingen-op-ketikoti-beklad-met-racistische-leuzen",
+    "slug": "slavernijmonument-vlissingen-beklad-met-racistische-leuzen-maker-doet-aangifte",
     "type": "article",
-    "title": "Slavernijmonument Vlissingen op Ketikoti beklad met racistische leuzen",
+    "title": "Slavernijmonument Vlissingen beklad met racistische leuzen, maker doet aangifte",
     "subtitle": null,
     "published_at": "2023-07-01T11:42:03+02:00",
-    "updated_at": "2023-07-01T11:56:11+02:00",
+    "updated_at": "2023-07-01T12:17:53+02:00",
     "media_id": "xrrx0rxat4eh",
     "duration": null,
     "canonical_section": {
@@ -41,19 +156,19 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/keti-koti/6270416/slavernijmonument-vlissingen-op-ketikoti-beklad-met-racistische-leuzen.html",
+    "url": "/keti-koti/6270416/slavernijmonument-vlissingen-beklad-met-racistische-leuzen-maker-doet-aangifte.html",
     "open_new_window": false,
     "partner": null
   },
   {
     "id": 6270415,
-    "slug": "coureurs-maken-zich-op-voor-sprintkwalificatie-in-oostenrijk",
+    "slug": "verstappen-begint-ook-sprintrace-vooraan-auto-voelt-goed-aan",
     "type": "article",
-    "title": "Coureurs maken zich op voor sprintkwalificatie in Oostenrijk",
+    "title": "Verstappen begint ook sprintrace vooraan: 'Auto voelt goed aan'",
     "subtitle": "Liveblog",
     "published_at": "2023-07-01T11:35:37+02:00",
-    "updated_at": "2023-07-01T11:37:15+02:00",
-    "media_id": "ndlxzrvah2dc",
+    "updated_at": "2023-07-01T12:53:02+02:00",
+    "media_id": "soaxbt1atf4y",
     "duration": null,
     "canonical_section": {
       "id": 1772449,
@@ -64,19 +179,19 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/formule-1/6270415/coureurs-maken-zich-op-voor-sprintkwalificatie-in-oostenrijk.html",
+    "url": "/formule-1/6270415/verstappen-begint-ook-sprintrace-vooraan-auto-voelt-goed-aan.html",
     "open_new_window": false,
     "partner": null
   },
   {
     "id": 6270409,
-    "slug": "van-der-poel-gaat-voor-geel-in-openingsetappe-tour-met-listig-staartje",
+    "slug": "kopgroepje-van-vijf-met-eenkhoorn-rijdt-weg-in-openingsetappe-tour",
     "type": "article",
-    "title": "Van der Poel gaat voor geel in openingsetappe Tour met listig staartje",
+    "title": "Kopgroepje van vijf met Eenkhoorn rijdt weg in openingsetappe Tour",
     "subtitle": "Liveblog",
     "published_at": "2023-07-01T11:35:04+02:00",
-    "updated_at": "2023-07-01T11:35:06+02:00",
-    "media_id": "hujxj49anhr9",
+    "updated_at": "2023-07-01T12:59:44+02:00",
+    "media_id": "et7xs8xasy8k",
     "duration": null,
     "canonical_section": {
       "id": 1772173,
@@ -87,7 +202,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/tour-de-france/6270409/van-der-poel-gaat-voor-geel-in-openingsetappe-tour-met-listig-staartje.html",
+    "url": "/tour-de-france/6270409/kopgroepje-van-vijf-met-eenkhoorn-rijdt-weg-in-openingsetappe-tour.html",
     "open_new_window": false,
     "partner": null
   },
@@ -167,7 +282,7 @@
     "title": "Frans nationaal elftal spreekt zich in gezamenlijk statement uit tegen rellen",
     "subtitle": null,
     "published_at": "2023-07-01T10:31:56+02:00",
-    "updated_at": "2023-07-01T11:00:53+02:00",
+    "updated_at": "2023-07-01T12:51:32+02:00",
     "media_id": "tw7xc8oae445",
     "duration": null,
     "canonical_section": {
@@ -213,7 +328,7 @@
     "title": "Voor hen is het slavernijverleden springlevend: 'Je bent je eigen familie kwijt'",
     "subtitle": null,
     "published_at": "2023-07-01T10:00:59+02:00",
-    "updated_at": "2023-07-01T11:47:12+02:00",
+    "updated_at": "2023-07-01T12:17:39+02:00",
     "media_id": "ztmxsqragxop",
     "duration": null,
     "canonical_section": {
@@ -272,29 +387,6 @@
       "partner": null
     },
     "url": "/stelling/6270288/stelling-ketikoti-moet-ook-in-nederland-een-officiele-feestdag-worden.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6270403,
-    "slug": "explosies-en-branden-tijdens-vierde-nacht-rellen-in-frankrijk",
-    "type": "video",
-    "title": "Explosies en branden tijdens vierde nacht rellen in Frankrijk",
-    "subtitle": "Video",
-    "published_at": "2023-07-01T08:18:20+02:00",
-    "updated_at": "2023-07-01T08:23:02+02:00",
-    "media_id": "87bx7n3afh9g",
-    "duration": "0:40",
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6270403/explosies-en-branden-tijdens-vierde-nacht-rellen-in-frankrijk.html",
     "open_new_window": false,
     "partner": null
   },
@@ -489,7 +581,7 @@
     "title": "Red Bull-baas Horner baalt van tegenvallende Pérez: 'Het is enorm frustrerend'",
     "subtitle": null,
     "published_at": "2023-07-01T05:06:27+02:00",
-    "updated_at": "2023-07-01T08:48:45+02:00",
+    "updated_at": "2023-07-01T12:37:29+02:00",
     "media_id": "w1cxszlaxndo",
     "duration": null,
     "canonical_section": {
@@ -512,7 +604,7 @@
     "title": "Steijn begint aan eerste Ajax-week: 'Ook tegen Tadic kan hij hard zijn'",
     "subtitle": "NU+",
     "published_at": "2023-07-01T05:03:16+02:00",
-    "updated_at": "2023-07-01T05:03:17+02:00",
+    "updated_at": "2023-07-01T12:14:02+02:00",
     "media_id": "2xixab1a7fjf",
     "duration": null,
     "canonical_section": {
@@ -535,7 +627,7 @@
     "title": "Kan Van der Poel de eerste gele trui veroveren? 'Deze rit zit echt op mijn grens'",
     "subtitle": null,
     "published_at": "2023-07-01T05:01:11+02:00",
-    "updated_at": "2023-07-01T08:52:18+02:00",
+    "updated_at": "2023-07-01T12:23:16+02:00",
     "media_id": "kikxhb6ay637",
     "duration": null,
     "canonical_section": {
@@ -594,98 +686,6 @@
       "partner": null
     },
     "url": "/tech/6270392/apple-breekt-record-op-wall-street-met-beurswaarde-van-ruim-3-biljoen-dollar.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6270389,
-    "slug": "leclerc-had-niet-verwacht-zo-dicht-bij-red-bull-te-zitten-goede-stap-vooruit",
-    "type": "article",
-    "title": "Leclerc had niet verwacht zo dicht bij Red Bull te zitten: 'Goede stap vooruit'",
-    "subtitle": null,
-    "published_at": "2023-06-30T22:12:59+02:00",
-    "updated_at": "2023-06-30T22:40:38+02:00",
-    "media_id": "a9txxcfa48xc",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772449,
-      "slug": "formule-1",
-      "type": "default",
-      "name": "GP Oostenrijk",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/formule-1/6270389/leclerc-had-niet-verwacht-zo-dicht-bij-red-bull-te-zitten-goede-stap-vooruit.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6270387,
-    "slug": "femke-bol-loopt-ook-in-lausanne-met-overmacht-naar-winst-op-400-horden",
-    "type": "article",
-    "title": "Femke Bol loopt ook in Lausanne met overmacht naar winst op 400 horden",
-    "subtitle": null,
-    "published_at": "2023-06-30T21:40:39+02:00",
-    "updated_at": "2023-06-30T22:42:36+02:00",
-    "media_id": "7oaxpevazp41",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772456,
-      "slug": "sport-overig",
-      "type": "default",
-      "name": "Sport Overig",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/sport-overig/6270387/femke-bol-loopt-ook-in-lausanne-met-overmacht-naar-winst-op-400-horden.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6270373,
-    "slug": "koolmezen-kunnen-zich-niet-snel-genoeg-aanpassen-aan-klimaatverandering",
-    "type": "article",
-    "title": "Koolmezen kunnen zich niet snel genoeg aanpassen aan klimaatverandering",
-    "subtitle": null,
-    "published_at": "2023-06-30T21:17:21+02:00",
-    "updated_at": "2023-06-30T21:28:27+02:00",
-    "media_id": "77xx7sfaj8fd",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772536,
-      "slug": "dieren",
-      "type": "default",
-      "name": "Dieren",
-      "style": "nunjij",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/dieren/6270373/koolmezen-kunnen-zich-niet-snel-genoeg-aanpassen-aan-klimaatverandering.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6270386,
-    "slug": "oekraine-stuurt-troepen-naar-het-noorden-na-verhuizing-prigozhin-naar-belarus",
-    "type": "article",
-    "title": "Oekraïne stuurt troepen naar het noorden na verhuizing Prigozhin naar Belarus",
-    "subtitle": null,
-    "published_at": "2023-06-30T20:56:27+02:00",
-    "updated_at": "2023-06-30T21:29:29+02:00",
-    "media_id": "iefx2v2a4ajs",
-    "duration": null,
-    "canonical_section": {
-      "id": 1778980,
-      "slug": "spanningen-oekraine",
-      "type": "default",
-      "name": "Oorlog in Oekraïne",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/spanningen-oekraine/6270386/oekraine-stuurt-troepen-naar-het-noorden-na-verhuizing-prigozhin-naar-belarus.html",
     "open_new_window": false,
     "partner": null
   }
