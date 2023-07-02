@@ -1,5 +1,51 @@
 [
   {
+    "id": 6270504,
+    "slug": "politie-gooit-traangas-naar-relschoppers-in-marseille",
+    "type": "video",
+    "title": "Politie gooit traangas naar relschoppers in Marseille",
+    "subtitle": "Video",
+    "published_at": "2023-07-02T08:41:37+02:00",
+    "updated_at": "2023-07-02T08:58:56+02:00",
+    "media_id": "h32xez7asjcj",
+    "duration": "1:01",
+    "canonical_section": {
+      "id": 100,
+      "slug": "algemeen",
+      "type": "default",
+      "name": "Algemeen",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/algemeen/6270504/politie-gooit-traangas-naar-relschoppers-in-marseille.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6270458,
+    "slug": "stelling-spitsheffing-is-een-goede-oplossing-voor-drukte-in-de-trein",
+    "type": "article",
+    "title": "Stelling: Spitsheffing is een goede oplossing voor drukte in de trein",
+    "subtitle": null,
+    "published_at": "2023-07-02T08:06:26+02:00",
+    "updated_at": "2023-07-02T08:06:27+02:00",
+    "media_id": "nbdxzb4au045",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779134,
+      "slug": "stelling",
+      "type": "default",
+      "name": "Stelling",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/stelling/6270458/stelling-spitsheffing-is-een-goede-oplossing-voor-drukte-in-de-trein.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6270501,
     "slug": "weerbericht-mix-van-zon-en-wolken-en-aangename-temperaturen",
     "type": "article",
@@ -29,7 +75,7 @@
     "title": "Relschoppers naar huis Franse burgemeester, echtgenote raakt gewond",
     "subtitle": null,
     "published_at": "2023-07-02T05:37:55+02:00",
-    "updated_at": "2023-07-02T07:38:16+02:00",
+    "updated_at": "2023-07-02T08:54:56+02:00",
     "media_id": "2azx9dsa3zsq",
     "duration": null,
     "canonical_section": {
@@ -328,7 +374,7 @@
     "title": "Van Barneveld zorgt voor sensatie met zege op Van Gerwen in spektakelstuk",
     "subtitle": null,
     "published_at": "2023-07-01T21:18:39+02:00",
-    "updated_at": "2023-07-01T23:41:06+02:00",
+    "updated_at": "2023-07-02T08:02:23+02:00",
     "media_id": "77vx3agafmt1",
     "duration": null,
     "canonical_section": {
@@ -640,52 +686,6 @@
       "partner": null
     },
     "url": "/tour-de-france/6270471/adam-yates-genoot-van-broederstrijd-om-zege-en-geel-ik-spreek-hem-elke-dag.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6270470,
-    "slug": "voorspelling-van-der-poel-komt-uit-in-eerste-tour-rit-ik-ken-mezelf-goed",
-    "type": "article",
-    "title": "Voorspelling Van der Poel komt uit in eerste Tour-rit: 'Ik ken mezelf goed'",
-    "subtitle": null,
-    "published_at": "2023-07-01T17:53:57+02:00",
-    "updated_at": "2023-07-01T20:01:53+02:00",
-    "media_id": "al7x62kah1rm",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772173,
-      "slug": "tour-de-france",
-      "type": "default",
-      "name": "Tour de France",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/tour-de-france/6270470/voorspelling-van-der-poel-komt-uit-in-eerste-tour-rit-ik-ken-mezelf-goed.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6270175,
-    "slug": "statiegeldbeker-is-beter-voor-het-klimaat-als-we-hem-maar-netjes-inleveren",
-    "type": "article",
-    "title": "Statiegeldbeker is beter voor het klimaat, als we hem maar netjes inleveren",
-    "subtitle": "NU+",
-    "published_at": "2023-07-01T17:45:40+02:00",
-    "updated_at": "2023-07-02T07:24:11+02:00",
-    "media_id": "1wwx3d0avhw6",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772754,
-      "slug": "klimaat",
-      "type": "default",
-      "name": "Klimaat",
-      "style": "nuzakelijk",
-      "media_id": "kf4x3b2agsxg",
-      "partner": null
-    },
-    "url": "/klimaat/6270175/statiegeldbeker-is-beter-voor-het-klimaat-als-we-hem-maar-netjes-inleveren.html",
     "open_new_window": false,
     "partner": null
   }
