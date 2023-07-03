@@ -1,5 +1,51 @@
 [
   {
+    "id": 6270584,
+    "slug": "25-punten-is-niet-meer-genoeg-voor-verstappen",
+    "type": "audio",
+    "title": "'25 punten is niet meer genoeg voor Verstappen'",
+    "subtitle": "Podcast De Boordradio",
+    "published_at": "2023-07-03T01:41:50+02:00",
+    "updated_at": "2023-07-03T01:41:52+02:00",
+    "media_id": "36tx2lgapggp",
+    "duration": null,
+    "canonical_section": {
+      "id": 1776659,
+      "slug": "de-boordradio",
+      "type": "default",
+      "name": "De Boordradio",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/de-boordradio/6270584/25-punten-is-niet-meer-genoeg-voor-verstappen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6270583,
+    "slug": "waarom-de-f1-moeite-heeft-om-de-ruim-1200-track-limits-te-voorkomen",
+    "type": "video",
+    "title": "Waarom de F1 moeite heeft om de ruim 1200 track limits te voorkomen",
+    "subtitle": "Explainer",
+    "published_at": "2023-07-03T01:37:56+02:00",
+    "updated_at": "2023-07-03T01:37:57+02:00",
+    "media_id": "zcnxkdpa5blj",
+    "duration": "1:44",
+    "canonical_section": {
+      "id": 1772449,
+      "slug": "formule-1",
+      "type": "default",
+      "name": "GP Oostenrijk",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/formule-1/6270583/waarom-de-f1-moeite-heeft-om-de-ruim-1200-track-limits-te-voorkomen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6270581,
     "slug": "verliezend-finalist-kyrgios-meldt-zich-op-de-valreep-af-voor-wimbledon",
     "type": "article",
@@ -640,52 +686,6 @@
       "partner": null
     },
     "url": "/voetbal/6270509/liverpool-maakt-hongaar-szoboszlai-op-twee-na-duurste-aankoop-in-clubhistorie.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6270314,
-    "slug": "dit-was-het-positieve-en-vrolijke-nieuws-van-deze-week",
-    "type": "article",
-    "title": "Dit was het positieve en vrolijke nieuws van deze week",
-    "subtitle": null,
-    "published_at": "2023-07-02T17:04:07+02:00",
-    "updated_at": "2023-07-02T18:44:41+02:00",
-    "media_id": "mnlxbduabl2u",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779220,
-      "slug": "goed-nieuws",
-      "type": "default",
-      "name": "Goed nieuws",
-      "style": "nuoverig",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/goed-nieuws/6270314/dit-was-het-positieve-en-vrolijke-nieuws-van-deze-week.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6270528,
-    "slug": "ver-van-je-bed-of-belangrijke-ontwikkeling-praat-mee-over-het-nieuwe-pensioen",
-    "type": "article",
-    "title": "Ver van je bed of belangrijke ontwikkeling? Praat mee over het nieuwe pensioen",
-    "subtitle": null,
-    "published_at": "2023-07-02T17:00:59+02:00",
-    "updated_at": "2023-07-02T17:01:00+02:00",
-    "media_id": "n9fxedaa2kuo",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779134,
-      "slug": "stelling",
-      "type": "default",
-      "name": "Stelling",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/stelling/6270528/ver-van-je-bed-of-belangrijke-ontwikkeling-praat-mee-over-het-nieuwe-pensioen.html",
     "open_new_window": false,
     "partner": null
   }
