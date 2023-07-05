@@ -1,12 +1,104 @@
 [
   {
+    "id": 6270973,
+    "slug": "stormachtige-landing-op-schiphol-iedereen-ging-over-zijn-nek",
+    "type": "video",
+    "title": "Stormachtige landing op Schiphol: 'Iedereen ging over zijn nek'",
+    "subtitle": "Video",
+    "published_at": "2023-07-05T13:46:57+02:00",
+    "updated_at": "2023-07-05T13:49:16+02:00",
+    "media_id": "0dhxx1haz4rj",
+    "duration": "1:13",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6270973/stormachtige-landing-op-schiphol-iedereen-ging-over-zijn-nek.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6270954,
+    "slug": "stelling-bij-code-rood-moeten-alle-scholen-dicht",
+    "type": "article",
+    "title": "Stelling: Bij code rood moeten alle scholen dicht",
+    "subtitle": null,
+    "published_at": "2023-07-05T13:44:23+02:00",
+    "updated_at": "2023-07-05T13:44:24+02:00",
+    "media_id": "cy8xqvoacoxh",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779134,
+      "slug": "stelling",
+      "type": "default",
+      "name": "Stelling",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/stelling/6270954/stelling-bij-code-rood-moeten-alle-scholen-dicht.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6270970,
+    "slug": "honderden-schademeldingen-binnen-door-storm-poly",
+    "type": "article",
+    "title": "Honderden schademeldingen binnen door storm Poly",
+    "subtitle": null,
+    "published_at": "2023-07-05T13:21:26+02:00",
+    "updated_at": "2023-07-05T13:39:36+02:00",
+    "media_id": "27fxk0va9sg8",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6270970/honderden-schademeldingen-binnen-door-storm-poly.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6270959,
+    "slug": "zwaarste-zomerstorm-ooit-ontstond-boven-zeer-warm-noordzeewater",
+    "type": "article",
+    "title": "Zwaarste zomerstorm ooit ontstond boven zeer warm Noordzeewater",
+    "subtitle": null,
+    "published_at": "2023-07-05T13:15:13+02:00",
+    "updated_at": "2023-07-05T13:59:33+02:00",
+    "media_id": "zi8x1uzai2li",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772754,
+      "slug": "klimaat",
+      "type": "default",
+      "name": "Klimaat",
+      "style": "nuzakelijk",
+      "media_id": "kf4x3b2agsxg",
+      "partner": null
+    },
+    "url": "/klimaat/6270959/zwaarste-zomerstorm-ooit-ontstond-boven-zeer-warm-noordzeewater.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6270968,
     "slug": "zorgmedewerkers-en-kwetsbare-mensen-kunnen-dit-najaar-coronaprik-krijgen",
     "type": "article",
     "title": "Zorgmedewerkers en kwetsbare mensen kunnen dit najaar coronaprik krijgen",
     "subtitle": null,
     "published_at": "2023-07-05T12:57:30+02:00",
-    "updated_at": "2023-07-05T12:57:33+02:00",
+    "updated_at": "2023-07-05T13:11:11+02:00",
     "media_id": "ejdxe8kaob0i",
     "duration": null,
     "canonical_section": {
@@ -121,7 +213,7 @@
     "title": "Tv- en radiozenders passen programmering aan voor nieuws over storm Poly",
     "subtitle": null,
     "published_at": "2023-07-05T12:21:15+02:00",
-    "updated_at": "2023-07-05T12:40:11+02:00",
+    "updated_at": "2023-07-05T13:56:27+02:00",
     "media_id": "z5rxm9fak5lq",
     "duration": null,
     "canonical_section": {
@@ -144,7 +236,7 @@
     "title": "Bestelwagens in Zandvoort liggen op hun kant door zomerstorm Poly",
     "subtitle": "Video",
     "published_at": "2023-07-05T12:18:59+02:00",
-    "updated_at": "2023-07-05T12:45:08+02:00",
+    "updated_at": "2023-07-05T13:33:50+02:00",
     "media_id": "kcvx0ybayp44",
     "duration": "0:46",
     "canonical_section": {
@@ -185,12 +277,12 @@
   },
   {
     "id": 6270948,
-    "slug": "klassementsrenners-aan-zet-in-tour-bergrit-met-sentimentele-waarde-voor-pogacar",
+    "slug": "jakobsen-heeft-het-niet-breed-in-levendig-begin-van-bergrit-in-tour",
     "type": "article",
-    "title": "Klassementsrenners aan zet in Tour-bergrit met sentimentele waarde voor Pogacar",
+    "title": "Jakobsen heeft het niet breed in levendig begin van bergrit in Tour",
     "subtitle": "Liveblog",
     "published_at": "2023-07-05T12:03:59+02:00",
-    "updated_at": "2023-07-05T12:59:56+02:00",
+    "updated_at": "2023-07-05T13:49:30+02:00",
     "media_id": "e7axthja2ix5",
     "duration": null,
     "canonical_section": {
@@ -202,7 +294,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/tour-de-france/6270948/klassementsrenners-aan-zet-in-tour-bergrit-met-sentimentele-waarde-voor-pogacar.html",
+    "url": "/tour-de-france/6270948/jakobsen-heeft-het-niet-breed-in-levendig-begin-van-bergrit-in-tour.html",
     "open_new_window": false,
     "partner": null
   },
@@ -254,12 +346,12 @@
   },
   {
     "id": 6270947,
-    "slug": "volg-de-storm-poly-terwijl-hij-over-nederland-trekt-met-deze-vier-apps",
+    "slug": "volg-de-storm-terwijl-hij-over-nederland-trekt-met-deze-vier-apps",
     "type": "article",
-    "title": "Volg de storm Poly terwijl hij over Nederland trekt met deze vier apps",
+    "title": "Volg de storm terwijl hij over Nederland trekt met deze vier apps",
     "subtitle": null,
     "published_at": "2023-07-05T11:44:04+02:00",
-    "updated_at": "2023-07-05T12:04:55+02:00",
+    "updated_at": "2023-07-05T13:07:55+02:00",
     "media_id": "ks8x4rgasf26",
     "duration": null,
     "canonical_section": {
@@ -271,7 +363,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/tech/6270947/volg-de-storm-poly-terwijl-hij-over-nederland-trekt-met-deze-vier-apps.html",
+    "url": "/tech/6270947/volg-de-storm-terwijl-hij-over-nederland-trekt-met-deze-vier-apps.html",
     "open_new_window": false,
     "partner": null
   },
@@ -305,7 +397,7 @@
     "title": "Jakobsen gaat na zware val gewoon verder in Tour: 'Ben hier om te winnen'",
     "subtitle": null,
     "published_at": "2023-07-05T11:39:02+02:00",
-    "updated_at": "2023-07-05T12:06:21+02:00",
+    "updated_at": "2023-07-05T13:26:42+02:00",
     "media_id": "o63x8zlarh8f",
     "duration": null,
     "canonical_section": {
@@ -328,19 +420,19 @@
     "title": "Door storm Poly gedupeerde treinreizigers krijgen geld terug van NS en Arriva",
     "subtitle": null,
     "published_at": "2023-07-05T11:25:21+02:00",
-    "updated_at": "2023-07-05T12:36:14+02:00",
+    "updated_at": "2023-07-05T13:09:13+02:00",
     "media_id": "epbx2lvajaig",
     "duration": null,
     "canonical_section": {
-      "id": 1778989,
-      "slug": "storm-eunice",
+      "id": 99,
+      "slug": "economie",
       "type": "default",
-      "name": "Storm Poly",
-      "style": "nu",
+      "name": "Economie",
+      "style": "nuzakelijk",
       "media_id": null,
       "partner": null
     },
-    "url": "/storm-eunice/6270935/door-storm-poly-gedupeerde-treinreizigers-krijgen-geld-terug-van-ns-en-arriva.html",
+    "url": "/economie/6270935/door-storm-poly-gedupeerde-treinreizigers-krijgen-geld-terug-van-ns-en-arriva.html",
     "open_new_window": false,
     "partner": null
   },
@@ -351,7 +443,7 @@
     "title": "Ook veel bezorgers blijven thuis vanwege storm Poly",
     "subtitle": null,
     "published_at": "2023-07-05T11:23:29+02:00",
-    "updated_at": "2023-07-05T11:47:31+02:00",
+    "updated_at": "2023-07-05T13:10:30+02:00",
     "media_id": "axex4q2adwlv",
     "duration": null,
     "canonical_section": {
@@ -415,12 +507,12 @@
   },
   {
     "id": 6270911,
-    "slug": "storm-poly-eist-eerste-leven-vrouw-in-haarlem-overleden-door-boom-op-auto",
+    "slug": "storm-poly-eist-leven-vrouw-in-haarlem-overleden-door-boom-op-auto",
     "type": "article",
-    "title": "Storm Poly eist eerste leven: vrouw in Haarlem overleden door boom op auto",
+    "title": "Storm Poly eist leven: vrouw in Haarlem overleden door boom op auto",
     "subtitle": null,
     "published_at": "2023-07-05T11:09:48+02:00",
-    "updated_at": "2023-07-05T12:43:14+02:00",
+    "updated_at": "2023-07-05T13:22:31+02:00",
     "media_id": "q2yxm79alsv7",
     "duration": null,
     "canonical_section": {
@@ -432,7 +524,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/storm-eunice/6270911/storm-poly-eist-eerste-leven-vrouw-in-haarlem-overleden-door-boom-op-auto.html",
+    "url": "/storm-eunice/6270911/storm-poly-eist-leven-vrouw-in-haarlem-overleden-door-boom-op-auto.html",
     "open_new_window": false,
     "partner": null
   },
@@ -466,7 +558,7 @@
     "title": "Hoe laat is de storm bij jou op z'n hoogtepunt? Bekijk het hier",
     "subtitle": null,
     "published_at": "2023-07-05T10:57:43+02:00",
-    "updated_at": "2023-07-05T11:13:15+02:00",
+    "updated_at": "2023-07-05T13:57:11+02:00",
     "media_id": "f6mxtiaaz0mi",
     "duration": null,
     "canonical_section": {
@@ -558,7 +650,7 @@
     "title": "Storm Poly raast over Nederland en laat een flinke ravage achter",
     "subtitle": "In beeld",
     "published_at": "2023-07-05T10:22:13+02:00",
-    "updated_at": "2023-07-05T11:46:34+02:00",
+    "updated_at": "2023-07-05T13:17:38+02:00",
     "media_id": "9qlxvzmaujyn",
     "duration": null,
     "canonical_section": {
@@ -594,98 +686,6 @@
       "partner": null
     },
     "url": "/tech/6270918/veiligheidsregio-tuigt-stormliveblog-op-omdat-musk-twitter-heeft-dichtgetrokken.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6270773,
-    "slug": "circuit-zandvoort-mag-natuurvergunning-definitief-houden-van-raad-van-state",
-    "type": "article",
-    "title": "Circuit Zandvoort mag natuurvergunning definitief houden van Raad van State",
-    "subtitle": null,
-    "published_at": "2023-07-05T10:17:25+02:00",
-    "updated_at": "2023-07-05T10:58:30+02:00",
-    "media_id": "o5vxsodawdp0",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6270773/circuit-zandvoort-mag-natuurvergunning-definitief-houden-van-raad-van-state.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6270916,
-    "slug": "werkenden-vallen-steeds-vaker-uit-met-stress-of-burn-outklachten",
-    "type": "article",
-    "title": "Werkenden vallen steeds vaker uit met stress of burn-outklachten",
-    "subtitle": null,
-    "published_at": "2023-07-05T10:03:51+02:00",
-    "updated_at": "2023-07-05T11:43:34+02:00",
-    "media_id": "lcmx28wahn3o",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6270916/werkenden-vallen-steeds-vaker-uit-met-stress-of-burn-outklachten.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6270910,
-    "slug": "bomen-langs-a9-waaien-om-door-storm-poly",
-    "type": "video",
-    "title": "Bomen langs A9 waaien om door storm Poly",
-    "subtitle": "Video",
-    "published_at": "2023-07-05T09:36:55+02:00",
-    "updated_at": "2023-07-05T09:36:56+02:00",
-    "media_id": "6qgxzzea1uh0",
-    "duration": "0:46",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6270910/bomen-langs-a9-waaien-om-door-storm-poly.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6270909,
-    "slug": "heel-noord-holland-krijgt-nl-alert-en-moet-binnenblijven-vanwege-storm-poly",
-    "type": "article",
-    "title": "Heel Noord-Holland krijgt NL-Alert en moet binnenblijven vanwege storm Poly",
-    "subtitle": null,
-    "published_at": "2023-07-05T09:33:17+02:00",
-    "updated_at": "2023-07-05T09:43:39+02:00",
-    "media_id": "b9wxi48at64y",
-    "duration": null,
-    "canonical_section": {
-      "id": 1778989,
-      "slug": "storm-eunice",
-      "type": "default",
-      "name": "Storm Poly",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/storm-eunice/6270909/heel-noord-holland-krijgt-nl-alert-en-moet-binnenblijven-vanwege-storm-poly.html",
     "open_new_window": false,
     "partner": null
   }
