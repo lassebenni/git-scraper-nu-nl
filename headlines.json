@@ -1,5 +1,51 @@
 [
   {
+    "id": 6270883,
+    "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
+    "type": "article",
+    "title": "Het Woord van vandaag: Raad jij het woord van de dag?",
+    "subtitle": null,
+    "published_at": "2023-07-05T06:55:07+02:00",
+    "updated_at": "2023-07-05T06:55:08+02:00",
+    "media_id": "5orxtf5awygy",
+    "duration": null,
+    "canonical_section": {
+      "id": 1773179,
+      "slug": "uitgelicht",
+      "type": "default",
+      "name": "Uitgelicht",
+      "style": "mediapartner-external",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/uitgelicht/6270883/het-woord-van-vandaag-raad-jij-het-woord-van-de-dag.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6270876,
+    "slug": "huizen-en-kantoren-co2-negatief-bouwen-het-kan-als-het-biobased-is",
+    "type": "video",
+    "title": "Huizen en kantoren CO2-negatief bouwen: het kan als het biobased is",
+    "subtitle": "Explainer",
+    "published_at": "2023-07-05T06:34:54+02:00",
+    "updated_at": "2023-07-05T06:34:55+02:00",
+    "media_id": "1yvxhb5a78en",
+    "duration": "2:36",
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6270876/huizen-en-kantoren-co2-negatief-bouwen-het-kan-als-het-biobased-is.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6270881,
     "slug": "weerbericht-je-kan-vandaag-beter-je-regenjas-meenemen-dan-je-paraplu",
     "type": "article",
@@ -50,9 +96,9 @@
     "slug": "festival-of-museumbezoek-is-knap-lastig-als-je-prikkelgevoelig-bent",
     "type": "article",
     "title": "Festival- of museumbezoek is knap lastig als je prikkelgevoelig bent",
-    "subtitle": "NU+",
+    "subtitle": null,
     "published_at": "2023-07-05T05:10:11+02:00",
-    "updated_at": "2023-07-05T05:10:13+02:00",
+    "updated_at": "2023-07-05T06:44:06+02:00",
     "media_id": "nprxiqpans5e",
     "duration": null,
     "canonical_section": {
@@ -75,7 +121,7 @@
     "title": "Ook op een circuit is sprinten in de Tour chaotisch: 'Het was supergevaarlijk'",
     "subtitle": null,
     "published_at": "2023-07-05T05:06:24+02:00",
-    "updated_at": "2023-07-05T05:06:25+02:00",
+    "updated_at": "2023-07-05T06:43:25+02:00",
     "media_id": "l7txvwracwu2",
     "duration": null,
     "canonical_section": {
@@ -185,12 +231,12 @@
   },
   {
     "id": 6270879,
-    "slug": "knmi-waarschuwt-voor-storm-poly-code-oranje-om-zeer-zware-windstoten",
+    "slug": "code-oranje-vanwege-storm-poly-kans-op-zeer-zware-windstoten-in-groot-deel-van-het-land",
     "type": "article",
-    "title": "KNMI waarschuwt voor storm Poly: code oranje om zeer zware windstoten",
+    "title": "Code oranje vanwege storm Poly: kans op zeer zware windstoten in groot deel van het land",
     "subtitle": null,
     "published_at": "2023-07-05T04:31:33+02:00",
-    "updated_at": "2023-07-05T06:00:57+02:00",
+    "updated_at": "2023-07-05T06:57:49+02:00",
     "media_id": "2yoxvz6aoe3s",
     "duration": null,
     "canonical_section": {
@@ -202,7 +248,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/binnenland/6270879/knmi-waarschuwt-voor-storm-poly-code-oranje-om-zeer-zware-windstoten.html",
+    "url": "/binnenland/6270879/code-oranje-vanwege-storm-poly-kans-op-zeer-zware-windstoten-in-groot-deel-van-het-land.html",
     "open_new_window": false,
     "partner": null
   },
@@ -210,10 +256,10 @@
     "id": 6270878,
     "slug": "jetten-waarschuwt-kabinet-kan-klimaatmiljarden-ook-zonder-fonds-uitgeven",
     "type": "article",
-    "title": "Jetten waarschuwt: kabinet kan klimaatmiljarden ook zonder fonds uitgeven",
+    "title": "Jetten waarschuwt: Kabinet kan klimaatmiljarden ook zonder fonds uitgeven",
     "subtitle": null,
     "published_at": "2023-07-05T01:43:27+02:00",
-    "updated_at": "2023-07-05T01:43:29+02:00",
+    "updated_at": "2023-07-05T06:42:04+02:00",
     "media_id": "phpxsavajnnn",
     "duration": null,
     "canonical_section": {
@@ -443,7 +489,7 @@
     "title": "Voetbalcoach Vera Pauw in 2018 bedreigd door staflid: 'Schiet kogel door je hoofd'",
     "subtitle": null,
     "published_at": "2023-07-04T21:01:27+02:00",
-    "updated_at": "2023-07-04T22:36:08+02:00",
+    "updated_at": "2023-07-05T06:49:14+02:00",
     "media_id": "c48x2ghazwdt",
     "duration": null,
     "canonical_section": {
@@ -640,52 +686,6 @@
       "partner": null
     },
     "url": "/binnenland-en-buitenland/6270850/britse-politie-heeft-nieuw-bewijs-over-partygate-schandaal.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6270849,
-    "slug": "duo-philipsen-van-der-poel-slaat-weer-toe-mathieu-als-lead-out-is-een-voorrecht",
-    "type": "article",
-    "title": "Duo Philipsen-Van der Poel slaat weer toe: 'Mathieu als lead-out is een voorrecht'",
-    "subtitle": null,
-    "published_at": "2023-07-04T18:58:04+02:00",
-    "updated_at": "2023-07-04T21:21:43+02:00",
-    "media_id": "iujxejjavzev",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772173,
-      "slug": "tour-de-france",
-      "type": "default",
-      "name": "Tour de France",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/tour-de-france/6270849/duo-philipsen-van-der-poel-slaat-weer-toe-mathieu-als-lead-out-is-een-voorrecht.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6270846,
-    "slug": "regen-teistert-wimbledon-partijen-van-nederlanders-verplaatst-naar-woensdag",
-    "type": "article",
-    "title": "Regen teistert Wimbledon: partijen van Nederlanders verplaatst naar woensdag",
-    "subtitle": null,
-    "published_at": "2023-07-04T18:32:47+02:00",
-    "updated_at": "2023-07-04T22:28:50+02:00",
-    "media_id": "tacx6e2a343h",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772432,
-      "slug": "tennis",
-      "type": "default",
-      "name": "Tennis",
-      "style": "nusport",
-      "media_id": "m1oxohpan0gq",
-      "partner": null
-    },
-    "url": "/tennis/6270846/regen-teistert-wimbledon-partijen-van-nederlanders-verplaatst-naar-woensdag.html",
     "open_new_window": false,
     "partner": null
   }
