@@ -1,5 +1,51 @@
 [
   {
+    "id": 6270881,
+    "slug": "weerbericht-je-kan-vandaag-beter-je-regenjas-meenemen-dan-je-paraplu",
+    "type": "article",
+    "title": "Weerbericht: Je kan vandaag beter je regenjas meenemen dan je paraplu",
+    "subtitle": null,
+    "published_at": "2023-07-05T05:34:21+02:00",
+    "updated_at": "2023-07-05T05:34:23+02:00",
+    "media_id": "0xbxatqa0kd8",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6270881/weerbericht-je-kan-vandaag-beter-je-regenjas-meenemen-dan-je-paraplu.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6270880,
+    "slug": "volg-hier-hoe-nederland-zich-schrap-zet-voor-storm-poly",
+    "type": "article",
+    "title": "Volg hier hoe Nederland zich schrap zet voor storm Poly",
+    "subtitle": "Liveblog",
+    "published_at": "2023-07-05T05:20:28+02:00",
+    "updated_at": "2023-07-05T05:40:43+02:00",
+    "media_id": "1ykxzpmaup4l",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6270880/volg-hier-hoe-nederland-zich-schrap-zet-voor-storm-poly.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6270652,
     "slug": "festival-of-museumbezoek-is-knap-lastig-als-je-prikkelgevoelig-bent",
     "type": "article",
@@ -144,7 +190,7 @@
     "title": "KNMI waarschuwt voor storm Poly: code oranje om zeer zware windstoten",
     "subtitle": null,
     "published_at": "2023-07-05T04:31:33+02:00",
-    "updated_at": "2023-07-05T04:43:31+02:00",
+    "updated_at": "2023-07-05T06:00:57+02:00",
     "media_id": "2yoxvz6aoe3s",
     "duration": null,
     "canonical_section": {
@@ -640,52 +686,6 @@
       "partner": null
     },
     "url": "/tennis/6270846/regen-teistert-wimbledon-partijen-van-nederlanders-verplaatst-naar-woensdag.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6270845,
-    "slug": "supermaan-verlicht-hemel-boven-diverse-plekken-wereldwijd",
-    "type": "video",
-    "title": "Supermaan verlicht hemel boven diverse plekken wereldwijd",
-    "subtitle": "Video",
-    "published_at": "2023-07-04T18:28:29+02:00",
-    "updated_at": "2023-07-04T18:30:55+02:00",
-    "media_id": "ortxvoza9gwr",
-    "duration": "0:40",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6270845/supermaan-verlicht-hemel-boven-diverse-plekken-wereldwijd.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6270842,
-    "slug": "van-vleuten-ontsnapte-in-afdaling-giro-aan-harde-val-nam-iets-te-veel-risico",
-    "type": "article",
-    "title": "Van Vleuten ontsnapte in afdaling Giro aan harde val: 'Nam iets te veel risico'",
-    "subtitle": null,
-    "published_at": "2023-07-04T18:21:32+02:00",
-    "updated_at": "2023-07-04T18:21:34+02:00",
-    "media_id": "bioxpnfaqr4a",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772339,
-      "slug": "wielrennen",
-      "type": "default",
-      "name": "Wielrennen",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/wielrennen/6270842/van-vleuten-ontsnapte-in-afdaling-giro-aan-harde-val-nam-iets-te-veel-risico.html",
     "open_new_window": false,
     "partner": null
   }
