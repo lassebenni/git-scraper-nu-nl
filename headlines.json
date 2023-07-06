@@ -1,5 +1,120 @@
 [
   {
+    "id": 6271084,
+    "slug": "di-maria-35-kiest-in-herfst-van-zijn-carriere-voor-terugkeer-naar-benfica",
+    "type": "article",
+    "title": "Di María (35) kiest in herfst van zijn carrière voor terugkeer naar Benfica",
+    "subtitle": null,
+    "published_at": "2023-07-06T07:21:54+02:00",
+    "updated_at": "2023-07-06T07:37:28+02:00",
+    "media_id": "wd4x74pah28v",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6271084/di-maria-35-kiest-in-herfst-van-zijn-carriere-voor-terugkeer-naar-benfica.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6271082,
+    "slug": "treinverkeer-na-dag-vol-chaos-door-poly-weer-bijna-overal-volgens-schema",
+    "type": "article",
+    "title": "Treinverkeer na dag vol chaos door Poly weer bijna overal volgens schema",
+    "subtitle": null,
+    "published_at": "2023-07-06T07:21:28+02:00",
+    "updated_at": "2023-07-06T07:58:06+02:00",
+    "media_id": "yaixxoraghx8",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6271082/treinverkeer-na-dag-vol-chaos-door-poly-weer-bijna-overal-volgens-schema.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6271083,
+    "slug": "zeker-vier-doden-na-russische-raketaanval-op-west-oekraiense-stad-lviv",
+    "type": "article",
+    "title": "Zeker vier doden na Russische raketaanval op West-Oekraïense stad Lviv",
+    "subtitle": null,
+    "published_at": "2023-07-06T07:20:44+02:00",
+    "updated_at": "2023-07-06T07:52:18+02:00",
+    "media_id": "iobxfxda7l1c",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6271083/zeker-vier-doden-na-russische-raketaanval-op-west-oekraiense-stad-lviv.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6271022,
+    "slug": "krappe-huurmarkt-zorgt-voor-flinke-prijsverhoging-in-grote-steden",
+    "type": "article",
+    "title": "Krappe huurmarkt zorgt voor flinke prijsverhoging in grote steden",
+    "subtitle": null,
+    "published_at": "2023-07-06T07:18:40+02:00",
+    "updated_at": "2023-07-06T07:42:01+02:00",
+    "media_id": "btmxzdoaqjo6",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6271022/krappe-huurmarkt-zorgt-voor-flinke-prijsverhoging-in-grote-steden.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6271080,
+    "slug": "leerkracht-tovert-kindertekeningen-om-in-gehaakte-knuffels",
+    "type": "video",
+    "title": "Leerkracht tovert kindertekeningen om in gehaakte knuffels",
+    "subtitle": "Video",
+    "published_at": "2023-07-06T07:07:45+02:00",
+    "updated_at": "2023-07-06T07:07:46+02:00",
+    "media_id": "kt2xxglazr4g",
+    "duration": "0:29",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6271080/leerkracht-tovert-kindertekeningen-om-in-gehaakte-knuffels.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6270998,
     "slug": "stelling-als-ik-stop-met-roken-is-dat-om-de-prijs-en-niet-om-de-gezondheidsrisicos",
     "type": "article",
@@ -24,12 +139,12 @@
   },
   {
     "id": 6271034,
-    "slug": "waarom-oekraine-het-moeilijk-heeft-met-de-alligatorhelikopter",
+    "slug": "hoe-deze-vliegende-tank-de-oekraiense-luchtafweer-frustreert",
     "type": "video",
-    "title": "Waarom Oekraïne het moeilijk heeft met de 'alligatorhelikopter'",
+    "title": "Hoe deze 'vliegende tank' de Oekraïense luchtafweer frustreert",
     "subtitle": "Explainer",
     "published_at": "2023-07-06T06:35:34+02:00",
-    "updated_at": "2023-07-06T06:35:35+02:00",
+    "updated_at": "2023-07-06T07:23:49+02:00",
     "media_id": "01ex7wsaig1o",
     "duration": "2:00",
     "canonical_section": {
@@ -41,7 +156,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/spanningen-oekraine/6271034/waarom-oekraine-het-moeilijk-heeft-met-de-alligatorhelikopter.html",
+    "url": "/spanningen-oekraine/6271034/hoe-deze-vliegende-tank-de-oekraiense-luchtafweer-frustreert.html",
     "open_new_window": false,
     "partner": null
   },
@@ -52,8 +167,8 @@
     "title": "Ex Peter Gillis sluit deal met Talpa: Nicol Kremers geschrapt uit Massa is Kassa",
     "subtitle": null,
     "published_at": "2023-07-06T06:02:48+02:00",
-    "updated_at": "2023-07-06T06:10:01+02:00",
-    "media_id": "u4ix53gab7r5",
+    "updated_at": "2023-07-06T07:39:20+02:00",
+    "media_id": "qqjxjdba7pcs",
     "duration": null,
     "canonical_section": {
       "id": 1771675,
@@ -72,10 +187,10 @@
     "id": 6271077,
     "slug": "weerbericht-veel-ruimte-voor-zon-in-aanloop-naar-tropisch-weekend",
     "type": "article",
-    "title": "Weerbericht: veel ruimte voor zon in aanloop naar tropisch weekend",
+    "title": "Weerbericht: Veel ruimte voor zon in aanloop naar tropisch weekend",
     "subtitle": null,
     "published_at": "2023-07-06T05:49:24+02:00",
-    "updated_at": "2023-07-06T05:49:26+02:00",
+    "updated_at": "2023-07-06T07:50:51+02:00",
     "media_id": "mt0xdlway3q8",
     "duration": null,
     "canonical_section": {
@@ -98,7 +213,7 @@
     "title": "Het Woord van vandaag: Raad jij het woord van de dag?",
     "subtitle": null,
     "published_at": "2023-07-06T05:21:47+02:00",
-    "updated_at": "2023-07-06T05:21:48+02:00",
+    "updated_at": "2023-07-06T07:45:45+02:00",
     "media_id": "5orxtf5awygy",
     "duration": null,
     "canonical_section": {
@@ -144,7 +259,7 @@
     "title": "Verstappen vindt het oneerlijk om circuit Spa de schuld te geven van fatale crash",
     "subtitle": null,
     "published_at": "2023-07-06T05:17:43+02:00",
-    "updated_at": "2023-07-06T06:49:44+02:00",
+    "updated_at": "2023-07-06T07:46:36+02:00",
     "media_id": "o3mx10jalg4o",
     "duration": null,
     "canonical_section": {
@@ -190,7 +305,7 @@
     "title": "Jumbo-Visma sloopt Pogacar al in eerste bergrit: 'We lieten UAE eerst uitrazen'",
     "subtitle": null,
     "published_at": "2023-07-06T04:58:38+02:00",
-    "updated_at": "2023-07-06T06:54:27+02:00",
+    "updated_at": "2023-07-06T07:43:46+02:00",
     "media_id": "6ayx4t1aobj9",
     "duration": null,
     "canonical_section": {
@@ -213,7 +328,7 @@
     "title": "Beveiligers vinden cocaïne in het Witte Huis, Biden wil weten hoe dat kan",
     "subtitle": null,
     "published_at": "2023-07-06T00:37:37+02:00",
-    "updated_at": "2023-07-06T00:37:39+02:00",
+    "updated_at": "2023-07-06T07:54:51+02:00",
     "media_id": "hrcx2rxa5ilk",
     "duration": null,
     "canonical_section": {
@@ -282,7 +397,7 @@
     "title": "Griekspoor voelde druk op Wimbledon: 'Misschien ging het allemaal iets té goed'",
     "subtitle": null,
     "published_at": "2023-07-05T23:37:24+02:00",
-    "updated_at": "2023-07-06T06:44:00+02:00",
+    "updated_at": "2023-07-06T07:48:28+02:00",
     "media_id": "zrwxqeua3qng",
     "duration": null,
     "canonical_section": {
@@ -374,7 +489,7 @@
     "title": "Onderzoekers vinden 'schat' van half miljoen in darmen van aangespoelde potvis",
     "subtitle": null,
     "published_at": "2023-07-05T21:57:27+02:00",
-    "updated_at": "2023-07-05T22:24:25+02:00",
+    "updated_at": "2023-07-06T07:20:06+02:00",
     "media_id": "r3oxupyaxeim",
     "duration": null,
     "canonical_section": {
@@ -420,7 +535,7 @@
     "title": "Nederland likt wonden na Poly: veel schade, nog treinproblemen in Noord-Holland",
     "subtitle": null,
     "published_at": "2023-07-05T21:40:44+02:00",
-    "updated_at": "2023-07-06T06:13:37+02:00",
+    "updated_at": "2023-07-06T07:15:20+02:00",
     "media_id": "w4rxgnkawnrd",
     "duration": null,
     "canonical_section": {
@@ -571,121 +686,6 @@
       "partner": null
     },
     "url": "/tour-de-france/6271051/met-een-beetje-improviseren-vervult-hindley-zijn-gele-droom-dit-is-zo-cool.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6271050,
-    "slug": "onderzoek-naar-duo-om-mogelijk-discriminerende-fraudecontrole-van-studenten",
-    "type": "article",
-    "title": "Onderzoek naar DUO om mogelijk discriminerende fraudecontrole van studenten",
-    "subtitle": null,
-    "published_at": "2023-07-05T19:26:34+02:00",
-    "updated_at": "2023-07-05T19:53:51+02:00",
-    "media_id": "os5xul9a8a20",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6271050/onderzoek-naar-duo-om-mogelijk-discriminerende-fraudecontrole-van-studenten.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6271047,
-    "slug": "knvb-maakt-vijf-speelsteden-bekend-voor-mogelijk-wk-voor-vrouwen-in-2027",
-    "type": "article",
-    "title": "KNVB maakt vijf speelsteden bekend voor mogelijk WK voor vrouwen in 2027",
-    "subtitle": null,
-    "published_at": "2023-07-05T19:07:37+02:00",
-    "updated_at": "2023-07-05T22:50:24+02:00",
-    "media_id": "cvzxcska1de8",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6271047/knvb-maakt-vijf-speelsteden-bekend-voor-mogelijk-wk-voor-vrouwen-in-2027.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6271048,
-    "slug": "pogacar-stelt-prioriteiten-in-tour-valpartij-van-mijn-vriendin-is-erger-dan-tijdverlies",
-    "type": "article",
-    "title": "Pogacar stelt prioriteiten in Tour: 'Valpartij van mijn vriendin is erger dan tijdverlies'",
-    "subtitle": null,
-    "published_at": "2023-07-05T19:03:19+02:00",
-    "updated_at": "2023-07-06T05:13:44+02:00",
-    "media_id": "yy6xhvbaflcx",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772173,
-      "slug": "tour-de-france",
-      "type": "default",
-      "name": "Tour de France",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/tour-de-france/6271048/pogacar-stelt-prioriteiten-in-tour-valpartij-van-mijn-vriendin-is-erger-dan-tijdverlies.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6271046,
-    "slug": "vingegaard-juicht-nog-niet-na-belangrijke-slag-in-tour-pogacar-geeft-nooit-op",
-    "type": "article",
-    "title": "Vingegaard juicht nog niet na belangrijke slag in Tour: 'Pogacar geeft nooit op'",
-    "subtitle": null,
-    "published_at": "2023-07-05T18:51:34+02:00",
-    "updated_at": "2023-07-05T19:35:33+02:00",
-    "media_id": "ogdxzbha9j73",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772173,
-      "slug": "tour-de-france",
-      "type": "default",
-      "name": "Tour de France",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/tour-de-france/6271046/vingegaard-juicht-nog-niet-na-belangrijke-slag-in-tour-pogacar-geeft-nooit-op.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6271040,
-    "slug": "brussel-onderzoekt-wettelijk-verbod-handel-in-haaienvinnen",
-    "type": "article",
-    "title": "Brussel onderzoekt wettelijk verbod handel in haaienvinnen",
-    "subtitle": null,
-    "published_at": "2023-07-05T18:36:30+02:00",
-    "updated_at": "2023-07-05T19:12:48+02:00",
-    "media_id": "1kfx920a3vdg",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6271040/brussel-onderzoekt-wettelijk-verbod-handel-in-haaienvinnen.html",
     "open_new_window": false,
     "partner": null
   }
