@@ -1,12 +1,81 @@
 [
   {
-    "id": 6271484,
-    "slug": "buitenlandse-media-over-kabinetsval-meesterloodgieter-in-slecht-huwelijk",
+    "id": 6271485,
+    "slug": "djokovic-bereikt-mijlpaal-op-wimbledon-ik-kan-versnellen-wanneer-het-moet",
     "type": "article",
-    "title": "Buitenlandse media over kabinetsval: 'meesterloodgieter' in 'slecht huwelijk'",
+    "title": "Djokovic bereikt mijlpaal op Wimbledon: 'Ik kan versnellen wanneer het moet'",
+    "subtitle": null,
+    "published_at": "2023-07-08T09:42:04+02:00",
+    "updated_at": "2023-07-08T09:42:46+02:00",
+    "media_id": "hv5xiemag0c1",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772456,
+      "slug": "sport-overig",
+      "type": "default",
+      "name": "Sport Overig",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/sport-overig/6271485/djokovic-bereikt-mijlpaal-op-wimbledon-ik-kan-versnellen-wanneer-het-moet.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6271487,
+    "slug": "miljoenen-kijkers-voor-journaals-rondom-val-van-kabinet-rutte-iv",
+    "type": "article",
+    "title": "Miljoenen kijkers voor journaals rondom val van kabinet-Rutte IV",
+    "subtitle": null,
+    "published_at": "2023-07-08T09:29:39+02:00",
+    "updated_at": "2023-07-08T10:01:00+02:00",
+    "media_id": "6yjx2iiaaga1",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771675,
+      "slug": "media",
+      "type": "default",
+      "name": "Media",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/media/6271487/miljoenen-kijkers-voor-journaals-rondom-val-van-kabinet-rutte-iv.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6271486,
+    "slug": "vicepremiers-noemen-val-kabinet-betreurenswaardig-en-onnodig",
+    "type": "video",
+    "title": "Vicepremiers noemen val kabinet 'betreurenswaardig' en 'onnodig'",
+    "subtitle": "Video",
+    "published_at": "2023-07-08T09:12:33+02:00",
+    "updated_at": "2023-07-08T09:18:02+02:00",
+    "media_id": "jh7x8mva10vi",
+    "duration": "1:10",
+    "canonical_section": {
+      "id": 1771437,
+      "slug": "politiek",
+      "type": "default",
+      "name": "Politiek",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/politiek/6271486/vicepremiers-noemen-val-kabinet-betreurenswaardig-en-onnodig.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6271484,
+    "slug": "buitenlandse-media-over-kabinetsval-meester-loodgieter-in-slecht-huwelijk",
+    "type": "article",
+    "title": "Buitenlandse media over kabinetsval: 'Meester-loodgieter' in 'slecht huwelijk'",
     "subtitle": null,
     "published_at": "2023-07-08T08:58:02+02:00",
-    "updated_at": "2023-07-08T08:58:03+02:00",
+    "updated_at": "2023-07-08T09:58:00+02:00",
     "media_id": "r1dx9t1a7utx",
     "duration": null,
     "canonical_section": {
@@ -18,7 +87,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/val-kabinet/6271484/buitenlandse-media-over-kabinetsval-meesterloodgieter-in-slecht-huwelijk.html",
+    "url": "/val-kabinet/6271484/buitenlandse-media-over-kabinetsval-meester-loodgieter-in-slecht-huwelijk.html",
     "open_new_window": false,
     "partner": null
   },
@@ -29,7 +98,7 @@
     "title": "Politieke reacties kabinetsval: 'Rutte onverantwoord hard, haast roekeloos'",
     "subtitle": null,
     "published_at": "2023-07-08T08:45:34+02:00",
-    "updated_at": "2023-07-08T08:54:37+02:00",
+    "updated_at": "2023-07-08T09:34:51+02:00",
     "media_id": "igqxb4kanft7",
     "duration": null,
     "canonical_section": {
@@ -52,7 +121,7 @@
     "title": "Franse rechter verbiedt mars tegen politiegeweld in Parijs",
     "subtitle": null,
     "published_at": "2023-07-08T08:04:46+02:00",
-    "updated_at": "2023-07-08T08:05:37+02:00",
+    "updated_at": "2023-07-08T09:06:06+02:00",
     "media_id": "qonxyhla8pdy",
     "duration": null,
     "canonical_section": {
@@ -98,7 +167,7 @@
     "title": "Dankzij glasvezel zijn we minder afhankelijk van KPN en Ziggo",
     "subtitle": null,
     "published_at": "2023-07-08T08:00:57+02:00",
-    "updated_at": "2023-07-08T08:00:58+02:00",
+    "updated_at": "2023-07-08T09:32:10+02:00",
     "media_id": "wt8xafra5x7c",
     "duration": null,
     "canonical_section": {
@@ -326,9 +395,9 @@
     "slug": "rutte-iv-moest-het-vertrouwen-terugwinnen-maar-dat-bleek-kansloos",
     "type": "article",
     "title": "Rutte IV moest het vertrouwen terugwinnen, maar dat bleek kansloos",
-    "subtitle": null,
+    "subtitle": "NU+",
     "published_at": "2023-07-08T05:00:15+02:00",
-    "updated_at": "2023-07-08T08:54:29+02:00",
+    "updated_at": "2023-07-08T09:09:58+02:00",
     "media_id": "aquxx3hak6tc",
     "duration": null,
     "canonical_section": {
@@ -617,75 +686,6 @@
       "partner": null
     },
     "url": "/val-kabinet/6271462/eerste-reacties-op-val-van-kabinet-rutte-iv.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6271460,
-    "slug": "oud-feyenoorder-tonny-vilhena-vervolgt-tocht-door-europa-bij-panathinaikos",
-    "type": "article",
-    "title": "Oud-Feyenoorder Tonny Vilhena vervolgt tocht door Europa bij Panathinaikos",
-    "subtitle": null,
-    "published_at": "2023-07-07T21:53:17+02:00",
-    "updated_at": "2023-07-07T22:51:23+02:00",
-    "media_id": "l7kx3o4ajr97",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6271460/oud-feyenoorder-tonny-vilhena-vervolgt-tocht-door-europa-bij-panathinaikos.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6271459,
-    "slug": "ex-militair-die-belgische-premier-met-dood-bedreigde-opgepakt-in-noorwegen",
-    "type": "article",
-    "title": "Ex-militair die Belgische premier met dood bedreigde opgepakt in Noorwegen",
-    "subtitle": null,
-    "published_at": "2023-07-07T21:48:06+02:00",
-    "updated_at": "2023-07-07T21:58:40+02:00",
-    "media_id": "f9exda6anmo2",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6271459/ex-militair-die-belgische-premier-met-dood-bedreigde-opgepakt-in-noorwegen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6271457,
-    "slug": "van-de-zandschulp-wijt-wimbledon-exit-niet-aan-gekke-service-weer-matige-start",
-    "type": "article",
-    "title": "Van de Zandschulp wijt Wimbledon-exit niet aan gekke service: 'Wéér matige start'",
-    "subtitle": null,
-    "published_at": "2023-07-07T21:19:55+02:00",
-    "updated_at": "2023-07-07T21:25:44+02:00",
-    "media_id": "08sx96qak7ne",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772432,
-      "slug": "tennis",
-      "type": "default",
-      "name": "Tennis",
-      "style": "nusport",
-      "media_id": "m1oxohpan0gq",
-      "partner": null
-    },
-    "url": "/tennis/6271457/van-de-zandschulp-wijt-wimbledon-exit-niet-aan-gekke-service-weer-matige-start.html",
     "open_new_window": false,
     "partner": null
   }
