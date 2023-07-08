@@ -1,13 +1,105 @@
 [
   {
-    "id": 6271514,
-    "slug": "paul-rabbering-krijgt-tweede-kind",
+    "id": 6271517,
+    "slug": "belgische-politie-grijpt-in-bij-illegale-rave-op-gevaarlijk-militair-terrein",
     "type": "article",
-    "title": "Paul Rabbering krijgt tweede kind",
+    "title": "Belgische politie grijpt in bij illegale rave op gevaarlijk militair terrein",
+    "subtitle": null,
+    "published_at": "2023-07-08T13:51:39+02:00",
+    "updated_at": "2023-07-08T13:58:37+02:00",
+    "media_id": "5ykx4j9aze8h",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6271517/belgische-politie-grijpt-in-bij-illegale-rave-op-gevaarlijk-militair-terrein.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6271523,
+    "slug": "de-vrij-verlengt-week-na-aflopen-contract-alsnog-bij-internazionale",
+    "type": "article",
+    "title": "De Vrij verlengt week na aflopen contract alsnog bij Internazionale",
+    "subtitle": null,
+    "published_at": "2023-07-08T13:41:35+02:00",
+    "updated_at": "2023-07-08T13:54:16+02:00",
+    "media_id": "gd9x525av097",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6271523/de-vrij-verlengt-week-na-aflopen-contract-alsnog-bij-internazionale.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6271521,
+    "slug": "verstappen-klokt-mede-door-regen-achtste-tijd-in-laatste-vrije-training-silverstone",
+    "type": "article",
+    "title": "Verstappen klokt mede door regen achtste tijd in laatste vrije training Silverstone",
+    "subtitle": null,
+    "published_at": "2023-07-08T13:35:48+02:00",
+    "updated_at": "2023-07-08T14:01:12+02:00",
+    "media_id": "ap6xjm2a1rja",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772449,
+      "slug": "formule-1",
+      "type": "default",
+      "name": "GP Groot-Brittannië",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/formule-1/6271521/verstappen-klokt-mede-door-regen-achtste-tijd-in-laatste-vrije-training-silverstone.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6271515,
+    "slug": "tesla-domineert-op-duitse-elektrische-automarkt",
+    "type": "article",
+    "title": "Tesla domineert op Duitse elektrische automarkt",
+    "subtitle": null,
+    "published_at": "2023-07-08T13:06:07+02:00",
+    "updated_at": "2023-07-08T13:53:08+02:00",
+    "media_id": "xonxnj7arvm2",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6271515/tesla-domineert-op-duitse-elektrische-automarkt.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6271514,
+    "slug": "paul-rabbering-wordt-voor-tweede-keer-vader",
+    "type": "article",
+    "title": "Paul Rabbering wordt voor tweede keer vader",
     "subtitle": null,
     "published_at": "2023-07-08T13:01:18+02:00",
-    "updated_at": "2023-07-08T13:01:20+02:00",
-    "media_id": "rynxo4lafyd1",
+    "updated_at": "2023-07-08T13:56:56+02:00",
+    "media_id": "jcyxq31aif7m",
     "duration": null,
     "canonical_section": {
       "id": 125,
@@ -18,7 +110,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/achterklap/6271514/paul-rabbering-krijgt-tweede-kind.html",
+    "url": "/achterklap/6271514/paul-rabbering-wordt-voor-tweede-keer-vader.html",
     "open_new_window": false,
     "partner": null
   },
@@ -29,7 +121,7 @@
     "title": "Koning weer in Nederland voor ontvangst Rutte na val kabinet",
     "subtitle": null,
     "published_at": "2023-07-08T12:57:43+02:00",
-    "updated_at": "2023-07-08T12:57:46+02:00",
+    "updated_at": "2023-07-08T13:50:51+02:00",
     "media_id": "q6hx0cra44fx",
     "duration": null,
     "canonical_section": {
@@ -47,12 +139,12 @@
   },
   {
     "id": 6271509,
-    "slug": "van-der-sar-blijft-op-intensive-care-liggen-situatie-stabiel-maar-zorgwekkend",
+    "slug": "van-der-sar-blijft-op-intensive-care-situatie-stabiel-maar-zorgwekkend",
     "type": "article",
-    "title": "Van der Sar blijft op intensive care liggen, situatie stabiel maar zorgwekkend",
+    "title": "Van der Sar blijft op intensive care, situatie stabiel maar zorgwekkend",
     "subtitle": null,
     "published_at": "2023-07-08T12:56:44+02:00",
-    "updated_at": "2023-07-08T12:59:50+02:00",
+    "updated_at": "2023-07-08T13:49:02+02:00",
     "media_id": "g5wxthmadj5m",
     "duration": null,
     "canonical_section": {
@@ -64,7 +156,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6271509/van-der-sar-blijft-op-intensive-care-liggen-situatie-stabiel-maar-zorgwekkend.html",
+    "url": "/voetbal/6271509/van-der-sar-blijft-op-intensive-care-situatie-stabiel-maar-zorgwekkend.html",
     "open_new_window": false,
     "partner": null
   },
@@ -185,13 +277,13 @@
   },
   {
     "id": 6271501,
-    "slug": "verstappen-houdt-zich-nog-niet-bezig-met-snelle-tijden-in-training-op-silverstone",
+    "slug": "lastige-weersomstandigheden-tijdens-tweede-dag-op-silverstone",
     "type": "article",
-    "title": "Verstappen houdt zich nog niet bezig met snelle tijden in training op Silverstone",
+    "title": "Lastige weersomstandigheden tijdens tweede dag op Silverstone",
     "subtitle": "Liveblog",
     "published_at": "2023-07-08T12:03:13+02:00",
-    "updated_at": "2023-07-08T12:54:47+02:00",
-    "media_id": "oesx478al2wb",
+    "updated_at": "2023-07-08T13:37:53+02:00",
+    "media_id": "onbxf1bao8wt",
     "duration": null,
     "canonical_section": {
       "id": 1772449,
@@ -202,19 +294,19 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/formule-1/6271501/verstappen-houdt-zich-nog-niet-bezig-met-snelle-tijden-in-training-op-silverstone.html",
+    "url": "/formule-1/6271501/lastige-weersomstandigheden-tijdens-tweede-dag-op-silverstone.html",
     "open_new_window": false,
     "partner": null
   },
   {
     "id": 6271500,
-    "slug": "van-der-poel-en-van-aert-ruiken-kansen-in-achtste-tour-etappe",
+    "slug": "peloton-geeft-drie-vluchters-alle-ruimte-in-heuvelrit-tour-de-france",
     "type": "article",
-    "title": "Van der Poel en Van Aert ruiken kansen in achtste Tour-etappe",
+    "title": "Peloton geeft drie vluchters alle ruimte in heuvelrit Tour de France",
     "subtitle": "Liveblog",
     "published_at": "2023-07-08T12:02:13+02:00",
-    "updated_at": "2023-07-08T12:04:09+02:00",
-    "media_id": "t6fxuykadrzs",
+    "updated_at": "2023-07-08T13:46:22+02:00",
+    "media_id": "ff0xnniae7y3",
     "duration": null,
     "canonical_section": {
       "id": 1772173,
@@ -225,18 +317,18 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/tour-de-france/6271500/van-der-poel-en-van-aert-ruiken-kansen-in-achtste-tour-etappe.html",
+    "url": "/tour-de-france/6271500/peloton-geeft-drie-vluchters-alle-ruimte-in-heuvelrit-tour-de-france.html",
     "open_new_window": false,
     "partner": null
   },
   {
     "id": 6271499,
-    "slug": "huizenhoge-opslagtank-wurmt-zich-door-limburgs-dorp-naar-chemiebedrijf",
+    "slug": "huizenhoge-opslagtank-wurmt-zich-door-dorp-naar-chemiebedrijf",
     "type": "video",
-    "title": "Huizenhoge opslagtank wurmt zich door Limburgs dorp naar chemiebedrijf",
+    "title": "Huizenhoge opslagtank wurmt zich door dorp naar chemiebedrijf",
     "subtitle": "Video",
     "published_at": "2023-07-08T11:58:34+02:00",
-    "updated_at": "2023-07-08T11:59:36+02:00",
+    "updated_at": "2023-07-08T13:48:25+02:00",
     "media_id": "aklx9ivaqse9",
     "duration": "0:46",
     "canonical_section": {
@@ -248,7 +340,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/videos/6271499/huizenhoge-opslagtank-wurmt-zich-door-limburgs-dorp-naar-chemiebedrijf.html",
+    "url": "/videos/6271499/huizenhoge-opslagtank-wurmt-zich-door-dorp-naar-chemiebedrijf.html",
     "open_new_window": false,
     "partner": null
   },
@@ -259,7 +351,7 @@
     "title": "John van den Heuvel had anders willen berichten over aanhouding zoon Halsema",
     "subtitle": null,
     "published_at": "2023-07-08T11:34:11+02:00",
-    "updated_at": "2023-07-08T11:46:56+02:00",
+    "updated_at": "2023-07-08T13:16:34+02:00",
     "media_id": "z4sxgvuabmfc",
     "duration": null,
     "canonical_section": {
@@ -512,7 +604,7 @@
     "title": "Franse rechter verbiedt mars tegen politiegeweld in Parijs",
     "subtitle": null,
     "published_at": "2023-07-08T08:04:46+02:00",
-    "updated_at": "2023-07-08T09:06:06+02:00",
+    "updated_at": "2023-07-08T13:36:32+02:00",
     "media_id": "qonxyhla8pdy",
     "duration": null,
     "canonical_section": {
@@ -558,7 +650,7 @@
     "title": "Dankzij glasvezel zijn we minder afhankelijk van KPN en Ziggo",
     "subtitle": null,
     "published_at": "2023-07-08T08:00:57+02:00",
-    "updated_at": "2023-07-08T09:32:10+02:00",
+    "updated_at": "2023-07-08T13:28:17+02:00",
     "media_id": "wt8xafra5x7c",
     "duration": null,
     "canonical_section": {
@@ -594,98 +686,6 @@
       "partner": null
     },
     "url": "/videos/6271471/van-der-burg-vecht-tegen-tranen-ik-had-een-asieldeal-beloofd.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6271478,
-    "slug": "rutte-praat-willem-alexander-bij-koning-keert-eerder-terug-van-vakantie",
-    "type": "article",
-    "title": "Rutte praat Willem-Alexander bij, koning keert eerder terug van vakantie",
-    "subtitle": null,
-    "published_at": "2023-07-08T06:42:46+02:00",
-    "updated_at": "2023-07-08T07:36:30+02:00",
-    "media_id": "6yjx2iiaaga1",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779274,
-      "slug": "val-kabinet",
-      "type": "default",
-      "name": "Val kabinet",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/val-kabinet/6271478/rutte-praat-willem-alexander-bij-koning-keert-eerder-terug-van-vakantie.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6271477,
-    "slug": "weerbericht-het-wordt-de-warmste-dag-van-het-jaar-tot-nu-toe",
-    "type": "article",
-    "title": "Weerbericht: Het wordt de warmste dag van het jaar tot nu toe",
-    "subtitle": null,
-    "published_at": "2023-07-08T06:10:25+02:00",
-    "updated_at": "2023-07-08T08:13:57+02:00",
-    "media_id": "3d5xo7ha6ubk",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6271477/weerbericht-het-wordt-de-warmste-dag-van-het-jaar-tot-nu-toe.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6271415,
-    "slug": "500-dagen-oorlog-zelensky-is-nergens-zonder-deze-mannen",
-    "type": "video",
-    "title": "500 dagen oorlog: Zelensky is nergens zonder deze mannen",
-    "subtitle": "Explainer",
-    "published_at": "2023-07-08T05:32:30+02:00",
-    "updated_at": "2023-07-08T05:32:31+02:00",
-    "media_id": "ffyx9i8a55gh",
-    "duration": "2:51",
-    "canonical_section": {
-      "id": 100,
-      "slug": "algemeen",
-      "type": "default",
-      "name": "Algemeen",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/algemeen/6271415/500-dagen-oorlog-zelensky-is-nergens-zonder-deze-mannen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6271476,
-    "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
-    "type": "article",
-    "title": "Het Woord van vandaag: Raad jij het woord van de dag?",
-    "subtitle": null,
-    "published_at": "2023-07-08T05:19:11+02:00",
-    "updated_at": "2023-07-08T05:19:12+02:00",
-    "media_id": "5orxtf5awygy",
-    "duration": null,
-    "canonical_section": {
-      "id": 1773179,
-      "slug": "uitgelicht",
-      "type": "default",
-      "name": "Uitgelicht",
-      "style": "mediapartner-external",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/uitgelicht/6271476/het-woord-van-vandaag-raad-jij-het-woord-van-de-dag.html",
     "open_new_window": false,
     "partner": null
   }
