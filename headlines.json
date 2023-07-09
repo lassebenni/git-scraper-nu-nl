@@ -1,5 +1,51 @@
 [
   {
+    "id": 6271578,
+    "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
+    "type": "article",
+    "title": "Het Woord van vandaag: Raad jij het woord van de dag?",
+    "subtitle": null,
+    "published_at": "2023-07-09T05:25:18+02:00",
+    "updated_at": "2023-07-09T05:25:19+02:00",
+    "media_id": "5orxtf5awygy",
+    "duration": null,
+    "canonical_section": {
+      "id": 1773179,
+      "slug": "uitgelicht",
+      "type": "default",
+      "name": "Uitgelicht",
+      "style": "mediapartner-external",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/uitgelicht/6271578/het-woord-van-vandaag-raad-jij-het-woord-van-de-dag.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6271570,
+    "slug": "brad-pitt-filmt-in-de-formule-1-het-moet-zo-realistisch-mogelijk",
+    "type": "article",
+    "title": "Brad Pitt filmt in de Formule 1: 'Het moet zo realistisch mogelijk'",
+    "subtitle": null,
+    "published_at": "2023-07-09T05:23:22+02:00",
+    "updated_at": "2023-07-09T05:23:23+02:00",
+    "media_id": "cipx0uda9hbl",
+    "duration": null,
+    "canonical_section": {
+      "id": 1778846,
+      "slug": "nu-formule-1",
+      "type": "default",
+      "name": "NU+ Formule 1",
+      "style": "nusport",
+      "media_id": "gtmxcxnaui5m",
+      "partner": null
+    },
+    "url": "/nu-formule-1/6271570/brad-pitt-filmt-in-de-formule-1-het-moet-zo-realistisch-mogelijk.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6271340,
     "slug": "belastingfraude-mishandeling-waar-wordt-peter-gillis-van-beschuldigd",
     "type": "article",
@@ -640,52 +686,6 @@
       "partner": null
     },
     "url": "/tour-de-france/6271555/pedersen-denkt-aan-legende-cavendish-na-zege-triest-dat-zijn-tour-zo-eindigt.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6271554,
-    "slug": "zelfkritische-van-aert-baalt-van-gemiste-kans-tour-van-net-niet-voor-mij",
-    "type": "article",
-    "title": "Zelfkritische Van Aert baalt van gemiste kans: 'Tour van 'net niet' voor mij'",
-    "subtitle": null,
-    "published_at": "2023-07-08T17:47:49+02:00",
-    "updated_at": "2023-07-08T21:35:21+02:00",
-    "media_id": "gjrxgalauxc9",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772173,
-      "slug": "tour-de-france",
-      "type": "default",
-      "name": "Tour de France",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/tour-de-france/6271554/zelfkritische-van-aert-baalt-van-gemiste-kans-tour-van-net-niet-voor-mij.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6271539,
-    "slug": "verstappen-pakt-onder-lastige-omstandigheden-pole-voor-britse-grand-prix",
-    "type": "article",
-    "title": "Verstappen pakt onder lastige omstandigheden pole voor Britse Grand Prix",
-    "subtitle": null,
-    "published_at": "2023-07-08T17:21:44+02:00",
-    "updated_at": "2023-07-08T19:14:53+02:00",
-    "media_id": "sfxx424ajt65",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772449,
-      "slug": "formule-1",
-      "type": "default",
-      "name": "GP Groot-Brittannië",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/formule-1/6271539/verstappen-pakt-onder-lastige-omstandigheden-pole-voor-britse-grand-prix.html",
     "open_new_window": false,
     "partner": null
   }
