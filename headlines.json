@@ -1,5 +1,120 @@
 [
   {
+    "id": 6271513,
+    "slug": "we-testen-met-een-robot-maar-wij-doen-het-werk",
+    "type": "article",
+    "title": "We testen met een robot, maar wij doen het werk",
+    "subtitle": "Van de hoofdredactie",
+    "published_at": "2023-07-09T09:01:06+02:00",
+    "updated_at": "2023-07-09T09:01:08+02:00",
+    "media_id": "hisxvdka4jy5",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772069,
+      "slug": "blog",
+      "type": "default",
+      "name": "Van de hoofdredactie",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/blog/6271513/we-testen-met-een-robot-maar-wij-doen-het-werk.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6271587,
+    "slug": "president-biden-geniet-van-een-stranddag-met-zijn-vrouw",
+    "type": "video",
+    "title": "President Biden geniet van een stranddag met zijn vrouw",
+    "subtitle": "Video",
+    "published_at": "2023-07-09T08:59:18+02:00",
+    "updated_at": "2023-07-09T08:59:19+02:00",
+    "media_id": "ef3xf25ankjg",
+    "duration": "0:36",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6271587/president-biden-geniet-van-een-stranddag-met-zijn-vrouw.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6271586,
+    "slug": "gimenez-alvarez-en-sanchez-met-mexico-naar-halve-finale-van-gold-cup",
+    "type": "article",
+    "title": "Giménez, Álvarez en Sánchez met Mexico naar halve finale van Gold Cup",
+    "subtitle": null,
+    "published_at": "2023-07-09T08:54:06+02:00",
+    "updated_at": "2023-07-09T08:54:25+02:00",
+    "media_id": "4joxensaqmvr",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6271586/gimenez-alvarez-en-sanchez-met-mexico-naar-halve-finale-van-gold-cup.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6271585,
+    "slug": "shows-suzan-freek-vallen-in-water-door-onweer-festivals-gaan-vooralsnog-door",
+    "type": "article",
+    "title": "Shows Suzan & Freek vallen in water door onweer, festivals gaan vooralsnog door",
+    "subtitle": null,
+    "published_at": "2023-07-09T08:37:09+02:00",
+    "updated_at": "2023-07-09T08:54:58+02:00",
+    "media_id": "vk7xnumap9d1",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772242,
+      "slug": "entertainment",
+      "type": "default",
+      "name": "Media en Cultuur",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/entertainment/6271585/shows-suzan-freek-vallen-in-water-door-onweer-festivals-gaan-vooralsnog-door.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6271553,
+    "slug": "stelling-rutte-is-nog-geloofwaardig-genoeg-om-opnieuw-voor-het-premierschap-te-gaan",
+    "type": "article",
+    "title": "Stelling: Rutte is nog geloofwaardig genoeg om opnieuw voor het premierschap te gaan",
+    "subtitle": null,
+    "published_at": "2023-07-09T08:02:54+02:00",
+    "updated_at": "2023-07-09T08:02:55+02:00",
+    "media_id": "ebixrwdaa4w2",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779134,
+      "slug": "stelling",
+      "type": "default",
+      "name": "Stelling",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/stelling/6271553/stelling-rutte-is-nog-geloofwaardig-genoeg-om-opnieuw-voor-het-premierschap-te-gaan.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6271584,
     "slug": "zo-kan-een-klein-bloemetje-ons-beschermen-tegen-overstromingen",
     "type": "video",
@@ -29,7 +144,7 @@
     "title": "Weerbericht: Eerst nog zon, maar later op de dag veel regen en onweer",
     "subtitle": null,
     "published_at": "2023-07-09T06:31:38+02:00",
-    "updated_at": "2023-07-09T06:31:39+02:00",
+    "updated_at": "2023-07-09T08:27:26+02:00",
     "media_id": "8tix96wavdjt",
     "duration": null,
     "canonical_section": {
@@ -47,12 +162,12 @@
   },
   {
     "id": 6271579,
-    "slug": "code-oranje-in-het-oosten-en-zuidoosten-voor-onweer-hagel-en-windstoten",
+    "slug": "code-oranje-in-oosten-en-zuidoosten-wegens-onweer-hagel-en-windstoten",
     "type": "article",
-    "title": "Code oranje in het oosten en zuidoosten voor onweer, hagel en windstoten",
+    "title": "Code oranje in oosten en zuidoosten wegens onweer, hagel en windstoten",
     "subtitle": null,
     "published_at": "2023-07-09T06:05:30+02:00",
-    "updated_at": "2023-07-09T06:13:47+02:00",
+    "updated_at": "2023-07-09T08:34:29+02:00",
     "media_id": "jwpxj82asis5",
     "duration": null,
     "canonical_section": {
@@ -64,7 +179,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/binnenland/6271579/code-oranje-in-het-oosten-en-zuidoosten-voor-onweer-hagel-en-windstoten.html",
+    "url": "/binnenland/6271579/code-oranje-in-oosten-en-zuidoosten-wegens-onweer-hagel-en-windstoten.html",
     "open_new_window": false,
     "partner": null
   },
@@ -139,12 +254,12 @@
   },
   {
     "id": 6271409,
-    "slug": "oekraine-krijgt-mogelijk-clusterbommen-van-vs-dit-maakt-ze-controversieel",
+    "slug": "oekraine-krijgt-mogelijk-clusterbommen-waarom-zijn-ze-omstreden",
     "type": "video",
-    "title": "Oekraïne krijgt mogelijk clusterbommen van VS: dit maakt ze controversieel",
+    "title": "Oekraïne krijgt mogelijk clusterbommen: waarom zijn ze omstreden?",
     "subtitle": "Explainer",
     "published_at": "2023-07-09T05:09:38+02:00",
-    "updated_at": "2023-07-09T05:09:39+02:00",
+    "updated_at": "2023-07-09T08:57:19+02:00",
     "media_id": "9ehxsshaikyt",
     "duration": "2:16",
     "canonical_section": {
@@ -156,18 +271,18 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/algemeen/6271409/oekraine-krijgt-mogelijk-clusterbommen-van-vs-dit-maakt-ze-controversieel.html",
+    "url": "/algemeen/6271409/oekraine-krijgt-mogelijk-clusterbommen-waarom-zijn-ze-omstreden.html",
     "open_new_window": false,
     "partner": null
   },
   {
     "id": 6271192,
-    "slug": "klimaat-en-milieu-zijn-de-stille-slachtoffers-van-de-oorlog-in-oekraine",
+    "slug": "klimaat-en-milieuschade-door-oorlog-in-oekraine-is-blinde-vlek",
     "type": "article",
-    "title": "Klimaat en milieu zijn de 'stille slachtoffers' van de oorlog in Oekraïne",
-    "subtitle": null,
+    "title": "Klimaat- en milieuschade door oorlog in Oekraïne is 'blinde vlek'",
+    "subtitle": "NU+",
     "published_at": "2023-07-09T05:07:16+02:00",
-    "updated_at": "2023-07-09T07:54:56+02:00",
+    "updated_at": "2023-07-09T09:00:36+02:00",
     "media_id": "chsx12ba58dj",
     "duration": null,
     "canonical_section": {
@@ -179,7 +294,7 @@
       "media_id": "kf4x3b2agsxg",
       "partner": null
     },
-    "url": "/klimaat/6271192/klimaat-en-milieu-zijn-de-stille-slachtoffers-van-de-oorlog-in-oekraine.html",
+    "url": "/klimaat/6271192/klimaat-en-milieuschade-door-oorlog-in-oekraine-is-blinde-vlek.html",
     "open_new_window": false,
     "partner": null
   },
@@ -188,9 +303,9 @@
     "slug": "puy-de-dome-opent-slagboom-voor-tour-mythische-berg-na-35-jaar-terug",
     "type": "article",
     "title": "Puy de Dôme opent slagboom voor Tour: mythische berg na 35 jaar terug",
-    "subtitle": null,
+    "subtitle": "NU+",
     "published_at": "2023-07-09T05:05:25+02:00",
-    "updated_at": "2023-07-09T07:55:35+02:00",
+    "updated_at": "2023-07-09T08:17:33+02:00",
     "media_id": "dzwx78laihw6",
     "duration": null,
     "canonical_section": {
@@ -210,10 +325,10 @@
     "id": 6271039,
     "slug": "wat-doet-en-verdient-een-ploegleider-in-de-tour-de-france",
     "type": "article",
-    "title": "Wat doet en verdient een ploegleider in de Tour de France",
+    "title": "Wat doet en verdient een ploegleider in de Tour de France?",
     "subtitle": null,
     "published_at": "2023-07-09T05:01:46+02:00",
-    "updated_at": "2023-07-09T05:01:47+02:00",
+    "updated_at": "2023-07-09T08:52:15+02:00",
     "media_id": "450xy6eadgs8",
     "duration": null,
     "canonical_section": {
@@ -254,12 +369,12 @@
   },
   {
     "id": 6271531,
-    "slug": "bbb-omtzigt-en-worstelend-leiderschap-hoe-staan-de-partijen-ervoor",
+    "slug": "sneller-naar-de-stembus-dan-verwacht-verkiezingen-komen-de-ene-partij-beter-uit-dan-de-andere",
     "type": "article",
-    "title": "BBB, Omtzigt en worstelend leiderschap: hoe staan de partijen ervoor?",
+    "title": "Sneller naar de stembus dan verwacht: verkiezingen komen de ene partij beter uit dan de andere",
     "subtitle": null,
     "published_at": "2023-07-09T05:00:01+02:00",
-    "updated_at": "2023-07-09T05:00:03+02:00",
+    "updated_at": "2023-07-09T08:12:11+02:00",
     "media_id": "v6lxj7waq6vu",
     "duration": null,
     "canonical_section": {
@@ -271,18 +386,18 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/val-kabinet/6271531/bbb-omtzigt-en-worstelend-leiderschap-hoe-staan-de-partijen-ervoor.html",
+    "url": "/val-kabinet/6271531/sneller-naar-de-stembus-dan-verwacht-verkiezingen-komen-de-ene-partij-beter-uit-dan-de-andere.html",
     "open_new_window": false,
     "partner": null
   },
   {
     "id": 6271576,
-    "slug": "onderzoekers-aantal-gebruikers-van-twitter-rivaal-bluesky-social-schiet-omhoog",
+    "slug": "aantal-gebruikers-van-twitter-rivaal-bluesky-schiet-omhoog",
     "type": "article",
-    "title": "Onderzoekers: aantal gebruikers van Twitter-rivaal Bluesky Social schiet omhoog",
+    "title": "Aantal gebruikers van Twitter-rivaal Bluesky schiet omhoog",
     "subtitle": null,
     "published_at": "2023-07-09T00:18:09+02:00",
-    "updated_at": "2023-07-09T00:18:11+02:00",
+    "updated_at": "2023-07-09T08:13:48+02:00",
     "media_id": "7ryx1fwaxhl9",
     "duration": null,
     "canonical_section": {
@@ -294,7 +409,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/tech/6271576/onderzoekers-aantal-gebruikers-van-twitter-rivaal-bluesky-social-schiet-omhoog.html",
+    "url": "/tech/6271576/aantal-gebruikers-van-twitter-rivaal-bluesky-schiet-omhoog.html",
     "open_new_window": false,
     "partner": null
   },
@@ -305,7 +420,7 @@
     "title": "McDonald's beperkt gebruik van tomaten in India vanwege tekorten",
     "subtitle": null,
     "published_at": "2023-07-08T23:49:19+02:00",
-    "updated_at": "2023-07-08T23:49:21+02:00",
+    "updated_at": "2023-07-09T08:13:18+02:00",
     "media_id": "3shx7v5aev6d",
     "duration": null,
     "canonical_section": {
@@ -328,7 +443,7 @@
     "title": "Oud-basketballer Dennis Rodman laat gezicht vriendin op zijn wang tatoeëren",
     "subtitle": null,
     "published_at": "2023-07-08T22:15:34+02:00",
-    "updated_at": "2023-07-08T22:15:36+02:00",
+    "updated_at": "2023-07-09T08:23:07+02:00",
     "media_id": "hmbxd9qa68vf",
     "duration": null,
     "canonical_section": {
@@ -571,121 +686,6 @@
       "partner": null
     },
     "url": "/formule-1/6271564/norris-verrast-vooral-zichzelf-met-tweede-startplaats-voor-eigen-publiek.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6271561,
-    "slug": "knmi-schakelt-op-naar-code-oranje-voor-oosten-en-zuidoosten-om-zwaar-onweer",
-    "type": "article",
-    "title": "KNMI schakelt op naar code oranje voor oosten en zuidoosten om zwaar onweer",
-    "subtitle": null,
-    "published_at": "2023-07-08T19:10:41+02:00",
-    "updated_at": "2023-07-08T21:56:56+02:00",
-    "media_id": "lhoxbd5aufuk",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6271561/knmi-schakelt-op-naar-code-oranje-voor-oosten-en-zuidoosten-om-zwaar-onweer.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6271563,
-    "slug": "verstappen-ziet-perez-weer-vroeg-wegvallen-met-onze-auto-moet-je-in-q3-komen",
-    "type": "article",
-    "title": "Verstappen ziet Pérez weer vroeg wegvallen: 'Met onze auto moet je in Q3 komen'",
-    "subtitle": "NU+",
-    "published_at": "2023-07-08T19:10:36+02:00",
-    "updated_at": "2023-07-08T19:17:43+02:00",
-    "media_id": "ftvx6e9aoqrc",
-    "duration": null,
-    "canonical_section": {
-      "id": 1778846,
-      "slug": "nu-formule-1",
-      "type": "default",
-      "name": "NU+ Formule 1",
-      "style": "nusport",
-      "media_id": "gtmxcxnaui5m",
-      "partner": null
-    },
-    "url": "/nu-formule-1/6271563/verstappen-ziet-perez-weer-vroeg-wegvallen-met-onze-auto-moet-je-in-q3-komen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6271550,
-    "slug": "jullie-vragen-over-de-kabinetsval-beantwoord-waarom-juist-nu-op-vakantie",
-    "type": "article",
-    "title": "Jullie vragen over de kabinetsval beantwoord: 'Waarom juist nu op vakantie?'",
-    "subtitle": null,
-    "published_at": "2023-07-08T19:00:42+02:00",
-    "updated_at": "2023-07-08T19:00:44+02:00",
-    "media_id": "5kmxtq9ajtbi",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779274,
-      "slug": "val-kabinet",
-      "type": "default",
-      "name": "Val kabinet",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/val-kabinet/6271550/jullie-vragen-over-de-kabinetsval-beantwoord-waarom-juist-nu-op-vakantie.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6271560,
-    "slug": "alcaraz-worstelt-zich-naar-achtste-finales-wimbledon-zverev-uitgeschakeld",
-    "type": "article",
-    "title": "Alcaraz worstelt zich naar achtste finales Wimbledon, Zverev uitgeschakeld",
-    "subtitle": null,
-    "published_at": "2023-07-08T18:44:04+02:00",
-    "updated_at": "2023-07-08T22:57:47+02:00",
-    "media_id": "k0tx55ma1mq7",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772432,
-      "slug": "tennis",
-      "type": "default",
-      "name": "Tennis",
-      "style": "nusport",
-      "media_id": "m1oxohpan0gq",
-      "partner": null
-    },
-    "url": "/tennis/6271560/alcaraz-worstelt-zich-naar-achtste-finales-wimbledon-zverev-uitgeschakeld.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6271559,
-    "slug": "van-der-poel-wilde-zelf-niet-voor-eigen-kansen-gaan-groene-trui-is-belangrijk",
-    "type": "article",
-    "title": "Van der Poel wilde zelf niet voor eigen kansen gaan: 'Groene trui is belangrijk'",
-    "subtitle": null,
-    "published_at": "2023-07-08T18:38:30+02:00",
-    "updated_at": "2023-07-08T21:17:04+02:00",
-    "media_id": "5ybx9q3a74dt",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772173,
-      "slug": "tour-de-france",
-      "type": "default",
-      "name": "Tour de France",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/tour-de-france/6271559/van-der-poel-wilde-zelf-niet-voor-eigen-kansen-gaan-groene-trui-is-belangrijk.html",
     "open_new_window": false,
     "partner": null
   }
