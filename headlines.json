@@ -1,5 +1,28 @@
 [
   {
+    "id": 6271584,
+    "slug": "zo-kan-een-klein-bloemetje-ons-beschermen-tegen-overstromingen",
+    "type": "video",
+    "title": "Zo kan een klein bloemetje ons beschermen tegen overstromingen",
+    "subtitle": "Video",
+    "published_at": "2023-07-09T07:41:54+02:00",
+    "updated_at": "2023-07-09T07:41:55+02:00",
+    "media_id": "8hhx1ofaotmu",
+    "duration": "10:56",
+    "canonical_section": {
+      "id": 1779219,
+      "slug": "tech-wetenschap",
+      "type": "default",
+      "name": "Tech & Wetenschap",
+      "style": "nutech",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/tech-wetenschap/6271584/zo-kan-een-klein-bloemetje-ons-beschermen-tegen-overstromingen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6271581,
     "slug": "weerbericht-eerst-nog-zon-maar-later-op-de-dag-veel-regen-en-onweer",
     "type": "article",
@@ -142,9 +165,9 @@
     "slug": "klimaat-en-milieu-zijn-de-stille-slachtoffers-van-de-oorlog-in-oekraine",
     "type": "article",
     "title": "Klimaat en milieu zijn de 'stille slachtoffers' van de oorlog in Oekraïne",
-    "subtitle": "NU+",
+    "subtitle": null,
     "published_at": "2023-07-09T05:07:16+02:00",
-    "updated_at": "2023-07-09T05:07:17+02:00",
+    "updated_at": "2023-07-09T07:54:56+02:00",
     "media_id": "chsx12ba58dj",
     "duration": null,
     "canonical_section": {
@@ -165,9 +188,9 @@
     "slug": "puy-de-dome-opent-slagboom-voor-tour-mythische-berg-na-35-jaar-terug",
     "type": "article",
     "title": "Puy de Dôme opent slagboom voor Tour: mythische berg na 35 jaar terug",
-    "subtitle": "NU+",
+    "subtitle": null,
     "published_at": "2023-07-09T05:05:25+02:00",
-    "updated_at": "2023-07-09T05:05:26+02:00",
+    "updated_at": "2023-07-09T07:55:35+02:00",
     "media_id": "dzwx78laihw6",
     "duration": null,
     "canonical_section": {
@@ -374,7 +397,7 @@
     "title": "Van Gerwen verovert met indrukwekkend gemiddelde titel in Polen",
     "subtitle": null,
     "published_at": "2023-07-08T21:04:09+02:00",
-    "updated_at": "2023-07-08T23:36:36+02:00",
+    "updated_at": "2023-07-09T08:00:23+02:00",
     "media_id": "rbrx504a7hni",
     "duration": null,
     "canonical_section": {
@@ -663,29 +686,6 @@
       "partner": null
     },
     "url": "/tour-de-france/6271559/van-der-poel-wilde-zelf-niet-voor-eigen-kansen-gaan-groene-trui-is-belangrijk.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6271506,
-    "slug": "hoe-de-asielonderhandelingen-leidden-tot-de-val-van-rutte-iv-wat-doet-hij-nou",
-    "type": "article",
-    "title": "Hoe de asielonderhandelingen leidden tot de val van Rutte IV: 'Wat doet hij nou?'",
-    "subtitle": null,
-    "published_at": "2023-07-08T18:17:44+02:00",
-    "updated_at": "2023-07-08T21:43:08+02:00",
-    "media_id": "2r7xjcia72tv",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779274,
-      "slug": "val-kabinet",
-      "type": "default",
-      "name": "Val kabinet",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/val-kabinet/6271506/hoe-de-asielonderhandelingen-leidden-tot-de-val-van-rutte-iv-wat-doet-hij-nou.html",
     "open_new_window": false,
     "partner": null
   }
