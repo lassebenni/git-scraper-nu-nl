@@ -1,12 +1,104 @@
 [
   {
+    "id": 6271809,
+    "slug": "oekraiense-brandweermannen-onverwachts-onder-vuur-tijdens-blussen",
+    "type": "video",
+    "title": "Oekraïense brandweermannen onverwachts onder vuur tijdens blussen",
+    "subtitle": "Video",
+    "published_at": "2023-07-10T18:51:04+02:00",
+    "updated_at": "2023-07-10T18:51:32+02:00",
+    "media_id": "punx3r5azl2m",
+    "duration": "0:32",
+    "canonical_section": {
+      "id": 1778980,
+      "slug": "spanningen-oekraine",
+      "type": "default",
+      "name": "Oorlog in Oekraïne",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/spanningen-oekraine/6271809/oekraiense-brandweermannen-onverwachts-onder-vuur-tijdens-blussen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6271807,
+    "slug": "geletruidrager-vingegaard-na-goede-eerste-week-mijn-beste-ritten-komen-nog",
+    "type": "article",
+    "title": "Geletruidrager Vingegaard na goede eerste week: 'Mijn beste ritten komen nog'",
+    "subtitle": null,
+    "published_at": "2023-07-10T18:38:53+02:00",
+    "updated_at": "2023-07-10T18:42:28+02:00",
+    "media_id": "opjxnr4am2i4",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772173,
+      "slug": "tour-de-france",
+      "type": "default",
+      "name": "Tour de France",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/tour-de-france/6271807/geletruidrager-vingegaard-na-goede-eerste-week-mijn-beste-ritten-komen-nog.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6271772,
+    "slug": "records-in-het-vizier-de-duizelingwekkende-cijfers-van-verstappen",
+    "type": "article",
+    "title": "Records in het vizier: de duizelingwekkende cijfers van Verstappen",
+    "subtitle": "NU+",
+    "published_at": "2023-07-10T18:26:10+02:00",
+    "updated_at": "2023-07-10T18:26:11+02:00",
+    "media_id": "b9wxofgarzrz",
+    "duration": null,
+    "canonical_section": {
+      "id": 1778846,
+      "slug": "nu-formule-1",
+      "type": "default",
+      "name": "NU+ Formule 1",
+      "style": "nusport",
+      "media_id": "gtmxcxnaui5m",
+      "partner": null
+    },
+    "url": "/nu-formule-1/6271772/records-in-het-vizier-de-duizelingwekkende-cijfers-van-verstappen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6271803,
+    "slug": "pogacar-klaar-voor-plannen-jumbo-visma-zullen-een-rit-kiezen-om-me-te-kraken",
+    "type": "article",
+    "title": "Pogacar klaar voor plannen Jumbo-Visma: 'Zullen één rit kiezen om me te kraken'",
+    "subtitle": null,
+    "published_at": "2023-07-10T18:01:57+02:00",
+    "updated_at": "2023-07-10T18:31:17+02:00",
+    "media_id": "hhix92jad67x",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772173,
+      "slug": "tour-de-france",
+      "type": "default",
+      "name": "Tour de France",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/tour-de-france/6271803/pogacar-klaar-voor-plannen-jumbo-visma-zullen-een-rit-kiezen-om-me-te-kraken.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6271787,
     "slug": "burgemeester-heeft-geen-spijt-van-doodschieten-wolf-zorgt-voor-rust-in-omgeving",
     "type": "article",
     "title": "Burgemeester heeft geen spijt van doodschieten wolf: 'Zorgt voor rust in omgeving'",
     "subtitle": null,
     "published_at": "2023-07-10T18:00:30+02:00",
-    "updated_at": "2023-07-10T18:00:32+02:00",
+    "updated_at": "2023-07-10T18:38:06+02:00",
     "media_id": "ouzxfy9a7e99",
     "duration": null,
     "canonical_section": {
@@ -75,7 +167,7 @@
     "title": "Nieuw onderzoek: bijna 50.000 Russen omgekomen in oorlog Oekraïne",
     "subtitle": null,
     "published_at": "2023-07-10T17:20:38+02:00",
-    "updated_at": "2023-07-10T17:20:39+02:00",
+    "updated_at": "2023-07-10T18:29:56+02:00",
     "media_id": "3doxyaqaz8us",
     "duration": null,
     "canonical_section": {
@@ -121,7 +213,7 @@
     "title": "Djokovic houdt zicht op echte Grand Slam, ook Wimbledon-sensatie Eubanks door",
     "subtitle": null,
     "published_at": "2023-07-10T17:02:59+02:00",
-    "updated_at": "2023-07-10T17:51:30+02:00",
+    "updated_at": "2023-07-10T18:02:18+02:00",
     "media_id": "hesx2e5a5iqq",
     "duration": null,
     "canonical_section": {
@@ -144,7 +236,7 @@
     "title": "'Buigzame' Rutte leek onsterfelijk in de politiek, maar de rek is er nu uit",
     "subtitle": null,
     "published_at": "2023-07-10T16:47:36+02:00",
-    "updated_at": "2023-07-10T17:24:18+02:00",
+    "updated_at": "2023-07-10T18:41:01+02:00",
     "media_id": "44axqdaabi9p",
     "duration": null,
     "canonical_section": {
@@ -512,7 +604,7 @@
     "title": "Wimbledon-sprookje piepjonge Andreeva voorbij, Sabalenka wél kwartfinalist",
     "subtitle": null,
     "published_at": "2023-07-10T14:13:06+02:00",
-    "updated_at": "2023-07-10T17:59:31+02:00",
+    "updated_at": "2023-07-10T18:41:13+02:00",
     "media_id": "569xfxpa9mn3",
     "duration": null,
     "canonical_section": {
@@ -594,98 +686,6 @@
       "partner": null
     },
     "url": "/formule-1/6271745/terugblik-f1-norris-en-piastri-gaan-we-vaker-vooraan-zien-dit-jaar.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6271755,
-    "slug": "hermans-worstelt-met-aangekondigd-vertrek-rutte-het-raakt-me",
-    "type": "video",
-    "title": "Hermans worstelt met aangekondigd vertrek Rutte: 'Het raakt me'",
-    "subtitle": "Video",
-    "published_at": "2023-07-10T13:26:44+02:00",
-    "updated_at": "2023-07-10T15:45:42+02:00",
-    "media_id": "9h7xrgfarn8l",
-    "duration": "1:15",
-    "canonical_section": {
-      "id": 1771437,
-      "slug": "politiek",
-      "type": "default",
-      "name": "Politiek",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/politiek/6271755/hermans-worstelt-met-aangekondigd-vertrek-rutte-het-raakt-me.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6271751,
-    "slug": "prinses-alexia-hijst-de-vlag-op-paleis-ten-bosch-na-slagen",
-    "type": "video",
-    "title": "Prinses Alexia hijst de vlag op Paleis ten Bosch na slagen",
-    "subtitle": "Video",
-    "published_at": "2023-07-10T13:11:56+02:00",
-    "updated_at": "2023-07-10T13:25:42+02:00",
-    "media_id": "69oxesfaqn4w",
-    "duration": "0:21",
-    "canonical_section": {
-      "id": 125,
-      "slug": "achterklap",
-      "type": "default",
-      "name": "Achterklap",
-      "style": "nuentertainment",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/achterklap/6271751/prinses-alexia-hijst-de-vlag-op-paleis-ten-bosch-na-slagen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6271750,
-    "slug": "knvb-pakt-homofobe-spreekkoren-aan-duel-stilgelegd-na-twee-waarschuwingen",
-    "type": "article",
-    "title": "KNVB pakt homofobe spreekkoren aan: duel stilgelegd na twee waarschuwingen",
-    "subtitle": null,
-    "published_at": "2023-07-10T13:11:25+02:00",
-    "updated_at": "2023-07-10T15:55:13+02:00",
-    "media_id": "xr5xbt0aqkvg",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6271750/knvb-pakt-homofobe-spreekkoren-aan-duel-stilgelegd-na-twee-waarschuwingen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6271748,
-    "slug": "erdogan-zweden-mag-alleen-navo-lid-worden-als-turkije-mag-toetreden-tot-eu",
-    "type": "article",
-    "title": "Erdogan: Zweden mag alleen NAVO-lid worden als Turkije mag toetreden tot EU",
-    "subtitle": null,
-    "published_at": "2023-07-10T13:09:50+02:00",
-    "updated_at": "2023-07-10T17:03:55+02:00",
-    "media_id": "ks3xdrcaujvz",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6271748/erdogan-zweden-mag-alleen-navo-lid-worden-als-turkije-mag-toetreden-tot-eu.html",
     "open_new_window": false,
     "partner": null
   }
