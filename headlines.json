@@ -1,5 +1,51 @@
 [
   {
+    "id": 6272014,
+    "slug": "zzpers-houden-vaker-rekening-met-arbeidsongeschiktheid",
+    "type": "article",
+    "title": "Zzp'ers houden vaker rekening met arbeidsongeschiktheid",
+    "subtitle": null,
+    "published_at": "2023-07-12T08:40:17+02:00",
+    "updated_at": "2023-07-12T08:40:18+02:00",
+    "media_id": "3f6xcmga5plg",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6272014/zzpers-houden-vaker-rekening-met-arbeidsongeschiktheid.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6272012,
+    "slug": "volgeling-van-sekteleider-charles-manson-na-53-jaar-cel-vrijgelaten",
+    "type": "article",
+    "title": "Volgeling van sekteleider Charles Manson na 53 jaar cel vrijgelaten",
+    "subtitle": null,
+    "published_at": "2023-07-12T08:23:17+02:00",
+    "updated_at": "2023-07-12T08:23:18+02:00",
+    "media_id": "864xz94af7pu",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6272012/volgeling-van-sekteleider-charles-manson-na-53-jaar-cel-vrijgelaten.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6272011,
     "slug": "hijskraan-tilt-eerste-dakspant-voor-notre-dame-op-zijn-plek",
     "type": "video",
@@ -190,7 +236,7 @@
     "title": "Yesilgöz wil Rutte wél opvolgen als VVD-leider en stelt zich kandidaat",
     "subtitle": null,
     "published_at": "2023-07-12T05:27:26+02:00",
-    "updated_at": "2023-07-12T07:22:01+02:00",
+    "updated_at": "2023-07-12T08:42:07+02:00",
     "media_id": "nnrxgeva8hm7",
     "duration": null,
     "canonical_section": {
@@ -420,7 +466,7 @@
     "title": "Doodgeschoten wolf in Drenthe was jong mannetje, afkomst nog onbekend",
     "subtitle": null,
     "published_at": "2023-07-11T23:00:35+02:00",
-    "updated_at": "2023-07-11T23:47:02+02:00",
+    "updated_at": "2023-07-12T08:35:11+02:00",
     "media_id": "sj2xneha9pk2",
     "duration": null,
     "canonical_section": {
@@ -640,52 +686,6 @@
       "partner": null
     },
     "url": "/videos/6271984/britse-premier-bedankt-rutte-op-navo-top-in-vilnius.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6271981,
-    "slug": "kolkende-rivieren-en-ondergelopen-straten-na-zware-regenval-in-vs",
-    "type": "video",
-    "title": "Kolkende rivieren en ondergelopen straten na zware regenval in VS",
-    "subtitle": "Video",
-    "published_at": "2023-07-11T20:20:08+02:00",
-    "updated_at": "2023-07-11T20:20:09+02:00",
-    "media_id": "r5sxi8mailtm",
-    "duration": "0:49",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6271981/kolkende-rivieren-en-ondergelopen-straten-na-zware-regenval-in-vs.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6271971,
-    "slug": "antivogelpinnen-schrikken-eksters-en-kraaien-niet-af-ze-gebruiken-ze-juist",
-    "type": "article",
-    "title": "'Antivogelpinnen' schrikken eksters en kraaien niet af: ze gebruiken ze juist",
-    "subtitle": null,
-    "published_at": "2023-07-11T20:17:24+02:00",
-    "updated_at": "2023-07-11T20:17:26+02:00",
-    "media_id": "74nx7epaujsw",
-    "duration": null,
-    "canonical_section": {
-      "id": 478878,
-      "slug": "wetenschap",
-      "type": "default",
-      "name": "Wetenschap",
-      "style": "nunjij",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/wetenschap/6271971/antivogelpinnen-schrikken-eksters-en-kraaien-niet-af-ze-gebruiken-ze-juist.html",
     "open_new_window": false,
     "partner": null
   }
