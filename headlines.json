@@ -1,5 +1,74 @@
 [
   {
+    "id": 6272450,
+    "slug": "weerbericht-eerst-nog-zon-maar-vanaf-de-middag-bewolking-en-buien",
+    "type": "article",
+    "title": "Weerbericht: Eerst nog zon, maar vanaf de middag bewolking en buien",
+    "subtitle": null,
+    "published_at": "2023-07-15T05:57:57+02:00",
+    "updated_at": "2023-07-15T05:57:58+02:00",
+    "media_id": "x8txghoavb7q",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6272450/weerbericht-eerst-nog-zon-maar-vanaf-de-middag-bewolking-en-buien.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6272449,
+    "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
+    "type": "article",
+    "title": "Het Woord van vandaag: Raad jij het woord van de dag?",
+    "subtitle": null,
+    "published_at": "2023-07-15T05:22:14+02:00",
+    "updated_at": "2023-07-15T05:22:15+02:00",
+    "media_id": "ngsxpv6ahbiv",
+    "duration": null,
+    "canonical_section": {
+      "id": 1773179,
+      "slug": "uitgelicht",
+      "type": "default",
+      "name": "Uitgelicht",
+      "style": "mediapartner-external",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/uitgelicht/6272449/het-woord-van-vandaag-raad-jij-het-woord-van-de-dag.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6272394,
+    "slug": "bosbranden-en-overstromingen-deze-landen-krijgen-last-van-el-nino",
+    "type": "video",
+    "title": "Bosbranden en overstromingen: deze landen krijgen last van El Niño",
+    "subtitle": "Explainer",
+    "published_at": "2023-07-15T05:15:20+02:00",
+    "updated_at": "2023-07-15T05:15:21+02:00",
+    "media_id": "hvex4lsakfs8",
+    "duration": "2:10",
+    "canonical_section": {
+      "id": 1779219,
+      "slug": "tech-wetenschap",
+      "type": "default",
+      "name": "Tech & Wetenschap",
+      "style": "nutech",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/tech-wetenschap/6272394/bosbranden-en-overstromingen-deze-landen-krijgen-last-van-el-nino.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6272448,
     "slug": "herhaling-van-de-granon-vingegaard-wil-pogacar-weer-breken-in-alpen",
     "type": "article",
@@ -397,7 +466,7 @@
     "title": "Minimaal verlies op Grand Colombier voelt bijna als winst voor Vingegaard in Tour",
     "subtitle": null,
     "published_at": "2023-07-14T20:22:55+02:00",
-    "updated_at": "2023-07-14T22:19:37+02:00",
+    "updated_at": "2023-07-15T05:28:30+02:00",
     "media_id": "i9yxl1la3yai",
     "duration": null,
     "canonical_section": {
@@ -443,7 +512,7 @@
     "title": "Acteurs Oppenheimer leggen werk neer, net als NU.nl ze gaat interviewen",
     "subtitle": "NU+",
     "published_at": "2023-07-14T20:00:22+02:00",
-    "updated_at": "2023-07-14T20:00:23+02:00",
+    "updated_at": "2023-07-15T05:27:10+02:00",
     "media_id": "mj7x4iya3ul4",
     "duration": null,
     "canonical_section": {
@@ -512,7 +581,7 @@
     "title": "Zij zijn geraakt door de problemen bij VanMoof: 'Zoon telde af op kalender'",
     "subtitle": "NU+",
     "published_at": "2023-07-14T19:14:50+02:00",
-    "updated_at": "2023-07-14T19:14:52+02:00",
+    "updated_at": "2023-07-15T05:58:52+02:00",
     "media_id": "3mjxjxzalowo",
     "duration": null,
     "canonical_section": {
@@ -581,7 +650,7 @@
     "title": "OM eist tien jaar cel tegen voormalig Oranje-international Mendes da Silva",
     "subtitle": null,
     "published_at": "2023-07-14T18:36:47+02:00",
-    "updated_at": "2023-07-14T19:50:38+02:00",
+    "updated_at": "2023-07-15T05:38:51+02:00",
     "media_id": "99fx126acbdo",
     "duration": null,
     "canonical_section": {
@@ -617,75 +686,6 @@
       "partner": null
     },
     "url": "/tour-de-france/6272422/kwiatkowski-vol-ongeloof-na-ritzege-in-tour-zwaarste-inspanning-in-mijn-leven.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6272420,
-    "slug": "fabriek-voor-kinder-chocola-legt-de-productie-weer-stil-na-salmonella-uitbraak",
-    "type": "article",
-    "title": "Fabriek voor Kinder-chocola legt de productie weer stil na salmonella-uitbraak",
-    "subtitle": null,
-    "published_at": "2023-07-14T18:19:57+02:00",
-    "updated_at": "2023-07-14T18:59:58+02:00",
-    "media_id": "0joxauda33c4",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6272420/fabriek-voor-kinder-chocola-legt-de-productie-weer-stil-na-salmonella-uitbraak.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6272416,
-    "slug": "tornado-raast-door-woonwijken-van-canadese-stad-ottawa",
-    "type": "video",
-    "title": "Tornado raast door woonwijken van Canadese stad Ottawa",
-    "subtitle": "Video",
-    "published_at": "2023-07-14T17:56:27+02:00",
-    "updated_at": "2023-07-14T17:57:54+02:00",
-    "media_id": "agnxihlak167",
-    "duration": "0:31",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6272416/tornado-raast-door-woonwijken-van-canadese-stad-ottawa.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6272414,
-    "slug": "elektrische-autos-vliegen-over-de-volkswagen-toonbank-na-lastig-jaar",
-    "type": "article",
-    "title": "Elektrische auto's vliegen over de Volkswagen-toonbank na lastig jaar",
-    "subtitle": null,
-    "published_at": "2023-07-14T17:51:13+02:00",
-    "updated_at": "2023-07-14T17:51:15+02:00",
-    "media_id": "yf7xzykav58n",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6272414/elektrische-autos-vliegen-over-de-volkswagen-toonbank-na-lastig-jaar.html",
     "open_new_window": false,
     "partner": null
   }
