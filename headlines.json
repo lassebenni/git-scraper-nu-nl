@@ -1,5 +1,51 @@
 [
   {
+    "id": 6272096,
+    "slug": "extreme-hitte-in-zuid-europa-zorgt-na-de-zomer-ook-voor-ellende",
+    "type": "video",
+    "title": "Extreme hitte in Zuid-Europa: 'Zorgt na de zomer ook voor ellende'",
+    "subtitle": "Explainer",
+    "published_at": "2023-07-16T05:35:45+02:00",
+    "updated_at": "2023-07-16T05:35:46+02:00",
+    "media_id": "wwmxc8gapaue",
+    "duration": "2:07",
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6272096/extreme-hitte-in-zuid-europa-zorgt-na-de-zomer-ook-voor-ellende.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6272565,
+    "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
+    "type": "article",
+    "title": "Het Woord van vandaag: Raad jij het woord van de dag?",
+    "subtitle": null,
+    "published_at": "2023-07-16T05:24:24+02:00",
+    "updated_at": "2023-07-16T05:24:25+02:00",
+    "media_id": "ngsxpv6ahbiv",
+    "duration": null,
+    "canonical_section": {
+      "id": 1773179,
+      "slug": "uitgelicht",
+      "type": "default",
+      "name": "Uitgelicht",
+      "style": "mediapartner-external",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/uitgelicht/6272565/het-woord-van-vandaag-raad-jij-het-woord-van-de-dag.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6272393,
     "slug": "is-de-recordhoge-woz-waarde-reden-tot-juichen-of-mopperen",
     "type": "article",
@@ -167,7 +213,7 @@
     "title": "De waanzinnige strijd om één seconde in Tour: 'Deze rit is een film waard'",
     "subtitle": "NU+",
     "published_at": "2023-07-16T00:46:14+02:00",
-    "updated_at": "2023-07-16T01:33:17+02:00",
+    "updated_at": "2023-07-16T05:31:30+02:00",
     "media_id": "pfsxoygalbel",
     "duration": null,
     "canonical_section": {
@@ -640,52 +686,6 @@
       "partner": null
     },
     "url": "/buitenland/6272534/man-ziet-af-van-thora-en-bijbelverbranding-bij-israelische-ambassade-in-zweden.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6272533,
-    "slug": "in-india-brengt-virtuele-nieuwslezeres-lisa-het-nieuws-maar-zij-is-niet-de-enige",
-    "type": "article",
-    "title": "In India brengt virtuele nieuwslezeres Lisa het nieuws, maar zij is niet de enige",
-    "subtitle": null,
-    "published_at": "2023-07-15T16:47:52+02:00",
-    "updated_at": "2023-07-15T19:17:52+02:00",
-    "media_id": "3y0x9sbalp0n",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779219,
-      "slug": "tech-wetenschap",
-      "type": "default",
-      "name": "Tech & Wetenschap",
-      "style": "nutech",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/tech-wetenschap/6272533/in-india-brengt-virtuele-nieuwslezeres-lisa-het-nieuws-maar-zij-is-niet-de-enige.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6272532,
-    "slug": "zaakwaarnemer-ewan-wil-excuses-na-walgelijke-uitspraken-van-ploegleiding",
-    "type": "article",
-    "title": "Zaakwaarnemer Ewan wil excuses na 'walgelijke' uitspraken van ploegleiding",
-    "subtitle": null,
-    "published_at": "2023-07-15T16:46:01+02:00",
-    "updated_at": "2023-07-15T17:24:03+02:00",
-    "media_id": "yc1xyzyam86j",
-    "duration": null,
-    "canonical_section": {
-      "id": 149,
-      "slug": "sport",
-      "type": "default",
-      "name": "Sport",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/sport/6272532/zaakwaarnemer-ewan-wil-excuses-na-walgelijke-uitspraken-van-ploegleiding.html",
     "open_new_window": false,
     "partner": null
   }
