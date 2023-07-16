@@ -1,12 +1,104 @@
 [
   {
-    "id": 6272595,
-    "slug": "harde-wind-drukt-stroomprijzen-in-meerdere-landen-onder-nul",
+    "id": 6272602,
+    "slug": "turkije-verhoogt-belasting-op-benzine-met-bijna-200-procent",
     "type": "article",
-    "title": "Harde wind drukt stroomprijzen in meerdere landen onder nul",
+    "title": "Turkije verhoogt belasting op benzine met bijna 200 procent",
+    "subtitle": null,
+    "published_at": "2023-07-16T14:01:31+02:00",
+    "updated_at": "2023-07-16T14:01:33+02:00",
+    "media_id": "mf5xbpnalv42",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6272602/turkije-verhoogt-belasting-op-benzine-met-bijna-200-procent.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6272601,
+    "slug": "man-die-amsterdamse-filmmaker-doodsloeg-op-mallorca-krijgt-65-jaar-cel",
+    "type": "article",
+    "title": "Man die Amsterdamse filmmaker doodsloeg op Mallorca krijgt 6,5 jaar cel",
+    "subtitle": null,
+    "published_at": "2023-07-16T13:54:09+02:00",
+    "updated_at": "2023-07-16T13:54:10+02:00",
+    "media_id": "ctixhuaaiqf3",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6272601/man-die-amsterdamse-filmmaker-doodsloeg-op-mallorca-krijgt-65-jaar-cel.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6272596,
+    "slug": "thomas-berge-wordt-voor-de-derde-keer-vader",
+    "type": "article",
+    "title": "Thomas Berge wordt voor de derde keer vader",
+    "subtitle": null,
+    "published_at": "2023-07-16T13:10:46+02:00",
+    "updated_at": "2023-07-16T13:17:26+02:00",
+    "media_id": "s6gxy3zadw87",
+    "duration": null,
+    "canonical_section": {
+      "id": 125,
+      "slug": "achterklap",
+      "type": "default",
+      "name": "Achterklap",
+      "style": "nuentertainment",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/achterklap/6272596/thomas-berge-wordt-voor-de-derde-keer-vader.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6272075,
+    "slug": "waar-moet-je-op-letten-bij-het-kopen-van-een-powerbank",
+    "type": "article",
+    "title": "Waar moet je op letten bij het kopen van een powerbank?",
+    "subtitle": "NU+",
+    "published_at": "2023-07-16T13:10:29+02:00",
+    "updated_at": "2023-07-16T13:10:29+02:00",
+    "media_id": "x0xxrw1a2fkc",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771438,
+      "slug": "tech",
+      "type": "default",
+      "name": "Tech",
+      "style": "nutech",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/tech/6272075/waar-moet-je-op-letten-bij-het-kopen-van-een-powerbank.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6272595,
+    "slug": "harde-wind-drukt-stroomprijs-opnieuw-onder-nul",
+    "type": "article",
+    "title": "Harde wind drukt stroomprijs opnieuw onder nul",
     "subtitle": null,
     "published_at": "2023-07-16T12:42:35+02:00",
-    "updated_at": "2023-07-16T12:42:38+02:00",
+    "updated_at": "2023-07-16T13:12:32+02:00",
     "media_id": "mqqx1xnai950",
     "duration": null,
     "canonical_section": {
@@ -18,7 +110,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/economie/6272595/harde-wind-drukt-stroomprijzen-in-meerdere-landen-onder-nul.html",
+    "url": "/economie/6272595/harde-wind-drukt-stroomprijs-opnieuw-onder-nul.html",
     "open_new_window": false,
     "partner": null
   },
@@ -29,7 +121,7 @@
     "title": "Zoë Tauran na eerste keer in voorprogramma Coldplay: 'Echt heel gaaf'",
     "subtitle": null,
     "published_at": "2023-07-16T12:37:47+02:00",
-    "updated_at": "2023-07-16T12:51:25+02:00",
+    "updated_at": "2023-07-16T13:43:33+02:00",
     "media_id": "znrx46dap2ix",
     "duration": null,
     "canonical_section": {
@@ -116,13 +208,13 @@
   },
   {
     "id": 6272586,
-    "slug": "vingegaard-en-pogacar-vervolgen-tour-strijd-met-zware-alpenrit-daags-voor-rustdag",
+    "slug": "kopgroep-met-van-der-poel-alweer-ingerekend-in-beginfase-bergetappe",
     "type": "article",
-    "title": "Vingegaard en Pogacar vervolgen Tour-strijd met zware Alpenrit daags voor rustdag",
-    "subtitle": "Liveblog",
+    "title": "Kopgroep met Van der Poel alweer ingerekend in beginfase bergetappe",
+    "subtitle": "Liveblog Tour",
     "published_at": "2023-07-16T12:01:04+02:00",
-    "updated_at": "2023-07-16T12:01:06+02:00",
-    "media_id": "seyxl3na7h9f",
+    "updated_at": "2023-07-16T14:00:58+02:00",
+    "media_id": "v8exoqka2c48",
     "duration": null,
     "canonical_section": {
       "id": 1772173,
@@ -133,7 +225,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/tour-de-france/6272586/vingegaard-en-pogacar-vervolgen-tour-strijd-met-zware-alpenrit-daags-voor-rustdag.html",
+    "url": "/tour-de-france/6272586/kopgroep-met-van-der-poel-alweer-ingerekend-in-beginfase-bergetappe.html",
     "open_new_window": false,
     "partner": null
   },
@@ -420,7 +512,7 @@
     "title": "Oefenen in afgesloten fort: zelfs de uitslag mag Oranje van Zuid-Korea niet delen",
     "subtitle": null,
     "published_at": "2023-07-16T07:02:20+02:00",
-    "updated_at": "2023-07-16T12:07:43+02:00",
+    "updated_at": "2023-07-16T13:14:56+02:00",
     "media_id": "7emx3x6aacln",
     "duration": null,
     "canonical_section": {
@@ -594,98 +686,6 @@
       "partner": null
     },
     "url": "/achterklap/6272246/van-gevierd-artiest-naar-omstreden-bekendheid-wat-gebeurde-er-met-ye.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6272335,
-    "slug": "wereldwijd-klimaatbeleid-heeft-in-tien-jaar-tijd-al-een-graad-opwarming-voorkomen",
-    "type": "article",
-    "title": "Wereldwijd klimaatbeleid heeft in tien jaar tijd al een graad opwarming voorkomen",
-    "subtitle": null,
-    "published_at": "2023-07-16T05:00:56+02:00",
-    "updated_at": "2023-07-16T05:00:57+02:00",
-    "media_id": "960x13vamro2",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772754,
-      "slug": "klimaat",
-      "type": "default",
-      "name": "Klimaat",
-      "style": "nuzakelijk",
-      "media_id": "kf4x3b2agsxg",
-      "partner": null
-    },
-    "url": "/klimaat/6272335/wereldwijd-klimaatbeleid-heeft-in-tien-jaar-tijd-al-een-graad-opwarming-voorkomen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6272232,
-    "slug": "val-kabinet-maakt-groeiend-woningtekort-mogelijk-nog-groter",
-    "type": "article",
-    "title": "Val kabinet maakt groeiend woningtekort mogelijk nog groter",
-    "subtitle": null,
-    "published_at": "2023-07-16T05:00:06+02:00",
-    "updated_at": "2023-07-16T12:24:07+02:00",
-    "media_id": "veqxd1iauy4a",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6272232/val-kabinet-maakt-groeiend-woningtekort-mogelijk-nog-groter.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6272559,
-    "slug": "john-s-kreeg-levenslang-is-dat-in-nederland-ook-echt-levenslang",
-    "type": "article",
-    "title": "John S. kreeg levenslang: is dat in Nederland ook écht levenslang?",
-    "subtitle": "NU+",
-    "published_at": "2023-07-16T00:53:19+02:00",
-    "updated_at": "2023-07-16T07:41:51+02:00",
-    "media_id": "mawxi3hayhf7",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6272559/john-s-kreeg-levenslang-is-dat-in-nederland-ook-echt-levenslang.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6272562,
-    "slug": "tadic-is-na-veelbesproken-vertrek-bij-ajax-op-weg-naar-fenerbahce",
-    "type": "article",
-    "title": "Tadic is na veelbesproken vertrek bij Ajax op weg naar Fenerbahçe",
-    "subtitle": null,
-    "published_at": "2023-07-16T00:50:32+02:00",
-    "updated_at": "2023-07-16T09:22:54+02:00",
-    "media_id": "bbrxqlea29t9",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6272562/tadic-is-na-veelbesproken-vertrek-bij-ajax-op-weg-naar-fenerbahce.html",
     "open_new_window": false,
     "partner": null
   }
