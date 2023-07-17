@@ -1,5 +1,28 @@
 [
   {
+    "id": 6272759,
+    "slug": "slachtoffers-mh17-ramp-herdacht-bij-monument-in-vijfhuizen",
+    "type": "video",
+    "title": "Slachtoffers MH17-ramp herdacht bij monument in Vijfhuizen",
+    "subtitle": "Video",
+    "published_at": "2023-07-17T15:56:29+02:00",
+    "updated_at": "2023-07-17T15:58:27+02:00",
+    "media_id": "5akx1koanpwl",
+    "duration": "0:44",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6272759/slachtoffers-mh17-ramp-herdacht-bij-monument-in-vijfhuizen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6272749,
     "slug": "meer-dan-50-grienden-aangespoeld-en-overleden-op-een-schots-strand",
     "type": "video",
@@ -75,19 +98,19 @@
     "title": "Rusland trekt zich terug uit de graandeal: wat betekent dat?",
     "subtitle": null,
     "published_at": "2023-07-17T14:31:04+02:00",
-    "updated_at": "2023-07-17T14:52:06+02:00",
+    "updated_at": "2023-07-17T15:49:37+02:00",
     "media_id": "827xdoraux0s",
     "duration": null,
     "canonical_section": {
-      "id": 1778980,
-      "slug": "spanningen-oekraine",
+      "id": 99,
+      "slug": "economie",
       "type": "default",
-      "name": "Oorlog in Oekraïne",
-      "style": "nu",
+      "name": "Economie",
+      "style": "nuzakelijk",
       "media_id": null,
       "partner": null
     },
-    "url": "/spanningen-oekraine/6272743/rusland-trekt-zich-terug-uit-de-graandeal-wat-betekent-dat.html",
+    "url": "/economie/6272743/rusland-trekt-zich-terug-uit-de-graandeal-wat-betekent-dat.html",
     "open_new_window": false,
     "partner": null
   },
@@ -663,29 +686,6 @@
       "partner": null
     },
     "url": "/algemeen/6272689/omstanders-filmen-schade-aan-brug-tussen-krim-en-rusland.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6272683,
-    "slug": "hm-opent-vanaf-2025-winkels-in-braziliaanse-steden",
-    "type": "article",
-    "title": "H&M opent vanaf 2025 winkels in Braziliaanse steden",
-    "subtitle": null,
-    "published_at": "2023-07-17T09:01:09+02:00",
-    "updated_at": "2023-07-17T09:18:02+02:00",
-    "media_id": "bdaxjo9aq0lm",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6272683/hm-opent-vanaf-2025-winkels-in-braziliaanse-steden.html",
     "open_new_window": false,
     "partner": null
   }
