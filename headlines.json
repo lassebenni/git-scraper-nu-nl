@@ -1,12 +1,150 @@
 [
   {
+    "id": 6272944,
+    "slug": "messi-maakt-vrijdag-debuut-voor-inter-miami-en-ziet-na-busquets-ook-alba-tekenen",
+    "type": "article",
+    "title": "Messi maakt vrijdag debuut voor Inter Miami en ziet na Busquets ook Alba tekenen",
+    "subtitle": null,
+    "published_at": "2023-07-18T20:47:01+02:00",
+    "updated_at": "2023-07-18T20:48:40+02:00",
+    "media_id": "36dx491atooj",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6272944/messi-maakt-vrijdag-debuut-voor-inter-miami-en-ziet-na-busquets-ook-alba-tekenen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6272948,
+    "slug": "vingegaard-verrast-zelfs-zijn-ploeg-met-ongekende-uithaal-in-tour-stil-van",
+    "type": "article",
+    "title": "Vingegaard verrast zelfs zijn ploeg met ongekende uithaal in Tour: 'Stil van'",
+    "subtitle": "NU+",
+    "published_at": "2023-07-18T20:35:34+02:00",
+    "updated_at": "2023-07-18T20:44:52+02:00",
+    "media_id": "58bxduaauhxr",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772173,
+      "slug": "tour-de-france",
+      "type": "default",
+      "name": "Tour de France",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/tour-de-france/6272948/vingegaard-verrast-zelfs-zijn-ploeg-met-ongekende-uithaal-in-tour-stil-van.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6272947,
+    "slug": "samenvatting-vingegaard-zet-met-indrukwekkende-tijdrit-grote-stap-naar-tour-zege",
+    "type": "video",
+    "title": "Samenvatting: Vingegaard zet met indrukwekkende tijdrit grote stap naar Tour-zege",
+    "subtitle": "Video",
+    "published_at": "2023-07-18T20:30:15+02:00",
+    "updated_at": "2023-07-18T20:45:19+02:00",
+    "media_id": "hbex3dya9k0z",
+    "duration": "1:13",
+    "canonical_section": {
+      "id": 1772173,
+      "slug": "tour-de-france",
+      "type": "default",
+      "name": "Tour de France",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/tour-de-france/6272947/samenvatting-vingegaard-zet-met-indrukwekkende-tijdrit-grote-stap-naar-tour-zege.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6272894,
+    "slug": "welke-vragen-heb-jij-nog-over-de-samenwerking-tussen-gl-en-pvda-stel-ze-hier",
+    "type": "article",
+    "title": "Welke vragen heb jij nog over de samenwerking tussen GL en PvdA? Stel ze hier",
+    "subtitle": null,
+    "published_at": "2023-07-18T20:29:19+02:00",
+    "updated_at": "2023-07-18T20:29:20+02:00",
+    "media_id": "52lxmijamg3o",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771437,
+      "slug": "politiek",
+      "type": "default",
+      "name": "Politiek",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/politiek/6272894/welke-vragen-heb-jij-nog-over-de-samenwerking-tussen-gl-en-pvda-stel-ze-hier.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6272850,
+    "slug": "grote-namen-verlaten-den-haag-wie-zien-we-wel-terug-bij-verkiezingen",
+    "type": "article",
+    "title": "Grote namen verlaten Den Haag: wie zien we wél terug bij verkiezingen?",
+    "subtitle": "NU+",
+    "published_at": "2023-07-18T20:27:27+02:00",
+    "updated_at": "2023-07-18T20:44:50+02:00",
+    "media_id": "2prxwu4av4st",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779275,
+      "slug": "tweede-kamerverkiezingen-2023",
+      "type": "files",
+      "name": "Tweede Kamerverkiezingen 2023",
+      "style": "nu",
+      "media_id": "vh7x4xray27h",
+      "partner": null
+    },
+    "url": "/tweede-kamerverkiezingen-2023/6272850/grote-namen-verlaten-den-haag-wie-zien-we-wel-terug-bij-verkiezingen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6272945,
+    "slug": "zon-honderd-medewerkers-van-reorganiserend-philips-kunnen-door-bij-asml",
+    "type": "article",
+    "title": "Zo'n honderd medewerkers van reorganiserend Philips kunnen door bij ASML",
+    "subtitle": null,
+    "published_at": "2023-07-18T20:12:13+02:00",
+    "updated_at": "2023-07-18T20:33:28+02:00",
+    "media_id": "hvzx4owaw77n",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6272945/zon-honderd-medewerkers-van-reorganiserend-philips-kunnen-door-bij-asml.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6272942,
     "slug": "vitesse-haalt-tweede-aanwinst-op-een-dag-en-ziet-dijks-naar-fortuna-vertrekken",
     "type": "article",
     "title": "Vitesse haalt tweede aanwinst op één dag en ziet Dijks naar Fortuna vertrekken",
     "subtitle": null,
     "published_at": "2023-07-18T20:00:17+02:00",
-    "updated_at": "2023-07-18T20:00:18+02:00",
+    "updated_at": "2023-07-18T20:36:24+02:00",
     "media_id": "uzuxu3fa1eo2",
     "duration": null,
     "canonical_section": {
@@ -24,12 +162,12 @@
   },
   {
     "id": 6272940,
-    "slug": "marilyn-manson-voor-de-rechter-wegens-spugen-en-met-snot-smeren",
+    "slug": "marilyn-manson-voor-rechter-omdat-hij-vrouw-bespuugde-en-met-snot-besmeurde",
     "type": "article",
-    "title": "Marilyn Manson voor de rechter wegens spugen en met snot smeren",
+    "title": "Marilyn Manson voor rechter omdat hij vrouw bespuugde en met snot besmeurde",
     "subtitle": null,
     "published_at": "2023-07-18T19:57:48+02:00",
-    "updated_at": "2023-07-18T19:57:50+02:00",
+    "updated_at": "2023-07-18T20:04:20+02:00",
     "media_id": "plzxsxqaqdaj",
     "duration": null,
     "canonical_section": {
@@ -41,18 +179,18 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/muziek/6272940/marilyn-manson-voor-de-rechter-wegens-spugen-en-met-snot-smeren.html",
+    "url": "/muziek/6272940/marilyn-manson-voor-rechter-omdat-hij-vrouw-bespuugde-en-met-snot-besmeurde.html",
     "open_new_window": false,
     "partner": null
   },
   {
     "id": 6272936,
-    "slug": "gigi-hadid-aangehouden-voor-het-bezit-van-medicinale-marihuana",
+    "slug": "gigi-hadid-aangehouden-vanwege-bezit-van-medicinale-marihuana",
     "type": "article",
-    "title": "Gigi Hadid aangehouden voor het bezit van medicinale marihuana",
+    "title": "Gigi Hadid aangehouden vanwege bezit van medicinale marihuana",
     "subtitle": null,
     "published_at": "2023-07-18T19:57:14+02:00",
-    "updated_at": "2023-07-18T19:57:15+02:00",
+    "updated_at": "2023-07-18T20:11:45+02:00",
     "media_id": "asjxl1gac1m8",
     "duration": null,
     "canonical_section": {
@@ -64,7 +202,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/achterklap/6272936/gigi-hadid-aangehouden-voor-het-bezit-van-medicinale-marihuana.html",
+    "url": "/achterklap/6272936/gigi-hadid-aangehouden-vanwege-bezit-van-medicinale-marihuana.html",
     "open_new_window": false,
     "partner": null
   },
@@ -213,7 +351,7 @@
     "title": "Pogacar denkt dat Tour-zege heel moeilijk wordt: 'Was niet mijn beste dag'",
     "subtitle": null,
     "published_at": "2023-07-18T18:38:45+02:00",
-    "updated_at": "2023-07-18T18:38:46+02:00",
+    "updated_at": "2023-07-18T20:37:48+02:00",
     "media_id": "3wqxx3eah0s8",
     "duration": null,
     "canonical_section": {
@@ -231,12 +369,12 @@
   },
   {
     "id": 6272930,
-    "slug": "vingegaard-deelt-dreun-uit-in-tour-was-mijn-beste-tijdrit-ooit",
+    "slug": "vingegaard-twijfelde-zelfs-aan-vermogensmeter-was-mijn-beste-tijdrit-ooit",
     "type": "article",
-    "title": "Vingegaard deelt dreun uit in Tour: 'Was mijn beste tijdrit ooit'",
+    "title": "Vingegaard twijfelde zelfs aan vermogensmeter: 'Was mijn beste tijdrit ooit'",
     "subtitle": null,
     "published_at": "2023-07-18T18:30:32+02:00",
-    "updated_at": "2023-07-18T18:31:40+02:00",
+    "updated_at": "2023-07-18T20:54:37+02:00",
     "media_id": "zwgxrrcas5ae",
     "duration": null,
     "canonical_section": {
@@ -248,7 +386,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/tour-de-france/6272930/vingegaard-deelt-dreun-uit-in-tour-was-mijn-beste-tijdrit-ooit.html",
+    "url": "/tour-de-france/6272930/vingegaard-twijfelde-zelfs-aan-vermogensmeter-was-mijn-beste-tijdrit-ooit.html",
     "open_new_window": false,
     "partner": null
   },
@@ -328,7 +466,7 @@
     "title": "Imposante Vingegaard overklast Pogacar in tijdrit en zet grote stap naar Tour-zege",
     "subtitle": null,
     "published_at": "2023-07-18T17:33:30+02:00",
-    "updated_at": "2023-07-18T18:12:19+02:00",
+    "updated_at": "2023-07-18T20:48:11+02:00",
     "media_id": "nc4xp9za3ekv",
     "duration": null,
     "canonical_section": {
@@ -374,7 +512,7 @@
     "title": "Onderzoeksjury kijkt of Trump moet worden vervolgd voor Capitoolbestorming",
     "subtitle": null,
     "published_at": "2023-07-18T17:00:22+02:00",
-    "updated_at": "2023-07-18T17:29:16+02:00",
+    "updated_at": "2023-07-18T20:29:33+02:00",
     "media_id": "cx8xwk9aiqi1",
     "duration": null,
     "canonical_section": {
@@ -512,7 +650,7 @@
     "title": "Na VS erkent ook Israël de Westelijke Sahara als Marokkaans gebied",
     "subtitle": null,
     "published_at": "2023-07-18T15:57:48+02:00",
-    "updated_at": "2023-07-18T15:57:49+02:00",
+    "updated_at": "2023-07-18T20:29:49+02:00",
     "media_id": "sndxi0ma71s7",
     "duration": null,
     "canonical_section": {
@@ -548,144 +686,6 @@
       "partner": null
     },
     "url": "/muziek/6272905/paul-mccartney-maakt-podcast-over-verhalen-achter-songteksten.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6272904,
-    "slug": "vvd-kamerlid-marielle-paul-volgt-afgetreden-wiersma-op-als-onderwijsminister",
-    "type": "article",
-    "title": "VVD-Kamerlid Mariëlle Paul volgt afgetreden Wiersma op als onderwijsminister",
-    "subtitle": null,
-    "published_at": "2023-07-18T15:39:43+02:00",
-    "updated_at": "2023-07-18T16:05:41+02:00",
-    "media_id": "3g1x54aap5bu",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771437,
-      "slug": "politiek",
-      "type": "default",
-      "name": "Politiek",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/politiek/6272904/vvd-kamerlid-marielle-paul-volgt-afgetreden-wiersma-op-als-onderwijsminister.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6272900,
-    "slug": "nieuw-seizoen-de-roelvinkjes-vanaf-28-augustus-te-zien-op-videoland",
-    "type": "article",
-    "title": "Nieuw seizoen De Roelvinkjes vanaf 28 augustus te zien op Videoland",
-    "subtitle": null,
-    "published_at": "2023-07-18T15:22:56+02:00",
-    "updated_at": "2023-07-18T15:22:58+02:00",
-    "media_id": "b7ixu2raeuwx",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771675,
-      "slug": "media",
-      "type": "default",
-      "name": "Media",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/media/6272900/nieuw-seizoen-de-roelvinkjes-vanaf-28-augustus-te-zien-op-videoland.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6272898,
-    "slug": "rijbewijs-politievlogger-jan-willem-ingevorderd-vanwege-te-snel-rijden",
-    "type": "article",
-    "title": "Rijbewijs politievlogger Jan-Willem ingevorderd vanwege te snel rijden",
-    "subtitle": null,
-    "published_at": "2023-07-18T15:17:23+02:00",
-    "updated_at": "2023-07-18T15:21:23+02:00",
-    "media_id": "vgyxtnta3wmb",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771675,
-      "slug": "media",
-      "type": "default",
-      "name": "Media",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/media/6272898/rijbewijs-politievlogger-jan-willem-ingevorderd-vanwege-te-snel-rijden.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6272895,
-    "slug": "failliet-vanmoof-deed-alles-zelf-behalve-winst-maken",
-    "type": "article",
-    "title": "Failliet VanMoof deed alles zelf, behalve winst maken",
-    "subtitle": "NU+",
-    "published_at": "2023-07-18T15:05:20+02:00",
-    "updated_at": "2023-07-18T18:06:48+02:00",
-    "media_id": "x3vx3s4ah7dj",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6272895/failliet-vanmoof-deed-alles-zelf-behalve-winst-maken.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6272897,
-    "slug": "ex-nissan-baas-eist-1-miljard-dollar-compensatie-maar-is-niet-uit-op-wraak",
-    "type": "article",
-    "title": "Ex-Nissan-baas eist 1 miljard dollar compensatie, maar is niet uit op wraak",
-    "subtitle": null,
-    "published_at": "2023-07-18T14:52:40+02:00",
-    "updated_at": "2023-07-18T16:08:54+02:00",
-    "media_id": "e6qxqj2a3564",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6272897/ex-nissan-baas-eist-1-miljard-dollar-compensatie-maar-is-niet-uit-op-wraak.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6272896,
-    "slug": "wandelaars-druppelen-binnen-op-eerste-vierdaagse-dag",
-    "type": "video",
-    "title": "Wandelaars druppelen binnen op eerste Vierdaagse-dag",
-    "subtitle": "Video",
-    "published_at": "2023-07-18T14:39:25+02:00",
-    "updated_at": "2023-07-18T15:05:30+02:00",
-    "media_id": "u1yxmdga7mby",
-    "duration": "0:33",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6272896/wandelaars-druppelen-binnen-op-eerste-vierdaagse-dag.html",
     "open_new_window": false,
     "partner": null
   }
