@@ -1,12 +1,104 @@
 [
   {
+    "id": 6273053,
+    "slug": "tennister-geeft-wedstrijd-op-na-onsportief-gedrag-van-tegenstander",
+    "type": "video",
+    "title": "Tennister geeft wedstrijd op na onsportief gedrag van tegenstander",
+    "subtitle": "Video",
+    "published_at": "2023-07-19T15:00:27+02:00",
+    "updated_at": "2023-07-19T15:01:28+02:00",
+    "media_id": "nmbxf50acnf3",
+    "duration": "0:54",
+    "canonical_section": {
+      "id": 1772432,
+      "slug": "tennis",
+      "type": "default",
+      "name": "Tennis",
+      "style": "nusport",
+      "media_id": "m1oxohpan0gq",
+      "partner": null
+    },
+    "url": "/tennis/6273053/tennister-geeft-wedstrijd-op-na-onsportief-gedrag-van-tegenstander.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6273049,
+    "slug": "nieuwe-beelden-tonen-opluchting-van-geredde-australier-na-maanden-op-zee",
+    "type": "video",
+    "title": "Nieuwe beelden tonen opluchting van geredde Australiër na maanden op zee",
+    "subtitle": "Video",
+    "published_at": "2023-07-19T14:35:39+02:00",
+    "updated_at": "2023-07-19T14:38:03+02:00",
+    "media_id": "woqx4q9al3cz",
+    "duration": "1:10",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6273049/nieuwe-beelden-tonen-opluchting-van-geredde-australier-na-maanden-op-zee.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6273046,
+    "slug": "roosmarijn-knol-volgt-gerrit-hiemstra-op-als-weerpresentator-nos",
+    "type": "article",
+    "title": "Roosmarijn Knol volgt Gerrit Hiemstra op als weerpresentator NOS",
+    "subtitle": null,
+    "published_at": "2023-07-19T14:21:58+02:00",
+    "updated_at": "2023-07-19T14:23:21+02:00",
+    "media_id": "dq5xpfgarvce",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771675,
+      "slug": "media",
+      "type": "default",
+      "name": "Media",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/media/6273046/roosmarijn-knol-volgt-gerrit-hiemstra-op-als-weerpresentator-nos.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6273044,
+    "slug": "kinderen-redden-basketballegende-shaquille-oneal-tijdens-zwemmen",
+    "type": "video",
+    "title": "Kinderen 'redden' basketballegende Shaquille O'Neal tijdens zwemmen",
+    "subtitle": "Video",
+    "published_at": "2023-07-19T14:09:25+02:00",
+    "updated_at": "2023-07-19T14:25:06+02:00",
+    "media_id": "9okxoaxa6o4z",
+    "duration": "0:32",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6273044/kinderen-redden-basketballegende-shaquille-oneal-tijdens-zwemmen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6273030,
     "slug": "keerzijde-van-lachgasverbod-afvalbedrijven-slaan-alarm-om-ontploffende-flessen",
     "type": "article",
     "title": "Keerzijde van lachgasverbod: afvalbedrijven slaan alarm om ontploffende flessen",
     "subtitle": null,
     "published_at": "2023-07-19T13:54:59+02:00",
-    "updated_at": "2023-07-19T13:55:15+02:00",
+    "updated_at": "2023-07-19T14:28:48+02:00",
     "media_id": "yy9xsjvaeahm",
     "duration": null,
     "canonical_section": {
@@ -24,12 +116,12 @@
   },
   {
     "id": 6273036,
-    "slug": "poetin-laat-internationale-top-in-zuid-afrika-schieten-na-arrestatiebevel",
+    "slug": "poetin-laat-internationale-top-in-zuid-afrika-schieten-vanwege-arrestatiebevel",
     "type": "article",
-    "title": "Poetin laat internationale top in Zuid-Afrika schieten na arrestatiebevel",
+    "title": "Poetin laat internationale top in Zuid-Afrika schieten vanwege arrestatiebevel",
     "subtitle": null,
     "published_at": "2023-07-19T13:38:52+02:00",
-    "updated_at": "2023-07-19T13:58:22+02:00",
+    "updated_at": "2023-07-19T14:51:21+02:00",
     "media_id": "uogxficaog7d",
     "duration": null,
     "canonical_section": {
@@ -41,7 +133,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/buitenland/6273036/poetin-laat-internationale-top-in-zuid-afrika-schieten-na-arrestatiebevel.html",
+    "url": "/buitenland/6273036/poetin-laat-internationale-top-in-zuid-afrika-schieten-vanwege-arrestatiebevel.html",
     "open_new_window": false,
     "partner": null
   },
@@ -213,7 +305,7 @@
     "title": "Grote brand op Russische militaire basis op Krim, dorpen geëvacueerd",
     "subtitle": null,
     "published_at": "2023-07-19T12:56:50+02:00",
-    "updated_at": "2023-07-19T12:57:58+02:00",
+    "updated_at": "2023-07-19T14:54:45+02:00",
     "media_id": "4gkxhc3az5qu",
     "duration": null,
     "canonical_section": {
@@ -374,7 +466,7 @@
     "title": "Zeker 34 doden bij busongeval in Algerije na week met 1.350 verkeersongelukken",
     "subtitle": null,
     "published_at": "2023-07-19T11:44:39+02:00",
-    "updated_at": "2023-07-19T11:47:00+02:00",
+    "updated_at": "2023-07-19T14:54:28+02:00",
     "media_id": "42xx420a8zj4",
     "duration": null,
     "canonical_section": {
@@ -461,12 +553,12 @@
   },
   {
     "id": 6273000,
-    "slug": "code-rood-in-meer-italiaanse-steden-wegens-hitte-bosbranden-teisteren-griekenland",
+    "slug": "italie-kleurt-nog-roder-vanwege-hitte-bosbranden-in-griekenland-breiden-zich-uit",
     "type": "article",
-    "title": "Code rood in meer Italiaanse steden wegens hitte, bosbranden teisteren Griekenland",
+    "title": "Italië kleurt nog 'roder' vanwege hitte, bosbranden in Griekenland breiden zich uit",
     "subtitle": null,
     "published_at": "2023-07-19T11:28:50+02:00",
-    "updated_at": "2023-07-19T13:28:23+02:00",
+    "updated_at": "2023-07-19T14:22:12+02:00",
     "media_id": "87gx5qtahkki",
     "duration": null,
     "canonical_section": {
@@ -478,7 +570,7 @@
       "media_id": "kf4x3b2agsxg",
       "partner": null
     },
-    "url": "/klimaat/6273000/code-rood-in-meer-italiaanse-steden-wegens-hitte-bosbranden-teisteren-griekenland.html",
+    "url": "/klimaat/6273000/italie-kleurt-nog-roder-vanwege-hitte-bosbranden-in-griekenland-breiden-zich-uit.html",
     "open_new_window": false,
     "partner": null
   },
@@ -512,8 +604,8 @@
     "title": "Grote kopgroep heeft lichte voorsprong op peloton in koninginnenrit",
     "subtitle": "Liveblog",
     "published_at": "2023-07-19T11:23:18+02:00",
-    "updated_at": "2023-07-19T13:56:28+02:00",
-    "media_id": "usuxtzkavg59",
+    "updated_at": "2023-07-19T14:06:50+02:00",
+    "media_id": "iqux3szahjti",
     "duration": null,
     "canonical_section": {
       "id": 1772173,
@@ -535,7 +627,7 @@
     "title": "Uitgejouwde Chinese tennisster geeft huilend op na onsportief gedrag opponent",
     "subtitle": null,
     "published_at": "2023-07-19T10:59:51+02:00",
-    "updated_at": "2023-07-19T10:59:52+02:00",
+    "updated_at": "2023-07-19T14:32:57+02:00",
     "media_id": "q69xp0ga52zh",
     "duration": null,
     "canonical_section": {
@@ -558,7 +650,7 @@
     "title": "Weer gedoe rond veld van Oranje: speelsters ontdekken harde plaat bij middenlijn",
     "subtitle": null,
     "published_at": "2023-07-19T10:49:28+02:00",
-    "updated_at": "2023-07-19T13:57:40+02:00",
+    "updated_at": "2023-07-19T14:26:58+02:00",
     "media_id": "ejhxtyjai6z3",
     "duration": null,
     "canonical_section": {
@@ -594,98 +686,6 @@
       "partner": null
     },
     "url": "/videos/6272992/enorme-brand-breekt-uit-op-russische-militaire-basis-op-de-krim.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6272984,
-    "slug": "gasunie-verdient-goed-aan-lng-terminal-bij-eemshaven",
-    "type": "article",
-    "title": "Gasunie verdient goed aan lng-terminal bij Eemshaven",
-    "subtitle": null,
-    "published_at": "2023-07-19T10:25:22+02:00",
-    "updated_at": "2023-07-19T10:25:23+02:00",
-    "media_id": "ie7xskqa68ho",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6272984/gasunie-verdient-goed-aan-lng-terminal-bij-eemshaven.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6272986,
-    "slug": "ook-stroomnet-in-zeeland-is-vol-geen-nieuwe-aansluitingen-voor-grote-bedrijven",
-    "type": "article",
-    "title": "Ook stroomnet in Zeeland is vol: geen nieuwe aansluitingen voor grote bedrijven",
-    "subtitle": null,
-    "published_at": "2023-07-19T10:14:00+02:00",
-    "updated_at": "2023-07-19T10:14:01+02:00",
-    "media_id": "xrrx0rxat4eh",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6272986/ook-stroomnet-in-zeeland-is-vol-geen-nieuwe-aansluitingen-voor-grote-bedrijven.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6272978,
-    "slug": "maori-komen-terug-op-hakarel-bij-ontvangstceremonie-oranje-heel-mooi-gebaar",
-    "type": "article",
-    "title": "Maori komen terug op 'hakarel' bij ontvangstceremonie Oranje: 'Heel mooi gebaar'",
-    "subtitle": null,
-    "published_at": "2023-07-19T10:07:04+02:00",
-    "updated_at": "2023-07-19T11:44:59+02:00",
-    "media_id": "7syxlqqac8md",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779272,
-      "slug": "wk-voetbal-2023",
-      "type": "default",
-      "name": "WK voetbal 2023",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/wk-voetbal-2023/6272978/maori-komen-terug-op-hakarel-bij-ontvangstceremonie-oranje-heel-mooi-gebaar.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6272985,
-    "slug": "pakketdienst-gls-bezorgt-honderden-mails-bij-verkeerde-adressen",
-    "type": "article",
-    "title": "Pakketdienst GLS bezorgt honderden mails bij verkeerde adressen",
-    "subtitle": null,
-    "published_at": "2023-07-19T09:57:57+02:00",
-    "updated_at": "2023-07-19T09:57:59+02:00",
-    "media_id": "3l8xd3vabfbq",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771438,
-      "slug": "tech",
-      "type": "default",
-      "name": "Tech",
-      "style": "nutech",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/tech/6272985/pakketdienst-gls-bezorgt-honderden-mails-bij-verkeerde-adressen.html",
     "open_new_window": false,
     "partner": null
   }
