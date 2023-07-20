@@ -1,12 +1,127 @@
 [
   {
-    "id": 6273195,
-    "slug": "voor-het-eerst-zien-we-hoe-een-tweekoppige-ster-van-samenstelling-verandert",
+    "id": 6273204,
+    "slug": "turkije-verhoogt-rente-opnieuw-in-strijd-tegen-inflatie",
     "type": "article",
-    "title": "Voor het eerst zien we hoe een 'tweekoppige' ster van samenstelling verandert",
+    "title": "Turkije verhoogt rente opnieuw in strijd tegen inflatie",
+    "subtitle": null,
+    "published_at": "2023-07-20T14:41:34+02:00",
+    "updated_at": "2023-07-20T14:41:38+02:00",
+    "media_id": "rn5xvd2acdu6",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6273204/turkije-verhoogt-rente-opnieuw-in-strijd-tegen-inflatie.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6273203,
+    "slug": "bbc-onderzoek-naar-mogelijk-wangedrag-huw-edwards-kan-nog-maanden-duren",
+    "type": "article",
+    "title": "BBC-onderzoek naar mogelijk wangedrag Huw Edwards kan nog maanden duren",
+    "subtitle": null,
+    "published_at": "2023-07-20T14:39:13+02:00",
+    "updated_at": "2023-07-20T14:39:15+02:00",
+    "media_id": "pagxq6ya3fbk",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771675,
+      "slug": "media",
+      "type": "default",
+      "name": "Media",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/media/6273203/bbc-onderzoek-naar-mogelijk-wangedrag-huw-edwards-kan-nog-maanden-duren.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6273197,
+    "slug": "ggz-hoeft-notities-over-verpleger-die-patienten-zou-hebben-gedood-niet-te-delen",
+    "type": "article",
+    "title": "Ggz hoeft notities over verpleger die patiënten zou hebben gedood niet te delen",
+    "subtitle": null,
+    "published_at": "2023-07-20T14:21:55+02:00",
+    "updated_at": "2023-07-20T14:21:56+02:00",
+    "media_id": "ey4x9hfau6i1",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6273197/ggz-hoeft-notities-over-verpleger-die-patienten-zou-hebben-gedood-niet-te-delen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6273039,
+    "slug": "weg-vrij-voor-timmermans-als-lijsttrekker-gl-pvda-nu-moorman-geen-kandidaat-is",
+    "type": "article",
+    "title": "Weg vrij voor Timmermans als lijsttrekker GL-PvdA nu Moorman geen kandidaat is",
+    "subtitle": null,
+    "published_at": "2023-07-20T14:21:40+02:00",
+    "updated_at": "2023-07-20T15:00:58+02:00",
+    "media_id": "9cdxzwnagz0s",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771437,
+      "slug": "politiek",
+      "type": "default",
+      "name": "Politiek",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/politiek/6273039/weg-vrij-voor-timmermans-als-lijsttrekker-gl-pvda-nu-moorman-geen-kandidaat-is.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6273192,
+    "slug": "pauw-en-ierland-kunnen-bij-debuut-op-wk-niet-stunten-tegen-gastland-australie",
+    "type": "article",
+    "title": "Pauw en Ierland kunnen bij debuut op WK niet stunten tegen gastland Australië",
+    "subtitle": null,
+    "published_at": "2023-07-20T14:02:56+02:00",
+    "updated_at": "2023-07-20T14:11:12+02:00",
+    "media_id": "4ulx9nxakudj",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772521,
+      "slug": "wk-vrouwenvoetbal",
+      "type": "files",
+      "name": "WK vrouwen",
+      "style": "nusport",
+      "media_id": "gcwx1qcacezl",
+      "partner": null
+    },
+    "url": "/wk-vrouwenvoetbal/6273192/pauw-en-ierland-kunnen-bij-debuut-op-wk-niet-stunten-tegen-gastland-australie.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6273195,
+    "slug": "tweekoppige-ster-verandert-voor-het-eerst-voor-onze-ogen-van-samenstelling",
+    "type": "article",
+    "title": "'Tweekoppige' ster verandert voor het eerst voor onze ogen van samenstelling",
     "subtitle": null,
     "published_at": "2023-07-20T14:01:08+02:00",
-    "updated_at": "2023-07-20T14:01:11+02:00",
+    "updated_at": "2023-07-20T14:49:31+02:00",
     "media_id": "a1jxe97al90v",
     "duration": null,
     "canonical_section": {
@@ -18,7 +133,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/wetenschap/6273195/voor-het-eerst-zien-we-hoe-een-tweekoppige-ster-van-samenstelling-verandert.html",
+    "url": "/wetenschap/6273195/tweekoppige-ster-verandert-voor-het-eerst-voor-onze-ogen-van-samenstelling.html",
     "open_new_window": false,
     "partner": null
   },
@@ -29,7 +144,7 @@
     "title": "Tata Steel twijfelt over klimaatplan, zelfs gebruik van waterstof niet meer zeker",
     "subtitle": null,
     "published_at": "2023-07-20T14:00:50+02:00",
-    "updated_at": "2023-07-20T14:00:56+02:00",
+    "updated_at": "2023-07-20T14:36:02+02:00",
     "media_id": "cntxljra9606",
     "duration": null,
     "canonical_section": {
@@ -121,7 +236,7 @@
     "title": "Oranje gaat tijdens WK met band voor inclusie spelen: 'Stap naar voren van FIFA'",
     "subtitle": null,
     "published_at": "2023-07-20T13:01:44+02:00",
-    "updated_at": "2023-07-20T13:54:49+02:00",
+    "updated_at": "2023-07-20T14:07:33+02:00",
     "media_id": "zhjxjxyadh2e",
     "duration": null,
     "canonical_section": {
@@ -139,12 +254,12 @@
   },
   {
     "id": 6273184,
-    "slug": "ricciardo-heeft-geen-medelijden-met-de-vries-hij-weet-hoe-t-werkt-in-deze-sport",
+    "slug": "ricciardo-leeft-mee-met-de-vries-maar-hij-weet-hoe-het-in-deze-sport-werkt",
     "type": "article",
-    "title": "Ricciardo heeft geen medelijden met De Vries: 'Hij weet hoe 't werkt in deze sport'",
+    "title": "Ricciardo leeft mee met De Vries: 'Maar hij weet hoe het in deze sport werkt'",
     "subtitle": null,
     "published_at": "2023-07-20T12:59:28+02:00",
-    "updated_at": "2023-07-20T13:50:47+02:00",
+    "updated_at": "2023-07-20T14:47:07+02:00",
     "media_id": "n8axsvga81wu",
     "duration": null,
     "canonical_section": {
@@ -156,7 +271,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/formule-1/6273184/ricciardo-heeft-geen-medelijden-met-de-vries-hij-weet-hoe-t-werkt-in-deze-sport.html",
+    "url": "/formule-1/6273184/ricciardo-leeft-mee-met-de-vries-maar-hij-weet-hoe-het-in-deze-sport-werkt.html",
     "open_new_window": false,
     "partner": null
   },
@@ -254,13 +369,13 @@
   },
   {
     "id": 6273166,
-    "slug": "drie-vluchters-op-stap-ploeg-van-der-poel-lijkt-aan-zet",
+    "slug": "drie-vluchters-in-achttiende-tour-rit-nieuwe-kans-voor-groenewegen",
     "type": "article",
-    "title": "Drie vluchters op stap, ploeg Van der Poel lijkt aan zet",
+    "title": "Drie vluchters in achttiende Tour-rit, nieuwe kans voor Groenewegen",
     "subtitle": "Liveblog",
     "published_at": "2023-07-20T12:06:23+02:00",
-    "updated_at": "2023-07-20T13:57:22+02:00",
-    "media_id": "2nsxmbba3956",
+    "updated_at": "2023-07-20T14:37:26+02:00",
+    "media_id": "eemx4cuaiogs",
     "duration": null,
     "canonical_section": {
       "id": 1772173,
@@ -271,7 +386,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/tour-de-france/6273166/drie-vluchters-op-stap-ploeg-van-der-poel-lijkt-aan-zet.html",
+    "url": "/tour-de-france/6273166/drie-vluchters-in-achttiende-tour-rit-nieuwe-kans-voor-groenewegen.html",
     "open_new_window": false,
     "partner": null
   },
@@ -369,12 +484,12 @@
   },
   {
     "id": 6272988,
-    "slug": "timmermans-wil-lijsttrekker-glpvda-worden-en-heeft-steun-van-prominenten",
+    "slug": "timmermans-wil-lijsttrekker-gl-pvda-worden-en-heeft-steun-van-prominenten",
     "type": "article",
-    "title": "Timmermans wil lijsttrekker GL/PvdA worden en heeft steun van prominenten",
+    "title": "Timmermans wil lijsttrekker GL-PvdA worden en heeft steun van prominenten",
     "subtitle": null,
     "published_at": "2023-07-20T11:11:51+02:00",
-    "updated_at": "2023-07-20T13:35:10+02:00",
+    "updated_at": "2023-07-20T14:09:10+02:00",
     "media_id": "t31x6p7axds5",
     "duration": null,
     "canonical_section": {
@@ -386,7 +501,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/politiek/6272988/timmermans-wil-lijsttrekker-glpvda-worden-en-heeft-steun-van-prominenten.html",
+    "url": "/politiek/6272988/timmermans-wil-lijsttrekker-gl-pvda-worden-en-heeft-steun-van-prominenten.html",
     "open_new_window": false,
     "partner": null
   },
@@ -571,121 +686,6 @@
       "partner": null
     },
     "url": "/economie/6273151/tesla-verkoopt-een-stuk-meer-autos-en-ziet-omzet-flink-stijgen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6273142,
-    "slug": "veel-meer-mensen-nemen-netflix-nu-delen-van-account-niet-meer-gratis-is",
-    "type": "article",
-    "title": "Veel meer mensen nemen Netflix nu delen van account niet meer gratis is",
-    "subtitle": null,
-    "published_at": "2023-07-20T09:36:42+02:00",
-    "updated_at": "2023-07-20T10:52:06+02:00",
-    "media_id": "wsix764a008x",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771438,
-      "slug": "tech",
-      "type": "default",
-      "name": "Tech",
-      "style": "nutech",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/tech/6273142/veel-meer-mensen-nemen-netflix-nu-delen-van-account-niet-meer-gratis-is.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6273145,
-    "slug": "omstander-filmt-loslopende-leeuwin-in-berlijn",
-    "type": "video",
-    "title": "Omstander filmt loslopende leeuwin in Berlijn",
-    "subtitle": "Video",
-    "published_at": "2023-07-20T09:31:24+02:00",
-    "updated_at": "2023-07-20T13:35:57+02:00",
-    "media_id": "skdxu8aadbgv",
-    "duration": "0:26",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6273145/omstander-filmt-loslopende-leeuwin-in-berlijn.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6273141,
-    "slug": "leeuwin-loopt-los-rond-in-berlijn-inwoners-opgeroepen-binnen-te-blijven",
-    "type": "article",
-    "title": "Leeuwin loopt los rond in Berlijn, inwoners opgeroepen binnen te blijven",
-    "subtitle": null,
-    "published_at": "2023-07-20T09:21:43+02:00",
-    "updated_at": "2023-07-20T13:51:41+02:00",
-    "media_id": "juqxg0cafh53",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772536,
-      "slug": "dieren",
-      "type": "default",
-      "name": "Dieren",
-      "style": "nunjij",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/dieren/6273141/leeuwin-loopt-los-rond-in-berlijn-inwoners-opgeroepen-binnen-te-blijven.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6273015,
-    "slug": "az-incasseert-weer-miljoenen-revelatie-kerkez-gaat-naar-bournemouth",
-    "type": "article",
-    "title": "AZ incasseert weer miljoenen: revelatie Kerkez gaat naar Bournemouth",
-    "subtitle": null,
-    "published_at": "2023-07-20T09:07:28+02:00",
-    "updated_at": "2023-07-20T10:00:41+02:00",
-    "media_id": "7sfxoz0aiszu",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6273015/az-incasseert-weer-miljoenen-revelatie-kerkez-gaat-naar-bournemouth.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6273137,
-    "slug": "viaplay-trekt-zich-terug-uit-veel-landen-maar-blijft-in-nederland",
-    "type": "article",
-    "title": "Viaplay trekt zich terug uit veel landen, maar blijft in Nederland",
-    "subtitle": null,
-    "published_at": "2023-07-20T09:06:47+02:00",
-    "updated_at": "2023-07-20T09:06:48+02:00",
-    "media_id": "13bxt3ga1wmp",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771675,
-      "slug": "media",
-      "type": "default",
-      "name": "Media",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/media/6273137/viaplay-trekt-zich-terug-uit-veel-landen-maar-blijft-in-nederland.html",
     "open_new_window": false,
     "partner": null
   }
