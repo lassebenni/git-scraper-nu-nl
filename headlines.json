@@ -1,12 +1,150 @@
 [
   {
-    "id": 6273184,
-    "slug": "ricciardo-de-vries-is-volwassen-genoeg-om-te-weten-hoe-het-in-de-sport-werkt",
+    "id": 6273195,
+    "slug": "voor-het-eerst-zien-we-hoe-een-tweekoppige-ster-van-samenstelling-verandert",
     "type": "article",
-    "title": "Ricciardo: 'De Vries is volwassen genoeg om te weten hoe het in de sport werkt'",
+    "title": "Voor het eerst zien we hoe een 'tweekoppige' ster van samenstelling verandert",
+    "subtitle": null,
+    "published_at": "2023-07-20T14:01:08+02:00",
+    "updated_at": "2023-07-20T14:01:11+02:00",
+    "media_id": "a1jxe97al90v",
+    "duration": null,
+    "canonical_section": {
+      "id": 478878,
+      "slug": "wetenschap",
+      "type": "default",
+      "name": "Wetenschap",
+      "style": "nunjij",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/wetenschap/6273195/voor-het-eerst-zien-we-hoe-een-tweekoppige-ster-van-samenstelling-verandert.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6273165,
+    "slug": "tata-steel-twijfelt-over-klimaatplan-zelfs-gebruik-van-waterstof-niet-meer-zeker",
+    "type": "article",
+    "title": "Tata Steel twijfelt over klimaatplan, zelfs gebruik van waterstof niet meer zeker",
+    "subtitle": null,
+    "published_at": "2023-07-20T14:00:50+02:00",
+    "updated_at": "2023-07-20T14:00:56+02:00",
+    "media_id": "cntxljra9606",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772754,
+      "slug": "klimaat",
+      "type": "default",
+      "name": "Klimaat",
+      "style": "nuzakelijk",
+      "media_id": "kf4x3b2agsxg",
+      "partner": null
+    },
+    "url": "/klimaat/6273165/tata-steel-twijfelt-over-klimaatplan-zelfs-gebruik-van-waterstof-niet-meer-zeker.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6273193,
+    "slug": "kylie-jenner-stopt-met-fotoshoppen-hou-nog-steeds-van-mezelf",
+    "type": "article",
+    "title": "Kylie Jenner stopt met fotoshoppen: 'Hou nog steeds van mezelf'",
+    "subtitle": null,
+    "published_at": "2023-07-20T13:48:02+02:00",
+    "updated_at": "2023-07-20T13:48:03+02:00",
+    "media_id": "xrbxd7qaxz1c",
+    "duration": null,
+    "canonical_section": {
+      "id": 125,
+      "slug": "achterklap",
+      "type": "default",
+      "name": "Achterklap",
+      "style": "nuentertainment",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/achterklap/6273193/kylie-jenner-stopt-met-fotoshoppen-hou-nog-steeds-van-mezelf.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6273190,
+    "slug": "indonesier-filmt-gigantische-vuurbal-na-botsing-trein-en-vrachtwagen",
+    "type": "video",
+    "title": "Indonesiër filmt gigantische vuurbal na botsing trein en vrachtwagen",
+    "subtitle": "Video",
+    "published_at": "2023-07-20T13:15:30+02:00",
+    "updated_at": "2023-07-20T13:38:46+02:00",
+    "media_id": "0gex1mlapyg5",
+    "duration": "0:36",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6273190/indonesier-filmt-gigantische-vuurbal-na-botsing-trein-en-vrachtwagen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6273185,
+    "slug": "gezondheid-noorse-kroonprinses-mette-marit-gaat-op-en-neer",
+    "type": "article",
+    "title": "Gezondheid Noorse kroonprinses Mette-Marit gaat op en neer",
+    "subtitle": null,
+    "published_at": "2023-07-20T13:06:18+02:00",
+    "updated_at": "2023-07-20T13:06:20+02:00",
+    "media_id": "8atxqhjajrm5",
+    "duration": null,
+    "canonical_section": {
+      "id": 125,
+      "slug": "achterklap",
+      "type": "default",
+      "name": "Achterklap",
+      "style": "nuentertainment",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/achterklap/6273185/gezondheid-noorse-kroonprinses-mette-marit-gaat-op-en-neer.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6273186,
+    "slug": "oranje-gaat-tijdens-wk-met-band-voor-inclusie-spelen-stap-naar-voren-van-fifa",
+    "type": "article",
+    "title": "Oranje gaat tijdens WK met band voor inclusie spelen: 'Stap naar voren van FIFA'",
+    "subtitle": null,
+    "published_at": "2023-07-20T13:01:44+02:00",
+    "updated_at": "2023-07-20T13:54:49+02:00",
+    "media_id": "zhjxjxyadh2e",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779272,
+      "slug": "wk-voetbal-2023",
+      "type": "default",
+      "name": "WK voetbal 2023",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/wk-voetbal-2023/6273186/oranje-gaat-tijdens-wk-met-band-voor-inclusie-spelen-stap-naar-voren-van-fifa.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6273184,
+    "slug": "ricciardo-heeft-geen-medelijden-met-de-vries-hij-weet-hoe-t-werkt-in-deze-sport",
+    "type": "article",
+    "title": "Ricciardo heeft geen medelijden met De Vries: 'Hij weet hoe 't werkt in deze sport'",
     "subtitle": null,
     "published_at": "2023-07-20T12:59:28+02:00",
-    "updated_at": "2023-07-20T12:59:30+02:00",
+    "updated_at": "2023-07-20T13:50:47+02:00",
     "media_id": "n8axsvga81wu",
     "duration": null,
     "canonical_section": {
@@ -18,7 +156,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/formule-1/6273184/ricciardo-de-vries-is-volwassen-genoeg-om-te-weten-hoe-het-in-de-sport-werkt.html",
+    "url": "/formule-1/6273184/ricciardo-heeft-geen-medelijden-met-de-vries-hij-weet-hoe-t-werkt-in-deze-sport.html",
     "open_new_window": false,
     "partner": null
   },
@@ -52,7 +190,7 @@
     "title": "Emoties bij Nieuw-Zeeland na eerste WK-zege ooit: 'Alles is mogelijk'",
     "subtitle": null,
     "published_at": "2023-07-20T12:20:29+02:00",
-    "updated_at": "2023-07-20T12:56:52+02:00",
+    "updated_at": "2023-07-20T13:24:35+02:00",
     "media_id": "kowx56oaj1bc",
     "duration": null,
     "canonical_section": {
@@ -70,12 +208,12 @@
   },
   {
     "id": 6273177,
-    "slug": "colombiaan-aangehouden-voor-recordvangst-crystal-meth-in-rotterdam",
+    "slug": "recordvangst-van-crystal-meth-in-rotterdam-leidt-vier-jaar-later-tot-arrestatie",
     "type": "article",
-    "title": "Colombiaan aangehouden voor recordvangst crystal meth in Rotterdam",
+    "title": "Recordvangst van crystal meth in Rotterdam leidt vier jaar later tot arrestatie",
     "subtitle": null,
     "published_at": "2023-07-20T12:15:47+02:00",
-    "updated_at": "2023-07-20T12:15:47+02:00",
+    "updated_at": "2023-07-20T13:51:26+02:00",
     "media_id": "e1bxkiwafoqc",
     "duration": null,
     "canonical_section": {
@@ -87,7 +225,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/binnenland/6273177/colombiaan-aangehouden-voor-recordvangst-crystal-meth-in-rotterdam.html",
+    "url": "/binnenland/6273177/recordvangst-van-crystal-meth-in-rotterdam-leidt-vier-jaar-later-tot-arrestatie.html",
     "open_new_window": false,
     "partner": null
   },
@@ -116,13 +254,13 @@
   },
   {
     "id": 6273166,
-    "slug": "ploeg-van-der-poel-en-philipsen-aan-zet-in-tour-de-france",
+    "slug": "drie-vluchters-op-stap-ploeg-van-der-poel-lijkt-aan-zet",
     "type": "article",
-    "title": "Ploeg Van der Poel en Philipsen aan zet in Tour de France",
+    "title": "Drie vluchters op stap, ploeg Van der Poel lijkt aan zet",
     "subtitle": "Liveblog",
     "published_at": "2023-07-20T12:06:23+02:00",
-    "updated_at": "2023-07-20T12:33:28+02:00",
-    "media_id": "qmaxcv0a02pc",
+    "updated_at": "2023-07-20T13:57:22+02:00",
+    "media_id": "2nsxmbba3956",
     "duration": null,
     "canonical_section": {
       "id": 1772173,
@@ -133,7 +271,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/tour-de-france/6273166/ploeg-van-der-poel-en-philipsen-aan-zet-in-tour-de-france.html",
+    "url": "/tour-de-france/6273166/drie-vluchters-op-stap-ploeg-van-der-poel-lijkt-aan-zet.html",
     "open_new_window": false,
     "partner": null
   },
@@ -231,12 +369,12 @@
   },
   {
     "id": 6272988,
-    "slug": "frans-timmermans-wil-lijsttrekker-groenlinks-pvda-worden",
+    "slug": "timmermans-wil-lijsttrekker-glpvda-worden-en-heeft-steun-van-prominenten",
     "type": "article",
-    "title": "Frans Timmermans wil lijsttrekker GroenLinks-PvdA worden",
+    "title": "Timmermans wil lijsttrekker GL/PvdA worden en heeft steun van prominenten",
     "subtitle": null,
     "published_at": "2023-07-20T11:11:51+02:00",
-    "updated_at": "2023-07-20T12:49:19+02:00",
+    "updated_at": "2023-07-20T13:35:10+02:00",
     "media_id": "t31x6p7axds5",
     "duration": null,
     "canonical_section": {
@@ -248,7 +386,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/politiek/6272988/frans-timmermans-wil-lijsttrekker-groenlinks-pvda-worden.html",
+    "url": "/politiek/6272988/timmermans-wil-lijsttrekker-glpvda-worden-en-heeft-steun-van-prominenten.html",
     "open_new_window": false,
     "partner": null
   },
@@ -282,7 +420,7 @@
     "title": "Nieuw-Zeeland verrast Noorwegen in overschaduwde openingswedstrijd WK",
     "subtitle": null,
     "published_at": "2023-07-20T10:59:59+02:00",
-    "updated_at": "2023-07-20T12:02:19+02:00",
+    "updated_at": "2023-07-20T13:12:58+02:00",
     "media_id": "72xxevya8utp",
     "duration": null,
     "canonical_section": {
@@ -466,7 +604,7 @@
     "title": "Omstander filmt loslopende leeuwin in Berlijn",
     "subtitle": "Video",
     "published_at": "2023-07-20T09:31:24+02:00",
-    "updated_at": "2023-07-20T10:57:09+02:00",
+    "updated_at": "2023-07-20T13:35:57+02:00",
     "media_id": "skdxu8aadbgv",
     "duration": "0:26",
     "canonical_section": {
@@ -489,7 +627,7 @@
     "title": "Leeuwin loopt los rond in Berlijn, inwoners opgeroepen binnen te blijven",
     "subtitle": null,
     "published_at": "2023-07-20T09:21:43+02:00",
-    "updated_at": "2023-07-20T10:46:21+02:00",
+    "updated_at": "2023-07-20T13:51:41+02:00",
     "media_id": "juqxg0cafh53",
     "duration": null,
     "canonical_section": {
@@ -548,144 +686,6 @@
       "partner": null
     },
     "url": "/media/6273137/viaplay-trekt-zich-terug-uit-veel-landen-maar-blijft-in-nederland.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6273138,
-    "slug": "van-aert-verlaat-tour-de-france-om-bij-bevalling-van-zijn-vrouw-te-kunnen-zijn",
-    "type": "article",
-    "title": "Van Aert verlaat Tour de France om bij bevalling van zijn vrouw te kunnen zijn",
-    "subtitle": null,
-    "published_at": "2023-07-20T09:06:07+02:00",
-    "updated_at": "2023-07-20T10:39:31+02:00",
-    "media_id": "5kbx3gua32me",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772173,
-      "slug": "tour-de-france",
-      "type": "default",
-      "name": "Tour de France",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/tour-de-france/6273138/van-aert-verlaat-tour-de-france-om-bij-bevalling-van-zijn-vrouw-te-kunnen-zijn.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6273135,
-    "slug": "nieuwe-winkels-zorgen-voor-hogere-omzet-bij-action",
-    "type": "article",
-    "title": "Nieuwe winkels zorgen voor hogere omzet bij Action",
-    "subtitle": null,
-    "published_at": "2023-07-20T09:00:21+02:00",
-    "updated_at": "2023-07-20T09:00:22+02:00",
-    "media_id": "nkvxfkia39ny",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6273135/nieuwe-winkels-zorgen-voor-hogere-omzet-bij-action.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6273134,
-    "slug": "honderden-demonstranten-bestormen-zweedse-ambassade-in-bagdad",
-    "type": "video",
-    "title": "Honderden demonstranten bestormen Zweedse ambassade in Bagdad",
-    "subtitle": "Video",
-    "published_at": "2023-07-20T08:44:55+02:00",
-    "updated_at": "2023-07-20T08:44:56+02:00",
-    "media_id": "mn4xqb9amzpp",
-    "duration": "0:48",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6273134/honderden-demonstranten-bestormen-zweedse-ambassade-in-bagdad.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6273133,
-    "slug": "burgemeester-van-nijmegen-treedt-op-tijdens-vierdaagsefeesten",
-    "type": "video",
-    "title": "Burgemeester van Nijmegen treedt op tijdens Vierdaagsefeesten",
-    "subtitle": "Video",
-    "published_at": "2023-07-20T08:43:08+02:00",
-    "updated_at": "2023-07-20T08:44:42+02:00",
-    "media_id": "iyaxz0qaej7o",
-    "duration": "1:10",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6273133/burgemeester-van-nijmegen-treedt-op-tijdens-vierdaagsefeesten.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6273132,
-    "slug": "ierland-van-pauw-blijft-moeiteloos-overeind-tegen-australie",
-    "type": "article",
-    "title": "Ierland van Pauw blijft moeiteloos overeind tegen Australië",
-    "subtitle": "Liveblog",
-    "published_at": "2023-07-20T08:25:37+02:00",
-    "updated_at": "2023-07-20T12:54:43+02:00",
-    "media_id": "57vx5o0a5c38",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6273132/ierland-van-pauw-blijft-moeiteloos-overeind-tegen-australie.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6273130,
-    "slug": "zweedse-ambassade-in-irak-bestormd-vanwege-geplande-koranverbranding",
-    "type": "article",
-    "title": "Zweedse ambassade in Irak bestormd vanwege geplande koranverbranding",
-    "subtitle": null,
-    "published_at": "2023-07-20T08:15:13+02:00",
-    "updated_at": "2023-07-20T08:45:18+02:00",
-    "media_id": "73vx81caxerp",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6273130/zweedse-ambassade-in-irak-bestormd-vanwege-geplande-koranverbranding.html",
     "open_new_window": false,
     "partner": null
   }
