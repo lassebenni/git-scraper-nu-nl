@@ -1,12 +1,81 @@
 [
   {
-    "id": 6273577,
-    "slug": "tourkaravaan-maakt-zich-klaar-voor-champagnerit-naar-parijs",
+    "id": 6273602,
+    "slug": "verstappen-verschalkt-hamilton-bij-start-en-wint-in-boedapest-zevende-race-op-rij",
     "type": "article",
-    "title": "Tourkaravaan maakt zich klaar voor champagnerit naar Parijs",
+    "title": "Verstappen verschalkt Hamilton bij start en wint in Boedapest zevende race op rij",
+    "subtitle": null,
+    "published_at": "2023-07-23T16:41:55+02:00",
+    "updated_at": "2023-07-23T17:00:35+02:00",
+    "media_id": "r5ixmzua47dz",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772449,
+      "slug": "formule-1",
+      "type": "default",
+      "name": "Grand Prix Hongarije",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/formule-1/6273602/verstappen-verschalkt-hamilton-bij-start-en-wint-in-boedapest-zevende-race-op-rij.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6273601,
+    "slug": "waarom-oranje-de-achtste-finales-nu-al-binnen-handbereik-heeft",
+    "type": "video",
+    "title": "Waarom Oranje de achtste finales nu al binnen handbereik heeft",
+    "subtitle": "Explainer",
+    "published_at": "2023-07-23T16:35:35+02:00",
+    "updated_at": "2023-07-23T16:43:02+02:00",
+    "media_id": "lkdx6y7aex1d",
+    "duration": "1:15",
+    "canonical_section": {
+      "id": 1779272,
+      "slug": "wk-voetbal-2023",
+      "type": "default",
+      "name": "WK voetbal 2023",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/wk-voetbal-2023/6273601/waarom-oranje-de-achtste-finales-nu-al-binnen-handbereik-heeft.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6273600,
+    "slug": "van-de-zandschulp-heeft-weer-blessure-en-laat-toernooi-in-hamburg-schieten",
+    "type": "article",
+    "title": "Van de Zandschulp heeft wéér blessure en laat toernooi in Hamburg schieten",
+    "subtitle": null,
+    "published_at": "2023-07-23T16:27:33+02:00",
+    "updated_at": "2023-07-23T16:34:46+02:00",
+    "media_id": "dy3xlv0aq2xy",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772432,
+      "slug": "tennis",
+      "type": "default",
+      "name": "Tennis",
+      "style": "nusport",
+      "media_id": "m1oxohpan0gq",
+      "partner": null
+    },
+    "url": "/tennis/6273600/van-de-zandschulp-heeft-weer-blessure-en-laat-toernooi-in-hamburg-schieten.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6273577,
+    "slug": "renners-halen-wat-grappen-met-elkaar-uit-in-begin-champagnerit-tour",
+    "type": "article",
+    "title": "Renners halen wat grappen met elkaar uit in begin champagnerit Tour",
     "subtitle": "Liveblog",
     "published_at": "2023-07-23T15:58:07+02:00",
-    "updated_at": "2023-07-23T15:58:09+02:00",
+    "updated_at": "2023-07-23T16:54:27+02:00",
     "media_id": "ofyxp7ya2nco",
     "duration": null,
     "canonical_section": {
@@ -18,7 +87,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/tour-de-france/6273577/tourkaravaan-maakt-zich-klaar-voor-champagnerit-naar-parijs.html",
+    "url": "/tour-de-france/6273577/renners-halen-wat-grappen-met-elkaar-uit-in-begin-champagnerit-tour.html",
     "open_new_window": false,
     "partner": null
   },
@@ -29,7 +98,7 @@
     "title": "Belgische Kopecky troeft Nederlandse sprinters af en pakt eerste geel in Tour",
     "subtitle": null,
     "published_at": "2023-07-23T15:35:36+02:00",
-    "updated_at": "2023-07-23T15:59:39+02:00",
+    "updated_at": "2023-07-23T16:47:05+02:00",
     "media_id": "dslxh8yaliv8",
     "duration": null,
     "canonical_section": {
@@ -52,7 +121,7 @@
     "title": "Superieure Femke Bol verpulvert eigen Europees record op 400 meter horden",
     "subtitle": null,
     "published_at": "2023-07-23T15:20:54+02:00",
-    "updated_at": "2023-07-23T16:00:44+02:00",
+    "updated_at": "2023-07-23T16:20:19+02:00",
     "media_id": "mx3xqw8atlra",
     "duration": null,
     "canonical_section": {
@@ -70,12 +139,12 @@
   },
   {
     "id": 6273587,
-    "slug": "weekweerbericht-veel-binnen-zitten-in-gemiddeld-warmste-periode-van-het-jaar",
+    "slug": "weekweerbericht-vaker-paraplu-dan-zonnebrand-in-normaal-zo-warme-periode",
     "type": "article",
-    "title": "Weekweerbericht: Veel binnen zitten in gemiddeld warmste periode van het jaar",
+    "title": "Weekweerbericht: Vaker paraplu dan zonnebrand in normaal zo warme periode",
     "subtitle": null,
     "published_at": "2023-07-23T15:15:31+02:00",
-    "updated_at": "2023-07-23T15:59:56+02:00",
+    "updated_at": "2023-07-23T16:19:21+02:00",
     "media_id": "tdxxhhzaxtyb",
     "duration": null,
     "canonical_section": {
@@ -87,7 +156,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/binnenland/6273587/weekweerbericht-veel-binnen-zitten-in-gemiddeld-warmste-periode-van-het-jaar.html",
+    "url": "/binnenland/6273587/weekweerbericht-vaker-paraplu-dan-zonnebrand-in-normaal-zo-warme-periode.html",
     "open_new_window": false,
     "partner": null
   },
@@ -185,13 +254,13 @@
   },
   {
     "id": 6273588,
-    "slug": "verstappen-na-sterke-start-onbedreigd-aan-de-leiding-in-hongarije",
+    "slug": "reacties-op-dominante-zege-verstappen-in-hongarije",
     "type": "article",
-    "title": "Verstappen na sterke start onbedreigd aan de leiding in Hongarije",
+    "title": "Reacties op dominante zege Verstappen in Hongarije",
     "subtitle": "Liveblog",
     "published_at": "2023-07-23T14:14:11+02:00",
-    "updated_at": "2023-07-23T15:50:10+02:00",
-    "media_id": "g2sxebia32a8",
+    "updated_at": "2023-07-23T16:53:54+02:00",
+    "media_id": "l9cxnxfacv3j",
     "duration": null,
     "canonical_section": {
       "id": 1772449,
@@ -202,7 +271,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/formule-1/6273588/verstappen-na-sterke-start-onbedreigd-aan-de-leiding-in-hongarije.html",
+    "url": "/formule-1/6273588/reacties-op-dominante-zege-verstappen-in-hongarije.html",
     "open_new_window": false,
     "partner": null
   },
@@ -305,7 +374,7 @@
     "title": "Beerensteyn verlaat stadion op krukken, ernst blessure nog onduidelijk",
     "subtitle": null,
     "published_at": "2023-07-23T13:44:52+02:00",
-    "updated_at": "2023-07-23T15:05:18+02:00",
+    "updated_at": "2023-07-23T16:37:17+02:00",
     "media_id": "yf4xn6uaakp8",
     "duration": null,
     "canonical_section": {
@@ -489,7 +558,7 @@
     "title": "Heldenrol ontroert afzwaaiende Van der Gragt: 'Nog nooit matchwinner geweest'",
     "subtitle": null,
     "published_at": "2023-07-23T11:48:50+02:00",
-    "updated_at": "2023-07-23T14:07:59+02:00",
+    "updated_at": "2023-07-23T16:53:36+02:00",
     "media_id": "ieuxomlaosc4",
     "duration": null,
     "canonical_section": {
@@ -558,7 +627,7 @@
     "title": "Oranje wint dankzij Van der Gragt van Portugal en kan achtste finales WK ruiken",
     "subtitle": null,
     "published_at": "2023-07-23T11:24:42+02:00",
-    "updated_at": "2023-07-23T15:22:22+02:00",
+    "updated_at": "2023-07-23T16:36:31+02:00",
     "media_id": "hb2xw1xa36dv",
     "duration": null,
     "canonical_section": {
@@ -617,75 +686,6 @@
       "partner": null
     },
     "url": "/media/6273565/theo-maassen-debuteert-als-presentator-van-zomergasten.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6273567,
-    "slug": "jong-psv-trainer-ramzi-tekent-bij-marokkaanse-club-wydad-casablanca",
-    "type": "article",
-    "title": "Jong PSV-trainer Ramzi tekent bij Marokkaanse club Wydad Casablanca",
-    "subtitle": null,
-    "published_at": "2023-07-23T10:54:49+02:00",
-    "updated_at": "2023-07-23T11:01:01+02:00",
-    "media_id": "068xmu7anog4",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6273567/jong-psv-trainer-ramzi-tekent-bij-marokkaanse-club-wydad-casablanca.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6273562,
-    "slug": "dode-na-zoveelste-aanval-op-oekraiense-stad-odesa-zelensky-wil-wraak",
-    "type": "article",
-    "title": "Dode na zoveelste aanval op Oekraïense stad Odesa, Zelensky wil wraak",
-    "subtitle": null,
-    "published_at": "2023-07-23T10:34:20+02:00",
-    "updated_at": "2023-07-23T14:01:28+02:00",
-    "media_id": "wr4xqf7aaiky",
-    "duration": null,
-    "canonical_section": {
-      "id": 1778980,
-      "slug": "spanningen-oekraine",
-      "type": "default",
-      "name": "Oorlog in Oekraïne",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/spanningen-oekraine/6273562/dode-na-zoveelste-aanval-op-oekraiense-stad-odesa-zelensky-wil-wraak.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6273561,
-    "slug": "historische-kathedraal-in-odesa-in-puin-na-russische-aanval",
-    "type": "video",
-    "title": "Historische kathedraal in Odesa in puin na Russische aanval",
-    "subtitle": "Video",
-    "published_at": "2023-07-23T10:12:22+02:00",
-    "updated_at": "2023-07-23T10:15:11+02:00",
-    "media_id": "lqzxvcga8wfp",
-    "duration": "0:44",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6273561/historische-kathedraal-in-odesa-in-puin-na-russische-aanval.html",
     "open_new_window": false,
     "partner": null
   }
