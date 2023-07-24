@@ -1,12 +1,81 @@
 [
   {
-    "id": 6273715,
-    "slug": "politie-neemt-25-verwaarloosde-labradors-in-beslag-bij-hondenfokker",
+    "id": 6273722,
+    "slug": "spaanse-politie-arresteert-mensensmokkelaars-tijdens-inval",
+    "type": "video",
+    "title": "Spaanse politie arresteert mensensmokkelaars tijdens inval",
+    "subtitle": "Video",
+    "published_at": "2023-07-24T16:41:57+02:00",
+    "updated_at": "2023-07-24T16:41:59+02:00",
+    "media_id": "0mux3wda8qvr",
+    "duration": "0:46",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6273722/spaanse-politie-arresteert-mensensmokkelaars-tijdens-inval.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6273717,
+    "slug": "snackbars-willen-wel-minder-wegwerpplastic-maar-hergebruik-lukt-nog-niet",
     "type": "article",
-    "title": "Politie neemt 25 verwaarloosde labradors in beslag bij hondenfokker",
+    "title": "Snackbars willen wel minder wegwerpplastic, maar hergebruik lukt nog niet",
+    "subtitle": null,
+    "published_at": "2023-07-24T16:32:21+02:00",
+    "updated_at": "2023-07-24T16:32:23+02:00",
+    "media_id": "hlsxtzoa4dv0",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6273717/snackbars-willen-wel-minder-wegwerpplastic-maar-hergebruik-lukt-nog-niet.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6273718,
+    "slug": "meeste-statiegeldmachines-doen-het-weer-na-cyberaanval",
+    "type": "article",
+    "title": "Meeste statiegeldmachines doen het weer na cyberaanval",
+    "subtitle": null,
+    "published_at": "2023-07-24T16:20:19+02:00",
+    "updated_at": "2023-07-24T16:20:22+02:00",
+    "media_id": "mqox7vtamuws",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771438,
+      "slug": "tech",
+      "type": "default",
+      "name": "Tech",
+      "style": "nutech",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/tech/6273718/meeste-statiegeldmachines-doen-het-weer-na-cyberaanval.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6273715,
+    "slug": "politie-neemt-25-verwaarloosde-labradors-in-beslag-bij-hondenfokker-in-overijssel",
+    "type": "article",
+    "title": "Politie neemt 25 verwaarloosde labradors in beslag bij hondenfokker in Overijssel",
     "subtitle": null,
     "published_at": "2023-07-24T15:47:15+02:00",
-    "updated_at": "2023-07-24T15:47:16+02:00",
+    "updated_at": "2023-07-24T16:18:21+02:00",
     "media_id": "slixviyagb6e",
     "duration": null,
     "canonical_section": {
@@ -18,7 +87,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/dieren/6273715/politie-neemt-25-verwaarloosde-labradors-in-beslag-bij-hondenfokker.html",
+    "url": "/dieren/6273715/politie-neemt-25-verwaarloosde-labradors-in-beslag-bij-hondenfokker-in-overijssel.html",
     "open_new_window": false,
     "partner": null
   },
@@ -52,8 +121,8 @@
     "title": "Wereldgoal kers op de taart bij ruime zege Brazilië op WK-debutant Panama",
     "subtitle": null,
     "published_at": "2023-07-24T15:02:14+02:00",
-    "updated_at": "2023-07-24T15:49:55+02:00",
-    "media_id": "myfxx4eayy9d",
+    "updated_at": "2023-07-24T16:13:45+02:00",
+    "media_id": "myvxn6xavp5y",
     "duration": null,
     "canonical_section": {
       "id": 1779272,
@@ -259,7 +328,7 @@
     "title": "Gordon sleept ex-vriend Gavin voor de rechter wegens lekken privégesprekken",
     "subtitle": null,
     "published_at": "2023-07-24T13:38:48+02:00",
-    "updated_at": "2023-07-24T14:01:58+02:00",
+    "updated_at": "2023-07-24T16:25:25+02:00",
     "media_id": "7ddxlygaxl3t",
     "duration": null,
     "canonical_section": {
@@ -280,9 +349,9 @@
     "slug": "griekenland-in-oorlog-met-bosbranden-na-grootste-evacuatie-ooit",
     "type": "article",
     "title": "Griekenland 'in oorlog' met bosbranden na grootste evacuatie ooit",
-    "subtitle": null,
+    "subtitle": "NU+",
     "published_at": "2023-07-24T13:21:52+02:00",
-    "updated_at": "2023-07-24T15:49:53+02:00",
+    "updated_at": "2023-07-24T16:20:21+02:00",
     "media_id": "3puxdycat3vm",
     "duration": null,
     "canonical_section": {
@@ -443,7 +512,7 @@
     "title": "Code geel in deel van het land vanwege onweersbuien met kans op flinke hagel",
     "subtitle": null,
     "published_at": "2023-07-24T12:13:05+02:00",
-    "updated_at": "2023-07-24T13:30:36+02:00",
+    "updated_at": "2023-07-24T17:00:30+02:00",
     "media_id": "c9dx6wkax2c1",
     "duration": null,
     "canonical_section": {
@@ -461,13 +530,13 @@
   },
   {
     "id": 6273680,
-    "slug": "duo-heeft-kleine-marge-op-peloton-in-loodzware-heuvelrit-tour",
+    "slug": "nederlands-drietal-rijdt-weg-van-tour-peloton-in-zware-heuveletappe",
     "type": "article",
-    "title": "Duo heeft kleine marge op peloton in loodzware heuvelrit Tour",
+    "title": "Nederlands drietal rijdt weg van Tour-peloton in zware heuveletappe",
     "subtitle": "Liveblog",
     "published_at": "2023-07-24T12:04:06+02:00",
-    "updated_at": "2023-07-24T15:43:45+02:00",
-    "media_id": "0rfx7qta8cm1",
+    "updated_at": "2023-07-24T16:50:21+02:00",
+    "media_id": "7gkxh5fajiww",
     "duration": null,
     "canonical_section": {
       "id": 1772339,
@@ -478,7 +547,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/wielrennen/6273680/duo-heeft-kleine-marge-op-peloton-in-loodzware-heuvelrit-tour.html",
+    "url": "/wielrennen/6273680/nederlands-drietal-rijdt-weg-van-tour-peloton-in-zware-heuveletappe.html",
     "open_new_window": false,
     "partner": null
   },
@@ -617,75 +686,6 @@
       "partner": null
     },
     "url": "/media/6273671/van-roosmalen-en-groenteman-blijven-na-talpa-avontuur-bij-bnnvara.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6273670,
-    "slug": "chinezen-zoeken-naar-slachtoffers-na-instorten-van-dak-gymzaal",
-    "type": "video",
-    "title": "Chinezen zoeken naar slachtoffers na instorten van dak gymzaal",
-    "subtitle": "Video",
-    "published_at": "2023-07-24T10:45:47+02:00",
-    "updated_at": "2023-07-24T11:04:47+02:00",
-    "media_id": "qybx32jap4xl",
-    "duration": "0:46",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6273670/chinezen-zoeken-naar-slachtoffers-na-instorten-van-dak-gymzaal.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6273669,
-    "slug": "hulpdiensten-bestrijden-bosbranden-op-grieks-eiland-evia",
-    "type": "video",
-    "title": "Hulpdiensten bestrijden bosbranden op Grieks eiland Evia",
-    "subtitle": "Video",
-    "published_at": "2023-07-24T10:45:29+02:00",
-    "updated_at": "2023-07-24T11:03:14+02:00",
-    "media_id": "x1ax5ldauqjp",
-    "duration": "0:53",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6273669/hulpdiensten-bestrijden-bosbranden-op-grieks-eiland-evia.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6273667,
-    "slug": "wk-medaille-lonkt-voor-waterpolosters-na-soepele-overwinning-op-canada",
-    "type": "article",
-    "title": "WK-medaille lonkt voor waterpolosters na soepele overwinning op Canada",
-    "subtitle": null,
-    "published_at": "2023-07-24T10:35:22+02:00",
-    "updated_at": "2023-07-24T11:09:56+02:00",
-    "media_id": "hbsxzq7ad54i",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772456,
-      "slug": "sport-overig",
-      "type": "default",
-      "name": "Sport Overig",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/sport-overig/6273667/wk-medaille-lonkt-voor-waterpolosters-na-soepele-overwinning-op-canada.html",
     "open_new_window": false,
     "partner": null
   }
