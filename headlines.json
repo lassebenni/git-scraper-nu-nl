@@ -1,5 +1,51 @@
 [
   {
+    "id": 6273631,
+    "slug": "kritische-verstappen-streeft-naar-perfectie-met-chagrijn",
+    "type": "audio",
+    "title": "'Kritische Verstappen streeft naar perfectie met chagrijn'",
+    "subtitle": "Podcast De Boordradio",
+    "published_at": "2023-07-24T01:40:06+02:00",
+    "updated_at": "2023-07-24T01:40:07+02:00",
+    "media_id": "36tx2lgapggp",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772449,
+      "slug": "formule-1",
+      "type": "default",
+      "name": "Grand Prix Hongarije",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/formule-1/6273631/kritische-verstappen-streeft-naar-perfectie-met-chagrijn.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6273630,
+    "slug": "waarom-verstappens-auto-in-de-race-beter-was-dan-in-de-kwalificatie",
+    "type": "video",
+    "title": "Waarom Verstappens auto in de race beter was dan in de kwalificatie",
+    "subtitle": "Explainer",
+    "published_at": "2023-07-24T01:34:44+02:00",
+    "updated_at": "2023-07-24T01:35:20+02:00",
+    "media_id": "wd1xrqjaa4i0",
+    "duration": "1:40",
+    "canonical_section": {
+      "id": 1772449,
+      "slug": "formule-1",
+      "type": "default",
+      "name": "Grand Prix Hongarije",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/formule-1/6273630/waarom-verstappens-auto-in-de-race-beter-was-dan-in-de-kwalificatie.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6273629,
     "slug": "net-geen-regeringsmeerderheid-voor-grootste-rechtse-partijen-in-spanje",
     "type": "article",
@@ -213,7 +259,7 @@
     "title": "Verstappen en Red Bull schrijven historie: 'Dagen als deze zijn zeldzaam'",
     "subtitle": "NU+",
     "published_at": "2023-07-23T20:00:09+02:00",
-    "updated_at": "2023-07-23T20:46:02+02:00",
+    "updated_at": "2023-07-24T01:36:40+02:00",
     "media_id": "fs1xwh1adzu0",
     "duration": null,
     "canonical_section": {
@@ -466,7 +512,7 @@
     "title": "Verstappen verschalkt Hamilton bij start en wint in Boedapest zevende race op rij",
     "subtitle": null,
     "published_at": "2023-07-23T16:41:55+02:00",
-    "updated_at": "2023-07-23T18:43:08+02:00",
+    "updated_at": "2023-07-24T01:35:47+02:00",
     "media_id": "cznx8woabv2p",
     "duration": null,
     "canonical_section": {
@@ -640,52 +686,6 @@
       "partner": null
     },
     "url": "/entertainment/6273595/vlaamse-journalist-en-nieuwslezer-martine-tanghe-67-overleden.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6273593,
-    "slug": "nederlandse-transgender-vrouw-van-leuven-verliest-bij-world-matchplay-debuut",
-    "type": "article",
-    "title": "Nederlandse transgender vrouw Van Leuven verliest bij World Matchplay-debuut",
-    "subtitle": null,
-    "published_at": "2023-07-23T15:05:05+02:00",
-    "updated_at": "2023-07-23T15:56:06+02:00",
-    "media_id": "ymexxtwaqzzk",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772456,
-      "slug": "sport-overig",
-      "type": "default",
-      "name": "Sport Overig",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/sport-overig/6273593/nederlandse-transgender-vrouw-van-leuven-verliest-bij-world-matchplay-debuut.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6273592,
-    "slug": "bonje-met-de-buren-keert-voor-het-eerst-sinds-2018-terug-op-tv",
-    "type": "article",
-    "title": "Bonje met de buren keert voor het eerst sinds 2018 terug op tv",
-    "subtitle": null,
-    "published_at": "2023-07-23T14:35:11+02:00",
-    "updated_at": "2023-07-23T15:34:07+02:00",
-    "media_id": "3s4xyj6abjq8",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772242,
-      "slug": "entertainment",
-      "type": "default",
-      "name": "Media en Cultuur",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/entertainment/6273592/bonje-met-de-buren-keert-voor-het-eerst-sinds-2018-terug-op-tv.html",
     "open_new_window": false,
     "partner": null
   }
