@@ -1,12 +1,104 @@
 [
   {
+    "id": 6273719,
+    "slug": "van-twitter-naar-x-bijzonder-maar-musk-is-wel-vaker-bijzonder",
+    "type": "article",
+    "title": "Van Twitter naar X: 'Bijzonder, maar Musk is wel vaker bijzonder'",
+    "subtitle": null,
+    "published_at": "2023-07-24T20:42:31+02:00",
+    "updated_at": "2023-07-24T20:42:32+02:00",
+    "media_id": "hbsxrd9a6nmu",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771438,
+      "slug": "tech",
+      "type": "default",
+      "name": "Tech",
+      "style": "nutech",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/tech/6273719/van-twitter-naar-x-bijzonder-maar-musk-is-wel-vaker-bijzonder.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6273752,
+    "slug": "pathe-beleeft-recordweekend-door-succes-van-barbenheimer",
+    "type": "article",
+    "title": "Pathé beleeft recordweekend door succes van 'Barbenheimer'",
+    "subtitle": null,
+    "published_at": "2023-07-24T20:40:44+02:00",
+    "updated_at": "2023-07-24T20:42:27+02:00",
+    "media_id": "gjbxvuvaw93z",
+    "duration": null,
+    "canonical_section": {
+      "id": 127,
+      "slug": "film",
+      "type": "default",
+      "name": "Films & Series",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/film/6273752/pathe-beleeft-recordweekend-door-succes-van-barbenheimer.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6273751,
+    "slug": "az-strikt-met-verdediger-penetra-nog-een-portugees-jeugdinternational",
+    "type": "article",
+    "title": "AZ strikt met verdediger Penetra nóg een Portugees jeugdinternational",
+    "subtitle": null,
+    "published_at": "2023-07-24T20:35:44+02:00",
+    "updated_at": "2023-07-24T20:37:21+02:00",
+    "media_id": "ixjxp20amxgo",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6273751/az-strikt-met-verdediger-penetra-nog-een-portugees-jeugdinternational.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6273750,
+    "slug": "noodweer-teistert-italie-en-zwitserland-windvlagen-van-217-kmu",
+    "type": "video",
+    "title": "Noodweer teistert Italië en Zwitserland: Windvlagen van 217 km/u",
+    "subtitle": "Video",
+    "published_at": "2023-07-24T20:15:08+02:00",
+    "updated_at": "2023-07-24T20:47:48+02:00",
+    "media_id": "cofxssuab8un",
+    "duration": "0:50",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6273750/noodweer-teistert-italie-en-zwitserland-windvlagen-van-217-kmu.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6273748,
     "slug": "koster-ziet-landgenote-van-agt-lelijk-vallen-in-tour-was-een-beetje-in-shock",
     "type": "article",
     "title": "Koster ziet landgenote Van Agt lelijk vallen in Tour: 'Was een beetje in shock'",
     "subtitle": null,
     "published_at": "2023-07-24T20:05:32+02:00",
-    "updated_at": "2023-07-24T20:07:47+02:00",
+    "updated_at": "2023-07-24T20:18:29+02:00",
     "media_id": "uzwxp5ya1s4d",
     "duration": null,
     "canonical_section": {
@@ -29,7 +121,7 @@
     "title": "Hoe een tweet leidde tot de zedenzaak tegen acteur Thijs Römer",
     "subtitle": "NU+",
     "published_at": "2023-07-24T20:02:15+02:00",
-    "updated_at": "2023-07-24T20:02:17+02:00",
+    "updated_at": "2023-07-24T20:19:58+02:00",
     "media_id": "h4wxbvlat700",
     "duration": null,
     "canonical_section": {
@@ -75,8 +167,8 @@
     "title": "Spelmaker Sabitzer verlaat Bayern München voor rivaal Borussia Dortmund",
     "subtitle": null,
     "published_at": "2023-07-24T19:23:45+02:00",
-    "updated_at": "2023-07-24T19:25:01+02:00",
-    "media_id": "6xcxbwwa0j6w",
+    "updated_at": "2023-07-24T20:19:47+02:00",
+    "media_id": "3texpoxaftkq",
     "duration": null,
     "canonical_section": {
       "id": 1772338,
@@ -167,7 +259,7 @@
     "title": "Engels voetbalicoon en 'million pound man' Trevor Francis (69) overleden",
     "subtitle": null,
     "published_at": "2023-07-24T19:00:46+02:00",
-    "updated_at": "2023-07-24T19:07:12+02:00",
+    "updated_at": "2023-07-24T20:51:39+02:00",
     "media_id": "ah2xjp0aisr1",
     "duration": null,
     "canonical_section": {
@@ -185,13 +277,13 @@
   },
   {
     "id": 6273739,
-    "slug": "denk-fractievoorzitter-farid-azarkan-stapt-uit-landelijke-politiek",
+    "slug": "ook-denk-fractievoorzitter-farid-azarkan-en-sylvana-simons-bij1-verlaten-politiek",
     "type": "article",
-    "title": "DENK-fractievoorzitter Farid Azarkan stapt uit landelijke politiek",
+    "title": "Ook DENK-fractievoorzitter Farid Azarkan en Sylvana Simons (BIJ1) verlaten politiek",
     "subtitle": null,
     "published_at": "2023-07-24T18:59:20+02:00",
-    "updated_at": "2023-07-24T19:38:16+02:00",
-    "media_id": "v66xlkza1a1u",
+    "updated_at": "2023-07-24T20:58:36+02:00",
+    "media_id": "j0sxjxkabniq",
     "duration": null,
     "canonical_section": {
       "id": 1771437,
@@ -202,7 +294,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/politiek/6273739/denk-fractievoorzitter-farid-azarkan-stapt-uit-landelijke-politiek.html",
+    "url": "/politiek/6273739/ook-denk-fractievoorzitter-farid-azarkan-en-sylvana-simons-bij1-verlaten-politiek.html",
     "open_new_window": false,
     "partner": null
   },
@@ -397,7 +489,7 @@
     "title": "Duizenden Nederlanders strijden samen voor plek op Reddit-kunstwerk",
     "subtitle": "NU+",
     "published_at": "2023-07-24T17:03:16+02:00",
-    "updated_at": "2023-07-24T18:41:58+02:00",
+    "updated_at": "2023-07-24T20:49:27+02:00",
     "media_id": "fqixln0a8yco",
     "duration": null,
     "canonical_section": {
@@ -594,98 +686,6 @@
       "partner": null
     },
     "url": "/buitenland/6273657/israelisch-parlement-stemt-in-met-omstreden-wet-die-macht-rechters-beperkt.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6273705,
-    "slug": "journalist-en-gezicht-van-bbc-news-george-alagiah-67-overleden",
-    "type": "article",
-    "title": "Journalist en gezicht van BBC News George Alagiah (67) overleden",
-    "subtitle": null,
-    "published_at": "2023-07-24T14:44:10+02:00",
-    "updated_at": "2023-07-24T14:44:12+02:00",
-    "media_id": "edrxmj6arbrw",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771675,
-      "slug": "media",
-      "type": "default",
-      "name": "Media",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/media/6273705/journalist-en-gezicht-van-bbc-news-george-alagiah-67-overleden.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6273699,
-    "slug": "sterrenstelsel-zonder-donkere-materie-zet-onze-kennis-over-de-ruimte-op-zn-kop",
-    "type": "article",
-    "title": "Sterrenstelsel zonder donkere materie zet onze kennis over de ruimte op z'n kop",
-    "subtitle": null,
-    "published_at": "2023-07-24T14:35:03+02:00",
-    "updated_at": "2023-07-24T18:02:23+02:00",
-    "media_id": "rn0xl1zayjvb",
-    "duration": null,
-    "canonical_section": {
-      "id": 478878,
-      "slug": "wetenschap",
-      "type": "default",
-      "name": "Wetenschap",
-      "style": "nunjij",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/wetenschap/6273699/sterrenstelsel-zonder-donkere-materie-zet-onze-kennis-over-de-ruimte-op-zn-kop.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6273703,
-    "slug": "spotify-wordt-voor-het-eerst-duurder-1-tot-3-euro-per-maand-erbij",
-    "type": "article",
-    "title": "Spotify wordt voor het eerst duurder: 1 tot 3 euro per maand erbij",
-    "subtitle": null,
-    "published_at": "2023-07-24T14:26:29+02:00",
-    "updated_at": "2023-07-24T18:43:07+02:00",
-    "media_id": "vv1x3kraf6ap",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771438,
-      "slug": "tech",
-      "type": "default",
-      "name": "Tech",
-      "style": "nutech",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/tech/6273703/spotify-wordt-voor-het-eerst-duurder-1-tot-3-euro-per-maand-erbij.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6273704,
-    "slug": "az-naar-montenegro-of-andorra-in-derde-voorronde-conference-league",
-    "type": "article",
-    "title": "AZ naar Montenegro of Andorra in derde voorronde Conference League",
-    "subtitle": null,
-    "published_at": "2023-07-24T14:17:08+02:00",
-    "updated_at": "2023-07-24T14:41:08+02:00",
-    "media_id": "3fzxhmaaenz7",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6273704/az-naar-montenegro-of-andorra-in-derde-voorronde-conference-league.html",
     "open_new_window": false,
     "partner": null
   }
