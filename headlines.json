@@ -1,12 +1,127 @@
 [
   {
+    "id": 6274116,
+    "slug": "mannen-die-om-het-leven-kwamen-bij-frans-kano-ongeluk-komen-uit-zuid-holland",
+    "type": "article",
+    "title": "Mannen die om het leven kwamen bij Frans kano-ongeluk komen uit Zuid-Holland",
+    "subtitle": null,
+    "published_at": "2023-07-27T12:55:33+02:00",
+    "updated_at": "2023-07-27T12:55:35+02:00",
+    "media_id": "ao7xjeoamike",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6274116/mannen-die-om-het-leven-kwamen-bij-frans-kano-ongeluk-komen-uit-zuid-holland.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6274079,
+    "slug": "sinead-oconnor-nam-nothing-compares-2-u-in-een-keer-op-met-liefdesverdriet",
+    "type": "article",
+    "title": "Sinéad O'Connor nam Nothing Compares 2 U in één keer op met liefdesverdriet",
+    "subtitle": "NU+",
+    "published_at": "2023-07-27T12:44:56+02:00",
+    "updated_at": "2023-07-27T12:58:10+02:00",
+    "media_id": "s1oxq85ajzd6",
+    "duration": null,
+    "canonical_section": {
+      "id": 868281,
+      "slug": "muziek",
+      "type": "default",
+      "name": "Muziek",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/muziek/6274079/sinead-oconnor-nam-nothing-compares-2-u-in-een-keer-op-met-liefdesverdriet.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6274112,
+    "slug": "eu-onderzoekt-microsoft-vanwege-bundelen-teams-en-office",
+    "type": "article",
+    "title": "EU onderzoekt Microsoft vanwege bundelen Teams en Office",
+    "subtitle": null,
+    "published_at": "2023-07-27T12:37:53+02:00",
+    "updated_at": "2023-07-27T12:37:55+02:00",
+    "media_id": "copxordaa9cq",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771438,
+      "slug": "tech",
+      "type": "default",
+      "name": "Tech",
+      "style": "nutech",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/tech/6274112/eu-onderzoekt-microsoft-vanwege-bundelen-teams-en-office.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6274113,
+    "slug": "herten-schuilen-samen-met-japanners-voor-regen",
+    "type": "video",
+    "title": "Herten schuilen samen met Japanners voor regen",
+    "subtitle": "Video",
+    "published_at": "2023-07-27T12:25:46+02:00",
+    "updated_at": "2023-07-27T12:25:48+02:00",
+    "media_id": "kpcxxucayky8",
+    "duration": "0:46",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6274113/herten-schuilen-samen-met-japanners-voor-regen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6274056,
+    "slug": "verstappen-gaat-op-spa-vernietigend-snel-zijn",
+    "type": "audio",
+    "title": "'Verstappen gaat op Spa vernietigend snel zijn'",
+    "subtitle": "Podcast De Boordradio",
+    "published_at": "2023-07-27T12:03:57+02:00",
+    "updated_at": "2023-07-27T12:03:59+02:00",
+    "media_id": "36tx2lgapggp",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772449,
+      "slug": "formule-1",
+      "type": "default",
+      "name": "GP België",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/formule-1/6274056/verstappen-gaat-op-spa-vernietigend-snel-zijn.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6274108,
     "slug": "ook-kitkat-maker-nestle-profiteert-van-prijsverhogingen",
     "type": "article",
     "title": "Ook KitKat-maker Nestlé profiteert van prijsverhogingen",
     "subtitle": null,
     "published_at": "2023-07-27T11:47:30+02:00",
-    "updated_at": "2023-07-27T11:47:31+02:00",
+    "updated_at": "2023-07-27T12:31:24+02:00",
     "media_id": "28fxg2rahcka",
     "duration": null,
     "canonical_section": {
@@ -24,12 +139,12 @@
   },
   {
     "id": 6274109,
-    "slug": "berichten-op-slack-komen-niet-altijd-aan-door-storing",
+    "slug": "storing-bij-slack-opgelost-berichten-komen-weer-aan",
     "type": "article",
-    "title": "Berichten op Slack komen niet altijd aan door storing",
+    "title": "Storing bij Slack opgelost, berichten komen weer aan",
     "subtitle": null,
     "published_at": "2023-07-27T11:47:17+02:00",
-    "updated_at": "2023-07-27T11:47:18+02:00",
+    "updated_at": "2023-07-27T12:28:54+02:00",
     "media_id": "0vixvg1al106",
     "duration": null,
     "canonical_section": {
@@ -41,7 +156,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/tech/6274109/berichten-op-slack-komen-niet-altijd-aan-door-storing.html",
+    "url": "/tech/6274109/storing-bij-slack-opgelost-berichten-komen-weer-aan.html",
     "open_new_window": false,
     "partner": null
   },
@@ -75,14 +190,14 @@
     "title": "Vooruitblik F1: 'Concurrentie Red Bull is met angst naar Spa afgereisd'",
     "subtitle": "NU+",
     "published_at": "2023-07-27T11:36:13+02:00",
-    "updated_at": "2023-07-27T11:36:14+02:00",
+    "updated_at": "2023-07-27T12:02:34+02:00",
     "media_id": "qjjx15kai52o",
     "duration": null,
     "canonical_section": {
       "id": 1772449,
       "slug": "formule-1",
       "type": "default",
-      "name": "Formule 1",
+      "name": "GP België",
       "style": "nusport",
       "media_id": null,
       "partner": null
@@ -121,7 +236,7 @@
     "title": "Portugal verslaat Vietnam, Oranje heeft aan punt genoeg voor achtste finales",
     "subtitle": null,
     "published_at": "2023-07-27T11:29:34+02:00",
-    "updated_at": "2023-07-27T11:56:09+02:00",
+    "updated_at": "2023-07-27T12:22:01+02:00",
     "media_id": "pufxy7batg4q",
     "duration": null,
     "canonical_section": {
@@ -144,7 +259,7 @@
     "title": "Brandend vrachtschip drijft naar noorden van Terschelling, zinken blijft risico",
     "subtitle": null,
     "published_at": "2023-07-27T11:24:43+02:00",
-    "updated_at": "2023-07-27T11:24:45+02:00",
+    "updated_at": "2023-07-27T13:00:13+02:00",
     "media_id": "ic5xkkfa0grc",
     "duration": null,
     "canonical_section": {
@@ -167,7 +282,7 @@
     "title": "Noorse vrouw en gids voltooien 'ultieme doel van alle bergbeklimmers' in 92 dagen",
     "subtitle": null,
     "published_at": "2023-07-27T11:18:00+02:00",
-    "updated_at": "2023-07-27T11:52:11+02:00",
+    "updated_at": "2023-07-27T12:56:21+02:00",
     "media_id": "68hxetjaqz64",
     "duration": null,
     "canonical_section": {
@@ -369,12 +484,12 @@
   },
   {
     "id": 6274073,
-    "slug": "oekraine-zet-hoofdaanval-in-en-lijkt-door-eerste-russische-linies-te-breken",
+    "slug": "oekraine-zet-hoofdaanval-in-en-lijkt-door-eerste-russische-verdediging-te-breken",
     "type": "article",
-    "title": "Oekraïne zet hoofdaanval in en lijkt door eerste Russische linies te breken",
+    "title": "Oekraïne zet hoofdaanval in en lijkt door eerste Russische verdediging te breken",
     "subtitle": null,
     "published_at": "2023-07-27T09:02:54+02:00",
-    "updated_at": "2023-07-27T11:47:54+02:00",
+    "updated_at": "2023-07-27T12:19:51+02:00",
     "media_id": "ihkxkleal0qg",
     "duration": null,
     "canonical_section": {
@@ -386,7 +501,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/spanningen-oekraine/6274073/oekraine-zet-hoofdaanval-in-en-lijkt-door-eerste-russische-linies-te-breken.html",
+    "url": "/spanningen-oekraine/6274073/oekraine-zet-hoofdaanval-in-en-lijkt-door-eerste-russische-verdediging-te-breken.html",
     "open_new_window": false,
     "partner": null
   },
@@ -571,121 +686,6 @@
       "partner": null
     },
     "url": "/buitenland/6274068/militairen-plegen-staatsgreep-in-niger-sluiten-grenzen-en-voeren-avondklok-in.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6274069,
-    "slug": "arsenal-klopt-barca-in-spektakel-united-verliest-met-onana-op-doel-van-real",
-    "type": "article",
-    "title": "Arsenal klopt Barça in spektakel, United verliest met Onana op doel van Real",
-    "subtitle": null,
-    "published_at": "2023-07-27T07:18:27+02:00",
-    "updated_at": "2023-07-27T08:36:52+02:00",
-    "media_id": "t02xxrba2aza",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6274069/arsenal-klopt-barca-in-spektakel-united-verliest-met-onana-op-doel-van-real.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6274024,
-    "slug": "inflatie-is-bijna-genoeg-geremd-dus-kan-ecb-stoppen-met-renteverhogingen",
-    "type": "article",
-    "title": "Inflatie is bijna genoeg geremd, dus kan ECB stoppen met renteverhogingen",
-    "subtitle": null,
-    "published_at": "2023-07-27T07:05:37+02:00",
-    "updated_at": "2023-07-27T07:05:39+02:00",
-    "media_id": "058xtbiakyvg",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6274024/inflatie-is-bijna-genoeg-geremd-dus-kan-ecb-stoppen-met-renteverhogingen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6273958,
-    "slug": "stelling-door-de-hoge-benzineprijzen-laat-ik-vaker-de-auto-staan",
-    "type": "article",
-    "title": "Stelling: Door de hoge benzineprijzen laat ik vaker de auto staan",
-    "subtitle": null,
-    "published_at": "2023-07-27T07:00:50+02:00",
-    "updated_at": "2023-07-27T07:00:51+02:00",
-    "media_id": "rywxoc4agiia",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779134,
-      "slug": "stelling",
-      "type": "default",
-      "name": "Stelling",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/stelling/6273958/stelling-door-de-hoge-benzineprijzen-laat-ik-vaker-de-auto-staan.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6274066,
-    "slug": "wat-wil-jij-nog-weten-over-oranje-op-het-wk-voetbal-na-gelijkspel-tegen-de-vs",
-    "type": "article",
-    "title": "Wat wil jij nog weten over Oranje op het WK voetbal na gelijkspel tegen de VS?",
-    "subtitle": null,
-    "published_at": "2023-07-27T06:56:27+02:00",
-    "updated_at": "2023-07-27T09:21:38+02:00",
-    "media_id": "9kwx4ibaygco",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779134,
-      "slug": "stelling",
-      "type": "default",
-      "name": "Stelling",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/stelling/6274066/wat-wil-jij-nog-weten-over-oranje-op-het-wk-voetbal-na-gelijkspel-tegen-de-vs.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6274065,
-    "slug": "toestand-van-op-ic-opgenomen-tori-kelly-is-verbeterd-ze-lacht-weer",
-    "type": "article",
-    "title": "Toestand van op ic opgenomen Tori Kelly is verbeterd: 'Ze lacht weer'",
-    "subtitle": null,
-    "published_at": "2023-07-27T06:46:22+02:00",
-    "updated_at": "2023-07-27T08:43:11+02:00",
-    "media_id": "ri6xh55ap5ff",
-    "duration": null,
-    "canonical_section": {
-      "id": 868281,
-      "slug": "muziek",
-      "type": "default",
-      "name": "Muziek",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/muziek/6274065/toestand-van-op-ic-opgenomen-tori-kelly-is-verbeterd-ze-lacht-weer.html",
     "open_new_window": false,
     "partner": null
   }
