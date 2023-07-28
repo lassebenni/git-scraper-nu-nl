@@ -1,12 +1,127 @@
 [
   {
-    "id": 6274327,
-    "slug": "coupplegende-generaal-uitgeroepen-tot-nieuwe-leider-niger-grondwet-opgeschort",
+    "id": 6274332,
+    "slug": "charlotte-kool-beleeft-grootste-nachtmerrie-in-tour-met-mislopen-dagzege",
     "type": "article",
-    "title": "Coupplegende generaal uitgeroepen tot nieuwe leider Niger, grondwet opgeschort",
+    "title": "Charlotte Kool beleeft 'grootste nachtmerrie' in Tour met mislopen dagzege",
+    "subtitle": null,
+    "published_at": "2023-07-28T19:47:17+02:00",
+    "updated_at": "2023-07-28T20:01:01+02:00",
+    "media_id": "icoxcxza4h6w",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772339,
+      "slug": "wielrennen",
+      "type": "default",
+      "name": "Wielrennen",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/wielrennen/6274332/charlotte-kool-beleeft-grootste-nachtmerrie-in-tour-met-mislopen-dagzege.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6274331,
+    "slug": "belg-bekent-moord-op-moeder-wiens-ledematen-in-koelkast-werden-aangetroffen",
+    "type": "article",
+    "title": "Belg bekent moord op moeder wiens ledematen in koelkast werden aangetroffen",
+    "subtitle": null,
+    "published_at": "2023-07-28T19:45:50+02:00",
+    "updated_at": "2023-07-28T19:58:21+02:00",
+    "media_id": "oqfxhbtadw0l",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6274331/belg-bekent-moord-op-moeder-wiens-ledematen-in-koelkast-werden-aangetroffen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6274334,
+    "slug": "polesitter-leclerc-heeft-door-veel-snellere-red-bulls-geen-vertrouwen-in-winst",
+    "type": "article",
+    "title": "Polesitter Leclerc heeft door 'veel snellere Red Bulls' geen vertrouwen in winst",
+    "subtitle": null,
+    "published_at": "2023-07-28T19:40:51+02:00",
+    "updated_at": "2023-07-28T19:45:29+02:00",
+    "media_id": "bdoxd8tagrsa",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772449,
+      "slug": "formule-1",
+      "type": "default",
+      "name": "GP België",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/formule-1/6274334/polesitter-leclerc-heeft-door-veel-snellere-red-bulls-geen-vertrouwen-in-winst.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6274333,
+    "slug": "nieuwe-straf-voor-juventus-club-een-seizoen-uitgesloten-van-europees-voetbal",
+    "type": "article",
+    "title": "Nieuwe straf voor Juventus: club één seizoen uitgesloten van Europees voetbal",
+    "subtitle": null,
+    "published_at": "2023-07-28T19:37:39+02:00",
+    "updated_at": "2023-07-28T19:55:03+02:00",
+    "media_id": "eryxym3a3dkm",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6274333/nieuwe-straf-voor-juventus-club-een-seizoen-uitgesloten-van-europees-voetbal.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6274330,
+    "slug": "verstappen-praat-ruzies-met-gp-altijd-uit-kunnen-allebei-emotioneel-zijn",
+    "type": "article",
+    "title": "Verstappen praat ruzies met 'GP' altijd uit: 'Kunnen allebei emotioneel zijn'",
+    "subtitle": "NU+",
+    "published_at": "2023-07-28T19:23:17+02:00",
+    "updated_at": "2023-07-28T19:38:13+02:00",
+    "media_id": "fqsxk7jazvv6",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772449,
+      "slug": "formule-1",
+      "type": "default",
+      "name": "GP België",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/formule-1/6274330/verstappen-praat-ruzies-met-gp-altijd-uit-kunnen-allebei-emotioneel-zijn.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6274327,
+    "slug": "generaal-die-coup-leidde-uitgeroepen-tot-staatshoofd-niger-grondwet-opgeschort",
+    "type": "article",
+    "title": "Generaal die coup leidde uitgeroepen tot staatshoofd Niger, grondwet opgeschort",
     "subtitle": null,
     "published_at": "2023-07-28T18:42:31+02:00",
-    "updated_at": "2023-07-28T18:42:32+02:00",
+    "updated_at": "2023-07-28T19:35:33+02:00",
     "media_id": "2izxl8ga79nn",
     "duration": null,
     "canonical_section": {
@@ -18,7 +133,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/buitenland/6274327/coupplegende-generaal-uitgeroepen-tot-nieuwe-leider-niger-grondwet-opgeschort.html",
+    "url": "/buitenland/6274327/generaal-die-coup-leidde-uitgeroepen-tot-staatshoofd-niger-grondwet-opgeschort.html",
     "open_new_window": false,
     "partner": null
   },
@@ -47,12 +162,12 @@
   },
   {
     "id": 6274325,
-    "slug": "senegalese-bond-lijkt-transfer-mane-naar-al-nassr-van-ronaldo-te-verklappen",
+    "slug": "mane-staat-na-jaar-bij-bayern-op-het-punt-om-ploeggenoot-van-ronaldo-te-worden",
     "type": "article",
-    "title": "Senegalese bond lijkt transfer Mané naar Al Nassr van Ronaldo te verklappen",
+    "title": "Mané staat na jaar bij Bayern op het punt om ploeggenoot van Ronaldo te worden",
     "subtitle": null,
     "published_at": "2023-07-28T18:30:14+02:00",
-    "updated_at": "2023-07-28T18:30:16+02:00",
+    "updated_at": "2023-07-28T19:31:15+02:00",
     "media_id": "2wzxcega9ooa",
     "duration": null,
     "canonical_section": {
@@ -64,7 +179,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6274325/senegalese-bond-lijkt-transfer-mane-naar-al-nassr-van-ronaldo-te-verklappen.html",
+    "url": "/voetbal/6274325/mane-staat-na-jaar-bij-bayern-op-het-punt-om-ploeggenoot-van-ronaldo-te-worden.html",
     "open_new_window": false,
     "partner": null
   },
@@ -75,7 +190,7 @@
     "title": "Verstappen veruit snelste in kwalificatie GP België, maar Leclerc begint van pole",
     "subtitle": null,
     "published_at": "2023-07-28T18:21:27+02:00",
-    "updated_at": "2023-07-28T18:58:56+02:00",
+    "updated_at": "2023-07-28T19:04:39+02:00",
     "media_id": "pd5xfduajzbj",
     "duration": null,
     "canonical_section": {
@@ -461,12 +576,12 @@
   },
   {
     "id": 6274291,
-    "slug": "salzburg-trainer-dag-voor-competitiestart-ontslagen-na-flirt-met-saoedische-club",
+    "slug": "coach-jaissle-tekent-vlak-na-opvallend-ontslag-bij-salzburg-in-saoedi-arabie",
     "type": "article",
-    "title": "Salzburg-trainer dag voor competitiestart ontslagen na flirt met Saoedische club",
+    "title": "Coach Jaissle tekent vlak na opvallend ontslag bij Salzburg in Saoedi-Arabië",
     "subtitle": null,
     "published_at": "2023-07-28T15:40:23+02:00",
-    "updated_at": "2023-07-28T18:43:39+02:00",
+    "updated_at": "2023-07-28T20:00:20+02:00",
     "media_id": "qioxvfnaav77",
     "duration": null,
     "canonical_section": {
@@ -478,7 +593,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6274291/salzburg-trainer-dag-voor-competitiestart-ontslagen-na-flirt-met-saoedische-club.html",
+    "url": "/voetbal/6274291/coach-jaissle-tekent-vlak-na-opvallend-ontslag-bij-salzburg-in-saoedi-arabie.html",
     "open_new_window": false,
     "partner": null
   },
@@ -489,7 +604,7 @@
     "title": "Frans Klein wordt week na vertrek bij NPO directeur bij Talpa",
     "subtitle": null,
     "published_at": "2023-07-28T15:39:28+02:00",
-    "updated_at": "2023-07-28T16:10:44+02:00",
+    "updated_at": "2023-07-28T19:46:17+02:00",
     "media_id": "khkxnxla72es",
     "duration": null,
     "canonical_section": {
@@ -571,121 +686,6 @@
       "partner": null
     },
     "url": "/formule-1/6274283/formule-1-doet-bandenwarmers-nog-niet-in-de-ban.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6274280,
-    "slug": "coupplegende-generaal-tchiani-stapt-naar-voren-als-nieuwe-leider-van-niger",
-    "type": "article",
-    "title": "Coupplegende generaal Tchiani stapt naar voren als nieuwe leider van Niger",
-    "subtitle": null,
-    "published_at": "2023-07-28T14:56:27+02:00",
-    "updated_at": "2023-07-28T18:45:44+02:00",
-    "media_id": "xykxzjtamqil",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6274280/coupplegende-generaal-tchiani-stapt-naar-voren-als-nieuwe-leider-van-niger.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6274282,
-    "slug": "ruim-de-helft-van-twitter-alternatief-threads-gebruikers-is-niet-blijven-hangen",
-    "type": "article",
-    "title": "Ruim de helft van Twitter-alternatief Threads-gebruikers is niet blijven hangen",
-    "subtitle": null,
-    "published_at": "2023-07-28T14:52:14+02:00",
-    "updated_at": "2023-07-28T14:52:15+02:00",
-    "media_id": "q2xx3e6aghcb",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771438,
-      "slug": "tech",
-      "type": "default",
-      "name": "Tech",
-      "style": "nutech",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/tech/6274282/ruim-de-helft-van-twitter-alternatief-threads-gebruikers-is-niet-blijven-hangen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6274278,
-    "slug": "zelensky-bezoekt-door-russen-verwoeste-kathedraal-in-odesa",
-    "type": "video",
-    "title": "Zelensky bezoekt door Russen verwoeste kathedraal in Odesa",
-    "subtitle": "Video",
-    "published_at": "2023-07-28T14:40:10+02:00",
-    "updated_at": "2023-07-28T14:40:11+02:00",
-    "media_id": "rafx0nfa1roq",
-    "duration": "0:46",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6274278/zelensky-bezoekt-door-russen-verwoeste-kathedraal-in-odesa.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6274276,
-    "slug": "verstappen-nauwelijks-in-actie-in-natte-training-spa-sainz-de-snelste",
-    "type": "article",
-    "title": "Verstappen nauwelijks in actie in natte training Spa, Sainz de snelste",
-    "subtitle": null,
-    "published_at": "2023-07-28T14:33:05+02:00",
-    "updated_at": "2023-07-28T14:37:40+02:00",
-    "media_id": "nlexm68af88s",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772449,
-      "slug": "formule-1",
-      "type": "default",
-      "name": "GP België",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/formule-1/6274276/verstappen-nauwelijks-in-actie-in-natte-training-spa-sainz-de-snelste.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6274275,
-    "slug": "kustwacht-stuurt-jacht-weg-bij-brandend-schip-meer-ramptoeristen-gezien",
-    "type": "article",
-    "title": "Kustwacht stuurt jacht weg bij brandend schip, meer ramptoeristen gezien",
-    "subtitle": null,
-    "published_at": "2023-07-28T14:23:03+02:00",
-    "updated_at": "2023-07-28T14:27:21+02:00",
-    "media_id": "mq4xbfsankut",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6274275/kustwacht-stuurt-jacht-weg-bij-brandend-schip-meer-ramptoeristen-gezien.html",
     "open_new_window": false,
     "partner": null
   }
