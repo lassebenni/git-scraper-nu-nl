@@ -1,5 +1,97 @@
 [
   {
+    "id": 6274302,
+    "slug": "waarom-een-vrachtschip-wordt-gekoeld-in-plaats-van-geblust",
+    "type": "video",
+    "title": "Waarom een vrachtschip wordt gekoeld in plaats van geblust",
+    "subtitle": "Explainer",
+    "published_at": "2023-07-28T16:33:36+02:00",
+    "updated_at": "2023-07-28T16:33:37+02:00",
+    "media_id": "gsdxdlsany4d",
+    "duration": "1:03",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6274302/waarom-een-vrachtschip-wordt-gekoeld-in-plaats-van-geblust.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6274300,
+    "slug": "chaos-in-peruviaanse-stad-door-ontsnapte-stier",
+    "type": "video",
+    "title": "Chaos in Peruviaanse stad door ontsnapte stier",
+    "subtitle": "Video",
+    "published_at": "2023-07-28T16:23:14+02:00",
+    "updated_at": "2023-07-28T16:31:26+02:00",
+    "media_id": "xx4x3w2ay7jc",
+    "duration": "0:37",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6274300/chaos-in-peruviaanse-stad-door-ontsnapte-stier.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6274246,
+    "slug": "stelling-organisatoren-van-festivals-of-feesten-mogen-zelf-bepalen-welke-eisen-ze-stellen",
+    "type": "article",
+    "title": "Stelling: Organisatoren van festivals of feesten mogen zelf bepalen welke eisen ze stellen",
+    "subtitle": null,
+    "published_at": "2023-07-28T16:08:58+02:00",
+    "updated_at": "2023-07-28T16:08:59+02:00",
+    "media_id": "f8fxpvxakj8a",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779134,
+      "slug": "stelling",
+      "type": "default",
+      "name": "Stelling",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/stelling/6274246/stelling-organisatoren-van-festivals-of-feesten-mogen-zelf-bepalen-welke-eisen-ze-stellen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6274298,
+    "slug": "ihattaren-moet-per-direct-weg-bij-juventus-na-ontbinding-contract",
+    "type": "article",
+    "title": "Ihattaren moet per direct weg bij Juventus na ontbinding contract",
+    "subtitle": null,
+    "published_at": "2023-07-28T16:02:18+02:00",
+    "updated_at": "2023-07-28T16:47:21+02:00",
+    "media_id": "gklxcsaaryhj",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6274298/ihattaren-moet-per-direct-weg-bij-juventus-na-ontbinding-contract.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6274296,
     "slug": "fc-twente-wijst-ook-naar-provocatief-gedrag-zweedse-fans-het-was-respectloos",
     "type": "article",
@@ -93,13 +185,13 @@
   },
   {
     "id": 6274293,
-    "slug": "frans-klein-week-na-vertrek-bij-npo-door-talpa-binnengehaald-als-directeur",
+    "slug": "frans-klein-wordt-week-na-vertrek-bij-npo-directeur-bij-talpa",
     "type": "article",
-    "title": "Frans Klein week na vertrek bij NPO door Talpa binnengehaald als directeur",
+    "title": "Frans Klein wordt week na vertrek bij NPO directeur bij Talpa",
     "subtitle": null,
     "published_at": "2023-07-28T15:39:28+02:00",
-    "updated_at": "2023-07-28T15:54:46+02:00",
-    "media_id": "jl7xcg0azon3",
+    "updated_at": "2023-07-28T16:10:44+02:00",
+    "media_id": "khkxnxla72es",
     "duration": null,
     "canonical_section": {
       "id": 1771675,
@@ -110,7 +202,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/media/6274293/frans-klein-week-na-vertrek-bij-npo-door-talpa-binnengehaald-als-directeur.html",
+    "url": "/media/6274293/frans-klein-wordt-week-na-vertrek-bij-npo-directeur-bij-talpa.html",
     "open_new_window": false,
     "partner": null
   },
@@ -121,7 +213,7 @@
     "title": "Leegloop bij Alpine gaat door: teambaas Szafnauer en twee directeuren weg",
     "subtitle": null,
     "published_at": "2023-07-28T15:24:18+02:00",
-    "updated_at": "2023-07-28T15:49:00+02:00",
+    "updated_at": "2023-07-28T16:06:42+02:00",
     "media_id": "unqxcqwa98gr",
     "duration": null,
     "canonical_section": {
@@ -167,7 +259,7 @@
     "title": "Formule 1 doet bandenwarmers nog niet in de ban",
     "subtitle": null,
     "published_at": "2023-07-28T15:04:38+02:00",
-    "updated_at": "2023-07-28T15:09:26+02:00",
+    "updated_at": "2023-07-28T16:14:14+02:00",
     "media_id": "pjdxaf4a9l89",
     "duration": null,
     "canonical_section": {
@@ -190,7 +282,7 @@
     "title": "Coupplegende generaal Tiani stapt naar voren als nieuwe leider van Niger",
     "subtitle": null,
     "published_at": "2023-07-28T14:56:27+02:00",
-    "updated_at": "2023-07-28T15:29:28+02:00",
+    "updated_at": "2023-07-28T16:29:56+02:00",
     "media_id": "xykxzjtamqil",
     "duration": null,
     "canonical_section": {
@@ -415,13 +507,13 @@
   },
   {
     "id": 6274271,
-    "slug": "ploeg-charlotte-kool-houdt-koplopers-in-vizier-tijdens-sprintetappe-tour",
+    "slug": "ploegen-nederlandse-sprinters-jagen-in-finale-op-kopgroep-in-tour-rit",
     "type": "article",
-    "title": "Ploeg Charlotte Kool houdt koplopers in vizier tijdens sprintetappe Tour",
+    "title": "Ploegen Nederlandse sprinters jagen in finale op kopgroep in Tour-rit",
     "subtitle": "Liveblog",
     "published_at": "2023-07-28T13:53:52+02:00",
-    "updated_at": "2023-07-28T15:41:26+02:00",
-    "media_id": "mrzx3zra9rt9",
+    "updated_at": "2023-07-28T16:54:59+02:00",
+    "media_id": "jsoxhn9a7kxm",
     "duration": null,
     "canonical_section": {
       "id": 1772339,
@@ -432,7 +524,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/wielrennen/6274271/ploeg-charlotte-kool-houdt-koplopers-in-vizier-tijdens-sprintetappe-tour.html",
+    "url": "/wielrennen/6274271/ploegen-nederlandse-sprinters-jagen-in-finale-op-kopgroep-in-tour-rit.html",
     "open_new_window": false,
     "partner": null
   },
@@ -484,13 +576,13 @@
   },
   {
     "id": 6274264,
-    "slug": "reacties-na-kletsnatte-vrije-training-op-spa",
+    "slug": "kwalificatie-gp-belgie-met-10-minuten-uitgesteld",
     "type": "article",
-    "title": "Reacties na kletsnatte vrije training op Spa",
+    "title": "Kwalificatie GP België met 10 minuten uitgesteld",
     "subtitle": "Liveblog",
     "published_at": "2023-07-28T13:18:34+02:00",
-    "updated_at": "2023-07-28T14:34:02+02:00",
-    "media_id": "2q8xg3kan3cs",
+    "updated_at": "2023-07-28T16:56:06+02:00",
+    "media_id": "dqgx5e5a3wbk",
     "duration": null,
     "canonical_section": {
       "id": 1772449,
@@ -501,18 +593,18 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/formule-1/6274264/reacties-na-kletsnatte-vrije-training-op-spa.html",
+    "url": "/formule-1/6274264/kwalificatie-gp-belgie-met-10-minuten-uitgesteld.html",
     "open_new_window": false,
     "partner": null
   },
   {
     "id": 6274261,
-    "slug": "steenbergen-en-schouten-zorgen-met-brons-voor-nederlands-succes-op-wk-zwemmen",
+    "slug": "steenbergen-en-schouten-zorgen-voor-nederlands-succes-op-wk-zwemmen",
     "type": "article",
-    "title": "Steenbergen en Schouten zorgen met brons voor Nederlands succes op WK zwemmen",
+    "title": "Steenbergen en Schouten zorgen voor Nederlands succes op WK zwemmen",
     "subtitle": null,
     "published_at": "2023-07-28T13:08:25+02:00",
-    "updated_at": "2023-07-28T14:39:31+02:00",
+    "updated_at": "2023-07-28T16:48:50+02:00",
     "media_id": "buqx1utan94k",
     "duration": null,
     "canonical_section": {
@@ -524,7 +616,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/sport-overig/6274261/steenbergen-en-schouten-zorgen-met-brons-voor-nederlands-succes-op-wk-zwemmen.html",
+    "url": "/sport-overig/6274261/steenbergen-en-schouten-zorgen-voor-nederlands-succes-op-wk-zwemmen.html",
     "open_new_window": false,
     "partner": null
   },
@@ -581,7 +673,7 @@
     "title": "Waterpolosters pakken historische WK-titel na zenuwslopend gevecht met Spanje",
     "subtitle": null,
     "published_at": "2023-07-28T12:13:05+02:00",
-    "updated_at": "2023-07-28T15:08:26+02:00",
+    "updated_at": "2023-07-28T16:31:40+02:00",
     "media_id": "1kcx1umara9q",
     "duration": null,
     "canonical_section": {
@@ -594,98 +686,6 @@
       "partner": null
     },
     "url": "/sport-overig/6274244/waterpolosters-pakken-historische-wk-titel-na-zenuwslopend-gevecht-met-spanje.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6274243,
-    "slug": "praat-mee-over-vakantieland-frankrijk-welke-tips-heb-jij",
-    "type": "article",
-    "title": "Praat mee over vakantieland Frankrijk: welke tips heb jij?",
-    "subtitle": null,
-    "published_at": "2023-07-28T12:11:07+02:00",
-    "updated_at": "2023-07-28T12:11:09+02:00",
-    "media_id": "wp0xn0aa7yay",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779134,
-      "slug": "stelling",
-      "type": "default",
-      "name": "Stelling",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/stelling/6274243/praat-mee-over-vakantieland-frankrijk-welke-tips-heb-jij.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6274249,
-    "slug": "oekraiense-schermster-heeft-ondanks-diskwalificatie-geen-spijt-van-weigeren-hand",
-    "type": "article",
-    "title": "Oekraïense schermster heeft ondanks diskwalificatie geen spijt van weigeren hand",
-    "subtitle": null,
-    "published_at": "2023-07-28T11:56:49+02:00",
-    "updated_at": "2023-07-28T12:29:04+02:00",
-    "media_id": "afjxvtra3wt7",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772456,
-      "slug": "sport-overig",
-      "type": "default",
-      "name": "Sport Overig",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/sport-overig/6274249/oekraiense-schermster-heeft-ondanks-diskwalificatie-geen-spijt-van-weigeren-hand.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6274241,
-    "slug": "singapore-executeert-voor-het-eerst-in-bijna-twintig-jaar-een-vrouw",
-    "type": "article",
-    "title": "Singapore executeert voor het eerst in bijna twintig jaar een vrouw",
-    "subtitle": null,
-    "published_at": "2023-07-28T11:53:01+02:00",
-    "updated_at": "2023-07-28T11:53:02+02:00",
-    "media_id": "3wxxn7sanvuq",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6274241/singapore-executeert-voor-het-eerst-in-bijna-twintig-jaar-een-vrouw.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6274252,
-    "slug": "rob-de-nijs-weer-thuis-na-honderd-dagen-in-ziekenhuis-en-revalidatiecentrum",
-    "type": "article",
-    "title": "Rob de Nijs weer thuis na honderd dagen in ziekenhuis en revalidatiecentrum",
-    "subtitle": null,
-    "published_at": "2023-07-28T11:52:25+02:00",
-    "updated_at": "2023-07-28T14:27:34+02:00",
-    "media_id": "3upxafiax5aa",
-    "duration": null,
-    "canonical_section": {
-      "id": 125,
-      "slug": "achterklap",
-      "type": "default",
-      "name": "Achterklap",
-      "style": "nuentertainment",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/achterklap/6274252/rob-de-nijs-weer-thuis-na-honderd-dagen-in-ziekenhuis-en-revalidatiecentrum.html",
     "open_new_window": false,
     "partner": null
   }
