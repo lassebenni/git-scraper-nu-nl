@@ -1,12 +1,35 @@
 [
   {
+    "id": 6274489,
+    "slug": "eerste-groep-door-noodweer-getroffen-nederlanders-weer-terug-uit-italie",
+    "type": "article",
+    "title": "Eerste groep door noodweer getroffen Nederlanders weer terug uit Italië",
+    "subtitle": null,
+    "published_at": "2023-07-30T09:35:18+02:00",
+    "updated_at": "2023-07-30T09:40:40+02:00",
+    "media_id": "h2hxcpsa8yxo",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6274489/eerste-groep-door-noodweer-getroffen-nederlanders-weer-terug-uit-italie.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6274486,
     "slug": "beer-zoekt-verkoeling-in-zwembad-in-californie",
     "type": "video",
     "title": "Beer zoekt verkoeling in zwembad in Californië",
     "subtitle": "Video",
     "published_at": "2023-07-30T09:01:14+02:00",
-    "updated_at": "2023-07-30T09:01:14+02:00",
+    "updated_at": "2023-07-30T09:02:25+02:00",
     "media_id": "907xg5ta2qi9",
     "duration": "0:30",
     "canonical_section": {
@@ -24,13 +47,13 @@
   },
   {
     "id": 6274345,
-    "slug": "zo-doet-nunl-verslag-van-een-wk-aan-de-andere-kant-van-de-wereld",
+    "slug": "oranjewatcher-en-nachtdiensten-zo-volgt-nunl-het-wk",
     "type": "article",
-    "title": "Zo doet NU.nl verslag van een WK aan de andere kant van de wereld",
+    "title": "Oranjewatcher en nachtdiensten: zo volgt NU.nl het WK",
     "subtitle": "Van de hoofdredactie",
     "published_at": "2023-07-30T09:01:10+02:00",
-    "updated_at": "2023-07-30T09:01:12+02:00",
-    "media_id": "l5ex1r0af91u",
+    "updated_at": "2023-07-30T09:26:32+02:00",
+    "media_id": "txcx0ngagybk",
     "duration": null,
     "canonical_section": {
       "id": 1772069,
@@ -41,7 +64,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/blog/6274345/zo-doet-nunl-verslag-van-een-wk-aan-de-andere-kant-van-de-wereld.html",
+    "url": "/blog/6274345/oranjewatcher-en-nachtdiensten-zo-volgt-nunl-het-wk.html",
     "open_new_window": false,
     "partner": null
   },
@@ -75,7 +98,7 @@
     "title": "Marokko boekt historische WK-zege op Zuid-Korea en droomt van tweede ronde",
     "subtitle": null,
     "published_at": "2023-07-30T08:34:14+02:00",
-    "updated_at": "2023-07-30T08:52:31+02:00",
+    "updated_at": "2023-07-30T09:27:16+02:00",
     "media_id": "8u3xlxtanluu",
     "duration": null,
     "canonical_section": {
@@ -144,7 +167,7 @@
     "title": "KNVB en minister op missie Down Under: WK 2027 moet naar Nederland",
     "subtitle": "NU+",
     "published_at": "2023-07-30T07:41:01+02:00",
-    "updated_at": "2023-07-30T08:04:29+02:00",
+    "updated_at": "2023-07-30T09:55:53+02:00",
     "media_id": "lxpxpk5a3yhy",
     "duration": null,
     "canonical_section": {
@@ -234,9 +257,9 @@
     "slug": "bb-vol-liefde-is-weer-een-hit-hoe-worden-de-deelnemers-gevonden",
     "type": "article",
     "title": "B&B Vol liefde is weer een hit: hoe worden de deelnemers gevonden?",
-    "subtitle": "NU+",
+    "subtitle": null,
     "published_at": "2023-07-30T05:02:30+02:00",
-    "updated_at": "2023-07-30T05:02:32+02:00",
+    "updated_at": "2023-07-30T09:42:49+02:00",
     "media_id": "t6bxyfkasr8s",
     "duration": null,
     "canonical_section": {
@@ -282,7 +305,7 @@
     "title": "Drie aanhoudingen na tweede schietpartij bij Zomercarnaval Rotterdam",
     "subtitle": null,
     "published_at": "2023-07-30T04:52:31+02:00",
-    "updated_at": "2023-07-30T07:42:15+02:00",
+    "updated_at": "2023-07-30T09:07:05+02:00",
     "media_id": "zw2xt50aficr",
     "duration": null,
     "canonical_section": {
@@ -305,7 +328,7 @@
     "title": "Van der Gragt en Pelova op weg terug van griep, Beerensteyn traint met Oranje",
     "subtitle": null,
     "published_at": "2023-07-30T03:36:47+02:00",
-    "updated_at": "2023-07-30T07:52:53+02:00",
+    "updated_at": "2023-07-30T09:28:47+02:00",
     "media_id": "1guxc9sajr5y",
     "duration": null,
     "canonical_section": {
@@ -351,7 +374,7 @@
     "title": "Opnieuw een dode op Belgisch festival Tomorrowland",
     "subtitle": null,
     "published_at": "2023-07-30T00:18:41+02:00",
-    "updated_at": "2023-07-30T08:09:30+02:00",
+    "updated_at": "2023-07-30T09:02:29+02:00",
     "media_id": "wwixee5avpij",
     "duration": null,
     "canonical_section": {
@@ -663,29 +686,6 @@
       "partner": null
     },
     "url": "/videos/6274456/doden-en-gewonden-door-ontploffing-vuurwerkopslag-in-thailand.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6274455,
-    "slug": "piastri-verwachtte-inhaalactie-verstappen-niet-zo-snel-hij-was-niet-te-houden",
-    "type": "article",
-    "title": "Piastri verwachtte inhaalactie Verstappen niet zo snel: 'Hij was niet te houden'",
-    "subtitle": null,
-    "published_at": "2023-07-29T19:42:07+02:00",
-    "updated_at": "2023-07-29T23:40:30+02:00",
-    "media_id": "gdcx91dadtsx",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772449,
-      "slug": "formule-1",
-      "type": "default",
-      "name": "GP België",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/formule-1/6274455/piastri-verwachtte-inhaalactie-verstappen-niet-zo-snel-hij-was-niet-te-houden.html",
     "open_new_window": false,
     "partner": null
   }
