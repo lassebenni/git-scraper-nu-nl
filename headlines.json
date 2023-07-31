@@ -1,12 +1,58 @@
 [
   {
+    "id": 6274578,
+    "slug": "inflatie-zwakt-deze-maand-af-maar-goedkopere-boodschappen-nog-niet-in-zicht",
+    "type": "article",
+    "title": "Inflatie zwakt deze maand af, maar goedkopere boodschappen nog niet in zicht",
+    "subtitle": null,
+    "published_at": "2023-07-31T07:40:44+02:00",
+    "updated_at": "2023-07-31T07:49:02+02:00",
+    "media_id": "ctcx703ar3ec",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6274578/inflatie-zwakt-deze-maand-af-maar-goedkopere-boodschappen-nog-niet-in-zicht.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6274576,
+    "slug": "malen-en-van-de-beek-pakken-hoofdrol-in-spectaculaire-zege-dortmund-op-united",
+    "type": "article",
+    "title": "Malen en Van de Beek pakken hoofdrol in spectaculaire zege Dortmund op United",
+    "subtitle": null,
+    "published_at": "2023-07-31T07:14:25+02:00",
+    "updated_at": "2023-07-31T07:51:46+02:00",
+    "media_id": "01gxegsailry",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6274576/malen-en-van-de-beek-pakken-hoofdrol-in-spectaculaire-zege-dortmund-op-united.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6274574,
     "slug": "a12-bij-arnhem-negen-dagen-dicht-forse-hinder-verwacht",
     "type": "article",
     "title": "A12 bij Arnhem negen dagen dicht, forse hinder verwacht",
     "subtitle": null,
     "published_at": "2023-07-31T06:52:09+02:00",
-    "updated_at": "2023-07-31T06:55:27+02:00",
+    "updated_at": "2023-07-31T07:46:27+02:00",
     "media_id": "xi4xpffa5tdo",
     "duration": null,
     "canonical_section": {
@@ -29,7 +75,7 @@
     "title": "Madonna reflecteert maand na haar ziekenhuisopname: 'Heb geluk dat ik nog leef'",
     "subtitle": null,
     "published_at": "2023-07-31T06:51:56+02:00",
-    "updated_at": "2023-07-31T06:56:56+02:00",
+    "updated_at": "2023-07-31T07:07:51+02:00",
     "media_id": "9pyx8exag47n",
     "duration": null,
     "canonical_section": {
@@ -144,7 +190,7 @@
     "title": "Vollering had haar droom al opgegeven, nu is ze winnaar van de Tour",
     "subtitle": "NU+",
     "published_at": "2023-07-31T05:03:51+02:00",
-    "updated_at": "2023-07-31T06:49:40+02:00",
+    "updated_at": "2023-07-31T08:01:32+02:00",
     "media_id": "xuuxw7nabz0a",
     "duration": null,
     "canonical_section": {
@@ -640,52 +686,6 @@
       "partner": null
     },
     "url": "/videos/6274539/kolkende-rivier-verwoest-brug-na-noodweer-in-noord-italie.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6274521,
-    "slug": "weekweerbericht-nat-en-relatief-koud-begin-van-augustus",
-    "type": "article",
-    "title": "Weekweerbericht: Nat en relatief koud begin van augustus",
-    "subtitle": null,
-    "published_at": "2023-07-30T17:46:24+02:00",
-    "updated_at": "2023-07-30T17:46:25+02:00",
-    "media_id": "mpvxkusacak3",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779258,
-      "slug": "binnenland-en-buitenland",
-      "type": "default",
-      "name": "Binnen- en buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland-en-buitenland/6274521/weekweerbericht-nat-en-relatief-koud-begin-van-augustus.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6274532,
-    "slug": "vollering-stelt-eindzege-tour-veilig-kopecky-stoot-van-vleuten-van-podium",
-    "type": "article",
-    "title": "Vollering stelt eindzege Tour veilig, Kopecky stoot Van Vleuten van podium",
-    "subtitle": null,
-    "published_at": "2023-07-30T17:30:35+02:00",
-    "updated_at": "2023-07-31T05:07:48+02:00",
-    "media_id": "inxxpe6aj1sl",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772339,
-      "slug": "wielrennen",
-      "type": "default",
-      "name": "Wielrennen",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/wielrennen/6274532/vollering-stelt-eindzege-tour-veilig-kopecky-stoot-van-vleuten-van-podium.html",
     "open_new_window": false,
     "partner": null
   }
