@@ -1,12 +1,127 @@
 [
   {
+    "id": 6275062,
+    "slug": "hoge-golf-overspoelt-groep-toeristen-in-china",
+    "type": "video",
+    "title": "Hoge golf overspoelt groep toeristen in China",
+    "subtitle": "Video",
+    "published_at": "2023-08-03T11:41:24+02:00",
+    "updated_at": "2023-08-03T11:41:25+02:00",
+    "media_id": "2u8xrg4a08zd",
+    "duration": "0:33",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6275062/hoge-golf-overspoelt-groep-toeristen-in-china.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6275057,
+    "slug": "turkse-inflatie-stijgt-weer-na-acht-maanden-van-daling",
+    "type": "article",
+    "title": "Turkse inflatie stijgt weer na acht maanden van daling",
+    "subtitle": null,
+    "published_at": "2023-08-03T11:35:46+02:00",
+    "updated_at": "2023-08-03T11:35:47+02:00",
+    "media_id": "7b4x1obalr41",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6275057/turkse-inflatie-stijgt-weer-na-acht-maanden-van-daling.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6275056,
+    "slug": "bierbrouwer-ab-inbev-maakt-winst-ondanks-amerikaanse-boycot",
+    "type": "article",
+    "title": "Bierbrouwer AB InBev maakt winst ondanks Amerikaanse boycot",
+    "subtitle": null,
+    "published_at": "2023-08-03T11:21:33+02:00",
+    "updated_at": "2023-08-03T11:59:53+02:00",
+    "media_id": "49bx7qianfe2",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6275056/bierbrouwer-ab-inbev-maakt-winst-ondanks-amerikaanse-boycot.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6275055,
+    "slug": "nfl-icoon-tom-brady-wordt-mede-eigenaar-van-birmingham-city",
+    "type": "article",
+    "title": "NFL-icoon Tom Brady wordt mede-eigenaar van Birmingham City",
+    "subtitle": null,
+    "published_at": "2023-08-03T11:20:01+02:00",
+    "updated_at": "2023-08-03T11:29:55+02:00",
+    "media_id": "xeixcnaa447y",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6275055/nfl-icoon-tom-brady-wordt-mede-eigenaar-van-birmingham-city.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6275048,
+    "slug": "drie-feyenoorders-cerny-en-simons-maken-kans-op-titel-eredivisie-speler-van-het-jaar",
+    "type": "article",
+    "title": "Drie Feyenoorders, Cerný en Simons maken kans op titel Eredivisie Speler van het Jaar",
+    "subtitle": null,
+    "published_at": "2023-08-03T11:04:05+02:00",
+    "updated_at": "2023-08-03T11:04:06+02:00",
+    "media_id": "e79x59saeclv",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6275048/drie-feyenoorders-cerny-en-simons-maken-kans-op-titel-eredivisie-speler-van-het-jaar.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6275049,
     "slug": "super-mario-film-en-nieuwe-zelda-game-bezorgen-nintendo-een-recordwinst",
     "type": "article",
     "title": "Super Mario-film en nieuwe Zelda-game bezorgen Nintendo een recordwinst",
     "subtitle": null,
     "published_at": "2023-08-03T10:56:29+02:00",
-    "updated_at": "2023-08-03T10:56:31+02:00",
+    "updated_at": "2023-08-03T11:59:18+02:00",
     "media_id": "qrzxguzayx4o",
     "duration": null,
     "canonical_section": {
@@ -24,12 +139,12 @@
   },
   {
     "id": 6275050,
-    "slug": "vrachtschip-onderweg-naar-eemshaven-en-komt-na-de-lunch-aan",
+    "slug": "vrachtschip-is-onderweg-naar-eemshaven-en-komt-begin-van-de-middag-aan",
     "type": "article",
-    "title": "Vrachtschip onderweg naar Eemshaven en komt na de lunch aan",
+    "title": "Vrachtschip is onderweg naar Eemshaven en komt begin van de middag aan",
     "subtitle": null,
     "published_at": "2023-08-03T10:52:15+02:00",
-    "updated_at": "2023-08-03T10:52:25+02:00",
+    "updated_at": "2023-08-03T11:44:43+02:00",
     "media_id": "anix0s5arx46",
     "duration": null,
     "canonical_section": {
@@ -41,7 +156,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/binnenland/6275050/vrachtschip-onderweg-naar-eemshaven-en-komt-na-de-lunch-aan.html",
+    "url": "/binnenland/6275050/vrachtschip-is-onderweg-naar-eemshaven-en-komt-begin-van-de-middag-aan.html",
     "open_new_window": false,
     "partner": null
   },
@@ -121,7 +236,7 @@
     "title": "Alliander ziet aantal klachten over terugleveren zonnestroom verdrievoudigen",
     "subtitle": null,
     "published_at": "2023-08-03T09:44:56+02:00",
-    "updated_at": "2023-08-03T09:44:58+02:00",
+    "updated_at": "2023-08-03T11:24:59+02:00",
     "media_id": "tphx2baazk5h",
     "duration": null,
     "canonical_section": {
@@ -282,7 +397,7 @@
     "title": "Mislukte panenka van Memphis in oefenduel Atlético, Nkunku valt uit bij Chelsea",
     "subtitle": null,
     "published_at": "2023-08-03T08:38:35+02:00",
-    "updated_at": "2023-08-03T09:26:04+02:00",
+    "updated_at": "2023-08-03T11:22:35+02:00",
     "media_id": "8tpx3x2aaeoq",
     "duration": null,
     "canonical_section": {
@@ -571,121 +686,6 @@
       "partner": null
     },
     "url": "/muziek/6275006/placebo-zanger-aangeklaagd-door-italiaanse-premier-na-uitspraken-op-festival.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6275004,
-    "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
-    "type": "article",
-    "title": "Het Woord van vandaag: Raad jij het woord van de dag?",
-    "subtitle": null,
-    "published_at": "2023-08-03T05:35:21+02:00",
-    "updated_at": "2023-08-03T05:35:22+02:00",
-    "media_id": "xdtxc8kaj8rf",
-    "duration": null,
-    "canonical_section": {
-      "id": 1773179,
-      "slug": "uitgelicht",
-      "type": "default",
-      "name": "Uitgelicht",
-      "style": "mediapartner-external",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/uitgelicht/6275004/het-woord-van-vandaag-raad-jij-het-woord-van-de-dag.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6275003,
-    "slug": "weerbericht-de-dag-begint-nat-en-grijs-maar-later-ruimte-voor-de-zon",
-    "type": "article",
-    "title": "Weerbericht: De dag begint nat en grijs, maar later ruimte voor de zon",
-    "subtitle": null,
-    "published_at": "2023-08-03T05:32:46+02:00",
-    "updated_at": "2023-08-03T07:15:34+02:00",
-    "media_id": "k55xkpwa9leh",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6275003/weerbericht-de-dag-begint-nat-en-grijs-maar-later-ruimte-voor-de-zon.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6274933,
-    "slug": "caicedo-18-herstelde-van-kanker-en-is-nu-de-wk-sensatie-van-colombia",
-    "type": "article",
-    "title": "Caicedo (18) herstelde van kanker en is nu de WK-sensatie van Colombia",
-    "subtitle": "NU+",
-    "published_at": "2023-08-03T05:02:10+02:00",
-    "updated_at": "2023-08-03T10:02:52+02:00",
-    "media_id": "digx7usaxk4v",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779272,
-      "slug": "wk-voetbal-2023",
-      "type": "default",
-      "name": "WK voetbal 2023",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/wk-voetbal-2023/6274933/caicedo-18-herstelde-van-kanker-en-is-nu-de-wk-sensatie-van-colombia.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6274897,
-    "slug": "geen-seks-en-geen-liefde-zij-hebben-er-gewoon-geen-interesse-in",
-    "type": "article",
-    "title": "Geen seks én geen liefde: zij hebben er gewoon geen interesse in",
-    "subtitle": "NU+",
-    "published_at": "2023-08-03T05:00:59+02:00",
-    "updated_at": "2023-08-03T09:22:00+02:00",
-    "media_id": "gs3x21waacg2",
-    "duration": null,
-    "canonical_section": {
-      "id": 1778832,
-      "slug": "pride",
-      "type": "default",
-      "name": "Pride",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/pride/6274897/geen-seks-en-geen-liefde-zij-hebben-er-gewoon-geen-interesse-in.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6274920,
-    "slug": "stijgende-lonen-houden-de-inflatie-hoog",
-    "type": "article",
-    "title": "Stijgende lonen houden de inflatie hoog",
-    "subtitle": null,
-    "published_at": "2023-08-03T04:59:47+02:00",
-    "updated_at": "2023-08-03T09:54:13+02:00",
-    "media_id": "icrx669a52d6",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6274920/stijgende-lonen-houden-de-inflatie-hoog.html",
     "open_new_window": false,
     "partner": null
   }
