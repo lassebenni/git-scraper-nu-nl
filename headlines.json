@@ -1,5 +1,51 @@
 [
   {
+    "id": 6274897,
+    "slug": "sommige-mensen-hebben-gewoon-nooit-zin-die-zijn-aseksueel",
+    "type": "article",
+    "title": "Sommige mensen hebben gewoon nóóit zin: die zijn aseksueel",
+    "subtitle": null,
+    "published_at": "2023-08-03T05:00:59+02:00",
+    "updated_at": "2023-08-03T05:01:00+02:00",
+    "media_id": "gs3x21waacg2",
+    "duration": null,
+    "canonical_section": {
+      "id": 1778832,
+      "slug": "pride",
+      "type": "default",
+      "name": "Pride",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/pride/6274897/sommige-mensen-hebben-gewoon-nooit-zin-die-zijn-aseksueel.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6274920,
+    "slug": "stijgende-loonkosten-zorgen-ervoor-dat-de-inflatie-hoog-blijft",
+    "type": "article",
+    "title": "Stijgende loonkosten zorgen ervoor dat de inflatie hoog blijft",
+    "subtitle": null,
+    "published_at": "2023-08-03T04:59:47+02:00",
+    "updated_at": "2023-08-03T04:59:49+02:00",
+    "media_id": "icrx669a52d6",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6274920/stijgende-loonkosten-zorgen-ervoor-dat-de-inflatie-hoog-blijft.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6275002,
     "slug": "vrachtschip-wordt-naar-verwachting-donderdagochtend-naar-eemshaven-gesleept",
     "type": "article",
@@ -640,52 +686,6 @@
       "partner": null
     },
     "url": "/algemeen/6274968/trumps-achterban-groeit-door-rechtszaken-hoe-kan-dat.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6274967,
-    "slug": "is-er-in-nederland-echt-meer-polarisatie-dan-vroeger",
-    "type": "video",
-    "title": "Is er in Nederland echt meer polarisatie dan vroeger?",
-    "subtitle": "Video",
-    "published_at": "2023-08-02T17:50:29+02:00",
-    "updated_at": "2023-08-02T17:50:30+02:00",
-    "media_id": "n8yxkz5ajge6",
-    "duration": "6:52",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6274967/is-er-in-nederland-echt-meer-polarisatie-dan-vroeger.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6274966,
-    "slug": "ajax-heeft-nieuwe-algemeen-directeur-alex-kroes-volgt-edwin-van-der-sar-op",
-    "type": "article",
-    "title": "Ajax heeft nieuwe algemeen directeur: Alex Kroes volgt Edwin van der Sar op",
-    "subtitle": null,
-    "published_at": "2023-08-02T17:41:12+02:00",
-    "updated_at": "2023-08-02T21:37:20+02:00",
-    "media_id": "s5ixg7lae6fu",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6274966/ajax-heeft-nieuwe-algemeen-directeur-alex-kroes-volgt-edwin-van-der-sar-op.html",
     "open_new_window": false,
     "partner": null
   }
