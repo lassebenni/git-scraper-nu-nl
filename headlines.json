@@ -1,12 +1,58 @@
 [
   {
+    "id": 6275385,
+    "slug": "amsterdamse-grachten-vol-met-regenboogboten-tijdens-canal-parade",
+    "type": "video",
+    "title": "Amsterdamse grachten vol met regenboogboten tijdens Canal Parade",
+    "subtitle": "Video",
+    "published_at": "2023-08-05T18:22:54+02:00",
+    "updated_at": "2023-08-05T18:22:55+02:00",
+    "media_id": "zv7xxlhaosth",
+    "duration": "0:59",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6275385/amsterdamse-grachten-vol-met-regenboogboten-tijdens-canal-parade.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6275382,
+    "slug": "clasie-heeft-geen-zin-in-buitenlands-avontuur-en-verlengt-contract-bij-az",
+    "type": "article",
+    "title": "Clasie heeft geen zin in buitenlands avontuur en verlengt contract bij AZ",
+    "subtitle": null,
+    "published_at": "2023-08-05T18:07:57+02:00",
+    "updated_at": "2023-08-05T18:29:36+02:00",
+    "media_id": "hq2x1g3aorxt",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6275382/clasie-heeft-geen-zin-in-buitenlands-avontuur-en-verlengt-contract-bij-az.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6275383,
     "slug": "gestopte-buffon-volgt-overleden-vialli-op-als-teammanager-italiaans-elftal",
     "type": "article",
     "title": "Gestopte Buffon volgt overleden Vialli op als teammanager Italiaans elftal",
     "subtitle": null,
     "published_at": "2023-08-05T18:00:20+02:00",
-    "updated_at": "2023-08-05T18:00:26+02:00",
+    "updated_at": "2023-08-05T18:11:02+02:00",
     "media_id": "s2jx0x0ahom9",
     "duration": null,
     "canonical_section": {
@@ -640,52 +686,6 @@
       "partner": null
     },
     "url": "/wk-voetbal-2023/6275344/oranjespeelsters-namen-voor-wk-elke-dag-penaltys-hebben-huiswerk-gedaan.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6275341,
-    "slug": "breaking-bad-acteurs-rouwen-om-overlijden-mark-margolis-hector-salamanca",
-    "type": "article",
-    "title": "Breaking Bad-acteurs rouwen om overlijden Mark Margolis (Hector Salamanca)",
-    "subtitle": null,
-    "published_at": "2023-08-05T11:30:46+02:00",
-    "updated_at": "2023-08-05T12:33:24+02:00",
-    "media_id": "3xgxmdja8y0x",
-    "duration": null,
-    "canonical_section": {
-      "id": 127,
-      "slug": "film",
-      "type": "default",
-      "name": "Films & Series",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/film/6275341/breaking-bad-acteurs-rouwen-om-overlijden-mark-margolis-hector-salamanca.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6275340,
-    "slug": "coach-duitse-voetbalsters-wil-aanblijven-na-wk-blamage-ben-nooit-weggelopen",
-    "type": "article",
-    "title": "Coach Duitse voetbalsters wil aanblijven na WK-blamage: 'Ben nooit weggelopen'",
-    "subtitle": null,
-    "published_at": "2023-08-05T11:09:00+02:00",
-    "updated_at": "2023-08-05T11:57:49+02:00",
-    "media_id": "avwx7foa7mw5",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779272,
-      "slug": "wk-voetbal-2023",
-      "type": "default",
-      "name": "WK voetbal 2023",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/wk-voetbal-2023/6275340/coach-duitse-voetbalsters-wil-aanblijven-na-wk-blamage-ben-nooit-weggelopen.html",
     "open_new_window": false,
     "partner": null
   }
