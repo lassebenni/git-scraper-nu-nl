@@ -1,5 +1,51 @@
 [
   {
+    "id": 6275259,
+    "slug": "dit-was-het-positieve-en-vrolijke-nieuws-van-deze-week",
+    "type": "article",
+    "title": "Dit was het positieve en vrolijke nieuws van deze week",
+    "subtitle": null,
+    "published_at": "2023-08-06T13:55:43+02:00",
+    "updated_at": "2023-08-06T13:55:44+02:00",
+    "media_id": "8imx0b1aenjp",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779220,
+      "slug": "goed-nieuws",
+      "type": "default",
+      "name": "Goed nieuws",
+      "style": "nuoverig",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/goed-nieuws/6275259/dit-was-het-positieve-en-vrolijke-nieuws-van-deze-week.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6275445,
+    "slug": "sensatie-op-wk-titelverdediger-vs-strandt-al-in-achtste-finale-tegen-zweden",
+    "type": "article",
+    "title": "Sensatie op WK: titelverdediger VS strandt al in achtste finale tegen Zweden",
+    "subtitle": null,
+    "published_at": "2023-08-06T13:44:33+02:00",
+    "updated_at": "2023-08-06T14:01:23+02:00",
+    "media_id": "1ipxz6sawp07",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6275445/sensatie-op-wk-titelverdediger-vs-strandt-al-in-achtste-finale-tegen-zweden.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6275437,
     "slug": "toeschouwersrecord-sneuvelt-nu-al-best-bezochte-vrouweneditie-wk-voetbal",
     "type": "article",
@@ -24,13 +70,13 @@
   },
   {
     "id": 6275447,
-    "slug": "wegrit-bij-wk-wielrennen-ligt-stil-activisten-vastgelijmd-aan-wegdek",
+    "slug": "wegrit-bij-wk-wielrennen-lang-stilgelegd-activisten-vastgelijmd-aan-wegdek",
     "type": "article",
-    "title": "Wegrit bij WK wielrennen ligt stil: activisten vastgelijmd aan wegdek",
+    "title": "Wegrit bij WK wielrennen lang stilgelegd: activisten vastgelijmd aan wegdek",
     "subtitle": null,
     "published_at": "2023-08-06T12:33:31+02:00",
-    "updated_at": "2023-08-06T13:01:06+02:00",
-    "media_id": "a4bxqzbahur5",
+    "updated_at": "2023-08-06T13:31:09+02:00",
+    "media_id": "h6sxsfzahgm4",
     "duration": null,
     "canonical_section": {
       "id": 1772339,
@@ -41,7 +87,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/wielrennen/6275447/wegrit-bij-wk-wielrennen-ligt-stil-activisten-vastgelijmd-aan-wegdek.html",
+    "url": "/wielrennen/6275447/wegrit-bij-wk-wielrennen-lang-stilgelegd-activisten-vastgelijmd-aan-wegdek.html",
     "open_new_window": false,
     "partner": null
   },
@@ -254,12 +300,12 @@
   },
   {
     "id": 6275432,
-    "slug": "wk-wegrit-verstoord-door-activisten-die-zich-vastkleven-aan-wegdek",
+    "slug": "wk-wegrit-na-klein-uur-hervat-vastgelijmde-activisten-weggehaald",
     "type": "article",
-    "title": "WK-wegrit verstoord door activisten die zich vastkleven aan wegdek",
+    "title": "WK-wegrit na klein uur hervat, vastgelijmde activisten weggehaald",
     "subtitle": "Liveblog",
     "published_at": "2023-08-06T10:27:27+02:00",
-    "updated_at": "2023-08-06T12:38:31+02:00",
+    "updated_at": "2023-08-06T13:14:55+02:00",
     "media_id": "dmgxf8oarnox",
     "duration": null,
     "canonical_section": {
@@ -271,7 +317,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/wielrennen/6275432/wk-wegrit-verstoord-door-activisten-die-zich-vastkleven-aan-wegdek.html",
+    "url": "/wielrennen/6275432/wk-wegrit-na-klein-uur-hervat-vastgelijmde-activisten-weggehaald.html",
     "open_new_window": false,
     "partner": null
   },
@@ -535,7 +581,7 @@
     "title": "Oranje gaat naar kwartfinales WK na weinig overtuigende zege op Zuid-Afrika",
     "subtitle": null,
     "published_at": "2023-08-06T05:59:06+02:00",
-    "updated_at": "2023-08-06T11:48:15+02:00",
+    "updated_at": "2023-08-06T13:52:57+02:00",
     "media_id": "f92x4dqaye91",
     "duration": null,
     "canonical_section": {
@@ -640,52 +686,6 @@
       "partner": null
     },
     "url": "/uitgelicht/6275409/het-woord-van-vandaag-raad-jij-het-woord-van-de-dag.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6275273,
-    "slug": "met-de-trein-de-grens-over-is-vaak-duur-maar-dat-hoeft-niet",
-    "type": "article",
-    "title": "Met de trein de grens over is vaak duur, maar dat hoeft niet",
-    "subtitle": "NU+",
-    "published_at": "2023-08-06T05:03:29+02:00",
-    "updated_at": "2023-08-06T12:37:30+02:00",
-    "media_id": "7ixx8bxafi5f",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6275273/met-de-trein-de-grens-over-is-vaak-duur-maar-dat-hoeft-niet.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6275407,
-    "slug": "sterke-griekspoor-bereikt-finale-in-washington-dankzij-persoonlijke-primeur",
-    "type": "article",
-    "title": "Sterke Griekspoor bereikt finale in Washington dankzij persoonlijke primeur",
-    "subtitle": null,
-    "published_at": "2023-08-06T05:00:33+02:00",
-    "updated_at": "2023-08-06T08:10:23+02:00",
-    "media_id": "1atx13maloly",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772432,
-      "slug": "tennis",
-      "type": "default",
-      "name": "Tennis",
-      "style": "nusport",
-      "media_id": "m1oxohpan0gq",
-      "partner": null
-    },
-    "url": "/tennis/6275407/sterke-griekspoor-bereikt-finale-in-washington-dankzij-persoonlijke-primeur.html",
     "open_new_window": false,
     "partner": null
   }
