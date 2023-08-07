@@ -1,12 +1,81 @@
 [
   {
+    "id": 6275499,
+    "slug": "griekspoor-grijpt-naast-zijn-grootste-toernooizege-ooit-na-topweek-in-washington",
+    "type": "article",
+    "title": "Griekspoor grijpt naast zijn grootste toernooizege ooit na topweek in Washington",
+    "subtitle": null,
+    "published_at": "2023-08-07T06:42:15+02:00",
+    "updated_at": "2023-08-07T06:58:56+02:00",
+    "media_id": "xytxr0aa9qbi",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772432,
+      "slug": "tennis",
+      "type": "default",
+      "name": "Tennis",
+      "style": "nusport",
+      "media_id": "m1oxohpan0gq",
+      "partner": null
+    },
+    "url": "/tennis/6275499/griekspoor-grijpt-naast-zijn-grootste-toernooizege-ooit-na-topweek-in-washington.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6275240,
+    "slug": "zo-kan-ai-kanker-ontdekken-of-voorspellen-bij-mensen",
+    "type": "video",
+    "title": "Zo kan AI kanker ontdekken of voorspellen bij mensen",
+    "subtitle": "Explainer",
+    "published_at": "2023-08-07T06:31:14+02:00",
+    "updated_at": "2023-08-07T06:31:15+02:00",
+    "media_id": "wn7x9wpaduxf",
+    "duration": "1:55",
+    "canonical_section": {
+      "id": 1779219,
+      "slug": "tech-wetenschap",
+      "type": "default",
+      "name": "Tech & Wetenschap",
+      "style": "nutech",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/tech-wetenschap/6275240/zo-kan-ai-kanker-ontdekken-of-voorspellen-bij-mensen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6275492,
+    "slug": "zelfs-pogacar-trekt-wit-weg-na-wegrit-wk-het-duurde-mij-twee-rondjes-te-lang",
+    "type": "article",
+    "title": "Zelfs Pogacar trekt wit weg na wegrit WK: 'Het duurde mij twee rondjes te lang'",
+    "subtitle": null,
+    "published_at": "2023-08-07T06:27:48+02:00",
+    "updated_at": "2023-08-07T06:38:05+02:00",
+    "media_id": "44ixfbmadjks",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772339,
+      "slug": "wielrennen",
+      "type": "default",
+      "name": "Wielrennen",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/wielrennen/6275492/zelfs-pogacar-trekt-wit-weg-na-wegrit-wk-het-duurde-mij-twee-rondjes-te-lang.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6275498,
     "slug": "militaire-junta-sluit-luchtruim-niger-om-militair-ingrijpen-te-voorkomen",
     "type": "article",
     "title": "Militaire junta sluit luchtruim Niger om militair ingrijpen te voorkomen",
     "subtitle": null,
     "published_at": "2023-08-07T05:58:40+02:00",
-    "updated_at": "2023-08-07T05:58:41+02:00",
+    "updated_at": "2023-08-07T06:57:25+02:00",
     "media_id": "5vsxamqan55z",
     "duration": null,
     "canonical_section": {
@@ -47,12 +116,12 @@
   },
   {
     "id": 6275496,
-    "slug": "weerbericht-van-een-onstuimige-ochtend-tot-een-beetje-zomers-in-de-middag",
+    "slug": "weerbericht-van-onstuimig-in-de-ochtend-tot-een-beetje-zomers-in-de-middag",
     "type": "article",
-    "title": "Weerbericht: van een onstuimige ochtend tot een beetje zomers in de middag",
+    "title": "Weerbericht: Van onstuimig in de ochtend tot een beetje zomers in de middag",
     "subtitle": null,
     "published_at": "2023-08-07T05:28:39+02:00",
-    "updated_at": "2023-08-07T05:28:40+02:00",
+    "updated_at": "2023-08-07T06:12:19+02:00",
     "media_id": "ksgxdg0axbgl",
     "duration": null,
     "canonical_section": {
@@ -64,7 +133,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/binnenland/6275496/weerbericht-van-een-onstuimige-ochtend-tot-een-beetje-zomers-in-de-middag.html",
+    "url": "/binnenland/6275496/weerbericht-van-onstuimig-in-de-ochtend-tot-een-beetje-zomers-in-de-middag.html",
     "open_new_window": false,
     "partner": null
   },
@@ -75,7 +144,7 @@
     "title": "Vijf dagen geen treinen tussen Zwolle en Amersfoort",
     "subtitle": null,
     "published_at": "2023-08-07T05:10:32+02:00",
-    "updated_at": "2023-08-07T05:10:33+02:00",
+    "updated_at": "2023-08-07T06:06:34+02:00",
     "media_id": "4f7x2lzai49p",
     "duration": null,
     "canonical_section": {
@@ -121,7 +190,7 @@
     "title": "René van Kooten speelt Shrek in nieuwe musicalversie",
     "subtitle": null,
     "published_at": "2023-08-07T00:25:03+02:00",
-    "updated_at": "2023-08-07T00:25:04+02:00",
+    "updated_at": "2023-08-07T06:14:50+02:00",
     "media_id": "w8yxjmiaq5p5",
     "duration": null,
     "canonical_section": {
@@ -254,12 +323,12 @@
   },
   {
     "id": 6275474,
-    "slug": "weer-aanval-krimbrug-oliepijpleiding-naar-europa-deels-buiten-werking",
+    "slug": "aanval-krimbrug-oliepijpleiding-naar-europa-deels-buiten-werking",
     "type": "article",
-    "title": "Weer aanval Krimbrug, oliepijpleiding naar Europa deels buiten werking",
+    "title": "Aanval Krimbrug, oliepijpleiding naar Europa deels buiten werking",
     "subtitle": "Overzicht",
     "published_at": "2023-08-06T20:51:34+02:00",
-    "updated_at": "2023-08-07T05:59:46+02:00",
+    "updated_at": "2023-08-07T06:04:23+02:00",
     "media_id": "mk9xebeahauq",
     "duration": null,
     "canonical_section": {
@@ -271,7 +340,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/spanningen-oekraine/6275474/weer-aanval-krimbrug-oliepijpleiding-naar-europa-deels-buiten-werking.html",
+    "url": "/spanningen-oekraine/6275474/aanval-krimbrug-oliepijpleiding-naar-europa-deels-buiten-werking.html",
     "open_new_window": false,
     "partner": null
   },
@@ -305,7 +374,7 @@
     "title": "Van der Poel dook huis in bij pauze WK-wegrit: 'Bedankt dat ik naar de wc mocht'",
     "subtitle": null,
     "published_at": "2023-08-06T20:40:25+02:00",
-    "updated_at": "2023-08-06T23:09:33+02:00",
+    "updated_at": "2023-08-07T06:58:01+02:00",
     "media_id": "88ixfgtazq01",
     "duration": null,
     "canonical_section": {
@@ -617,75 +686,6 @@
       "partner": null
     },
     "url": "/wielrennen/6275462/mathieu-van-der-poel-soleert-naar-historische-wereldtitel-in-bizarre-finale-met-val.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6275460,
-    "slug": "zo-gaat-het-nu-met-baby-die-tijdens-aardbeving-onder-puin-werd-geboren",
-    "type": "video",
-    "title": "Zo gaat het nu met baby die tijdens aardbeving onder puin werd geboren",
-    "subtitle": "Video",
-    "published_at": "2023-08-06T17:19:26+02:00",
-    "updated_at": "2023-08-06T23:06:11+02:00",
-    "media_id": "3hgxtrwahke5",
-    "duration": "1:31",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6275460/zo-gaat-het-nu-met-baby-die-tijdens-aardbeving-onder-puin-werd-geboren.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6275459,
-    "slug": "vs-icoon-rapinoe-neemt-met-gemiste-penalty-afscheid-dit-is-een-enorme-dreun",
-    "type": "article",
-    "title": "VS-icoon Rapinoe neemt met gemiste penalty afscheid: 'Dit is een enorme dreun'",
-    "subtitle": null,
-    "published_at": "2023-08-06T17:08:26+02:00",
-    "updated_at": "2023-08-06T21:10:18+02:00",
-    "media_id": "ih5xrh9ahhd1",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6275459/vs-icoon-rapinoe-neemt-met-gemiste-penalty-afscheid-dit-is-een-enorme-dreun.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6275449,
-    "slug": "weekweerbericht-na-heel-veel-regen-komt-zonneschijn",
-    "type": "article",
-    "title": "Weekweerbericht: Na (héél véél) regen komt zonneschijn",
-    "subtitle": null,
-    "published_at": "2023-08-06T16:22:18+02:00",
-    "updated_at": "2023-08-06T16:23:14+02:00",
-    "media_id": "occx5ynaje69",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6275449/weekweerbericht-na-heel-veel-regen-komt-zonneschijn.html",
     "open_new_window": false,
     "partner": null
   }
