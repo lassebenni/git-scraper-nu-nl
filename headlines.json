@@ -1,12 +1,81 @@
 [
   {
+    "id": 6275868,
+    "slug": "feyenoord-haalt-oude-bekende-nieuwkoop-terug-naar-de-kuip",
+    "type": "article",
+    "title": "Feyenoord haalt oude bekende Nieuwkoop terug naar De Kuip",
+    "subtitle": null,
+    "published_at": "2023-08-10T18:00:13+02:00",
+    "updated_at": "2023-08-10T18:00:58+02:00",
+    "media_id": "vk1x97gaq8c5",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6275868/feyenoord-haalt-oude-bekende-nieuwkoop-terug-naar-de-kuip.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6276013,
+    "slug": "zeldzame-bijrol-nederlandse-vrouwen-bij-wk-tijdrit-wereldtitel-voor-dygert",
+    "type": "article",
+    "title": "Zeldzame bijrol Nederlandse vrouwen bij WK tijdrit, wereldtitel voor Dygert",
+    "subtitle": null,
+    "published_at": "2023-08-10T17:33:34+02:00",
+    "updated_at": "2023-08-10T17:47:54+02:00",
+    "media_id": "z34xcibaupcz",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772339,
+      "slug": "wielrennen",
+      "type": "default",
+      "name": "Wielrennen",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/wielrennen/6276013/zeldzame-bijrol-nederlandse-vrouwen-bij-wk-tijdrit-wereldtitel-voor-dygert.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6275975,
+    "slug": "mboer-vindt-weg-naar-introductieweek-niet-tijd-nodig-om-ze-erbij-te-betrekken",
+    "type": "article",
+    "title": "Mbo'er vindt weg naar introductieweek niet: 'Tijd nodig om ze erbij te betrekken'",
+    "subtitle": null,
+    "published_at": "2023-08-10T17:02:18+02:00",
+    "updated_at": "2023-08-10T17:26:01+02:00",
+    "media_id": "n3nxorhab9c6",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6275975/mboer-vindt-weg-naar-introductieweek-niet-tijd-nodig-om-ze-erbij-te-betrekken.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6276018,
-    "slug": "spanningen-tussen-vs-en-iran-waarom-biden-de-druk-opvoert",
+    "slug": "waarom-de-vs-extra-troepen-en-f-16s-naar-de-perzische-golf-stuurt",
     "type": "video",
-    "title": "Spanningen tussen VS en Iran: waarom Biden de druk opvoert",
+    "title": "Waarom de VS extra troepen en F-16’s naar de Perzische Golf stuurt",
     "subtitle": "Explainer",
     "published_at": "2023-08-10T17:00:24+02:00",
-    "updated_at": "2023-08-10T17:00:25+02:00",
+    "updated_at": "2023-08-10T17:31:48+02:00",
     "media_id": "6kqxt55a2l50",
     "duration": "2:03",
     "canonical_section": {
@@ -18,7 +87,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/algemeen/6276018/spanningen-tussen-vs-en-iran-waarom-biden-de-druk-opvoert.html",
+    "url": "/algemeen/6276018/waarom-de-vs-extra-troepen-en-f-16s-naar-de-perzische-golf-stuurt.html",
     "open_new_window": false,
     "partner": null
   },
@@ -27,9 +96,9 @@
     "slug": "het-wordt-weer-iets-warmer-dit-is-wat-een-weersverandering-met-je-doet",
     "type": "article",
     "title": "Het wordt weer iets warmer: dit is wat een weersverandering met je doet",
-    "subtitle": null,
+    "subtitle": "NU+",
     "published_at": "2023-08-10T16:56:27+02:00",
-    "updated_at": "2023-08-10T16:56:28+02:00",
+    "updated_at": "2023-08-10T17:25:10+02:00",
     "media_id": "b78x891a5we6",
     "duration": null,
     "canonical_section": {
@@ -236,7 +305,7 @@
     "title": "Beroemde ijsbaan in Noors Hamar wordt onder water gezet vanwege noodweer",
     "subtitle": null,
     "published_at": "2023-08-10T14:09:59+02:00",
-    "updated_at": "2023-08-10T14:17:36+02:00",
+    "updated_at": "2023-08-10T17:45:49+02:00",
     "media_id": "5ztx0bqa2lbs",
     "duration": null,
     "canonical_section": {
@@ -604,7 +673,7 @@
     "title": "Het succes van het stoppende Dertigers: 'Ik zie het als een Snickers'",
     "subtitle": "NU+",
     "published_at": "2023-08-10T11:32:08+02:00",
-    "updated_at": "2023-08-10T12:25:36+02:00",
+    "updated_at": "2023-08-10T17:26:18+02:00",
     "media_id": "2mmx8opaiavw",
     "duration": null,
     "canonical_section": {
@@ -617,75 +686,6 @@
       "partner": null
     },
     "url": "/film/6275740/het-succes-van-het-stoppende-dertigers-ik-zie-het-als-een-snickers.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6275970,
-    "slug": "ns-blijft-verlies-lijden-doordat-treinen-leger-zijn-dan-voor-corona",
-    "type": "article",
-    "title": "NS blijft verlies lijden doordat treinen leger zijn dan voor corona",
-    "subtitle": null,
-    "published_at": "2023-08-10T11:29:03+02:00",
-    "updated_at": "2023-08-10T11:58:04+02:00",
-    "media_id": "weex1cga6pcv",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6275970/ns-blijft-verlies-lijden-doordat-treinen-leger-zijn-dan-voor-corona.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6275972,
-    "slug": "mahi-heeft-geen-perspectief-bij-fc-utrecht-en-vertrekt-naar-de-graafschap",
-    "type": "article",
-    "title": "Mahi heeft geen perspectief bij FC Utrecht en vertrekt naar De Graafschap",
-    "subtitle": null,
-    "published_at": "2023-08-10T11:24:25+02:00",
-    "updated_at": "2023-08-10T11:48:55+02:00",
-    "media_id": "hctx68oa6l6x",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6275972/mahi-heeft-geen-perspectief-bij-fc-utrecht-en-vertrekt-naar-de-graafschap.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6275966,
-    "slug": "mr-probz-gaat-in-hoger-beroep-in-zaak-tegen-platenmaatschappij-sony-music",
-    "type": "article",
-    "title": "Mr. Probz gaat in hoger beroep in zaak tegen platenmaatschappij Sony Music",
-    "subtitle": null,
-    "published_at": "2023-08-10T11:20:47+02:00",
-    "updated_at": "2023-08-10T11:20:48+02:00",
-    "media_id": "0bix2l2agohh",
-    "duration": null,
-    "canonical_section": {
-      "id": 868281,
-      "slug": "muziek",
-      "type": "default",
-      "name": "Muziek",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/muziek/6275966/mr-probz-gaat-in-hoger-beroep-in-zaak-tegen-platenmaatschappij-sony-music.html",
     "open_new_window": false,
     "partner": null
   }
