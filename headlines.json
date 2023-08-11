@@ -1,12 +1,104 @@
 [
   {
+    "id": 6276024,
+    "slug": "stelling-met-zulke-winsten-voor-de-banken-moeten-de-spaarrentes-omhoog",
+    "type": "article",
+    "title": "Stelling: 'Met zulke winsten voor de banken moeten de spaarrentes omhoog'",
+    "subtitle": null,
+    "published_at": "2023-08-11T07:01:21+02:00",
+    "updated_at": "2023-08-11T07:01:22+02:00",
+    "media_id": "z15xb3maec3d",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779134,
+      "slug": "stelling",
+      "type": "default",
+      "name": "Stelling en Praat Mee",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/stelling/6276024/stelling-met-zulke-winsten-voor-de-banken-moeten-de-spaarrentes-omhoog.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6276025,
+    "slug": "megapopulaire-energiedrank-prime-is-verboden-zo-zit-dat",
+    "type": "video",
+    "title": "Megapopulaire energiedrank PRIME is verboden: zo zit dat",
+    "subtitle": "Explainer",
+    "published_at": "2023-08-11T06:31:42+02:00",
+    "updated_at": "2023-08-11T06:31:43+02:00",
+    "media_id": "059x1r4an2gt",
+    "duration": "1:50",
+    "canonical_section": {
+      "id": 100,
+      "slug": "algemeen",
+      "type": "default",
+      "name": "Algemeen",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/algemeen/6276025/megapopulaire-energiedrank-prime-is-verboden-zo-zit-dat.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6276065,
+    "slug": "west-afrika-brengt-troepen-in-paraatheid-voor-mogelijk-ingrijpen-in-niger",
+    "type": "article",
+    "title": "West-Afrika brengt troepen in paraatheid voor mogelijk ingrijpen in Niger",
+    "subtitle": null,
+    "published_at": "2023-08-11T06:29:08+02:00",
+    "updated_at": "2023-08-11T06:29:26+02:00",
+    "media_id": "6uixdwjasrqq",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6276065/west-afrika-brengt-troepen-in-paraatheid-voor-mogelijk-ingrijpen-in-niger.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6276064,
+    "slug": "jonker-en-spitse-ondanks-uitschakeling-trots-op-oranje-staan-weer-aan-de-top",
+    "type": "article",
+    "title": "Jonker en Spitse ondanks uitschakeling trots op Oranje: 'Staan weer aan de top'",
+    "subtitle": null,
+    "published_at": "2023-08-11T06:19:16+02:00",
+    "updated_at": "2023-08-11T06:50:52+02:00",
+    "media_id": "2pbxuw1a859s",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6276064/jonker-en-spitse-ondanks-uitschakeling-trots-op-oranje-staan-weer-aan-de-top.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6276063,
     "slug": "weerbericht-haal-de-zonnebrand-weer-uit-de-kast-want-het-wordt-zomers",
     "type": "article",
-    "title": "Weerbericht: Haal de zonnebrand weer uit de kast want het wordt zomers",
+    "title": "Weerbericht: Haal de zonnebrand weer uit de kast, want het wordt zomers",
     "subtitle": null,
     "published_at": "2023-08-11T05:44:50+02:00",
-    "updated_at": "2023-08-11T05:44:51+02:00",
+    "updated_at": "2023-08-11T06:38:30+02:00",
     "media_id": "ojtxip1a60nx",
     "duration": null,
     "canonical_section": {
@@ -29,8 +121,8 @@
     "title": "Oranje strandt in kwartfinales WK na meeslepend gevecht met Spanje",
     "subtitle": null,
     "published_at": "2023-08-11T05:44:16+02:00",
-    "updated_at": "2023-08-11T05:58:39+02:00",
-    "media_id": "bprxy3ra0v7o",
+    "updated_at": "2023-08-11T06:59:20+02:00",
+    "media_id": "c2dx44lagenp",
     "duration": null,
     "canonical_section": {
       "id": 1779272,
@@ -98,7 +190,7 @@
     "title": "Dodental door natuurbrand in toeristische stad in Hawaï blijft oplopen",
     "subtitle": null,
     "published_at": "2023-08-11T05:20:01+02:00",
-    "updated_at": "2023-08-11T05:20:02+02:00",
+    "updated_at": "2023-08-11T06:30:53+02:00",
     "media_id": "fvfxc4va5l39",
     "duration": null,
     "canonical_section": {
@@ -121,7 +213,7 @@
     "title": "Jullie vragen over extreem weer: 'Welke regio's lopen weinig risico?'",
     "subtitle": "NU+",
     "published_at": "2023-08-11T05:02:04+02:00",
-    "updated_at": "2023-08-11T05:02:05+02:00",
+    "updated_at": "2023-08-11T06:45:51+02:00",
     "media_id": "f1fxms1amh5v",
     "duration": null,
     "canonical_section": {
@@ -139,12 +231,12 @@
   },
   {
     "id": 6276010,
-    "slug": "hogere-spaarrente-zoek-het-over-de-grens-of-zet-je-geld-vast",
+    "slug": "magere-spaarrente-terwijl-banken-megawinsten-boeken-zo-krijg-je-meer",
     "type": "article",
-    "title": "Hogere spaarrente? Zoek het over de grens of zet je geld vast",
+    "title": "Magere spaarrente terwijl banken megawinsten boeken? Zo krijg je meer",
     "subtitle": "NU+",
     "published_at": "2023-08-11T05:01:22+02:00",
-    "updated_at": "2023-08-11T05:08:15+02:00",
+    "updated_at": "2023-08-11T07:00:42+02:00",
     "media_id": "24qxwd9aifys",
     "duration": null,
     "canonical_section": {
@@ -156,7 +248,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/economie/6276010/hogere-spaarrente-zoek-het-over-de-grens-of-zet-je-geld-vast.html",
+    "url": "/economie/6276010/magere-spaarrente-terwijl-banken-megawinsten-boeken-zo-krijg-je-meer.html",
     "open_new_window": false,
     "partner": null
   },
@@ -231,12 +323,12 @@
   },
   {
     "id": 6276057,
-    "slug": "reacties-op-de-uitschakeling-van-oranje-in-de-kwartfinales-van-het-wk",
+    "slug": "lees-terug-hoe-oranje-verloor-van-spanje-in-een-spannende-kwartfinale",
     "type": "article",
-    "title": "Reacties op de uitschakeling van Oranje in de kwartfinales van het WK",
+    "title": "Lees terug hoe Oranje verloor van Spanje in een spannende kwartfinale",
     "subtitle": "Liveblog",
     "published_at": "2023-08-11T01:42:55+02:00",
-    "updated_at": "2023-08-11T05:48:46+02:00",
+    "updated_at": "2023-08-11T06:39:38+02:00",
     "media_id": "ishxnqual2ch",
     "duration": null,
     "canonical_section": {
@@ -248,7 +340,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/wk-voetbal-2023/6276057/reacties-op-de-uitschakeling-van-oranje-in-de-kwartfinales-van-het-wk.html",
+    "url": "/wk-voetbal-2023/6276057/lees-terug-hoe-oranje-verloor-van-spanje-in-een-spannende-kwartfinale.html",
     "open_new_window": false,
     "partner": null
   },
@@ -397,7 +489,7 @@
     "title": "FC Twente verslaat Riga en is dicht bij tweeluik met Fenerbahçe",
     "subtitle": null,
     "published_at": "2023-08-10T21:53:35+02:00",
-    "updated_at": "2023-08-10T23:46:06+02:00",
+    "updated_at": "2023-08-11T06:33:26+02:00",
     "media_id": "ezuxbuqai1rh",
     "duration": null,
     "canonical_section": {
@@ -594,98 +686,6 @@
       "partner": null
     },
     "url": "/wielrennen/6276037/pieterse-moet-genoegen-nemen-met-wk-zilver-op-shortrace-mountainbike.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6276020,
-    "slug": "volop-extreem-weer-is-het-tij-te-keren-of-moeten-we-er-maar-aan-wennen",
-    "type": "article",
-    "title": "Volop extreem weer: is het tij te keren of moeten we er maar aan wennen?",
-    "subtitle": "NU+",
-    "published_at": "2023-08-10T20:01:27+02:00",
-    "updated_at": "2023-08-10T21:43:49+02:00",
-    "media_id": "l08xhi5at4l0",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772754,
-      "slug": "klimaat",
-      "type": "default",
-      "name": "Klimaat",
-      "style": "nuzakelijk",
-      "media_id": "kf4x3b2agsxg",
-      "partner": null
-    },
-    "url": "/klimaat/6276020/volop-extreem-weer-is-het-tij-te-keren-of-moeten-we-er-maar-aan-wennen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6275856,
-    "slug": "psv-haalt-met-bayern-middenvelder-tillman-vervanger-van-xavi-simons",
-    "type": "article",
-    "title": "PSV haalt met Bayern-middenvelder Tillman vervanger van Xavi Simons",
-    "subtitle": null,
-    "published_at": "2023-08-10T19:26:02+02:00",
-    "updated_at": "2023-08-10T20:15:13+02:00",
-    "media_id": "wcrxh7la35nt",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6275856/psv-haalt-met-bayern-middenvelder-tillman-vervanger-van-xavi-simons.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6276035,
-    "slug": "markus-en-vollering-staan-voor-raadsel-na-matige-tijdrit-geen-idee-wat-er-misging",
-    "type": "article",
-    "title": "Markus en Vollering staan voor raadsel na matige tijdrit: 'Geen idee wat er misging'",
-    "subtitle": null,
-    "published_at": "2023-08-10T19:14:40+02:00",
-    "updated_at": "2023-08-10T19:48:01+02:00",
-    "media_id": "g3pxy0oaaw76",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772339,
-      "slug": "wielrennen",
-      "type": "default",
-      "name": "Wielrennen",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/wielrennen/6276035/markus-en-vollering-staan-voor-raadsel-na-matige-tijdrit-geen-idee-wat-er-misging.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6276033,
-    "slug": "marieke-elsinga-kort-terug-in-rtl-boulevard-wegens-kniebreuk-daphne-bunskoek",
-    "type": "article",
-    "title": "Marieke Elsinga kort terug in RTL Boulevard wegens kniebreuk Daphne Bunskoek",
-    "subtitle": null,
-    "published_at": "2023-08-10T18:48:28+02:00",
-    "updated_at": "2023-08-10T20:23:20+02:00",
-    "media_id": "bmyxwgmakes3",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771675,
-      "slug": "media",
-      "type": "default",
-      "name": "Media",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/media/6276033/marieke-elsinga-kort-terug-in-rtl-boulevard-wegens-kniebreuk-daphne-bunskoek.html",
     "open_new_window": false,
     "partner": null
   }
