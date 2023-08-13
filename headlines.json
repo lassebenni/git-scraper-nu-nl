@@ -1,5 +1,51 @@
 [
   {
+    "id": 6276400,
+    "slug": "van-vleuten-neemt-zwaaiend-afscheid-van-wk-wielrennen-voelde-als-ereronde",
+    "type": "article",
+    "title": "Van Vleuten neemt zwaaiend afscheid van WK wielrennen: 'Voelde als ereronde'",
+    "subtitle": null,
+    "published_at": "2023-08-13T21:52:15+02:00",
+    "updated_at": "2023-08-13T21:52:17+02:00",
+    "media_id": "fl6x7rva33tb",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772339,
+      "slug": "wielrennen",
+      "type": "default",
+      "name": "Wielrennen",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/wielrennen/6276400/van-vleuten-neemt-zwaaiend-afscheid-van-wk-wielrennen-voelde-als-ereronde.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6276401,
+    "slug": "ntr-schrapt-aflevering-van-kinderserie-met-thijs-romer",
+    "type": "article",
+    "title": "NTR schrapt aflevering van kinderserie met Thijs Römer",
+    "subtitle": null,
+    "published_at": "2023-08-13T21:32:46+02:00",
+    "updated_at": "2023-08-13T21:34:21+02:00",
+    "media_id": "lafx9duaserd",
+    "duration": null,
+    "canonical_section": {
+      "id": 125,
+      "slug": "achterklap",
+      "type": "default",
+      "name": "Achterklap",
+      "style": "nuentertainment",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/achterklap/6276401/ntr-schrapt-aflevering-van-kinderserie-met-thijs-romer.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6276120,
     "slug": "review-samsung-galaxy-z-flip-5-is-de-beste-vouwtelefoon-van-het-moment",
     "type": "article",
@@ -236,7 +282,7 @@
     "title": "Vollering verliest strijd van ploeggenoot Kopecky en eindigt wegrit met WK-zilver",
     "subtitle": null,
     "published_at": "2023-08-13T17:12:24+02:00",
-    "updated_at": "2023-08-13T21:01:16+02:00",
+    "updated_at": "2023-08-13T21:52:56+02:00",
     "media_id": "wmyxoujaml6u",
     "duration": null,
     "canonical_section": {
@@ -305,7 +351,7 @@
     "title": "Man met metaaldetector vindt oude bom op strand in Katwijk",
     "subtitle": null,
     "published_at": "2023-08-13T16:29:44+02:00",
-    "updated_at": "2023-08-13T16:34:16+02:00",
+    "updated_at": "2023-08-13T21:10:03+02:00",
     "media_id": "hrbxbmuafb4u",
     "duration": null,
     "canonical_section": {
@@ -374,7 +420,7 @@
     "title": "Vliegtuig Lionel Richie kan niet landen, zanger mist eigen concert",
     "subtitle": null,
     "published_at": "2023-08-13T16:04:43+02:00",
-    "updated_at": "2023-08-13T16:39:19+02:00",
+    "updated_at": "2023-08-13T21:09:32+02:00",
     "media_id": "mtpxuquawfrx",
     "duration": null,
     "canonical_section": {
@@ -443,7 +489,7 @@
     "title": "Russen betalen Wagner mogelijk niet meer, doden bij raketaanval",
     "subtitle": "Overzicht",
     "published_at": "2023-08-13T15:18:58+02:00",
-    "updated_at": "2023-08-13T17:41:24+02:00",
+    "updated_at": "2023-08-13T21:43:19+02:00",
     "media_id": "dcgxpf0avjby",
     "duration": null,
     "canonical_section": {
@@ -640,52 +686,6 @@
       "partner": null
     },
     "url": "/voetbal/6276369/mancini-neemt-verrassend-ontslag-als-bondscoach-van-europees-kampioen-italie.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6276370,
-    "slug": "brandweer-redt-in-zonnepanelen-verstrikte-kitten",
-    "type": "video",
-    "title": "Brandweer redt in zonnepanelen verstrikte kitten",
-    "subtitle": "Video",
-    "published_at": "2023-08-13T14:09:23+02:00",
-    "updated_at": "2023-08-13T14:11:55+02:00",
-    "media_id": "3snxxqeag0mk",
-    "duration": "0:44",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6276370/brandweer-redt-in-zonnepanelen-verstrikte-kitten.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6276355,
-    "slug": "feyenoord-begint-met-geertruida-timber-en-nieuwkoop-aan-eredivisie-duel-met-fortuna",
-    "type": "article",
-    "title": "Feyenoord begint met Geertruida, Timber en Nieuwkoop aan Eredivisie-duel met Fortuna",
-    "subtitle": null,
-    "published_at": "2023-08-13T13:30:59+02:00",
-    "updated_at": "2023-08-13T14:30:26+02:00",
-    "media_id": "mprxxbpavjtc",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6276355/feyenoord-begint-met-geertruida-timber-en-nieuwkoop-aan-eredivisie-duel-met-fortuna.html",
     "open_new_window": false,
     "partner": null
   }
