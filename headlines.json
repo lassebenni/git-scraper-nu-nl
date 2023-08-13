@@ -1,5 +1,51 @@
 [
   {
+    "id": 6276405,
+    "slug": "barca-laat-bij-getafe-punten-liggen-in-wedstrijd-vol-overtredingen-en-rode-kaarten",
+    "type": "article",
+    "title": "Barça laat bij Getafe punten liggen in wedstrijd vol overtredingen en rode kaarten",
+    "subtitle": null,
+    "published_at": "2023-08-13T23:51:28+02:00",
+    "updated_at": "2023-08-13T23:56:27+02:00",
+    "media_id": "6fixyp3a2pq2",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6276405/barca-laat-bij-getafe-punten-liggen-in-wedstrijd-vol-overtredingen-en-rode-kaarten.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6276404,
+    "slug": "tadic-begint-in-turkije-met-assist-en-gemiste-penalty-zege-voor-patrick-kluivert",
+    "type": "article",
+    "title": "Tadic begint in Turkije met assist én gemiste penalty, zege voor Patrick Kluivert",
+    "subtitle": null,
+    "published_at": "2023-08-13T23:01:30+02:00",
+    "updated_at": "2023-08-13T23:10:23+02:00",
+    "media_id": "m0hxsjjabq1i",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6276404/tadic-begint-in-turkije-met-assist-en-gemiste-penalty-zege-voor-patrick-kluivert.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6276403,
     "slug": "hawaianen-lossen-catamaran-met-hulpgoederen-na-dodelijke-bosbranden",
     "type": "video",
@@ -75,19 +121,19 @@
     "title": "NTR schrapt aflevering van kinderserie met Thijs Römer",
     "subtitle": null,
     "published_at": "2023-08-13T21:32:46+02:00",
-    "updated_at": "2023-08-13T21:34:21+02:00",
+    "updated_at": "2023-08-13T23:31:17+02:00",
     "media_id": "lafx9duaserd",
     "duration": null,
     "canonical_section": {
-      "id": 125,
-      "slug": "achterklap",
+      "id": 1771675,
+      "slug": "media",
       "type": "default",
-      "name": "Achterklap",
-      "style": "nuentertainment",
+      "name": "Media",
+      "style": "nuuit",
       "media_id": null,
       "partner": null
     },
-    "url": "/achterklap/6276401/ntr-schrapt-aflevering-van-kinderserie-met-thijs-romer.html",
+    "url": "/media/6276401/ntr-schrapt-aflevering-van-kinderserie-met-thijs-romer.html",
     "open_new_window": false,
     "partner": null
   },
@@ -640,52 +686,6 @@
       "partner": null
     },
     "url": "/binnenland/6276374/frontale-botsing-bij-het-overijsselse-goor-eist-een-tweede-leven.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6276372,
-    "slug": "dodental-na-modderstroom-in-china-loopt-verder-op-nu-21-slachtoffers",
-    "type": "article",
-    "title": "Dodental na modderstroom in China loopt verder op: nu 21 slachtoffers",
-    "subtitle": null,
-    "published_at": "2023-08-13T14:22:27+02:00",
-    "updated_at": "2023-08-13T15:01:39+02:00",
-    "media_id": "g88xuksav67j",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6276372/dodental-na-modderstroom-in-china-loopt-verder-op-nu-21-slachtoffers.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6276373,
-    "slug": "excelsior-wint-in-spektakelstuk-van-nec-tijdens-wonderlijk-debutantenbal",
-    "type": "article",
-    "title": "Excelsior wint in spektakelstuk van NEC tijdens wonderlijk debutantenbal",
-    "subtitle": null,
-    "published_at": "2023-08-13T14:21:30+02:00",
-    "updated_at": "2023-08-13T18:59:54+02:00",
-    "media_id": "cd4xn6hasqb3",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6276373/excelsior-wint-in-spektakelstuk-van-nec-tijdens-wonderlijk-debutantenbal.html",
     "open_new_window": false,
     "partner": null
   }
