@@ -1,12 +1,127 @@
 [
   {
+    "id": 6276696,
+    "slug": "wiegman-schrijft-geschiedenis-door-wk-finale-te-halen-met-twee-landen",
+    "type": "article",
+    "title": "Wiegman schrijft geschiedenis door WK-finale te halen met twee landen",
+    "subtitle": null,
+    "published_at": "2023-08-16T13:54:50+02:00",
+    "updated_at": "2023-08-16T13:56:19+02:00",
+    "media_id": "4a3xfakanot8",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6276696/wiegman-schrijft-geschiedenis-door-wk-finale-te-halen-met-twee-landen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6276752,
+    "slug": "wiegman-dompelt-australie-in-rouw-met-engeland-en-haalt-historische-wk-finale",
+    "type": "article",
+    "title": "Wiegman dompelt Australië in rouw met Engeland en haalt historische WK-finale",
+    "subtitle": null,
+    "published_at": "2023-08-16T13:53:52+02:00",
+    "updated_at": "2023-08-16T13:57:03+02:00",
+    "media_id": "mfjxlccarufm",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779272,
+      "slug": "wk-voetbal-2023",
+      "type": "default",
+      "name": "WK voetbal 2023",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/wk-voetbal-2023/6276752/wiegman-dompelt-australie-in-rouw-met-engeland-en-haalt-historische-wk-finale.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6276746,
+    "slug": "vrachtschip-maakt-voor-het-eerst-sinds-oorlog-gebruik-van-oekraiense-vaarroute",
+    "type": "article",
+    "title": "Vrachtschip maakt voor het eerst sinds oorlog gebruik van Oekraïense vaarroute",
+    "subtitle": null,
+    "published_at": "2023-08-16T13:40:01+02:00",
+    "updated_at": "2023-08-16T13:43:12+02:00",
+    "media_id": "60rx2kzak1sw",
+    "duration": null,
+    "canonical_section": {
+      "id": 1778980,
+      "slug": "spanningen-oekraine",
+      "type": "default",
+      "name": "Oorlog in Oekraïne",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/spanningen-oekraine/6276746/vrachtschip-maakt-voor-het-eerst-sinds-oorlog-gebruik-van-oekraiense-vaarroute.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6276745,
+    "slug": "ajax-coach-steijn-spant-kort-geding-aan-om-uitspraken-van-hooijdonk",
+    "type": "article",
+    "title": "Ajax-coach Steijn spant kort geding aan om uitspraken Van Hooijdonk",
+    "subtitle": null,
+    "published_at": "2023-08-16T13:31:23+02:00",
+    "updated_at": "2023-08-16T13:53:13+02:00",
+    "media_id": "m61xxw8a2war",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6276745/ajax-coach-steijn-spant-kort-geding-aan-om-uitspraken-van-hooijdonk.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6276747,
+    "slug": "bosbrand-teistert-kurkdroog-tenerife",
+    "type": "video",
+    "title": "Bosbrand teistert kurkdroog Tenerife",
+    "subtitle": "Video",
+    "published_at": "2023-08-16T13:26:29+02:00",
+    "updated_at": "2023-08-16T13:36:00+02:00",
+    "media_id": "9q4x0gxagtqy",
+    "duration": "0:32",
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6276747/bosbrand-teistert-kurkdroog-tenerife.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6276741,
     "slug": "x-twitter-vertraagde-de-toegang-tot-facebook-instagram-en-nieuwssites",
     "type": "article",
     "title": "X (Twitter) vertraagde de toegang tot Facebook, Instagram en nieuwssites",
     "subtitle": null,
     "published_at": "2023-08-16T12:56:28+02:00",
-    "updated_at": "2023-08-16T12:56:30+02:00",
+    "updated_at": "2023-08-16T13:57:25+02:00",
     "media_id": "h73xynoa10su",
     "duration": null,
     "canonical_section": {
@@ -29,7 +144,7 @@
     "title": "Meerdere dorpen op Tenerife ontruimd vanwege grote natuurbrand",
     "subtitle": null,
     "published_at": "2023-08-16T12:51:08+02:00",
-    "updated_at": "2023-08-16T12:51:09+02:00",
+    "updated_at": "2023-08-16T13:12:09+02:00",
     "media_id": "qnlxae2a6xen",
     "duration": null,
     "canonical_section": {
@@ -213,7 +328,7 @@
     "title": "Terwijl onze economie krimpt, groeit die in andere eurolanden wel",
     "subtitle": null,
     "published_at": "2023-08-16T12:09:19+02:00",
-    "updated_at": "2023-08-16T12:09:20+02:00",
+    "updated_at": "2023-08-16T13:47:28+02:00",
     "media_id": "8trxx4oaocl1",
     "duration": null,
     "canonical_section": {
@@ -300,13 +415,13 @@
   },
   {
     "id": 6276727,
-    "slug": "engeland-van-wiegman-leidt-tegen-australie-in-halve-finale-wk",
+    "slug": "reacties-op-historische-finaleplek-van-wiegman-met-engeland",
     "type": "article",
-    "title": "Engeland van Wiegman leidt tegen Australië in halve finale WK",
+    "title": "Reacties op historische finaleplek van Wiegman met Engeland",
     "subtitle": "Liveblog",
     "published_at": "2023-08-16T11:39:21+02:00",
-    "updated_at": "2023-08-16T12:53:22+02:00",
-    "media_id": "5r0x8j9auzo4",
+    "updated_at": "2023-08-16T13:55:10+02:00",
+    "media_id": "ba9xpi4avwop",
     "duration": null,
     "canonical_section": {
       "id": 1772338,
@@ -317,7 +432,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6276727/engeland-van-wiegman-leidt-tegen-australie-in-halve-finale-wk.html",
+    "url": "/voetbal/6276727/reacties-op-historische-finaleplek-van-wiegman-met-engeland.html",
     "open_new_window": false,
     "partner": null
   },
@@ -443,7 +558,7 @@
     "title": "CO2-opslag Rotterdamse haven mag doorgaan, klimaatdoelen niet in gevaar",
     "subtitle": null,
     "published_at": "2023-08-16T10:14:06+02:00",
-    "updated_at": "2023-08-16T12:01:19+02:00",
+    "updated_at": "2023-08-16T13:42:07+02:00",
     "media_id": "8bexu4sa96cv",
     "duration": null,
     "canonical_section": {
@@ -512,7 +627,7 @@
     "title": "Gebruik van TweetDeck (X Pro) kost je voortaan ruim 100 euro per jaar",
     "subtitle": null,
     "published_at": "2023-08-16T09:22:28+02:00",
-    "updated_at": "2023-08-16T09:25:26+02:00",
+    "updated_at": "2023-08-16T13:43:48+02:00",
     "media_id": "lidxnrpaaovn",
     "duration": null,
     "canonical_section": {
@@ -571,121 +686,6 @@
       "partner": null
     },
     "url": "/videos/6276694/speurhonden-zoeken-naar-vermisten-onder-puin-op-hawai.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6276689,
-    "slug": "ruim-230-bosbranden-in-noord-canada-duizenden-per-vliegtuig-geevacueerd",
-    "type": "article",
-    "title": "Ruim 230 bosbranden in Noord-Canada, duizenden per vliegtuig geëvacueerd",
-    "subtitle": null,
-    "published_at": "2023-08-16T08:44:54+02:00",
-    "updated_at": "2023-08-16T09:48:58+02:00",
-    "media_id": "yuux670a63qo",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6276689/ruim-230-bosbranden-in-noord-canada-duizenden-per-vliegtuig-geevacueerd.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6276691,
-    "slug": "britse-inflatie-zakt-iets-maar-is-nog-steeds-veel-te-hoog",
-    "type": "article",
-    "title": "Britse inflatie zakt iets, maar is nog steeds veel te hoog",
-    "subtitle": null,
-    "published_at": "2023-08-16T08:32:00+02:00",
-    "updated_at": "2023-08-16T09:02:34+02:00",
-    "media_id": "rctxnqxa0t2m",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6276691/britse-inflatie-zakt-iets-maar-is-nog-steeds-veel-te-hoog.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6276688,
-    "slug": "zoektocht-naar-personeel-blijft-pittig-arbeidsmarkt-nog-zeer-krap",
-    "type": "article",
-    "title": "Zoektocht naar personeel blijft pittig: arbeidsmarkt nog zeer krap",
-    "subtitle": null,
-    "published_at": "2023-08-16T07:52:38+02:00",
-    "updated_at": "2023-08-16T08:40:15+02:00",
-    "media_id": "ntdxfwha8uub",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6276688/zoektocht-naar-personeel-blijft-pittig-arbeidsmarkt-nog-zeer-krap.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6276687,
-    "slug": "hans-klok-arriveert-te-vroeg-met-circus-op-texel-en-wacht-mogelijk-forse-boete",
-    "type": "article",
-    "title": "Hans Klok arriveert te vroeg met circus op Texel en wacht mogelijk forse boete",
-    "subtitle": null,
-    "published_at": "2023-08-16T07:45:30+02:00",
-    "updated_at": "2023-08-16T10:43:01+02:00",
-    "media_id": "b5yxdddaa7qi",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772075,
-      "slug": "cultuur-overig",
-      "type": "default",
-      "name": "Boek & Cultuur",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/cultuur-overig/6276687/hans-klok-arriveert-te-vroeg-met-circus-op-texel-en-wacht-mogelijk-forse-boete.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6276686,
-    "slug": "identificatie-slachtoffers-hawai-is-worsteling-slechts-5-van-ruim-100-doden-bekend",
-    "type": "article",
-    "title": "Identificatie slachtoffers Hawaï is worsteling: slechts 5 van ruim 100 doden bekend",
-    "subtitle": null,
-    "published_at": "2023-08-16T07:40:09+02:00",
-    "updated_at": "2023-08-16T10:34:37+02:00",
-    "media_id": "txlxf4matbs3",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6276686/identificatie-slachtoffers-hawai-is-worsteling-slechts-5-van-ruim-100-doden-bekend.html",
     "open_new_window": false,
     "partner": null
   }
