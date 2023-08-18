@@ -1,5 +1,51 @@
 [
   {
+    "id": 6277107,
+    "slug": "hangbrug-in-indonesie-stort-in-tijdens-festival",
+    "type": "video",
+    "title": "Hangbrug in Indonesië stort in tijdens festival",
+    "subtitle": "Video",
+    "published_at": "2023-08-18T19:58:32+02:00",
+    "updated_at": "2023-08-18T19:59:14+02:00",
+    "media_id": "zpbxa4sa49q7",
+    "duration": "0:42",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6277107/hangbrug-in-indonesie-stort-in-tijdens-festival.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6277106,
+    "slug": "nederlander-zit-in-belgie-vast-op-verdenking-van-moordpoging-op-zijn-vader",
+    "type": "article",
+    "title": "Nederlander zit in België vast op verdenking van moordpoging op zijn vader",
+    "subtitle": null,
+    "published_at": "2023-08-18T19:58:17+02:00",
+    "updated_at": "2023-08-18T19:58:18+02:00",
+    "media_id": "vnlxhq5au2qq",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6277106/nederlander-zit-in-belgie-vast-op-verdenking-van-moordpoging-op-zijn-vader.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6277104,
     "slug": "steijn-kiest-weer-voor-gorter-bij-ajax-kleine-dingen-vallen-in-zijn-voordeel",
     "type": "article",
@@ -75,7 +121,7 @@
     "title": "Slob vervolgt gesprekken coalitie Den Haag met maar liefst negen partijen",
     "subtitle": null,
     "published_at": "2023-08-18T17:55:00+02:00",
-    "updated_at": "2023-08-18T17:55:02+02:00",
+    "updated_at": "2023-08-18T19:09:02+02:00",
     "media_id": "fkbxl45ad6r1",
     "duration": null,
     "canonical_section": {
@@ -640,52 +686,6 @@
       "partner": null
     },
     "url": "/voetbal/6277060/noodverordening-bij-telstar-cambuur-uit-vrees-voor-confrontatie-tussen-fans.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6277059,
-    "slug": "fc-twente-legt-28-stadionverboden-op-na-rellen-rond-wedstrijd-tegen-hammarby",
-    "type": "article",
-    "title": "FC Twente legt 28 stadionverboden op na rellen rond wedstrijd tegen Hammarby",
-    "subtitle": null,
-    "published_at": "2023-08-18T14:35:21+02:00",
-    "updated_at": "2023-08-18T16:28:30+02:00",
-    "media_id": "gnhxkczarnce",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6277059/fc-twente-legt-28-stadionverboden-op-na-rellen-rond-wedstrijd-tegen-hammarby.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6277058,
-    "slug": "vliegtuigmotor-spuwt-vlammen-vlak-na-opstijgen-in-vs",
-    "type": "video",
-    "title": "Vliegtuigmotor spuwt vlammen vlak na opstijgen in VS",
-    "subtitle": "Video",
-    "published_at": "2023-08-18T14:32:43+02:00",
-    "updated_at": "2023-08-18T14:32:44+02:00",
-    "media_id": "46ex2gpa5znm",
-    "duration": "0:50",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6277058/vliegtuigmotor-spuwt-vlammen-vlak-na-opstijgen-in-vs.html",
     "open_new_window": false,
     "partner": null
   }
