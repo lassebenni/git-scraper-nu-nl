@@ -1,5 +1,28 @@
 [
   {
+    "id": 6277130,
+    "slug": "weerbericht-broeierige-dag-met-zomerse-temperaturen-en-in-de-middag-veel-zon",
+    "type": "article",
+    "title": "Weerbericht: Broeierige dag met zomerse temperaturen en in de middag veel zon",
+    "subtitle": null,
+    "published_at": "2023-08-19T06:03:41+02:00",
+    "updated_at": "2023-08-19T06:19:08+02:00",
+    "media_id": "q3oxi7fasl3i",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779283,
+      "slug": "weerbericht",
+      "type": "default",
+      "name": "Weerbericht",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/weerbericht/6277130/weerbericht-broeierige-dag-met-zomerse-temperaturen-en-in-de-middag-veel-zon.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6276770,
     "slug": "hoe-sla-je-het-best-een-mug-dood",
     "type": "video",
@@ -663,29 +686,6 @@
       "partner": null
     },
     "url": "/wielrennen/6277093/dreun-voor-veldrijder-aerts-belg-blijft-twee-jaar-geschorst-na-positieve-test.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6277088,
-    "slug": "zeilsters-van-aanholt-en-duetz-veroveren-wk-zilver-en-olympisch-ticket",
-    "type": "article",
-    "title": "Zeilsters Van Aanholt en Duetz veroveren WK-zilver en olympisch ticket",
-    "subtitle": null,
-    "published_at": "2023-08-18T17:44:07+02:00",
-    "updated_at": "2023-08-18T17:44:09+02:00",
-    "media_id": "ml5xr4ga4rwa",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772456,
-      "slug": "sport-overig",
-      "type": "default",
-      "name": "Sport Overig",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/sport-overig/6277088/zeilsters-van-aanholt-en-duetz-veroveren-wk-zilver-en-olympisch-ticket.html",
     "open_new_window": false,
     "partner": null
   }
