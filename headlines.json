@@ -1,5 +1,74 @@
 [
   {
+    "id": 6273212,
+    "slug": "stemmenkanon-pieter-omtzigt-vaart-ook-met-nieuwe-partij-zijn-eigen-koers",
+    "type": "article",
+    "title": "'Stemmenkanon' Pieter Omtzigt vaart ook met nieuwe partij zijn eigen koers",
+    "subtitle": null,
+    "published_at": "2023-08-20T22:16:01+02:00",
+    "updated_at": "2023-08-20T22:58:33+02:00",
+    "media_id": "56oxl3yavv3m",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771437,
+      "slug": "politiek",
+      "type": "default",
+      "name": "Politiek",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/politiek/6273212/stemmenkanon-pieter-omtzigt-vaart-ook-met-nieuwe-partij-zijn-eigen-koers.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6277312,
+    "slug": "pieter-omtzigt-richt-eigen-partij-op-en-doet-mee-aan-verkiezingen",
+    "type": "article",
+    "title": "Pieter Omtzigt richt eigen partij op en doet mee aan verkiezingen",
+    "subtitle": null,
+    "published_at": "2023-08-20T22:06:15+02:00",
+    "updated_at": "2023-08-20T22:57:14+02:00",
+    "media_id": "gvgxmhearkix",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771437,
+      "slug": "politiek",
+      "type": "default",
+      "name": "Politiek",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/politiek/6277312/pieter-omtzigt-richt-eigen-partij-op-en-doet-mee-aan-verkiezingen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6277311,
+    "slug": "inwoner-maui-deelt-beelden-van-ontsnapping-aan-vuurzee",
+    "type": "video",
+    "title": "Inwoner Maui deelt beelden van ontsnapping aan vuurzee",
+    "subtitle": "Video",
+    "published_at": "2023-08-20T22:06:10+02:00",
+    "updated_at": "2023-08-20T22:13:35+02:00",
+    "media_id": "nqmxxdta78gm",
+    "duration": "0:50",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6277311/inwoner-maui-deelt-beelden-van-ontsnapping-aan-vuurzee.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6277310,
     "slug": "ajax-bereikt-akkoord-met-royal-antwerp-over-argentijnse-linksback-avila",
     "type": "article",
@@ -29,7 +98,7 @@
     "title": "FC Barcelona en Frenkie de Jong herpakken zich in La Liga met zege op Cádiz",
     "subtitle": null,
     "published_at": "2023-08-20T21:32:55+02:00",
-    "updated_at": "2023-08-20T22:00:01+02:00",
+    "updated_at": "2023-08-20T22:55:50+02:00",
     "media_id": "v8fx08lafs6r",
     "duration": null,
     "canonical_section": {
@@ -581,7 +650,7 @@
     "title": "Teleurgestelde Wiegman feliciteert Spanje: 'Zij waren net iets beter'",
     "subtitle": null,
     "published_at": "2023-08-20T15:03:25+02:00",
-    "updated_at": "2023-08-20T16:37:28+02:00",
+    "updated_at": "2023-08-20T22:25:17+02:00",
     "media_id": "ebvx73jalwvp",
     "duration": null,
     "canonical_section": {
@@ -617,75 +686,6 @@
       "partner": null
     },
     "url": "/opmerkelijk/6277276/populaire-internet-en-memehond-cheems-overleden.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6277275,
-    "slug": "rutte-bevestigt-dat-nederland-zo-snel-mogelijk-f-16s-aan-oekraine-gaat-leveren",
-    "type": "article",
-    "title": "Rutte bevestigt dat Nederland 'zo snel mogelijk' F-16's aan Oekraïne gaat leveren",
-    "subtitle": null,
-    "published_at": "2023-08-20T14:39:00+02:00",
-    "updated_at": "2023-08-20T20:35:11+02:00",
-    "media_id": "75nxp6natgav",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6277275/rutte-bevestigt-dat-nederland-zo-snel-mogelijk-f-16s-aan-oekraine-gaat-leveren.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6277271,
-    "slug": "vetter-stijgt-naar-tweede-plek-meerkamp-en-heeft-kans-op-derde-wk-medaille",
-    "type": "article",
-    "title": "Vetter stijgt naar tweede plek meerkamp en heeft kans op derde WK-medaille",
-    "subtitle": null,
-    "published_at": "2023-08-20T14:18:38+02:00",
-    "updated_at": "2023-08-20T20:00:53+02:00",
-    "media_id": "jzmxcg4a9wrz",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772456,
-      "slug": "sport-overig",
-      "type": "default",
-      "name": "Sport Overig",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/sport-overig/6277271/vetter-stijgt-naar-tweede-plek-meerkamp-en-heeft-kans-op-derde-wk-medaille.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6277274,
-    "slug": "twente-blijft-foutloos-dankzij-moeizame-zege-op-pec-heerenveen-klopt-utrecht",
-    "type": "article",
-    "title": "Twente blijft foutloos dankzij moeizame zege op PEC, Heerenveen klopt Utrecht",
-    "subtitle": null,
-    "published_at": "2023-08-20T14:17:38+02:00",
-    "updated_at": "2023-08-20T16:38:28+02:00",
-    "media_id": "jckx6nharnnq",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6277274/twente-blijft-foutloos-dankzij-moeizame-zege-op-pec-heerenveen-klopt-utrecht.html",
     "open_new_window": false,
     "partner": null
   }
