@@ -1,12 +1,127 @@
 [
   {
-    "id": 6277666,
-    "slug": "in-georgia-wordt-trump-voorgeleid-als-ieder-ander-mugshot-en-borgsom",
+    "id": 6277775,
+    "slug": "nikkie-de-jager-ligt-in-ziekenhuis-vanwege-operatie-aan-cyste",
     "type": "article",
-    "title": "In Georgia wordt Trump voorgeleid als ieder ander: mugshot en borgsom",
+    "title": "Nikkie de Jager ligt in ziekenhuis vanwege operatie aan cyste",
+    "subtitle": null,
+    "published_at": "2023-08-24T06:58:52+02:00",
+    "updated_at": "2023-08-24T06:58:53+02:00",
+    "media_id": "yjzxpkpadnrb",
+    "duration": null,
+    "canonical_section": {
+      "id": 125,
+      "slug": "achterklap",
+      "type": "default",
+      "name": "Achterklap",
+      "style": "nuentertainment",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/achterklap/6277775/nikkie-de-jager-ligt-in-ziekenhuis-vanwege-operatie-aan-cyste.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6277773,
+    "slug": "actrice-halle-berry-moet-ex-73000-euro-alimentatie-per-maand-betalen",
+    "type": "article",
+    "title": "Actrice Halle Berry moet ex 7.3000 euro alimentatie per maand betalen",
+    "subtitle": null,
+    "published_at": "2023-08-24T06:38:10+02:00",
+    "updated_at": "2023-08-24T06:53:37+02:00",
+    "media_id": "12jx18taqn3s",
+    "duration": null,
+    "canonical_section": {
+      "id": 125,
+      "slug": "achterklap",
+      "type": "default",
+      "name": "Achterklap",
+      "style": "nuentertainment",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/achterklap/6277773/actrice-halle-berry-moet-ex-73000-euro-alimentatie-per-maand-betalen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6277774,
+    "slug": "japan-is-ondanks-kritiek-begonnen-met-lozen-van-afvalwater-kerncentrale-in-zee",
+    "type": "article",
+    "title": "Japan is ondanks kritiek begonnen met lozen van afvalwater kerncentrale in zee",
+    "subtitle": null,
+    "published_at": "2023-08-24T06:35:06+02:00",
+    "updated_at": "2023-08-24T06:44:36+02:00",
+    "media_id": "d9nxu63awx61",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6277774/japan-is-ondanks-kritiek-begonnen-met-lozen-van-afvalwater-kerncentrale-in-zee.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6277714,
+    "slug": "dagprogramma-wk-atletiek-femke-bol-kan-vierde-nederlander-met-goud-worden",
+    "type": "article",
+    "title": "Dagprogramma WK atletiek: Femke Bol kan vierde Nederlander met goud worden",
+    "subtitle": null,
+    "published_at": "2023-08-24T06:30:00+02:00",
+    "updated_at": "2023-08-24T06:30:02+02:00",
+    "media_id": "t6zxblka1ogx",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772456,
+      "slug": "sport-overig",
+      "type": "default",
+      "name": "Sport Overig",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/sport-overig/6277714/dagprogramma-wk-atletiek-femke-bol-kan-vierde-nederlander-met-goud-worden.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6277768,
+    "slug": "vliegtuigcrash-en-nog-onbevestigde-dood-wagner-baas-prigozhin-dit-weten-we-nu",
+    "type": "article",
+    "title": "Vliegtuigcrash en nog onbevestigde dood Wagner-baas Prigozhin: dit weten we nu",
+    "subtitle": null,
+    "published_at": "2023-08-24T06:04:39+02:00",
+    "updated_at": "2023-08-24T06:27:57+02:00",
+    "media_id": "4vnx6xaaxp2b",
+    "duration": null,
+    "canonical_section": {
+      "id": 1778980,
+      "slug": "spanningen-oekraine",
+      "type": "default",
+      "name": "Oorlog in Oekraïne",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/spanningen-oekraine/6277768/vliegtuigcrash-en-nog-onbevestigde-dood-wagner-baas-prigozhin-dit-weten-we-nu.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6277666,
+    "slug": "dit-keer-wordt-voorgeleiding-trump-anders-in-georgia-is-iedereen-gelijk",
+    "type": "article",
+    "title": "Dit keer wordt voorgeleiding Trump anders: 'In Georgia is iedereen gelijk'",
     "subtitle": "NU+",
     "published_at": "2023-08-24T05:30:16+02:00",
-    "updated_at": "2023-08-24T05:30:17+02:00",
+    "updated_at": "2023-08-24T06:28:52+02:00",
     "media_id": "sfoxesyawfks",
     "duration": null,
     "canonical_section": {
@@ -18,18 +133,18 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/buitenland/6277666/in-georgia-wordt-trump-voorgeleid-als-ieder-ander-mugshot-en-borgsom.html",
+    "url": "/buitenland/6277666/dit-keer-wordt-voorgeleiding-trump-anders-in-georgia-is-iedereen-gelijk.html",
     "open_new_window": false,
     "partner": null
   },
   {
     "id": 6277772,
-    "slug": "weerbericht-broeierige-dag-met-plaatselijk-een-fikse-onweersbui",
+    "slug": "weerbericht-broeierige-dag-met-plaatselijk-een-flinke-onweersbui",
     "type": "article",
-    "title": "Weerbericht: Broeierige dag met plaatselijk een (fikse) onweersbui",
+    "title": "Weerbericht: Broeierige dag met plaatselijk een (flinke) onweersbui",
     "subtitle": null,
     "published_at": "2023-08-24T05:26:33+02:00",
-    "updated_at": "2023-08-24T05:26:34+02:00",
+    "updated_at": "2023-08-24T06:17:59+02:00",
     "media_id": "unrxgdnaoxtd",
     "duration": null,
     "canonical_section": {
@@ -41,7 +156,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/weerbericht/6277772/weerbericht-broeierige-dag-met-plaatselijk-een-fikse-onweersbui.html",
+    "url": "/weerbericht/6277772/weerbericht-broeierige-dag-met-plaatselijk-een-flinke-onweersbui.html",
     "open_new_window": false,
     "partner": null
   },
@@ -75,7 +190,7 @@
     "title": "Klaver is 'trots en vet verdrietig' na zesde plaats in WK-finale 400 meter",
     "subtitle": null,
     "published_at": "2023-08-24T05:08:05+02:00",
-    "updated_at": "2023-08-24T05:08:06+02:00",
+    "updated_at": "2023-08-24T06:38:06+02:00",
     "media_id": "4dxxruea8jj7",
     "duration": null,
     "canonical_section": {
@@ -144,7 +259,7 @@
     "title": "Hoe Jimmy Schepers slachtoffer werd van messengeweld op Amsterdams festival",
     "subtitle": null,
     "published_at": "2023-08-24T05:00:16+02:00",
-    "updated_at": "2023-08-24T05:00:17+02:00",
+    "updated_at": "2023-08-24T06:51:28+02:00",
     "media_id": "zgnxkx0alusf",
     "duration": null,
     "canonical_section": {
@@ -162,12 +277,12 @@
   },
   {
     "id": 6277665,
-    "slug": "in-nederland-nog-nooit-code-rood-om-hitte-wel-warm-niet-ontwrichtend",
+    "slug": "code-rood-in-frankrijk-vanwege-hitte-maar-hier-was-dat-nog-nooit-nodig",
     "type": "article",
-    "title": "In Nederland (nog) nooit code rood om hitte: wel warm, niet 'ontwrichtend'",
+    "title": "Code rood in Frankrijk vanwege hitte, maar hier was dat (nog) nooit nodig",
     "subtitle": null,
     "published_at": "2023-08-24T04:58:33+02:00",
-    "updated_at": "2023-08-24T04:58:34+02:00",
+    "updated_at": "2023-08-24T06:28:34+02:00",
     "media_id": "xb3xmj0ae6r4",
     "duration": null,
     "canonical_section": {
@@ -179,7 +294,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/binnenland/6277665/in-nederland-nog-nooit-code-rood-om-hitte-wel-warm-niet-ontwrichtend.html",
+    "url": "/binnenland/6277665/code-rood-in-frankrijk-vanwege-hitte-maar-hier-was-dat-nog-nooit-nodig.html",
     "open_new_window": false,
     "partner": null
   },
@@ -208,12 +323,12 @@
   },
   {
     "id": 6277685,
-    "slug": "gasverbruik-keldert-in-twee-jaar-met-ruim-een-derde",
+    "slug": "gasverbruik-keldert-in-twee-jaar-met-een-derde",
     "type": "article",
-    "title": "Gasverbruik keldert in twee jaar met ruim een derde",
+    "title": "Gasverbruik keldert in twee jaar met een derde",
     "subtitle": null,
     "published_at": "2023-08-24T00:01:17+02:00",
-    "updated_at": "2023-08-24T00:01:18+02:00",
+    "updated_at": "2023-08-24T06:51:19+02:00",
     "media_id": "5o4xn5za9jw3",
     "duration": null,
     "canonical_section": {
@@ -225,7 +340,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/economie/6277685/gasverbruik-keldert-in-twee-jaar-met-ruim-een-derde.html",
+    "url": "/economie/6277685/gasverbruik-keldert-in-twee-jaar-met-een-derde.html",
     "open_new_window": false,
     "partner": null
   },
@@ -236,7 +351,7 @@
     "title": "Griekspoor enkele dagen voor US Open onderuit in achtste finales Winston-Salem",
     "subtitle": null,
     "published_at": "2023-08-23T23:59:21+02:00",
-    "updated_at": "2023-08-24T00:01:34+02:00",
+    "updated_at": "2023-08-24T06:32:35+02:00",
     "media_id": "rf9xe73af63j",
     "duration": null,
     "canonical_section": {
@@ -397,7 +512,7 @@
     "title": "Aan Wagner gelinkte Telegram-groep meldt dood van leider Prigozhin",
     "subtitle": null,
     "published_at": "2023-08-23T22:34:29+02:00",
-    "updated_at": "2023-08-23T23:39:54+02:00",
+    "updated_at": "2023-08-24T06:14:24+02:00",
     "media_id": "piqxcg2au3jd",
     "duration": null,
     "canonical_section": {
@@ -571,121 +686,6 @@
       "partner": null
     },
     "url": "/binnenland/6277750/donderdag-code-geel-in-zeven-provincies-vanwege-zware-onweersbuien.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6277748,
-    "slug": "fc-twente-geniet-voor-duel-met-fenerbahce-je-slingert-achter-politie-in-hectiek",
-    "type": "article",
-    "title": "FC Twente geniet voor duel met Fenerbahçe: 'Je slingert achter politie in hectiek'",
-    "subtitle": null,
-    "published_at": "2023-08-23T20:37:02+02:00",
-    "updated_at": "2023-08-23T20:46:02+02:00",
-    "media_id": "y0nxyczahofm",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6277748/fc-twente-geniet-voor-duel-met-fenerbahce-je-slingert-achter-politie-in-hectiek.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6277745,
-    "slug": "zendaya-zoekt-balans-tussen-priveleven-en-schijnwerpers-ga-me-niet-verstoppen",
-    "type": "article",
-    "title": "Zendaya zoekt balans tussen privéleven en schijnwerpers: 'Ga me niet verstoppen'",
-    "subtitle": null,
-    "published_at": "2023-08-23T20:11:15+02:00",
-    "updated_at": "2023-08-23T21:40:48+02:00",
-    "media_id": "ykcxq7aaeoj6",
-    "duration": null,
-    "canonical_section": {
-      "id": 125,
-      "slug": "achterklap",
-      "type": "default",
-      "name": "Achterklap",
-      "style": "nuentertainment",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/achterklap/6277745/zendaya-zoekt-balans-tussen-priveleven-en-schijnwerpers-ga-me-niet-verstoppen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6277695,
-    "slug": "gesteggel-om-goededoelenstatus-moskee-hoe-word-je-een-anbi",
-    "type": "article",
-    "title": "Gesteggel om goededoelenstatus moskee: hoe word je een 'ANBI'?",
-    "subtitle": "NU+",
-    "published_at": "2023-08-23T20:07:49+02:00",
-    "updated_at": "2023-08-23T20:19:47+02:00",
-    "media_id": "f5nxllna1hjc",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779003,
-      "slug": "gebaseerd-op-jullie-vragen",
-      "type": "default",
-      "name": "Gebaseerd op NUjij",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/gebaseerd-op-jullie-vragen/6277695/gesteggel-om-goededoelenstatus-moskee-hoe-word-je-een-anbi.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6277707,
-    "slug": "gp-nederland-scherpt-veiligheid-aan-met-noodnummers-en-vertrouwenspersonen",
-    "type": "article",
-    "title": "GP Nederland scherpt veiligheid aan met noodnummers en vertrouwenspersonen",
-    "subtitle": null,
-    "published_at": "2023-08-23T19:56:23+02:00",
-    "updated_at": "2023-08-24T04:59:06+02:00",
-    "media_id": "bzjx65oaplff",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772449,
-      "slug": "formule-1",
-      "type": "default",
-      "name": "GP Nederland",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/formule-1/6277707/gp-nederland-scherpt-veiligheid-aan-met-noodnummers-en-vertrouwenspersonen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6277738,
-    "slug": "hassan-haalt-ook-op-5-kilometer-finale-en-krijgt-kans-op-tweede-wk-medaille",
-    "type": "article",
-    "title": "Hassan haalt ook op 5 kilometer finale en krijgt kans op tweede WK-medaille",
-    "subtitle": null,
-    "published_at": "2023-08-23T19:45:07+02:00",
-    "updated_at": "2023-08-23T21:29:01+02:00",
-    "media_id": "jfixjt0ay7fz",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772456,
-      "slug": "sport-overig",
-      "type": "default",
-      "name": "Sport Overig",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/sport-overig/6277738/hassan-haalt-ook-op-5-kilometer-finale-en-krijgt-kans-op-tweede-wk-medaille.html",
     "open_new_window": false,
     "partner": null
   }
