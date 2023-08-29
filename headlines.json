@@ -1,12 +1,81 @@
 [
   {
-    "id": 6278522,
-    "slug": "man-doodgeschoten-in-portiek-in-rotterdam-dader-is-gevlucht",
+    "id": 6278481,
+    "slug": "zonder-klimaatervaring-is-hoekstra-geen-geschikte-eurocommissaris",
     "type": "article",
-    "title": "Man doodgeschoten in portiek in Rotterdam, dader is gevlucht",
+    "title": "'Zonder klimaatervaring is Hoekstra geen geschikte Eurocommissaris'",
+    "subtitle": "Stelling",
+    "published_at": "2023-08-29T07:00:22+02:00",
+    "updated_at": "2023-08-29T07:00:23+02:00",
+    "media_id": "lggx7yzaw3dx",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779134,
+      "slug": "stelling",
+      "type": "default",
+      "name": "Stelling en Praat Mee",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/stelling/6278481/zonder-klimaatervaring-is-hoekstra-geen-geschikte-eurocommissaris.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6278066,
+    "slug": "hoe-de-mijn-een-onderdeel-werd-van-het-dagelijkse-leven-in-oekraine",
+    "type": "video",
+    "title": "Hoe de mijn een onderdeel werd van het dagelijkse leven in Oekraïne",
+    "subtitle": "Explainer",
+    "published_at": "2023-08-29T06:27:46+02:00",
+    "updated_at": "2023-08-29T06:27:47+02:00",
+    "media_id": "bn5xy1jahal9",
+    "duration": "1:56",
+    "canonical_section": {
+      "id": 1778980,
+      "slug": "spanningen-oekraine",
+      "type": "default",
+      "name": "Oorlog in Oekraïne",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/spanningen-oekraine/6278066/hoe-de-mijn-een-onderdeel-werd-van-het-dagelijkse-leven-in-oekraine.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6278523,
+    "slug": "irak-executeert-drie-mensen-voor-rol-bij-aanslag-in-2016-waarbij-300-doden-vielen",
+    "type": "article",
+    "title": "Irak executeert drie mensen voor rol bij aanslag in 2016 waarbij 300 doden vielen",
+    "subtitle": null,
+    "published_at": "2023-08-29T06:11:47+02:00",
+    "updated_at": "2023-08-29T06:49:04+02:00",
+    "media_id": "ojix865au2dy",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6278523/irak-executeert-drie-mensen-voor-rol-bij-aanslag-in-2016-waarbij-300-doden-vielen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6278522,
+    "slug": "man-doodgeschoten-in-portiek-in-rotterdam-dader-gevlucht",
+    "type": "article",
+    "title": "Man doodgeschoten in portiek in Rotterdam, dader gevlucht",
     "subtitle": null,
     "published_at": "2023-08-29T05:46:15+02:00",
-    "updated_at": "2023-08-29T05:46:33+02:00",
+    "updated_at": "2023-08-29T06:35:33+02:00",
     "media_id": "a2bxfxpahgw5",
     "duration": null,
     "canonical_section": {
@@ -18,7 +87,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/binnenland/6278522/man-doodgeschoten-in-portiek-in-rotterdam-dader-is-gevlucht.html",
+    "url": "/binnenland/6278522/man-doodgeschoten-in-portiek-in-rotterdam-dader-gevlucht.html",
     "open_new_window": false,
     "partner": null
   },
@@ -29,7 +98,7 @@
     "title": "Weerbericht: Vandaag strijden zonneschijn en regen om een plekje",
     "subtitle": null,
     "published_at": "2023-08-29T05:34:13+02:00",
-    "updated_at": "2023-08-29T05:34:14+02:00",
+    "updated_at": "2023-08-29T06:13:04+02:00",
     "media_id": "rbwxqw8a8xpm",
     "duration": null,
     "canonical_section": {
@@ -70,12 +139,12 @@
   },
   {
     "id": 6278519,
-    "slug": "man-overleden-na-schietpartij-in-den-haag-schutter-is-voortvluchtig",
+    "slug": "man-overleden-na-schietpartij-in-den-haag-dader-voortvluchtig",
     "type": "article",
-    "title": "Man overleden na schietpartij in Den Haag, schutter is voortvluchtig",
+    "title": "Man overleden na schietpartij in Den Haag, dader voortvluchtig",
     "subtitle": null,
     "published_at": "2023-08-29T05:20:29+02:00",
-    "updated_at": "2023-08-29T05:20:46+02:00",
+    "updated_at": "2023-08-29T06:21:03+02:00",
     "media_id": "ychxdn9axzfd",
     "duration": null,
     "canonical_section": {
@@ -87,7 +156,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/binnenland/6278519/man-overleden-na-schietpartij-in-den-haag-schutter-is-voortvluchtig.html",
+    "url": "/binnenland/6278519/man-overleden-na-schietpartij-in-den-haag-dader-voortvluchtig.html",
     "open_new_window": false,
     "partner": null
   },
@@ -116,12 +185,12 @@
   },
   {
     "id": 6278430,
-    "slug": "in-pioniersland-spanje-zorgt-rubiales-kus-opnieuw-voor-discussie-over-gelijkheid",
+    "slug": "het-gedrag-van-rubiales-is-in-spanje-de-druppel-maar-toont-ook-bewustwording",
     "type": "article",
-    "title": "In 'pioniersland' Spanje zorgt Rubiales' kus opnieuw voor discussie over gelijkheid",
+    "title": "Het gedrag van Rubiales is in Spanje 'de druppel', maar toont ook bewustwording",
     "subtitle": null,
     "published_at": "2023-08-29T05:01:07+02:00",
-    "updated_at": "2023-08-29T05:01:08+02:00",
+    "updated_at": "2023-08-29T06:28:01+02:00",
     "media_id": "kjyxeb1afalo",
     "duration": null,
     "canonical_section": {
@@ -133,7 +202,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/buitenland/6278430/in-pioniersland-spanje-zorgt-rubiales-kus-opnieuw-voor-discussie-over-gelijkheid.html",
+    "url": "/buitenland/6278430/het-gedrag-van-rubiales-is-in-spanje-de-druppel-maar-toont-ook-bewustwording.html",
     "open_new_window": false,
     "partner": null
   },
@@ -190,7 +259,7 @@
     "title": "Oud-Kamervoorzitter Arib zet stappen om onderzoek naar haar gedrag te stoppen",
     "subtitle": null,
     "published_at": "2023-08-29T00:01:30+02:00",
-    "updated_at": "2023-08-29T00:01:35+02:00",
+    "updated_at": "2023-08-29T06:32:49+02:00",
     "media_id": "2qrxvajaezzs",
     "duration": null,
     "canonical_section": {
@@ -236,7 +305,7 @@
     "title": "Memphis scoort en valt uit bij ontketend Atlético, Dumfries helpt Inter aan winst",
     "subtitle": null,
     "published_at": "2023-08-28T22:41:23+02:00",
-    "updated_at": "2023-08-28T23:38:26+02:00",
+    "updated_at": "2023-08-29T06:26:51+02:00",
     "media_id": "js4xsnjal5v0",
     "duration": null,
     "canonical_section": {
@@ -259,7 +328,7 @@
     "title": "Spaanse voetbalbond eist na spoedoverleg dat omstreden voorzitter aftreedt",
     "subtitle": null,
     "published_at": "2023-08-28T22:40:51+02:00",
-    "updated_at": "2023-08-28T22:57:09+02:00",
+    "updated_at": "2023-08-29T06:30:38+02:00",
     "media_id": "m0kxmgjaw6hc",
     "duration": null,
     "canonical_section": {
@@ -617,75 +686,6 @@
       "partner": null
     },
     "url": "/videos/6278495/kleurrijke-lantaarns-verlichten-chinese-rivier.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6278494,
-    "slug": "the-killers-leggen-albumopnames-stil-vanwege-crisis-zanger-brandon-flowers",
-    "type": "article",
-    "title": "The Killers leggen albumopnames stil vanwege 'crisis' zanger Brandon Flowers",
-    "subtitle": null,
-    "published_at": "2023-08-28T18:56:31+02:00",
-    "updated_at": "2023-08-28T19:08:27+02:00",
-    "media_id": "yflxcpqaf2x7",
-    "duration": null,
-    "canonical_section": {
-      "id": 868281,
-      "slug": "muziek",
-      "type": "default",
-      "name": "Muziek",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/muziek/6278494/the-killers-leggen-albumopnames-stil-vanwege-crisis-zanger-brandon-flowers.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6278491,
-    "slug": "hardstyle-dj-headhunterz-stopt-met-optreden-mijn-gezondheid-leed-eronder",
-    "type": "article",
-    "title": "Hardstyle-dj Headhunterz stopt met optreden: 'Mijn gezondheid leed eronder'",
-    "subtitle": null,
-    "published_at": "2023-08-28T18:51:43+02:00",
-    "updated_at": "2023-08-29T00:13:33+02:00",
-    "media_id": "icnxaqsa0u7s",
-    "duration": null,
-    "canonical_section": {
-      "id": 868281,
-      "slug": "muziek",
-      "type": "default",
-      "name": "Muziek",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/muziek/6278491/hardstyle-dj-headhunterz-stopt-met-optreden-mijn-gezondheid-leed-eronder.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6278490,
-    "slug": "eiting-spant-spoedzaak-aan-om-nu-wel-transfer-naar-fc-twente-te-forceren",
-    "type": "article",
-    "title": "Eiting spant spoedzaak aan om nu wél transfer naar FC Twente te forceren",
-    "subtitle": null,
-    "published_at": "2023-08-28T18:43:58+02:00",
-    "updated_at": "2023-08-28T22:06:06+02:00",
-    "media_id": "yzhxkzxasury",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6278490/eiting-spant-spoedzaak-aan-om-nu-wel-transfer-naar-fc-twente-te-forceren.html",
     "open_new_window": false,
     "partner": null
   }
