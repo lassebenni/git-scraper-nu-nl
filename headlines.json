@@ -1,12 +1,58 @@
 [
   {
+    "id": 6278755,
+    "slug": "zou-jij-meedoen-aan-een-date-programma-op-televisie",
+    "type": "article",
+    "title": "Zou jij meedoen aan een date-programma op televisie?",
+    "subtitle": "Praat Mee",
+    "published_at": "2023-08-30T16:58:04+02:00",
+    "updated_at": "2023-08-30T16:58:13+02:00",
+    "media_id": "xipxs8qarh9k",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779134,
+      "slug": "stelling",
+      "type": "default",
+      "name": "Stelling en Praat Mee",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/stelling/6278755/zou-jij-meedoen-aan-een-date-programma-op-televisie.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6278765,
+    "slug": "fc-twente-hoopt-nog-op-europees-vervolg-er-zijn-voorbeelden-dat-het-is-gelukt",
+    "type": "article",
+    "title": "FC Twente hoopt nog op Europees vervolg: 'Er zijn voorbeelden dat het is gelukt'",
+    "subtitle": null,
+    "published_at": "2023-08-30T16:50:03+02:00",
+    "updated_at": "2023-08-30T16:57:36+02:00",
+    "media_id": "i25xhq6a8wwl",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6278765/fc-twente-hoopt-nog-op-europees-vervolg-er-zijn-voorbeelden-dat-het-is-gelukt.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6278756,
     "slug": "ajax-nog-niet-klaar-op-transfermarkt-denk-dat-er-nog-iets-bij-gaat-komen",
     "type": "article",
     "title": "Ajax nog niet klaar op transfermarkt: 'Denk dat er nog iets bij gaat komen'",
     "subtitle": null,
     "published_at": "2023-08-30T15:48:29+02:00",
-    "updated_at": "2023-08-30T15:48:30+02:00",
+    "updated_at": "2023-08-30T16:14:55+02:00",
     "media_id": "484xqr1a43yd",
     "duration": null,
     "canonical_section": {
@@ -75,7 +121,7 @@
     "title": "Burger King moet voor de rechter verschijnen vanwege omvang van de Whopper",
     "subtitle": null,
     "published_at": "2023-08-30T15:29:13+02:00",
-    "updated_at": "2023-08-30T15:42:04+02:00",
+    "updated_at": "2023-08-30T16:54:44+02:00",
     "media_id": "otvxgrva8e0h",
     "duration": null,
     "canonical_section": {
@@ -93,12 +139,12 @@
   },
   {
     "id": 6278751,
-    "slug": "steijn-hoopt-op-meespelen-berghuis-en-verwacht-geen-problemen-met-ludogorets",
+    "slug": "ajax-coach-steijn-hoopt-op-berghuis-en-verwacht-geen-problemen-met-ludogorets",
     "type": "article",
-    "title": "Steijn hoopt op meespelen Berghuis en verwacht geen problemen met Ludogorets",
+    "title": "Ajax-coach Steijn hoopt op Berghuis en verwacht geen problemen met Ludogorets",
     "subtitle": null,
     "published_at": "2023-08-30T15:23:34+02:00",
-    "updated_at": "2023-08-30T15:50:06+02:00",
+    "updated_at": "2023-08-30T16:13:55+02:00",
     "media_id": "zhkxpksaxcgv",
     "duration": null,
     "canonical_section": {
@@ -110,7 +156,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6278751/steijn-hoopt-op-meespelen-berghuis-en-verwacht-geen-problemen-met-ludogorets.html",
+    "url": "/voetbal/6278751/ajax-coach-steijn-hoopt-op-berghuis-en-verwacht-geen-problemen-met-ludogorets.html",
     "open_new_window": false,
     "partner": null
   },
@@ -162,12 +208,12 @@
   },
   {
     "id": 6278747,
-    "slug": "orkaan-idalia-aan-land-in-florida-meer-dan-130000-huishoudens-zonder-stroom",
+    "slug": "orkaan-idalia-aan-land-in-florida-meer-dan-240000-huishoudens-zonder-stroom",
     "type": "article",
-    "title": "Orkaan Idalia aan land in Florida, meer dan 130.000 huishoudens zonder stroom",
+    "title": "Orkaan Idalia aan land in Florida, meer dan 240.000 huishoudens zonder stroom",
     "subtitle": null,
     "published_at": "2023-08-30T14:44:02+02:00",
-    "updated_at": "2023-08-30T15:08:53+02:00",
+    "updated_at": "2023-08-30T16:57:17+02:00",
     "media_id": "2zqxb55aqiio",
     "duration": null,
     "canonical_section": {
@@ -179,7 +225,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/buitenland/6278747/orkaan-idalia-aan-land-in-florida-meer-dan-130000-huishoudens-zonder-stroom.html",
+    "url": "/buitenland/6278747/orkaan-idalia-aan-land-in-florida-meer-dan-240000-huishoudens-zonder-stroom.html",
     "open_new_window": false,
     "partner": null
   },
@@ -397,7 +443,7 @@
     "title": "Biomassacentrale in Diemen komt er voorlopig niet: vergunning ingetrokken",
     "subtitle": null,
     "published_at": "2023-08-30T12:34:20+02:00",
-    "updated_at": "2023-08-30T14:12:53+02:00",
+    "updated_at": "2023-08-30T16:06:32+02:00",
     "media_id": "vlfxefaawo0v",
     "duration": null,
     "canonical_section": {
@@ -443,7 +489,7 @@
     "title": "Nederlands Fairphone presenteert mobieltje dat acht jaar mee moet gaan",
     "subtitle": "NU+",
     "published_at": "2023-08-30T11:45:27+02:00",
-    "updated_at": "2023-08-30T13:55:40+02:00",
+    "updated_at": "2023-08-30T16:10:50+02:00",
     "media_id": "agyxaoxasef5",
     "duration": null,
     "canonical_section": {
@@ -640,52 +686,6 @@
       "partner": null
     },
     "url": "/opmerkelijk/6278708/scheidsrechter-geeft-peuter-die-voetbalveld-oprent-lachend-een-rode-kaart.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6278695,
-    "slug": "circuit-zandvoort-formule-1-is-aan-zet-als-het-gaat-om-nederlandse-gp-na-2025",
-    "type": "article",
-    "title": "Circuit Zandvoort: 'Formule 1 is aan zet als het gaat om Nederlandse GP na 2025'",
-    "subtitle": null,
-    "published_at": "2023-08-30T10:28:59+02:00",
-    "updated_at": "2023-08-30T15:03:44+02:00",
-    "media_id": "ulsxsa5abwxu",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772449,
-      "slug": "formule-1",
-      "type": "default",
-      "name": "Formule 1",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/formule-1/6278695/circuit-zandvoort-formule-1-is-aan-zet-als-het-gaat-om-nederlandse-gp-na-2025.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6278697,
-    "slug": "den-haag-kondigt-volledig-messenverbod-aan-om-geweldsgolf-te-beeindigen",
-    "type": "article",
-    "title": "Den Haag kondigt volledig messenverbod aan om 'geweldsgolf' te beëindigen",
-    "subtitle": null,
-    "published_at": "2023-08-30T10:19:46+02:00",
-    "updated_at": "2023-08-30T14:55:48+02:00",
-    "media_id": "3l4xm2tagzfc",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6278697/den-haag-kondigt-volledig-messenverbod-aan-om-geweldsgolf-te-beeindigen.html",
     "open_new_window": false,
     "partner": null
   }
