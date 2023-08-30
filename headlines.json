@@ -1,5 +1,51 @@
 [
   {
+    "id": 6278819,
+    "slug": "bijna-helft-nederlanders-maakt-zich-veel-zorgen-om-verspreiden-misinformatie",
+    "type": "article",
+    "title": "Bijna helft Nederlanders maakt zich veel zorgen om verspreiden misinformatie",
+    "subtitle": null,
+    "published_at": "2023-08-31T00:15:48+02:00",
+    "updated_at": "2023-08-31T00:16:08+02:00",
+    "media_id": "wdixbnxafom0",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771675,
+      "slug": "media",
+      "type": "default",
+      "name": "Media",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/media/6278819/bijna-helft-nederlanders-maakt-zich-veel-zorgen-om-verspreiden-misinformatie.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6278817,
+    "slug": "cbs-nederlandse-aardgasreserves-over-minder-dan-9-jaar-uitgeput",
+    "type": "article",
+    "title": "CBS: Nederlandse aardgasreserves over minder dan 9 jaar uitgeput",
+    "subtitle": null,
+    "published_at": "2023-08-31T00:05:24+02:00",
+    "updated_at": "2023-08-31T00:05:25+02:00",
+    "media_id": "iqaxyk8alf4o",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6278817/cbs-nederlandse-aardgasreserves-over-minder-dan-9-jaar-uitgeput.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6278724,
     "slug": "aantal-mensen-in-de-bijstand-nog-verder-gedaald",
     "type": "article",
@@ -75,7 +121,7 @@
     "title": "Luuk de Jong zet deur naar Oranje op een kier na 'heerlijke' avond met PSV",
     "subtitle": null,
     "published_at": "2023-08-30T23:24:26+02:00",
-    "updated_at": "2023-08-30T23:33:00+02:00",
+    "updated_at": "2023-08-31T00:02:08+02:00",
     "media_id": "r3zxqroa36pg",
     "duration": null,
     "canonical_section": {
@@ -167,7 +213,7 @@
     "title": "PSV overklast Rangers en gaat samen met Feyenoord de Champions League in",
     "subtitle": null,
     "published_at": "2023-08-30T22:54:52+02:00",
-    "updated_at": "2023-08-30T23:30:31+02:00",
+    "updated_at": "2023-08-31T00:02:36+02:00",
     "media_id": "2r1xhf5a7s2n",
     "duration": null,
     "canonical_section": {
@@ -640,52 +686,6 @@
       "partner": null
     },
     "url": "/muziek/6278783/billie-eilish-wil-tour-langs-kleine-zalen-maar-legt-intieme-show-meermaals-stil.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6278782,
-    "slug": "verdachte-doodsteken-haagse-winkelmedewerkster-eind-september-voor-rechter",
-    "type": "article",
-    "title": "Verdachte doodsteken Haagse winkelmedewerkster eind september voor rechter",
-    "subtitle": null,
-    "published_at": "2023-08-30T18:25:49+02:00",
-    "updated_at": "2023-08-30T18:25:50+02:00",
-    "media_id": "jwzx53sa9ay6",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6278782/verdachte-doodsteken-haagse-winkelmedewerkster-eind-september-voor-rechter.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6278763,
-    "slug": "evenepoel-deelt-prik-uit-in-vlakke-vuelta-rit-groves-boekt-tweede-dagzege-op-rij",
-    "type": "article",
-    "title": "Evenepoel deelt prik uit in vlakke Vuelta-rit, Groves boekt tweede dagzege op rij",
-    "subtitle": null,
-    "published_at": "2023-08-30T17:44:20+02:00",
-    "updated_at": "2023-08-30T18:29:38+02:00",
-    "media_id": "9kkxqh2aqvcm",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772339,
-      "slug": "wielrennen",
-      "type": "default",
-      "name": "Wielrennen",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/wielrennen/6278763/evenepoel-deelt-prik-uit-in-vlakke-vuelta-rit-groves-boekt-tweede-dagzege-op-rij.html",
     "open_new_window": false,
     "partner": null
   }
