@@ -1,12 +1,150 @@
 [
   {
-    "id": 6279257,
-    "slug": "evenepoel-had-niet-in-de-gaten-dat-hij-voor-winst-sprintte-in-vuelta-tegen-roglic",
+    "id": 6279262,
+    "slug": "van-hooijdonk-keert-twee-weken-na-omstreden-uitspraken-terug-bij-studio-voetbal",
     "type": "article",
-    "title": "Evenepoel had niet in de gaten dat hij voor winst sprintte in Vuelta tegen Roglic",
+    "title": "Van Hooijdonk keert twee weken na omstreden uitspraken terug bij Studio Voetbal",
+    "subtitle": null,
+    "published_at": "2023-09-02T20:58:35+02:00",
+    "updated_at": "2023-09-02T20:59:28+02:00",
+    "media_id": "885xta8ay99e",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6279262/van-hooijdonk-keert-twee-weken-na-omstreden-uitspraken-terug-bij-studio-voetbal.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6279261,
+    "slug": "kabinet-volgt-raad-van-state-derdelanders-mogen-blijven-tot-uitspraak-hoogste-rechter",
+    "type": "article",
+    "title": "Kabinet volgt Raad van State: derdelanders mogen blijven tot uitspraak hoogste rechter",
+    "subtitle": null,
+    "published_at": "2023-09-02T20:58:04+02:00",
+    "updated_at": "2023-09-02T20:58:05+02:00",
+    "media_id": "jrzx8pja123a",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6279261/kabinet-volgt-raad-van-state-derdelanders-mogen-blijven-tot-uitspraak-hoogste-rechter.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6279260,
+    "slug": "go-ahead-klopt-ook-heerenveen-en-blijft-voor-negende-thuisduel-op-rij-ongeslagen",
+    "type": "article",
+    "title": "Go Ahead klopt ook Heerenveen en blijft voor negende thuisduel op rij ongeslagen",
+    "subtitle": null,
+    "published_at": "2023-09-02T20:42:56+02:00",
+    "updated_at": "2023-09-02T20:50:32+02:00",
+    "media_id": "ow4xhv7at9si",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6279260/go-ahead-klopt-ook-heerenveen-en-blijft-voor-negende-thuisduel-op-rij-ongeslagen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6278719,
+    "slug": "duizenden-euros-voor-stok-harry-potter-filmveilingen-steeds-populairder",
+    "type": "article",
+    "title": "Duizenden euro's voor stok Harry Potter: filmveilingen steeds populairder",
+    "subtitle": "NU+",
+    "published_at": "2023-09-02T20:30:18+02:00",
+    "updated_at": "2023-09-02T20:30:19+02:00",
+    "media_id": "gd3xrkya4mt1",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772075,
+      "slug": "cultuur-overig",
+      "type": "default",
+      "name": "Boek & Cultuur",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/cultuur-overig/6278719/duizenden-euros-voor-stok-harry-potter-filmveilingen-steeds-populairder.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6279259,
+    "slug": "nog-twee-kandidaten-temptation-island-melden-mentale-klachten-na-deelname",
+    "type": "article",
+    "title": "Nog twee kandidaten Temptation Island melden mentale klachten na deelname",
+    "subtitle": null,
+    "published_at": "2023-09-02T20:25:29+02:00",
+    "updated_at": "2023-09-02T20:25:30+02:00",
+    "media_id": "ucwxo1vauycs",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772242,
+      "slug": "entertainment",
+      "type": "default",
+      "name": "Media en Cultuur",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/entertainment/6279259/nog-twee-kandidaten-temptation-island-melden-mentale-klachten-na-deelname.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6279231,
+    "slug": "huiselijk-geweld-beschuldigingen-tegen-michael-fassbender-duiken-op-door-film",
+    "type": "article",
+    "title": "Huiselijk geweld-beschuldigingen tegen Michael Fassbender duiken op door film",
+    "subtitle": null,
+    "published_at": "2023-09-02T20:23:39+02:00",
+    "updated_at": "2023-09-02T20:23:40+02:00",
+    "media_id": "cc5xjcba01a0",
+    "duration": null,
+    "canonical_section": {
+      "id": 125,
+      "slug": "achterklap",
+      "type": "default",
+      "name": "Achterklap",
+      "style": "nuentertainment",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/achterklap/6279231/huiselijk-geweld-beschuldigingen-tegen-michael-fassbender-duiken-op-door-film.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6279257,
+    "slug": "evenepoel-had-niet-in-de-gaten-dat-hij-met-roglic-voor-winst-sprintte-in-vuelta",
+    "type": "article",
+    "title": "Evenepoel had niet in de gaten dat hij met Roglic voor winst sprintte in Vuelta",
     "subtitle": null,
     "published_at": "2023-09-02T19:53:52+02:00",
-    "updated_at": "2023-09-02T19:53:53+02:00",
+    "updated_at": "2023-09-02T20:41:21+02:00",
     "media_id": "c2ixiawa4243",
     "duration": null,
     "canonical_section": {
@@ -18,7 +156,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/wielrennen/6279257/evenepoel-had-niet-in-de-gaten-dat-hij-voor-winst-sprintte-in-vuelta-tegen-roglic.html",
+    "url": "/wielrennen/6279257/evenepoel-had-niet-in-de-gaten-dat-hij-met-roglic-voor-winst-sprintte-in-vuelta.html",
     "open_new_window": false,
     "partner": null
   },
@@ -29,7 +167,7 @@
     "title": "Tientallen Eritreeërs gewond bij demonstratie in Tel Aviv, geschoten door politie",
     "subtitle": null,
     "published_at": "2023-09-02T19:47:18+02:00",
-    "updated_at": "2023-09-02T19:49:33+02:00",
+    "updated_at": "2023-09-02T20:12:15+02:00",
     "media_id": "s2wx68patd9h",
     "duration": null,
     "canonical_section": {
@@ -93,12 +231,12 @@
   },
   {
     "id": 6279251,
-    "slug": "almere-city-blijft-weer-puntloos-na-knotsgekke-slotminuten-tegen-pec-zwolle",
+    "slug": "almere-city-blijft-puntloos-na-knotsgekke-slotminuten-tegen-pec-zwolle",
     "type": "article",
-    "title": "Almere City blijft weer puntloos na knotsgekke slotminuten tegen PEC Zwolle",
+    "title": "Almere City blijft puntloos na knotsgekke slotminuten tegen PEC Zwolle",
     "subtitle": null,
     "published_at": "2023-09-02T18:41:57+02:00",
-    "updated_at": "2023-09-02T19:36:01+02:00",
+    "updated_at": "2023-09-02T20:51:41+02:00",
     "media_id": "0sjxnpxazpk0",
     "duration": null,
     "canonical_section": {
@@ -110,7 +248,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6279251/almere-city-blijft-weer-puntloos-na-knotsgekke-slotminuten-tegen-pec-zwolle.html",
+    "url": "/voetbal/6279251/almere-city-blijft-puntloos-na-knotsgekke-slotminuten-tegen-pec-zwolle.html",
     "open_new_window": false,
     "partner": null
   },
@@ -121,7 +259,7 @@
     "title": "Verstappen kan niets met woorden Hamilton: 'Misschien is hij een beetje jaloers'",
     "subtitle": null,
     "published_at": "2023-09-02T18:37:13+02:00",
-    "updated_at": "2023-09-02T19:26:56+02:00",
+    "updated_at": "2023-09-02T20:13:35+02:00",
     "media_id": "u1mxsy3akrv6",
     "duration": null,
     "canonical_section": {
@@ -167,8 +305,8 @@
     "title": "VluchtelingenWerk: Onrust doordat kabinet derdelander-uitspraak niet afwachtte",
     "subtitle": null,
     "published_at": "2023-09-02T18:03:23+02:00",
-    "updated_at": "2023-09-02T19:51:42+02:00",
-    "media_id": "582xvr1ai6gp",
+    "updated_at": "2023-09-02T20:48:53+02:00",
+    "media_id": "chhxlc7a055k",
     "duration": null,
     "canonical_section": {
       "id": 1771435,
@@ -438,13 +576,13 @@
   },
   {
     "id": 6279232,
-    "slug": "frimpong-doet-met-twee-assists-weer-van-zich-spreken-bij-bayer-leverkusen",
+    "slug": "invaller-de-ligt-ontsnapt-met-bayern-frimpong-weer-belangrijk-voor-leverkusen",
     "type": "article",
-    "title": "Frimpong doet met twee assists weer van zich spreken bij Bayer Leverkusen",
+    "title": "Invaller De Ligt ontsnapt met Bayern, Frimpong weer belangrijk voor Leverkusen",
     "subtitle": null,
     "published_at": "2023-09-02T17:26:11+02:00",
-    "updated_at": "2023-09-02T18:04:12+02:00",
-    "media_id": "lv3xg94abu14",
+    "updated_at": "2023-09-02T20:40:04+02:00",
+    "media_id": "5ecx2iqa1awq",
     "duration": null,
     "canonical_section": {
       "id": 1772338,
@@ -455,7 +593,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6279232/frimpong-doet-met-twee-assists-weer-van-zich-spreken-bij-bayer-leverkusen.html",
+    "url": "/voetbal/6279232/invaller-de-ligt-ontsnapt-met-bayern-frimpong-weer-belangrijk-voor-leverkusen.html",
     "open_new_window": false,
     "partner": null
   },
@@ -489,7 +627,7 @@
     "title": "Weer poging tot sabotage in Vuelta: politie voorkomt nét op tijd drama",
     "subtitle": null,
     "published_at": "2023-09-02T17:02:33+02:00",
-    "updated_at": "2023-09-02T18:05:30+02:00",
+    "updated_at": "2023-09-02T20:45:18+02:00",
     "media_id": "rqcxmeiad3f9",
     "duration": null,
     "canonical_section": {
@@ -507,13 +645,13 @@
   },
   {
     "id": 6279228,
-    "slug": "psv-wil-sterke-reeks-in-eredivisie-voortzetten-tegen-rkc",
+    "slug": "veerman-schiet-psv-vlak-voor-rust-op-voorsprong-tegen-stug-rkc",
     "type": "article",
-    "title": "PSV wil sterke reeks in Eredivisie voortzetten tegen RKC",
+    "title": "Veerman schiet PSV vlak voor rust op voorsprong tegen stug RKC",
     "subtitle": "Liveblog",
     "published_at": "2023-09-02T16:13:48+02:00",
-    "updated_at": "2023-09-02T19:53:29+02:00",
-    "media_id": "oyhxmxza20z1",
+    "updated_at": "2023-09-02T20:50:58+02:00",
+    "media_id": "pwtx04eapyyg",
     "duration": null,
     "canonical_section": {
       "id": 1772338,
@@ -524,7 +662,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6279228/psv-wil-sterke-reeks-in-eredivisie-voortzetten-tegen-rkc.html",
+    "url": "/voetbal/6279228/veerman-schiet-psv-vlak-voor-rust-op-voorsprong-tegen-stug-rkc.html",
     "open_new_window": false,
     "partner": null
   },
@@ -548,144 +686,6 @@
       "partner": null
     },
     "url": "/dieren/6278885/zo-jaag-je-die-vervelende-fruitvliegjes-de-keuken-uit.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6279225,
-    "slug": "fc-twente-grijpt-supercup-vrouwen-na-ruime-zege-op-landskampioen-ajax",
-    "type": "article",
-    "title": "FC Twente grijpt Supercup vrouwen na ruime zege op landskampioen Ajax",
-    "subtitle": null,
-    "published_at": "2023-09-02T15:59:13+02:00",
-    "updated_at": "2023-09-02T17:24:00+02:00",
-    "media_id": "qpnxvfradlfv",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6279225/fc-twente-grijpt-supercup-vrouwen-na-ruime-zege-op-landskampioen-ajax.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6279204,
-    "slug": "temptation-island-koppel-hield-mentale-problemen-over-aan-deelname-in-2021",
-    "type": "article",
-    "title": "Temptation Island-koppel hield mentale problemen over aan deelname in 2021",
-    "subtitle": null,
-    "published_at": "2023-09-02T15:41:55+02:00",
-    "updated_at": "2023-09-02T15:41:56+02:00",
-    "media_id": "2ejxskuaekkp",
-    "duration": null,
-    "canonical_section": {
-      "id": 125,
-      "slug": "achterklap",
-      "type": "default",
-      "name": "Achterklap",
-      "style": "nuentertainment",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/achterklap/6279204/temptation-island-koppel-hield-mentale-problemen-over-aan-deelname-in-2021.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6279218,
-    "slug": "nasa-ontdekt-krater-in-de-maan-die-waarschijnlijk-door-russische-crash-komt",
-    "type": "article",
-    "title": "NASA ontdekt krater in de maan die waarschijnlijk door Russische crash komt",
-    "subtitle": null,
-    "published_at": "2023-09-02T15:34:16+02:00",
-    "updated_at": "2023-09-02T18:52:40+02:00",
-    "media_id": "81qx0q5asnfu",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771438,
-      "slug": "tech",
-      "type": "default",
-      "name": "Tech",
-      "style": "nutech",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/tech/6279218/nasa-ontdekt-krater-in-de-maan-die-waarschijnlijk-door-russische-crash-komt.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6279221,
-    "slug": "goldband-zanger-boaz-kok-wordt-voor-het-eerst-vader",
-    "type": "article",
-    "title": "Goldband-zanger Boaz Kok wordt voor het eerst vader",
-    "subtitle": null,
-    "published_at": "2023-09-02T15:30:54+02:00",
-    "updated_at": "2023-09-02T15:50:42+02:00",
-    "media_id": "y3sx9qca1uzi",
-    "duration": null,
-    "canonical_section": {
-      "id": 125,
-      "slug": "achterklap",
-      "type": "default",
-      "name": "Achterklap",
-      "style": "nuentertainment",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/achterklap/6279221/goldband-zanger-boaz-kok-wordt-voor-het-eerst-vader.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6279220,
-    "slug": "pijnlijke-nederlaag-chelsea-city-blijft-foutloos-dankzij-ake-en-hattrick-haaland",
-    "type": "article",
-    "title": "Pijnlijke nederlaag Chelsea, City blijft foutloos dankzij Aké en hattrick Haaland",
-    "subtitle": null,
-    "published_at": "2023-09-02T15:30:39+02:00",
-    "updated_at": "2023-09-02T19:55:42+02:00",
-    "media_id": "0t7xxriausly",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6279220/pijnlijke-nederlaag-chelsea-city-blijft-foutloos-dankzij-ake-en-hattrick-haaland.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6279215,
-    "slug": "late-opleving-maakt-deze-zomer-mogelijk-nog-tropisch-maar-nazomer-is-onzeker",
-    "type": "article",
-    "title": "Late opleving maakt deze zomer mogelijk nog tropisch, maar nazomer is onzeker",
-    "subtitle": null,
-    "published_at": "2023-09-02T15:07:34+02:00",
-    "updated_at": "2023-09-02T15:21:15+02:00",
-    "media_id": "8hnx3jwam6uy",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6279215/late-opleving-maakt-deze-zomer-mogelijk-nog-tropisch-maar-nazomer-is-onzeker.html",
     "open_new_window": false,
     "partner": null
   }
