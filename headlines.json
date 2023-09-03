@@ -1,12 +1,58 @@
 [
   {
+    "id": 6279376,
+    "slug": "gauff-maakt-einde-aan-opmars-teruggekeerde-wozniacki-op-us-open",
+    "type": "article",
+    "title": "Gauff maakt einde aan opmars teruggekeerde Wozniacki op US Open",
+    "subtitle": null,
+    "published_at": "2023-09-03T23:33:59+02:00",
+    "updated_at": "2023-09-03T23:56:46+02:00",
+    "media_id": "2fyx5q4agzzq",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772432,
+      "slug": "tennis",
+      "type": "default",
+      "name": "Tennis",
+      "style": "nusport",
+      "media_id": "m1oxohpan0gq",
+      "partner": null
+    },
+    "url": "/tennis/6279376/gauff-maakt-einde-aan-opmars-teruggekeerde-wozniacki-op-us-open.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6279375,
+    "slug": "zelensky-kondigt-ontslag-en-vervanger-minister-van-defensie-aan",
+    "type": "article",
+    "title": "Zelensky kondigt ontslag en vervanger minister van Defensie aan",
+    "subtitle": null,
+    "published_at": "2023-09-03T23:33:04+02:00",
+    "updated_at": "2023-09-03T23:55:30+02:00",
+    "media_id": "ypnx6f6a8woi",
+    "duration": null,
+    "canonical_section": {
+      "id": 1778980,
+      "slug": "spanningen-oekraine",
+      "type": "default",
+      "name": "Oorlog in Oekraïne",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/spanningen-oekraine/6279375/zelensky-kondigt-ontslag-en-vervanger-minister-van-defensie-aan.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6279373,
     "slug": "uitblinker-frenkie-de-jong-boekt-benauwde-overwinning-met-fc-barcelona",
     "type": "article",
     "title": "Uitblinker Frenkie de Jong boekt benauwde overwinning met FC Barcelona",
     "subtitle": null,
     "published_at": "2023-09-03T22:58:51+02:00",
-    "updated_at": "2023-09-03T22:58:52+02:00",
+    "updated_at": "2023-09-03T23:51:27+02:00",
     "media_id": "gavxggxa27g9",
     "duration": null,
     "canonical_section": {
@@ -305,8 +351,8 @@
     "title": "Record Verstappen volgens Wolff alleen leuk voor Wikipedia: 'Leest toch niemand'",
     "subtitle": null,
     "published_at": "2023-09-03T19:45:03+02:00",
-    "updated_at": "2023-09-03T21:06:57+02:00",
-    "media_id": "9kpxwwpan22f",
+    "updated_at": "2023-09-03T23:50:33+02:00",
+    "media_id": "ocpx34faiah0",
     "duration": null,
     "canonical_section": {
       "id": 1772449,
@@ -420,7 +466,7 @@
     "title": "Tiende op rij neemt druk weg bij Verstappen: 'Hij was wat gespannen'",
     "subtitle": "NU+",
     "published_at": "2023-09-03T18:52:20+02:00",
-    "updated_at": "2023-09-03T19:27:24+02:00",
+    "updated_at": "2023-09-03T23:48:54+02:00",
     "media_id": "3toxp0iajt8w",
     "duration": null,
     "canonical_section": {
@@ -640,52 +686,6 @@
       "partner": null
     },
     "url": "/voetbal/6279339/united-van-ten-hag-verliest-in-extremis-enerverende-topper-tegen-arsenal.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6279338,
-    "slug": "kooij-superieur-in-engeland-bijrol-van-der-poel-bij-eerste-koers-in-regenboogtrui",
-    "type": "article",
-    "title": "Kooij superieur in Engeland, bijrol Van der Poel bij eerste koers in regenboogtrui",
-    "subtitle": null,
-    "published_at": "2023-09-03T17:05:09+02:00",
-    "updated_at": "2023-09-03T17:21:12+02:00",
-    "media_id": "6h8xzwvamo6w",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772339,
-      "slug": "wielrennen",
-      "type": "default",
-      "name": "Wielrennen",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/wielrennen/6279338/kooij-superieur-in-engeland-bijrol-van-der-poel-bij-eerste-koers-in-regenboogtrui.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6279337,
-    "slug": "donkere-lucht-van-turkije-kleurt-groen-door-meteoor",
-    "type": "video",
-    "title": "Donkere lucht van Turkije kleurt groen door meteoor",
-    "subtitle": "Video",
-    "published_at": "2023-09-03T16:59:23+02:00",
-    "updated_at": "2023-09-03T16:59:25+02:00",
-    "media_id": "n4qxatvawayg",
-    "duration": "0:21",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6279337/donkere-lucht-van-turkije-kleurt-groen-door-meteoor.html",
     "open_new_window": false,
     "partner": null
   }
