@@ -1,12 +1,58 @@
 [
   {
+    "id": 6279676,
+    "slug": "kom-jij-bij-ons-werken-nunl-zoekt-een-ervaren-nieuwsredacteur",
+    "type": "article",
+    "title": "Kom jij bij ons werken? NU.nl zoekt een ervaren nieuwsredacteur",
+    "subtitle": null,
+    "published_at": "2023-09-05T21:31:16+02:00",
+    "updated_at": "2023-09-05T21:34:30+02:00",
+    "media_id": "hkfx3ybae5vz",
+    "duration": null,
+    "canonical_section": {
+      "id": 1774574,
+      "slug": "vacatures",
+      "type": "default",
+      "name": "Vacatures bij NU.nl",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/vacatures/6279676/kom-jij-bij-ons-werken-nunl-zoekt-een-ervaren-nieuwsredacteur.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6279675,
+    "slug": "jetten-kan-voor-nu-opgelucht-ademhalen-kamer-wil-door-met-klimaatbeleid",
+    "type": "article",
+    "title": "Jetten kan voor nu opgelucht ademhalen: Kamer wil door met klimaatbeleid",
+    "subtitle": null,
+    "published_at": "2023-09-05T21:28:49+02:00",
+    "updated_at": "2023-09-05T21:28:51+02:00",
+    "media_id": "oprxrekanlld",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771437,
+      "slug": "politiek",
+      "type": "default",
+      "name": "Politiek",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/politiek/6279675/jetten-kan-voor-nu-opgelucht-ademhalen-kamer-wil-door-met-klimaatbeleid.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6279674,
     "slug": "tientallen-studenten-vallen-in-water-als-pier-plots-instort-in-vs",
     "type": "video",
     "title": "Tientallen studenten vallen in water als pier plots instort in VS",
     "subtitle": "Video",
     "published_at": "2023-09-05T20:51:06+02:00",
-    "updated_at": "2023-09-05T20:51:15+02:00",
+    "updated_at": "2023-09-05T21:03:23+02:00",
     "media_id": "ol0xornagn8c",
     "duration": "0:29",
     "canonical_section": {
@@ -29,7 +75,7 @@
     "title": "Clusterbommen raken vooral Oekraïense kinderen, graandeal ver weg",
     "subtitle": "Overzicht",
     "published_at": "2023-09-05T20:45:18+02:00",
-    "updated_at": "2023-09-05T20:45:33+02:00",
+    "updated_at": "2023-09-05T21:23:47+02:00",
     "media_id": "sx6x2pgam0m2",
     "duration": null,
     "canonical_section": {
@@ -52,7 +98,7 @@
     "title": "Onduidelijkheid over pikorde Jumbo-Visma in Vuelta na uitspraken Kuss en Roglic",
     "subtitle": null,
     "published_at": "2023-09-05T20:38:43+02:00",
-    "updated_at": "2023-09-05T21:00:03+02:00",
+    "updated_at": "2023-09-05T21:43:13+02:00",
     "media_id": "ti5xqykaof3y",
     "duration": null,
     "canonical_section": {
@@ -75,7 +121,7 @@
     "title": "Waddenzee dreigt UNESCO-status te verliezen door zout- en gaswinning",
     "subtitle": null,
     "published_at": "2023-09-05T20:37:11+02:00",
-    "updated_at": "2023-09-05T20:50:04+02:00",
+    "updated_at": "2023-09-05T21:22:27+02:00",
     "media_id": "de5xi7yakref",
     "duration": null,
     "canonical_section": {
@@ -167,7 +213,7 @@
     "title": "Gauff bereikt halve finales US Open en treedt in voetsporen van Serena Williams",
     "subtitle": null,
     "published_at": "2023-09-05T19:50:14+02:00",
-    "updated_at": "2023-09-05T20:26:03+02:00",
+    "updated_at": "2023-09-05T21:09:32+02:00",
     "media_id": "xt5xz1ja8kem",
     "duration": null,
     "canonical_section": {
@@ -213,7 +259,7 @@
     "title": "Evenepoel heeft ondanks tijdwinst op Roglic dubbel gevoel: 'Niet mijn beste dag'",
     "subtitle": null,
     "published_at": "2023-09-05T19:34:28+02:00",
-    "updated_at": "2023-09-05T20:43:09+02:00",
+    "updated_at": "2023-09-05T21:05:17+02:00",
     "media_id": "s46xlt2aic19",
     "duration": null,
     "canonical_section": {
@@ -420,7 +466,7 @@
     "title": "Politie ontvangt 150 tips over identiteit vermoorde vrouwen in Nederland",
     "subtitle": null,
     "published_at": "2023-09-05T18:08:28+02:00",
-    "updated_at": "2023-09-05T19:21:37+02:00",
+    "updated_at": "2023-09-05T21:10:51+02:00",
     "media_id": "xedxiasa3tyc",
     "duration": null,
     "canonical_section": {
@@ -438,12 +484,12 @@
   },
   {
     "id": 6279650,
-    "slug": "bagagesjouwers-op-schiphol-doen-nog-steeds-te-zwaar-en-te-onveilig-werk",
+    "slug": "bagagesjouwers-op-schiphol-doen-nog-steeds-te-zwaar-werk-inspectie-grijpt-in",
     "type": "article",
-    "title": "Bagagesjouwers op Schiphol doen nog steeds te zwaar én te onveilig werk",
+    "title": "Bagagesjouwers op Schiphol doen nog steeds te zwaar werk, inspectie grijpt in",
     "subtitle": null,
     "published_at": "2023-09-05T17:52:32+02:00",
-    "updated_at": "2023-09-05T19:49:05+02:00",
+    "updated_at": "2023-09-05T21:42:45+02:00",
     "media_id": "3idx6n9a6k37",
     "duration": null,
     "canonical_section": {
@@ -455,7 +501,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/economie/6279650/bagagesjouwers-op-schiphol-doen-nog-steeds-te-zwaar-en-te-onveilig-werk.html",
+    "url": "/economie/6279650/bagagesjouwers-op-schiphol-doen-nog-steeds-te-zwaar-werk-inspectie-grijpt-in.html",
     "open_new_window": false,
     "partner": null
   },
@@ -489,7 +535,7 @@
     "title": "Evenepoel loopt uit op Roglic in Vuelta, maar komt tekort voor zege in tijdrit",
     "subtitle": null,
     "published_at": "2023-09-05T17:35:50+02:00",
-    "updated_at": "2023-09-05T17:55:53+02:00",
+    "updated_at": "2023-09-05T21:06:25+02:00",
     "media_id": "q2dx2g5al3jy",
     "duration": null,
     "canonical_section": {
@@ -604,7 +650,7 @@
     "title": "Omstreden bondscoach Vilda twee weken na wereldtitel ontslagen bij Spanje",
     "subtitle": null,
     "published_at": "2023-09-05T16:44:34+02:00",
-    "updated_at": "2023-09-05T19:56:41+02:00",
+    "updated_at": "2023-09-05T21:38:47+02:00",
     "media_id": "54hxespafykl",
     "duration": null,
     "canonical_section": {
@@ -640,52 +686,6 @@
       "partner": null
     },
     "url": "/economie/6279633/personeel-big-bazar-voorkomt-voorlopig-dat-keten-failliet-gaat.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6279635,
-    "slug": "kooij-en-van-aert-voltooien-hattrick-in-groot-brittannie-van-poppel-tweede",
-    "type": "article",
-    "title": "Kooij en Van Aert voltooien hattrick in Groot-Brittannië, Van Poppel tweede",
-    "subtitle": null,
-    "published_at": "2023-09-05T16:24:49+02:00",
-    "updated_at": "2023-09-05T17:59:37+02:00",
-    "media_id": "ifgxtxfaib6p",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772339,
-      "slug": "wielrennen",
-      "type": "default",
-      "name": "Wielrennen",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/wielrennen/6279635/kooij-en-van-aert-voltooien-hattrick-in-groot-brittannie-van-poppel-tweede.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6279623,
-    "slug": "spaanse-voetbalbond-biedt-hele-wereld-excuses-aan-voor-gedrag-rubiales",
-    "type": "article",
-    "title": "Spaanse voetbalbond biedt hele wereld excuses aan voor gedrag Rubiales",
-    "subtitle": null,
-    "published_at": "2023-09-05T16:19:32+02:00",
-    "updated_at": "2023-09-05T17:24:21+02:00",
-    "media_id": "wjqx50kafgxd",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6279623/spaanse-voetbalbond-biedt-hele-wereld-excuses-aan-voor-gedrag-rubiales.html",
     "open_new_window": false,
     "partner": null
   }
