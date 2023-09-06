@@ -1,5 +1,120 @@
 [
   {
+    "id": 6279748,
+    "slug": "bekijk-hier-live-de-persconferentie-van-koeman-en-de-jong",
+    "type": "video",
+    "title": "Bekijk hier live de persconferentie van Koeman en De Jong",
+    "subtitle": "Livestream",
+    "published_at": "2023-09-06T13:51:23+02:00",
+    "updated_at": "2023-09-06T13:51:32+02:00",
+    "media_id": "uzwxjunakh5n",
+    "duration": "0:01",
+    "canonical_section": {
+      "id": 100,
+      "slug": "algemeen",
+      "type": "default",
+      "name": "Algemeen",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/algemeen/6279748/bekijk-hier-live-de-persconferentie-van-koeman-en-de-jong.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6279511,
+    "slug": "ron-jans-moet-fc-utrecht-uit-crisis-helpen-na-slechtste-seizoensstart-ooit",
+    "type": "article",
+    "title": "Ron Jans moet FC Utrecht uit crisis helpen na slechtste seizoensstart ooit",
+    "subtitle": null,
+    "published_at": "2023-09-06T13:33:33+02:00",
+    "updated_at": "2023-09-06T13:51:15+02:00",
+    "media_id": "xmjxno2a70a9",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6279511/ron-jans-moet-fc-utrecht-uit-crisis-helpen-na-slechtste-seizoensstart-ooit.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6279747,
+    "slug": "man-na-47-jaar-vrijgesproken-van-verkrachting-eindelijk-echt-vrij",
+    "type": "video",
+    "title": "Man na 47 jaar vrijgesproken van verkrachting: 'Eindelijk écht vrij'",
+    "subtitle": "Video",
+    "published_at": "2023-09-06T13:33:06+02:00",
+    "updated_at": "2023-09-06T13:33:07+02:00",
+    "media_id": "dq2xhwzajxa8",
+    "duration": "0:50",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6279747/man-na-47-jaar-vrijgesproken-van-verkrachting-eindelijk-echt-vrij.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6279735,
+    "slug": "snookerkampioen-brecel-na-autorit-van-300-kilometer-eindelijk-herenigd-met-keu",
+    "type": "article",
+    "title": "Snookerkampioen Brecel na autorit van 300 kilometer eindelijk herenigd met keu",
+    "subtitle": null,
+    "published_at": "2023-09-06T13:18:50+02:00",
+    "updated_at": "2023-09-06T13:18:51+02:00",
+    "media_id": "bvhxfsdac9hr",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772456,
+      "slug": "sport-overig",
+      "type": "default",
+      "name": "Sport Overig",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/sport-overig/6279735/snookerkampioen-brecel-na-autorit-van-300-kilometer-eindelijk-herenigd-met-keu.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6279574,
+    "slug": "hoe-snel-moet-je-internet-zijn-je-kunt-mogelijk-geld-besparen",
+    "type": "article",
+    "title": "Hoe snel moet je internet zijn? Je kunt mogelijk geld besparen",
+    "subtitle": "NU+",
+    "published_at": "2023-09-06T13:05:20+02:00",
+    "updated_at": "2023-09-06T13:05:21+02:00",
+    "media_id": "t1lx0o3ahav6",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771438,
+      "slug": "tech",
+      "type": "default",
+      "name": "Tech",
+      "style": "nutech",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/tech/6279574/hoe-snel-moet-je-internet-zijn-je-kunt-mogelijk-geld-besparen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6279741,
     "slug": "kamer-wil-bezuinigingsplannen-ouderenzorg-niet-meer-behandelen",
     "type": "article",
@@ -75,7 +190,7 @@
     "title": "Nederland kiest voor Sweet Dreams met Renée Soutendijk als Oscar-inzending",
     "subtitle": null,
     "published_at": "2023-09-06T12:27:25+02:00",
-    "updated_at": "2023-09-06T12:27:26+02:00",
+    "updated_at": "2023-09-06T13:31:06+02:00",
     "media_id": "h4kx9zran711",
     "duration": null,
     "canonical_section": {
@@ -93,12 +208,12 @@
   },
   {
     "id": 6279736,
-    "slug": "we-kunnen-niet-meer-zonder-google-en-whatsapp-dus-komen-er-strengere-regels",
+    "slug": "we-kunnen-niet-zonder-google-en-whatsapp-dus-komen-er-strengere-regels",
     "type": "article",
-    "title": "We kunnen niet meer zonder Google en WhatsApp, dus komen er strengere regels",
+    "title": "We kunnen niet zonder Google en WhatsApp, dus komen er strengere regels",
     "subtitle": null,
     "published_at": "2023-09-06T12:15:17+02:00",
-    "updated_at": "2023-09-06T12:53:15+02:00",
+    "updated_at": "2023-09-06T13:10:39+02:00",
     "media_id": "ytqx9lcackpy",
     "duration": null,
     "canonical_section": {
@@ -110,7 +225,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/tech/6279736/we-kunnen-niet-meer-zonder-google-en-whatsapp-dus-komen-er-strengere-regels.html",
+    "url": "/tech/6279736/we-kunnen-niet-zonder-google-en-whatsapp-dus-komen-er-strengere-regels.html",
     "open_new_window": false,
     "partner": null
   },
@@ -190,7 +305,7 @@
     "title": "OM vraagt rechtbank om verbod en ontbinding beruchte motorclub Hardliners",
     "subtitle": null,
     "published_at": "2023-09-06T11:30:32+02:00",
-    "updated_at": "2023-09-06T11:30:34+02:00",
+    "updated_at": "2023-09-06T13:12:46+02:00",
     "media_id": "lirx640age17",
     "duration": null,
     "canonical_section": {
@@ -328,7 +443,7 @@
     "title": "Persoon na enkele uren met hoogwerker van Waalbrug gehaald",
     "subtitle": null,
     "published_at": "2023-09-06T10:03:07+02:00",
-    "updated_at": "2023-09-06T12:09:09+02:00",
+    "updated_at": "2023-09-06T13:39:31+02:00",
     "media_id": "ojyxyv0ac99r",
     "duration": null,
     "canonical_section": {
@@ -351,7 +466,7 @@
     "title": "Nieuwe Nederlandse dramaserie Eén Grote Familie vanaf dit najaar te zien",
     "subtitle": null,
     "published_at": "2023-09-06T09:56:14+02:00",
-    "updated_at": "2023-09-06T10:16:31+02:00",
+    "updated_at": "2023-09-06T14:01:24+02:00",
     "media_id": "2v5x6jdal4xd",
     "duration": null,
     "canonical_section": {
@@ -397,7 +512,7 @@
     "title": "Steeds groter prijsverschil tussen nieuwbouwwoningen en bestaande huizen",
     "subtitle": null,
     "published_at": "2023-09-06T09:42:04+02:00",
-    "updated_at": "2023-09-06T10:34:34+02:00",
+    "updated_at": "2023-09-06T13:07:31+02:00",
     "media_id": "hbcx2uaawr9t",
     "duration": null,
     "canonical_section": {
@@ -571,121 +686,6 @@
       "partner": null
     },
     "url": "/sport-overig/6279693/zingende-djokovic-dankbaar-na-nieuw-grand-slam-record-ik-heb-geluk-gehad.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6279649,
-    "slug": "een-bedrijf-dat-zijn-naam-verandert-moet-mijn-vertrouwen-herwinnen",
-    "type": "article",
-    "title": "Een bedrijf dat zijn naam verandert, moet mijn vertrouwen herwinnen",
-    "subtitle": "Stelling",
-    "published_at": "2023-09-06T07:18:12+02:00",
-    "updated_at": "2023-09-06T07:30:35+02:00",
-    "media_id": "3iyxvc4ac0hk",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779134,
-      "slug": "stelling",
-      "type": "default",
-      "name": "Stelling en Praat Mee",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/stelling/6279649/een-bedrijf-dat-zijn-naam-verandert-moet-mijn-vertrouwen-herwinnen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6279689,
-    "slug": "oogappels-krijgt-zesde-seizoen-nieuw-seizoen-vanaf-13-september-te-zien",
-    "type": "article",
-    "title": "Oogappels krijgt zesde seizoen, nieuw seizoen vanaf 13 september te zien",
-    "subtitle": null,
-    "published_at": "2023-09-06T06:36:56+02:00",
-    "updated_at": "2023-09-06T09:41:20+02:00",
-    "media_id": "keqxxlna32bz",
-    "duration": null,
-    "canonical_section": {
-      "id": 127,
-      "slug": "film",
-      "type": "default",
-      "name": "Films & Series",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/film/6279689/oogappels-krijgt-zesde-seizoen-nieuw-seizoen-vanaf-13-september-te-zien.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6279603,
-    "slug": "peter-gillis-ex-nicol-kremers-op-cover-nieuwe-playboy-het-is-een-eer",
-    "type": "article",
-    "title": "Peter Gillis' ex Nicol Kremers op cover nieuwe Playboy: 'Het is een eer'",
-    "subtitle": null,
-    "published_at": "2023-09-06T06:03:51+02:00",
-    "updated_at": "2023-09-06T11:36:10+02:00",
-    "media_id": "7vlxewfahs60",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771675,
-      "slug": "media",
-      "type": "default",
-      "name": "Media",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/media/6279603/peter-gillis-ex-nicol-kremers-op-cover-nieuwe-playboy-het-is-een-eer.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6279631,
-    "slug": "steeds-meer-onbegeleide-kinderen-in-ter-apel-en-de-noodopvang",
-    "type": "article",
-    "title": "Steeds meer onbegeleide kinderen in Ter Apel en de noodopvang",
-    "subtitle": null,
-    "published_at": "2023-09-06T06:01:57+02:00",
-    "updated_at": "2023-09-06T10:29:22+02:00",
-    "media_id": "p2mx0s8a682z",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6279631/steeds-meer-onbegeleide-kinderen-in-ter-apel-en-de-noodopvang.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6279688,
-    "slug": "weerbericht-tropisch-of-net-niet-tropisch-dat-is-de-vraag",
-    "type": "article",
-    "title": "Weerbericht: Tropisch of (net) niet tropisch, dat is de vraag",
-    "subtitle": null,
-    "published_at": "2023-09-06T05:54:27+02:00",
-    "updated_at": "2023-09-06T07:44:00+02:00",
-    "media_id": "aawxayoa8iwj",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6279688/weerbericht-tropisch-of-net-niet-tropisch-dat-is-de-vraag.html",
     "open_new_window": false,
     "partner": null
   }
