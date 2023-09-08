@@ -1,13 +1,59 @@
 [
   {
+    "id": 6280051,
+    "slug": "alleen-kersverse-vader-veerman-ontbreekt-op-oranjetraining-ake-lijkt-fit",
+    "type": "article",
+    "title": "Alleen kersverse vader Veerman ontbreekt op Oranjetraining, Aké lijkt fit",
+    "subtitle": null,
+    "published_at": "2023-09-08T13:45:31+02:00",
+    "updated_at": "2023-09-08T13:56:54+02:00",
+    "media_id": "rp6xug7anoza",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6280051/alleen-kersverse-vader-veerman-ontbreekt-op-oranjetraining-ake-lijkt-fit.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6280044,
+    "slug": "hulpdiensten-halen-mensen-onder-puin-vandaan-na-russische-raketaanval",
+    "type": "video",
+    "title": "Hulpdiensten halen mensen onder puin vandaan na Russische raketaanval",
+    "subtitle": "Video",
+    "published_at": "2023-09-08T13:17:02+02:00",
+    "updated_at": "2023-09-08T13:17:04+02:00",
+    "media_id": "67lxxf9axvoz",
+    "duration": "0:38",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6280044/hulpdiensten-halen-mensen-onder-puin-vandaan-na-russische-raketaanval.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6280042,
     "slug": "big-bazar-wil-belgische-winkels-verkopen-om-bedrijf-te-redden",
     "type": "article",
     "title": "Big Bazar wil Belgische winkels verkopen om bedrijf te redden",
     "subtitle": null,
     "published_at": "2023-09-08T12:25:31+02:00",
-    "updated_at": "2023-09-08T13:00:44+02:00",
-    "media_id": "maaxbtjadjdv",
+    "updated_at": "2023-09-08T13:48:28+02:00",
+    "media_id": "4snx2fjavnkq",
     "duration": null,
     "canonical_section": {
       "id": 99,
@@ -52,7 +98,7 @@
     "title": "Staatssecretaris teleurgesteld over inname van statiegeldflesjes en -blikjes",
     "subtitle": null,
     "published_at": "2023-09-08T12:05:12+02:00",
-    "updated_at": "2023-09-08T12:46:30+02:00",
+    "updated_at": "2023-09-08T13:40:06+02:00",
     "media_id": "hrgxn9ra46f0",
     "duration": null,
     "canonical_section": {
@@ -98,7 +144,7 @@
     "title": "Joey Veerman wordt nacht na Oranje-interland vader van zoon Frenkie",
     "subtitle": null,
     "published_at": "2023-09-08T11:58:43+02:00",
-    "updated_at": "2023-09-08T12:22:18+02:00",
+    "updated_at": "2023-09-08T13:11:38+02:00",
     "media_id": "2i7x6dja3m5w",
     "duration": null,
     "canonical_section": {
@@ -144,7 +190,7 @@
     "title": "Den Haag heeft nieuwe concertzaal, maar geen geld meer voor programmering",
     "subtitle": null,
     "published_at": "2023-09-08T11:46:24+02:00",
-    "updated_at": "2023-09-08T12:33:37+02:00",
+    "updated_at": "2023-09-08T13:59:36+02:00",
     "media_id": "f48xzcbadvg4",
     "duration": null,
     "canonical_section": {
@@ -640,52 +686,6 @@
       "partner": null
     },
     "url": "/uitgelicht/6279994/het-woord-van-vandaag-raad-jij-het-woord-van-de-dag.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6279881,
-    "slug": "vrouwen-eredivisie-begint-op-deze-speelsters-moet-je-dit-seizoen-letten",
-    "type": "article",
-    "title": "Vrouwen Eredivisie begint: op deze speelsters moet je dit seizoen letten",
-    "subtitle": "NU+ ",
-    "published_at": "2023-09-08T08:04:34+02:00",
-    "updated_at": "2023-09-08T11:29:17+02:00",
-    "media_id": "w47xll9a19wf",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6279881/vrouwen-eredivisie-begint-op-deze-speelsters-moet-je-dit-seizoen-letten.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6279991,
-    "slug": "chaos-in-hongkong-na-zwaarste-regenval-in-140-jaar",
-    "type": "video",
-    "title": "Chaos in Hongkong na zwaarste regenval in 140 jaar",
-    "subtitle": "Video",
-    "published_at": "2023-09-08T08:04:29+02:00",
-    "updated_at": "2023-09-08T08:09:31+02:00",
-    "media_id": "jblxyyoadhau",
-    "duration": "0:51",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6279991/chaos-in-hongkong-na-zwaarste-regenval-in-140-jaar.html",
     "open_new_window": false,
     "partner": null
   }
