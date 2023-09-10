@@ -1,5 +1,28 @@
 [
   {
+    "id": 6280087,
+    "slug": "wanneer-is-een-dynamisch-energiecontract-wat-voor-jou",
+    "type": "video",
+    "title": "Wanneer is een dynamisch energiecontract wat voor jou?",
+    "subtitle": "Explainer",
+    "published_at": "2023-09-10T06:36:31+02:00",
+    "updated_at": "2023-09-10T06:36:32+02:00",
+    "media_id": "24cxx5ca34rk",
+    "duration": "1:29",
+    "canonical_section": {
+      "id": 1771719,
+      "slug": "geldzaken",
+      "type": "default",
+      "name": "Geld",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/geldzaken/6280087/wanneer-is-een-dynamisch-energiecontract-wat-voor-jou.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6280254,
     "slug": "ierse-glorie-tegen-oranje-hij-schopte-overmars-bijna-de-tribune-in",
     "type": "article",
@@ -24,12 +47,12 @@
   },
   {
     "id": 6280030,
-    "slug": "bij-het-afscheid-van-van-vleuten-ze-snapte-nog-niet-hoe-het-spelletje-werkte",
+    "slug": "van-vleuten-neemt-afscheid-ze-snapte-nog-niet-hoe-het-spelletje-werkte",
     "type": "article",
-    "title": "Bij het afscheid van Van Vleuten: 'Ze snapte nog niet hoe het spelletje werkte'",
+    "title": "Van Vleuten neemt afscheid: 'Ze snapte nog niet hoe het spelletje werkte'",
     "subtitle": "NU+",
     "published_at": "2023-09-10T05:09:48+02:00",
-    "updated_at": "2023-09-10T05:09:49+02:00",
+    "updated_at": "2023-09-10T06:03:26+02:00",
     "media_id": "wphxo86a5kpd",
     "duration": null,
     "canonical_section": {
@@ -41,7 +64,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/wielrennen/6280030/bij-het-afscheid-van-van-vleuten-ze-snapte-nog-niet-hoe-het-spelletje-werkte.html",
+    "url": "/wielrennen/6280030/van-vleuten-neemt-afscheid-ze-snapte-nog-niet-hoe-het-spelletje-werkte.html",
     "open_new_window": false,
     "partner": null
   },
@@ -663,29 +686,6 @@
       "partner": null
     },
     "url": "/videos/6280223/italiaanse-reddingswerkers-beginnen-met-zieke-amerikaan-uit-grot-te-halen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6280222,
-    "slug": "ouwehand-voelt-steun-en-wil-tegen-zin-van-bestuur-in-lijsttrekker-pvdd-worden",
-    "type": "article",
-    "title": "Ouwehand voelt steun en wil tegen zin van bestuur in lijsttrekker PvdD worden",
-    "subtitle": null,
-    "published_at": "2023-09-09T18:45:52+02:00",
-    "updated_at": "2023-09-09T20:41:04+02:00",
-    "media_id": "nh3x3ojac21n",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771437,
-      "slug": "politiek",
-      "type": "default",
-      "name": "Politiek",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/politiek/6280222/ouwehand-voelt-steun-en-wil-tegen-zin-van-bestuur-in-lijsttrekker-pvdd-worden.html",
     "open_new_window": false,
     "partner": null
   }
