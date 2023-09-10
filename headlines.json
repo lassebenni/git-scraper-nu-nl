@@ -1,5 +1,74 @@
 [
   {
+    "id": 6280291,
+    "slug": "ben-jij-deze-zomer-lekgeprikt-dat-komt-hierdoor",
+    "type": "video",
+    "title": "Ben jij deze zomer lekgeprikt? Dat komt hierdoor",
+    "subtitle": "Video",
+    "published_at": "2023-09-10T14:55:45+02:00",
+    "updated_at": "2023-09-10T14:55:46+02:00",
+    "media_id": "6j5xhpma9n52",
+    "duration": "10:49",
+    "canonical_section": {
+      "id": 1779219,
+      "slug": "tech-wetenschap",
+      "type": "default",
+      "name": "Tech & Wetenschap",
+      "style": "nutech",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/tech-wetenschap/6280291/ben-jij-deze-zomer-lekgeprikt-dat-komt-hierdoor.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6280069,
+    "slug": "voedselprijzen-dalen-en-ics-ongekend-rustig-dit-is-het-positieve-nieuws",
+    "type": "article",
+    "title": "Voedselprijzen dalen en ic's ongekend rustig: dit is het positieve nieuws",
+    "subtitle": null,
+    "published_at": "2023-09-10T14:50:28+02:00",
+    "updated_at": "2023-09-10T14:50:31+02:00",
+    "media_id": "fwtxbdaad2te",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779220,
+      "slug": "goed-nieuws",
+      "type": "default",
+      "name": "Goed nieuws",
+      "style": "nuoverig",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/goed-nieuws/6280069/voedselprijzen-dalen-en-ics-ongekend-rustig-dit-is-het-positieve-nieuws.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6280288,
+    "slug": "antony-komt-voorlopig-niet-in-actie-voor-united-na-beschuldigingen-van-ex-vriendin",
+    "type": "article",
+    "title": "Antony komt voorlopig niet in actie voor United na beschuldigingen van ex-vriendin",
+    "subtitle": null,
+    "published_at": "2023-09-10T14:07:41+02:00",
+    "updated_at": "2023-09-10T14:44:10+02:00",
+    "media_id": "40ix26vagp3s",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6280288/antony-komt-voorlopig-niet-in-actie-voor-united-na-beschuldigingen-van-ex-vriendin.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6280063,
     "slug": "nieuwe-race-naar-de-maan-draait-vooral-om-geld",
     "type": "article",
@@ -24,12 +93,12 @@
   },
   {
     "id": 6280274,
-    "slug": "roeiduo-broeninktwellaar-verovert-wereldtitel-en-zet-nederlands-succes-voort",
+    "slug": "roeiduo-broenink-twellaar-verovert-wereldtitel-en-zet-nederlands-succes-voort",
     "type": "article",
-    "title": "Roeiduo Broenink/Twellaar verovert wereldtitel en zet Nederlands succes voort",
+    "title": "Roeiduo Broenink-Twellaar verovert wereldtitel en zet Nederlands succes voort",
     "subtitle": null,
     "published_at": "2023-09-10T13:46:32+02:00",
-    "updated_at": "2023-09-10T13:58:02+02:00",
+    "updated_at": "2023-09-10T14:44:24+02:00",
     "media_id": "wglxqokatbwp",
     "duration": null,
     "canonical_section": {
@@ -41,7 +110,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/sport-overig/6280274/roeiduo-broeninktwellaar-verovert-wereldtitel-en-zet-nederlands-succes-voort.html",
+    "url": "/sport-overig/6280274/roeiduo-broenink-twellaar-verovert-wereldtitel-en-zet-nederlands-succes-voort.html",
     "open_new_window": false,
     "partner": null
   },
@@ -75,7 +144,7 @@
     "title": "Politiebusje probeert door A12-blokkade te komen in Den Haag",
     "subtitle": "Video",
     "published_at": "2023-09-10T13:19:50+02:00",
-    "updated_at": "2023-09-10T13:58:23+02:00",
+    "updated_at": "2023-09-10T14:37:56+02:00",
     "media_id": "o8bxj7zaq69a",
     "duration": "0:33",
     "canonical_section": {
@@ -93,12 +162,12 @@
   },
   {
     "id": 6280282,
-    "slug": "coach-adil-ramzi-maakte-aardbeving-in-marokko-mee-het-verdriet-is-hier-zo-groot",
+    "slug": "coach-ramzi-maakte-aardbeving-in-marokko-mee-het-verdriet-is-hier-zo-groot",
     "type": "article",
-    "title": "Coach Adil Ramzi maakte aardbeving in Marokko mee: 'Het verdriet is hier zo groot'",
+    "title": "Coach Ramzi maakte aardbeving in Marokko mee: 'Het verdriet is hier zo groot'",
     "subtitle": null,
     "published_at": "2023-09-10T12:55:46+02:00",
-    "updated_at": "2023-09-10T13:25:06+02:00",
+    "updated_at": "2023-09-10T14:15:13+02:00",
     "media_id": "vcsxdo3ah4oi",
     "duration": null,
     "canonical_section": {
@@ -110,7 +179,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6280282/coach-adil-ramzi-maakte-aardbeving-in-marokko-mee-het-verdriet-is-hier-zo-groot.html",
+    "url": "/voetbal/6280282/coach-ramzi-maakte-aardbeving-in-marokko-mee-het-verdriet-is-hier-zo-groot.html",
     "open_new_window": false,
     "partner": null
   },
@@ -167,7 +236,7 @@
     "title": "Hoe moderne techniek het lot van een bommenwerper bezegelde",
     "subtitle": "NU+",
     "published_at": "2023-09-10T12:00:28+02:00",
-    "updated_at": "2023-09-10T13:20:23+02:00",
+    "updated_at": "2023-09-10T14:41:41+02:00",
     "media_id": "h1pxgfiaq8uq",
     "duration": null,
     "canonical_section": {
@@ -190,7 +259,7 @@
     "title": "Alle klimaatactivisten zijn door politie van A12 in Den Haag gehaald",
     "subtitle": null,
     "published_at": "2023-09-10T12:00:11+02:00",
-    "updated_at": "2023-09-10T14:02:01+02:00",
+    "updated_at": "2023-09-10T14:48:00+02:00",
     "media_id": "bk7xz2ual7nf",
     "duration": null,
     "canonical_section": {
@@ -438,12 +507,12 @@
   },
   {
     "id": 6280263,
-    "slug": "historische-moskee-in-atlasgebergte-beschadigd-door-aardbeving",
+    "slug": "tot-nu-toe-ruim-600000-euro-gedoneerd-op-giro-6868-voor-marokko",
     "type": "article",
-    "title": "Historische moskee in Atlasgebergte beschadigd door aardbeving",
+    "title": "Tot nu toe ruim 600.000 euro gedoneerd op Giro 6868 voor Marokko",
     "subtitle": "Liveblog",
     "published_at": "2023-09-10T08:41:36+02:00",
-    "updated_at": "2023-09-10T13:47:58+02:00",
+    "updated_at": "2023-09-10T14:47:56+02:00",
     "media_id": "3bhx6gxaht54",
     "duration": null,
     "canonical_section": {
@@ -455,7 +524,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/buitenland/6280263/historische-moskee-in-atlasgebergte-beschadigd-door-aardbeving.html",
+    "url": "/buitenland/6280263/tot-nu-toe-ruim-600000-euro-gedoneerd-op-giro-6868-voor-marokko.html",
     "open_new_window": false,
     "partner": null
   },
@@ -617,75 +686,6 @@
       "partner": null
     },
     "url": "/uitgelicht/6280256/het-woord-van-vandaag-raad-jij-het-woord-van-de-dag.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6280087,
-    "slug": "wanneer-is-een-dynamisch-energiecontract-wat-voor-jou",
-    "type": "video",
-    "title": "Wanneer is een dynamisch energiecontract wat voor jou?",
-    "subtitle": "Explainer",
-    "published_at": "2023-09-10T06:36:31+02:00",
-    "updated_at": "2023-09-10T12:12:24+02:00",
-    "media_id": "ghnxw0qarr4t",
-    "duration": "1:29",
-    "canonical_section": {
-      "id": 1771719,
-      "slug": "geldzaken",
-      "type": "default",
-      "name": "Geld",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/geldzaken/6280087/wanneer-is-een-dynamisch-energiecontract-wat-voor-jou.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6280254,
-    "slug": "ierse-glorie-tegen-oranje-hij-schopte-overmars-bijna-de-tribune-in",
-    "type": "article",
-    "title": "Ierse glorie tegen Oranje: 'Hij schopte Overmars bijna de tribune in'",
-    "subtitle": "NU+",
-    "published_at": "2023-09-10T05:24:01+02:00",
-    "updated_at": "2023-09-10T13:59:40+02:00",
-    "media_id": "pxsxqhramkuo",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6280254/ierse-glorie-tegen-oranje-hij-schopte-overmars-bijna-de-tribune-in.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6280030,
-    "slug": "van-vleuten-neemt-afscheid-ze-snapte-nog-niet-hoe-het-spelletje-werkte",
-    "type": "article",
-    "title": "Van Vleuten neemt afscheid: 'Ze snapte nog niet hoe het spelletje werkte'",
-    "subtitle": "NU+",
-    "published_at": "2023-09-10T05:09:48+02:00",
-    "updated_at": "2023-09-10T12:58:21+02:00",
-    "media_id": "wphxo86a5kpd",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772339,
-      "slug": "wielrennen",
-      "type": "default",
-      "name": "Wielrennen",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/wielrennen/6280030/van-vleuten-neemt-afscheid-ze-snapte-nog-niet-hoe-het-spelletje-werkte.html",
     "open_new_window": false,
     "partner": null
   }
