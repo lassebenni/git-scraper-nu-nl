@@ -1,12 +1,35 @@
 [
   {
+    "id": 6280344,
+    "slug": "djokovic-neemt-revanche-op-medvedev-en-grijpt-24e-grand-slam-titel-op-us-open",
+    "type": "article",
+    "title": "Djokovic neemt revanche op Medvedev en grijpt 24e Grand Slam-titel op US Open",
+    "subtitle": null,
+    "published_at": "2023-09-11T01:38:52+02:00",
+    "updated_at": "2023-09-11T01:50:49+02:00",
+    "media_id": "ihixw5eamzab",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772432,
+      "slug": "tennis",
+      "type": "default",
+      "name": "Tennis",
+      "style": "nusport",
+      "media_id": "m1oxohpan0gq",
+      "partner": null
+    },
+    "url": "/tennis/6280344/djokovic-neemt-revanche-op-medvedev-en-grijpt-24e-grand-slam-titel-op-us-open.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6280343,
     "slug": "koeman-blij-met-tweede-helft-tegen-ierland-maar-we-zijn-geen-manchester-city",
     "type": "article",
     "title": "Koeman blij met tweede helft tegen Ierland: 'Maar we zijn geen Manchester City'",
     "subtitle": null,
     "published_at": "2023-09-11T00:47:58+02:00",
-    "updated_at": "2023-09-11T00:47:59+02:00",
+    "updated_at": "2023-09-11T01:38:26+02:00",
     "media_id": "365xd0yaf6tl",
     "duration": null,
     "canonical_section": {
@@ -98,7 +121,7 @@
     "title": "Oranje knokt zich langs Ierland na belabberde start en blijft op koers voor EK",
     "subtitle": null,
     "published_at": "2023-09-10T22:42:19+02:00",
-    "updated_at": "2023-09-10T23:54:08+02:00",
+    "updated_at": "2023-09-11T02:04:40+02:00",
     "media_id": "tg4xnbhaj1u2",
     "duration": null,
     "canonical_section": {
@@ -208,12 +231,12 @@
   },
   {
     "id": 6280327,
-    "slug": "djokovic-heeft-nog-een-set-nodig-voor-eerste-us-open-titel-sinds-2018",
+    "slug": "reacties-na-vierde-us-open-titel-djokovic",
     "type": "article",
-    "title": "Djokovic heeft nog een set nodig voor eerste US Open-titel sinds 2018",
+    "title": "Reacties na vierde US Open-titel Djokovic",
     "subtitle": "Liveblog",
     "published_at": "2023-09-10T21:30:53+02:00",
-    "updated_at": "2023-09-11T00:58:30+02:00",
+    "updated_at": "2023-09-11T01:40:48+02:00",
     "media_id": "qmexyrha19o8",
     "duration": null,
     "canonical_section": {
@@ -225,7 +248,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/sport/6280327/djokovic-heeft-nog-een-set-nodig-voor-eerste-us-open-titel-sinds-2018.html",
+    "url": "/sport/6280327/reacties-na-vierde-us-open-titel-djokovic.html",
     "open_new_window": false,
     "partner": null
   },
@@ -663,29 +686,6 @@
       "partner": null
     },
     "url": "/wielrennen/6280302/wiebes-wint-kopecky-grijpt-eindzege-en-van-vleuten-zwaait-af-in-ladies-tour.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6280301,
-    "slug": "barbara-de-loor-vindt-impact-van-nederland-in-beweging-niet-normaal",
-    "type": "article",
-    "title": "Barbara de Loor vindt impact van Nederland in Beweging 'niet normaal'",
-    "subtitle": null,
-    "published_at": "2023-09-10T16:17:05+02:00",
-    "updated_at": "2023-09-10T16:22:59+02:00",
-    "media_id": "hgyxp9saj4fg",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771675,
-      "slug": "media",
-      "type": "default",
-      "name": "Media",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/media/6280301/barbara-de-loor-vindt-impact-van-nederland-in-beweging-niet-normaal.html",
     "open_new_window": false,
     "partner": null
   }
