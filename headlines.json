@@ -1,5 +1,51 @@
 [
   {
+    "id": 6280441,
+    "slug": "meer-dan-helft-van-online-platformen-vertellen-niet-hoe-ze-je-keuze-beinvloeden",
+    "type": "article",
+    "title": "Meer dan helft van online platformen vertellen niet hoe ze je keuze beïnvloeden",
+    "subtitle": null,
+    "published_at": "2023-09-12T00:00:15+02:00",
+    "updated_at": "2023-09-12T00:00:16+02:00",
+    "media_id": "2mcxb37avpoz",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771438,
+      "slug": "tech",
+      "type": "default",
+      "name": "Tech",
+      "style": "nutech",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/tech/6280441/meer-dan-helft-van-online-platformen-vertellen-niet-hoe-ze-je-keuze-beinvloeden.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6280490,
+    "slug": "veilig-thuis-niet-blij-met-meldingen-van-politie-over-kinderen-op-de-a12",
+    "type": "article",
+    "title": "Veilig Thuis niet blij met meldingen van politie over kinderen op de A12",
+    "subtitle": null,
+    "published_at": "2023-09-11T23:30:00+02:00",
+    "updated_at": "2023-09-11T23:53:14+02:00",
+    "media_id": "jt0x7yaa52io",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6280490/veilig-thuis-niet-blij-met-meldingen-van-politie-over-kinderen-op-de-a12.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6280489,
     "slug": "astronomen-vinden-elf-miljard-jaar-oude-sterrenstelsels-die-licht-opslurpen",
     "type": "article",
@@ -24,12 +70,12 @@
   },
   {
     "id": 6280478,
-    "slug": "dit-weten-we-nu-over-de-dodelijke-storm-daniel-die-over-noord-libie-raasde",
+    "slug": "dit-weten-we-nu-over-dodelijke-storm-daniel-die-over-noord-libie-raasde",
     "type": "article",
-    "title": "Dit weten we nu over de dodelijke storm Daniël die over Noord-Libië raasde",
+    "title": "Dit weten we nu over dodelijke storm Daniël die over Noord-Libië raasde",
     "subtitle": null,
     "published_at": "2023-09-11T22:29:31+02:00",
-    "updated_at": "2023-09-11T22:29:32+02:00",
+    "updated_at": "2023-09-11T23:45:21+02:00",
     "media_id": "8o1xcqtahztt",
     "duration": null,
     "canonical_section": {
@@ -41,7 +87,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/buitenland/6280478/dit-weten-we-nu-over-de-dodelijke-storm-daniel-die-over-noord-libie-raasde.html",
+    "url": "/buitenland/6280478/dit-weten-we-nu-over-dodelijke-storm-daniel-die-over-noord-libie-raasde.html",
     "open_new_window": false,
     "partner": null
   },
@@ -98,8 +144,8 @@
     "title": "Feyenoorder Hancko scoort na acht tellen voor Slowakije, recordzege Portugal",
     "subtitle": null,
     "published_at": "2023-09-11T21:01:10+02:00",
-    "updated_at": "2023-09-11T22:59:33+02:00",
-    "media_id": "s9bxry1aybj0",
+    "updated_at": "2023-09-11T23:58:05+02:00",
+    "media_id": "f3wx2eha1aak",
     "duration": null,
     "canonical_section": {
       "id": 1772338,
@@ -489,7 +535,7 @@
     "title": "Middenvelder Pogba test positief op doping en is voorlopig geschorst bij Juventus",
     "subtitle": null,
     "published_at": "2023-09-11T17:50:31+02:00",
-    "updated_at": "2023-09-11T21:10:36+02:00",
+    "updated_at": "2023-09-11T23:54:08+02:00",
     "media_id": "jzrxx48a6a4c",
     "duration": null,
     "canonical_section": {
@@ -640,52 +686,6 @@
       "partner": null
     },
     "url": "/algemeen/6280453/kritieke-grens-in-marokko-bijna-bereikt-eerste-72-uur-zijn-cruciaal.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6280443,
-    "slug": "internationale-hulpteams-staan-klaar-maar-marokko-kijkt-eerst-wat-nodig-is",
-    "type": "article",
-    "title": "Internationale hulpteams staan klaar, maar Marokko kijkt eerst wat nodig is",
-    "subtitle": "NU+",
-    "published_at": "2023-09-11T16:35:44+02:00",
-    "updated_at": "2023-09-11T17:22:22+02:00",
-    "media_id": "hpnxwe4ai3p7",
-    "duration": null,
-    "canonical_section": {
-      "id": 100,
-      "slug": "algemeen",
-      "type": "default",
-      "name": "Algemeen",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/algemeen/6280443/internationale-hulpteams-staan-klaar-maar-marokko-kijkt-eerst-wat-nodig-is.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6280426,
-    "slug": "belangrijk-advies-komend-kabinet-moet-op-zoek-naar-17-miljard",
-    "type": "article",
-    "title": "Belangrijk advies: Komend kabinet moet op zoek naar 17 miljard",
-    "subtitle": null,
-    "published_at": "2023-09-11T16:31:20+02:00",
-    "updated_at": "2023-09-11T17:26:52+02:00",
-    "media_id": "0z4x4hba4ur7",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771437,
-      "slug": "politiek",
-      "type": "default",
-      "name": "Politiek",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/politiek/6280426/belangrijk-advies-komend-kabinet-moet-op-zoek-naar-17-miljard.html",
     "open_new_window": false,
     "partner": null
   }
