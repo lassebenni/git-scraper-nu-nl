@@ -1,13 +1,59 @@
 [
   {
+    "id": 6280488,
+    "slug": "boorplatformen-bij-de-krim-weer-in-oekraiense-handen",
+    "type": "video",
+    "title": "Boorplatformen bij de Krim weer in Oekraïense handen",
+    "subtitle": "Video",
+    "published_at": "2023-09-11T21:58:58+02:00",
+    "updated_at": "2023-09-11T21:58:59+02:00",
+    "media_id": "v59x17ja9slq",
+    "duration": "0:38",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6280488/boorplatformen-bij-de-krim-weer-in-oekraiense-handen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6280486,
+    "slug": "bedenker-ian-wilmut-van-wereldberoemd-gekloond-schaap-dolly-overleden",
+    "type": "article",
+    "title": "'Bedenker' Ian Wilmut van wereldberoemd gekloond schaap Dolly overleden",
+    "subtitle": null,
+    "published_at": "2023-09-11T21:46:38+02:00",
+    "updated_at": "2023-09-11T21:46:40+02:00",
+    "media_id": "9cyx06yawalu",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6280486/bedenker-ian-wilmut-van-wereldberoemd-gekloond-schaap-dolly-overleden.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6280485,
     "slug": "feyenoorder-hancko-scoort-al-na-acht-seconden-in-kwalificatieduel-slowakije",
     "type": "article",
     "title": "Feyenoorder Hancko scoort al na acht seconden in kwalificatieduel Slowakije",
     "subtitle": null,
     "published_at": "2023-09-11T21:01:10+02:00",
-    "updated_at": "2023-09-11T21:01:13+02:00",
-    "media_id": "3eixbwmapt4t",
+    "updated_at": "2023-09-11T21:26:14+02:00",
+    "media_id": "s9bxry1aybj0",
     "duration": null,
     "canonical_section": {
       "id": 1772338,
@@ -75,7 +121,7 @@
     "title": "Nederlandse hulpverleners wachten op groen licht Marokko: 'Tas is gepakt'",
     "subtitle": "NU+",
     "published_at": "2023-09-11T20:37:38+02:00",
-    "updated_at": "2023-09-11T20:37:39+02:00",
+    "updated_at": "2023-09-11T21:20:25+02:00",
     "media_id": "gyyx32lat8g8",
     "duration": null,
     "canonical_section": {
@@ -397,7 +443,7 @@
     "title": "Middenvelder Pogba test positief op doping en is voorlopig geschorst bij Juventus",
     "subtitle": null,
     "published_at": "2023-09-11T17:50:31+02:00",
-    "updated_at": "2023-09-11T20:46:28+02:00",
+    "updated_at": "2023-09-11T21:10:36+02:00",
     "media_id": "jzrxx48a6a4c",
     "duration": null,
     "canonical_section": {
@@ -640,52 +686,6 @@
       "partner": null
     },
     "url": "/voetbal/6280440/directeur-voller-vreest-niet-voor-afstraffing-tegen-fransen-we-blijven-duitsland.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6280436,
-    "slug": "kuss-blijft-ook-op-laatste-vuelta-rustdag-onduidelijk-over-pikorde-jumbo-visma",
-    "type": "article",
-    "title": "Kuss blijft ook op laatste Vuelta-rustdag onduidelijk over pikorde Jumbo-Visma",
-    "subtitle": null,
-    "published_at": "2023-09-11T15:40:43+02:00",
-    "updated_at": "2023-09-11T15:40:45+02:00",
-    "media_id": "v59x5ega6gn5",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772339,
-      "slug": "wielrennen",
-      "type": "default",
-      "name": "Wielrennen",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/wielrennen/6280436/kuss-blijft-ook-op-laatste-vuelta-rustdag-onduidelijk-over-pikorde-jumbo-visma.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6280437,
-    "slug": "mazraoui-en-marokkaanse-selectie-doneren-bloed-voor-slachtoffers-aardbeving",
-    "type": "video",
-    "title": "Mazraoui en Marokkaanse selectie doneren bloed voor slachtoffers aardbeving",
-    "subtitle": "Video",
-    "published_at": "2023-09-11T15:36:35+02:00",
-    "updated_at": "2023-09-11T15:40:59+02:00",
-    "media_id": "7eaxcr1as89u",
-    "duration": "0:46",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6280437/mazraoui-en-marokkaanse-selectie-doneren-bloed-voor-slachtoffers-aardbeving.html",
     "open_new_window": false,
     "partner": null
   }
