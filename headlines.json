@@ -1,12 +1,81 @@
 [
   {
+    "id": 6280652,
+    "slug": "topman-bp-moet-per-direct-opstappen-vanwege-relaties-met-collegas",
+    "type": "article",
+    "title": "Topman BP moet per direct opstappen vanwege relaties met collega's",
+    "subtitle": null,
+    "published_at": "2023-09-13T08:41:43+02:00",
+    "updated_at": "2023-09-13T08:41:44+02:00",
+    "media_id": "9dmx03takcco",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6280652/topman-bp-moet-per-direct-opstappen-vanwege-relaties-met-collegas.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6280653,
+    "slug": "wateroverlast-veroorzaakt-zinkgat-in-straat-in-maastricht",
+    "type": "video",
+    "title": "Wateroverlast veroorzaakt zinkgat in straat in Maastricht",
+    "subtitle": "Video",
+    "published_at": "2023-09-13T08:37:05+02:00",
+    "updated_at": "2023-09-13T08:37:06+02:00",
+    "media_id": "gdixeyeax5uf",
+    "duration": "0:34",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6280653/wateroverlast-veroorzaakt-zinkgat-in-straat-in-maastricht.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6280651,
+    "slug": "nederlands-team-met-zoekhonden-naar-marokko-voor-hulp-na-aardbeving",
+    "type": "article",
+    "title": "Nederlands team met zoekhonden naar Marokko voor hulp na aardbeving",
+    "subtitle": null,
+    "published_at": "2023-09-13T08:12:25+02:00",
+    "updated_at": "2023-09-13T08:42:52+02:00",
+    "media_id": "sirx4awavdzp",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6280651/nederlands-team-met-zoekhonden-naar-marokko-voor-hulp-na-aardbeving.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6280649,
     "slug": "duitsers-bouwen-windmolens-op-plek-van-kernramp-tsjernobyl",
     "type": "article",
     "title": "Duitsers bouwen windmolens op plek van kernramp Tsjernobyl",
     "subtitle": null,
     "published_at": "2023-09-13T07:59:56+02:00",
-    "updated_at": "2023-09-13T07:59:57+02:00",
+    "updated_at": "2023-09-13T08:08:34+02:00",
     "media_id": "qt8xq9eaauab",
     "duration": null,
     "canonical_section": {
@@ -29,7 +98,7 @@
     "title": "Tagliafico scoort voor Argentinië, Brazilië wint nipt in WK-kwalificatie",
     "subtitle": null,
     "published_at": "2023-09-13T07:53:45+02:00",
-    "updated_at": "2023-09-13T08:00:27+02:00",
+    "updated_at": "2023-09-13T08:11:33+02:00",
     "media_id": "mrfx8xyai9ji",
     "duration": null,
     "canonical_section": {
@@ -47,12 +116,12 @@
   },
   {
     "id": 6280647,
-    "slug": "man-wordt-gearresteerd-na-betasten-verslaggever-op-spaanse-tv",
+    "slug": "politie-arresteert-man-die-verslaggever-live-op-spaanse-tv-betastte",
     "type": "video",
-    "title": "Man wordt gearresteerd na betasten verslaggever op Spaanse tv",
+    "title": "Politie arresteert man die verslaggever live op Spaanse tv betastte",
     "subtitle": "Video",
     "published_at": "2023-09-13T07:50:29+02:00",
-    "updated_at": "2023-09-13T07:50:30+02:00",
+    "updated_at": "2023-09-13T09:01:37+02:00",
     "media_id": "pr8xr2qapfec",
     "duration": "0:44",
     "canonical_section": {
@@ -64,7 +133,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/videos/6280647/man-wordt-gearresteerd-na-betasten-verslaggever-op-spaanse-tv.html",
+    "url": "/videos/6280647/politie-arresteert-man-die-verslaggever-live-op-spaanse-tv-betastte.html",
     "open_new_window": false,
     "partner": null
   },
@@ -213,7 +282,7 @@
     "title": "Marrakesh baalt van vertrekkende toeristen: 'De stad is dood zonder ze'",
     "subtitle": "Video",
     "published_at": "2023-09-13T06:42:32+02:00",
-    "updated_at": "2023-09-13T06:46:09+02:00",
+    "updated_at": "2023-09-13T08:56:17+02:00",
     "media_id": "7xkxu9rau15a",
     "duration": "2:35",
     "canonical_section": {
@@ -305,7 +374,7 @@
     "title": "Verstappen heeft derde titel voor het grijpen: wanneer kan hij kampioen worden?",
     "subtitle": null,
     "published_at": "2023-09-13T05:11:41+02:00",
-    "updated_at": "2023-09-13T07:01:04+02:00",
+    "updated_at": "2023-09-13T08:55:28+02:00",
     "media_id": "59hx8raat4nd",
     "duration": null,
     "canonical_section": {
@@ -328,7 +397,7 @@
     "title": "Bus, tram en metro worden in 2024 wéér duurder: 'Prijsverhoging is schrikbarend'",
     "subtitle": null,
     "published_at": "2023-09-13T05:09:37+02:00",
-    "updated_at": "2023-09-13T07:59:51+02:00",
+    "updated_at": "2023-09-13T08:32:14+02:00",
     "media_id": "46txkz7al15a",
     "duration": null,
     "canonical_section": {
@@ -349,9 +418,9 @@
     "slug": "vakantie-in-een-rampgebied-marrakesh-ziet-toeristen-nog-steeds-graag-komen",
     "type": "article",
     "title": "Vakantie in een rampgebied? Marrakesh ziet toeristen nog steeds graag komen",
-    "subtitle": null,
+    "subtitle": "Vanuit Marokko",
     "published_at": "2023-09-13T05:07:41+02:00",
-    "updated_at": "2023-09-13T06:15:05+02:00",
+    "updated_at": "2023-09-13T08:12:15+02:00",
     "media_id": "381xnkja1dyf",
     "duration": null,
     "canonical_section": {
@@ -512,7 +581,7 @@
     "title": "Duitsland keert tij onder Völler en rekent in oefenwedstrijd af met Frankrijk",
     "subtitle": null,
     "published_at": "2023-09-12T23:08:32+02:00",
-    "updated_at": "2023-09-13T02:16:52+02:00",
+    "updated_at": "2023-09-13T08:22:25+02:00",
     "media_id": "o0hxlwia9kz2",
     "duration": null,
     "canonical_section": {
@@ -617,75 +686,6 @@
       "partner": null
     },
     "url": "/videos/6280626/straten-staan-blank-na-zware-regenbuien-in-zuid-limburg.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6280625,
-    "slug": "venetie-start-proef-met-entreekaartjes-van-5-euro-voor-dagtoeristen",
-    "type": "article",
-    "title": "Venetië start proef met entreekaartjes van 5 euro voor dagtoeristen",
-    "subtitle": null,
-    "published_at": "2023-09-12T22:31:03+02:00",
-    "updated_at": "2023-09-13T06:43:41+02:00",
-    "media_id": "n03xsl2aymje",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6280625/venetie-start-proef-met-entreekaartjes-van-5-euro-voor-dagtoeristen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6280624,
-    "slug": "over-en-weer-aanvallen-maar-versterking-voor-oekraine-is-onderweg",
-    "type": "article",
-    "title": "Over en weer aanvallen, maar versterking voor Oekraïne is onderweg",
-    "subtitle": "Overzicht",
-    "published_at": "2023-09-12T22:16:48+02:00",
-    "updated_at": "2023-09-12T22:34:46+02:00",
-    "media_id": "x2hxlocaf9cc",
-    "duration": null,
-    "canonical_section": {
-      "id": 1778980,
-      "slug": "spanningen-oekraine",
-      "type": "default",
-      "name": "Oorlog in Oekraïne",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/spanningen-oekraine/6280624/over-en-weer-aanvallen-maar-versterking-voor-oekraine-is-onderweg.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6280581,
-    "slug": "dringend-op-zoek-naar-een-kamer-deze-tips-helpen-bij-het-hospiteren",
-    "type": "article",
-    "title": "Dringend op zoek naar een kamer? Deze tips helpen bij het hospiteren",
-    "subtitle": "NU+",
-    "published_at": "2023-09-12T21:33:23+02:00",
-    "updated_at": "2023-09-13T07:26:04+02:00",
-    "media_id": "u2hxmicaixke",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779236,
-      "slug": "nuverder",
-      "type": "default",
-      "name": "Dagelijks leven",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/nuverder/6280581/dringend-op-zoek-naar-een-kamer-deze-tips-helpen-bij-het-hospiteren.html",
     "open_new_window": false,
     "partner": null
   }
