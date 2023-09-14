@@ -1,12 +1,104 @@
 [
   {
+    "id": 6280873,
+    "slug": "eerste-deel-dummie-de-mummie-ontvangt-gouden-boek",
+    "type": "article",
+    "title": "Eerste deel Dummie de mummie ontvangt Gouden Boek",
+    "subtitle": null,
+    "published_at": "2023-09-14T15:40:51+02:00",
+    "updated_at": "2023-09-14T15:40:52+02:00",
+    "media_id": "f6rx6kaak4nx",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772075,
+      "slug": "cultuur-overig",
+      "type": "default",
+      "name": "Boek & Cultuur",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/cultuur-overig/6280873/eerste-deel-dummie-de-mummie-ontvangt-gouden-boek.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6280870,
+    "slug": "reddingswerkers-en-journalisten-vluchten-voor-naschok-van-aardbeving",
+    "type": "video",
+    "title": "Reddingswerkers en journalisten vluchten voor naschok van aardbeving",
+    "subtitle": "Video",
+    "published_at": "2023-09-14T15:30:25+02:00",
+    "updated_at": "2023-09-14T15:30:26+02:00",
+    "media_id": "f3vxbnyapzej",
+    "duration": "0:38",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6280870/reddingswerkers-en-journalisten-vluchten-voor-naschok-van-aardbeving.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6280867,
+    "slug": "verstappen-niet-boos-om-wikipedia-uitspraak-wolff-lijkt-soms-of-hij-bij-ons-werkt",
+    "type": "article",
+    "title": "Verstappen niet boos om Wikipedia-uitspraak Wolff: 'Lijkt soms of hij bij ons werkt'",
+    "subtitle": null,
+    "published_at": "2023-09-14T15:23:32+02:00",
+    "updated_at": "2023-09-14T16:01:23+02:00",
+    "media_id": "1b5xx6sas86n",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772449,
+      "slug": "formule-1",
+      "type": "default",
+      "name": "Formule 1",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/formule-1/6280867/verstappen-niet-boos-om-wikipedia-uitspraak-wolff-lijkt-soms-of-hij-bij-ons-werkt.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6280868,
+    "slug": "cruiseschip-dat-vastlag-bij-groenland-losgetrokken-door-vissersboot",
+    "type": "article",
+    "title": "Cruiseschip dat vastlag bij Groenland losgetrokken door vissersboot",
+    "subtitle": null,
+    "published_at": "2023-09-14T15:20:17+02:00",
+    "updated_at": "2023-09-14T15:46:37+02:00",
+    "media_id": "y49x13eayxgj",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6280868/cruiseschip-dat-vastlag-bij-groenland-losgetrokken-door-vissersboot.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6280861,
     "slug": "politie-belgie-blundert-met-verdachte-van-poging-tot-doodslag-in-campagnevideo",
     "type": "article",
     "title": "Politie België blundert met verdachte van poging tot doodslag in campagnevideo",
     "subtitle": null,
     "published_at": "2023-09-14T14:55:56+02:00",
-    "updated_at": "2023-09-14T14:55:57+02:00",
+    "updated_at": "2023-09-14T15:39:48+02:00",
     "media_id": "u83x4jfao9ii",
     "duration": null,
     "canonical_section": {
@@ -75,7 +167,7 @@
     "title": "Nederland wil technische hulp naar rampgebied Libië sturen, nog geen groen licht",
     "subtitle": null,
     "published_at": "2023-09-14T14:25:08+02:00",
-    "updated_at": "2023-09-14T14:26:43+02:00",
+    "updated_at": "2023-09-14T16:00:46+02:00",
     "media_id": "o0dxmvga6xxf",
     "duration": null,
     "canonical_section": {
@@ -98,7 +190,7 @@
     "title": "ECB schroeft rente voor tiende keer op naar hoogste niveau ooit",
     "subtitle": null,
     "published_at": "2023-09-14T14:16:40+02:00",
-    "updated_at": "2023-09-14T14:40:06+02:00",
+    "updated_at": "2023-09-14T15:12:45+02:00",
     "media_id": "058xtbiakyvg",
     "duration": null,
     "canonical_section": {
@@ -144,7 +236,7 @@
     "title": "Zo verdienen techgiganten als Google geld met jouw data",
     "subtitle": "NU+",
     "published_at": "2023-09-14T13:01:10+02:00",
-    "updated_at": "2023-09-14T13:27:15+02:00",
+    "updated_at": "2023-09-14T15:53:02+02:00",
     "media_id": "eppx53xak2nh",
     "duration": null,
     "canonical_section": {
@@ -185,13 +277,13 @@
   },
   {
     "id": 6280846,
-    "slug": "evenepoel-sprokkelt-bergpunten-peloton-kijkt-naar-jumbo-visma-in-zware-vuelta-rit",
+    "slug": "evenepoel-verzekert-bergtrui-peloton-kijkt-naar-jumbo-visma-in-zware-vuelta-rit",
     "type": "article",
-    "title": "Evenepoel sprokkelt bergpunten, peloton kijkt naar Jumbo-Visma in zware Vuelta-rit",
+    "title": "Evenepoel verzekert bergtrui, peloton kijkt naar Jumbo-Visma in zware Vuelta-rit",
     "subtitle": "Liveblog",
     "published_at": "2023-09-14T12:50:47+02:00",
-    "updated_at": "2023-09-14T14:39:57+02:00",
-    "media_id": "8tpx0efarjgn",
+    "updated_at": "2023-09-14T15:42:18+02:00",
+    "media_id": "a0cxv3ca88jt",
     "duration": null,
     "canonical_section": {
       "id": 1772339,
@@ -202,7 +294,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/wielrennen/6280846/evenepoel-sprokkelt-bergpunten-peloton-kijkt-naar-jumbo-visma-in-zware-vuelta-rit.html",
+    "url": "/wielrennen/6280846/evenepoel-verzekert-bergtrui-peloton-kijkt-naar-jumbo-visma-in-zware-vuelta-rit.html",
     "open_new_window": false,
     "partner": null
   },
@@ -282,7 +374,7 @@
     "title": "Kabelaars verbolgen over vermeende toekenning Eredivisie-rechten aan ESPN",
     "subtitle": null,
     "published_at": "2023-09-14T12:17:08+02:00",
-    "updated_at": "2023-09-14T12:17:09+02:00",
+    "updated_at": "2023-09-14T15:28:16+02:00",
     "media_id": "ctaxdyra5jk1",
     "duration": null,
     "canonical_section": {
@@ -443,7 +535,7 @@
     "title": "Brugts kan competitiedebuut maken voor Barça: staking voor meer salaris voorbij",
     "subtitle": null,
     "published_at": "2023-09-14T11:06:32+02:00",
-    "updated_at": "2023-09-14T12:46:00+02:00",
+    "updated_at": "2023-09-14T15:50:49+02:00",
     "media_id": "6xgxowxa19xi",
     "duration": null,
     "canonical_section": {
@@ -594,98 +686,6 @@
       "partner": null
     },
     "url": "/economie/6280814/bcc-vraagt-uitstel-van-betaling-aan-winkels-blijven-voorlopig-open.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6280704,
-    "slug": "dit-gebeurt-er-met-dieren-die-in-bewaring-zijn-genomen",
-    "type": "article",
-    "title": "Dit gebeurt er met dieren die in bewaring zijn genomen",
-    "subtitle": "In 100 woorden",
-    "published_at": "2023-09-14T09:03:10+02:00",
-    "updated_at": "2023-09-14T10:59:02+02:00",
-    "media_id": "8fox6amayi9q",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779003,
-      "slug": "gebaseerd-op-jullie-vragen",
-      "type": "default",
-      "name": "Gebaseerd op NUjij",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/gebaseerd-op-jullie-vragen/6280704/dit-gebeurt-er-met-dieren-die-in-bewaring-zijn-genomen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6280806,
-    "slug": "liev-schreiber-en-vriendin-taylor-neisen-hebben-dochter-gekregen",
-    "type": "article",
-    "title": "Liev Schreiber en vriendin Taylor Neisen hebben dochter gekregen",
-    "subtitle": null,
-    "published_at": "2023-09-14T08:40:57+02:00",
-    "updated_at": "2023-09-14T13:40:59+02:00",
-    "media_id": "t67xi8zap4pe",
-    "duration": null,
-    "canonical_section": {
-      "id": 125,
-      "slug": "achterklap",
-      "type": "default",
-      "name": "Achterklap",
-      "style": "nuentertainment",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/achterklap/6280806/liev-schreiber-en-vriendin-taylor-neisen-hebben-dochter-gekregen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6280805,
-    "slug": "overheid-moet-scherpe-eisen-stellen-aan-bedrijven-om-problemen-aan-te-pakken",
-    "type": "article",
-    "title": "Overheid moet scherpe eisen stellen aan bedrijven om problemen aan te pakken",
-    "subtitle": null,
-    "published_at": "2023-09-14T08:37:13+02:00",
-    "updated_at": "2023-09-14T08:37:14+02:00",
-    "media_id": "d8oxmr4ap93e",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6280805/overheid-moet-scherpe-eisen-stellen-aan-bedrijven-om-problemen-aan-te-pakken.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6280804,
-    "slug": "hartono-vervolgt-langverwachte-winst-op-wta-niveau-met-klinkende-zege",
-    "type": "article",
-    "title": "Hartono vervolgt langverwachte winst op WTA-niveau met klinkende zege",
-    "subtitle": null,
-    "published_at": "2023-09-14T08:04:43+02:00",
-    "updated_at": "2023-09-14T09:05:24+02:00",
-    "media_id": "u0lxjb2aj8w5",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772432,
-      "slug": "tennis",
-      "type": "default",
-      "name": "Tennis",
-      "style": "nusport",
-      "media_id": "m1oxohpan0gq",
-      "partner": null
-    },
-    "url": "/tennis/6280804/hartono-vervolgt-langverwachte-winst-op-wta-niveau-met-klinkende-zege.html",
     "open_new_window": false,
     "partner": null
   }
