@@ -1,12 +1,127 @@
 [
   {
+    "id": 6280825,
+    "slug": "musk-pleit-tijdens-gesprek-met-techleiders-voor-scheidsrechter-voor-ai",
+    "type": "article",
+    "title": "Musk pleit tijdens gesprek met techleiders voor 'scheidsrechter voor AI'",
+    "subtitle": null,
+    "published_at": "2023-09-14T10:54:18+02:00",
+    "updated_at": "2023-09-14T10:54:22+02:00",
+    "media_id": "c1rx0dvaac1p",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771438,
+      "slug": "tech",
+      "type": "default",
+      "name": "Tech",
+      "style": "nutech",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/tech/6280825/musk-pleit-tijdens-gesprek-met-techleiders-voor-scheidsrechter-voor-ai.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6280827,
+    "slug": "verdachten-varen-strand-op-tijdens-vlucht-voor-spaanse-kustwacht",
+    "type": "video",
+    "title": "Verdachten varen strand op tijdens vlucht voor Spaanse kustwacht",
+    "subtitle": "Video",
+    "published_at": "2023-09-14T10:43:19+02:00",
+    "updated_at": "2023-09-14T10:56:54+02:00",
+    "media_id": "555x27hadgae",
+    "duration": "0:50",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6280827/verdachten-varen-strand-op-tijdens-vlucht-voor-spaanse-kustwacht.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6280824,
+    "slug": "verpakkingsvrije-winkel-pieter-pot-vraagt-klanten-opnieuw-geld-in-te-leggen",
+    "type": "article",
+    "title": "Verpakkingsvrije winkel Pieter Pot vraagt klanten opnieuw geld in te leggen",
+    "subtitle": null,
+    "published_at": "2023-09-14T10:38:50+02:00",
+    "updated_at": "2023-09-14T11:00:06+02:00",
+    "media_id": "08kxfnoaqt5y",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6280824/verpakkingsvrije-winkel-pieter-pot-vraagt-klanten-opnieuw-geld-in-te-leggen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6280821,
+    "slug": "voor-het-eerst-nederlandse-fokker-van-franse-buldogs-met-te-korte-snuit-beboet",
+    "type": "article",
+    "title": "Voor het eerst Nederlandse fokker van Franse buldogs met te korte snuit beboet",
+    "subtitle": null,
+    "published_at": "2023-09-14T10:23:21+02:00",
+    "updated_at": "2023-09-14T10:23:22+02:00",
+    "media_id": "cczxq0nac3ux",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6280821/voor-het-eerst-nederlandse-fokker-van-franse-buldogs-met-te-korte-snuit-beboet.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6280807,
+    "slug": "nederlandse-schindler-krijgt-hoogste-benoeming-voor-redden-duizenden-joden",
+    "type": "article",
+    "title": "'Nederlandse Schindler' krijgt hoogste benoeming voor redden duizenden Joden",
+    "subtitle": null,
+    "published_at": "2023-09-14T10:02:42+02:00",
+    "updated_at": "2023-09-14T10:05:30+02:00",
+    "media_id": "25bxwjma1kff",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6280807/nederlandse-schindler-krijgt-hoogste-benoeming-voor-redden-duizenden-joden.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6280814,
     "slug": "bcc-vraagt-uitstel-van-betaling-aan-winkels-blijven-voorlopig-open",
     "type": "article",
     "title": "BCC vraagt uitstel van betaling aan, winkels blijven voorlopig open",
     "subtitle": null,
     "published_at": "2023-09-14T09:56:22+02:00",
-    "updated_at": "2023-09-14T09:56:23+02:00",
+    "updated_at": "2023-09-14T10:21:48+02:00",
     "media_id": "jonx1rqaxtr6",
     "duration": null,
     "canonical_section": {
@@ -24,12 +139,12 @@
   },
   {
     "id": 6280704,
-    "slug": "dit-gebeurt-er-met-dieren-die-in-beslag-zijn-genomen",
+    "slug": "dit-gebeurt-er-met-dieren-die-in-bewaring-zijn-genomen",
     "type": "article",
-    "title": "Dit gebeurt er met dieren die in beslag zijn genomen",
+    "title": "Dit gebeurt er met dieren die in bewaring zijn genomen",
     "subtitle": "In 100 woorden",
     "published_at": "2023-09-14T09:03:10+02:00",
-    "updated_at": "2023-09-14T09:03:13+02:00",
+    "updated_at": "2023-09-14T10:59:02+02:00",
     "media_id": "8fox6amayi9q",
     "duration": null,
     "canonical_section": {
@@ -41,7 +156,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/gebaseerd-op-jullie-vragen/6280704/dit-gebeurt-er-met-dieren-die-in-beslag-zijn-genomen.html",
+    "url": "/gebaseerd-op-jullie-vragen/6280704/dit-gebeurt-er-met-dieren-die-in-bewaring-zijn-genomen.html",
     "open_new_window": false,
     "partner": null
   },
@@ -167,7 +282,7 @@
     "title": "VEH wil oplossing voor vleermuizenprobleem bij isolatie spouwmuren",
     "subtitle": null,
     "published_at": "2023-09-14T07:30:41+02:00",
-    "updated_at": "2023-09-14T07:46:42+02:00",
+    "updated_at": "2023-09-14T10:23:37+02:00",
     "media_id": "92zxo3faxhti",
     "duration": null,
     "canonical_section": {
@@ -374,7 +489,7 @@
     "title": "Aangrijpende foto's tonen verwoestende ramp in Libië",
     "subtitle": "In beeld",
     "published_at": "2023-09-14T05:09:09+02:00",
-    "updated_at": "2023-09-14T08:59:59+02:00",
+    "updated_at": "2023-09-14T10:30:47+02:00",
     "media_id": "dowx27sayz5h",
     "duration": null,
     "canonical_section": {
@@ -415,12 +530,12 @@
   },
   {
     "id": 6280785,
-    "slug": "hulpverlening-in-rampgebied-stuurloos-niemand-heeft-de-leiding",
+    "slug": "hulpverlening-in-rampgebied-stuurloos-niemand-heeft-leiding",
     "type": "article",
-    "title": "Hulpverlening in rampgebied stuurloos: 'Niemand heeft de leiding'",
+    "title": "Hulpverlening in rampgebied stuurloos: 'Niemand heeft leiding'",
     "subtitle": "Vanuit Marokko",
     "published_at": "2023-09-14T05:05:47+02:00",
-    "updated_at": "2023-09-14T08:51:35+02:00",
+    "updated_at": "2023-09-14T10:24:32+02:00",
     "media_id": "g0nxqjvawhwp",
     "duration": null,
     "canonical_section": {
@@ -432,7 +547,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/buitenland/6280785/hulpverlening-in-rampgebied-stuurloos-niemand-heeft-de-leiding.html",
+    "url": "/buitenland/6280785/hulpverlening-in-rampgebied-stuurloos-niemand-heeft-leiding.html",
     "open_new_window": false,
     "partner": null
   },
@@ -571,121 +686,6 @@
       "partner": null
     },
     "url": "/politiek/6280788/groot-deel-van-lage-inkomens-krijgt-dit-jaar-toch-nog-een-energietoeslag.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6280784,
-    "slug": "clubs-en-espn-sluiten-deal-van-750-miljoen-euro-over-uitzendrechten-eredivisie",
-    "type": "article",
-    "title": "Clubs en ESPN sluiten deal van 750 miljoen euro over uitzendrechten Eredivisie",
-    "subtitle": null,
-    "published_at": "2023-09-13T23:12:03+02:00",
-    "updated_at": "2023-09-14T09:11:54+02:00",
-    "media_id": "u8kxem8av07t",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6280784/clubs-en-espn-sluiten-deal-van-750-miljoen-euro-over-uitzendrechten-eredivisie.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6280781,
-    "slug": "burgemeester-libische-stad-derna-dodental-loopt-mogelijk-op-tot-20000",
-    "type": "article",
-    "title": "Burgemeester Libische stad Derna: 'Dodental loopt mogelijk op tot 20.000'",
-    "subtitle": null,
-    "published_at": "2023-09-13T22:46:48+02:00",
-    "updated_at": "2023-09-14T05:14:37+02:00",
-    "media_id": "00wx0hiar0cf",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6280781/burgemeester-libische-stad-derna-dodental-loopt-mogelijk-op-tot-20000.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6280780,
-    "slug": "van-der-poel-overweegt-seizoen-eerder-te-beeindigen-dit-heeft-niet-veel-nut",
-    "type": "article",
-    "title": "Van der Poel overweegt seizoen eerder te beëindigen: 'Dit heeft niet veel nut'",
-    "subtitle": null,
-    "published_at": "2023-09-13T22:15:59+02:00",
-    "updated_at": "2023-09-13T22:28:35+02:00",
-    "media_id": "k3sxxhja4yal",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772339,
-      "slug": "wielrennen",
-      "type": "default",
-      "name": "Wielrennen",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/wielrennen/6280780/van-der-poel-overweegt-seizoen-eerder-te-beeindigen-dit-heeft-niet-veel-nut.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6280778,
-    "slug": "boer-hijst-os-uit-zinkgat-in-engeland",
-    "type": "video",
-    "title": "Boer hijst os uit zinkgat in Engeland",
-    "subtitle": "Video",
-    "published_at": "2023-09-13T22:00:40+02:00",
-    "updated_at": "2023-09-13T22:00:41+02:00",
-    "media_id": "n76xoika6ubg",
-    "duration": "0:48",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6280778/boer-hijst-os-uit-zinkgat-in-engeland.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6280777,
-    "slug": "noodtoestand-op-lampedusa-door-aankomst-van-duizenden-migranten",
-    "type": "article",
-    "title": "Noodtoestand op Lampedusa door aankomst van duizenden migranten",
-    "subtitle": null,
-    "published_at": "2023-09-13T21:37:13+02:00",
-    "updated_at": "2023-09-14T06:51:29+02:00",
-    "media_id": "bt9x6yial3n9",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6280777/noodtoestand-op-lampedusa-door-aankomst-van-duizenden-migranten.html",
     "open_new_window": false,
     "partner": null
   }
