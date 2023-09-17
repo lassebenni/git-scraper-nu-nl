@@ -1,12 +1,150 @@
 [
   {
+    "id": 6281285,
+    "slug": "zo-ziet-de-eerste-kruising-tussen-een-hond-en-een-vos-eruit",
+    "type": "video",
+    "title": "Zo ziet de eerste kruising tussen een hond en een vos eruit",
+    "subtitle": "Video",
+    "published_at": "2023-09-17T16:59:30+02:00",
+    "updated_at": "2023-09-17T16:59:36+02:00",
+    "media_id": "pavxhgza0hu5",
+    "duration": "0:46",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6281285/zo-ziet-de-eerste-kruising-tussen-een-hond-en-een-vos-eruit.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6281283,
+    "slug": "spectaculaire-ontknoping-in-singapore-russell-crasht-en-sainz-wint",
+    "type": "video",
+    "title": "Spectaculaire ontknoping in Singapore: Russell crasht en Sainz wint",
+    "subtitle": "Video",
+    "published_at": "2023-09-17T16:56:27+02:00",
+    "updated_at": "2023-09-17T16:56:28+02:00",
+    "media_id": "wxfxhchaisk7",
+    "duration": "2:53",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6281283/spectaculaire-ontknoping-in-singapore-russell-crasht-en-sainz-wint.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6281276,
+    "slug": "vuelta-peloton-maakt-zich-klaar-voor-slotetappe-naar-madrid",
+    "type": "article",
+    "title": "Vuelta-peloton maakt zich klaar voor slotetappe naar Madrid",
+    "subtitle": "Liveblog",
+    "published_at": "2023-09-17T16:33:07+02:00",
+    "updated_at": "2023-09-17T16:33:09+02:00",
+    "media_id": "twyx6ada41jv",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772339,
+      "slug": "wielrennen",
+      "type": "default",
+      "name": "Wielrennen",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/wielrennen/6281276/vuelta-peloton-maakt-zich-klaar-voor-slotetappe-naar-madrid.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6281281,
+    "slug": "twintigjarige-nederlander-omgekomen-bij-vechtpartij-in-antwerpse-nachtclub",
+    "type": "article",
+    "title": "Twintigjarige Nederlander omgekomen bij vechtpartij in Antwerpse nachtclub",
+    "subtitle": null,
+    "published_at": "2023-09-17T16:32:04+02:00",
+    "updated_at": "2023-09-17T16:55:53+02:00",
+    "media_id": "p5pxp8tayqm7",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6281281/twintigjarige-nederlander-omgekomen-bij-vechtpartij-in-antwerpse-nachtclub.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6281270,
+    "slug": "ajax-en-steijn-dieper-in-de-problemen-na-pijnlijke-nederlaag-bij-fc-twente",
+    "type": "article",
+    "title": "Ajax en Steijn dieper in de problemen na pijnlijke nederlaag bij FC Twente",
+    "subtitle": null,
+    "published_at": "2023-09-17T16:27:16+02:00",
+    "updated_at": "2023-09-17T16:59:31+02:00",
+    "media_id": "ymwxgj6au6ds",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6281270/ajax-en-steijn-dieper-in-de-problemen-na-pijnlijke-nederlaag-bij-fc-twente.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6281280,
+    "slug": "toeristen-stappen-in-braziliaans-vliegtuigje-dat-even-later-crasht",
+    "type": "video",
+    "title": "Toeristen stappen in Braziliaans vliegtuigje dat even later crasht",
+    "subtitle": "Video",
+    "published_at": "2023-09-17T16:22:25+02:00",
+    "updated_at": "2023-09-17T16:44:18+02:00",
+    "media_id": "6sbxuf7amzpe",
+    "duration": "0:36",
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6281280/toeristen-stappen-in-braziliaans-vliegtuigje-dat-even-later-crasht.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6281275,
     "slug": "recordreeks-verstappen-ten-einde-na-vijfde-plek-in-singapore-sainz-wint",
     "type": "article",
     "title": "Recordreeks Verstappen ten einde na vijfde plek in Singapore, Sainz wint",
     "subtitle": null,
     "published_at": "2023-09-17T15:52:50+02:00",
-    "updated_at": "2023-09-17T16:00:38+02:00",
+    "updated_at": "2023-09-17T16:17:56+02:00",
     "media_id": "itmx1kxa86d5",
     "duration": null,
     "canonical_section": {
@@ -29,8 +167,8 @@
     "title": "Vollering eindwinnaar Ronde van Romandië, Van Empel grijpt naast dagzege",
     "subtitle": null,
     "published_at": "2023-09-17T15:40:45+02:00",
-    "updated_at": "2023-09-17T15:52:58+02:00",
-    "media_id": "t0sx03pazxff",
+    "updated_at": "2023-09-17T16:04:14+02:00",
+    "media_id": "c3wx00gark53",
     "duration": null,
     "canonical_section": {
       "id": 1772456,
@@ -70,12 +208,12 @@
   },
   {
     "id": 6281273,
-    "slug": "van-gerwen-rekent-af-met-van-den-bergh-en-bereikt-halve-finales-in-amsterdam",
+    "slug": "van-gerwen-nog-enige-nederlander-bij-world-series-na-nederlaag-van-barneveld",
     "type": "article",
-    "title": "Van Gerwen rekent af met Van den Bergh en bereikt halve finales in Amsterdam",
+    "title": "Van Gerwen nog enige Nederlander bij World Series na nederlaag Van Barneveld",
     "subtitle": null,
     "published_at": "2023-09-17T14:47:04+02:00",
-    "updated_at": "2023-09-17T14:59:18+02:00",
+    "updated_at": "2023-09-17T16:47:45+02:00",
     "media_id": "ze8xwp2aq40q",
     "duration": null,
     "canonical_section": {
@@ -87,7 +225,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/sport-overig/6281273/van-gerwen-rekent-af-met-van-den-bergh-en-bereikt-halve-finales-in-amsterdam.html",
+    "url": "/sport-overig/6281273/van-gerwen-nog-enige-nederlander-bij-world-series-na-nederlaag-van-barneveld.html",
     "open_new_window": false,
     "partner": null
   },
@@ -98,7 +236,7 @@
     "title": "Op negende dag van protest weer klimaatbetogers van A12 Den Haag verwijderd",
     "subtitle": null,
     "published_at": "2023-09-17T14:33:27+02:00",
-    "updated_at": "2023-09-17T15:01:47+02:00",
+    "updated_at": "2023-09-17T16:49:07+02:00",
     "media_id": "8ysxy2yapcjt",
     "duration": null,
     "canonical_section": {
@@ -116,13 +254,13 @@
   },
   {
     "id": 6281271,
-    "slug": "pec-zwolle-komt-niet-langs-tiental-go-ahead-in-beladen-ijsselderby",
+    "slug": "almere-city-pakt-historisch-punt-pec-niet-langs-tiental-go-ahead-in-beladen-derby",
     "type": "article",
-    "title": "PEC Zwolle komt niet langs tiental Go Ahead in beladen IJsselderby",
+    "title": "Almere City pakt historisch punt, PEC niet langs tiental Go Ahead in beladen derby",
     "subtitle": null,
     "published_at": "2023-09-17T14:13:00+02:00",
-    "updated_at": "2023-09-17T14:26:12+02:00",
-    "media_id": "hrkxpafaxo9e",
+    "updated_at": "2023-09-17T16:38:26+02:00",
+    "media_id": "yvqxbncawy7e",
     "duration": null,
     "canonical_section": {
       "id": 1772338,
@@ -133,7 +271,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6281271/pec-zwolle-komt-niet-langs-tiental-go-ahead-in-beladen-ijsselderby.html",
+    "url": "/voetbal/6281271/almere-city-pakt-historisch-punt-pec-niet-langs-tiental-go-ahead-in-beladen-derby.html",
     "open_new_window": false,
     "partner": null
   },
@@ -484,12 +622,12 @@
   },
   {
     "id": 6281249,
-    "slug": "week-na-ramp-libie-nog-tienduizend-mensen-vermist-overlevingskans-steeds-kleiner",
+    "slug": "week-na-ramp-libie-nog-tienduizend-mensen-vermist-overlevingskansen-slinken",
     "type": "article",
-    "title": "Week na ramp Libië nog tienduizend mensen vermist, overlevingskans steeds kleiner",
+    "title": "Week na ramp Libië nog tienduizend mensen vermist, overlevingskansen slinken",
     "subtitle": null,
     "published_at": "2023-09-17T11:32:48+02:00",
-    "updated_at": "2023-09-17T13:38:31+02:00",
+    "updated_at": "2023-09-17T16:58:17+02:00",
     "media_id": "gr4x7vpaq898",
     "duration": null,
     "canonical_section": {
@@ -501,19 +639,19 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/buitenland/6281249/week-na-ramp-libie-nog-tienduizend-mensen-vermist-overlevingskans-steeds-kleiner.html",
+    "url": "/buitenland/6281249/week-na-ramp-libie-nog-tienduizend-mensen-vermist-overlevingskansen-slinken.html",
     "open_new_window": false,
     "partner": null
   },
   {
     "id": 6281254,
-    "slug": "steeds-beter-spelend-ajax-jaagt-op-gelijkmaker-tegen-twente",
+    "slug": "reacties-na-nederlaag-ajax-bij-twente-az-mist-kans-tegen-sparta",
     "type": "article",
-    "title": "Steeds beter spelend Ajax jaagt op gelijkmaker tegen Twente",
+    "title": "Reacties na nederlaag Ajax bij Twente, AZ mist kans tegen Sparta",
     "subtitle": "Liveblog",
     "published_at": "2023-09-17T11:32:14+02:00",
-    "updated_at": "2023-09-17T15:58:01+02:00",
-    "media_id": "oqmxusbafrfy",
+    "updated_at": "2023-09-17T16:59:20+02:00",
+    "media_id": "38pxjs8aglwy",
     "duration": null,
     "canonical_section": {
       "id": 1772338,
@@ -524,7 +662,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6281254/steeds-beter-spelend-ajax-jaagt-op-gelijkmaker-tegen-twente.html",
+    "url": "/voetbal/6281254/reacties-na-nederlaag-ajax-bij-twente-az-mist-kans-tegen-sparta.html",
     "open_new_window": false,
     "partner": null
   },
@@ -548,144 +686,6 @@
       "partner": null
     },
     "url": "/videos/6281251/autos-en-meubels-drijven-door-spaanse-straten-na-overstromingen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6281240,
-    "slug": "ten-hag-ziet-fluitconcert-van-united-aanhang-bij-wissel-als-iets-positiefs",
-    "type": "article",
-    "title": "Ten Hag ziet fluitconcert van United-aanhang bij wissel als iets positiefs",
-    "subtitle": null,
-    "published_at": "2023-09-17T10:37:12+02:00",
-    "updated_at": "2023-09-17T10:52:37+02:00",
-    "media_id": "mxzxadpaeycv",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6281240/ten-hag-ziet-fluitconcert-van-united-aanhang-bij-wissel-als-iets-positiefs.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6281248,
-    "slug": "red-bull-accepteert-boze-verstappen-op-teamradio-hij-maakt-zelf-zelden-fouten",
-    "type": "article",
-    "title": "Red Bull accepteert boze Verstappen op teamradio: 'Hij maakt zelf zelden fouten'",
-    "subtitle": null,
-    "published_at": "2023-09-17T10:30:23+02:00",
-    "updated_at": "2023-09-17T15:09:32+02:00",
-    "media_id": "m16x09ka87th",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772449,
-      "slug": "formule-1",
-      "type": "default",
-      "name": "GP Singapore",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/formule-1/6281248/red-bull-accepteert-boze-verstappen-op-teamradio-hij-maakt-zelf-zelden-fouten.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6281247,
-    "slug": "twee-mensen-omgekomen-bij-auto-ongeluk-in-zeeuws-ritthem",
-    "type": "article",
-    "title": "Twee mensen omgekomen bij auto-ongeluk in Zeeuws Ritthem",
-    "subtitle": null,
-    "published_at": "2023-09-17T10:16:11+02:00",
-    "updated_at": "2023-09-17T10:21:55+02:00",
-    "media_id": "4flxlg8az1gk",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6281247/twee-mensen-omgekomen-bij-auto-ongeluk-in-zeeuws-ritthem.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6281245,
-    "slug": "aston-martin-coureur-stroll-mist-gp-singapore-door-gevolgen-crash-bij-kwalificatie",
-    "type": "article",
-    "title": "Aston Martin-coureur Stroll mist GP Singapore door gevolgen crash bij kwalificatie",
-    "subtitle": null,
-    "published_at": "2023-09-17T09:33:47+02:00",
-    "updated_at": "2023-09-17T10:09:19+02:00",
-    "media_id": "dlixthya4zlv",
-    "duration": null,
-    "canonical_section": {
-      "id": 1778846,
-      "slug": "nu-formule-1",
-      "type": "default",
-      "name": "NU+ Formule 1",
-      "style": "nusport",
-      "media_id": "gtmxcxnaui5m",
-      "partner": null
-    },
-    "url": "/nu-formule-1/6281245/aston-martin-coureur-stroll-mist-gp-singapore-door-gevolgen-crash-bij-kwalificatie.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6281244,
-    "slug": "de-mannetjesschildpadden-raken-op-deze-rol-speelt-het-klimaat",
-    "type": "video",
-    "title": "De mannetjesschildpadden raken 'op': deze rol speelt het klimaat",
-    "subtitle": "Video",
-    "published_at": "2023-09-17T09:32:52+02:00",
-    "updated_at": "2023-09-17T09:32:54+02:00",
-    "media_id": "947xzm7a5esv",
-    "duration": "8:06",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6281244/de-mannetjesschildpadden-raken-op-deze-rol-speelt-het-klimaat.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6281181,
-    "slug": "waarom-we-over-libie-minder-berichten-dan-over-marokko",
-    "type": "article",
-    "title": "Waarom we over Libië minder berichten dan over Marokko",
-    "subtitle": "Van de hoofdredactie",
-    "published_at": "2023-09-17T09:01:04+02:00",
-    "updated_at": "2023-09-17T15:37:23+02:00",
-    "media_id": "irsx6b9aaypq",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779003,
-      "slug": "gebaseerd-op-jullie-vragen",
-      "type": "default",
-      "name": "Gebaseerd op NUjij",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/gebaseerd-op-jullie-vragen/6281181/waarom-we-over-libie-minder-berichten-dan-over-marokko.html",
     "open_new_window": false,
     "partner": null
   }
