@@ -1,5 +1,143 @@
 [
   {
+    "id": 6281501,
+    "slug": "keanu-reeves-wil-dat-zijn-personage-john-wick-vermoord-wordt",
+    "type": "article",
+    "title": "Keanu Reeves wil dat zijn personage John Wick vermoord wordt",
+    "subtitle": null,
+    "published_at": "2023-09-19T10:01:11+02:00",
+    "updated_at": "2023-09-19T10:01:13+02:00",
+    "media_id": "7zqxh5zaxkh4",
+    "duration": null,
+    "canonical_section": {
+      "id": 127,
+      "slug": "film",
+      "type": "default",
+      "name": "Films & Series",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/film/6281501/keanu-reeves-wil-dat-zijn-personage-john-wick-vermoord-wordt.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6281498,
+    "slug": "vopak-verkoopt-drie-chemische-terminals-in-rotterdamse-haven",
+    "type": "article",
+    "title": "Vopak verkoopt drie chemische terminals in Rotterdamse haven",
+    "subtitle": null,
+    "published_at": "2023-09-19T09:53:30+02:00",
+    "updated_at": "2023-09-19T09:53:31+02:00",
+    "media_id": "0m6xcf4a0v49",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6281498/vopak-verkoopt-drie-chemische-terminals-in-rotterdamse-haven.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6281483,
+    "slug": "den-haag-staat-in-startblokken-voor-prinsjesdag",
+    "type": "article",
+    "title": "Den Haag staat in startblokken voor Prinsjesdag",
+    "subtitle": "Liveblog",
+    "published_at": "2023-09-19T09:51:42+02:00",
+    "updated_at": "2023-09-19T09:56:05+02:00",
+    "media_id": "i0uxh9palb7a",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771437,
+      "slug": "politiek",
+      "type": "default",
+      "name": "Politiek",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/politiek/6281483/den-haag-staat-in-startblokken-voor-prinsjesdag.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6281494,
+    "slug": "ook-op-prinsjesdag-code-geel-in-kustgebieden-om-harde-wind",
+    "type": "article",
+    "title": "Ook op Prinsjesdag code geel in kustgebieden om harde wind",
+    "subtitle": null,
+    "published_at": "2023-09-19T09:39:16+02:00",
+    "updated_at": "2023-09-19T09:39:17+02:00",
+    "media_id": "k54x1cqatoog",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779283,
+      "slug": "weerbericht",
+      "type": "default",
+      "name": "Weerbericht",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/weerbericht/6281494/ook-op-prinsjesdag-code-geel-in-kustgebieden-om-harde-wind.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6281493,
+    "slug": "youtube-betaalt-russell-brand-niet-meer-na-beschuldigingen-seksueel-wangedrag",
+    "type": "article",
+    "title": "YouTube betaalt Russell Brand niet meer na beschuldigingen seksueel wangedrag",
+    "subtitle": null,
+    "published_at": "2023-09-19T09:28:58+02:00",
+    "updated_at": "2023-09-19T09:31:18+02:00",
+    "media_id": "vpbxm70ahopv",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771438,
+      "slug": "tech",
+      "type": "default",
+      "name": "Tech",
+      "style": "nutech",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/tech/6281493/youtube-betaalt-russell-brand-niet-meer-na-beschuldigingen-seksueel-wangedrag.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6281489,
+    "slug": "weer-nacht-met-explosies-op-meerdere-plekken-in-het-land",
+    "type": "article",
+    "title": "Weer nacht met explosies op meerdere plekken in het land",
+    "subtitle": null,
+    "published_at": "2023-09-19T09:01:33+02:00",
+    "updated_at": "2023-09-19T09:05:52+02:00",
+    "media_id": "k4hx2toawnu2",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6281489/weer-nacht-met-explosies-op-meerdere-plekken-in-het-land.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6281492,
     "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
     "type": "article",
@@ -24,12 +162,12 @@
   },
   {
     "id": 6281486,
-    "slug": "wat-moet-de-koning-zo-zeggen-schrijf-jouw-troonrede-in-1000-tekens",
+    "slug": "wat-moet-de-koning-zeggen-schrijf-jouw-troonrede-in-1000-tekens",
     "type": "article",
-    "title": "Wat moet de koning zo zeggen? Schrijf jouw troonrede in 1.000 tekens",
+    "title": "Wat moet de koning zeggen? Schrijf jouw troonrede in 1.000 tekens",
     "subtitle": "Praat Mee",
     "published_at": "2023-09-19T08:59:34+02:00",
-    "updated_at": "2023-09-19T08:59:35+02:00",
+    "updated_at": "2023-09-19T09:07:23+02:00",
     "media_id": "j3pxbw7aa4jv",
     "duration": null,
     "canonical_section": {
@@ -41,7 +179,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/stelling/6281486/wat-moet-de-koning-zo-zeggen-schrijf-jouw-troonrede-in-1000-tekens.html",
+    "url": "/stelling/6281486/wat-moet-de-koning-zeggen-schrijf-jouw-troonrede-in-1000-tekens.html",
     "open_new_window": false,
     "partner": null
   },
@@ -52,7 +190,7 @@
     "title": "Hermoso walgt van handelwijze Spaanse voetbalbond: 'Ze willen ons intimideren'",
     "subtitle": null,
     "published_at": "2023-09-19T08:41:06+02:00",
-    "updated_at": "2023-09-19T08:48:35+02:00",
+    "updated_at": "2023-09-19T09:35:15+02:00",
     "media_id": "1qixj62a7vwd",
     "duration": null,
     "canonical_section": {
@@ -208,12 +346,12 @@
   },
   {
     "id": 6281418,
-    "slug": "bijzondere-dag-voor-prinses-alexia-voor-het-eerst-aanwezig-op-prinsjesdag",
+    "slug": "bijzondere-dag-voor-prinses-alexia-eerste-maal-aanwezig-op-prinsjesdag",
     "type": "article",
-    "title": "Bijzondere dag voor prinses Alexia: voor het eerst aanwezig op Prinsjesdag",
+    "title": "Bijzondere dag voor prinses Alexia: eerste maal aanwezig op Prinsjesdag",
     "subtitle": "NU+",
     "published_at": "2023-09-19T07:11:16+02:00",
-    "updated_at": "2023-09-19T08:23:45+02:00",
+    "updated_at": "2023-09-19T09:26:03+02:00",
     "media_id": "odyxhlgar4f3",
     "duration": null,
     "canonical_section": {
@@ -225,7 +363,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/koningshuis/6281418/bijzondere-dag-voor-prinses-alexia-voor-het-eerst-aanwezig-op-prinsjesdag.html",
+    "url": "/koningshuis/6281418/bijzondere-dag-voor-prinses-alexia-eerste-maal-aanwezig-op-prinsjesdag.html",
     "open_new_window": false,
     "partner": null
   },
@@ -420,7 +558,7 @@
     "title": "Feyenoord en PSV langs CL-meetlat: City is meer dan vijf keer zoveel waard",
     "subtitle": "NU+",
     "published_at": "2023-09-19T05:05:53+02:00",
-    "updated_at": "2023-09-19T07:53:20+02:00",
+    "updated_at": "2023-09-19T09:44:24+02:00",
     "media_id": "ut1x8ncaeb0e",
     "duration": null,
     "canonical_section": {
@@ -512,7 +650,7 @@
     "title": "Spaanse voetbalsters zijn verbolgen dat zij tegen hun zin in zijn geselecteerd",
     "subtitle": null,
     "published_at": "2023-09-18T23:13:12+02:00",
-    "updated_at": "2023-09-19T08:46:46+02:00",
+    "updated_at": "2023-09-19T09:03:09+02:00",
     "media_id": "z8kxew1a5whc",
     "duration": null,
     "canonical_section": {
@@ -548,144 +686,6 @@
       "partner": null
     },
     "url": "/voetbal/6281468/vera-pauw-krijgt-schop-na-uit-ierland-ondanks-haar-aanwezigheid-wk-gehaald.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6281454,
-    "slug": "blink-182-brengt-in-oktober-nieuw-album-uit",
-    "type": "article",
-    "title": "Blink-182 brengt in oktober nieuw album uit",
-    "subtitle": null,
-    "published_at": "2023-09-18T22:39:24+02:00",
-    "updated_at": "2023-09-18T22:39:26+02:00",
-    "media_id": "f2qx0etasno4",
-    "duration": null,
-    "canonical_section": {
-      "id": 868281,
-      "slug": "muziek",
-      "type": "default",
-      "name": "Muziek",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/muziek/6281454/blink-182-brengt-in-oktober-nieuw-album-uit.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6281466,
-    "slug": "trudeau-beschuldigt-india-van-betrokkenheid-bij-moord-op-sikh-leider-in-canada",
-    "type": "article",
-    "title": "Trudeau beschuldigt India van betrokkenheid bij moord op sikh-leider in Canada",
-    "subtitle": null,
-    "published_at": "2023-09-18T22:34:26+02:00",
-    "updated_at": "2023-09-18T22:44:25+02:00",
-    "media_id": "hozxaa0a38yh",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6281466/trudeau-beschuldigt-india-van-betrokkenheid-bij-moord-op-sikh-leider-in-canada.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6281464,
-    "slug": "fc-groningen-speelt-chagrijn-weg-met-ruime-zege-jong-az-verslaat-jong-ajax",
-    "type": "article",
-    "title": "FC Groningen speelt chagrijn weg met ruime zege, Jong AZ verslaat Jong Ajax",
-    "subtitle": null,
-    "published_at": "2023-09-18T22:04:15+02:00",
-    "updated_at": "2023-09-18T22:28:46+02:00",
-    "media_id": "bzxxrhpa323d",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6281464/fc-groningen-speelt-chagrijn-weg-met-ruime-zege-jong-az-verslaat-jong-ajax.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6281462,
-    "slug": "oekraine-claimt-succes-bij-bakhmut-en-ruziet-met-eu-lidstaten",
-    "type": "article",
-    "title": "Oekraïne claimt succes bij Bakhmut en ruziet met EU-lidstaten",
-    "subtitle": "Overzicht",
-    "published_at": "2023-09-18T21:53:25+02:00",
-    "updated_at": "2023-09-18T22:00:27+02:00",
-    "media_id": "01uxtntai22v",
-    "duration": null,
-    "canonical_section": {
-      "id": 1778980,
-      "slug": "spanningen-oekraine",
-      "type": "default",
-      "name": "Oorlog in Oekraïne",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/spanningen-oekraine/6281462/oekraine-claimt-succes-bij-bakhmut-en-ruziet-met-eu-lidstaten.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6281463,
-    "slug": "ravage-na-dodelijk-busongeluk-in-peru",
-    "type": "video",
-    "title": "Ravage na dodelijk busongeluk in Peru",
-    "subtitle": "Video",
-    "published_at": "2023-09-18T21:47:31+02:00",
-    "updated_at": "2023-09-18T22:12:38+02:00",
-    "media_id": "cupxzqaaqv24",
-    "duration": "0:35",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6281463/ravage-na-dodelijk-busongeluk-in-peru.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6281460,
-    "slug": "botsingen-tussen-knegt-en-bondscoach-kerstholt-lijken-voorbij-er-is-nu-meer-rust",
-    "type": "article",
-    "title": "Botsingen tussen Knegt en bondscoach Kerstholt lijken voorbij: 'Er is nu meer rust'",
-    "subtitle": null,
-    "published_at": "2023-09-18T20:51:49+02:00",
-    "updated_at": "2023-09-18T21:18:14+02:00",
-    "media_id": "wiqxonoabwkg",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772452,
-      "slug": "schaatsen",
-      "type": "default",
-      "name": "Schaatsen",
-      "style": "nusport",
-      "media_id": "5ktx9n6axubw",
-      "partner": null
-    },
-    "url": "/schaatsen/6281460/botsingen-tussen-knegt-en-bondscoach-kerstholt-lijken-voorbij-er-is-nu-meer-rust.html",
     "open_new_window": false,
     "partner": null
   }
