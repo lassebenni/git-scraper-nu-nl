@@ -1,13 +1,59 @@
 [
   {
-    "id": 6281730,
-    "slug": "ajax-treft-ontwricht-marseille-trainer-marcelino-stapt-daags-voor-duel-op",
+    "id": 6281739,
+    "slug": "topfavoriet-reusser-verovert-derde-europese-tijdrittitel-na-demonstratie-in-emmen",
     "type": "article",
-    "title": "Ajax treft ontwricht Marseille: trainer Marcelino stapt daags voor duel op",
+    "title": "Topfavoriet Reusser verovert derde Europese tijdrittitel na demonstratie in Emmen",
     "subtitle": null,
-    "published_at": "2023-09-20T14:55:41+02:00",
-    "updated_at": "2023-09-20T14:55:42+02:00",
-    "media_id": "dn7x9y9alhv3",
+    "published_at": "2023-09-20T15:54:02+02:00",
+    "updated_at": "2023-09-20T15:59:14+02:00",
+    "media_id": "qp0xo14abwqy",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772339,
+      "slug": "wielrennen",
+      "type": "default",
+      "name": "Wielrennen",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/wielrennen/6281739/topfavoriet-reusser-verovert-derde-europese-tijdrittitel-na-demonstratie-in-emmen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6281729,
+    "slug": "thrillers-romans-of-fantasy-praat-mee-over-boeken-en-lezen",
+    "type": "article",
+    "title": "Thrillers, romans of fantasy? Praat mee over boeken en lezen",
+    "subtitle": "Praat mee",
+    "published_at": "2023-09-20T15:52:58+02:00",
+    "updated_at": "2023-09-20T15:52:59+02:00",
+    "media_id": "5mgx3m7ahgw6",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779134,
+      "slug": "stelling",
+      "type": "default",
+      "name": "Stelling en Praat Mee",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/stelling/6281729/thrillers-romans-of-fantasy-praat-mee-over-boeken-en-lezen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6281743,
+    "slug": "turkije-zet-bondscoach-kuntz-na-twee-tegenvallende-resultaten-aan-de-kant",
+    "type": "article",
+    "title": "Turkije zet bondscoach Kuntz na twee tegenvallende resultaten aan de kant",
+    "subtitle": null,
+    "published_at": "2023-09-20T15:45:53+02:00",
+    "updated_at": "2023-09-20T15:45:54+02:00",
+    "media_id": "r4rx12za3m15",
     "duration": null,
     "canonical_section": {
       "id": 1772338,
@@ -18,18 +64,110 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6281730/ajax-treft-ontwricht-marseille-trainer-marcelino-stapt-daags-voor-duel-op.html",
+    "url": "/voetbal/6281743/turkije-zet-bondscoach-kuntz-na-twee-tegenvallende-resultaten-aan-de-kant.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6281737,
+    "slug": "politie-zoekt-man-die-wordt-verdacht-van-doodsteken-georgier-in-utrechts-hotel",
+    "type": "article",
+    "title": "Politie zoekt man die wordt verdacht van doodsteken Georgiër in Utrechts hotel",
+    "subtitle": null,
+    "published_at": "2023-09-20T15:27:39+02:00",
+    "updated_at": "2023-09-20T15:27:41+02:00",
+    "media_id": "6nqxaecaif0c",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6281737/politie-zoekt-man-die-wordt-verdacht-van-doodsteken-georgier-in-utrechts-hotel.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6281724,
+    "slug": "steijn-geeft-vergissing-met-ajax-tactiek-toe-op-de-training-zag-het-er-goed-uit",
+    "type": "article",
+    "title": "Steijn geeft vergissing met Ajax-tactiek toe: 'Op de training zag het er goed uit'",
+    "subtitle": null,
+    "published_at": "2023-09-20T15:16:51+02:00",
+    "updated_at": "2023-09-20T15:23:36+02:00",
+    "media_id": "xpsxd74aus35",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6281724/steijn-geeft-vergissing-met-ajax-tactiek-toe-op-de-training-zag-het-er-goed-uit.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6281734,
+    "slug": "vliegend-puin-en-doden-twee-tornados-razen-over-china",
+    "type": "video",
+    "title": "Vliegend puin en doden: twee tornado’s razen over China",
+    "subtitle": "Video",
+    "published_at": "2023-09-20T15:10:26+02:00",
+    "updated_at": "2023-09-20T15:10:27+02:00",
+    "media_id": "mdjxrn4a23fu",
+    "duration": "0:49",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6281734/vliegend-puin-en-doden-twee-tornados-razen-over-china.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6281730,
+    "slug": "ajax-treft-ontwricht-marseille-complete-trainersstaf-stapt-daags-voor-duel-op",
+    "type": "article",
+    "title": "Ajax treft ontwricht Marseille: complete trainersstaf stapt daags voor duel op",
+    "subtitle": null,
+    "published_at": "2023-09-20T14:55:41+02:00",
+    "updated_at": "2023-09-20T15:55:01+02:00",
+    "media_id": "207xaiua92iw",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6281730/ajax-treft-ontwricht-marseille-complete-trainersstaf-stapt-daags-voor-duel-op.html",
     "open_new_window": false,
     "partner": null
   },
   {
     "id": 6281696,
-    "slug": "waarom-lid-worden-van-een-vakbond-als-de-lonen-toch-wel-stijgen",
+    "slug": "heeft-werkend-nederland-nog-een-vakbond-nodig-lonen-een-hot-item",
     "type": "article",
-    "title": "Waarom lid worden van een vakbond als de lonen toch wel stijgen?",
+    "title": "Heeft werkend Nederland nog een vakbond nodig? 'Lonen een hot item'",
     "subtitle": "NU+",
     "published_at": "2023-09-20T14:53:01+02:00",
-    "updated_at": "2023-09-20T14:53:03+02:00",
+    "updated_at": "2023-09-20T15:49:41+02:00",
     "media_id": "kuvx3fpaw7n7",
     "duration": null,
     "canonical_section": {
@@ -41,7 +179,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/economie/6281696/waarom-lid-worden-van-een-vakbond-als-de-lonen-toch-wel-stijgen.html",
+    "url": "/economie/6281696/heeft-werkend-nederland-nog-een-vakbond-nodig-lonen-een-hot-item.html",
     "open_new_window": false,
     "partner": null
   },
@@ -93,12 +231,12 @@
   },
   {
     "id": 6281723,
-    "slug": "eu-wil-bestrijdingsmiddel-glyfosaat-nog-eens-tien-jaar-toestaan",
+    "slug": "eu-wil-glyfosaat-nog-eens-tien-jaar-toestaan-als-bestrijdingsmiddel-tegen-onkruid",
     "type": "article",
-    "title": "EU wil bestrijdingsmiddel glyfosaat nog eens tien jaar toestaan",
+    "title": "EU wil glyfosaat nog eens tien jaar toestaan als bestrijdingsmiddel tegen onkruid",
     "subtitle": null,
     "published_at": "2023-09-20T14:25:06+02:00",
-    "updated_at": "2023-09-20T14:25:12+02:00",
+    "updated_at": "2023-09-20T15:42:41+02:00",
     "media_id": "p0wxjujanuqq",
     "duration": null,
     "canonical_section": {
@@ -110,7 +248,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/economie/6281723/eu-wil-bestrijdingsmiddel-glyfosaat-nog-eens-tien-jaar-toestaan.html",
+    "url": "/economie/6281723/eu-wil-glyfosaat-nog-eens-tien-jaar-toestaan-als-bestrijdingsmiddel-tegen-onkruid.html",
     "open_new_window": false,
     "partner": null
   },
@@ -121,7 +259,7 @@
     "title": "Ajax-coach Steijn baalt van ophef rond directeur Mislintat: 'Het leidt af'",
     "subtitle": null,
     "published_at": "2023-09-20T14:22:06+02:00",
-    "updated_at": "2023-09-20T14:55:34+02:00",
+    "updated_at": "2023-09-20T15:07:57+02:00",
     "media_id": "jcfxywzalwyo",
     "duration": null,
     "canonical_section": {
@@ -190,7 +328,7 @@
     "title": "Matthew McConaughey doet er niet meer alles aan om privéleven af te schermen",
     "subtitle": null,
     "published_at": "2023-09-20T13:49:49+02:00",
-    "updated_at": "2023-09-20T13:49:51+02:00",
+    "updated_at": "2023-09-20T15:39:52+02:00",
     "media_id": "0gex0xnagpjh",
     "duration": null,
     "canonical_section": {
@@ -236,7 +374,7 @@
     "title": "Advocaat wil rechter in zaak rond in Spanje vastgezette Tilburger laten vervangen",
     "subtitle": null,
     "published_at": "2023-09-20T13:43:00+02:00",
-    "updated_at": "2023-09-20T13:43:20+02:00",
+    "updated_at": "2023-09-20T15:53:47+02:00",
     "media_id": "r0gxq9oafus4",
     "duration": null,
     "canonical_section": {
@@ -300,12 +438,12 @@
   },
   {
     "id": 6281712,
-    "slug": "ook-nederland-steunt-oekraine-in-genocidezaak-tegen-rusland",
+    "slug": "ook-nederland-steunt-oekraine-in-genocidezaak-tegen-rusland-bij-vn-rechtbank",
     "type": "article",
-    "title": "Ook Nederland steunt Oekraïne in 'genocidezaak' tegen Rusland",
+    "title": "Ook Nederland steunt Oekraïne in 'genocidezaak' tegen Rusland bij VN-rechtbank",
     "subtitle": null,
     "published_at": "2023-09-20T13:35:12+02:00",
-    "updated_at": "2023-09-20T13:35:13+02:00",
+    "updated_at": "2023-09-20T15:29:25+02:00",
     "media_id": "m88x0baan4r6",
     "duration": null,
     "canonical_section": {
@@ -317,7 +455,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/buitenland/6281712/ook-nederland-steunt-oekraine-in-genocidezaak-tegen-rusland.html",
+    "url": "/buitenland/6281712/ook-nederland-steunt-oekraine-in-genocidezaak-tegen-rusland-bij-vn-rechtbank.html",
     "open_new_window": false,
     "partner": null
   },
@@ -328,7 +466,7 @@
     "title": "Mogelijk verband tussen explosies in Winschoten en Oude Pekela",
     "subtitle": null,
     "published_at": "2023-09-20T13:28:53+02:00",
-    "updated_at": "2023-09-20T13:28:54+02:00",
+    "updated_at": "2023-09-20T15:53:28+02:00",
     "media_id": "5o4xy8kagnp5",
     "duration": null,
     "canonical_section": {
@@ -443,7 +581,7 @@
     "title": "Gemeenten snappen kritiek op gehandicaptenbeleid: 'Voor een groot deel terecht'",
     "subtitle": null,
     "published_at": "2023-09-20T12:44:08+02:00",
-    "updated_at": "2023-09-20T14:33:51+02:00",
+    "updated_at": "2023-09-20T15:13:33+02:00",
     "media_id": "gzjxgxwag2ft",
     "duration": null,
     "canonical_section": {
@@ -535,7 +673,7 @@
     "title": "Wat verdient de koninklijke familie?",
     "subtitle": "In 100 woorden",
     "published_at": "2023-09-20T11:41:50+02:00",
-    "updated_at": "2023-09-20T11:41:52+02:00",
+    "updated_at": "2023-09-20T15:09:13+02:00",
     "media_id": "wduxbh1acr5f",
     "duration": null,
     "canonical_section": {
@@ -548,144 +686,6 @@
       "partner": null
     },
     "url": "/koningshuis/6281688/wat-verdient-de-koninklijke-familie.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6281594,
-    "slug": "lijst-fossiele-subsidies-is-voer-voor-activisten-en-verkiezingscampagne",
-    "type": "article",
-    "title": "Lijst fossiele subsidies is voer voor activisten én verkiezingscampagne",
-    "subtitle": "NU+",
-    "published_at": "2023-09-20T11:32:24+02:00",
-    "updated_at": "2023-09-20T14:12:38+02:00",
-    "media_id": "11fxmqnalpf4",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772754,
-      "slug": "klimaat",
-      "type": "default",
-      "name": "Klimaat",
-      "style": "nuzakelijk",
-      "media_id": "kf4x3b2agsxg",
-      "partner": null
-    },
-    "url": "/klimaat/6281594/lijst-fossiele-subsidies-is-voer-voor-activisten-en-verkiezingscampagne.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6281697,
-    "slug": "azerbeidzjan-en-armeense-separatisten-kondigen-staakt-het-vuren-af",
-    "type": "article",
-    "title": "Azerbeidzjan en Armeense separatisten kondigen staakt-het-vuren af",
-    "subtitle": null,
-    "published_at": "2023-09-20T11:29:41+02:00",
-    "updated_at": "2023-09-20T14:40:44+02:00",
-    "media_id": "6sxx1moabp6p",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6281697/azerbeidzjan-en-armeense-separatisten-kondigen-staakt-het-vuren-af.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6281695,
-    "slug": "kitesurfers-bereiken-extreme-hoogtes-tijdens-wedstrijd-in-zandvoort",
-    "type": "video",
-    "title": "Kitesurfers bereiken extreme hoogtes tijdens wedstrijd in Zandvoort",
-    "subtitle": "Video",
-    "published_at": "2023-09-20T11:19:05+02:00",
-    "updated_at": "2023-09-20T11:28:10+02:00",
-    "media_id": "dyxx6wdawu9t",
-    "duration": "0:59",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6281695/kitesurfers-bereiken-extreme-hoogtes-tijdens-wedstrijd-in-zandvoort.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6281539,
-    "slug": "meer-mensen-zijn-te-laat-met-betalen-van-energierekening-of-zorgpremie",
-    "type": "article",
-    "title": "Meer mensen zijn te laat met betalen van energierekening of zorgpremie",
-    "subtitle": null,
-    "published_at": "2023-09-20T10:57:53+02:00",
-    "updated_at": "2023-09-20T10:57:54+02:00",
-    "media_id": "gn5xtb0azt89",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6281539/meer-mensen-zijn-te-laat-met-betalen-van-energierekening-of-zorgpremie.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6281691,
-    "slug": "rel-rond-spaanse-voetbalploeg-lijkt-voorbij-na-gesprekken-tot-diep-in-de-nacht",
-    "type": "article",
-    "title": "Rel rond Spaanse voetbalploeg lijkt voorbij na gesprekken tot diep in de nacht",
-    "subtitle": null,
-    "published_at": "2023-09-20T10:53:48+02:00",
-    "updated_at": "2023-09-20T13:48:32+02:00",
-    "media_id": "1koxzswaf9un",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6281691/rel-rond-spaanse-voetbalploeg-lijkt-voorbij-na-gesprekken-tot-diep-in-de-nacht.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6281687,
-    "slug": "beer-zorgt-voor-tijdelijke-sluiting-disney-world-in-vs",
-    "type": "video",
-    "title": "Beer zorgt voor tijdelijke sluiting Disney World in VS",
-    "subtitle": "Video",
-    "published_at": "2023-09-20T10:34:39+02:00",
-    "updated_at": "2023-09-20T10:47:02+02:00",
-    "media_id": "h4exsflauls9",
-    "duration": "0:40",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6281687/beer-zorgt-voor-tijdelijke-sluiting-disney-world-in-vs.html",
     "open_new_window": false,
     "partner": null
   }
