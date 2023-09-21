@@ -1,5 +1,74 @@
 [
   {
+    "id": 6281806,
+    "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
+    "type": "article",
+    "title": "Het Woord van vandaag: Raad jij het woord van de dag?",
+    "subtitle": null,
+    "published_at": "2023-09-21T05:14:45+02:00",
+    "updated_at": "2023-09-21T05:14:46+02:00",
+    "media_id": "xdtxc8kaj8rf",
+    "duration": null,
+    "canonical_section": {
+      "id": 1773179,
+      "slug": "uitgelicht",
+      "type": "default",
+      "name": "Uitgelicht",
+      "style": "mediapartner-external",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/uitgelicht/6281806/het-woord-van-vandaag-raad-jij-het-woord-van-de-dag.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6281801,
+    "slug": "politieke-beschouwingen-rutte-krijgt-waslijst-van-wensen-uit-kamer",
+    "type": "article",
+    "title": "Politieke Beschouwingen: Rutte krijgt waslijst van wensen uit Kamer",
+    "subtitle": "NU+",
+    "published_at": "2023-09-21T05:03:47+02:00",
+    "updated_at": "2023-09-21T05:03:49+02:00",
+    "media_id": "quxxzmba4jdo",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771437,
+      "slug": "politiek",
+      "type": "default",
+      "name": "Politiek",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/politiek/6281801/politieke-beschouwingen-rutte-krijgt-waslijst-van-wensen-uit-kamer.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6281713,
+    "slug": "5g-veiling-weer-uitgesteld-tot-ongenoegen-providers-toppositie-staat-op-het-spel",
+    "type": "article",
+    "title": "5G-veiling wéér uitgesteld, tot ongenoegen providers: 'Toppositie staat op het spel'",
+    "subtitle": null,
+    "published_at": "2023-09-21T05:02:21+02:00",
+    "updated_at": "2023-09-21T05:59:52+02:00",
+    "media_id": "n2gx5tra4emj",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771438,
+      "slug": "tech",
+      "type": "default",
+      "name": "Tech",
+      "style": "nutech",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/tech/6281713/5g-veiling-weer-uitgesteld-tot-ongenoegen-providers-toppositie-staat-op-het-spel.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6281805,
     "slug": "graanruzie-loopt-op-polen-zegt-geen-wapens-meer-te-leveren-aan-oekraine",
     "type": "article",
@@ -52,7 +121,7 @@
     "title": "Ajax stelt Boekhorst in crisistijd aan als nieuwe voorzitter van bestuursraad",
     "subtitle": null,
     "published_at": "2023-09-21T00:00:12+02:00",
-    "updated_at": "2023-09-21T00:00:13+02:00",
+    "updated_at": "2023-09-21T05:58:26+02:00",
     "media_id": "7mox5fga65np",
     "duration": null,
     "canonical_section": {
@@ -617,75 +686,6 @@
       "partner": null
     },
     "url": "/voetbal/6281771/wiegman-coacht-groot-brittannie-als-olympische-spelen-in-parijs-worden-gehaald.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6281773,
-    "slug": "klaver-krijgt-lachers-op-de-hand-met-rutte-imitatie",
-    "type": "video",
-    "title": "Klaver krijgt lachers op de hand met Rutte-imitatie",
-    "subtitle": "Video",
-    "published_at": "2023-09-20T18:48:10+02:00",
-    "updated_at": "2023-09-20T18:48:13+02:00",
-    "media_id": "7pcxrdvafqfu",
-    "duration": "0:43",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6281773/klaver-krijgt-lachers-op-de-hand-met-rutte-imitatie.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6281770,
-    "slug": "van-aert-vecht-tegen-de-tranen-na-afscheid-van-hooydonck-echt-onrechtvaardig",
-    "type": "article",
-    "title": "Van Aert vecht tegen de tranen na afscheid Van Hooydonck: 'Echt onrechtvaardig'",
-    "subtitle": null,
-    "published_at": "2023-09-20T18:47:14+02:00",
-    "updated_at": "2023-09-20T18:47:16+02:00",
-    "media_id": "u5hxpnaail7k",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772339,
-      "slug": "wielrennen",
-      "type": "default",
-      "name": "Wielrennen",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/wielrennen/6281770/van-aert-vecht-tegen-de-tranen-na-afscheid-van-hooydonck-echt-onrechtvaardig.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6281766,
-    "slug": "reacties-na-zware-nederlaag-psv-tegen-arsenal-in-cl",
-    "type": "article",
-    "title": "Reacties na zware nederlaag PSV tegen Arsenal in CL",
-    "subtitle": "Liveblog",
-    "published_at": "2023-09-20T18:23:14+02:00",
-    "updated_at": "2023-09-20T23:26:49+02:00",
-    "media_id": "gclxddza8njh",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6281766/reacties-na-zware-nederlaag-psv-tegen-arsenal-in-cl.html",
     "open_new_window": false,
     "partner": null
   }
