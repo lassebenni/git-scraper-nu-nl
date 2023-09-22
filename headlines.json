@@ -1,5 +1,120 @@
 [
   {
+    "id": 6282132,
+    "slug": "zo-werkt-de-zware-himars-raket-die-oekraine-krijgt",
+    "type": "video",
+    "title": "Zo werkt de zware HIMARS-raket die Oekraïne krijgt",
+    "subtitle": "Explainer",
+    "published_at": "2023-09-22T17:55:19+02:00",
+    "updated_at": "2023-09-22T17:57:10+02:00",
+    "media_id": "ptbxrk9amlta",
+    "duration": "1:44",
+    "canonical_section": {
+      "id": 1778980,
+      "slug": "spanningen-oekraine",
+      "type": "default",
+      "name": "Oorlog in Oekraïne",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/spanningen-oekraine/6282132/zo-werkt-de-zware-himars-raket-die-oekraine-krijgt.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6282129,
+    "slug": "waarom-graanruzie-met-oekraine-poolse-politici-goed-uitkomt",
+    "type": "video",
+    "title": "Waarom graanruzie met Oekraïne Poolse politici goed uitkomt",
+    "subtitle": "Explainer",
+    "published_at": "2023-09-22T17:36:35+02:00",
+    "updated_at": "2023-09-22T17:43:35+02:00",
+    "media_id": "te2x8cuax4dw",
+    "duration": "2:08",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6282129/waarom-graanruzie-met-oekraine-poolse-politici-goed-uitkomt.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6282064,
+    "slug": "duncan-laurence-is-heel-open",
+    "type": "article",
+    "title": "Duncan Laurence is heel open",
+    "subtitle": "NU praat je bij",
+    "published_at": "2023-09-22T17:35:45+02:00",
+    "updated_at": "2023-09-22T17:35:47+02:00",
+    "media_id": "xkzxobfazyxs",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6282064/duncan-laurence-is-heel-open.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6282123,
+    "slug": "oud-voorzitter-brits-lagerhuis-doet-mee-aan-amerikaanse-variant-de-verraders",
+    "type": "article",
+    "title": "Oud-voorzitter Brits Lagerhuis doet mee aan Amerikaanse variant De Verraders",
+    "subtitle": null,
+    "published_at": "2023-09-22T17:18:54+02:00",
+    "updated_at": "2023-09-22T17:40:32+02:00",
+    "media_id": "csix0slaex90",
+    "duration": null,
+    "canonical_section": {
+      "id": 127,
+      "slug": "film",
+      "type": "default",
+      "name": "Films & Series",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/film/6282123/oud-voorzitter-brits-lagerhuis-doet-mee-aan-amerikaanse-variant-de-verraders.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6281869,
+    "slug": "lopen-topsporters-meer-risico-op-hartproblemen",
+    "type": "article",
+    "title": "Lopen topsporters meer risico op hartproblemen?",
+    "subtitle": "NU+",
+    "published_at": "2023-09-22T17:01:40+02:00",
+    "updated_at": "2023-09-22T17:26:45+02:00",
+    "media_id": "gxzxvvnalc3q",
+    "duration": null,
+    "canonical_section": {
+      "id": 100,
+      "slug": "algemeen",
+      "type": "default",
+      "name": "Algemeen",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/algemeen/6281869/lopen-topsporters-meer-risico-op-hartproblemen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6282119,
     "slug": "brandweer-redt-paard-uit-sloot-in-voorschoten",
     "type": "video",
@@ -75,7 +190,7 @@
     "title": "Zeven agenten lichtgewond geraakt rond wedstrijd Ajax-Marseille",
     "subtitle": null,
     "published_at": "2023-09-22T16:36:07+02:00",
-    "updated_at": "2023-09-22T16:40:47+02:00",
+    "updated_at": "2023-09-22T17:41:31+02:00",
     "media_id": "0j4x3v0asokl",
     "duration": null,
     "canonical_section": {
@@ -121,7 +236,7 @@
     "title": "Bol en Hassan kunnen voor tweede keer Europees atlete van het jaar worden",
     "subtitle": null,
     "published_at": "2023-09-22T16:32:06+02:00",
-    "updated_at": "2023-09-22T16:54:23+02:00",
+    "updated_at": "2023-09-22T17:24:44+02:00",
     "media_id": "l2nx4eda5mop",
     "duration": null,
     "canonical_section": {
@@ -144,7 +259,7 @@
     "title": "KLM-piloten gaan staken en houden vliegtuigen een uur lang aan de grond",
     "subtitle": null,
     "published_at": "2023-09-22T16:24:24+02:00",
-    "updated_at": "2023-09-22T16:55:33+02:00",
+    "updated_at": "2023-09-22T17:14:26+02:00",
     "media_id": "ydyx16wazqmr",
     "duration": null,
     "canonical_section": {
@@ -162,12 +277,12 @@
   },
   {
     "id": 6282098,
-    "slug": "coa-hoopt-nog-dit-weekend-op-extra-opvangplekken-eind-schuiven-is-in-zicht",
+    "slug": "coa-denkt-vrijdag-genoeg-opvangplekken-te-hebben-arnhem-en-zwolle-helpen",
     "type": "article",
-    "title": "COA hoopt nog dit weekend op extra opvangplekken: 'Eind schuiven is in zicht'",
+    "title": "COA denkt vrijdag genoeg opvangplekken te hebben, Arnhem en Zwolle helpen",
     "subtitle": null,
     "published_at": "2023-09-22T16:19:02+02:00",
-    "updated_at": "2023-09-22T16:26:17+02:00",
+    "updated_at": "2023-09-22T17:14:09+02:00",
     "media_id": "rj8xfu9azybt",
     "duration": null,
     "canonical_section": {
@@ -179,7 +294,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/binnenland/6282098/coa-hoopt-nog-dit-weekend-op-extra-opvangplekken-eind-schuiven-is-in-zicht.html",
+    "url": "/binnenland/6282098/coa-denkt-vrijdag-genoeg-opvangplekken-te-hebben-arnhem-en-zwolle-helpen.html",
     "open_new_window": false,
     "partner": null
   },
@@ -190,7 +305,7 @@
     "title": "PSV-verdediger Bella-Kotchap laat verstandskies trekken en mist duel met Almere",
     "subtitle": null,
     "published_at": "2023-09-22T16:11:14+02:00",
-    "updated_at": "2023-09-22T16:11:16+02:00",
+    "updated_at": "2023-09-22T17:18:27+02:00",
     "media_id": "im1xe39aj09q",
     "duration": null,
     "canonical_section": {
@@ -213,7 +328,7 @@
     "title": "Volleybalsters verrassen thuisland China met knappe comeback op OKT",
     "subtitle": null,
     "published_at": "2023-09-22T16:02:07+02:00",
-    "updated_at": "2023-09-22T16:54:59+02:00",
+    "updated_at": "2023-09-22T17:11:23+02:00",
     "media_id": "kvaxbbeacshm",
     "duration": null,
     "canonical_section": {
@@ -236,7 +351,7 @@
     "title": "Koppel hoort levenslange straf en 25 jaar cel eisen voor moord op twee mensen",
     "subtitle": null,
     "published_at": "2023-09-22T15:46:57+02:00",
-    "updated_at": "2023-09-22T16:57:38+02:00",
+    "updated_at": "2023-09-22T17:51:51+02:00",
     "media_id": "8p3xkrya6n2m",
     "duration": null,
     "canonical_section": {
@@ -259,7 +374,7 @@
     "title": "James Webb-telescoop vindt koolstof op Jupiter: hoe doet-ie dat?",
     "subtitle": "NU+",
     "published_at": "2023-09-22T15:30:59+02:00",
-    "updated_at": "2023-09-22T15:31:01+02:00",
+    "updated_at": "2023-09-22T17:39:34+02:00",
     "media_id": "ofpxse9aj0d6",
     "duration": null,
     "canonical_section": {
@@ -328,7 +443,7 @@
     "title": "Vloer van tram doormidden gescheurd bij ontsporing in Schiedam",
     "subtitle": "Video",
     "published_at": "2023-09-22T14:46:57+02:00",
-    "updated_at": "2023-09-22T15:11:34+02:00",
+    "updated_at": "2023-09-22T17:11:25+02:00",
     "media_id": "6s1xrgea27m1",
     "duration": "0:32",
     "canonical_section": {
@@ -351,7 +466,7 @@
     "title": "Limburgse familie krijgt vergoeding na begrafenis met verkeerde persoon in kist",
     "subtitle": null,
     "published_at": "2023-09-22T14:29:58+02:00",
-    "updated_at": "2023-09-22T14:55:37+02:00",
+    "updated_at": "2023-09-22T17:30:44+02:00",
     "media_id": "66vxtiea4qn0",
     "duration": null,
     "canonical_section": {
@@ -571,121 +686,6 @@
       "partner": null
     },
     "url": "/vragenoproep/6282054/heb-jij-net-een-huis-gekocht-of-wacht-je-nog-even-wij-zoeken-jou.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6282058,
-    "slug": "ook-met-extra-lening-zijn-duurhuurders-niet-goedkoper-uit-als-ze-willen-kopen",
-    "type": "article",
-    "title": "Ook met extra lening zijn duurhuurders niet goedkoper uit als ze willen kopen",
-    "subtitle": null,
-    "published_at": "2023-09-22T13:29:12+02:00",
-    "updated_at": "2023-09-22T14:36:28+02:00",
-    "media_id": "s4jxi8saap8j",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6282058/ook-met-extra-lening-zijn-duurhuurders-niet-goedkoper-uit-als-ze-willen-kopen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6282059,
-    "slug": "steijn-kijkt-uit-naar-klassieker-het-moet-beter-dan-tegen-marseille",
-    "type": "article",
-    "title": "Steijn kijkt uit naar Klassieker: 'Het moet beter dan tegen Marseille'",
-    "subtitle": null,
-    "published_at": "2023-09-22T13:29:10+02:00",
-    "updated_at": "2023-09-22T14:48:12+02:00",
-    "media_id": "soax7hgarset",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6282059/steijn-kijkt-uit-naar-klassieker-het-moet-beter-dan-tegen-marseille.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6282060,
-    "slug": "gigantische-vuurbal-na-explosie-in-chinese-fabriek",
-    "type": "video",
-    "title": "Gigantische vuurbal na explosie in Chinese fabriek",
-    "subtitle": "Video",
-    "published_at": "2023-09-22T13:13:37+02:00",
-    "updated_at": "2023-09-22T13:20:07+02:00",
-    "media_id": "tgjxw27aitsu",
-    "duration": "0:34",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6282060/gigantische-vuurbal-na-explosie-in-chinese-fabriek.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6282057,
-    "slug": "sparta-keeper-olij-debuteert-in-voorselectie-oranje-frimpong-terug-op-de-lijst",
-    "type": "article",
-    "title": "Sparta-keeper Olij debuteert in voorselectie Oranje, Frimpong terug op de lijst",
-    "subtitle": null,
-    "published_at": "2023-09-22T13:06:09+02:00",
-    "updated_at": "2023-09-22T14:59:49+02:00",
-    "media_id": "e7yxk3ba5pcu",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6282057/sparta-keeper-olij-debuteert-in-voorselectie-oranje-frimpong-terug-op-de-lijst.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6282055,
-    "slug": "eu-beboet-intel-opnieuw-voor-concurrentievervalsing-dit-keer-376-miljoen-euro",
-    "type": "article",
-    "title": "EU beboet Intel opnieuw voor concurrentievervalsing: dit keer 376 miljoen euro",
-    "subtitle": null,
-    "published_at": "2023-09-22T13:03:24+02:00",
-    "updated_at": "2023-09-22T13:06:01+02:00",
-    "media_id": "oj3x7sxa2i28",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779219,
-      "slug": "tech-wetenschap",
-      "type": "default",
-      "name": "Tech & Wetenschap",
-      "style": "nutech",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/tech-wetenschap/6282055/eu-beboet-intel-opnieuw-voor-concurrentievervalsing-dit-keer-376-miljoen-euro.html",
     "open_new_window": false,
     "partner": null
   }
