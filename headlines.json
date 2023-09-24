@@ -1,5 +1,28 @@
 [
   {
+    "id": 6282410,
+    "slug": "werkonderbreking-klm-piloten-van-de-baan-door-hoofdlijnenakkoord",
+    "type": "article",
+    "title": "Werkonderbreking KLM-piloten van de baan door hoofdlijnenakkoord",
+    "subtitle": null,
+    "published_at": "2023-09-25T00:10:31+02:00",
+    "updated_at": "2023-09-25T00:10:32+02:00",
+    "media_id": "eu4xj28ancqs",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6282410/werkonderbreking-klm-piloten-van-de-baan-door-hoofdlijnenakkoord.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6282409,
     "slug": "tennissers-team-wereld-pakken-laver-cup-ten-koste-van-verzwakt-team-europa",
     "type": "article",
@@ -663,29 +686,6 @@
       "partner": null
     },
     "url": "/voetbal/6282364/klassieker-tussen-ajax-en-feyenoord-definitief-gestaakt-na-vuurwerkincidenten.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6282369,
-    "slug": "robotonderzeeer-filmt-zeldzame-dombo-octopus",
-    "type": "video",
-    "title": "Robotonderzeeër filmt zeldzame Dombo-octopus",
-    "subtitle": "Video",
-    "published_at": "2023-09-24T16:18:55+02:00",
-    "updated_at": "2023-09-24T21:24:30+02:00",
-    "media_id": "bh0x2h6adgfc",
-    "duration": "0:49",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6282369/robotonderzeeer-filmt-zeldzame-dombo-octopus.html",
     "open_new_window": false,
     "partner": null
   }
