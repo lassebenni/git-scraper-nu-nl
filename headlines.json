@@ -1,12 +1,81 @@
 [
   {
+    "id": 6283033,
+    "slug": "doden-schietpartijen-rotterdam-zijn-vrouw-39-en-docent-erasmus-mc",
+    "type": "article",
+    "title": "Doden schietpartijen Rotterdam zijn vrouw (39) en docent Erasmus MC",
+    "subtitle": null,
+    "published_at": "2023-09-28T18:55:14+02:00",
+    "updated_at": "2023-09-28T19:01:24+02:00",
+    "media_id": "11pxgp1al8vu",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6283033/doden-schietpartijen-rotterdam-zijn-vrouw-39-en-docent-erasmus-mc.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6283032,
+    "slug": "bekijk-hier-de-persconferentie-over-de-schietpartijen-in-rotterdam",
+    "type": "video",
+    "title": "Bekijk hier de persconferentie over de schietpartijen in Rotterdam",
+    "subtitle": "Livestream",
+    "published_at": "2023-09-28T18:38:32+02:00",
+    "updated_at": "2023-09-28T18:41:03+02:00",
+    "media_id": "xrnxtv6aeomd",
+    "duration": "0:01",
+    "canonical_section": {
+      "id": 100,
+      "slug": "algemeen",
+      "type": "default",
+      "name": "Algemeen",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/algemeen/6283032/bekijk-hier-de-persconferentie-over-de-schietpartijen-in-rotterdam.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6283027,
+    "slug": "politie-opgepakte-verdachte-schietpartij-is-32-jarige-rotterdammer",
+    "type": "video",
+    "title": "Politie: 'Opgepakte verdachte schietpartij is 32-jarige Rotterdammer'",
+    "subtitle": "Video",
+    "published_at": "2023-09-28T18:09:53+02:00",
+    "updated_at": "2023-09-28T18:09:54+02:00",
+    "media_id": "avyxfuna5n0s",
+    "duration": "1:00",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6283027/politie-opgepakte-verdachte-schietpartij-is-32-jarige-rotterdammer.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6283026,
     "slug": "primoz-roglic-verlaat-wielerploeg-jumbo-visma-na-acht-succesvolle-jaren",
     "type": "article",
     "title": "Primoz Roglic verlaat wielerploeg Jumbo-Visma na acht succesvolle jaren",
     "subtitle": null,
     "published_at": "2023-09-28T17:55:59+02:00",
-    "updated_at": "2023-09-28T17:56:42+02:00",
+    "updated_at": "2023-09-28T18:25:45+02:00",
     "media_id": "mbkxyp6aikmz",
     "duration": null,
     "canonical_section": {
@@ -121,7 +190,7 @@
     "title": "Meerdere doden bij schietincidenten en branden in Rotterdam",
     "subtitle": null,
     "published_at": "2023-09-28T17:31:54+02:00",
-    "updated_at": "2023-09-28T17:59:51+02:00",
+    "updated_at": "2023-09-28T18:31:10+02:00",
     "media_id": "cz9xj2wask5v",
     "duration": null,
     "canonical_section": {
@@ -167,7 +236,7 @@
     "title": "Getuigen filmen angstige momenten in Erasmus MC",
     "subtitle": "Video",
     "published_at": "2023-09-28T17:20:10+02:00",
-    "updated_at": "2023-09-28T17:24:32+02:00",
+    "updated_at": "2023-09-28T18:10:16+02:00",
     "media_id": "j8fxotta2o58",
     "duration": "0:50",
     "canonical_section": {
@@ -213,7 +282,7 @@
     "title": "Medewerkers Erasmus MC met handen omhoog naar buiten: 'Het was chaos'",
     "subtitle": null,
     "published_at": "2023-09-28T17:14:53+02:00",
-    "updated_at": "2023-09-28T17:41:43+02:00",
+    "updated_at": "2023-09-28T18:18:10+02:00",
     "media_id": "oj2xbzwaqi7l",
     "duration": null,
     "canonical_section": {
@@ -282,7 +351,7 @@
     "title": "Verdachte aangehouden na schietpartijen in Erasmus MC en Rotterdamse woning",
     "subtitle": null,
     "published_at": "2023-09-28T16:23:25+02:00",
-    "updated_at": "2023-09-28T17:42:40+02:00",
+    "updated_at": "2023-09-28T18:42:29+02:00",
     "media_id": "68kxzaea7wg6",
     "duration": null,
     "canonical_section": {
@@ -300,13 +369,13 @@
   },
   {
     "id": 6283005,
-    "slug": "politie-gaat-niet-uit-van-tweede-schutter-bij-incidenten-rotterdam",
+    "slug": "motief-schietpartijen-rotterdam-nog-onbekend-verdachte-is-bekende-van-justitie",
     "type": "article",
-    "title": "Politie gaat niet uit van tweede schutter bij incidenten Rotterdam",
+    "title": "Motief schietpartijen Rotterdam nog onbekend, verdachte is bekende van justitie",
     "subtitle": "Liveblog",
     "published_at": "2023-09-28T16:14:27+02:00",
-    "updated_at": "2023-09-28T17:56:37+02:00",
-    "media_id": "v4cxeyqaof11",
+    "updated_at": "2023-09-28T18:56:44+02:00",
+    "media_id": "mg0xtm7a3c0h",
     "duration": null,
     "canonical_section": {
       "id": 1779258,
@@ -317,7 +386,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/binnenland-en-buitenland/6283005/politie-gaat-niet-uit-van-tweede-schutter-bij-incidenten-rotterdam.html",
+    "url": "/binnenland-en-buitenland/6283005/motief-schietpartijen-rotterdam-nog-onbekend-verdachte-is-bekende-van-justitie.html",
     "open_new_window": false,
     "partner": null
   },
@@ -374,7 +443,7 @@
     "title": "Reisorganisatie Vacansoleil bezwijkt onder schuldenlast en is failliet verklaard",
     "subtitle": null,
     "published_at": "2023-09-28T15:20:46+02:00",
-    "updated_at": "2023-09-28T16:50:40+02:00",
+    "updated_at": "2023-09-28T18:17:41+02:00",
     "media_id": "d10xjj3aqq1m",
     "duration": null,
     "canonical_section": {
@@ -617,75 +686,6 @@
       "partner": null
     },
     "url": "/economie/6282972/stroomnet-raakt-op-nog-meer-plekken-overvol-hoop-op-spitsmijden.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6282967,
-    "slug": "djs-coen-en-sander-verruilen-radio-538-en-veronica-voor-ochtendshow-bij-joe",
-    "type": "article",
-    "title": "Dj's Coen en Sander verruilen Radio 538 en Veronica voor ochtendshow bij JOE",
-    "subtitle": null,
-    "published_at": "2023-09-28T13:29:44+02:00",
-    "updated_at": "2023-09-28T17:25:29+02:00",
-    "media_id": "4vmxtcfa3gi1",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771675,
-      "slug": "media",
-      "type": "default",
-      "name": "Media",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/media/6282967/djs-coen-en-sander-verruilen-radio-538-en-veronica-voor-ochtendshow-bij-joe.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6282965,
-    "slug": "in-vrachtwagen-opgesloten-vrouwen-bellen-bbc-journalist-en-worden-gered",
-    "type": "article",
-    "title": "In vrachtwagen opgesloten vrouwen bellen BBC-journalist en worden gered",
-    "subtitle": null,
-    "published_at": "2023-09-28T13:11:35+02:00",
-    "updated_at": "2023-09-28T13:17:36+02:00",
-    "media_id": "ubyx49ca26xx",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6282965/in-vrachtwagen-opgesloten-vrouwen-bellen-bbc-journalist-en-worden-gered.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6282963,
-    "slug": "werk-erwin-olaf-toegevoegd-aan-eregalerij-van-rijksmuseum",
-    "type": "article",
-    "title": "Werk Erwin Olaf toegevoegd aan Eregalerij van Rijksmuseum",
-    "subtitle": null,
-    "published_at": "2023-09-28T13:08:44+02:00",
-    "updated_at": "2023-09-28T13:08:45+02:00",
-    "media_id": "1p9xe1za9e5z",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772075,
-      "slug": "cultuur-overig",
-      "type": "default",
-      "name": "Boek & Cultuur",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/cultuur-overig/6282963/werk-erwin-olaf-toegevoegd-aan-eregalerij-van-rijksmuseum.html",
     "open_new_window": false,
     "partner": null
   }
