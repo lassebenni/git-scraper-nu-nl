@@ -1,13 +1,59 @@
 [
   {
-    "id": 6283065,
-    "slug": "sfeer-gelaten-bij-erasmus-mc-dag-na-schietpartij-werk-gaat-gewoon-weer-door",
+    "id": 6283068,
+    "slug": "eeuwenoude-robin-hood-boom-opzettelijk-in-tweeen-gezaagd-in-engeland",
+    "type": "video",
+    "title": "Eeuwenoude 'Robin Hood-boom' opzettelijk in tweeën gezaagd in Engeland",
+    "subtitle": "Video",
+    "published_at": "2023-09-29T08:14:35+02:00",
+    "updated_at": "2023-09-29T08:52:04+02:00",
+    "media_id": "7e7x6ruaw7r3",
+    "duration": "0:37",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6283068/eeuwenoude-robin-hood-boom-opzettelijk-in-tweeen-gezaagd-in-engeland.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6283067,
+    "slug": "winkelkassas-raakten-weer-voller-ook-al-kochten-we-minder",
     "type": "article",
-    "title": "Sfeer gelaten bij Erasmus MC dag na schietpartij, 'werk gaat gewoon weer door'",
+    "title": "Winkelkassa's raakten weer voller, ook al kochten we minder",
+    "subtitle": null,
+    "published_at": "2023-09-29T08:05:11+02:00",
+    "updated_at": "2023-09-29T08:05:12+02:00",
+    "media_id": "6mqxcqoatji7",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6283067/winkelkassas-raakten-weer-voller-ook-al-kochten-we-minder.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6283065,
+    "slug": "sfeer-gelaten-bij-erasmus-mc-dag-na-schietpartij-maar-werk-gaat-gewoon-door",
+    "type": "article",
+    "title": "Sfeer gelaten bij Erasmus MC dag na schietpartij, maar 'werk gaat gewoon door'",
     "subtitle": null,
     "published_at": "2023-09-29T07:49:10+02:00",
-    "updated_at": "2023-09-29T07:51:59+02:00",
-    "media_id": "f8ux1dkaz1x5",
+    "updated_at": "2023-09-29T08:28:44+02:00",
+    "media_id": "l72x26masv8v",
     "duration": null,
     "canonical_section": {
       "id": 1771435,
@@ -18,7 +64,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/binnenland/6283065/sfeer-gelaten-bij-erasmus-mc-dag-na-schietpartij-werk-gaat-gewoon-weer-door.html",
+    "url": "/binnenland/6283065/sfeer-gelaten-bij-erasmus-mc-dag-na-schietpartij-maar-werk-gaat-gewoon-door.html",
     "open_new_window": false,
     "partner": null
   },
@@ -29,7 +75,7 @@
     "title": "Australiër die eigen ontvoering fakete om bij minnares te zijn moet politie betalen",
     "subtitle": null,
     "published_at": "2023-09-29T07:44:50+02:00",
-    "updated_at": "2023-09-29T08:01:15+02:00",
+    "updated_at": "2023-09-29T08:57:49+02:00",
     "media_id": "7z5xavnafr0x",
     "duration": null,
     "canonical_section": {
@@ -52,7 +98,7 @@
     "title": "Mourinho: 'Crisis? Ik heb twee Europese finales op rij gehaald met AS Roma'",
     "subtitle": null,
     "published_at": "2023-09-29T07:37:39+02:00",
-    "updated_at": "2023-09-29T07:54:34+02:00",
+    "updated_at": "2023-09-29T08:21:57+02:00",
     "media_id": "mxdx6lla25rm",
     "duration": null,
     "canonical_section": {
@@ -98,7 +144,7 @@
     "title": "Stalker van Miley Cyrus krijgt straatverbod",
     "subtitle": null,
     "published_at": "2023-09-29T06:52:41+02:00",
-    "updated_at": "2023-09-29T07:11:42+02:00",
+    "updated_at": "2023-09-29T08:14:53+02:00",
     "media_id": "wkfxh8pauohf",
     "duration": null,
     "canonical_section": {
@@ -282,7 +328,7 @@
     "title": "Rotterdam-West rouwt: 'Toen haar dood bekend werd, brak alles'",
     "subtitle": null,
     "published_at": "2023-09-29T05:07:18+02:00",
-    "updated_at": "2023-09-29T05:07:20+02:00",
+    "updated_at": "2023-09-29T08:23:55+02:00",
     "media_id": "20qxxd4acdd5",
     "duration": null,
     "canonical_section": {
@@ -640,52 +686,6 @@
       "partner": null
     },
     "url": "/binnenland/6283042/politie-mag-voortaan-ook-verdachten-in-belgie-en-luxemburg-aanhouden.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6283040,
-    "slug": "emoties-in-de-stad-groot-na-dodelijke-schietpartijen-in-rotterdam",
-    "type": "video",
-    "title": "'Emoties in de stad groot' na dodelijke schietpartijen in Rotterdam",
-    "subtitle": "Video",
-    "published_at": "2023-09-28T19:41:16+02:00",
-    "updated_at": "2023-09-28T19:41:18+02:00",
-    "media_id": "zkwxnscavmkh",
-    "duration": "2:38",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6283040/emoties-in-de-stad-groot-na-dodelijke-schietpartijen-in-rotterdam.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6283037,
-    "slug": "arts-over-schietpartij-erasmus-mc-amerikaanse-taferelen",
-    "type": "video",
-    "title": "Arts over schietpartij Erasmus MC: 'Amerikaanse taferelen'",
-    "subtitle": "Video",
-    "published_at": "2023-09-28T19:26:41+02:00",
-    "updated_at": "2023-09-28T19:30:25+02:00",
-    "media_id": "x3cxq35ajm1t",
-    "duration": "1:13",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6283037/arts-over-schietpartij-erasmus-mc-amerikaanse-taferelen.html",
     "open_new_window": false,
     "partner": null
   }
