@@ -1,12 +1,150 @@
 [
   {
+    "id": 6283376,
+    "slug": "xr-staakt-actie-a12-om-onveilige-situatie-met-demonstranten-tegen-blokkade",
+    "type": "article",
+    "title": "XR staakt actie A12 om 'onveilige situatie' met demonstranten tegen blokkade",
+    "subtitle": null,
+    "published_at": "2023-10-01T14:00:20+02:00",
+    "updated_at": "2023-10-01T14:00:22+02:00",
+    "media_id": "lqexfx0aegdg",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6283376/xr-staakt-actie-a12-om-onveilige-situatie-met-demonstranten-tegen-blokkade.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6283374,
+    "slug": "vn-voor-het-eerst-in-dertig-jaar-voor-missie-in-nagorno-karabach",
+    "type": "article",
+    "title": "VN voor het eerst in dertig jaar voor missie in Nagorno-Karabach",
+    "subtitle": null,
+    "published_at": "2023-10-01T13:28:52+02:00",
+    "updated_at": "2023-10-01T13:32:17+02:00",
+    "media_id": "xjhxtnba0i7d",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6283374/vn-voor-het-eerst-in-dertig-jaar-voor-missie-in-nagorno-karabach.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6283137,
+    "slug": "regisseur-gareth-edwards-over-ai-we-kunnen-er-niet-aan-ontsnappen",
+    "type": "article",
+    "title": "Regisseur Gareth Edwards over AI: ‘We kunnen er niet aan ontsnappen’",
+    "subtitle": null,
+    "published_at": "2023-10-01T13:24:57+02:00",
+    "updated_at": "2023-10-01T13:24:58+02:00",
+    "media_id": "howxud4a16mh",
+    "duration": null,
+    "canonical_section": {
+      "id": 127,
+      "slug": "film",
+      "type": "default",
+      "name": "Films & Series",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/film/6283137/regisseur-gareth-edwards-over-ai-we-kunnen-er-niet-aan-ontsnappen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6282823,
+    "slug": "opwarming-komt-volledig-door-de-mens-en-7-andere-klimaatzekerheden",
+    "type": "article",
+    "title": "Opwarming komt volledig door de mens (en 7 andere klimaatzekerheden)",
+    "subtitle": "NU+",
+    "published_at": "2023-10-01T13:23:51+02:00",
+    "updated_at": "2023-10-01T13:56:37+02:00",
+    "media_id": "fjhxn5aaw6um",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772754,
+      "slug": "klimaat",
+      "type": "default",
+      "name": "Klimaat",
+      "style": "nuzakelijk",
+      "media_id": "kf4x3b2agsxg",
+      "partner": null
+    },
+    "url": "/klimaat/6282823/opwarming-komt-volledig-door-de-mens-en-7-andere-klimaatzekerheden.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6283373,
+    "slug": "vakbond-fnv-kondigt-werkonderbrekingen-aan-in-de-houthandel",
+    "type": "article",
+    "title": "Vakbond FNV kondigt werkonderbrekingen aan in de houthandel",
+    "subtitle": null,
+    "published_at": "2023-10-01T13:20:19+02:00",
+    "updated_at": "2023-10-01T13:25:20+02:00",
+    "media_id": "p4lxdp8aq63w",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6283373/vakbond-fnv-kondigt-werkonderbrekingen-aan-in-de-houthandel.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6283370,
+    "slug": "brand-in-woning-gouda-met-dode-en-drie-gewonden-onder-controle",
+    "type": "article",
+    "title": "Brand in woning Gouda met dode en drie gewonden onder controle",
+    "subtitle": null,
+    "published_at": "2023-10-01T13:06:06+02:00",
+    "updated_at": "2023-10-01T13:08:58+02:00",
+    "media_id": "wzsxkvba52r7",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6283370/brand-in-woning-gouda-met-dode-en-drie-gewonden-onder-controle.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6283368,
     "slug": "rkc-deelt-hoopvolle-update-over-vaessen-etienne-heeft-een-goede-nacht-gehad",
     "type": "article",
     "title": "RKC deelt hoopvolle update over Vaessen: 'Etienne heeft een goede nacht gehad'",
     "subtitle": null,
     "published_at": "2023-10-01T12:37:18+02:00",
-    "updated_at": "2023-10-01T12:58:18+02:00",
+    "updated_at": "2023-10-01T13:06:59+02:00",
     "media_id": "tqlxgw0aarii",
     "duration": null,
     "canonical_section": {
@@ -29,7 +167,7 @@
     "title": "Eerste kwartaalverlies van het jaar voor de koers van de Bitcoin",
     "subtitle": null,
     "published_at": "2023-10-01T12:24:07+02:00",
-    "updated_at": "2023-10-01T12:24:08+02:00",
+    "updated_at": "2023-10-01T13:02:21+02:00",
     "media_id": "a22xca0amvt0",
     "duration": null,
     "canonical_section": {
@@ -47,12 +185,12 @@
   },
   {
     "id": 6283364,
-    "slug": "als-eerste-geplaatste-griekspoor-in-kwartfinale-onderuit-in-astana",
+    "slug": "topfavoriet-griekspoor-verliest-kwartfinale-in-astana-rus-al-snel-klaar-in-peking",
     "type": "article",
-    "title": "Als eerste geplaatste Griekspoor in kwartfinale onderuit in Astana",
+    "title": "Topfavoriet Griekspoor verliest kwartfinale in Astana, Rus al snel klaar in Peking",
     "subtitle": null,
     "published_at": "2023-10-01T12:15:51+02:00",
-    "updated_at": "2023-10-01T12:55:36+02:00",
+    "updated_at": "2023-10-01T13:10:11+02:00",
     "media_id": "dkvxz0facz5a",
     "duration": null,
     "canonical_section": {
@@ -64,7 +202,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/sport-overig/6283364/als-eerste-geplaatste-griekspoor-in-kwartfinale-onderuit-in-astana.html",
+    "url": "/sport-overig/6283364/topfavoriet-griekspoor-verliest-kwartfinale-in-astana-rus-al-snel-klaar-in-peking.html",
     "open_new_window": false,
     "partner": null
   },
@@ -162,13 +300,13 @@
   },
   {
     "id": 6283360,
-    "slug": "mattsson-schiet-nec-op-gelijke-hoogte-in-gelderse-derby",
+    "slug": "nec-en-vitesse-nog-altijd-in-evenwicht-in-vermakelijke-gelderse-derby",
     "type": "article",
-    "title": "Mattsson schiet NEC op gelijke hoogte in Gelderse derby",
+    "title": "NEC en Vitesse nog altijd in evenwicht in vermakelijke Gelderse derby",
     "subtitle": "Liveblog",
     "published_at": "2023-10-01T11:43:16+02:00",
-    "updated_at": "2023-10-01T12:45:55+02:00",
-    "media_id": "efzxywya7dn9",
+    "updated_at": "2023-10-01T13:54:08+02:00",
+    "media_id": "hx9xgs4aamsm",
     "duration": null,
     "canonical_section": {
       "id": 1772338,
@@ -179,7 +317,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6283360/mattsson-schiet-nec-op-gelijke-hoogte-in-gelderse-derby.html",
+    "url": "/voetbal/6283360/nec-en-vitesse-nog-altijd-in-evenwicht-in-vermakelijke-gelderse-derby.html",
     "open_new_window": false,
     "partner": null
   },
@@ -208,12 +346,12 @@
   },
   {
     "id": 6283362,
-    "slug": "zeker-zeven-doden-en-meerdere-gewonden-bij-brand-in-spaanse-nachtclub",
+    "slug": "zeker-negen-doden-en-meerdere-gewonden-bij-brand-in-spaanse-nachtclub",
     "type": "article",
-    "title": "Zeker zeven doden en meerdere gewonden bij brand in Spaanse nachtclub",
+    "title": "Zeker negen doden en meerdere gewonden bij brand in Spaanse nachtclub",
     "subtitle": null,
     "published_at": "2023-10-01T11:34:18+02:00",
-    "updated_at": "2023-10-01T12:49:47+02:00",
+    "updated_at": "2023-10-01T13:53:35+02:00",
     "media_id": "wz4x4xuagqtj",
     "duration": null,
     "canonical_section": {
@@ -225,7 +363,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/buitenland/6283362/zeker-zeven-doden-en-meerdere-gewonden-bij-brand-in-spaanse-nachtclub.html",
+    "url": "/buitenland/6283362/zeker-negen-doden-en-meerdere-gewonden-bij-brand-in-spaanse-nachtclub.html",
     "open_new_window": false,
     "partner": null
   },
@@ -259,7 +397,7 @@
     "title": "Explosie Ankara vastgelegd door bewakingscamera",
     "subtitle": "Video",
     "published_at": "2023-10-01T11:01:20+02:00",
-    "updated_at": "2023-10-01T11:08:23+02:00",
+    "updated_at": "2023-10-01T13:23:24+02:00",
     "media_id": "nunx4ova5xr7",
     "duration": "0:36",
     "canonical_section": {
@@ -374,7 +512,7 @@
     "title": "Twee politieagenten gewond geraakt bij schoten en explosie bij Turks parlement",
     "subtitle": null,
     "published_at": "2023-10-01T09:50:23+02:00",
-    "updated_at": "2023-10-01T09:58:49+02:00",
+    "updated_at": "2023-10-01T13:19:15+02:00",
     "media_id": "nj0xiltadty9",
     "duration": null,
     "canonical_section": {
@@ -466,7 +604,7 @@
     "title": "We raken niet uitgeleerd als we nieuwe dingen doen",
     "subtitle": "Van de hoofdredactie",
     "published_at": "2023-10-01T09:11:46+02:00",
-    "updated_at": "2023-10-01T11:23:59+02:00",
+    "updated_at": "2023-10-01T13:25:33+02:00",
     "media_id": "er7x411ajrw9",
     "duration": null,
     "canonical_section": {
@@ -548,144 +686,6 @@
       "partner": null
     },
     "url": "/binnenland/6283341/dode-en-drie-gewonden-bij-woningbrand-in-gouda-zeer-aangrijpend.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6283339,
-    "slug": "ondanks-wolken-uitzonderlijk-warm-mogelijk-27-graden-in-limburg",
-    "type": "article",
-    "title": "Ondanks wolken uitzonderlijk warm, mogelijk 27 graden in Limburg",
-    "subtitle": "Weerbericht",
-    "published_at": "2023-10-01T06:37:13+02:00",
-    "updated_at": "2023-10-01T07:35:19+02:00",
-    "media_id": "anoxb2hah5nz",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779283,
-      "slug": "weerbericht",
-      "type": "default",
-      "name": "Weerbericht",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/weerbericht/6283339/ondanks-wolken-uitzonderlijk-warm-mogelijk-27-graden-in-limburg.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6283338,
-    "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
-    "type": "article",
-    "title": "Het Woord van vandaag: Raad jij het woord van de dag?",
-    "subtitle": null,
-    "published_at": "2023-10-01T05:57:45+02:00",
-    "updated_at": "2023-10-01T05:57:46+02:00",
-    "media_id": "xdtxc8kaj8rf",
-    "duration": null,
-    "canonical_section": {
-      "id": 1773179,
-      "slug": "uitgelicht",
-      "type": "default",
-      "name": "Uitgelicht",
-      "style": "mediapartner-external",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/uitgelicht/6283338/het-woord-van-vandaag-raad-jij-het-woord-van-de-dag.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6283337,
-    "slug": "vrees-eu-werkelijkheid-pro-russische-partij-smer-sd-wint-verkiezingen-slowakije",
-    "type": "article",
-    "title": "Vrees EU werkelijkheid: pro-Russische partij Smer-SD wint verkiezingen Slowakije",
-    "subtitle": null,
-    "published_at": "2023-10-01T05:56:54+02:00",
-    "updated_at": "2023-10-01T07:39:27+02:00",
-    "media_id": "mcnx7zmajvxx",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6283337/vrees-eu-werkelijkheid-pro-russische-partij-smer-sd-wint-verkiezingen-slowakije.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6283192,
-    "slug": "weer-een-risicoduel-weer-me-paraat-onthoud-dat-wij-ook-mensen-zijn",
-    "type": "article",
-    "title": "Weer een risicoduel, weer ME paraat: 'Onthoud dat wij ook mensen zijn'",
-    "subtitle": null,
-    "published_at": "2023-10-01T05:09:05+02:00",
-    "updated_at": "2023-10-01T07:11:48+02:00",
-    "media_id": "tumxli2a7zuh",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6283192/weer-een-risicoduel-weer-me-paraat-onthoud-dat-wij-ook-mensen-zijn.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6282955,
-    "slug": "meer-illegale-streams-en-downloads-een-abonnement-op-alles-is-onbetaalbaar",
-    "type": "article",
-    "title": "Meer illegale streams en downloads: 'Een abonnement op álles is onbetaalbaar'",
-    "subtitle": null,
-    "published_at": "2023-10-01T05:08:18+02:00",
-    "updated_at": "2023-10-01T11:34:47+02:00",
-    "media_id": "fgqxzzsak3y2",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771438,
-      "slug": "tech",
-      "type": "default",
-      "name": "Tech",
-      "style": "nutech",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/tech/6282955/meer-illegale-streams-en-downloads-een-abonnement-op-alles-is-onbetaalbaar.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6283167,
-    "slug": "zestig-jaar-gronings-gas-van-winst-en-welvaart-naar-boosheid-en-frustratie",
-    "type": "article",
-    "title": "Zestig jaar Gronings gas: van winst en welvaart naar boosheid en frustratie",
-    "subtitle": "NU+",
-    "published_at": "2023-10-01T05:07:08+02:00",
-    "updated_at": "2023-10-01T12:10:57+02:00",
-    "media_id": "o4jxg65apm5f",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6283167/zestig-jaar-gronings-gas-van-winst-en-welvaart-naar-boosheid-en-frustratie.html",
     "open_new_window": false,
     "partner": null
   }
