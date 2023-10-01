@@ -1,5 +1,28 @@
 [
   {
+    "id": 6283339,
+    "slug": "ondanks-wolken-uitzonderlijk-warm-mogelijk-27-graden-in-limburg",
+    "type": "article",
+    "title": "Ondanks wolken uitzonderlijk warm, mogelijk 27 graden in Limburg",
+    "subtitle": "Weerbericht",
+    "published_at": "2023-10-01T06:37:13+02:00",
+    "updated_at": "2023-10-01T06:45:29+02:00",
+    "media_id": "anoxb2hah5nz",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779283,
+      "slug": "weerbericht",
+      "type": "default",
+      "name": "Weerbericht",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/weerbericht/6283339/ondanks-wolken-uitzonderlijk-warm-mogelijk-27-graden-in-limburg.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6283338,
     "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
     "type": "article",
@@ -24,12 +47,12 @@
   },
   {
     "id": 6283337,
-    "slug": "vrees-eu-werkelijkheid-pro-russische-partij-aan-kop-in-verkiezingen-slowakije",
+    "slug": "vrees-eu-werkelijkheid-pro-russische-partij-smer-sd-wint-verkiezingen-slowakije",
     "type": "article",
-    "title": "Vrees EU werkelijkheid: Pro-Russische partij aan kop in verkiezingen Slowakije",
+    "title": "Vrees EU werkelijkheid: Pro-Russische partij Smer-SD wint verkiezingen Slowakije",
     "subtitle": null,
     "published_at": "2023-10-01T05:56:54+02:00",
-    "updated_at": "2023-10-01T05:57:07+02:00",
+    "updated_at": "2023-10-01T06:18:52+02:00",
     "media_id": "mcnx7zmajvxx",
     "duration": null,
     "canonical_section": {
@@ -41,7 +64,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/buitenland/6283337/vrees-eu-werkelijkheid-pro-russische-partij-aan-kop-in-verkiezingen-slowakije.html",
+    "url": "/buitenland/6283337/vrees-eu-werkelijkheid-pro-russische-partij-smer-sd-wint-verkiezingen-slowakije.html",
     "open_new_window": false,
     "partner": null
   },
@@ -121,7 +144,7 @@
     "title": "Aangescherpt protocol leidde tot reanimatie RKC-keeper Vaessen: 'Het was heftig'",
     "subtitle": null,
     "published_at": "2023-10-01T05:06:18+02:00",
-    "updated_at": "2023-10-01T05:06:19+02:00",
+    "updated_at": "2023-10-01T06:59:58+02:00",
     "media_id": "b1zxmkka9oq4",
     "duration": null,
     "canonical_section": {
@@ -663,29 +686,6 @@
       "partner": null
     },
     "url": "/wielrennen/6283305/roglic-maakt-na-laatste-koers-bekend-voor-welke-ploeg-hij-jumbo-visma-verlaat.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6283304,
-    "slug": "nabestaanden-schietpartij-rotterdam-leven-in-onwerkelijkheid-zwart-gat",
-    "type": "article",
-    "title": "Nabestaanden schietpartij Rotterdam leven in onwerkelijkheid: 'Zwart gat'",
-    "subtitle": null,
-    "published_at": "2023-09-30T18:04:30+02:00",
-    "updated_at": "2023-09-30T18:09:58+02:00",
-    "media_id": "p7uxy18aej73",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6283304/nabestaanden-schietpartij-rotterdam-leven-in-onwerkelijkheid-zwart-gat.html",
     "open_new_window": false,
     "partner": null
   }
