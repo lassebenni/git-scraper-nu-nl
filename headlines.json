@@ -1,13 +1,82 @@
 [
   {
-    "id": 6283435,
-    "slug": "hoekstra-moet-zich-bewijzen-voor-europees-parlement-tijdens-urenlang-klimaatexamen",
+    "id": 6283438,
+    "slug": "weerbericht-het-is-vandaag-eerder-zomer-dan-herfst",
     "type": "article",
-    "title": "Hoekstra moet zich bewijzen voor Europees parlement tijdens urenlang klimaatexamen",
+    "title": "Weerbericht: Het is vandaag eerder zomer dan herfst",
+    "subtitle": null,
+    "published_at": "2023-10-02T06:57:15+02:00",
+    "updated_at": "2023-10-02T06:57:16+02:00",
+    "media_id": "wadxf0dash7l",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779283,
+      "slug": "weerbericht",
+      "type": "default",
+      "name": "Weerbericht",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/weerbericht/6283438/weerbericht-het-is-vandaag-eerder-zomer-dan-herfst.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6283437,
+    "slug": "maan-gaat-voor-kleurrijk-nieuw-kapsel",
+    "type": "article",
+    "title": "Maan gaat voor kleurrijk nieuw kapsel",
+    "subtitle": "Achterklapupdates",
+    "published_at": "2023-10-02T06:34:41+02:00",
+    "updated_at": "2023-10-02T06:40:02+02:00",
+    "media_id": "4p6x1g4a1qoe",
+    "duration": null,
+    "canonical_section": {
+      "id": 125,
+      "slug": "achterklap",
+      "type": "default",
+      "name": "Achterklap",
+      "style": "nuentertainment",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/achterklap/6283437/maan-gaat-voor-kleurrijk-nieuw-kapsel.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6283436,
+    "slug": "jongeren-kopen-laatste-jaren-massaal-caravans-en-campers",
+    "type": "article",
+    "title": "Jongeren kopen laatste jaren massaal caravans en campers",
+    "subtitle": null,
+    "published_at": "2023-10-02T06:19:20+02:00",
+    "updated_at": "2023-10-02T06:23:59+02:00",
+    "media_id": "v53xi9rao65e",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6283436/jongeren-kopen-laatste-jaren-massaal-caravans-en-campers.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6283435,
+    "slug": "hoekstra-moet-zich-bewijzen-voor-europees-parlement-tijdens-klimaatexamen",
+    "type": "article",
+    "title": "Hoekstra moet zich bewijzen voor Europees Parlement tijdens klimaatexamen",
     "subtitle": null,
     "published_at": "2023-10-02T05:50:05+02:00",
-    "updated_at": "2023-10-02T05:50:06+02:00",
-    "media_id": "xdyxzvwad4ew",
+    "updated_at": "2023-10-02T06:26:53+02:00",
+    "media_id": "w2xxs8naikzo",
     "duration": null,
     "canonical_section": {
       "id": 1771437,
@@ -18,18 +87,18 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/politiek/6283435/hoekstra-moet-zich-bewijzen-voor-europees-parlement-tijdens-urenlang-klimaatexamen.html",
+    "url": "/politiek/6283435/hoekstra-moet-zich-bewijzen-voor-europees-parlement-tijdens-klimaatexamen.html",
     "open_new_window": false,
     "partner": null
   },
   {
     "id": 6283434,
-    "slug": "mexicaanse-kerk-stort-in-tijdens-doopdienst-zeker-zeven-doden",
+    "slug": "zeker-negen-doden-nadat-mexicaanse-kerk-instort-tijdens-doopdienst",
     "type": "article",
-    "title": "Mexicaanse kerk stort in tijdens doopdienst, zeker zeven doden",
+    "title": "Zeker negen doden nadat Mexicaanse kerk instort tijdens doopdienst",
     "subtitle": null,
     "published_at": "2023-10-02T05:42:23+02:00",
-    "updated_at": "2023-10-02T05:42:24+02:00",
+    "updated_at": "2023-10-02T07:00:15+02:00",
     "media_id": "9dpxhi1as81h",
     "duration": null,
     "canonical_section": {
@@ -41,7 +110,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/buitenland/6283434/mexicaanse-kerk-stort-in-tijdens-doopdienst-zeker-zeven-doden.html",
+    "url": "/buitenland/6283434/zeker-negen-doden-nadat-mexicaanse-kerk-instort-tijdens-doopdienst.html",
     "open_new_window": false,
     "partner": null
   },
@@ -52,7 +121,7 @@
     "title": "Het Woord van vandaag: Raad jij het woord van de dag?",
     "subtitle": null,
     "published_at": "2023-10-02T05:33:39+02:00",
-    "updated_at": "2023-10-02T06:01:28+02:00",
+    "updated_at": "2023-10-02T06:35:37+02:00",
     "media_id": "xdtxc8kaj8rf",
     "duration": null,
     "canonical_section": {
@@ -98,7 +167,7 @@
     "title": "Producenten krijgen volgend jaar ook korting op niet volledig duurzaam plastic",
     "subtitle": null,
     "published_at": "2023-10-02T00:37:33+02:00",
-    "updated_at": "2023-10-02T00:37:35+02:00",
+    "updated_at": "2023-10-02T06:11:45+02:00",
     "media_id": "os3xnnca8ehd",
     "duration": null,
     "canonical_section": {
@@ -328,7 +397,7 @@
     "title": "Topturnster Simone Biles landt 'onmogelijke' sprong bij WK-rentree: de Biles II",
     "subtitle": null,
     "published_at": "2023-10-01T20:27:39+02:00",
-    "updated_at": "2023-10-01T23:14:31+02:00",
+    "updated_at": "2023-10-02T06:19:52+02:00",
     "media_id": "3akxxb6abnh2",
     "duration": null,
     "canonical_section": {
@@ -351,7 +420,7 @@
     "title": "Van Halst keert na periode als interim-directeur niet meer terug in rvc Ajax",
     "subtitle": null,
     "published_at": "2023-10-01T20:18:40+02:00",
-    "updated_at": "2023-10-01T20:39:39+02:00",
+    "updated_at": "2023-10-02T06:24:19+02:00",
     "media_id": "jwhxnitauc9i",
     "duration": null,
     "canonical_section": {
@@ -617,75 +686,6 @@
       "partner": null
     },
     "url": "/voetbal/6283400/roord-direct-trefzeker-bij-debuut-voor-winnend-manchester-city.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6283288,
-    "slug": "goed-nieuws-van-deze-week-hiv-preventiepil-succesvol-gratis-naar-de-kermis",
-    "type": "article",
-    "title": "Goed nieuws van deze week: hiv-preventiepil succesvol, gratis naar de kermis",
-    "subtitle": null,
-    "published_at": "2023-10-01T17:53:41+02:00",
-    "updated_at": "2023-10-01T17:53:42+02:00",
-    "media_id": "o0kx0mbavku3",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779220,
-      "slug": "goed-nieuws",
-      "type": "default",
-      "name": "Goed nieuws",
-      "style": "nuoverig",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/goed-nieuws/6283288/goed-nieuws-van-deze-week-hiv-preventiepil-succesvol-gratis-naar-de-kermis.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6283398,
-    "slug": "politie-rukt-uit-nadat-man-met-luchtbuks-op-eigen-schuur-schiet-in-eindhoven",
-    "type": "article",
-    "title": "Politie rukt uit nadat man met luchtbuks op eigen schuur schiet in Eindhoven",
-    "subtitle": null,
-    "published_at": "2023-10-01T17:30:45+02:00",
-    "updated_at": "2023-10-01T17:37:31+02:00",
-    "media_id": "rjcxnkea7h7s",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6283398/politie-rukt-uit-nadat-man-met-luchtbuks-op-eigen-schuur-schiet-in-eindhoven.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6283396,
-    "slug": "knegt-niet-geselecteerd-voor-eerste-world-cup-shorttrack-in-montreal",
-    "type": "article",
-    "title": "Knegt niet geselecteerd voor eerste World Cup shorttrack in Montreal",
-    "subtitle": null,
-    "published_at": "2023-10-01T17:25:18+02:00",
-    "updated_at": "2023-10-01T17:33:30+02:00",
-    "media_id": "0asxpb9a4xsk",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772452,
-      "slug": "schaatsen",
-      "type": "default",
-      "name": "Schaatsen",
-      "style": "nusport",
-      "media_id": "5ktx9n6axubw",
-      "partner": null
-    },
-    "url": "/schaatsen/6283396/knegt-niet-geselecteerd-voor-eerste-world-cup-shorttrack-in-montreal.html",
     "open_new_window": false,
     "partner": null
   }
