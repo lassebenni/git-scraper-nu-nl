@@ -1,12 +1,104 @@
 [
   {
+    "id": 6284098,
+    "slug": "trein-botst-op-vastgelopen-vrachtwagen-in-vs",
+    "type": "video",
+    "title": "Trein botst op vastgelopen vrachtwagen in VS",
+    "subtitle": "Video",
+    "published_at": "2023-10-06T06:38:20+02:00",
+    "updated_at": "2023-10-06T06:38:21+02:00",
+    "media_id": "8rjx3inaeo2k",
+    "duration": "0:39",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6284098/trein-botst-op-vastgelopen-vrachtwagen-in-vs.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6284097,
+    "slug": "bewolking-voert-de-boventoon-in-het-weekend-wordt-het-warmer",
+    "type": "article",
+    "title": "Bewolking voert de boventoon, in het weekend wordt het warmer",
+    "subtitle": "Weerbericht",
+    "published_at": "2023-10-06T06:36:06+02:00",
+    "updated_at": "2023-10-06T06:48:04+02:00",
+    "media_id": "1y0xznfaquts",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779283,
+      "slug": "weerbericht",
+      "type": "default",
+      "name": "Weerbericht",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/weerbericht/6284097/bewolking-voert-de-boventoon-in-het-weekend-wordt-het-warmer.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6284090,
+    "slug": "voor-175000-euro-een-nieuwbouwhuis-deze-woningfabriek-maakt-het",
+    "type": "video",
+    "title": "Voor 175.000 euro een nieuwbouwhuis: deze woningfabriek maakt het",
+    "subtitle": "Explainer",
+    "published_at": "2023-10-06T06:34:15+02:00",
+    "updated_at": "2023-10-06T06:58:03+02:00",
+    "media_id": "x7pxs46atpos",
+    "duration": "2:46",
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6284090/voor-175000-euro-een-nieuwbouwhuis-deze-woningfabriek-maakt-het.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6284096,
+    "slug": "arrestaties-en-botsing-tussen-me-en-legia-voorzitter-bij-spelersbus-na-duel-met-az",
+    "type": "article",
+    "title": "Arrestaties en botsing tussen ME en Legia-voorzitter bij spelersbus na duel met AZ",
+    "subtitle": null,
+    "published_at": "2023-10-06T06:14:32+02:00",
+    "updated_at": "2023-10-06T06:56:51+02:00",
+    "media_id": "sgvxgrgack3k",
+    "duration": null,
+    "canonical_section": {
+      "id": 149,
+      "slug": "sport",
+      "type": "default",
+      "name": "Sport",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/sport/6284096/arrestaties-en-botsing-tussen-me-en-legia-voorzitter-bij-spelersbus-na-duel-met-az.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6284094,
     "slug": "twee-tieners-aangehouden-na-schietincident-in-trein-bij-station-rotterdam-cs",
     "type": "article",
     "title": "Twee tieners aangehouden na schietincident in trein bij station Rotterdam CS",
     "subtitle": null,
     "published_at": "2023-10-06T05:48:45+02:00",
-    "updated_at": "2023-10-06T05:48:57+02:00",
+    "updated_at": "2023-10-06T06:44:38+02:00",
     "media_id": "qfixa2vam1qn",
     "duration": null,
     "canonical_section": {
@@ -29,7 +121,7 @@
     "title": "Het Woord van vandaag: Raad jij het woord van de dag?",
     "subtitle": null,
     "published_at": "2023-10-06T05:38:28+02:00",
-    "updated_at": "2023-10-06T05:38:30+02:00",
+    "updated_at": "2023-10-06T06:48:15+02:00",
     "media_id": "xdtxc8kaj8rf",
     "duration": null,
     "canonical_section": {
@@ -52,7 +144,7 @@
     "title": "Analyse: De Formule 1 wordt steeds meer de Super League van de autosport",
     "subtitle": null,
     "published_at": "2023-10-06T05:15:00+02:00",
-    "updated_at": "2023-10-06T05:15:01+02:00",
+    "updated_at": "2023-10-06T06:57:37+02:00",
     "media_id": "b4xxjdra2f60",
     "duration": null,
     "canonical_section": {
@@ -70,12 +162,12 @@
   },
   {
     "id": 6284050,
-    "slug": "cruijff-en-totaalvoetbal-moeten-cricketers-naar-wk-stunt-leiden",
+    "slug": "hoe-cruijff-en-totaalcricket-nederland-moeten-helpen-aan-wk-stunt",
     "type": "article",
-    "title": "Cruijff en totaalvoetbal moeten cricketers naar WK-stunt leiden",
+    "title": "Hoe Cruijff en totaalcricket Nederland moeten helpen aan WK-stunt",
     "subtitle": null,
     "published_at": "2023-10-06T05:13:49+02:00",
-    "updated_at": "2023-10-06T05:13:50+02:00",
+    "updated_at": "2023-10-06T06:55:05+02:00",
     "media_id": "bffx7fra5bmg",
     "duration": null,
     "canonical_section": {
@@ -87,18 +179,18 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/sport-overig/6284050/cruijff-en-totaalvoetbal-moeten-cricketers-naar-wk-stunt-leiden.html",
+    "url": "/sport-overig/6284050/hoe-cruijff-en-totaalcricket-nederland-moeten-helpen-aan-wk-stunt.html",
     "open_new_window": false,
     "partner": null
   },
   {
     "id": 6283970,
-    "slug": "waarom-het-soms-lijkt-alsof-er-griep-heerst-terwijl-dat-niet-klopt",
+    "slug": "er-is-geen-griepepidemie-waarom-lijkt-het-dan-wel-zo",
     "type": "article",
-    "title": "Waarom het soms lijkt alsof er griep heerst, terwijl dat niet klopt",
+    "title": "Er is geen griepepidemie, waarom lijkt het dan wel zo?",
     "subtitle": "In 100 woorden",
     "published_at": "2023-10-06T05:12:35+02:00",
-    "updated_at": "2023-10-06T05:12:36+02:00",
+    "updated_at": "2023-10-06T06:54:47+02:00",
     "media_id": "na3xqmja4bug",
     "duration": null,
     "canonical_section": {
@@ -110,7 +202,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/binnenland/6283970/waarom-het-soms-lijkt-alsof-er-griep-heerst-terwijl-dat-niet-klopt.html",
+    "url": "/binnenland/6283970/er-is-geen-griepepidemie-waarom-lijkt-het-dan-wel-zo.html",
     "open_new_window": false,
     "partner": null
   },
@@ -121,7 +213,7 @@
     "title": "Hoe nuttig is een onderzoek naar het naziverleden van prins Bernhard?",
     "subtitle": null,
     "published_at": "2023-10-06T05:11:53+02:00",
-    "updated_at": "2023-10-06T05:11:54+02:00",
+    "updated_at": "2023-10-06T06:49:33+02:00",
     "media_id": "pl2x6idak5ri",
     "duration": null,
     "canonical_section": {
@@ -208,12 +300,12 @@
   },
   {
     "id": 6284091,
-    "slug": "politie-legia-supporters-gebruikten-heftig-geweld-voor-wedstrijd-tegen-az",
+    "slug": "legia-supporters-gebruikten-heftig-geweld-voor-wedstrijd-tegen-az",
     "type": "article",
-    "title": "Politie: Legia-supporters gebruikten 'heftig geweld' voor wedstrijd tegen AZ",
+    "title": "Legia-supporters gebruikten 'heftig geweld' voor wedstrijd tegen AZ",
     "subtitle": null,
     "published_at": "2023-10-05T23:52:15+02:00",
-    "updated_at": "2023-10-06T00:21:08+02:00",
+    "updated_at": "2023-10-06T06:32:04+02:00",
     "media_id": "3skxlbva77cv",
     "duration": null,
     "canonical_section": {
@@ -225,7 +317,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/binnenland/6284091/politie-legia-supporters-gebruikten-heftig-geweld-voor-wedstrijd-tegen-az.html",
+    "url": "/binnenland/6284091/legia-supporters-gebruikten-heftig-geweld-voor-wedstrijd-tegen-az.html",
     "open_new_window": false,
     "partner": null
   },
@@ -512,7 +604,7 @@
     "title": "Ajax geeft ook bij AEK zege uit handen door doelpunt 'knipoog-Kroaat' Vida",
     "subtitle": null,
     "published_at": "2023-10-05T20:40:33+02:00",
-    "updated_at": "2023-10-06T05:40:21+02:00",
+    "updated_at": "2023-10-06T06:58:56+02:00",
     "media_id": "73xxssia2xvo",
     "duration": null,
     "canonical_section": {
@@ -594,98 +686,6 @@
       "partner": null
     },
     "url": "/videos/6284074/kate-middleton-speelt-potje-rolstoelrugby-in-engeland.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6284071,
-    "slug": "onderzoek-na-fatale-steekpartij-solid-grooves-leidt-tot-ontslag-management",
-    "type": "article",
-    "title": "Onderzoek na fatale steekpartij Solid Grooves leidt tot ontslag management",
-    "subtitle": null,
-    "published_at": "2023-10-05T19:45:57+02:00",
-    "updated_at": "2023-10-06T00:07:05+02:00",
-    "media_id": "zgnxkx0alusf",
-    "duration": null,
-    "canonical_section": {
-      "id": 868281,
-      "slug": "muziek",
-      "type": "default",
-      "name": "Muziek",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/muziek/6284071/onderzoek-na-fatale-steekpartij-solid-grooves-leidt-tot-ontslag-management.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6284070,
-    "slug": "verstappen-hoeft-geen-sportman-van-het-jaar-te-worden-een-belachelijke-prijs",
-    "type": "article",
-    "title": "Verstappen hoeft geen Sportman van het Jaar te worden: 'Een belachelijke prijs'",
-    "subtitle": null,
-    "published_at": "2023-10-05T19:16:02+02:00",
-    "updated_at": "2023-10-05T21:22:47+02:00",
-    "media_id": "et2xn0balpih",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772449,
-      "slug": "formule-1",
-      "type": "default",
-      "name": "Formule 1",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/formule-1/6284070/verstappen-hoeft-geen-sportman-van-het-jaar-te-worden-een-belachelijke-prijs.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6284069,
-    "slug": "blusvliegtuig-probeert-natuurbranden-op-tenerife-te-bedwingen",
-    "type": "video",
-    "title": "Blusvliegtuig probeert natuurbranden op Tenerife te bedwingen",
-    "subtitle": "Video",
-    "published_at": "2023-10-05T19:11:05+02:00",
-    "updated_at": "2023-10-05T19:11:06+02:00",
-    "media_id": "iuex4pwa9s66",
-    "duration": "0:41",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6284069/blusvliegtuig-probeert-natuurbranden-op-tenerife-te-bedwingen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6284058,
-    "slug": "zweedse-belegger-wil-twaalfduizend-nederlandse-huurwoningen-verkopen",
-    "type": "article",
-    "title": "Zweedse belegger wil twaalfduizend Nederlandse huurwoningen verkopen",
-    "subtitle": null,
-    "published_at": "2023-10-05T18:34:26+02:00",
-    "updated_at": "2023-10-05T18:34:28+02:00",
-    "media_id": "c8xxgaha1s52",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6284058/zweedse-belegger-wil-twaalfduizend-nederlandse-huurwoningen-verkopen.html",
     "open_new_window": false,
     "partner": null
   }
