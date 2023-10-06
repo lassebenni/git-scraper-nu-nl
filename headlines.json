@@ -1,5 +1,28 @@
 [
   {
+    "id": 6284252,
+    "slug": "utrecht-aanhang-niet-welkom-in-volendam-uit-angst-voor-rellen",
+    "type": "article",
+    "title": "Utrecht-aanhang niet welkom in Volendam uit angst voor rellen",
+    "subtitle": "Liveblog",
+    "published_at": "2023-10-06T19:27:15+02:00",
+    "updated_at": "2023-10-06T19:34:16+02:00",
+    "media_id": "w4vx04bajzvi",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6284252/utrecht-aanhang-niet-welkom-in-volendam-uit-angst-voor-rellen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6284239,
     "slug": "vrachtwagenchauffeurs-toeteren-erop-los-in-hengelo",
     "type": "video",
@@ -29,19 +52,19 @@
     "title": "Kabinet belooft betere schuldenaanpak met pauzeknop en online overzicht",
     "subtitle": null,
     "published_at": "2023-10-06T18:53:31+02:00",
-    "updated_at": "2023-10-06T18:53:32+02:00",
+    "updated_at": "2023-10-06T19:56:29+02:00",
     "media_id": "hx8x29ua050y",
     "duration": null,
     "canonical_section": {
-      "id": 1771437,
-      "slug": "politiek",
+      "id": 1779220,
+      "slug": "goed-nieuws",
       "type": "default",
-      "name": "Politiek",
-      "style": "nu",
+      "name": "Goed nieuws",
+      "style": "nuoverig",
       "media_id": null,
       "partner": null
     },
-    "url": "/politiek/6284250/kabinet-belooft-betere-schuldenaanpak-met-pauzeknop-en-online-overzicht.html",
+    "url": "/goed-nieuws/6284250/kabinet-belooft-betere-schuldenaanpak-met-pauzeknop-en-online-overzicht.html",
     "open_new_window": false,
     "partner": null
   },
@@ -94,13 +117,13 @@
   {
     "id": 6284243,
     "slug": "pijnlijk-moment-voor-biden-waarom-hij-toch-trumps-muur-afbouwt",
-    "type": "article",
+    "type": "video",
     "title": "Pijnlijk moment voor Biden: waarom hij tóch Trumps muur afbouwt",
     "subtitle": "Explainer",
     "published_at": "2023-10-06T18:18:26+02:00",
-    "updated_at": "2023-10-06T18:30:10+02:00",
+    "updated_at": "2023-10-06T19:10:07+02:00",
     "media_id": "zz6x3sca0uzr",
-    "duration": null,
+    "duration": "1:34",
     "canonical_section": {
       "id": 100,
       "slug": "algemeen",
@@ -116,12 +139,12 @@
   },
   {
     "id": 6284227,
-    "slug": "al-32-stadionverboden-en-dagenlange-celstraf-na-uit-de-hand-gelopen-klassieker",
+    "slug": "al-32-stadionverboden-en-dagenlange-celstraffen-na-ontspoorde-klassieker",
     "type": "article",
-    "title": "Al 32 stadionverboden en dagenlange celstraf na uit de hand gelopen Klassieker",
+    "title": "Al 32 stadionverboden en dagenlange celstraffen na ontspoorde Klassieker",
     "subtitle": null,
     "published_at": "2023-10-06T17:51:34+02:00",
-    "updated_at": "2023-10-06T17:51:35+02:00",
+    "updated_at": "2023-10-06T19:31:59+02:00",
     "media_id": "xitxofba5akp",
     "duration": null,
     "canonical_section": {
@@ -133,7 +156,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/binnenland/6284227/al-32-stadionverboden-en-dagenlange-celstraf-na-uit-de-hand-gelopen-klassieker.html",
+    "url": "/binnenland/6284227/al-32-stadionverboden-en-dagenlange-celstraffen-na-ontspoorde-klassieker.html",
     "open_new_window": false,
     "partner": null
   },
@@ -300,12 +323,12 @@
   },
   {
     "id": 6284228,
-    "slug": "meldingen-over-integriteit-ouwehand-volgens-nieuw-pvdd-bestuur-ongegrond",
+    "slug": "ouwehand-weer-aan-de-slag-als-lijsttrekker-pvdd-nu-bestuur-haar-vrijpleit",
     "type": "article",
-    "title": "Meldingen over integriteit Ouwehand volgens nieuw PvdD-bestuur ongegrond",
+    "title": "Ouwehand weer aan de slag als lijsttrekker PvdD nu bestuur haar vrijpleit",
     "subtitle": null,
     "published_at": "2023-10-06T16:50:46+02:00",
-    "updated_at": "2023-10-06T17:24:12+02:00",
+    "updated_at": "2023-10-06T19:36:32+02:00",
     "media_id": "t2xxw3xaa0fj",
     "duration": null,
     "canonical_section": {
@@ -317,7 +340,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/politiek/6284228/meldingen-over-integriteit-ouwehand-volgens-nieuw-pvdd-bestuur-ongegrond.html",
+    "url": "/politiek/6284228/ouwehand-weer-aan-de-slag-als-lijsttrekker-pvdd-nu-bestuur-haar-vrijpleit.html",
     "open_new_window": false,
     "partner": null
   },
@@ -420,7 +443,7 @@
     "title": "Megafusie tussen Jumbo-Visma en Soudal Quick-Step van de baan",
     "subtitle": null,
     "published_at": "2023-10-06T15:57:51+02:00",
-    "updated_at": "2023-10-06T18:33:08+02:00",
+    "updated_at": "2023-10-06T19:23:29+02:00",
     "media_id": "otix5n1aaj8w",
     "duration": null,
     "canonical_section": {
@@ -576,13 +599,13 @@
   },
   {
     "id": 6284210,
-    "slug": "aftellen-naar-kwalificatie-qatar-in-mogelijk-kampioensweekend-verstappen",
+    "slug": "verstappen-strijdt-om-pole-in-q3-perez-en-sainz-vallen-af",
     "type": "article",
-    "title": "Aftellen naar kwalificatie Qatar in mogelijk kampioensweekend Verstappen",
+    "title": "Verstappen strijdt om pole in Q3, Pérez en Sainz vallen af",
     "subtitle": "Liveblog",
     "published_at": "2023-10-06T15:19:33+02:00",
-    "updated_at": "2023-10-06T18:49:20+02:00",
-    "media_id": "46nxdnlact4z",
+    "updated_at": "2023-10-06T19:51:28+02:00",
+    "media_id": "6krxerra2f85",
     "duration": null,
     "canonical_section": {
       "id": 1772449,
@@ -593,7 +616,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/formule-1/6284210/aftellen-naar-kwalificatie-qatar-in-mogelijk-kampioensweekend-verstappen.html",
+    "url": "/formule-1/6284210/verstappen-strijdt-om-pole-in-q3-perez-en-sainz-vallen-af.html",
     "open_new_window": false,
     "partner": null
   },
@@ -663,29 +686,6 @@
       "partner": null
     },
     "url": "/videos/6284200/oekraiense-grensstad-in-puin-na-russische-beschietingen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6284199,
-    "slug": "legia-spelers-verdacht-van-mishandeling-az-personeel-polen-bekijkt-rol-politie",
-    "type": "article",
-    "title": "Legia-spelers verdacht van mishandeling AZ-personeel, Polen bekijkt rol politie",
-    "subtitle": null,
-    "published_at": "2023-10-06T15:04:18+02:00",
-    "updated_at": "2023-10-06T18:37:49+02:00",
-    "media_id": "hnwxku7alfq6",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6284199/legia-spelers-verdacht-van-mishandeling-az-personeel-polen-bekijkt-rol-politie.html",
     "open_new_window": false,
     "partner": null
   }
