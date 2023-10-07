@@ -1,13 +1,82 @@
 [
   {
-    "id": 6284375,
-    "slug": "go-ahead-geeft-goede-seizoensstart-gevolg-met-eclatante-zege-op-heracles",
+    "id": 6284380,
+    "slug": "hamas-bestookt-israel-opnieuw-met-raketten",
+    "type": "video",
+    "title": "Hamas bestookt Israël opnieuw met raketten",
+    "subtitle": "Video",
+    "published_at": "2023-10-07T22:39:09+02:00",
+    "updated_at": "2023-10-07T22:39:39+02:00",
+    "media_id": "cmdxnibae5dl",
+    "duration": "0:45",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6284380/hamas-bestookt-israel-opnieuw-met-raketten.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6284377,
+    "slug": "netanyahu-wil-noodregering-met-israelische-oppositie-in-strijd-met-hamas",
     "type": "article",
-    "title": "Go Ahead geeft goede seizoensstart gevolg met eclatante zege op Heracles",
+    "title": "Netanyahu wil noodregering mét Israëlische oppositie in strijd met Hamas",
+    "subtitle": null,
+    "published_at": "2023-10-07T22:14:31+02:00",
+    "updated_at": "2023-10-07T22:39:26+02:00",
+    "media_id": "bwwxnxpa4dhz",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6284377/netanyahu-wil-noodregering-met-israelische-oppositie-in-strijd-met-hamas.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6284376,
+    "slug": "hevige-regenval-verandert-schots-treinstation-in-rivier",
+    "type": "video",
+    "title": "Hevige regenval verandert Schots treinstation in rivier",
+    "subtitle": "Video",
+    "published_at": "2023-10-07T22:05:45+02:00",
+    "updated_at": "2023-10-07T22:05:46+02:00",
+    "media_id": "7ylxlq2ajm68",
+    "duration": "0:46",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6284376/hevige-regenval-verandert-schots-treinstation-in-rivier.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6284375,
+    "slug": "go-ahead-boekt-ruime-zege-op-heracles-geen-winnaar-bij-vitesse-excelsior",
+    "type": "article",
+    "title": "Go Ahead boekt ruime zege op Heracles, geen winnaar bij Vitesse-Excelsior",
     "subtitle": null,
     "published_at": "2023-10-07T21:51:05+02:00",
-    "updated_at": "2023-10-07T21:53:03+02:00",
-    "media_id": "npmxzlga02dh",
+    "updated_at": "2023-10-07T23:01:11+02:00",
+    "media_id": "00yxltqaa6bw",
     "duration": null,
     "canonical_section": {
       "id": 1772338,
@@ -18,7 +87,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6284375/go-ahead-geeft-goede-seizoensstart-gevolg-met-eclatante-zege-op-heracles.html",
+    "url": "/voetbal/6284375/go-ahead-boekt-ruime-zege-op-heracles-geen-winnaar-bij-vitesse-excelsior.html",
     "open_new_window": false,
     "partner": null
   },
@@ -29,7 +98,7 @@
     "title": "Badr Hari verliest op technische knock-out van Jürjendal bij terugkeer in ring",
     "subtitle": null,
     "published_at": "2023-10-07T21:37:27+02:00",
-    "updated_at": "2023-10-07T21:58:01+02:00",
+    "updated_at": "2023-10-07T22:48:40+02:00",
     "media_id": "dgoxc0taw3tr",
     "duration": null,
     "canonical_section": {
@@ -98,8 +167,8 @@
     "title": "Verstappen en Red Bull vieren feest na binnenhalen derde wereldtitel",
     "subtitle": "In beeld",
     "published_at": "2023-10-07T20:54:48+02:00",
-    "updated_at": "2023-10-07T22:01:06+02:00",
-    "media_id": "y0fxqi0aafcr",
+    "updated_at": "2023-10-07T22:18:47+02:00",
+    "media_id": "qz1xdjkaedbk",
     "duration": null,
     "canonical_section": {
       "id": 1772449,
@@ -213,8 +282,8 @@
     "title": "Verstappen kroont zich voor derde keer tot wereldkampioen na uitvallen Pérez",
     "subtitle": null,
     "published_at": "2023-10-07T19:56:10+02:00",
-    "updated_at": "2023-10-07T20:57:53+02:00",
-    "media_id": "hp4xc9caafvd",
+    "updated_at": "2023-10-07T22:02:28+02:00",
+    "media_id": "5hjxjwcaic8l",
     "duration": null,
     "canonical_section": {
       "id": 1772449,
@@ -305,7 +374,7 @@
     "title": "Heerenveen stopt reeks nederlagen met gelijkspel tegen NEC, Almere klopt RKC",
     "subtitle": null,
     "published_at": "2023-10-07T18:37:37+02:00",
-    "updated_at": "2023-10-07T21:53:12+02:00",
+    "updated_at": "2023-10-07T22:23:54+02:00",
     "media_id": "spaxcria1oly",
     "duration": null,
     "canonical_section": {
@@ -351,7 +420,7 @@
     "title": "Zirkzee schiet Bologna naar gelijkspel bij Inter, Bellingham weer grote man Real",
     "subtitle": null,
     "published_at": "2023-10-07T18:30:24+02:00",
-    "updated_at": "2023-10-07T20:18:56+02:00",
+    "updated_at": "2023-10-07T22:17:44+02:00",
     "media_id": "r66xg65a3vtz",
     "duration": null,
     "canonical_section": {
@@ -466,7 +535,7 @@
     "title": "Simons mist penalty bij gelijkspel Leipzig, Malen met Dortmund langs Union",
     "subtitle": null,
     "published_at": "2023-10-07T17:35:44+02:00",
-    "updated_at": "2023-10-07T21:22:47+02:00",
+    "updated_at": "2023-10-07T22:21:36+02:00",
     "media_id": "96xx57oac1ss",
     "duration": null,
     "canonical_section": {
@@ -512,7 +581,7 @@
     "title": "Peter Gillis mag tijdelijk beslag leggen op privérekeningen Nicol Kremers",
     "subtitle": null,
     "published_at": "2023-10-07T16:47:25+02:00",
-    "updated_at": "2023-10-07T17:30:24+02:00",
+    "updated_at": "2023-10-07T22:45:17+02:00",
     "media_id": "srsxzp6ai7mf",
     "duration": null,
     "canonical_section": {
@@ -617,75 +686,6 @@
       "partner": null
     },
     "url": "/videos/6284346/schildpad-van-bijna-180-meter-aangespoeld-op-belgisch-strand.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6284344,
-    "slug": "ajax-vrouwen-boekt-nipte-zege-bij-hekkensluiter-feyenoord-in-klassieker",
-    "type": "article",
-    "title": "Ajax Vrouwen boekt nipte zege bij hekkensluiter Feyenoord in Klassieker",
-    "subtitle": null,
-    "published_at": "2023-10-07T16:12:08+02:00",
-    "updated_at": "2023-10-07T16:19:50+02:00",
-    "media_id": "fq6xvjea3idn",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6284344/ajax-vrouwen-boekt-nipte-zege-bij-hekkensluiter-feyenoord-in-klassieker.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6284345,
-    "slug": "verstappen-start-sprintrace-als-derde-en-is-nog-dichter-bij-derde-wereldtitel",
-    "type": "article",
-    "title": "Verstappen start sprintrace als derde en is nog dichter bij derde wereldtitel",
-    "subtitle": null,
-    "published_at": "2023-10-07T16:11:25+02:00",
-    "updated_at": "2023-10-07T18:59:49+02:00",
-    "media_id": "9v9xj8uaidh5",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772449,
-      "slug": "formule-1",
-      "type": "default",
-      "name": "Formule 1",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/formule-1/6284345/verstappen-start-sprintrace-als-derde-en-is-nog-dichter-bij-derde-wereldtitel.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6284341,
-    "slug": "vitesse-en-excelsior-houden-elkaar-nog-in-evenwicht-in-arnhem",
-    "type": "article",
-    "title": "Vitesse en Excelsior houden elkaar nog in evenwicht in Arnhem",
-    "subtitle": "Liveblog",
-    "published_at": "2023-10-07T16:01:34+02:00",
-    "updated_at": "2023-10-07T21:48:34+02:00",
-    "media_id": "8yoxwc4azj0u",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6284341/vitesse-en-excelsior-houden-elkaar-nog-in-evenwicht-in-arnhem.html",
     "open_new_window": false,
     "partner": null
   }
