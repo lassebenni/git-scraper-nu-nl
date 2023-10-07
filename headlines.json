@@ -1,12 +1,81 @@
 [
   {
+    "id": 6284315,
+    "slug": "netanyahu-reageert-op-aanvallen-we-zijn-in-oorlog",
+    "type": "video",
+    "title": "Netanyahu reageert op aanvallen: 'We zijn in oorlog'",
+    "subtitle": "Video",
+    "published_at": "2023-10-07T11:59:09+02:00",
+    "updated_at": "2023-10-07T11:59:11+02:00",
+    "media_id": "jptxgjpar5e4",
+    "duration": "0:51",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6284315/netanyahu-reageert-op-aanvallen-we-zijn-in-oorlog.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6284314,
+    "slug": "schietpartij-tijdens-gevecht-jongeren-in-berlicum-twee-minderjarigen-opgepakt",
+    "type": "article",
+    "title": "Schietpartij tijdens gevecht jongeren in Berlicum, twee minderjarigen opgepakt",
+    "subtitle": null,
+    "published_at": "2023-10-07T11:56:55+02:00",
+    "updated_at": "2023-10-07T11:56:56+02:00",
+    "media_id": "w7mxi75ad05p",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6284314/schietpartij-tijdens-gevecht-jongeren-in-berlicum-twee-minderjarigen-opgepakt.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6284301,
+    "slug": "geweldsuitbarstingen-rond-gazastrook-door-de-jaren-heen",
+    "type": "article",
+    "title": "Geweldsuitbarstingen rond Gazastrook door de jaren heen",
+    "subtitle": "Tijdlijn",
+    "published_at": "2023-10-07T11:31:44+02:00",
+    "updated_at": "2023-10-07T11:57:59+02:00",
+    "media_id": "dp0x2eta1f28",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6284301/geweldsuitbarstingen-rond-gazastrook-door-de-jaren-heen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6284305,
     "slug": "swiatek-maakt-einde-aan-lange-zegereeks-gauff-en-bereikt-finale-in-peking",
     "type": "article",
     "title": "Swiatek maakt einde aan lange zegereeks Gauff en bereikt finale in Peking",
     "subtitle": null,
     "published_at": "2023-10-07T11:01:11+02:00",
-    "updated_at": "2023-10-07T11:01:12+02:00",
+    "updated_at": "2023-10-07T11:14:51+02:00",
     "media_id": "y3gx50gaf14h",
     "duration": null,
     "canonical_section": {
@@ -93,13 +162,13 @@
   },
   {
     "id": 6284290,
-    "slug": "israel-meldt-2500-raketten-en-roept-duizenden-reservisten-op",
+    "slug": "netanyahu-na-aanval-door-hamas-we-zijn-in-oorlog",
     "type": "article",
-    "title": "Israël meldt 2.500 raketten en roept 'duizenden' reservisten op",
+    "title": "Netanyahu na aanval door Hamas: 'We zijn in oorlog'",
     "subtitle": "Liveblog",
     "published_at": "2023-10-07T09:24:46+02:00",
-    "updated_at": "2023-10-07T10:53:41+02:00",
-    "media_id": "jipx2hiac983",
+    "updated_at": "2023-10-07T11:33:01+02:00",
+    "media_id": "bdqxu8wae1ur",
     "duration": null,
     "canonical_section": {
       "id": 1771436,
@@ -110,7 +179,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/buitenland/6284290/israel-meldt-2500-raketten-en-roept-duizenden-reservisten-op.html",
+    "url": "/buitenland/6284290/netanyahu-na-aanval-door-hamas-we-zijn-in-oorlog.html",
     "open_new_window": false,
     "partner": null
   },
@@ -208,13 +277,13 @@
   },
   {
     "id": 6284286,
-    "slug": "massale-verrassingsaanval-door-hamas-op-israel-meerdere-doden-en-gewonden",
+    "slug": "zeker-22-doden-in-israel-na-massale-verrassingsaanvallen-door-hamas",
     "type": "article",
-    "title": "Massale verrassingsaanval door Hamas op Israël, meerdere doden en gewonden",
+    "title": "Zeker 22 doden in Israël na massale verrassingsaanvallen door Hamas",
     "subtitle": null,
     "published_at": "2023-10-07T07:24:46+02:00",
-    "updated_at": "2023-10-07T10:37:53+02:00",
-    "media_id": "ihsxfiga7x0p",
+    "updated_at": "2023-10-07T11:59:19+02:00",
+    "media_id": "eduxmwna2h8j",
     "duration": null,
     "canonical_section": {
       "id": 1772085,
@@ -225,7 +294,7 @@
       "media_id": "m1oxeovaiadm",
       "partner": null
     },
-    "url": "/midden-oostenconflict/6284286/massale-verrassingsaanval-door-hamas-op-israel-meerdere-doden-en-gewonden.html",
+    "url": "/midden-oostenconflict/6284286/zeker-22-doden-in-israel-na-massale-verrassingsaanvallen-door-hamas.html",
     "open_new_window": false,
     "partner": null
   },
@@ -351,7 +420,7 @@
     "title": "Gaat Badr Hari dan eindelijk winnen? Dit staat er voor hem op het spel",
     "subtitle": "NU+",
     "published_at": "2023-10-07T05:22:11+02:00",
-    "updated_at": "2023-10-07T10:44:45+02:00",
+    "updated_at": "2023-10-07T11:39:19+02:00",
     "media_id": "qjrx600a2y3c",
     "duration": null,
     "canonical_section": {
@@ -617,75 +686,6 @@
       "partner": null
     },
     "url": "/entertainment/6284273/miss-portugal-voor-het-eerst-een-transgendervrouw.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6284271,
-    "slug": "vikingen-minder-barbaars-dan-gedacht-hadden-al-glazen-ramen",
-    "type": "article",
-    "title": "Vikingen minder barbaars dan gedacht: hadden al glazen ramen",
-    "subtitle": null,
-    "published_at": "2023-10-06T22:39:06+02:00",
-    "updated_at": "2023-10-06T22:39:08+02:00",
-    "media_id": "nhpxnipalfmh",
-    "duration": null,
-    "canonical_section": {
-      "id": 478878,
-      "slug": "wetenschap",
-      "type": "default",
-      "name": "Wetenschap",
-      "style": "nunjij",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/wetenschap/6284271/vikingen-minder-barbaars-dan-gedacht-hadden-al-glazen-ramen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6284261,
-    "slug": "fc-groningen-en-provocerende-van-veen-verliezen-in-slotseconde-ook-van-nac",
-    "type": "article",
-    "title": "FC Groningen en provocerende Van Veen verliezen in slotseconde ook van NAC",
-    "subtitle": null,
-    "published_at": "2023-10-06T22:16:44+02:00",
-    "updated_at": "2023-10-06T22:44:19+02:00",
-    "media_id": "8ioxzp2ap757",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6284261/fc-groningen-en-provocerende-van-veen-verliezen-in-slotseconde-ook-van-nac.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6284272,
-    "slug": "tijdschrift-linda-krijgt-kwakzalversprijs-maakt-fopbehandelingen-acceptabel",
-    "type": "article",
-    "title": "Tijdschrift LINDA. krijgt kwakzalversprijs: 'Maakt fopbehandelingen acceptabel'",
-    "subtitle": null,
-    "published_at": "2023-10-06T22:04:41+02:00",
-    "updated_at": "2023-10-07T09:43:27+02:00",
-    "media_id": "1ybxr01anrzw",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772242,
-      "slug": "entertainment",
-      "type": "default",
-      "name": "Media en Cultuur",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/entertainment/6284272/tijdschrift-linda-krijgt-kwakzalversprijs-maakt-fopbehandelingen-acceptabel.html",
     "open_new_window": false,
     "partner": null
   }
