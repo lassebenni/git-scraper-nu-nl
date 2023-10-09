@@ -1,5 +1,51 @@
 [
   {
+    "id": 6284028,
+    "slug": "hoe-nederlandse-choreografen-dansscenes-in-videoclips-weer-terug-brengen",
+    "type": "article",
+    "title": "Hoe Nederlandse choreografen dansscènes in videoclips weer terug brengen",
+    "subtitle": "NU+",
+    "published_at": "2023-10-09T05:01:05+02:00",
+    "updated_at": "2023-10-09T05:01:06+02:00",
+    "media_id": "h3rx41ravmmv",
+    "duration": null,
+    "canonical_section": {
+      "id": 868281,
+      "slug": "muziek",
+      "type": "default",
+      "name": "Muziek",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/muziek/6284028/hoe-nederlandse-choreografen-dansscenes-in-videoclips-weer-terug-brengen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6284209,
+    "slug": "oplossing-voor-personeelstekort-nauwelijks-te-vinden-in-verkiezingsprogrammas",
+    "type": "article",
+    "title": "Oplossing voor personeelstekort nauwelijks te vinden in verkiezingsprogramma's",
+    "subtitle": null,
+    "published_at": "2023-10-09T04:59:26+02:00",
+    "updated_at": "2023-10-09T04:59:27+02:00",
+    "media_id": "bolxma1as9jf",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771437,
+      "slug": "politiek",
+      "type": "default",
+      "name": "Politiek",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/politiek/6284209/oplossing-voor-personeelstekort-nauwelijks-te-vinden-in-verkiezingsprogrammas.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6284497,
     "slug": "zwaarste-race-ooit-was-voor-coureurs-levensgevaarlijk",
     "type": "audio",
@@ -640,52 +686,6 @@
       "partner": null
     },
     "url": "/voetbal/6284464/van-bommel-en-antwerp-winnen-weer-eens-wonderlijke-goal-coman-bij-bayern.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6284459,
-    "slug": "opvallend-warme-week-met-af-en-toe-een-vleugje-herfst",
-    "type": "article",
-    "title": "Opvallend warme week met af en toe een vleugje herfst",
-    "subtitle": "Weekweerbericht",
-    "published_at": "2023-10-08T17:58:02+02:00",
-    "updated_at": "2023-10-08T18:37:04+02:00",
-    "media_id": "peix5luaefrm",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6284459/opvallend-warme-week-met-af-en-toe-een-vleugje-herfst.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6284461,
-    "slug": "van-empel-wint-eerste-cross-van-het-seizoen-met-volledig-nederlands-podium",
-    "type": "article",
-    "title": "Van Empel wint eerste cross van het seizoen met volledig Nederlands podium",
-    "subtitle": null,
-    "published_at": "2023-10-08T17:51:11+02:00",
-    "updated_at": "2023-10-08T17:55:11+02:00",
-    "media_id": "qa6xy4sat4wz",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772339,
-      "slug": "wielrennen",
-      "type": "default",
-      "name": "Wielrennen",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/wielrennen/6284461/van-empel-wint-eerste-cross-van-het-seizoen-met-volledig-nederlands-podium.html",
     "open_new_window": false,
     "partner": null
   }
