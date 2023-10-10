@@ -1,12 +1,58 @@
 [
   {
-    "id": 6284782,
-    "slug": "conflict-in-gazastrook-legt-sportwereld-stil-gestrande-atleten-en-afgelaste-duels",
+    "id": 6284788,
+    "slug": "israelisch-leger-laat-situatie-in-kibboets-zien-na-bloedbad",
+    "type": "video",
+    "title": "Israëlisch leger laat situatie in kibboets zien na bloedbad",
+    "subtitle": "Video",
+    "published_at": "2023-10-10T21:56:16+02:00",
+    "updated_at": "2023-10-10T21:56:16+02:00",
+    "media_id": "v1zxlkkariqy",
+    "duration": "1:15",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6284788/israelisch-leger-laat-situatie-in-kibboets-zien-na-bloedbad.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6284776,
+    "slug": "navo-landen-vrezen-dat-hulp-aan-israel-steun-aan-oekraine-schaadt",
     "type": "article",
-    "title": "Conflict in Gazastrook legt sportwereld stil: gestrande atleten en afgelaste duels",
+    "title": "NAVO-landen vrezen dat hulp aan Israël steun aan Oekraïne schaadt",
+    "subtitle": "Overzicht",
+    "published_at": "2023-10-10T21:39:58+02:00",
+    "updated_at": "2023-10-10T21:39:59+02:00",
+    "media_id": "sagxtmlaazv0",
+    "duration": null,
+    "canonical_section": {
+      "id": 1778980,
+      "slug": "spanningen-oekraine",
+      "type": "default",
+      "name": "Oorlog in Oekraïne",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/spanningen-oekraine/6284776/navo-landen-vrezen-dat-hulp-aan-israel-steun-aan-oekraine-schaadt.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6284782,
+    "slug": "conflict-in-israel-en-gaza-legt-sportwereld-stil-gestrande-atleten-en-afgelaste-duels",
+    "type": "article",
+    "title": "Conflict in Israël en Gaza legt sportwereld stil: gestrande atleten en afgelaste duels",
     "subtitle": null,
     "published_at": "2023-10-10T20:52:18+02:00",
-    "updated_at": "2023-10-10T20:52:20+02:00",
+    "updated_at": "2023-10-10T21:12:09+02:00",
     "media_id": "u4gxpgcarxcc",
     "duration": null,
     "canonical_section": {
@@ -18,7 +64,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/sport/6284782/conflict-in-gazastrook-legt-sportwereld-stil-gestrande-atleten-en-afgelaste-duels.html",
+    "url": "/sport/6284782/conflict-in-israel-en-gaza-legt-sportwereld-stil-gestrande-atleten-en-afgelaste-duels.html",
     "open_new_window": false,
     "partner": null
   },
@@ -29,7 +75,7 @@
     "title": "Van der Valk zet in op donuts en neemt 76 zaken van Dunkin' over",
     "subtitle": null,
     "published_at": "2023-10-10T20:35:28+02:00",
-    "updated_at": "2023-10-10T20:56:34+02:00",
+    "updated_at": "2023-10-10T21:27:11+02:00",
     "media_id": "sezxzyoaonpu",
     "duration": null,
     "canonical_section": {
@@ -640,52 +686,6 @@
       "partner": null
     },
     "url": "/voetbal/6284738/herstelde-henk-de-jong-terug-bij-cambuur-zal-voor-niemand-een-verrassing-zijn.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6284716,
-    "slug": "veel-ongevallen-op-het-werk-worden-niet-gemeld-bij-arbeidsinspectie",
-    "type": "article",
-    "title": "Veel ongevallen op het werk worden niet gemeld bij Arbeidsinspectie",
-    "subtitle": null,
-    "published_at": "2023-10-10T15:35:09+02:00",
-    "updated_at": "2023-10-10T16:57:21+02:00",
-    "media_id": "uq7xswdaykxb",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6284716/veel-ongevallen-op-het-werk-worden-niet-gemeld-bij-arbeidsinspectie.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6284733,
-    "slug": "rammstein-volgend-jaar-opnieuw-op-tournee-door-europa",
-    "type": "article",
-    "title": "Rammstein volgend jaar opnieuw op tournee door Europa",
-    "subtitle": null,
-    "published_at": "2023-10-10T15:21:54+02:00",
-    "updated_at": "2023-10-10T15:21:55+02:00",
-    "media_id": "tnexw7waroiw",
-    "duration": null,
-    "canonical_section": {
-      "id": 868281,
-      "slug": "muziek",
-      "type": "default",
-      "name": "Muziek",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/muziek/6284733/rammstein-volgend-jaar-opnieuw-op-tournee-door-europa.html",
     "open_new_window": false,
     "partner": null
   }
