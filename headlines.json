@@ -1,5 +1,51 @@
 [
   {
+    "id": 6284946,
+    "slug": "russische-troepen-vallen-belangrijke-stad-in-oosten-oekraine-aan",
+    "type": "article",
+    "title": "Russische troepen vallen belangrijke stad in oosten Oekraïne aan",
+    "subtitle": null,
+    "published_at": "2023-10-12T00:55:37+02:00",
+    "updated_at": "2023-10-12T00:55:38+02:00",
+    "media_id": "f6sxz2qaarv6",
+    "duration": null,
+    "canonical_section": {
+      "id": 1778980,
+      "slug": "spanningen-oekraine",
+      "type": "default",
+      "name": "Oorlog in Oekraïne",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/spanningen-oekraine/6284946/russische-troepen-vallen-belangrijke-stad-in-oosten-oekraine-aan.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6284945,
+    "slug": "persoon-overleden-door-steekincident-zutphen-tweede-persoon-gewond",
+    "type": "article",
+    "title": "Persoon overleden door steekincident Zutphen, tweede persoon gewond",
+    "subtitle": null,
+    "published_at": "2023-10-12T00:49:51+02:00",
+    "updated_at": "2023-10-12T00:56:40+02:00",
+    "media_id": "u9jxmwvaubcc",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6284945/persoon-overleden-door-steekincident-zutphen-tweede-persoon-gewond.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6284944,
     "slug": "blankenstein-foundation-teleurgesteld-in-knvb-na-besluit-over-onelove-band",
     "type": "article",
@@ -121,7 +167,7 @@
     "title": "KLM vliegt toch niet naar Tel Aviv, veiligheid te groot vraagteken",
     "subtitle": null,
     "published_at": "2023-10-11T21:36:30+02:00",
-    "updated_at": "2023-10-11T23:32:32+02:00",
+    "updated_at": "2023-10-12T00:52:58+02:00",
     "media_id": "oyyxknjavcht",
     "duration": null,
     "canonical_section": {
@@ -443,7 +489,7 @@
     "title": "Talpa staat open voor gesprek met Joodse organisaties na uitspraken Derksen",
     "subtitle": null,
     "published_at": "2023-10-11T18:17:53+02:00",
-    "updated_at": "2023-10-11T18:55:14+02:00",
+    "updated_at": "2023-10-12T00:26:28+02:00",
     "media_id": "a7px7nva815e",
     "duration": null,
     "canonical_section": {
@@ -640,52 +686,6 @@
       "partner": null
     },
     "url": "/economie/6284908/verzekeraar-asr-schrapt-260-banen-na-overname-van-aegon.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6284890,
-    "slug": "waarom-israel-bezorgd-is-over-mogelijke-oorlog-met-hezbollah",
-    "type": "video",
-    "title": "Waarom Israël bezorgd is over mogelijke oorlog met Hezbollah",
-    "subtitle": "Explainer",
-    "published_at": "2023-10-11T17:02:25+02:00",
-    "updated_at": "2023-10-11T17:26:02+02:00",
-    "media_id": "0ptx3niak9ck",
-    "duration": "2:42",
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6284890/waarom-israel-bezorgd-is-over-mogelijke-oorlog-met-hezbollah.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6284907,
-    "slug": "stockholm-weert-benzine-en-dieselautos-vanaf-2025-uit-centrum",
-    "type": "article",
-    "title": "Stockholm weert benzine- en dieselauto's vanaf 2025 uit centrum",
-    "subtitle": null,
-    "published_at": "2023-10-11T17:01:36+02:00",
-    "updated_at": "2023-10-11T20:01:29+02:00",
-    "media_id": "y9bxom0a1t6b",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6284907/stockholm-weert-benzine-en-dieselautos-vanaf-2025-uit-centrum.html",
     "open_new_window": false,
     "partner": null
   }
