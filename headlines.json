@@ -1,12 +1,104 @@
 [
   {
+    "id": 6285208,
+    "slug": "russische-journaliste-blijkt-niet-vergiftigd-en-voelt-zich-beter",
+    "type": "article",
+    "title": "Russische journaliste blijkt niet vergiftigd en voelt zich beter",
+    "subtitle": null,
+    "published_at": "2023-10-13T15:44:49+02:00",
+    "updated_at": "2023-10-13T15:44:54+02:00",
+    "media_id": "tk9x2pya473z",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6285208/russische-journaliste-blijkt-niet-vergiftigd-en-voelt-zich-beter.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6285209,
+    "slug": "zware-storm-verwoest-tentenkamp-voor-afghaanse-bevingsslachtoffers",
+    "type": "video",
+    "title": "Zware storm verwoest tentenkamp voor Afghaanse bevingsslachtoffers",
+    "subtitle": "Video",
+    "published_at": "2023-10-13T15:37:05+02:00",
+    "updated_at": "2023-10-13T15:45:36+02:00",
+    "media_id": "2w6x5flag7ad",
+    "duration": "0:41",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6285209/zware-storm-verwoest-tentenkamp-voor-afghaanse-bevingsslachtoffers.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6285205,
+    "slug": "het-wordt-voor-ons-gevoel-een-stuk-kouder",
+    "type": "article",
+    "title": "Het wordt (voor ons gevoel) een stuk kouder",
+    "subtitle": "Weekendweerbericht",
+    "published_at": "2023-10-13T15:28:00+02:00",
+    "updated_at": "2023-10-13T15:28:01+02:00",
+    "media_id": "fe4x7rrauzkg",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779283,
+      "slug": "weerbericht",
+      "type": "default",
+      "name": "Weerbericht",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/weerbericht/6285205/het-wordt-voor-ons-gevoel-een-stuk-kouder.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6285203,
+    "slug": "sommige-gemeenten-nemen-maatregelen-om-joodse-gebouwen-te-beschermen",
+    "type": "article",
+    "title": "Sommige gemeenten nemen maatregelen om joodse gebouwen te beschermen",
+    "subtitle": null,
+    "published_at": "2023-10-13T15:06:55+02:00",
+    "updated_at": "2023-10-13T15:42:26+02:00",
+    "media_id": "bbcx0osa78w5",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6285203/sommige-gemeenten-nemen-maatregelen-om-joodse-gebouwen-te-beschermen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6285200,
     "slug": "dertien-maanden-cel-voor-gewelddadige-overval-op-robert-doornbos",
     "type": "article",
     "title": "Dertien maanden cel voor gewelddadige overval op Robert Doornbos",
     "subtitle": null,
     "published_at": "2023-10-13T14:41:49+02:00",
-    "updated_at": "2023-10-13T14:41:50+02:00",
+    "updated_at": "2023-10-13T15:57:23+02:00",
     "media_id": "mzpxvmfaxcul",
     "duration": null,
     "canonical_section": {
@@ -52,7 +144,7 @@
     "title": "Raketten, drones en tunnels: dit kan worden verwacht van een Israëlisch offensief",
     "subtitle": null,
     "published_at": "2023-10-13T14:00:37+02:00",
-    "updated_at": "2023-10-13T14:23:37+02:00",
+    "updated_at": "2023-10-13T15:45:25+02:00",
     "media_id": "5ajxbo0a8ffd",
     "duration": null,
     "canonical_section": {
@@ -98,8 +190,8 @@
     "title": "Cricket, flag football en nog drie andere sporten worden olympisch in 2028",
     "subtitle": null,
     "published_at": "2023-10-13T13:46:54+02:00",
-    "updated_at": "2023-10-13T14:38:11+02:00",
-    "media_id": "ujrx1rialdhz",
+    "updated_at": "2023-10-13T15:50:09+02:00",
+    "media_id": "lvpxj2saz34h",
     "duration": null,
     "canonical_section": {
       "id": 1772456,
@@ -213,7 +305,7 @@
     "title": "Dode bij steekpartij op Franse middelbare school, terrorismeonderzoek gestart",
     "subtitle": null,
     "published_at": "2023-10-13T12:25:06+02:00",
-    "updated_at": "2023-10-13T15:00:03+02:00",
+    "updated_at": "2023-10-13T15:51:50+02:00",
     "media_id": "fgzxancaunm1",
     "duration": null,
     "canonical_section": {
@@ -236,7 +328,7 @@
     "title": "Grote zorgen over snelle evacuatie Gaza, ook Israël erkent dat meer tijd nodig is",
     "subtitle": null,
     "published_at": "2023-10-13T12:16:51+02:00",
-    "updated_at": "2023-10-13T13:03:54+02:00",
+    "updated_at": "2023-10-13T15:43:14+02:00",
     "media_id": "78dxszma4y5k",
     "duration": null,
     "canonical_section": {
@@ -420,8 +512,8 @@
     "title": "Woning en kantoor advocaat Yehudi Moszkowicz doorzocht na arrestatie in België",
     "subtitle": null,
     "published_at": "2023-10-13T11:29:27+02:00",
-    "updated_at": "2023-10-13T14:04:29+02:00",
-    "media_id": "zxsxtvaas0m5",
+    "updated_at": "2023-10-13T15:23:02+02:00",
+    "media_id": "drrxjsta6wjc",
     "duration": null,
     "canonical_section": {
       "id": 1771435,
@@ -594,98 +686,6 @@
       "partner": null
     },
     "url": "/tech/6285126/britten-nu-ook-akkoord-weg-vrij-voor-microsoft-om-activision-blizzard-in-te-lijven.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6285122,
-    "slug": "rotterdamse-woning-nageblust-na-brand-en-schietincident",
-    "type": "video",
-    "title": "Rotterdamse woning nageblust na brand en schietincident",
-    "subtitle": "Video",
-    "published_at": "2023-10-13T09:24:05+02:00",
-    "updated_at": "2023-10-13T09:24:07+02:00",
-    "media_id": "afjxheza4jir",
-    "duration": "0:40",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6285122/rotterdamse-woning-nageblust-na-brand-en-schietincident.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6285121,
-    "slug": "advocaat-yehudi-moszkowicz-gearresteerd-in-belgie-en-na-verhoor-vrijgelaten",
-    "type": "article",
-    "title": "Advocaat Yehudi Moszkowicz gearresteerd in België en na verhoor vrijgelaten",
-    "subtitle": null,
-    "published_at": "2023-10-13T09:22:15+02:00",
-    "updated_at": "2023-10-13T10:54:51+02:00",
-    "media_id": "olwx2p2aexu8",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6285121/advocaat-yehudi-moszkowicz-gearresteerd-in-belgie-en-na-verhoor-vrijgelaten.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6285118,
-    "slug": "taakstraffen-en-boetes-voor-nederlandse-bedrijven-die-hielpen-met-bouw-krimbrug",
-    "type": "article",
-    "title": "Taakstraffen en boetes voor Nederlandse bedrijven die hielpen met bouw Krimbrug",
-    "subtitle": null,
-    "published_at": "2023-10-13T09:16:49+02:00",
-    "updated_at": "2023-10-13T09:28:26+02:00",
-    "media_id": "1jyxcuaaea7d",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6285118/taakstraffen-en-boetes-voor-nederlandse-bedrijven-die-hielpen-met-bouw-krimbrug.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6285119,
-    "slug": "haagse-locatie-van-universiteit-leiden-vrijdag-gesloten-vanwege-veiligheidsrisico",
-    "type": "article",
-    "title": "Haagse locatie van Universiteit Leiden vrijdag gesloten vanwege veiligheidsrisico",
-    "subtitle": null,
-    "published_at": "2023-10-13T09:10:20+02:00",
-    "updated_at": "2023-10-13T09:10:21+02:00",
-    "media_id": "euuxnmmai8in",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6285119/haagse-locatie-van-universiteit-leiden-vrijdag-gesloten-vanwege-veiligheidsrisico.html",
     "open_new_window": false,
     "partner": null
   }
