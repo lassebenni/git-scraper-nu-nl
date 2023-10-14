@@ -1,12 +1,81 @@
 [
   {
-    "id": 6285285,
-    "slug": "frankrijk-zet-tot-zevenduizend-soldaten-in-na-moord-op-leraar",
+    "id": 6285288,
+    "slug": "reuters-journalist-omgekomen-bij-israelische-luchtaanval-in-libanon",
     "type": "article",
-    "title": "Frankrijk zet tot zevenduizend soldaten in na moord op leraar",
+    "title": "Reuters-journalist omgekomen bij Israëlische luchtaanval in Libanon",
+    "subtitle": null,
+    "published_at": "2023-10-14T08:33:35+02:00",
+    "updated_at": "2023-10-14T08:49:38+02:00",
+    "media_id": "9u4xuq2a5c3l",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771675,
+      "slug": "media",
+      "type": "default",
+      "name": "Media",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/media/6285288/reuters-journalist-omgekomen-bij-israelische-luchtaanval-in-libanon.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6285286,
+    "slug": "groep-mannen-gaat-op-knalrode-hakken-over-straat-in-vs",
+    "type": "video",
+    "title": "Groep mannen gaat op knalrode hakken over straat in VS",
+    "subtitle": "Video",
+    "published_at": "2023-10-14T08:18:07+02:00",
+    "updated_at": "2023-10-14T08:18:08+02:00",
+    "media_id": "h9cxcagad5zu",
+    "duration": "0:46",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6285286/groep-mannen-gaat-op-knalrode-hakken-over-straat-in-vs.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6285213,
+    "slug": "hoeveel-wil-jij-maximaal-betalen-voor-het-retour-sturen-van-kleding",
+    "type": "article",
+    "title": "Hoeveel wil jij maximaal betalen voor het retour sturen van kleding?",
+    "subtitle": "Praat Mee",
+    "published_at": "2023-10-14T08:03:03+02:00",
+    "updated_at": "2023-10-14T08:05:15+02:00",
+    "media_id": "9myxs3oav8ym",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779134,
+      "slug": "stelling",
+      "type": "default",
+      "name": "Stelling en Praat Mee",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/stelling/6285213/hoeveel-wil-jij-maximaal-betalen-voor-het-retour-sturen-van-kleding.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6285285,
+    "slug": "frankrijk-zet-tot-zevenduizend-militairen-in-na-moord-op-leraar",
+    "type": "article",
+    "title": "Frankrijk zet tot zevenduizend militairen in na moord op leraar",
     "subtitle": null,
     "published_at": "2023-10-14T08:01:14+02:00",
-    "updated_at": "2023-10-14T08:01:15+02:00",
+    "updated_at": "2023-10-14T08:24:46+02:00",
     "media_id": "7imxflzavxru",
     "duration": null,
     "canonical_section": {
@@ -18,7 +87,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/buitenland/6285285/frankrijk-zet-tot-zevenduizend-soldaten-in-na-moord-op-leraar.html",
+    "url": "/buitenland/6285285/frankrijk-zet-tot-zevenduizend-militairen-in-na-moord-op-leraar.html",
     "open_new_window": false,
     "partner": null
   },
@@ -29,7 +98,7 @@
     "title": "Deadline Israël voor verlaten Gaza voorbij, militairen hebben gebied omsingeld",
     "subtitle": null,
     "published_at": "2023-10-14T08:00:14+02:00",
-    "updated_at": "2023-10-14T08:00:15+02:00",
+    "updated_at": "2023-10-14T08:41:56+02:00",
     "media_id": "tgaxb4razkcc",
     "duration": null,
     "canonical_section": {
@@ -52,7 +121,7 @@
     "title": "Suriname heeft nieuw kiesstelsel: vanaf 2025 weegt elke stem even zwaar",
     "subtitle": null,
     "published_at": "2023-10-14T07:47:41+02:00",
-    "updated_at": "2023-10-14T07:47:42+02:00",
+    "updated_at": "2023-10-14T08:58:41+02:00",
     "media_id": "0t9xg2maf8x1",
     "duration": null,
     "canonical_section": {
@@ -75,7 +144,7 @@
     "title": "Van Gogh Museum stopt vanwege veiligheid met uitgifte Pokémon-kaart",
     "subtitle": null,
     "published_at": "2023-10-14T07:11:39+02:00",
-    "updated_at": "2023-10-14T07:42:37+02:00",
+    "updated_at": "2023-10-14T08:44:33+02:00",
     "media_id": "7ukxpesau2vs",
     "duration": null,
     "canonical_section": {
@@ -98,8 +167,8 @@
     "title": "Een vriendelijke dag met zon, code geel in avond",
     "subtitle": "Weerbericht ",
     "published_at": "2023-10-14T07:04:21+02:00",
-    "updated_at": "2023-10-14T07:54:29+02:00",
-    "media_id": "egax3gya6lbt",
+    "updated_at": "2023-10-14T08:54:56+02:00",
+    "media_id": "m1oxk7baoeyx",
     "duration": null,
     "canonical_section": {
       "id": 1779283,
@@ -233,10 +302,10 @@
     "id": 6285273,
     "slug": "verbruggen-na-bijzonder-oranjedebuut-natuurlijk-weet-ik-wie-van-beveren-was",
     "type": "article",
-    "title": "Verbruggen na bijzonder Oranjedebuut: 'Natuurlijk weet ik wie Van Beveren was’",
+    "title": "Verbruggen na bijzonder Oranjedebuut: 'Natuurlijk weet ik wie Van Beveren was'",
     "subtitle": null,
     "published_at": "2023-10-14T05:25:32+02:00",
-    "updated_at": "2023-10-14T05:25:34+02:00",
+    "updated_at": "2023-10-14T08:11:19+02:00",
     "media_id": "7e7x3wbamn74",
     "duration": null,
     "canonical_section": {
@@ -328,7 +397,7 @@
     "title": "Koeman kritisch op verdediging Oranje: 'Dit soort fouten straffen ze af'",
     "subtitle": null,
     "published_at": "2023-10-14T00:01:22+02:00",
-    "updated_at": "2023-10-14T06:13:45+02:00",
+    "updated_at": "2023-10-14T08:10:50+02:00",
     "media_id": "7hyx19gah74g",
     "duration": null,
     "canonical_section": {
@@ -443,7 +512,7 @@
     "title": "Oranje verliest van Frankrijk in EK-kwalificatie en wacht kraker tegen Griekenland",
     "subtitle": null,
     "published_at": "2023-10-13T22:42:08+02:00",
-    "updated_at": "2023-10-14T02:18:32+02:00",
+    "updated_at": "2023-10-14T08:37:18+02:00",
     "media_id": "g03x8d4aj81p",
     "duration": null,
     "canonical_section": {
@@ -617,75 +686,6 @@
       "partner": null
     },
     "url": "/voetbal/6285257/legia-bestraft-voor-supportersgeweld-bij-az-incidenten-na-duel-nog-onderzocht.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6285249,
-    "slug": "oranje-begint-met-hartman-veerman-en-reijnders-aan-kraker-tegen-frankrijk",
-    "type": "article",
-    "title": "Oranje begint met Hartman, Veerman en Reijnders aan kraker tegen Frankrijk",
-    "subtitle": null,
-    "published_at": "2023-10-13T19:40:05+02:00",
-    "updated_at": "2023-10-13T20:04:09+02:00",
-    "media_id": "hcvxutva4e3p",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6285249/oranje-begint-met-hartman-veerman-en-reijnders-aan-kraker-tegen-frankrijk.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6285251,
-    "slug": "reacties-na-nipte-nederlaag-oranje-tegen-frankrijk-in-ek-kwalificatie",
-    "type": "article",
-    "title": "Reacties na nipte nederlaag Oranje tegen Frankrijk in EK-kwalificatie",
-    "subtitle": "Liveblog",
-    "published_at": "2023-10-13T19:35:52+02:00",
-    "updated_at": "2023-10-13T22:55:35+02:00",
-    "media_id": "36mx42aaqmfy",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6285251/reacties-na-nipte-nederlaag-oranje-tegen-frankrijk-in-ek-kwalificatie.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6285248,
-    "slug": "noord-korea-levert-volgens-vs-zeker-duizend-containers-vol-wapens-aan-rusland",
-    "type": "article",
-    "title": "Noord-Korea levert volgens VS zeker duizend containers vol wapens aan Rusland",
-    "subtitle": null,
-    "published_at": "2023-10-13T19:11:20+02:00",
-    "updated_at": "2023-10-13T19:30:12+02:00",
-    "media_id": "4g6xbr1a28hf",
-    "duration": null,
-    "canonical_section": {
-      "id": 1778980,
-      "slug": "spanningen-oekraine",
-      "type": "default",
-      "name": "Oorlog in Oekraïne",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/spanningen-oekraine/6285248/noord-korea-levert-volgens-vs-zeker-duizend-containers-vol-wapens-aan-rusland.html",
     "open_new_window": false,
     "partner": null
   }
