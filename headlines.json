@@ -1,12 +1,58 @@
 [
   {
+    "id": 6285362,
+    "slug": "recordperiode-warmte-voorbij-voor-het-eerst-sinds-17-mei-minder-dan-15-graden",
+    "type": "article",
+    "title": "Recordperiode warmte voorbij: Voor het eerst sinds 17 mei minder dan 15 graden",
+    "subtitle": null,
+    "published_at": "2023-10-14T21:41:30+02:00",
+    "updated_at": "2023-10-14T21:58:03+02:00",
+    "media_id": "2jwx9mmahmnz",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6285362/recordperiode-warmte-voorbij-voor-het-eerst-sinds-17-mei-minder-dan-15-graden.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6285361,
+    "slug": "duel-psg-gestaakt-na-vuurwerkincident-martens-en-groenen-rennen-van-veld",
+    "type": "article",
+    "title": "Duel PSG gestaakt na vuurwerkincident: Martens en Groenen rennen van veld",
+    "subtitle": null,
+    "published_at": "2023-10-14T21:22:57+02:00",
+    "updated_at": "2023-10-14T21:55:13+02:00",
+    "media_id": "18nx9miawv55",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6285361/duel-psg-gestaakt-na-vuurwerkincident-martens-en-groenen-rennen-van-veld.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6285359,
     "slug": "pijnlijke-brief-roermond-suggereert-overlijden-partner-ouderen",
     "type": "article",
     "title": "Pijnlijke brief Roermond suggereert overlijden partner ouderen",
     "subtitle": null,
     "published_at": "2023-10-14T20:53:48+02:00",
-    "updated_at": "2023-10-14T20:55:51+02:00",
+    "updated_at": "2023-10-14T21:02:02+02:00",
     "media_id": "o05xm2palmqk",
     "duration": null,
     "canonical_section": {
@@ -259,7 +305,7 @@
     "title": "KPN zet telefoonlijn uit, huishoudens tot 30 procent duurder uit voor internet",
     "subtitle": null,
     "published_at": "2023-10-14T17:35:57+02:00",
-    "updated_at": "2023-10-14T17:35:58+02:00",
+    "updated_at": "2023-10-14T21:57:36+02:00",
     "media_id": "t1lx0o3ahav6",
     "duration": null,
     "canonical_section": {
@@ -640,52 +686,6 @@
       "partner": null
     },
     "url": "/videos/6285323/plein-in-warschau-ontruimd-vanwege-mogelijke-bom.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6285319,
-    "slug": "weghorst-ontbreekt-richting-cruciaal-duel-met-griekenland-op-training-van-oranje",
-    "type": "article",
-    "title": "Weghorst ontbreekt richting cruciaal duel met Griekenland op training van Oranje",
-    "subtitle": null,
-    "published_at": "2023-10-14T13:18:28+02:00",
-    "updated_at": "2023-10-14T18:25:08+02:00",
-    "media_id": "l4oxt3ta80h4",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6285319/weghorst-ontbreekt-richting-cruciaal-duel-met-griekenland-op-training-van-oranje.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6285312,
-    "slug": "asielzoekers-in-ter-apel-sliepen-voor-het-eerst-in-maanden-weer-op-stoelen",
-    "type": "article",
-    "title": "Asielzoekers in Ter Apel sliepen voor het eerst in maanden weer op stoelen",
-    "subtitle": null,
-    "published_at": "2023-10-14T13:04:57+02:00",
-    "updated_at": "2023-10-14T13:13:02+02:00",
-    "media_id": "4vvxer5ab111",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6285312/asielzoekers-in-ter-apel-sliepen-voor-het-eerst-in-maanden-weer-op-stoelen.html",
     "open_new_window": false,
     "partner": null
   }
