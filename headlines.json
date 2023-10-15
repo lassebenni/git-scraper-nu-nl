@@ -1,5 +1,120 @@
 [
   {
+    "id": 6285428,
+    "slug": "bbc-gebouw-in-londen-beklad-met-rode-verf",
+    "type": "video",
+    "title": "BBC-gebouw in Londen beklad met rode verf",
+    "subtitle": "Video",
+    "published_at": "2023-10-15T15:52:27+02:00",
+    "updated_at": "2023-10-15T15:57:48+02:00",
+    "media_id": "za8xx06a9gwe",
+    "duration": "0:36",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6285428/bbc-gebouw-in-londen-beklad-met-rode-verf.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6285426,
+    "slug": "echt-herfstweer-eerst-koud-dan-regen",
+    "type": "article",
+    "title": "Echt herfstweer: eerst koud, dan regen",
+    "subtitle": "Weekweerbericht",
+    "published_at": "2023-10-15T15:30:46+02:00",
+    "updated_at": "2023-10-15T15:39:07+02:00",
+    "media_id": "r0jxeyraqu9o",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779283,
+      "slug": "weerbericht",
+      "type": "default",
+      "name": "Weerbericht",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/weerbericht/6285426/echt-herfstweer-eerst-koud-dan-regen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6285423,
+    "slug": "atlete-luijten-verrast-zichzelf-met-negatieve-split-en-olympische-marathonlimiet",
+    "type": "article",
+    "title": "Atlete Luijten verrast zichzelf met 'negatieve split' en olympische marathonlimiet",
+    "subtitle": null,
+    "published_at": "2023-10-15T15:20:51+02:00",
+    "updated_at": "2023-10-15T15:36:41+02:00",
+    "media_id": "0abxttyao41q",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772456,
+      "slug": "sport-overig",
+      "type": "default",
+      "name": "Sport Overig",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/sport-overig/6285423/atlete-luijten-verrast-zichzelf-met-negatieve-split-en-olympische-marathonlimiet.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6285424,
+    "slug": "haags-gebouw-universiteit-leiden-maandag-weer-open-na-veiligheidsrisico",
+    "type": "article",
+    "title": "Haags gebouw Universiteit Leiden maandag weer open na veiligheidsrisico",
+    "subtitle": null,
+    "published_at": "2023-10-15T15:13:21+02:00",
+    "updated_at": "2023-10-15T15:16:04+02:00",
+    "media_id": "13nx8a8ag2md",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6285424/haags-gebouw-universiteit-leiden-maandag-weer-open-na-veiligheidsrisico.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6285422,
+    "slug": "situatie-kleinzoon-lenny-kuhr-stabiel-zangeres-wil-toch-naar-israel-gaan",
+    "type": "article",
+    "title": "Situatie kleinzoon Lenny Kuhr stabiel, zangeres wil toch naar Israël gaan",
+    "subtitle": null,
+    "published_at": "2023-10-15T15:04:16+02:00",
+    "updated_at": "2023-10-15T15:08:40+02:00",
+    "media_id": "zvvx68hak8iy",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772085,
+      "slug": "midden-oostenconflict",
+      "type": "default",
+      "name": "Gazaconflict",
+      "style": "nu",
+      "media_id": "m1oxeovaiadm",
+      "partner": null
+    },
+    "url": "/midden-oostenconflict/6285422/situatie-kleinzoon-lenny-kuhr-stabiel-zangeres-wil-toch-naar-israel-gaan.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6285421,
     "slug": "feyenoord-vrouwen-dieper-in-de-problemen-na-nederlaag-in-stadsderby",
     "type": "article",
@@ -29,7 +144,7 @@
     "title": "Sprintkoning Philipsen klopt Cees Bol opnieuw, Lutsenko pakt eindzege in Turkije",
     "subtitle": null,
     "published_at": "2023-10-15T14:33:20+02:00",
-    "updated_at": "2023-10-15T14:46:41+02:00",
+    "updated_at": "2023-10-15T15:04:55+02:00",
     "media_id": "pgfx5r0adxh4",
     "duration": null,
     "canonical_section": {
@@ -98,7 +213,7 @@
     "title": "Donny van de Beek en Estelle Bergkamp in verwachting van tweede kind",
     "subtitle": null,
     "published_at": "2023-10-15T13:39:55+02:00",
-    "updated_at": "2023-10-15T13:44:03+02:00",
+    "updated_at": "2023-10-15T15:17:19+02:00",
     "media_id": "7hoxd8na20nz",
     "duration": null,
     "canonical_section": {
@@ -328,7 +443,7 @@
     "title": "Marathonloopster Luijten loopt in derde race al olympische limiet in Amsterdam",
     "subtitle": null,
     "published_at": "2023-10-15T11:48:15+02:00",
-    "updated_at": "2023-10-15T12:46:02+02:00",
+    "updated_at": "2023-10-15T15:36:59+02:00",
     "media_id": "xpox03cae9ga",
     "duration": null,
     "canonical_section": {
@@ -415,13 +530,13 @@
   },
   {
     "id": 6285391,
-    "slug": "israel-en-hamas-bestoken-elkaar-met-raketten-luchtalarm-in-tel-aviv",
+    "slug": "israel-draait-volgens-vs-waterkraan-naar-zuiden-gazastrook-weer-open",
     "type": "article",
-    "title": "Israël en Hamas bestoken elkaar met raketten, luchtalarm in Tel Aviv",
+    "title": "Israël draait volgens VS waterkraan naar zuiden Gazastrook weer open",
     "subtitle": "Liveblog",
     "published_at": "2023-10-15T10:53:34+02:00",
-    "updated_at": "2023-10-15T14:17:44+02:00",
-    "media_id": "qkgxu35a4fi6",
+    "updated_at": "2023-10-15T15:48:55+02:00",
+    "media_id": "h3vxyyraynx2",
     "duration": null,
     "canonical_section": {
       "id": 1772085,
@@ -432,7 +547,7 @@
       "media_id": "m1oxeovaiadm",
       "partner": null
     },
-    "url": "/midden-oostenconflict/6285391/israel-en-hamas-bestoken-elkaar-met-raketten-luchtalarm-in-tel-aviv.html",
+    "url": "/midden-oostenconflict/6285391/israel-draait-volgens-vs-waterkraan-naar-zuiden-gazastrook-weer-open.html",
     "open_new_window": false,
     "partner": null
   },
@@ -571,121 +686,6 @@
       "partner": null
     },
     "url": "/dieren/6285383/zeldzame-tijgerwelpjes-eerste-keer-buiten-in-amerikaanse-dierentuin.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6285321,
-    "slug": "inruilen-of-hergebruiken-hoe-ga-jij-om-met-het-wegwerpbekerverbod",
-    "type": "article",
-    "title": "Inruilen of hergebruiken: hoe ga jij om met het wegwerpbekerverbod?",
-    "subtitle": "Praat Mee",
-    "published_at": "2023-10-15T09:05:53+02:00",
-    "updated_at": "2023-10-15T10:27:20+02:00",
-    "media_id": "qi6xq0aakewp",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779134,
-      "slug": "stelling",
-      "type": "default",
-      "name": "Stelling en Praat Mee",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/stelling/6285321/inruilen-of-hergebruiken-hoe-ga-jij-om-met-het-wegwerpbekerverbod.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6285381,
-    "slug": "milan-vader-27-boekt-in-koninginnenrit-tour-van-guangxi-eerste-zege-op-de-weg",
-    "type": "article",
-    "title": "Milan Vader (27) boekt in koninginnenrit Tour van Guangxi eerste zege op de weg",
-    "subtitle": null,
-    "published_at": "2023-10-15T08:47:35+02:00",
-    "updated_at": "2023-10-15T13:09:17+02:00",
-    "media_id": "tq8x03waln23",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772339,
-      "slug": "wielrennen",
-      "type": "default",
-      "name": "Wielrennen",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/wielrennen/6285381/milan-vader-27-boekt-in-koninginnenrit-tour-van-guangxi-eerste-zege-op-de-weg.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6285314,
-    "slug": "als-je-opschrijft-wat-er-gebeurt-is-het-al-duidelijk-genoeg",
-    "type": "article",
-    "title": "Als je opschrijft wat er gebeurt, is het al duidelijk genoeg",
-    "subtitle": "Van de hoofdredactie",
-    "published_at": "2023-10-15T08:47:26+02:00",
-    "updated_at": "2023-10-15T14:17:22+02:00",
-    "media_id": "b49xj2gaz37n",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772069,
-      "slug": "blog",
-      "type": "default",
-      "name": "Van de hoofdredactie",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/blog/6285314/als-je-opschrijft-wat-er-gebeurt-is-het-al-duidelijk-genoeg.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6285377,
-    "slug": "kinderarts-werkt-aan-bestrijding-erfelijke-ziektes-revolutionaire-oplossing",
-    "type": "video",
-    "title": "Kinderarts werkt aan bestrijding erfelijke ziektes: 'Revolutionaire oplossing'",
-    "subtitle": "Video",
-    "published_at": "2023-10-15T07:20:29+02:00",
-    "updated_at": "2023-10-15T09:31:11+02:00",
-    "media_id": "1hax8h3ax559",
-    "duration": "12:53",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6285377/kinderarts-werkt-aan-bestrijding-erfelijke-ziektes-revolutionaire-oplossing.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6285375,
-    "slug": "waarom-het-een-probleem-is-dat-china-een-visserijgrootmacht-is",
-    "type": "video",
-    "title": "Waarom het een probleem is dat China een visserijgrootmacht is",
-    "subtitle": "Video",
-    "published_at": "2023-10-15T07:09:49+02:00",
-    "updated_at": "2023-10-15T07:09:51+02:00",
-    "media_id": "xihxrpma7xd4",
-    "duration": "10:11",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6285375/waarom-het-een-probleem-is-dat-china-een-visserijgrootmacht-is.html",
     "open_new_window": false,
     "partner": null
   }
