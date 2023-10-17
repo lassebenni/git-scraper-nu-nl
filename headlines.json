@@ -1,13 +1,59 @@
 [
   {
+    "id": 6285762,
+    "slug": "model-showt-jurk-die-van-gedaante-kan-verwisselen",
+    "type": "video",
+    "title": "Model showt jurk die van gedaante kan verwisselen",
+    "subtitle": "Video",
+    "published_at": "2023-10-17T21:30:39+02:00",
+    "updated_at": "2023-10-17T21:30:40+02:00",
+    "media_id": "2ccxo4uat7hp",
+    "duration": "0:49",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6285762/model-showt-jurk-die-van-gedaante-kan-verwisselen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6285761,
+    "slug": "wiegman-binnenkort-met-engeland-op-bezoek-bij-belgie-vind-het-veilig-genoeg",
+    "type": "article",
+    "title": "Wiegman binnenkort met Engeland op bezoek bij België: 'Vind het veilig genoeg'",
+    "subtitle": null,
+    "published_at": "2023-10-17T21:28:50+02:00",
+    "updated_at": "2023-10-17T21:28:52+02:00",
+    "media_id": "bh7xokxa2vpc",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6285761/wiegman-binnenkort-met-engeland-op-bezoek-bij-belgie-vind-het-veilig-genoeg.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6285760,
     "slug": "ongeverifieerde-beelden-tonen-raketinslag-ziekenhuis-in-gaza",
     "type": "video",
     "title": "Ongeverifieerde beelden tonen raketinslag ziekenhuis in Gaza",
     "subtitle": "Video",
     "published_at": "2023-10-17T20:56:29+02:00",
-    "updated_at": "2023-10-17T21:00:54+02:00",
-    "media_id": "rbmxzv2a5e4y",
+    "updated_at": "2023-10-17T21:03:10+02:00",
+    "media_id": "6ivxjaeau8yc",
     "duration": "0:55",
     "canonical_section": {
       "id": 1772431,
@@ -75,8 +121,8 @@
     "title": "Autoriteiten Gaza melden honderden doden na luchtaanval op ziekenhuis",
     "subtitle": null,
     "published_at": "2023-10-17T19:49:41+02:00",
-    "updated_at": "2023-10-17T20:53:53+02:00",
-    "media_id": "4bnxocya0sil",
+    "updated_at": "2023-10-17T21:49:02+02:00",
+    "media_id": "i7exkysa4drr",
     "duration": null,
     "canonical_section": {
       "id": 1771436,
@@ -98,7 +144,7 @@
     "title": "Anwar El Ghazi geschorst bij Mainz wegens standpunt over conflict Israël-Hamas",
     "subtitle": null,
     "published_at": "2023-10-17T19:29:38+02:00",
-    "updated_at": "2023-10-17T20:29:30+02:00",
+    "updated_at": "2023-10-17T21:15:22+02:00",
     "media_id": "3imxdl1aa1hh",
     "duration": null,
     "canonical_section": {
@@ -640,52 +686,6 @@
       "partner": null
     },
     "url": "/voetbal/6285720/italiaans-international-tonali-kampt-met-gokverslaving-hij-is-in-shock.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6285717,
-    "slug": "nederlandse-serie-sleepers-binnenkort-ook-in-de-vs-te-zien",
-    "type": "article",
-    "title": "Nederlandse serie Sleepers binnenkort ook in de VS te zien",
-    "subtitle": null,
-    "published_at": "2023-10-17T15:42:23+02:00",
-    "updated_at": "2023-10-17T15:44:09+02:00",
-    "media_id": "ldyxelpaae36",
-    "duration": null,
-    "canonical_section": {
-      "id": 127,
-      "slug": "film",
-      "type": "default",
-      "name": "Films & Series",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/film/6285717/nederlandse-serie-sleepers-binnenkort-ook-in-de-vs-te-zien.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6285661,
-    "slug": "om-mag-kaatee-weer-vervolgen-voor-witwassen-aan-holleeder-gelinkte-panden",
-    "type": "article",
-    "title": "OM mag Kaatee weer vervolgen voor witwassen aan Holleeder gelinkte panden",
-    "subtitle": null,
-    "published_at": "2023-10-17T15:38:19+02:00",
-    "updated_at": "2023-10-17T15:38:21+02:00",
-    "media_id": "qacxq3aabbnt",
-    "duration": null,
-    "canonical_section": {
-      "id": 1775468,
-      "slug": "zaak-holleeder",
-      "type": "files",
-      "name": "Willem Holleeder",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/zaak-holleeder/6285661/om-mag-kaatee-weer-vervolgen-voor-witwassen-aan-holleeder-gelinkte-panden.html",
     "open_new_window": false,
     "partner": null
   }
