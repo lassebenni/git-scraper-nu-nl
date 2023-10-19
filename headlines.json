@@ -1,12 +1,58 @@
 [
   {
+    "id": 6286064,
+    "slug": "nederlandse-tennissers-debuteren-eind-dit-jaar-op-united-cup-in-australie",
+    "type": "article",
+    "title": "Nederlandse tennissers debuteren eind dit jaar op United Cup in Australië",
+    "subtitle": null,
+    "published_at": "2023-10-19T23:18:39+02:00",
+    "updated_at": "2023-10-19T23:23:31+02:00",
+    "media_id": "zj9xncmas2h2",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772432,
+      "slug": "tennis",
+      "type": "default",
+      "name": "Tennis",
+      "style": "nusport",
+      "media_id": "m1oxohpan0gq",
+      "partner": null
+    },
+    "url": "/tennis/6286064/nederlandse-tennissers-debuteren-eind-dit-jaar-op-united-cup-in-australie.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6286062,
+    "slug": "coureurs-verbaasd-over-verhoging-maximale-boete-door-fia-het-is-eng",
+    "type": "article",
+    "title": "Coureurs verbaasd over verhoging maximale boete door FIA: 'Het is eng'",
+    "subtitle": null,
+    "published_at": "2023-10-19T23:05:40+02:00",
+    "updated_at": "2023-10-19T23:35:08+02:00",
+    "media_id": "yeqx6nraepj3",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772449,
+      "slug": "formule-1",
+      "type": "default",
+      "name": "Formule 1",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/formule-1/6286062/coureurs-verbaasd-over-verhoging-maximale-boete-door-fia-het-is-eng.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6286059,
     "slug": "gouden-atletiekbroers-onthullen-familiedrama-vader-gebruikte-fysiek-geweld",
     "type": "article",
     "title": "Gouden atletiekbroers onthullen familiedrama: 'Vader gebruikte fysiek geweld'",
     "subtitle": null,
     "published_at": "2023-10-19T22:51:28+02:00",
-    "updated_at": "2023-10-19T22:56:10+02:00",
+    "updated_at": "2023-10-19T23:25:13+02:00",
     "media_id": "yn3xz7cayean",
     "duration": null,
     "canonical_section": {
@@ -47,12 +93,12 @@
   },
   {
     "id": 6286056,
-    "slug": "staat-begint-rechtszaak-tegen-bedrijf-sywert-van-lienden-om-mondkapjesdeal",
+    "slug": "staat-begint-rechtszaak-tegen-sywert-van-liendens-bedrijf-om-mondkapjesdeal",
     "type": "article",
-    "title": "Staat begint rechtszaak tegen bedrijf Sywert van Lienden om mondkapjesdeal",
+    "title": "Staat begint rechtszaak tegen Sywert van Liendens bedrijf om mondkapjesdeal",
     "subtitle": null,
     "published_at": "2023-10-19T22:13:19+02:00",
-    "updated_at": "2023-10-19T22:59:54+02:00",
+    "updated_at": "2023-10-19T23:15:39+02:00",
     "media_id": "fg3xw5sav10j",
     "duration": null,
     "canonical_section": {
@@ -64,7 +110,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/economie/6286056/staat-begint-rechtszaak-tegen-bedrijf-sywert-van-lienden-om-mondkapjesdeal.html",
+    "url": "/economie/6286056/staat-begint-rechtszaak-tegen-sywert-van-liendens-bedrijf-om-mondkapjesdeal.html",
     "open_new_window": false,
     "partner": null
   },
@@ -167,7 +213,7 @@
     "title": "FIA past regels aan en kan coureurs nu boete van 1 miljoen euro opleggen",
     "subtitle": null,
     "published_at": "2023-10-19T21:10:55+02:00",
-    "updated_at": "2023-10-19T22:14:02+02:00",
+    "updated_at": "2023-10-19T23:04:50+02:00",
     "media_id": "tmgxj6vap3j0",
     "duration": null,
     "canonical_section": {
@@ -374,7 +420,7 @@
     "title": "Zeven gearresteerde Nederlanders in Antwerpen waren uit op 10 ton cocaïne",
     "subtitle": null,
     "published_at": "2023-10-19T18:52:43+02:00",
-    "updated_at": "2023-10-19T19:06:22+02:00",
+    "updated_at": "2023-10-19T23:56:04+02:00",
     "media_id": "w95xxpla4wfs",
     "duration": null,
     "canonical_section": {
@@ -466,7 +512,7 @@
     "title": "Lezers over je ziek melden op werk: 'Doe dat tegenwoordig veel sneller'",
     "subtitle": "NU+",
     "published_at": "2023-10-19T17:17:38+02:00",
-    "updated_at": "2023-10-19T21:21:40+02:00",
+    "updated_at": "2023-10-19T23:09:18+02:00",
     "media_id": "yimxpmyadhqq",
     "duration": null,
     "canonical_section": {
@@ -535,7 +581,7 @@
     "title": "Dief vermomt zich als paspop en rooft na sluitingstijd winkel leeg",
     "subtitle": null,
     "published_at": "2023-10-19T16:47:01+02:00",
-    "updated_at": "2023-10-19T17:12:46+02:00",
+    "updated_at": "2023-10-19T23:05:51+02:00",
     "media_id": "1vgxi3uam5bu",
     "duration": null,
     "canonical_section": {
@@ -640,52 +686,6 @@
       "partner": null
     },
     "url": "/voetbal/6286018/mainz-trainer-steunt-schorsing-el-ghazi-na-standpunt-over-conflict-israel-hamas.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6286013,
-    "slug": "om-eist-werkstraf-tegen-maker-neppornofilmpje-presentatrice-welmoed-sijtsma",
-    "type": "article",
-    "title": "OM eist werkstraf tegen maker neppornofilmpje presentatrice Welmoed Sijtsma",
-    "subtitle": null,
-    "published_at": "2023-10-19T16:21:23+02:00",
-    "updated_at": "2023-10-19T19:59:49+02:00",
-    "media_id": "j61xk0fa46c2",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771675,
-      "slug": "media",
-      "type": "default",
-      "name": "Media",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/media/6286013/om-eist-werkstraf-tegen-maker-neppornofilmpje-presentatrice-welmoed-sijtsma.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6286012,
-    "slug": "gokbedrijven-verdienen-een-kwart-meer-sinds-legalisering-online-casinos",
-    "type": "article",
-    "title": "Gokbedrijven verdienen een kwart meer sinds legalisering online casino's",
-    "subtitle": null,
-    "published_at": "2023-10-19T16:14:11+02:00",
-    "updated_at": "2023-10-19T16:14:12+02:00",
-    "media_id": "aeixcg6abov9",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6286012/gokbedrijven-verdienen-een-kwart-meer-sinds-legalisering-online-casinos.html",
     "open_new_window": false,
     "partner": null
   }
