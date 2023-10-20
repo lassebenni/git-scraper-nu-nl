@@ -1,5 +1,51 @@
 [
   {
+    "id": 6286072,
+    "slug": "aruba-sluit-niet-uit-joran-van-der-sloot-alsnog-te-vervolgen-na-bekentenis",
+    "type": "article",
+    "title": "Aruba sluit niet uit Joran van der Sloot alsnog te vervolgen na bekentenis",
+    "subtitle": null,
+    "published_at": "2023-10-20T06:59:42+02:00",
+    "updated_at": "2023-10-20T06:59:43+02:00",
+    "media_id": "fmixtduamj0m",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6286072/aruba-sluit-niet-uit-joran-van-der-sloot-alsnog-te-vervolgen-na-bekentenis.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6286070,
+    "slug": "kletsnatte-dag-code-geel-op-wadden-wegens-stormachtig-weer",
+    "type": "article",
+    "title": "Kletsnatte dag, code geel op Wadden wegens stormachtig weer",
+    "subtitle": "Weerbericht",
+    "published_at": "2023-10-20T06:02:47+02:00",
+    "updated_at": "2023-10-20T06:07:57+02:00",
+    "media_id": "jrix4haayger",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779283,
+      "slug": "weerbericht",
+      "type": "default",
+      "name": "Weerbericht",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/weerbericht/6286070/kletsnatte-dag-code-geel-op-wadden-wegens-stormachtig-weer.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6286069,
     "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
     "type": "article",
@@ -139,12 +185,12 @@
   },
   {
     "id": 6286065,
-    "slug": "franse-politie-pakt-contactpersoon-op-van-aanslagpleger-brussel",
+    "slug": "franse-politie-pakt-contactpersoon-van-aanslagpleger-brussel-op",
     "type": "article",
-    "title": "Franse politie pakt contactpersoon op van aanslagpleger Brussel",
+    "title": "Franse politie pakt contactpersoon van aanslagpleger Brussel op",
     "subtitle": null,
     "published_at": "2023-10-20T00:18:50+02:00",
-    "updated_at": "2023-10-20T00:23:48+02:00",
+    "updated_at": "2023-10-20T06:58:17+02:00",
     "media_id": "vzixvglao4zp",
     "duration": null,
     "canonical_section": {
@@ -156,7 +202,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/buitenland/6286065/franse-politie-pakt-contactpersoon-op-van-aanslagpleger-brussel.html",
+    "url": "/buitenland/6286065/franse-politie-pakt-contactpersoon-van-aanslagpleger-brussel-op.html",
     "open_new_window": false,
     "partner": null
   },
@@ -282,7 +328,7 @@
     "title": "Staat begint rechtszaak tegen Sywert van Liendens bedrijf om mondkapjesdeal",
     "subtitle": null,
     "published_at": "2023-10-19T22:13:19+02:00",
-    "updated_at": "2023-10-19T23:15:39+02:00",
+    "updated_at": "2023-10-20T07:01:26+02:00",
     "media_id": "fg3xw5sav10j",
     "duration": null,
     "canonical_section": {
@@ -640,52 +686,6 @@
       "partner": null
     },
     "url": "/muziek/6286033/mtv-europe-music-awards-afgelast-vanwege-israelisch-palestijns-conflict.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6286034,
-    "slug": "storm-babet-verandert-ierse-straat-in-kolkende-rivier",
-    "type": "video",
-    "title": "Storm Babet verandert Ierse straat in kolkende rivier",
-    "subtitle": "Video",
-    "published_at": "2023-10-19T18:21:04+02:00",
-    "updated_at": "2023-10-19T18:21:05+02:00",
-    "media_id": "j5fxo94aiff1",
-    "duration": "0:38",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6286034/storm-babet-verandert-ierse-straat-in-kolkende-rivier.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6286027,
-    "slug": "tim-hofman-man-wilde-mij-vermoorden-omdat-hij-mij-te-woke-vindt",
-    "type": "article",
-    "title": "Tim Hofman: 'Man wilde mij vermoorden omdat hij mij te woke vindt'",
-    "subtitle": null,
-    "published_at": "2023-10-19T17:30:17+02:00",
-    "updated_at": "2023-10-19T21:20:44+02:00",
-    "media_id": "427x72ialyni",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771675,
-      "slug": "media",
-      "type": "default",
-      "name": "Media",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/media/6286027/tim-hofman-man-wilde-mij-vermoorden-omdat-hij-mij-te-woke-vindt.html",
     "open_new_window": false,
     "partner": null
   }
