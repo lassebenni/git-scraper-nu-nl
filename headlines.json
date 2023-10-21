@@ -1,13 +1,36 @@
 [
   {
-    "id": 6286329,
-    "slug": "feyenoord-wint-van-vitesse-maar-verliest-gimenez-in-aanloop-naar-cl-duel-met-lazio",
+    "id": 6286333,
+    "slug": "zuid-afrikaanse-rugbyers-na-thriller-tegen-engeland-zeker-van-wk-finale",
     "type": "article",
-    "title": "Feyenoord wint van Vitesse maar verliest Giménez in aanloop naar CL-duel met Lazio",
+    "title": "Zuid-Afrikaanse rugbyers na thriller tegen Engeland zeker van WK-finale",
     "subtitle": null,
-    "published_at": "2023-10-21T22:56:36+02:00",
-    "updated_at": "2023-10-21T22:56:37+02:00",
-    "media_id": "utzxrdzayc3m",
+    "published_at": "2023-10-21T23:53:30+02:00",
+    "updated_at": "2023-10-21T23:53:31+02:00",
+    "media_id": "ygox1ecaxldp",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772456,
+      "slug": "sport-overig",
+      "type": "default",
+      "name": "Sport Overig",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/sport-overig/6286333/zuid-afrikaanse-rugbyers-na-thriller-tegen-engeland-zeker-van-wk-finale.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6286331,
+    "slug": "antwerp-en-weggestuurde-van-bommel-leiden-tweede-competitienederlaag",
+    "type": "article",
+    "title": "Antwerp en weggestuurde Van Bommel leiden tweede competitienederlaag",
+    "subtitle": null,
+    "published_at": "2023-10-21T23:49:43+02:00",
+    "updated_at": "2023-10-21T23:59:35+02:00",
+    "media_id": "lzmxcumagg22",
     "duration": null,
     "canonical_section": {
       "id": 1772338,
@@ -18,18 +41,110 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6286329/feyenoord-wint-van-vitesse-maar-verliest-gimenez-in-aanloop-naar-cl-duel-met-lazio.html",
+    "url": "/voetbal/6286331/antwerp-en-weggestuurde-van-bommel-leiden-tweede-competitienederlaag.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6286330,
+    "slug": "analyse-fia-zorgt-voor-onnodige-ophef-met-slechte-communicatie",
+    "type": "article",
+    "title": "Analyse: FIA zorgt voor onnodige ophef met slechte communicatie",
+    "subtitle": "NU+",
+    "published_at": "2023-10-21T23:35:24+02:00",
+    "updated_at": "2023-10-21T23:41:19+02:00",
+    "media_id": "szyxrokaj2fj",
+    "duration": null,
+    "canonical_section": {
+      "id": 1778846,
+      "slug": "nu-formule-1",
+      "type": "default",
+      "name": "NU+ Formule 1",
+      "style": "nusport",
+      "media_id": "gtmxcxnaui5m",
+      "partner": null
+    },
+    "url": "/nu-formule-1/6286330/analyse-fia-zorgt-voor-onnodige-ophef-met-slechte-communicatie.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6286332,
+    "slug": "india-positief-gestemd-na-eerste-geslaagde-test-voor-bemande-ruimtereis",
+    "type": "article",
+    "title": "India positief gestemd na eerste geslaagde test voor bemande ruimtereis",
+    "subtitle": null,
+    "published_at": "2023-10-21T23:30:00+02:00",
+    "updated_at": "2023-10-21T23:30:02+02:00",
+    "media_id": "rkzxjnlartpr",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771438,
+      "slug": "tech",
+      "type": "default",
+      "name": "Tech",
+      "style": "nutech",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/tech/6286332/india-positief-gestemd-na-eerste-geslaagde-test-voor-bemande-ruimtereis.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6286327,
+    "slug": "zondagsschot-redt-ten-hag-en-united-op-bezoek-bij-hekkensluiter-sheffield-united",
+    "type": "article",
+    "title": "Zondagsschot redt Ten Hag en United op bezoek bij hekkensluiter Sheffield United",
+    "subtitle": null,
+    "published_at": "2023-10-21T23:03:49+02:00",
+    "updated_at": "2023-10-21T23:27:11+02:00",
+    "media_id": "k1ax2zuac8mj",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6286327/zondagsschot-redt-ten-hag-en-united-op-bezoek-bij-hekkensluiter-sheffield-united.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6286329,
+    "slug": "feyenoord-klopt-vitesse-maar-verliest-gimenez-in-aanloop-naar-duel-met-lazio",
+    "type": "article",
+    "title": "Feyenoord klopt Vitesse maar verliest Giménez in aanloop naar duel met Lazio",
+    "subtitle": null,
+    "published_at": "2023-10-21T22:56:36+02:00",
+    "updated_at": "2023-10-21T23:59:29+02:00",
+    "media_id": "fg0xegoaz5sf",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6286329/feyenoord-klopt-vitesse-maar-verliest-gimenez-in-aanloop-naar-duel-met-lazio.html",
     "open_new_window": false,
     "partner": null
   },
   {
     "id": 6286328,
-    "slug": "ontketende-pavlidis-helpt-az-met-historische-hattrick-langs-heerenveen",
+    "slug": "ontketende-pavlidis-helpt-az-met-eredivisie-record-en-hattrick-langs-heerenveen",
     "type": "article",
-    "title": "Ontketende Pavlidis helpt AZ met historische hattrick langs Heerenveen",
+    "title": "Ontketende Pavlidis helpt AZ met Eredivisie-record en hattrick langs Heerenveen",
     "subtitle": null,
     "published_at": "2023-10-21T22:54:28+02:00",
-    "updated_at": "2023-10-21T22:59:47+02:00",
+    "updated_at": "2023-10-21T23:31:35+02:00",
     "media_id": "ytsxgipajla1",
     "duration": null,
     "canonical_section": {
@@ -41,7 +156,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6286328/ontketende-pavlidis-helpt-az-met-historische-hattrick-langs-heerenveen.html",
+    "url": "/voetbal/6286328/ontketende-pavlidis-helpt-az-met-eredivisie-record-en-hattrick-langs-heerenveen.html",
     "open_new_window": false,
     "partner": null
   },
@@ -121,7 +236,7 @@
     "title": "Polesitter Verstappen verwacht lastige sprintrace: 'Verschillen zijn klein'",
     "subtitle": null,
     "published_at": "2023-10-21T20:48:42+02:00",
-    "updated_at": "2023-10-21T21:25:04+02:00",
+    "updated_at": "2023-10-21T23:27:18+02:00",
     "media_id": "vwox4m1aptyx",
     "duration": null,
     "canonical_section": {
@@ -144,7 +259,7 @@
     "title": "RKC klopt FC Volendam in knotsgekke slotfase, NEC en Almere delen punten",
     "subtitle": null,
     "published_at": "2023-10-21T20:43:52+02:00",
-    "updated_at": "2023-10-21T22:25:38+02:00",
+    "updated_at": "2023-10-21T23:19:00+02:00",
     "media_id": "gvixn54alhqz",
     "duration": null,
     "canonical_section": {
@@ -167,7 +282,7 @@
     "title": "PSV wint ook simpel van Fortuna en blijft na negen duels foutloos in Eredivisie",
     "subtitle": null,
     "published_at": "2023-10-21T20:40:04+02:00",
-    "updated_at": "2023-10-21T21:21:49+02:00",
+    "updated_at": "2023-10-21T23:28:03+02:00",
     "media_id": "vawxntrawz2g",
     "duration": null,
     "canonical_section": {
@@ -259,7 +374,7 @@
     "title": "Dumfries levert assist voor winnend Inter, Real verliest punten bij weerzien Ramos",
     "subtitle": null,
     "published_at": "2023-10-21T19:57:28+02:00",
-    "updated_at": "2023-10-21T21:34:32+02:00",
+    "updated_at": "2023-10-21T23:27:56+02:00",
     "media_id": "afzx6z3a0kcv",
     "duration": null,
     "canonical_section": {
@@ -300,12 +415,12 @@
   },
   {
     "id": 6286314,
-    "slug": "reacties-na-sterk-optreden-verstappen-in-sprintkwalificatie",
+    "slug": "verstappen-begint-van-pole-aan-sprintrace-in-austin",
     "type": "article",
-    "title": "Reacties na sterk optreden Verstappen in sprintkwalificatie",
+    "title": "Verstappen begint van pole aan sprintrace in Austin",
     "subtitle": "Liveblog",
     "published_at": "2023-10-21T19:20:15+02:00",
-    "updated_at": "2023-10-21T20:17:17+02:00",
+    "updated_at": "2023-10-21T23:22:19+02:00",
     "media_id": "bbbxzf8acyfz",
     "duration": null,
     "canonical_section": {
@@ -317,7 +432,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/formule-1/6286314/reacties-na-sterk-optreden-verstappen-in-sprintkwalificatie.html",
+    "url": "/formule-1/6286314/verstappen-begint-van-pole-aan-sprintrace-in-austin.html",
     "open_new_window": false,
     "partner": null
   },
@@ -397,7 +512,7 @@
     "title": "Reacties na doelpuntrijke zeges Feyenoord, AZ en PSV",
     "subtitle": "Liveblog",
     "published_at": "2023-10-21T17:43:38+02:00",
-    "updated_at": "2023-10-21T22:57:11+02:00",
+    "updated_at": "2023-10-21T23:51:09+02:00",
     "media_id": "s1exiilaf3i8",
     "duration": null,
     "canonical_section": {
@@ -571,121 +686,6 @@
       "partner": null
     },
     "url": "/binnenland-en-buitenland/6286293/veertienjarige-jongen-komt-om-bij-aanrijding-in-purmerend.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6286292,
-    "slug": "israel-kondigt-intensivering-van-aanvallen-op-gazastrook-aan",
-    "type": "article",
-    "title": "Israël kondigt intensivering van aanvallen op Gazastrook aan",
-    "subtitle": null,
-    "published_at": "2023-10-21T15:53:10+02:00",
-    "updated_at": "2023-10-21T21:02:28+02:00",
-    "media_id": "gx8x9saa2col",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6286292/israel-kondigt-intensivering-van-aanvallen-op-gazastrook-aan.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6286291,
-    "slug": "nederlandse-cricketers-geven-wk-stunt-geen-passend-vervolg-tegen-sri-lanka",
-    "type": "article",
-    "title": "Nederlandse cricketers geven WK-stunt geen passend vervolg tegen Sri Lanka",
-    "subtitle": null,
-    "published_at": "2023-10-21T15:41:16+02:00",
-    "updated_at": "2023-10-21T16:38:06+02:00",
-    "media_id": "7y5xm56ahfi5",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772456,
-      "slug": "sport-overig",
-      "type": "default",
-      "name": "Sport Overig",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/sport-overig/6286291/nederlandse-cricketers-geven-wk-stunt-geen-passend-vervolg-tegen-sri-lanka.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6286290,
-    "slug": "arsenal-knokt-zich-knap-terug-bij-chelsea-city-verslaat-ajax-opponent-brighton",
-    "type": "article",
-    "title": "Arsenal knokt zich knap terug bij Chelsea, City verslaat Ajax-opponent Brighton",
-    "subtitle": null,
-    "published_at": "2023-10-21T15:30:45+02:00",
-    "updated_at": "2023-10-21T21:15:46+02:00",
-    "media_id": "1i1xyq4acme6",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6286290/arsenal-knokt-zich-knap-terug-bij-chelsea-city-verslaat-ajax-opponent-brighton.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6286289,
-    "slug": "politie-zoekt-uiterst-vuurwapengevaarlijke-man-na-fataal-schietincident-rotterdam",
-    "type": "article",
-    "title": "Politie zoekt 'uiterst vuurwapengevaarlijke' man na fataal schietincident Rotterdam",
-    "subtitle": null,
-    "published_at": "2023-10-21T15:13:27+02:00",
-    "updated_at": "2023-10-21T18:54:41+02:00",
-    "media_id": "kq9xmvqai9en",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6286289/politie-zoekt-uiterst-vuurwapengevaarlijke-man-na-fataal-schietincident-rotterdam.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6286157,
-    "slug": "defensie-expert-ko-colijn-over-invloed-van-gaza-conflict-op-oekraine",
-    "type": "article",
-    "title": "Defensie-expert Ko Colijn over invloed van Gaza-conflict op Oekraïne",
-    "subtitle": "NU+",
-    "published_at": "2023-10-21T14:51:53+02:00",
-    "updated_at": "2023-10-21T14:57:30+02:00",
-    "media_id": "tvzxyeda357m",
-    "duration": null,
-    "canonical_section": {
-      "id": 1778980,
-      "slug": "spanningen-oekraine",
-      "type": "default",
-      "name": "Oorlog in Oekraïne",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/spanningen-oekraine/6286157/defensie-expert-ko-colijn-over-invloed-van-gaza-conflict-op-oekraine.html",
     "open_new_window": false,
     "partner": null
   }
