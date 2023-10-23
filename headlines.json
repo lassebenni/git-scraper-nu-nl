@@ -1,12 +1,35 @@
 [
   {
+    "id": 6286432,
+    "slug": "verstappen-voelt-de-andere-teams-naderen",
+    "type": "audio",
+    "title": "'Verstappen voelt de andere teams naderen'",
+    "subtitle": "Podcast De Boordradio",
+    "published_at": "2023-10-23T03:49:02+02:00",
+    "updated_at": "2023-10-23T03:49:03+02:00",
+    "media_id": "36tx2lgapggp",
+    "duration": null,
+    "canonical_section": {
+      "id": 1776659,
+      "slug": "de-boordradio",
+      "type": "default",
+      "name": "De Boordradio",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/de-boordradio/6286432/verstappen-voelt-de-andere-teams-naderen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6286431,
     "slug": "hamilton-en-leclerc-om-technische-redenen-gediskwalificeerd-na-gp-amerika",
     "type": "article",
     "title": "Hamilton en Leclerc om technische redenen gediskwalificeerd na GP Amerika",
     "subtitle": null,
     "published_at": "2023-10-23T02:20:40+02:00",
-    "updated_at": "2023-10-23T02:21:15+02:00",
+    "updated_at": "2023-10-23T03:50:17+02:00",
     "media_id": "xasxymfarehp",
     "duration": null,
     "canonical_section": {
@@ -29,7 +52,7 @@
     "title": "Vijftigste zege Verstappen kwam niet vanzelf: 'Hele race remproblemen'",
     "subtitle": "NU+",
     "published_at": "2023-10-23T01:30:37+02:00",
-    "updated_at": "2023-10-23T02:43:38+02:00",
+    "updated_at": "2023-10-23T03:49:57+02:00",
     "media_id": "zb9xw9ma7eaw",
     "duration": null,
     "canonical_section": {
@@ -52,7 +75,7 @@
     "title": "Hamilton ondanks mislopen zege optimistisch na GP VS: 'Gaat de goede kant op'",
     "subtitle": null,
     "published_at": "2023-10-23T00:41:07+02:00",
-    "updated_at": "2023-10-23T02:44:00+02:00",
+    "updated_at": "2023-10-23T03:49:41+02:00",
     "media_id": "4bpxxjia3snc",
     "duration": null,
     "canonical_section": {
@@ -139,12 +162,12 @@
   },
   {
     "id": 6286425,
-    "slug": "verstappen-trekt-zich-niets-aan-van-boegeroep-want-ik-ga-met-de-beker-naar-huis",
+    "slug": "verstappen-trekt-zich-niets-aan-van-gefluit-want-ik-ga-met-de-beker-naar-huis",
     "type": "article",
-    "title": "Verstappen trekt zich niets aan van boegeroep: 'Want ik ga met de beker naar huis'",
+    "title": "Verstappen trekt zich niets aan van gefluit: 'Want ik ga met de beker naar huis'",
     "subtitle": null,
     "published_at": "2023-10-22T23:45:34+02:00",
-    "updated_at": "2023-10-22T23:49:52+02:00",
+    "updated_at": "2023-10-23T03:42:40+02:00",
     "media_id": "9xqxh10ak75n",
     "duration": null,
     "canonical_section": {
@@ -156,7 +179,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/formule-1/6286425/verstappen-trekt-zich-niets-aan-van-boegeroep-want-ik-ga-met-de-beker-naar-huis.html",
+    "url": "/formule-1/6286425/verstappen-trekt-zich-niets-aan-van-gefluit-want-ik-ga-met-de-beker-naar-huis.html",
     "open_new_window": false,
     "partner": null
   },
@@ -213,7 +236,7 @@
     "title": "Verstappen boekt vijftigste GP-zege na fraaie strategische strijd in Amerika",
     "subtitle": null,
     "published_at": "2023-10-22T22:39:20+02:00",
-    "updated_at": "2023-10-23T02:48:14+02:00",
+    "updated_at": "2023-10-23T03:49:27+02:00",
     "media_id": "hhzxyimaopyk",
     "duration": null,
     "canonical_section": {
@@ -663,29 +686,6 @@
       "partner": null
     },
     "url": "/voetbal/6286397/mourinho-krijgt-diep-in-blessuretijd-rode-kaart-voor-huilgebaren.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6286396,
-    "slug": "drone-filmt-overstromingen-door-storm-babet-in-vk",
-    "type": "video",
-    "title": "Drone filmt overstromingen door storm Babet in VK",
-    "subtitle": "Video",
-    "published_at": "2023-10-22T17:11:17+02:00",
-    "updated_at": "2023-10-22T17:27:46+02:00",
-    "media_id": "c27xh6dasiuh",
-    "duration": "0:37",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6286396/drone-filmt-overstromingen-door-storm-babet-in-vk.html",
     "open_new_window": false,
     "partner": null
   }
