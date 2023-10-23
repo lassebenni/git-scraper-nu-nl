@@ -1,5 +1,97 @@
 [
   {
+    "id": 6286449,
+    "slug": "braziliaanse-bouwers-bungelen-op-150-meter-hoogte-na-instorting-steiger",
+    "type": "video",
+    "title": "Braziliaanse bouwers bungelen op 150 meter hoogte na instorting steiger",
+    "subtitle": "Video",
+    "published_at": "2023-10-23T08:48:43+02:00",
+    "updated_at": "2023-10-23T08:48:44+02:00",
+    "media_id": "flwxkola15jb",
+    "duration": "0:37",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6286449/braziliaanse-bouwers-bungelen-op-150-meter-hoogte-na-instorting-steiger.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6286447,
+    "slug": "philips-ziet-winst-stijgen-ondanks-voortslepende-apneuaffaire",
+    "type": "article",
+    "title": "Philips ziet winst stijgen ondanks voortslepende apneuaffaire",
+    "subtitle": null,
+    "published_at": "2023-10-23T08:37:13+02:00",
+    "updated_at": "2023-10-23T08:38:13+02:00",
+    "media_id": "k14xxada60i8",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6286447/philips-ziet-winst-stijgen-ondanks-voortslepende-apneuaffaire.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6286448,
+    "slug": "danny-blind-keert-op-voorspraak-van-louis-van-gaal-terug-in-rvc-ajax",
+    "type": "article",
+    "title": "Danny Blind keert op voorspraak van Louis van Gaal terug in rvc Ajax",
+    "subtitle": null,
+    "published_at": "2023-10-23T08:35:43+02:00",
+    "updated_at": "2023-10-23T09:00:39+02:00",
+    "media_id": "sbgxt4ua7pn0",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6286448/danny-blind-keert-op-voorspraak-van-louis-van-gaal-terug-in-rvc-ajax.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6286445,
+    "slug": "mercedes-en-ferrari-accepteren-diskwalificatie-afstelling-was-een-uitdaging",
+    "type": "article",
+    "title": "Mercedes en Ferrari accepteren diskwalificatie: 'Afstelling was een uitdaging'",
+    "subtitle": null,
+    "published_at": "2023-10-23T08:11:44+02:00",
+    "updated_at": "2023-10-23T08:59:59+02:00",
+    "media_id": "iqtxt8racigg",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772449,
+      "slug": "formule-1",
+      "type": "default",
+      "name": "Formule 1",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/formule-1/6286445/mercedes-en-ferrari-accepteren-diskwalificatie-afstelling-was-een-uitdaging.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6286384,
     "slug": "hoe-heb-jij-je-pensioen-geregeld",
     "type": "article",
@@ -29,7 +121,7 @@
     "title": "Juventus-debutant Huijsen (18) glundert na droomavond: 'Dit is pas het begin'",
     "subtitle": null,
     "published_at": "2023-10-23T07:25:07+02:00",
-    "updated_at": "2023-10-23T07:32:17+02:00",
+    "updated_at": "2023-10-23T08:16:42+02:00",
     "media_id": "gmyx3rra7pq7",
     "duration": null,
     "canonical_section": {
@@ -139,12 +231,12 @@
   },
   {
     "id": 6286437,
-    "slug": "een-grijs-begin-van-een-zachte-maar-wisselvallige-week",
+    "slug": "eerst-code-geel-wegens-dichte-mist-later-vooral-bewolkt",
     "type": "article",
-    "title": "Een grijs begin van een zachte maar wisselvallige week",
+    "title": "Eerst code geel wegens dichte mist, later vooral bewolkt",
     "subtitle": "Weerbericht",
     "published_at": "2023-10-23T06:05:23+02:00",
-    "updated_at": "2023-10-23T07:30:47+02:00",
+    "updated_at": "2023-10-23T08:30:29+02:00",
     "media_id": "54exycjac3br",
     "duration": null,
     "canonical_section": {
@@ -156,7 +248,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/weerbericht/6286437/een-grijs-begin-van-een-zachte-maar-wisselvallige-week.html",
+    "url": "/weerbericht/6286437/eerst-code-geel-wegens-dichte-mist-later-vooral-bewolkt.html",
     "open_new_window": false,
     "partner": null
   },
@@ -305,7 +397,7 @@
     "title": "Hamilton en Leclerc gediskwalificeerd in VS omdat auto niet door keuring komt",
     "subtitle": null,
     "published_at": "2023-10-23T02:20:40+02:00",
-    "updated_at": "2023-10-23T07:47:36+02:00",
+    "updated_at": "2023-10-23T08:53:00+02:00",
     "media_id": "xasxymfarehp",
     "duration": null,
     "canonical_section": {
@@ -328,7 +420,7 @@
     "title": "Vijftigste zege Verstappen kwam niet vanzelf: 'Hele race remproblemen'",
     "subtitle": "NU+",
     "published_at": "2023-10-23T01:30:37+02:00",
-    "updated_at": "2023-10-23T07:17:49+02:00",
+    "updated_at": "2023-10-23T08:32:34+02:00",
     "media_id": "zb9xw9ma7eaw",
     "duration": null,
     "canonical_section": {
@@ -466,7 +558,7 @@
     "title": "Eerste tv-debat partijleiders was zonder vonken en beetje onwennig",
     "subtitle": null,
     "published_at": "2023-10-22T22:55:10+02:00",
-    "updated_at": "2023-10-23T07:36:40+02:00",
+    "updated_at": "2023-10-23T08:46:16+02:00",
     "media_id": "c5xxps7awq20",
     "duration": null,
     "canonical_section": {
@@ -558,8 +650,8 @@
     "title": "Recordaantal van half miljoen bezoekers voor Amsterdam Dance Event",
     "subtitle": null,
     "published_at": "2023-10-22T22:32:47+02:00",
-    "updated_at": "2023-10-22T23:13:12+02:00",
-    "media_id": "ytxx0i8a9hhu",
+    "updated_at": "2023-10-23T08:38:08+02:00",
+    "media_id": "417xsjdaall7",
     "duration": null,
     "canonical_section": {
       "id": 1772242,
@@ -594,98 +686,6 @@
       "partner": null
     },
     "url": "/buitenland/6286419/zes-kinderen-omgekomen-door-beschietingen-syrisch-leger.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6286418,
-    "slug": "velzeboer-pakt-goud-op-500-meter-bij-eerste-world-cup-van-shorttrackseizoen",
-    "type": "article",
-    "title": "Velzeboer pakt goud op 500 meter bij eerste World Cup van shorttrackseizoen",
-    "subtitle": null,
-    "published_at": "2023-10-22T22:13:51+02:00",
-    "updated_at": "2023-10-22T23:24:49+02:00",
-    "media_id": "wnmxtd9ayg1o",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772452,
-      "slug": "schaatsen",
-      "type": "default",
-      "name": "Schaatsen",
-      "style": "nusport",
-      "media_id": "5ktx9n6axubw",
-      "partner": null
-    },
-    "url": "/schaatsen/6286418/velzeboer-pakt-goud-op-500-meter-bij-eerste-world-cup-van-shorttrackseizoen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6286417,
-    "slug": "het-oude-jeruzalem-is-uitgestorven-sinds-uitbraak-oorlog",
-    "type": "video",
-    "title": "Het oude Jeruzalem is uitgestorven sinds uitbraak oorlog",
-    "subtitle": "Video",
-    "published_at": "2023-10-22T22:13:08+02:00",
-    "updated_at": "2023-10-22T22:28:11+02:00",
-    "media_id": "guaxysca1ex7",
-    "duration": "0:56",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6286417/het-oude-jeruzalem-is-uitgestorven-sinds-uitbraak-oorlog.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6286416,
-    "slug": "populaire-voetbalanalyticus-jan-boskamp-75-kondigt-afscheid-aan",
-    "type": "article",
-    "title": "Populaire voetbalanalyticus Jan Boskamp (75) kondigt afscheid aan",
-    "subtitle": null,
-    "published_at": "2023-10-22T22:00:29+02:00",
-    "updated_at": "2023-10-23T07:56:11+02:00",
-    "media_id": "8mmxpqoa95sa",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772242,
-      "slug": "entertainment",
-      "type": "default",
-      "name": "Media en Cultuur",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/entertainment/6286416/populaire-voetbalanalyticus-jan-boskamp-75-kondigt-afscheid-aan.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6286415,
-    "slug": "vivianne-miedema-maakt-na-bijna-een-jaar-blessureleed-rentree-voor-arsenal",
-    "type": "article",
-    "title": "Vivianne Miedema maakt na bijna een jaar blessureleed rentree voor Arsenal",
-    "subtitle": null,
-    "published_at": "2023-10-22T21:58:06+02:00",
-    "updated_at": "2023-10-22T22:22:04+02:00",
-    "media_id": "puix71eamcjn",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6286415/vivianne-miedema-maakt-na-bijna-een-jaar-blessureleed-rentree-voor-arsenal.html",
     "open_new_window": false,
     "partner": null
   }
