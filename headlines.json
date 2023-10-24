@@ -1,12 +1,127 @@
 [
   {
-    "id": 6286586,
-    "slug": "bitcoin-stijgt-naar-hoogtste-waarde-in-bijna-anderhalf-jaar-tijd",
+    "id": 6286518,
+    "slug": "na-opsporingsbericht-kijk-ik-actief-om-me-heen-voor-voortvluchtige",
     "type": "article",
-    "title": "Bitcoin stijgt naar hoogtste waarde in bijna anderhalf jaar tijd",
+    "title": "'Na opsporingsbericht kijk ik actief om me heen voor voortvluchtige'",
+    "subtitle": "Stelling",
+    "published_at": "2023-10-24T08:58:53+02:00",
+    "updated_at": "2023-10-24T08:58:55+02:00",
+    "media_id": "3s5xlsra99fl",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779134,
+      "slug": "stelling",
+      "type": "default",
+      "name": "Stelling en Praat Mee",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/stelling/6286518/na-opsporingsbericht-kijk-ik-actief-om-me-heen-voor-voortvluchtige.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6286589,
+    "slug": "braziliaanse-bende-steekt-tientallen-bussen-en-trein-in-brand",
+    "type": "video",
+    "title": "Braziliaanse bende steekt tientallen bussen en trein in brand",
+    "subtitle": "Video",
+    "published_at": "2023-10-24T08:49:29+02:00",
+    "updated_at": "2023-10-24T08:49:30+02:00",
+    "media_id": "6u8xraxas3s5",
+    "duration": "0:45",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6286589/braziliaanse-bende-steekt-tientallen-bussen-en-trein-in-brand.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6286587,
+    "slug": "joy-beune-heeft-fout-met-sok-en-diskwalificatie-op-wk-verwerkt-ik-reed-erg-goed",
+    "type": "article",
+    "title": "Joy Beune heeft fout met sok en diskwalificatie op WK verwerkt: 'Ik reed erg goed'",
+    "subtitle": null,
+    "published_at": "2023-10-24T08:49:25+02:00",
+    "updated_at": "2023-10-24T08:49:26+02:00",
+    "media_id": "xh1xvkqap98p",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772452,
+      "slug": "schaatsen",
+      "type": "default",
+      "name": "Schaatsen",
+      "style": "nusport",
+      "media_id": "5ktx9n6axubw",
+      "partner": null
+    },
+    "url": "/schaatsen/6286587/joy-beune-heeft-fout-met-sok-en-diskwalificatie-op-wk-verwerkt-ik-reed-erg-goed.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6286582,
+    "slug": "rusland-rekruteert-vrouwelijke-militairen-die-mee-kunnen-vechten-in-oekraine",
+    "type": "article",
+    "title": "Rusland rekruteert vrouwelijke militairen die mee kunnen vechten in Oekraïne",
+    "subtitle": null,
+    "published_at": "2023-10-24T08:28:50+02:00",
+    "updated_at": "2023-10-24T08:28:51+02:00",
+    "media_id": "mgjxgj1agq9p",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6286582/rusland-rekruteert-vrouwelijke-militairen-die-mee-kunnen-vechten-in-oekraine.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6286585,
+    "slug": "groningen-spits-van-veen-geirriteerd-misschien-word-ik-elders-wel-gewaardeerd",
+    "type": "article",
+    "title": "Groningen-spits Van Veen geïrriteerd: 'Misschien word ik elders wel gewaardeerd'",
+    "subtitle": null,
+    "published_at": "2023-10-24T08:18:37+02:00",
+    "updated_at": "2023-10-24T08:18:39+02:00",
+    "media_id": "5a6x3y5akgro",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6286585/groningen-spits-van-veen-geirriteerd-misschien-word-ik-elders-wel-gewaardeerd.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6286586,
+    "slug": "bitcoin-stijgt-naar-hoogste-waarde-in-bijna-anderhalf-jaar-tijd",
+    "type": "article",
+    "title": "Bitcoin stijgt naar hoogste waarde in bijna anderhalf jaar tijd",
     "subtitle": null,
     "published_at": "2023-10-24T07:54:44+02:00",
-    "updated_at": "2023-10-24T07:54:45+02:00",
+    "updated_at": "2023-10-24T08:22:16+02:00",
     "media_id": "ih8xktua3r15",
     "duration": null,
     "canonical_section": {
@@ -18,7 +133,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/economie/6286586/bitcoin-stijgt-naar-hoogtste-waarde-in-bijna-anderhalf-jaar-tijd.html",
+    "url": "/economie/6286586/bitcoin-stijgt-naar-hoogste-waarde-in-bijna-anderhalf-jaar-tijd.html",
     "open_new_window": false,
     "partner": null
   },
@@ -75,7 +190,7 @@
     "title": "Madonna nog steeds niet de oude na bacteriële infectie, fans zijn ongerust",
     "subtitle": null,
     "published_at": "2023-10-24T07:20:46+02:00",
-    "updated_at": "2023-10-24T07:20:47+02:00",
+    "updated_at": "2023-10-24T08:47:32+02:00",
     "media_id": "uq0x69ra5k8p",
     "duration": null,
     "canonical_section": {
@@ -98,7 +213,7 @@
     "title": "Nabestaanden van slachtoffers bombardement Hawija bij proces tegen Staat",
     "subtitle": null,
     "published_at": "2023-10-24T07:01:42+02:00",
-    "updated_at": "2023-10-24T07:26:01+02:00",
+    "updated_at": "2023-10-24T08:44:43+02:00",
     "media_id": "87cxcf7a3p9k",
     "duration": null,
     "canonical_section": {
@@ -144,7 +259,7 @@
     "title": "Op Fallout-games gebaseerde serie vanaf april te zien op Prime Video",
     "subtitle": null,
     "published_at": "2023-10-24T06:35:57+02:00",
-    "updated_at": "2023-10-24T06:35:59+02:00",
+    "updated_at": "2023-10-24T08:41:01+02:00",
     "media_id": "vjqxp1lasdry",
     "duration": null,
     "canonical_section": {
@@ -328,7 +443,7 @@
     "title": "Sharon Doorson verwacht eerste baby met jeugdliefde",
     "subtitle": null,
     "published_at": "2023-10-24T00:22:32+02:00",
-    "updated_at": "2023-10-24T06:03:57+02:00",
+    "updated_at": "2023-10-24T08:09:38+02:00",
     "media_id": "xi3xe9vanjkt",
     "duration": null,
     "canonical_section": {
@@ -351,7 +466,7 @@
     "title": "De maan is 40 miljoen jaar ouder dan wetenschappers dachten",
     "subtitle": null,
     "published_at": "2023-10-24T00:03:07+02:00",
-    "updated_at": "2023-10-24T07:28:24+02:00",
+    "updated_at": "2023-10-24T08:49:49+02:00",
     "media_id": "l2jxdyyaonkx",
     "duration": null,
     "canonical_section": {
@@ -397,7 +512,7 @@
     "title": "Van de Ven ziet Son aan rendement werken en is weer koploper met Tottenham",
     "subtitle": null,
     "published_at": "2023-10-23T23:06:37+02:00",
-    "updated_at": "2023-10-23T23:51:10+02:00",
+    "updated_at": "2023-10-24T08:37:28+02:00",
     "media_id": "hfxxw6xa1wqw",
     "duration": null,
     "canonical_section": {
@@ -571,121 +686,6 @@
       "partner": null
     },
     "url": "/achterklap/6286527/hoe-gaat-het-nu-met-rebecca-loos-de-vermeende-minnares-van-david-beckham.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6286554,
-    "slug": "dieren-peuzelen-pompoenen-op-in-londense-dierentuin",
-    "type": "video",
-    "title": "Dieren peuzelen pompoenen op in Londense dierentuin",
-    "subtitle": "Video",
-    "published_at": "2023-10-23T19:58:15+02:00",
-    "updated_at": "2023-10-23T19:58:16+02:00",
-    "media_id": "rhox4hna559t",
-    "duration": "0:56",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6286554/dieren-peuzelen-pompoenen-op-in-londense-dierentuin.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6286553,
-    "slug": "opnieuw-bereiken-hulpgoederen-de-gazastrook",
-    "type": "video",
-    "title": "Opnieuw bereiken hulpgoederen de Gazastrook",
-    "subtitle": null,
-    "published_at": "2023-10-23T19:44:48+02:00",
-    "updated_at": "2023-10-23T19:44:50+02:00",
-    "media_id": "ou6x7b8a6f99",
-    "duration": "0:42",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6286553/opnieuw-bereiken-hulpgoederen-de-gazastrook.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6286513,
-    "slug": "eva-jinek-wint-sonja-barend-award-voor-interview-met-camille-van-gestel",
-    "type": "article",
-    "title": "Eva Jinek wint Sonja Barend Award voor interview met Camille van Gestel",
-    "subtitle": null,
-    "published_at": "2023-10-23T19:44:17+02:00",
-    "updated_at": "2023-10-23T20:04:37+02:00",
-    "media_id": "hb1xcjya0ect",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771675,
-      "slug": "media",
-      "type": "default",
-      "name": "Media",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/media/6286513/eva-jinek-wint-sonja-barend-award-voor-interview-met-camille-van-gestel.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6286552,
-    "slug": "netanyahu-ontvangt-rutte-we-moeten-ons-verenigen-tegen-hamas",
-    "type": "video",
-    "title": "Netanyahu ontvangt Rutte: 'We moeten ons verenigen tegen Hamas'",
-    "subtitle": "Video",
-    "published_at": "2023-10-23T19:41:39+02:00",
-    "updated_at": "2023-10-23T20:13:18+02:00",
-    "media_id": "4ayx4e0a1co6",
-    "duration": "1:01",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6286552/netanyahu-ontvangt-rutte-we-moeten-ons-verenigen-tegen-hamas.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6286550,
-    "slug": "van-de-zandschulp-knap-naar-tweede-ronde-van-sterk-bezet-toernooi-in-bazel",
-    "type": "article",
-    "title": "Van de Zandschulp knap naar tweede ronde van sterk bezet toernooi in Bazel",
-    "subtitle": null,
-    "published_at": "2023-10-23T19:19:02+02:00",
-    "updated_at": "2023-10-23T19:26:21+02:00",
-    "media_id": "ytlxok2ahayr",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772432,
-      "slug": "tennis",
-      "type": "default",
-      "name": "Tennis",
-      "style": "nusport",
-      "media_id": "m1oxohpan0gq",
-      "partner": null
-    },
-    "url": "/tennis/6286550/van-de-zandschulp-knap-naar-tweede-ronde-van-sterk-bezet-toernooi-in-bazel.html",
     "open_new_window": false,
     "partner": null
   }
