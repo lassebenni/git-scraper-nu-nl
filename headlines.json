@@ -1,12 +1,104 @@
 [
   {
+    "id": 6286778,
+    "slug": "in-dit-amsterdamse-hotel-is-verdachte-bretly-d-aangehouden",
+    "type": "video",
+    "title": "In dit Amsterdamse hotel is verdachte Bretly D. aangehouden",
+    "subtitle": "Video",
+    "published_at": "2023-10-25T10:59:44+02:00",
+    "updated_at": "2023-10-25T10:59:44+02:00",
+    "media_id": "bt5x2blapel4",
+    "duration": "0:29",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6286778/in-dit-amsterdamse-hotel-is-verdachte-bretly-d-aangehouden.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6286769,
+    "slug": "nederland-belgie-en-duitsland-officieel-kandidaat-wk-voetbal-voor-vrouwen-2027",
+    "type": "article",
+    "title": "Nederland, België en Duitsland officieel kandidaat WK voetbal voor vrouwen 2027",
+    "subtitle": null,
+    "published_at": "2023-10-25T10:54:38+02:00",
+    "updated_at": "2023-10-25T10:55:28+02:00",
+    "media_id": "22rxq0eazchh",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6286769/nederland-belgie-en-duitsland-officieel-kandidaat-wk-voetbal-voor-vrouwen-2027.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6286768,
+    "slug": "cloud-en-ai-diensten-doen-het-goed-bij-microsoft-maar-stellen-teleur-bij-google",
+    "type": "article",
+    "title": "Cloud- en AI-diensten doen het goed bij Microsoft, maar stellen teleur bij Google",
+    "subtitle": null,
+    "published_at": "2023-10-25T10:47:57+02:00",
+    "updated_at": "2023-10-25T10:47:59+02:00",
+    "media_id": "2kdxluna6j78",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771438,
+      "slug": "tech",
+      "type": "default",
+      "name": "Tech",
+      "style": "nutech",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/tech/6286768/cloud-en-ai-diensten-doen-het-goed-bij-microsoft-maar-stellen-teleur-bij-google.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6286761,
+    "slug": "bbb-kandidaat-trekt-zich-terug-vanwege-anonieme-nazitweets-in-coronatijd",
+    "type": "article",
+    "title": "BBB-kandidaat trekt zich terug vanwege anonieme nazitweets in coronatijd",
+    "subtitle": null,
+    "published_at": "2023-10-25T10:30:49+02:00",
+    "updated_at": "2023-10-25T10:50:53+02:00",
+    "media_id": "8x3xau2aij6a",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771437,
+      "slug": "politiek",
+      "type": "default",
+      "name": "Politiek",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/politiek/6286761/bbb-kandidaat-trekt-zich-terug-vanwege-anonieme-nazitweets-in-coronatijd.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6286750,
     "slug": "kabinet-had-tijdens-coronapandemie-oogkleppen-op-te-lang-gericht-op-korte-termijn",
     "type": "article",
     "title": "Kabinet had tijdens coronapandemie oogkleppen op: 'Te lang gericht op korte termijn'",
     "subtitle": null,
     "published_at": "2023-10-25T09:59:25+02:00",
-    "updated_at": "2023-10-25T10:01:10+02:00",
+    "updated_at": "2023-10-25T10:59:36+02:00",
     "media_id": "zz3x9cuautyc",
     "duration": null,
     "canonical_section": {
@@ -75,7 +167,7 @@
     "title": "Voortvluchtige Bretly D. na dagenlange klopjacht opgepakt in Amsterdams hotel",
     "subtitle": null,
     "published_at": "2023-10-25T09:19:22+02:00",
-    "updated_at": "2023-10-25T09:57:33+02:00",
+    "updated_at": "2023-10-25T10:18:32+02:00",
     "media_id": "4qkxds1aqs4h",
     "duration": null,
     "canonical_section": {
@@ -121,7 +213,7 @@
     "title": "Mogelijk zeer gevaarlijke orkaan Otis bereikt Mexicaanse kust",
     "subtitle": null,
     "published_at": "2023-10-25T09:01:32+02:00",
-    "updated_at": "2023-10-25T09:01:33+02:00",
+    "updated_at": "2023-10-25T10:55:35+02:00",
     "media_id": "ahsxjy7abvaz",
     "duration": null,
     "canonical_section": {
@@ -190,7 +282,7 @@
     "title": "'Ik zou meedoen aan een staking tegen de loonkloof'",
     "subtitle": "Stelling",
     "published_at": "2023-10-25T07:56:43+02:00",
-    "updated_at": "2023-10-25T07:56:44+02:00",
+    "updated_at": "2023-10-25T10:34:26+02:00",
     "media_id": "ffsxeriad9mo",
     "duration": null,
     "canonical_section": {
@@ -594,98 +686,6 @@
       "partner": null
     },
     "url": "/spanningen-oekraine/6286682/rusland-rekruteert-vrouwen-oekraine-wil-eigen-wapenproductie.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6286730,
-    "slug": "psv-tussen-hoop-en-vrees-in-cl-belangrijkste-is-dat-niet-alles-verloren-is",
-    "type": "article",
-    "title": "PSV tussen hoop en vrees in CL: 'Belangrijkste is dat niet alles verloren is'",
-    "subtitle": null,
-    "published_at": "2023-10-24T23:35:41+02:00",
-    "updated_at": "2023-10-25T07:13:42+02:00",
-    "media_id": "iogxh1was5e2",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6286730/psv-tussen-hoop-en-vrees-in-cl-belangrijkste-is-dat-niet-alles-verloren-is.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6286729,
-    "slug": "amerikaanse-staten-klagen-meta-aan-wegens-psychische-schade-door-facebook",
-    "type": "article",
-    "title": "Amerikaanse staten klagen Meta aan wegens psychische schade door Facebook",
-    "subtitle": null,
-    "published_at": "2023-10-24T23:34:31+02:00",
-    "updated_at": "2023-10-25T09:44:13+02:00",
-    "media_id": "593x3k0a2wmn",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771438,
-      "slug": "tech",
-      "type": "default",
-      "name": "Tech",
-      "style": "nutech",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/tech/6286729/amerikaanse-staten-klagen-meta-aan-wegens-psychische-schade-door-facebook.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6286728,
-    "slug": "piloot-die-vliegtuigmotoren-wilde-uitzetten-zegt-dat-hij-een-zenuwinzinking-had",
-    "type": "article",
-    "title": "Piloot die vliegtuigmotoren wilde uitzetten zegt dat hij een zenuwinzinking had",
-    "subtitle": null,
-    "published_at": "2023-10-24T23:00:25+02:00",
-    "updated_at": "2023-10-24T23:03:59+02:00",
-    "media_id": "fkyx03iajomc",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6286728/piloot-die-vliegtuigmotoren-wilde-uitzetten-zegt-dat-hij-een-zenuwinzinking-had.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6286724,
-    "slug": "psv-verspeelt-voorsprong-bij-rc-lens-en-blijft-zonder-zege-in-champions-league",
-    "type": "article",
-    "title": "PSV verspeelt voorsprong bij RC Lens en blijft zonder zege in Champions League",
-    "subtitle": null,
-    "published_at": "2023-10-24T22:52:42+02:00",
-    "updated_at": "2023-10-25T08:46:17+02:00",
-    "media_id": "z70xbdba4cd7",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6286724/psv-verspeelt-voorsprong-bij-rc-lens-en-blijft-zonder-zege-in-champions-league.html",
     "open_new_window": false,
     "partner": null
   }
