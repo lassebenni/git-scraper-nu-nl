@@ -1,13 +1,105 @@
 [
   {
-    "id": 6287159,
-    "slug": "baudet-heeft-lichte-hersenschudding-na-klap-fvd-legt-campagneactiviteiten-stil",
+    "id": 6287164,
+    "slug": "opmars-griekspoor-in-bazel-gestuit-door-nederlaag-tegen-hurkacz",
     "type": "article",
-    "title": "Baudet heeft lichte hersenschudding na klap, FVD legt campagneactiviteiten stil",
+    "title": "Opmars Griekspoor in Bazel gestuit door nederlaag tegen Hurkacz",
+    "subtitle": null,
+    "published_at": "2023-10-27T16:42:42+02:00",
+    "updated_at": "2023-10-27T16:47:53+02:00",
+    "media_id": "5xoxvvhaachp",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772432,
+      "slug": "tennis",
+      "type": "default",
+      "name": "Tennis",
+      "style": "nusport",
+      "media_id": "m1oxohpan0gq",
+      "partner": null
+    },
+    "url": "/tennis/6287164/opmars-griekspoor-in-bazel-gestuit-door-nederlaag-tegen-hurkacz.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6287160,
+    "slug": "feyenoorder-trauner-traint-weer-mee-maar-speelt-nog-niet-tegen-fc-twente",
+    "type": "article",
+    "title": "Feyenoorder Trauner traint weer mee, maar speelt nog niet tegen FC Twente",
+    "subtitle": null,
+    "published_at": "2023-10-27T16:20:55+02:00",
+    "updated_at": "2023-10-27T16:20:56+02:00",
+    "media_id": "d2xx98tav9oe",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6287160/feyenoorder-trauner-traint-weer-mee-maar-speelt-nog-niet-tegen-fc-twente.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6287161,
+    "slug": "drone-helpt-vermiste-blinde-labrador-terug-te-komen-bij-haar-baasje",
+    "type": "video",
+    "title": "Drone helpt vermiste blinde labrador terug te komen bij haar baasje",
+    "subtitle": "Video",
+    "published_at": "2023-10-27T16:05:43+02:00",
+    "updated_at": "2023-10-27T16:07:56+02:00",
+    "media_id": "7guxzgiaiokz",
+    "duration": "0:46",
+    "canonical_section": {
+      "id": 1779220,
+      "slug": "goed-nieuws",
+      "type": "default",
+      "name": "Goed nieuws",
+      "style": "nuoverig",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/goed-nieuws/6287161/drone-helpt-vermiste-blinde-labrador-terug-te-komen-bij-haar-baasje.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6287139,
+    "slug": "vier-jij-halloween-en-hoe-dan",
+    "type": "article",
+    "title": "Vier jij Halloween? En hoe dan?",
+    "subtitle": "Praat Mee",
+    "published_at": "2023-10-27T16:05:02+02:00",
+    "updated_at": "2023-10-27T16:05:03+02:00",
+    "media_id": "7p4xmrla2fc2",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779134,
+      "slug": "stelling",
+      "type": "default",
+      "name": "Stelling en Praat Mee",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/stelling/6287139/vier-jij-halloween-en-hoe-dan.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6287159,
+    "slug": "baudet-heeft-lichte-hersenschudding-na-klap-met-paraplu-fvd-legt-campagne-stil",
+    "type": "article",
+    "title": "Baudet heeft lichte hersenschudding na klap met paraplu, FVD legt campagne stil",
     "subtitle": null,
     "published_at": "2023-10-27T16:00:06+02:00",
-    "updated_at": "2023-10-27T16:01:19+02:00",
-    "media_id": "1v7x3y2atbhi",
+    "updated_at": "2023-10-27T16:37:36+02:00",
+    "media_id": "oyjxl88am8qc",
     "duration": null,
     "canonical_section": {
       "id": 1771437,
@@ -18,7 +110,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/politiek/6287159/baudet-heeft-lichte-hersenschudding-na-klap-fvd-legt-campagneactiviteiten-stil.html",
+    "url": "/politiek/6287159/baudet-heeft-lichte-hersenschudding-na-klap-met-paraplu-fvd-legt-campagne-stil.html",
     "open_new_window": false,
     "partner": null
   },
@@ -29,7 +121,7 @@
     "title": "Taylor Swift dankzij Eras Tour officieel miljardair",
     "subtitle": null,
     "published_at": "2023-10-27T15:47:06+02:00",
-    "updated_at": "2023-10-27T15:47:07+02:00",
+    "updated_at": "2023-10-27T16:38:55+02:00",
     "media_id": "2xnxwn1a3d26",
     "duration": null,
     "canonical_section": {
@@ -47,12 +139,12 @@
   },
   {
     "id": 6287153,
-    "slug": "bretly-d-zit-langer-vast-op-verdenking-van-betrokkenheid-bij-dood-psychiater",
+    "slug": "aanstaande-vader-bretly-d-langer-vast-op-verdenking-betrokkenheid-schietpartij",
     "type": "article",
-    "title": "Bretly D. zit langer vast op verdenking van betrokkenheid bij dood psychiater",
+    "title": "Aanstaande vader Bretly D. langer vast op verdenking betrokkenheid schietpartij",
     "subtitle": null,
     "published_at": "2023-10-27T15:45:11+02:00",
-    "updated_at": "2023-10-27T15:58:51+02:00",
+    "updated_at": "2023-10-27T16:24:34+02:00",
     "media_id": "4qkxds1aqs4h",
     "duration": null,
     "canonical_section": {
@@ -64,7 +156,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/binnenland/6287153/bretly-d-zit-langer-vast-op-verdenking-van-betrokkenheid-bij-dood-psychiater.html",
+    "url": "/binnenland/6287153/aanstaande-vader-bretly-d-langer-vast-op-verdenking-betrokkenheid-schietpartij.html",
     "open_new_window": false,
     "partner": null
   },
@@ -75,7 +167,7 @@
     "title": "Indrukwekkende beelden tonen hoe ijsvogel prooi vangt in Rotterdam",
     "subtitle": "Video",
     "published_at": "2023-10-27T15:44:58+02:00",
-    "updated_at": "2023-10-27T15:48:00+02:00",
+    "updated_at": "2023-10-27T16:09:38+02:00",
     "media_id": "c9hxz4ja05eh",
     "duration": "0:32",
     "canonical_section": {
@@ -185,12 +277,12 @@
   },
   {
     "id": 6287140,
-    "slug": "voor-het-eerst-geen-wk-finale-korfbal-tussen-belgie-en-nederland-door-stunt-taiwan",
+    "slug": "sensatie-op-wk-korfbal-nederland-speelt-voor-het-eerst-niet-tegen-belgie-in-finale",
     "type": "article",
-    "title": "Voor het eerst geen WK-finale korfbal tussen België en Nederland door stunt Taiwan",
+    "title": "Sensatie op WK korfbal: Nederland speelt voor het eerst niet tegen België in finale",
     "subtitle": null,
     "published_at": "2023-10-27T15:02:52+02:00",
-    "updated_at": "2023-10-27T15:59:14+02:00",
+    "updated_at": "2023-10-27T16:22:57+02:00",
     "media_id": "9f0x74la5s8r",
     "duration": null,
     "canonical_section": {
@@ -202,7 +294,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/sport-overig/6287140/voor-het-eerst-geen-wk-finale-korfbal-tussen-belgie-en-nederland-door-stunt-taiwan.html",
+    "url": "/sport-overig/6287140/sensatie-op-wk-korfbal-nederland-speelt-voor-het-eerst-niet-tegen-belgie-in-finale.html",
     "open_new_window": false,
     "partner": null
   },
@@ -305,7 +397,7 @@
     "title": "Gevallen cryptokoning Bankman-Fried geeft fouten toe, maar ontkent fraude",
     "subtitle": null,
     "published_at": "2023-10-27T13:51:36+02:00",
-    "updated_at": "2023-10-27T14:34:35+02:00",
+    "updated_at": "2023-10-27T16:03:44+02:00",
     "media_id": "2u8x8skaldqm",
     "duration": null,
     "canonical_section": {
@@ -328,19 +420,19 @@
     "title": "Lezers over thuiswerken: 'Praatjes interesseren mij niet'",
     "subtitle": "NU+",
     "published_at": "2023-10-27T13:39:13+02:00",
-    "updated_at": "2023-10-27T13:39:14+02:00",
+    "updated_at": "2023-10-27T16:27:40+02:00",
     "media_id": "dctxqqzacz58",
     "duration": null,
     "canonical_section": {
-      "id": 100,
-      "slug": "algemeen",
+      "id": 99,
+      "slug": "economie",
       "type": "default",
-      "name": "Algemeen",
-      "style": "nu",
+      "name": "Economie",
+      "style": "nuzakelijk",
       "media_id": null,
       "partner": null
     },
-    "url": "/algemeen/6286995/lezers-over-thuiswerken-praatjes-interesseren-mij-niet.html",
+    "url": "/economie/6286995/lezers-over-thuiswerken-praatjes-interesseren-mij-niet.html",
     "open_new_window": false,
     "partner": null
   },
@@ -461,12 +553,12 @@
   },
   {
     "id": 6287114,
-    "slug": "de-jong-verschijnt-dag-voor-el-clasico-weer-op-trainingsveld-bij-fc-barcelona",
+    "slug": "frenkie-de-jong-verschijnt-dag-voor-clasico-weer-op-training-fc-barcelona",
     "type": "article",
-    "title": "De Jong verschijnt dag voor El Clásico weer op trainingsveld bij FC Barcelona",
+    "title": "Frenkie de Jong verschijnt dag voor Clásico weer op training FC Barcelona",
     "subtitle": null,
     "published_at": "2023-10-27T12:54:42+02:00",
-    "updated_at": "2023-10-27T14:27:49+02:00",
+    "updated_at": "2023-10-27T16:25:09+02:00",
     "media_id": "owzxpv4a6xvz",
     "duration": null,
     "canonical_section": {
@@ -478,7 +570,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6287114/de-jong-verschijnt-dag-voor-el-clasico-weer-op-trainingsveld-bij-fc-barcelona.html",
+    "url": "/voetbal/6287114/frenkie-de-jong-verschijnt-dag-voor-clasico-weer-op-training-fc-barcelona.html",
     "open_new_window": false,
     "partner": null
   },
@@ -489,7 +581,7 @@
     "title": "Makers Jiskefet verliezen zaak: boek over tv-serie krijgt toch geen disclaimer",
     "subtitle": null,
     "published_at": "2023-10-27T12:34:07+02:00",
-    "updated_at": "2023-10-27T12:54:12+02:00",
+    "updated_at": "2023-10-27T16:56:05+02:00",
     "media_id": "8n6xxc7apahl",
     "duration": null,
     "canonical_section": {
@@ -512,7 +604,7 @@
     "title": "Lage Mercedes maakte Hamilton niet sneller in Austin: 'Scheelde 0,05 millimeter'",
     "subtitle": null,
     "published_at": "2023-10-27T12:19:53+02:00",
-    "updated_at": "2023-10-27T13:04:10+02:00",
+    "updated_at": "2023-10-27T16:08:55+02:00",
     "media_id": "q3zxalwakv88",
     "duration": null,
     "canonical_section": {
@@ -594,98 +686,6 @@
       "partner": null
     },
     "url": "/schaatsen/6287100/leerdam-meldt-zich-af-voor-1500-meter-op-world-cup-kwalificatietoernooi.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6287096,
-    "slug": "bestelbusjes-flink-in-trek-verkoop-met-ruim-20-procent-toegenomen",
-    "type": "article",
-    "title": "Bestelbusjes flink in trek: verkoop met ruim 20 procent toegenomen",
-    "subtitle": null,
-    "published_at": "2023-10-27T11:51:34+02:00",
-    "updated_at": "2023-10-27T12:25:58+02:00",
-    "media_id": "lpmx99sab5ub",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6287096/bestelbusjes-flink-in-trek-verkoop-met-ruim-20-procent-toegenomen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6287095,
-    "slug": "chinese-straaljager-nadert-vliegtuig-vs-boven-omstreden-zee",
-    "type": "video",
-    "title": "Chinese straaljager nadert vliegtuig VS boven omstreden zee",
-    "subtitle": "Video",
-    "published_at": "2023-10-27T11:26:57+02:00",
-    "updated_at": "2023-10-27T11:43:48+02:00",
-    "media_id": "amcxxzqa2lpd",
-    "duration": "0:44",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6287095/chinese-straaljager-nadert-vliegtuig-vs-boven-omstreden-zee.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6287093,
-    "slug": "indonesisch-vliegtuig-maakt-eerste-passagiersvlucht-op-kerosine-met-palmolie",
-    "type": "article",
-    "title": "Indonesisch vliegtuig maakt eerste passagiersvlucht op kerosine met palmolie",
-    "subtitle": null,
-    "published_at": "2023-10-27T11:15:53+02:00",
-    "updated_at": "2023-10-27T14:19:38+02:00",
-    "media_id": "r7dx0g6ajowb",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6287093/indonesisch-vliegtuig-maakt-eerste-passagiersvlucht-op-kerosine-met-palmolie.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6287081,
-    "slug": "twente-directeur-roept-supporters-op-geen-homofobe-liedjes-meer-te-zingen",
-    "type": "article",
-    "title": "Twente-directeur roept supporters op geen homofobe liedjes meer te zingen",
-    "subtitle": null,
-    "published_at": "2023-10-27T10:45:18+02:00",
-    "updated_at": "2023-10-27T10:45:19+02:00",
-    "media_id": "teyx0e3ankj3",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6287081/twente-directeur-roept-supporters-op-geen-homofobe-liedjes-meer-te-zingen.html",
     "open_new_window": false,
     "partner": null
   }
