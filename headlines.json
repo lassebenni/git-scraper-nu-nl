@@ -1,12 +1,104 @@
 [
   {
+    "id": 6287241,
+    "slug": "ruim-twintig-doden-bij-mijnongeluk-in-kazachstan-president-wil-maatregelen",
+    "type": "article",
+    "title": "Ruim twintig doden bij mijnongeluk in Kazachstan, president wil maatregelen",
+    "subtitle": null,
+    "published_at": "2023-10-28T10:48:05+02:00",
+    "updated_at": "2023-10-28T10:55:53+02:00",
+    "media_id": "m1mxrdnavlch",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6287241/ruim-twintig-doden-bij-mijnongeluk-in-kazachstan-president-wil-maatregelen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6287240,
+    "slug": "bodycam-filmt-hoe-australische-politie-boer-uit-graansilo-redt",
+    "type": "video",
+    "title": "Bodycam filmt hoe Australische politie boer uit graansilo redt",
+    "subtitle": "Video",
+    "published_at": "2023-10-28T10:45:01+02:00",
+    "updated_at": "2023-10-28T10:45:03+02:00",
+    "media_id": "gc0xugoa4dmc",
+    "duration": "0:46",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6287240/bodycam-filmt-hoe-australische-politie-boer-uit-graansilo-redt.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6287239,
+    "slug": "israelische-militairen-blijven-in-gaza-en-trekken-zich-niet-terug-na-nachtelijk-offensief",
+    "type": "article",
+    "title": "Israëlische militairen blijven in Gaza en trekken zich niet terug na nachtelijk offensief",
+    "subtitle": null,
+    "published_at": "2023-10-28T10:24:47+02:00",
+    "updated_at": "2023-10-28T10:57:58+02:00",
+    "media_id": "g3zxgubatfem",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6287239/israelische-militairen-blijven-in-gaza-en-trekken-zich-niet-terug-na-nachtelijk-offensief.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6287236,
+    "slug": "verstappen-verrast-zichzelf-in-trainingen-positieve-start-van-het-weekend",
+    "type": "article",
+    "title": "Verstappen verrast zichzelf in trainingen: 'Positieve start van het weekend'",
+    "subtitle": null,
+    "published_at": "2023-10-28T10:02:51+02:00",
+    "updated_at": "2023-10-28T10:02:52+02:00",
+    "media_id": "c46xhbwa9b7u",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772449,
+      "slug": "formule-1",
+      "type": "default",
+      "name": "Formule 1",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/formule-1/6287236/verstappen-verrast-zichzelf-in-trainingen-positieve-start-van-het-weekend.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6287235,
     "slug": "iraans-meisje-dat-in-coma-lag-na-incident-met-zedenpolitie-overleden",
     "type": "article",
     "title": "Iraans meisje dat in coma lag na incident met zedenpolitie overleden",
     "subtitle": null,
     "published_at": "2023-10-28T09:25:36+02:00",
-    "updated_at": "2023-10-28T09:44:43+02:00",
+    "updated_at": "2023-10-28T10:21:41+02:00",
     "media_id": "y6nxb8iaprvq",
     "duration": null,
     "canonical_section": {
@@ -116,12 +208,12 @@
   },
   {
     "id": 6287230,
-    "slug": "onophoudelijke-bombardementen-maakt-communicatie-met-gaza-onmogelijk",
+    "slug": "onophoudelijke-bombardementen-maken-communicatie-met-gaza-onmogelijk",
     "type": "article",
-    "title": "Onophoudelijke bombardementen maakt communicatie met Gaza onmogelijk",
+    "title": "Onophoudelijke bombardementen maken communicatie met Gaza onmogelijk",
     "subtitle": null,
     "published_at": "2023-10-28T07:59:03+02:00",
-    "updated_at": "2023-10-28T09:58:43+02:00",
+    "updated_at": "2023-10-28T10:51:44+02:00",
     "media_id": "z4hxwnwa409i",
     "duration": null,
     "canonical_section": {
@@ -133,7 +225,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/buitenland/6287230/onophoudelijke-bombardementen-maakt-communicatie-met-gaza-onmogelijk.html",
+    "url": "/buitenland/6287230/onophoudelijke-bombardementen-maken-communicatie-met-gaza-onmogelijk.html",
     "open_new_window": false,
     "partner": null
   },
@@ -190,7 +282,7 @@
     "title": "Eerst droog, later buien en mogelijk een klap onweer",
     "subtitle": "Weerbericht",
     "published_at": "2023-10-28T05:32:01+02:00",
-    "updated_at": "2023-10-28T09:40:33+02:00",
+    "updated_at": "2023-10-28T10:23:58+02:00",
     "media_id": "0h9xivca6beb",
     "duration": null,
     "canonical_section": {
@@ -213,7 +305,7 @@
     "title": "Een jaar na overname door Musk heet Twitter X en lopen gebruikers weg",
     "subtitle": "NU+",
     "published_at": "2023-10-28T05:07:06+02:00",
-    "updated_at": "2023-10-28T06:52:27+02:00",
+    "updated_at": "2023-10-28T10:20:21+02:00",
     "media_id": "w34x4v7advvl",
     "duration": null,
     "canonical_section": {
@@ -282,7 +374,7 @@
     "title": "Van krottenwijk naar Zuid-Afrikaanse rugbyheld: 'Kolisi in rijtje met Mandela'",
     "subtitle": "NU+",
     "published_at": "2023-10-28T04:59:44+02:00",
-    "updated_at": "2023-10-28T04:59:45+02:00",
+    "updated_at": "2023-10-28T10:19:03+02:00",
     "media_id": "ob2x0yja01vz",
     "duration": null,
     "canonical_section": {
@@ -305,7 +397,7 @@
     "title": "Graaiflatie niet bewezen, maar sommige bedrijven hebben wel marges verhoogd",
     "subtitle": null,
     "published_at": "2023-10-28T04:58:37+02:00",
-    "updated_at": "2023-10-28T06:52:08+02:00",
+    "updated_at": "2023-10-28T10:43:15+02:00",
     "media_id": "fj0xckaatnwd",
     "duration": null,
     "canonical_section": {
@@ -374,7 +466,7 @@
     "title": "Verdachte van massaschietpartij in VS dood aangetroffen na klopjacht",
     "subtitle": null,
     "published_at": "2023-10-28T04:18:16+02:00",
-    "updated_at": "2023-10-28T09:07:44+02:00",
+    "updated_at": "2023-10-28T10:08:19+02:00",
     "media_id": "vamxkb9awlqd",
     "duration": null,
     "canonical_section": {
@@ -594,98 +686,6 @@
       "partner": null
     },
     "url": "/media/6287215/israel-zegt-veiligheid-journalisten-in-gaza-niet-te-kunnen-garanderen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6287204,
-    "slug": "minimumloon-in-caribisch-nederland-gaat-met-minstens-300-dollar-omhoog",
-    "type": "article",
-    "title": "Minimumloon in Caribisch Nederland gaat met minstens 300 dollar omhoog",
-    "subtitle": null,
-    "published_at": "2023-10-27T22:56:01+02:00",
-    "updated_at": "2023-10-27T22:56:14+02:00",
-    "media_id": "ka9x07kalkdg",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6287204/minimumloon-in-caribisch-nederland-gaat-met-minstens-300-dollar-omhoog.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6287214,
-    "slug": "oud-voetballer-pique-is-afgeleid-door-telefoon-en-valt-van-podium",
-    "type": "video",
-    "title": "Oud-voetballer Piqué is afgeleid door telefoon en valt van podium",
-    "subtitle": "Video",
-    "published_at": "2023-10-27T22:46:38+02:00",
-    "updated_at": "2023-10-28T09:22:59+02:00",
-    "media_id": "oyxxis3aqs27",
-    "duration": "0:26",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6287214/oud-voetballer-pique-is-afgeleid-door-telefoon-en-valt-van-podium.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6287212,
-    "slug": "oranje-klopt-schotland-bij-rentree-miedema-en-zet-olympische-droom-voort",
-    "type": "article",
-    "title": "Oranje klopt Schotland bij rentree Miedema en zet olympische droom voort",
-    "subtitle": null,
-    "published_at": "2023-10-27T22:36:13+02:00",
-    "updated_at": "2023-10-27T23:38:18+02:00",
-    "media_id": "l6qxoqmawq2r",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6287212/oranje-klopt-schotland-bij-rentree-miedema-en-zet-olympische-droom-voort.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6287211,
-    "slug": "bergsma-ontbreekt-na-13-jaar-bij-wereldbeker-5-kilometer-klap-in-mijn-gezicht",
-    "type": "article",
-    "title": "Bergsma ontbreekt na 13 jaar bij wereldbeker 5 kilometer: 'Klap in mijn gezicht'",
-    "subtitle": null,
-    "published_at": "2023-10-27T22:28:18+02:00",
-    "updated_at": "2023-10-28T08:05:45+02:00",
-    "media_id": "pyzxf37apolq",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772452,
-      "slug": "schaatsen",
-      "type": "default",
-      "name": "Schaatsen",
-      "style": "nusport",
-      "media_id": "5ktx9n6axubw",
-      "partner": null
-    },
-    "url": "/schaatsen/6287211/bergsma-ontbreekt-na-13-jaar-bij-wereldbeker-5-kilometer-klap-in-mijn-gezicht.html",
     "open_new_window": false,
     "partner": null
   }
