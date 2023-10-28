@@ -1,5 +1,51 @@
 [
   {
+    "id": 6287206,
+    "slug": "verrassende-vondst-gezonde-diepzeekoraalriffen-bij-galapagoseilanden",
+    "type": "article",
+    "title": "Verrassende vondst: gezonde diepzeekoraalriffen bij Galapagoseilanden",
+    "subtitle": null,
+    "published_at": "2023-10-28T01:16:37+02:00",
+    "updated_at": "2023-10-28T01:16:38+02:00",
+    "media_id": "tbxxhnvage2m",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779220,
+      "slug": "goed-nieuws",
+      "type": "default",
+      "name": "Goed nieuws",
+      "style": "nuoverig",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/goed-nieuws/6287206/verrassende-vondst-gezonde-diepzeekoraalriffen-bij-galapagoseilanden.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6287222,
+    "slug": "verstappen-ook-in-tweede-vrije-training-voor-gp-mexico-de-snelste",
+    "type": "article",
+    "title": "Verstappen ook in tweede vrije training voor GP Mexico de snelste",
+    "subtitle": null,
+    "published_at": "2023-10-28T01:05:30+02:00",
+    "updated_at": "2023-10-28T01:58:09+02:00",
+    "media_id": "m7zxsopae0wo",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772449,
+      "slug": "formule-1",
+      "type": "default",
+      "name": "Formule 1",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/formule-1/6287222/verstappen-ook-in-tweede-vrije-training-voor-gp-mexico-de-snelste.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6287221,
     "slug": "22-en-19-jaar-cel-geeist-voor-moord-op-rapper-boechi",
     "type": "article",
@@ -323,12 +369,12 @@
   },
   {
     "id": 6287208,
-    "slug": "internet-in-gaza-ligt-eruit-vrijwel-totale-black-out",
+    "slug": "internet-in-gaza-ligt-eruit-vrijwel-totale-black-out-gesloten",
     "type": "article",
-    "title": "Internet in Gaza ligt eruit: 'Vrijwel totale black-out'",
+    "title": "Internet in Gaza ligt eruit: 'Vrijwel totale black-out' (gesloten)",
     "subtitle": "Liveblog",
     "published_at": "2023-10-27T21:19:20+02:00",
-    "updated_at": "2023-10-28T00:29:29+02:00",
+    "updated_at": "2023-10-28T01:13:16+02:00",
     "media_id": "a9xxwejaobda",
     "duration": null,
     "canonical_section": {
@@ -340,7 +386,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/buitenland/6287208/internet-in-gaza-ligt-eruit-vrijwel-totale-black-out.html",
+    "url": "/buitenland/6287208/internet-in-gaza-ligt-eruit-vrijwel-totale-black-out-gesloten.html",
     "open_new_window": false,
     "partner": null
   },
@@ -640,52 +686,6 @@
       "partner": null
     },
     "url": "/videos/6287172/navo-militairen-oefenen-loopgravenoorlog-in-estland.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6287184,
-    "slug": "politie-met-man-en-macht-in-actie-om-rotterdamse-criminaliteit-tegen-te-gaan",
-    "type": "article",
-    "title": "Politie met man en macht in actie om Rotterdamse criminaliteit tegen te gaan",
-    "subtitle": null,
-    "published_at": "2023-10-27T18:17:25+02:00",
-    "updated_at": "2023-10-27T18:17:26+02:00",
-    "media_id": "g55xm00ane5z",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6287184/politie-met-man-en-macht-in-actie-om-rotterdamse-criminaliteit-tegen-te-gaan.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6287183,
-    "slug": "politie-in-maine-zoekt-nu-ook-met-duikers-naar-verdachte-van-massaschietpartij",
-    "type": "article",
-    "title": "Politie in Maine zoekt nu ook met duikers naar verdachte van massaschietpartij",
-    "subtitle": null,
-    "published_at": "2023-10-27T18:13:31+02:00",
-    "updated_at": "2023-10-27T18:13:32+02:00",
-    "media_id": "m5yx101a52t2",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6287183/politie-in-maine-zoekt-nu-ook-met-duikers-naar-verdachte-van-massaschietpartij.html",
     "open_new_window": false,
     "partner": null
   }
