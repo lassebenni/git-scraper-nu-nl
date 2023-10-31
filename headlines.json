@@ -1,13 +1,105 @@
 [
   {
+    "id": 6287731,
+    "slug": "inflatie-daalt-licht-maar-toch-lopen-de-prijzen-op-hoe-zit-dat",
+    "type": "article",
+    "title": "Inflatie daalt licht, maar toch lopen de prijzen op: hoe zit dat?",
+    "subtitle": "NU+",
+    "published_at": "2023-10-31T18:59:09+01:00",
+    "updated_at": "2023-10-31T19:00:02+01:00",
+    "media_id": "36cxde3abzqo",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6287731/inflatie-daalt-licht-maar-toch-lopen-de-prijzen-op-hoe-zit-dat.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6287732,
+    "slug": "griekspoor-treft-mogelijk-djokovic-na-simpele-tweederondepartij-in-parijs",
+    "type": "article",
+    "title": "Griekspoor treft mogelijk Djokovic na simpele tweederondepartij in Parijs",
+    "subtitle": null,
+    "published_at": "2023-10-31T18:56:44+01:00",
+    "updated_at": "2023-10-31T18:56:45+01:00",
+    "media_id": "zvax18fa6sr0",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772432,
+      "slug": "tennis",
+      "type": "default",
+      "name": "Tennis",
+      "style": "nusport",
+      "media_id": "m1oxohpan0gq",
+      "partner": null
+    },
+    "url": "/tennis/6287732/griekspoor-treft-mogelijk-djokovic-na-simpele-tweederondepartij-in-parijs.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6287702,
+    "slug": "jonas-staal-wint-prestigieuze-kunstprijs-prix-de-rome",
+    "type": "article",
+    "title": "Jonas Staal wint prestigieuze kunstprijs Prix de Rome",
+    "subtitle": null,
+    "published_at": "2023-10-31T18:31:59+01:00",
+    "updated_at": "2023-10-31T18:32:00+01:00",
+    "media_id": "sbrxmkgaz6xe",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772075,
+      "slug": "cultuur-overig",
+      "type": "default",
+      "name": "Boek & Cultuur",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/cultuur-overig/6287702/jonas-staal-wint-prestigieuze-kunstprijs-prix-de-rome.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6287729,
+    "slug": "bergkamp-over-onderzoek-naar-arib-gaat-om-negeren-en-uitsluiten",
+    "type": "video",
+    "title": "Bergkamp over onderzoek naar Arib: ‘Gaat om negeren en uitsluiten’",
+    "subtitle": "Video",
+    "published_at": "2023-10-31T18:30:09+01:00",
+    "updated_at": "2023-10-31T18:30:19+01:00",
+    "media_id": "y5axlenamhxd",
+    "duration": "1:20",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6287729/bergkamp-over-onderzoek-naar-arib-gaat-om-negeren-en-uitsluiten.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6287722,
     "slug": "zverev-krijgt-boete-van-bijna-half-miljoen-euro-voor-mishandelen-ex-vriendin",
     "type": "article",
     "title": "Zverev krijgt boete van bijna half miljoen euro voor mishandelen ex-vriendin",
     "subtitle": null,
     "published_at": "2023-10-31T18:01:01+01:00",
-    "updated_at": "2023-10-31T18:01:03+01:00",
-    "media_id": "wlbx39jae4ie",
+    "updated_at": "2023-10-31T18:04:57+01:00",
+    "media_id": "qhox0mga13ex",
     "duration": null,
     "canonical_section": {
       "id": 1772456,
@@ -52,7 +144,7 @@
     "title": "Arib zorgde voor 'onveilige werkomgeving', maar was ook 'attent en betrokken'",
     "subtitle": null,
     "published_at": "2023-10-31T17:42:24+01:00",
-    "updated_at": "2023-10-31T17:58:08+01:00",
+    "updated_at": "2023-10-31T18:46:29+01:00",
     "media_id": "if2xxnzaoiqs",
     "duration": null,
     "canonical_section": {
@@ -98,8 +190,8 @@
     "title": "Drie mannen aangehouden vanwege betrokkenheid bij in totaal 27 explosies",
     "subtitle": null,
     "published_at": "2023-10-31T17:28:30+01:00",
-    "updated_at": "2023-10-31T17:28:32+01:00",
-    "media_id": "0ujxw9mai4se",
+    "updated_at": "2023-10-31T18:22:59+01:00",
+    "media_id": "go1xsina6wim",
     "duration": null,
     "canonical_section": {
       "id": 1771435,
@@ -167,7 +259,7 @@
     "title": "Israëlische tanks bereiken Gaza-Stad, explosie in nabijgelegen vluchtelingenkamp",
     "subtitle": null,
     "published_at": "2023-10-31T17:19:41+01:00",
-    "updated_at": "2023-10-31T17:52:08+01:00",
+    "updated_at": "2023-10-31T18:09:19+01:00",
     "media_id": "bjoxasear9s1",
     "duration": null,
     "canonical_section": {
@@ -208,12 +300,12 @@
   },
   {
     "id": 6287698,
-    "slug": "het-koninklijk-huis-moet-inkomstenbelasting-gaan-betalen",
+    "slug": "de-koning-en-koningin-moeten-inkomstenbelasting-gaan-betalen",
     "type": "article",
-    "title": "'Het Koninklijk Huis moet inkomstenbelasting gaan betalen'",
+    "title": "'De koning en koningin moeten inkomstenbelasting gaan betalen'",
     "subtitle": "Stelling",
     "published_at": "2023-10-31T16:43:48+01:00",
-    "updated_at": "2023-10-31T16:43:49+01:00",
+    "updated_at": "2023-10-31T18:54:32+01:00",
     "media_id": "lfexg2facdib",
     "duration": null,
     "canonical_section": {
@@ -225,7 +317,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/stelling/6287698/het-koninklijk-huis-moet-inkomstenbelasting-gaan-betalen.html",
+    "url": "/stelling/6287698/de-koning-en-koningin-moeten-inkomstenbelasting-gaan-betalen.html",
     "open_new_window": false,
     "partner": null
   },
@@ -466,7 +558,7 @@
     "title": "Robert De Niro ontkent beschuldigingen van voormalig assistent in rechtbank",
     "subtitle": null,
     "published_at": "2023-10-31T13:47:57+01:00",
-    "updated_at": "2023-10-31T14:20:01+01:00",
+    "updated_at": "2023-10-31T18:41:23+01:00",
     "media_id": "wh5x0dyavvg2",
     "duration": null,
     "canonical_section": {
@@ -594,98 +686,6 @@
       "partner": null
     },
     "url": "/economie/6287672/europese-economie-krimpt-mogelijk-mede-door-strijd-tegen-inflatie.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6287668,
-    "slug": "onrust-in-rusland-vanwege-gazaconflict-poetin-wijst-naar-het-westen",
-    "type": "video",
-    "title": "Onrust in Rusland vanwege Gazaconflict: Poetin wijst naar het Westen",
-    "subtitle": "Explainer",
-    "published_at": "2023-10-31T12:24:15+01:00",
-    "updated_at": "2023-10-31T15:12:33+01:00",
-    "media_id": "b14x1ivakknj",
-    "duration": "2:05",
-    "canonical_section": {
-      "id": 100,
-      "slug": "algemeen",
-      "type": "default",
-      "name": "Algemeen",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/algemeen/6287668/onrust-in-rusland-vanwege-gazaconflict-poetin-wijst-naar-het-westen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6287636,
-    "slug": "neef-quincy-promes-bereid-bekennende-verklaring-af-te-leggen-over-drugshandel",
-    "type": "article",
-    "title": "Neef Quincy Promes bereid bekennende verklaring af te leggen over drugshandel",
-    "subtitle": null,
-    "published_at": "2023-10-31T12:08:49+01:00",
-    "updated_at": "2023-10-31T12:08:50+01:00",
-    "media_id": "buoxhtea7ktn",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6287636/neef-quincy-promes-bereid-bekennende-verklaring-af-te-leggen-over-drugshandel.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6287659,
-    "slug": "vrouw-die-zich-dreigde-op-te-blazen-op-parijs-station-neergeschoten-door-politie",
-    "type": "article",
-    "title": "Vrouw die zich dreigde op te blazen op Parijs station neergeschoten door politie",
-    "subtitle": null,
-    "published_at": "2023-10-31T11:59:29+01:00",
-    "updated_at": "2023-10-31T14:57:40+01:00",
-    "media_id": "4hcxp06a1f7e",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6287659/vrouw-die-zich-dreigde-op-te-blazen-op-parijs-station-neergeschoten-door-politie.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6287655,
-    "slug": "gezondheidsraad-wil-embryo-langer-laten-leven-voor-wetenschappelijk-onderzoek",
-    "type": "article",
-    "title": "Gezondheidsraad wil embryo langer laten leven voor wetenschappelijk onderzoek",
-    "subtitle": null,
-    "published_at": "2023-10-31T11:50:24+01:00",
-    "updated_at": "2023-10-31T11:50:42+01:00",
-    "media_id": "l8dx7ugabzcn",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6287655/gezondheidsraad-wil-embryo-langer-laten-leven-voor-wetenschappelijk-onderzoek.html",
     "open_new_window": false,
     "partner": null
   }
