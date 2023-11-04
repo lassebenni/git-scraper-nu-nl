@@ -1,12 +1,58 @@
 [
   {
+    "id": 6288262,
+    "slug": "busje-rijdt-meerdere-keren-in-op-pui-gemeentehuis-rhenen-dader-spoorloos",
+    "type": "article",
+    "title": "Busje rijdt meerdere keren in op pui gemeentehuis Rhenen, dader spoorloos",
+    "subtitle": null,
+    "published_at": "2023-11-04T10:44:24+01:00",
+    "updated_at": "2023-11-04T11:01:09+01:00",
+    "media_id": "4dvx1ybafhns",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6288262/busje-rijdt-meerdere-keren-in-op-pui-gemeentehuis-rhenen-dader-spoorloos.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6288261,
+    "slug": "auto-brandt-uit-na-frontale-botsing-met-politie-in-limburg",
+    "type": "video",
+    "title": "Auto brandt uit na frontale botsing met politie in Limburg",
+    "subtitle": "Video",
+    "published_at": "2023-11-04T10:33:00+01:00",
+    "updated_at": "2023-11-04T10:37:09+01:00",
+    "media_id": "1r6x0o6astrg",
+    "duration": "0:36",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6288261/auto-brandt-uit-na-frontale-botsing-met-politie-in-limburg.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6288258,
     "slug": "bas-muijs-staat-na-zware-periode-weer-in-het-theater-dankbaar-dat-het-weer-kan",
     "type": "article",
     "title": "Bas Muijs staat na zware periode weer in het theater: 'Dankbaar dat het weer kan'",
     "subtitle": null,
     "published_at": "2023-11-04T09:59:23+01:00",
-    "updated_at": "2023-11-04T09:59:24+01:00",
+    "updated_at": "2023-11-04T10:10:56+01:00",
     "media_id": "033xw8gart41",
     "duration": null,
     "canonical_section": {
@@ -640,52 +686,6 @@
       "partner": null
     },
     "url": "/formule-1/6288214/mercedes-nog-ver-van-herhaling-winst-uit-2022-niet-goed-ingespeeld-op-weer.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6288213,
-    "slug": "onderzochte-planetoide-blijkt-eigen-minimaan-te-hebben",
-    "type": "article",
-    "title": "Onderzochte planetoïde blijkt eigen 'minimaan' te hebben",
-    "subtitle": null,
-    "published_at": "2023-11-03T22:25:58+01:00",
-    "updated_at": "2023-11-04T09:30:52+01:00",
-    "media_id": "t83xev9aokel",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771438,
-      "slug": "tech",
-      "type": "default",
-      "name": "Tech",
-      "style": "nutech",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/tech/6288213/onderzochte-planetoide-blijkt-eigen-minimaan-te-hebben.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6288209,
-    "slug": "de-graafschap-nipt-langs-nac-dankzij-blunderende-doelman-kortsmit",
-    "type": "article",
-    "title": "De Graafschap nipt langs NAC dankzij blunderende doelman Kortsmit",
-    "subtitle": null,
-    "published_at": "2023-11-03T22:17:24+01:00",
-    "updated_at": "2023-11-03T22:24:23+01:00",
-    "media_id": "g3yxcxxacc65",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6288209/de-graafschap-nipt-langs-nac-dankzij-blunderende-doelman-kortsmit.html",
     "open_new_window": false,
     "partner": null
   }
