@@ -1,13 +1,128 @@
 [
   {
-    "id": 6288287,
-    "slug": "nog-foutloos-psv-wil-zegereeks-vervolg-geven-in-almelo",
+    "id": 6288164,
+    "slug": "veelbesproken-en-vaak-gekopieerd-de-bordjesscene-uit-love-actually",
+    "type": "video",
+    "title": "Veelbesproken en vaak gekopieerd: de 'bordjesscène' uit Love Actually",
+    "subtitle": "Explainer",
+    "published_at": "2023-11-04T16:57:24+01:00",
+    "updated_at": "2023-11-04T16:57:38+01:00",
+    "media_id": "gcaxshta35xx",
+    "duration": "2:32",
+    "canonical_section": {
+      "id": 100,
+      "slug": "algemeen",
+      "type": "default",
+      "name": "Algemeen",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/algemeen/6288164/veelbesproken-en-vaak-gekopieerd-de-bordjesscene-uit-love-actually.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6288292,
+    "slug": "beursmiljardair-warren-buffett-ziet-zijn-banksaldo-stijgen-naar-recordbedrag",
     "type": "article",
-    "title": "Nog foutloos PSV wil zegereeks vervolg geven in Almelo",
-    "subtitle": "Liveblog",
-    "published_at": "2023-11-04T15:48:19+01:00",
-    "updated_at": "2023-11-04T15:49:26+01:00",
-    "media_id": "u3fx9eqacs3g",
+    "title": "Beursmiljardair Warren Buffett ziet zijn banksaldo stijgen naar recordbedrag",
+    "subtitle": null,
+    "published_at": "2023-11-04T16:56:11+01:00",
+    "updated_at": "2023-11-04T16:59:48+01:00",
+    "media_id": "m1mxxc6af2mk",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6288292/beursmiljardair-warren-buffett-ziet-zijn-banksaldo-stijgen-naar-recordbedrag.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6288283,
+    "slug": "verwoesting-in-de-gazastrook-breidt-zich-steeds-verder-uit",
+    "type": "article",
+    "title": "Verwoesting in de Gazastrook breidt zich steeds verder uit",
+    "subtitle": "In beeld",
+    "published_at": "2023-11-04T16:51:07+01:00",
+    "updated_at": "2023-11-04T16:51:08+01:00",
+    "media_id": "whsx0gnaz2gh",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6288283/verwoesting-in-de-gazastrook-breidt-zich-steeds-verder-uit.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6288011,
+    "slug": "oeigoerse-dichter-in-ballingschap-onze-stemmen-zijn-gesmoord",
+    "type": "article",
+    "title": "Oeigoerse dichter in ballingschap: ‘Onze stemmen zijn gesmoord’",
+    "subtitle": "NU+",
+    "published_at": "2023-11-04T16:45:08+01:00",
+    "updated_at": "2023-11-04T16:45:09+01:00",
+    "media_id": "uy2xoynaandt",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772311,
+      "slug": "dvn",
+      "type": "files",
+      "name": "Achtergronden",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/dvn/6288011/oeigoerse-dichter-in-ballingschap-onze-stemmen-zijn-gesmoord.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6288290,
+    "slug": "new-yorkse-politie-redt-blinde-hond-van-verdrinkingsdood",
+    "type": "video",
+    "title": "New Yorkse politie redt blinde hond van verdrinkingsdood",
+    "subtitle": "Video",
+    "published_at": "2023-11-04T16:43:58+01:00",
+    "updated_at": "2023-11-04T16:48:10+01:00",
+    "media_id": "07nxp1majlos",
+    "duration": "0:56",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6288290/new-yorkse-politie-redt-blinde-hond-van-verdrinkingsdood.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6288288,
+    "slug": "blind-blijft-winnen-met-girona-en-is-minimaal-een-dag-koploper-in-la-liga",
+    "type": "article",
+    "title": "Blind blijft winnen met Girona en is minimaal één dag koploper in La Liga",
+    "subtitle": null,
+    "published_at": "2023-11-04T16:22:51+01:00",
+    "updated_at": "2023-11-04T16:45:56+01:00",
+    "media_id": "6wtxya9a7ogz",
     "duration": null,
     "canonical_section": {
       "id": 1772338,
@@ -18,7 +133,53 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6288287/nog-foutloos-psv-wil-zegereeks-vervolg-geven-in-almelo.html",
+    "url": "/voetbal/6288288/blind-blijft-winnen-met-girona-en-is-minimaal-een-dag-koploper-in-la-liga.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6288282,
+    "slug": "verstappen-nipt-verslagen-door-norris-in-sprintkwalificatie-gp-sao-paulo",
+    "type": "article",
+    "title": "Verstappen nipt verslagen door Norris in sprintkwalificatie GP São Paulo",
+    "subtitle": null,
+    "published_at": "2023-11-04T16:12:29+01:00",
+    "updated_at": "2023-11-04T16:19:02+01:00",
+    "media_id": "zspxksuaxc7g",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772449,
+      "slug": "formule-1",
+      "type": "default",
+      "name": "Formule 1",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/formule-1/6288282/verstappen-nipt-verslagen-door-norris-in-sprintkwalificatie-gp-sao-paulo.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6288287,
+    "slug": "de-jong-schiet-psv-van-de-stip-op-voorsprong-tegen-tiental-heracles",
+    "type": "article",
+    "title": "De Jong schiet PSV van de stip op voorsprong tegen tiental Heracles",
+    "subtitle": "Liveblog",
+    "published_at": "2023-11-04T15:48:19+01:00",
+    "updated_at": "2023-11-04T17:01:10+01:00",
+    "media_id": "linxoz8ave22",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6288287/de-jong-schiet-psv-van-de-stip-op-voorsprong-tegen-tiental-heracles.html",
     "open_new_window": false,
     "partner": null
   },
@@ -29,7 +190,7 @@
     "title": "Kroatische minister zegt sorry voor 'kuspoging' bij Duitse collega op EU-top",
     "subtitle": null,
     "published_at": "2023-11-04T15:35:42+01:00",
-    "updated_at": "2023-11-04T15:39:44+01:00",
+    "updated_at": "2023-11-04T16:03:18+01:00",
     "media_id": "zrvxsaca0nnv",
     "duration": null,
     "canonical_section": {
@@ -47,12 +208,12 @@
   },
   {
     "id": 6288285,
-    "slug": "bekritiseerde-ten-hag-kan-met-united-weer-eens-juichen-dankzij-goal-in-slotminuten",
+    "slug": "ten-hag-kan-weer-eens-juichen-met-manchester-united-door-goal-in-slotminuten",
     "type": "article",
-    "title": "Bekritiseerde Ten Hag kan met United weer eens juichen dankzij goal in slotminuten",
+    "title": "Ten Hag kan weer eens juichen met Manchester United door goal in slotminuten",
     "subtitle": null,
     "published_at": "2023-11-04T15:31:52+01:00",
-    "updated_at": "2023-11-04T15:55:57+01:00",
+    "updated_at": "2023-11-04T16:21:56+01:00",
     "media_id": "80exa1jabvfx",
     "duration": null,
     "canonical_section": {
@@ -64,7 +225,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6288285/bekritiseerde-ten-hag-kan-met-united-weer-eens-juichen-dankzij-goal-in-slotminuten.html",
+    "url": "/voetbal/6288285/ten-hag-kan-weer-eens-juichen-met-manchester-united-door-goal-in-slotminuten.html",
     "open_new_window": false,
     "partner": null
   },
@@ -75,8 +236,8 @@
     "title": "Zwaargewonden onder wie een kind bij groot ongeluk op A2 bij Oudenrijn",
     "subtitle": null,
     "published_at": "2023-11-04T15:24:27+01:00",
-    "updated_at": "2023-11-04T15:26:36+01:00",
-    "media_id": "bnbx33mab8fn",
+    "updated_at": "2023-11-04T16:38:18+01:00",
+    "media_id": "bbcxgvyaxfes",
     "duration": null,
     "canonical_section": {
       "id": 1771435,
@@ -98,7 +259,7 @@
     "title": "PSV-coach Bosz stelt Tillman en Saibari teleur en kiest Til in duel met Heracles",
     "subtitle": null,
     "published_at": "2023-11-04T15:20:30+01:00",
-    "updated_at": "2023-11-04T15:23:58+01:00",
+    "updated_at": "2023-11-04T16:36:03+01:00",
     "media_id": "93hxaq8a78pg",
     "duration": null,
     "canonical_section": {
@@ -139,13 +300,13 @@
   },
   {
     "id": 6288280,
-    "slug": "verstappen-strijdt-in-q3-om-poleposition-voor-sprintrace-brazilie",
+    "slug": "polesitter-norris-moet-zich-melden-bij-wedstrijdleiding-na-sprintkwalificatie",
     "type": "article",
-    "title": "Verstappen strijdt in Q3 om poleposition voor sprintrace Brazilië",
+    "title": "Polesitter Norris moet zich melden bij wedstrijdleiding na sprintkwalificatie",
     "subtitle": "Liveblog",
     "published_at": "2023-11-04T14:56:21+01:00",
-    "updated_at": "2023-11-04T15:53:47+01:00",
-    "media_id": "i0ixrhnadwig",
+    "updated_at": "2023-11-04T16:26:20+01:00",
+    "media_id": "4t2xz2uatr6q",
     "duration": null,
     "canonical_section": {
       "id": 1772449,
@@ -156,7 +317,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/formule-1/6288280/verstappen-strijdt-in-q3-om-poleposition-voor-sprintrace-brazilie.html",
+    "url": "/formule-1/6288280/polesitter-norris-moet-zich-melden-bij-wedstrijdleiding-na-sprintkwalificatie.html",
     "open_new_window": false,
     "partner": null
   },
@@ -254,12 +415,12 @@
   },
   {
     "id": 6288274,
-    "slug": "ek-judo-loopt-voor-polling-uit-op-deceptie-van-dijke-en-van-lieshout-wel-door",
+    "slug": "ek-judo-loopt-voor-polling-uit-op-deceptie-van-dijke-nog-in-de-race-voor-brons",
     "type": "article",
-    "title": "EK judo loopt voor Polling uit op deceptie, Van Dijke en Van Lieshout wél door",
+    "title": "EK judo loopt voor Polling uit op deceptie, Van Dijke nog in de race voor brons",
     "subtitle": null,
     "published_at": "2023-11-04T13:43:26+01:00",
-    "updated_at": "2023-11-04T14:00:28+01:00",
+    "updated_at": "2023-11-04T16:23:25+01:00",
     "media_id": "nyzxq3ya04mx",
     "duration": null,
     "canonical_section": {
@@ -271,7 +432,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/sport-overig/6288274/ek-judo-loopt-voor-polling-uit-op-deceptie-van-dijke-en-van-lieshout-wel-door.html",
+    "url": "/sport-overig/6288274/ek-judo-loopt-voor-polling-uit-op-deceptie-van-dijke-nog-in-de-race-voor-brons.html",
     "open_new_window": false,
     "partner": null
   },
@@ -323,12 +484,12 @@
   },
   {
     "id": 6288269,
-    "slug": "meerdere-doden-bij-aanval-op-schuilplaats-israel-opent-tijdelijke-vluchtroute",
+    "slug": "doden-bij-aanval-op-schuilplaats-israel-opent-tijdelijke-vluchtroute",
     "type": "article",
-    "title": "Meerdere doden bij aanval op schuilplaats, Israël opent tijdelijke vluchtroute",
+    "title": "Doden bij aanval op schuilplaats, Israël opent tijdelijke vluchtroute",
     "subtitle": "Overzicht",
     "published_at": "2023-11-04T12:53:21+01:00",
-    "updated_at": "2023-11-04T14:11:23+01:00",
+    "updated_at": "2023-11-04T16:43:55+01:00",
     "media_id": "vz3xcf9ax4eb",
     "duration": null,
     "canonical_section": {
@@ -340,7 +501,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/buitenland/6288269/meerdere-doden-bij-aanval-op-schuilplaats-israel-opent-tijdelijke-vluchtroute.html",
+    "url": "/buitenland/6288269/doden-bij-aanval-op-schuilplaats-israel-opent-tijdelijke-vluchtroute.html",
     "open_new_window": false,
     "partner": null
   },
@@ -351,7 +512,7 @@
     "title": "Albumcover Anouk was laatste klus van Erwin Olaf: 'Bitterzoet'",
     "subtitle": null,
     "published_at": "2023-11-04T11:52:22+01:00",
-    "updated_at": "2023-11-04T12:46:48+01:00",
+    "updated_at": "2023-11-04T16:41:56+01:00",
     "media_id": "bsrxh2wa0tpk",
     "duration": null,
     "canonical_section": {
@@ -374,7 +535,7 @@
     "title": "Duitse minister wil geen vierdaagse werkweek: 'Welvaart verbetert er niet van'",
     "subtitle": null,
     "published_at": "2023-11-04T11:46:57+01:00",
-    "updated_at": "2023-11-04T12:30:33+01:00",
+    "updated_at": "2023-11-04T16:43:25+01:00",
     "media_id": "n0ex22ba8ow6",
     "duration": null,
     "canonical_section": {
@@ -489,7 +650,7 @@
     "title": "Elfjarige jongen overleden na metershoge val van klimmuur in Amsterdam",
     "subtitle": null,
     "published_at": "2023-11-04T11:08:21+01:00",
-    "updated_at": "2023-11-04T12:03:22+01:00",
+    "updated_at": "2023-11-04T16:41:00+01:00",
     "media_id": "qlzx6mca3145",
     "duration": null,
     "canonical_section": {
@@ -525,167 +686,6 @@
       "partner": null
     },
     "url": "/binnenland/6288262/busje-rijdt-meerdere-keren-in-op-pui-gemeentehuis-rhenen-man-23-opgepakt.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6288261,
-    "slug": "auto-brandt-uit-na-frontale-botsing-met-politie-in-limburg",
-    "type": "video",
-    "title": "Auto brandt uit na frontale botsing met politie in Limburg",
-    "subtitle": "Video",
-    "published_at": "2023-11-04T10:33:00+01:00",
-    "updated_at": "2023-11-04T10:37:09+01:00",
-    "media_id": "1r6x0o6astrg",
-    "duration": "0:36",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6288261/auto-brandt-uit-na-frontale-botsing-met-politie-in-limburg.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6288258,
-    "slug": "bas-muijs-staat-na-zware-periode-weer-in-het-theater-dankbaar-dat-het-weer-kan",
-    "type": "article",
-    "title": "Bas Muijs staat na zware periode weer in het theater: 'Dankbaar dat het weer kan'",
-    "subtitle": null,
-    "published_at": "2023-11-04T09:59:23+01:00",
-    "updated_at": "2023-11-04T10:10:56+01:00",
-    "media_id": "033xw8gart41",
-    "duration": null,
-    "canonical_section": {
-      "id": 125,
-      "slug": "achterklap",
-      "type": "default",
-      "name": "Achterklap",
-      "style": "nuentertainment",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/achterklap/6288258/bas-muijs-staat-na-zware-periode-weer-in-het-theater-dankbaar-dat-het-weer-kan.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6288140,
-    "slug": "crompouce-of-frikanpouce-heb-jij-deze-trend-al-geproefd",
-    "type": "article",
-    "title": "Crompouce of frikanpouce: heb jij deze trend al geproefd?",
-    "subtitle": "Praat Mee",
-    "published_at": "2023-11-04T09:32:44+01:00",
-    "updated_at": "2023-11-04T11:30:27+01:00",
-    "media_id": "wefx2l8ahzrh",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779134,
-      "slug": "stelling",
-      "type": "default",
-      "name": "Stelling en Praat Mee",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/stelling/6288140/crompouce-of-frikanpouce-heb-jij-deze-trend-al-geproefd.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6288256,
-    "slug": "ten-hag-over-feestende-rashford-na-forse-derbynederlaag-het-is-onacceptabel",
-    "type": "article",
-    "title": "Ten Hag over feestende Rashford na forse derbynederlaag: 'Het is onacceptabel'",
-    "subtitle": null,
-    "published_at": "2023-11-04T09:32:42+01:00",
-    "updated_at": "2023-11-04T15:57:50+01:00",
-    "media_id": "a30xouuay5er",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6288256/ten-hag-over-feestende-rashford-na-forse-derbynederlaag-het-is-onacceptabel.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6288254,
-    "slug": "huup-huup-barbatruc-barbapapa-na-vijftig-jaar-opgenomen-in-van-dale",
-    "type": "article",
-    "title": "'Huup, Huup, Barbatruc!': Barbapapa na vijftig jaar opgenomen in Van Dale",
-    "subtitle": null,
-    "published_at": "2023-11-04T09:11:55+01:00",
-    "updated_at": "2023-11-04T11:11:35+01:00",
-    "media_id": "t1pxmi4a4k29",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772242,
-      "slug": "entertainment",
-      "type": "default",
-      "name": "Media en Cultuur",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/entertainment/6288254/huup-huup-barbatruc-barbapapa-na-vijftig-jaar-opgenomen-in-van-dale.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6288255,
-    "slug": "nepalese-hulpdiensten-draaien-overuren-na-dodelijke-aardbeving",
-    "type": "video",
-    "title": "Nepalese hulpdiensten draaien overuren na dodelijke aardbeving",
-    "subtitle": "Video",
-    "published_at": "2023-11-04T09:04:56+01:00",
-    "updated_at": "2023-11-04T09:04:58+01:00",
-    "media_id": "xbpx9uuasavp",
-    "duration": "0:48",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6288255/nepalese-hulpdiensten-draaien-overuren-na-dodelijke-aardbeving.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6288252,
-    "slug": "rojer-verrast-door-breuk-met-arevalo-de-wereld-van-dubbelspelers-is-soms-lelijk",
-    "type": "article",
-    "title": "Rojer verrast door breuk met Arévalo: 'De wereld van dubbelspelers is soms lelijk'",
-    "subtitle": null,
-    "published_at": "2023-11-04T08:47:09+01:00",
-    "updated_at": "2023-11-04T09:15:38+01:00",
-    "media_id": "2kxxid6ap47z",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772432,
-      "slug": "tennis",
-      "type": "default",
-      "name": "Tennis",
-      "style": "nusport",
-      "media_id": "m1oxohpan0gq",
-      "partner": null
-    },
-    "url": "/tennis/6288252/rojer-verrast-door-breuk-met-arevalo-de-wereld-van-dubbelspelers-is-soms-lelijk.html",
     "open_new_window": false,
     "partner": null
   }
