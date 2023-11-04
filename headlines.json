@@ -1,12 +1,35 @@
 [
   {
-    "id": 6288218,
-    "slug": "vrijwel-geen-treinen-van-en-naar-utrecht-centraal",
+    "id": 6288219,
+    "slug": "tientallen-doden-en-gewonden-door-aardbeving-in-nepal",
     "type": "article",
-    "title": "Vrijwel geen treinen van en naar Utrecht Centraal",
+    "title": "Tientallen doden en gewonden door aardbeving in Nepal",
+    "subtitle": null,
+    "published_at": "2023-11-04T00:12:38+01:00",
+    "updated_at": "2023-11-04T00:34:46+01:00",
+    "media_id": "0xwxtybabfm6",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6288219/tientallen-doden-en-gewonden-door-aardbeving-in-nepal.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6288218,
+    "slug": "treinverkeer-rond-utrecht-centraal-ontregeld-door-melding-van-persoon-op-spoor",
+    "type": "article",
+    "title": "Treinverkeer rond Utrecht Centraal ontregeld door melding van persoon op spoor",
     "subtitle": null,
     "published_at": "2023-11-03T23:47:09+01:00",
-    "updated_at": "2023-11-03T23:47:10+01:00",
+    "updated_at": "2023-11-04T00:48:06+01:00",
     "media_id": "82jxx0aacwls",
     "duration": null,
     "canonical_section": {
@@ -18,7 +41,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/binnenland/6288218/vrijwel-geen-treinen-van-en-naar-utrecht-centraal.html",
+    "url": "/binnenland/6288218/treinverkeer-rond-utrecht-centraal-ontregeld-door-melding-van-persoon-op-spoor.html",
     "open_new_window": false,
     "partner": null
   },
@@ -98,7 +121,7 @@
     "title": "Mercedes nog ver van herhaling winst uit 2022: 'Niet goed ingespeeld op weer'",
     "subtitle": null,
     "published_at": "2023-11-03T22:51:54+01:00",
-    "updated_at": "2023-11-03T22:58:45+01:00",
+    "updated_at": "2023-11-04T00:04:48+01:00",
     "media_id": "s32x0uxaqry3",
     "duration": null,
     "canonical_section": {
@@ -282,7 +305,7 @@
     "title": "Verstappen pakt vlak voor losbarsten noodweer pole in São Paulo",
     "subtitle": null,
     "published_at": "2023-11-03T20:15:12+01:00",
-    "updated_at": "2023-11-03T22:52:04+01:00",
+    "updated_at": "2023-11-04T00:06:17+01:00",
     "media_id": "ai7xtnva9crv",
     "duration": null,
     "canonical_section": {
@@ -663,29 +686,6 @@
       "partner": null
     },
     "url": "/sport-overig/6288167/nieuw-wk-succes-nederlandse-cricketers-blijft-uit-tegen-afghanistan.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6288159,
-    "slug": "ten-hag-gelooft-in-ommekeer-bij-dolend-united-we-zullen-ons-terugvechten",
-    "type": "article",
-    "title": "Ten Hag gelooft in ommekeer bij dolend United: 'We zullen ons terugvechten'",
-    "subtitle": null,
-    "published_at": "2023-11-03T16:45:49+01:00",
-    "updated_at": "2023-11-03T16:45:50+01:00",
-    "media_id": "4xnxhk2ai4nl",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6288159/ten-hag-gelooft-in-ommekeer-bij-dolend-united-we-zullen-ons-terugvechten.html",
     "open_new_window": false,
     "partner": null
   }
