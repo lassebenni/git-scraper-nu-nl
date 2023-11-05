@@ -1,12 +1,127 @@
 [
   {
-    "id": 6288359,
-    "slug": "president-ecb-denkt-dat-inflatie-in-2025-doelstelling-weer-haalt",
+    "id": 6288366,
+    "slug": "duizenden-mensen-bij-parade-voor-dag-van-de-doden-in-mexico-stad",
+    "type": "video",
+    "title": "Duizenden mensen bij parade voor Dag van de Doden in Mexico-Stad",
+    "subtitle": "Video",
+    "published_at": "2023-11-05T10:53:59+01:00",
+    "updated_at": "2023-11-05T10:54:01+01:00",
+    "media_id": "6w7xyt0ambqg",
+    "duration": "0:45",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6288366/duizenden-mensen-bij-parade-voor-dag-van-de-doden-in-mexico-stad.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6288365,
+    "slug": "politie-denkt-dat-overleden-abseiler-heerlen-om-het-leven-kwam-door-ongeluk",
     "type": "article",
-    "title": "President ECB denkt dat inflatie in 2025 doelstelling weer haalt",
+    "title": "Politie denkt dat overleden abseiler Heerlen om het leven kwam door ongeluk",
+    "subtitle": null,
+    "published_at": "2023-11-05T10:52:08+01:00",
+    "updated_at": "2023-11-05T10:59:21+01:00",
+    "media_id": "3b6xinbalo1o",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6288365/politie-denkt-dat-overleden-abseiler-heerlen-om-het-leven-kwam-door-ongeluk.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6288364,
+    "slug": "arsenal-coach-arteta-woest-op-arbitrage-na-eerste-verlies-het-is-een-schande",
+    "type": "article",
+    "title": "Arsenal-coach Arteta woest op arbitrage na eerste verlies: 'Het is een schande'",
+    "subtitle": null,
+    "published_at": "2023-11-05T10:51:50+01:00",
+    "updated_at": "2023-11-05T10:53:29+01:00",
+    "media_id": "cyjxxqcakuxe",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6288364/arsenal-coach-arteta-woest-op-arbitrage-na-eerste-verlies-het-is-een-schande.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6288117,
+    "slug": "goed-nieuws-van-deze-week-chemotests-vergoed-en-een-nieuw-wereldrecord",
+    "type": "article",
+    "title": "Goed nieuws van deze week: Chemotests vergoed en een nieuw wereldrecord",
+    "subtitle": null,
+    "published_at": "2023-11-05T10:32:14+01:00",
+    "updated_at": "2023-11-05T10:32:15+01:00",
+    "media_id": "7tdx8ulabpr5",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779220,
+      "slug": "goed-nieuws",
+      "type": "default",
+      "name": "Goed nieuws",
+      "style": "nuoverig",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/goed-nieuws/6288117/goed-nieuws-van-deze-week-chemotests-vergoed-en-een-nieuw-wereldrecord.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6288361,
+    "slug": "china-gaat-import-opschroeven-en-wil-meer-zaken-doen-met-buitenland",
+    "type": "article",
+    "title": "China gaat import opschroeven en wil meer zaken doen met buitenland",
+    "subtitle": null,
+    "published_at": "2023-11-05T10:22:26+01:00",
+    "updated_at": "2023-11-05T10:46:57+01:00",
+    "media_id": "46hxhr8atx4m",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6288361/china-gaat-import-opschroeven-en-wil-meer-zaken-doen-met-buitenland.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6288359,
+    "slug": "ecb-president-lagarde-denkt-dat-inflatie-in-2025-genoeg-is-gedaald",
+    "type": "article",
+    "title": "ECB-president Lagarde denkt dat inflatie in 2025 genoeg is gedaald",
     "subtitle": null,
     "published_at": "2023-11-05T09:49:45+01:00",
-    "updated_at": "2023-11-05T09:49:46+01:00",
+    "updated_at": "2023-11-05T10:47:45+01:00",
     "media_id": "1n9x0qlas3ui",
     "duration": null,
     "canonical_section": {
@@ -18,7 +133,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/economie/6288359/president-ecb-denkt-dat-inflatie-in-2025-doelstelling-weer-haalt.html",
+    "url": "/economie/6288359/ecb-president-lagarde-denkt-dat-inflatie-in-2025-genoeg-is-gedaald.html",
     "open_new_window": false,
     "partner": null
   },
@@ -52,7 +167,7 @@
     "title": "Fietser (16) overleden na aanrijding met taxi in Hellendoorn",
     "subtitle": null,
     "published_at": "2023-11-05T08:35:02+01:00",
-    "updated_at": "2023-11-05T08:40:44+01:00",
+    "updated_at": "2023-11-05T10:47:10+01:00",
     "media_id": "xp8xutxa0ity",
     "duration": null,
     "canonical_section": {
@@ -190,7 +305,7 @@
     "title": "Boegeroep en kritiek laten dankbare Verhoeven koud na wéér een zege",
     "subtitle": "NU+",
     "published_at": "2023-11-05T06:44:46+01:00",
-    "updated_at": "2023-11-05T08:47:18+01:00",
+    "updated_at": "2023-11-05T10:49:47+01:00",
     "media_id": "0flxlv3ae6p1",
     "duration": null,
     "canonical_section": {
@@ -282,7 +397,7 @@
     "title": "Gijzeling om voogdijgeschil nog steeds gaande op Hamburgs vliegveld",
     "subtitle": null,
     "published_at": "2023-11-05T05:22:21+01:00",
-    "updated_at": "2023-11-05T09:53:02+01:00",
+    "updated_at": "2023-11-05T10:02:06+01:00",
     "media_id": "wbtxaz0aukzr",
     "duration": null,
     "canonical_section": {
@@ -305,7 +420,7 @@
     "title": "Europese nerts kan de oplossing zijn om exotische kreeft te bestrijden",
     "subtitle": "NU+",
     "published_at": "2023-11-05T05:03:42+01:00",
-    "updated_at": "2023-11-05T05:03:43+01:00",
+    "updated_at": "2023-11-05T10:59:31+01:00",
     "media_id": "noqxzf1a8haz",
     "duration": null,
     "canonical_section": {
@@ -466,7 +581,7 @@
     "title": "Stop met machteloze coureurs vragen naar hun mening over sprintraces",
     "subtitle": "NU+",
     "published_at": "2023-11-05T00:03:03+01:00",
-    "updated_at": "2023-11-05T07:56:02+01:00",
+    "updated_at": "2023-11-05T10:55:58+01:00",
     "media_id": "ivcxiq5afx0w",
     "duration": null,
     "canonical_section": {
@@ -512,7 +627,7 @@
     "title": "Feyenoord en PSV treffen Eredivisie-clubs in beker, Ajax naar amateurs",
     "subtitle": null,
     "published_at": "2023-11-04T23:35:45+01:00",
-    "updated_at": "2023-11-05T07:59:53+01:00",
+    "updated_at": "2023-11-05T10:31:26+01:00",
     "media_id": "h1fx9nwaixm8",
     "duration": null,
     "canonical_section": {
@@ -571,121 +686,6 @@
       "partner": null
     },
     "url": "/sport-overig/6288335/de-mooiste-fotos-van-het-titelgevecht-van-rico-verhoeven.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6288334,
-    "slug": "limburgse-emmy-ackermans-wint-regio-songfestival",
-    "type": "article",
-    "title": "Limburgse Emmy Ackermans wint Regio Songfestival",
-    "subtitle": null,
-    "published_at": "2023-11-04T23:22:48+01:00",
-    "updated_at": "2023-11-05T05:30:55+01:00",
-    "media_id": "ed9xiszagaru",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772242,
-      "slug": "entertainment",
-      "type": "default",
-      "name": "Media en Cultuur",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/entertainment/6288334/limburgse-emmy-ackermans-wint-regio-songfestival.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6288330,
-    "slug": "slot-kritisch-na-panenka-gimenez-vertrouwen-moet-niet-overgaan-in-arrogantie",
-    "type": "article",
-    "title": "Slot kritisch na panenka Giménez: 'Vertrouwen moet niet overgaan in arrogantie'",
-    "subtitle": null,
-    "published_at": "2023-11-04T22:38:00+01:00",
-    "updated_at": "2023-11-04T23:22:32+01:00",
-    "media_id": "bsrx6xyaejz0",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6288330/slot-kritisch-na-panenka-gimenez-vertrouwen-moet-niet-overgaan-in-arrogantie.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6288307,
-    "slug": "rico-verhoeven-verslaat-tariq-osaro-en-blijft-heersen-als-zwaargewichtkampioen",
-    "type": "article",
-    "title": "Rico Verhoeven verslaat Tariq Osaro en blijft heersen als zwaargewichtkampioen",
-    "subtitle": null,
-    "published_at": "2023-11-04T22:36:48+01:00",
-    "updated_at": "2023-11-05T07:58:52+01:00",
-    "media_id": "683xiaiak8ih",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772456,
-      "slug": "sport-overig",
-      "type": "default",
-      "name": "Sport Overig",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/sport-overig/6288307/rico-verhoeven-verslaat-tariq-osaro-en-blijft-heersen-als-zwaargewichtkampioen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6288327,
-    "slug": "vliegverkeer-hamburg-stilgelegd-en-luchthaven-gesloten-wegens-gewapende-man",
-    "type": "article",
-    "title": "Vliegverkeer Hamburg stilgelegd en luchthaven gesloten wegens gewapende man",
-    "subtitle": null,
-    "published_at": "2023-11-04T22:09:59+01:00",
-    "updated_at": "2023-11-04T23:04:45+01:00",
-    "media_id": "75mx1diak64z",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6288327/vliegverkeer-hamburg-stilgelegd-en-luchthaven-gesloten-wegens-gewapende-man.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6288323,
-    "slug": "eu-topvrouw-brengt-lidmaatschap-oekraine-iets-dichterbij-tijdens-bezoek-aan-kyiv",
-    "type": "article",
-    "title": "EU-topvrouw brengt lidmaatschap Oekraïne iets dichterbij tijdens bezoek aan Kyiv",
-    "subtitle": null,
-    "published_at": "2023-11-04T21:48:25+01:00",
-    "updated_at": "2023-11-04T21:56:54+01:00",
-    "media_id": "k2nxbj4ar66u",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6288323/eu-topvrouw-brengt-lidmaatschap-oekraine-iets-dichterbij-tijdens-bezoek-aan-kyiv.html",
     "open_new_window": false,
     "partner": null
   }
