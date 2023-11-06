@@ -1,12 +1,35 @@
 [
   {
+    "id": 6288441,
+    "slug": "verstappen-laat-red-bull-beter-lijken-dan-het-is",
+    "type": "audio",
+    "title": "'Verstappen laat Red Bull beter lijken dan het is'",
+    "subtitle": "Podcast De Boordradio",
+    "published_at": "2023-11-06T01:43:36+01:00",
+    "updated_at": "2023-11-06T01:55:43+01:00",
+    "media_id": "36tx2lgapggp",
+    "duration": null,
+    "canonical_section": {
+      "id": 1776659,
+      "slug": "de-boordradio",
+      "type": "default",
+      "name": "De Boordradio",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/de-boordradio/6288441/verstappen-laat-red-bull-beter-lijken-dan-het-is.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6288440,
-    "slug": "omtzigt-yesilgoz-en-timmermans-voelen-elkaar-in-tweede-debat-wel-aan-de-tand",
+    "slug": "omtzigt-yesilgoz-en-timmermans-in-tweede-optreden-wel-stevig-in-debat",
     "type": "article",
-    "title": "Omtzigt, Yesilgöz en Timmermans voelen elkaar in tweede debat wel aan de tand",
+    "title": "Omtzigt, Yesilgöz en Timmermans in tweede optreden wel stevig in debat",
     "subtitle": null,
     "published_at": "2023-11-06T00:43:42+01:00",
-    "updated_at": "2023-11-06T00:50:05+01:00",
+    "updated_at": "2023-11-06T01:12:10+01:00",
     "media_id": "4s7xc6mah5qn",
     "duration": null,
     "canonical_section": {
@@ -18,7 +41,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/politiek/6288440/omtzigt-yesilgoz-en-timmermans-voelen-elkaar-in-tweede-debat-wel-aan-de-tand.html",
+    "url": "/politiek/6288440/omtzigt-yesilgoz-en-timmermans-in-tweede-optreden-wel-stevig-in-debat.html",
     "open_new_window": false,
     "partner": null
   },
@@ -213,7 +236,7 @@
     "title": "Verstappen zag Norris 'opeens' dichtbij komen, maar had toch zijn marge in Brazilië",
     "subtitle": null,
     "published_at": "2023-11-05T21:47:20+01:00",
-    "updated_at": "2023-11-05T22:19:00+01:00",
+    "updated_at": "2023-11-06T01:44:42+01:00",
     "media_id": "d1txrrfal2v6",
     "duration": null,
     "canonical_section": {
@@ -374,7 +397,7 @@
     "title": "Verstappen wint ook in Brazilië en verbetert record uit 1952",
     "subtitle": null,
     "published_at": "2023-11-05T20:02:12+01:00",
-    "updated_at": "2023-11-05T22:13:00+01:00",
+    "updated_at": "2023-11-06T01:44:17+01:00",
     "media_id": "o77xoxxaj2hn",
     "duration": null,
     "canonical_section": {
@@ -663,29 +686,6 @@
       "partner": null
     },
     "url": "/formule-1/6288402/reacties-na-fraaie-zege-verstappen-in-sao-paulo.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6288000,
-    "slug": "slim-recyclen-hier-kun-je-terecht-met-restjes-verf-en-lege-batterijen",
-    "type": "article",
-    "title": "Slim recyclen: hier kun je terecht met restjes verf en lege batterijen",
-    "subtitle": "NU+",
-    "published_at": "2023-11-05T17:21:40+01:00",
-    "updated_at": "2023-11-05T17:21:42+01:00",
-    "media_id": "w1dx4ofay4mf",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779236,
-      "slug": "nuverder",
-      "type": "default",
-      "name": "Dagelijks leven",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/nuverder/6288000/slim-recyclen-hier-kun-je-terecht-met-restjes-verf-en-lege-batterijen.html",
     "open_new_window": false,
     "partner": null
   }
