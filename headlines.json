@@ -1,5 +1,28 @@
 [
   {
+    "id": 6288442,
+    "slug": "is-alonso-op-het-podium-een-incident-niet-alle-updates-werkten",
+    "type": "video",
+    "title": "Is Alonso op het podium een incident? 'Niet alle updates werkten'",
+    "subtitle": "Explainer",
+    "published_at": "2023-11-06T03:23:50+01:00",
+    "updated_at": "2023-11-06T03:23:51+01:00",
+    "media_id": "o3fx95eapj9w",
+    "duration": "2:04",
+    "canonical_section": {
+      "id": 1772449,
+      "slug": "formule-1",
+      "type": "default",
+      "name": "Formule 1",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/formule-1/6288442/is-alonso-op-het-podium-een-incident-niet-alle-updates-werkten.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6288441,
     "slug": "verstappen-laat-red-bull-nog-beter-lijken-dan-het-is",
     "type": "audio",
@@ -259,7 +282,7 @@
     "title": "Alonso had niet meer op podiumplek gerekend: 'Maar ik kreeg toch nog een kans'",
     "subtitle": null,
     "published_at": "2023-11-05T21:29:17+01:00",
-    "updated_at": "2023-11-05T22:02:46+01:00",
+    "updated_at": "2023-11-06T03:24:11+01:00",
     "media_id": "0p8xw2da4t01",
     "duration": null,
     "canonical_section": {
@@ -397,7 +420,7 @@
     "title": "Verstappen wint ook in Brazilië en verbetert record uit 1952",
     "subtitle": null,
     "published_at": "2023-11-05T20:02:12+01:00",
-    "updated_at": "2023-11-06T01:44:17+01:00",
+    "updated_at": "2023-11-06T03:30:50+01:00",
     "media_id": "o77xoxxaj2hn",
     "duration": null,
     "canonical_section": {
@@ -461,12 +484,12 @@
   },
   {
     "id": 6288411,
-    "slug": "opnieuw-vluchtelingenkampen-gaza-gebombardeerd-en-netwerk-afgesloten",
+    "slug": "vluchtelingenkampen-gaza-weer-gebombardeerd-netwerk-afgesloten",
     "type": "article",
-    "title": "Opnieuw vluchtelingenkampen Gaza gebombardeerd en netwerk afgesloten",
+    "title": "Vluchtelingenkampen Gaza weer gebombardeerd, netwerk afgesloten",
     "subtitle": "Overzicht",
     "published_at": "2023-11-05T19:07:43+01:00",
-    "updated_at": "2023-11-05T19:57:46+01:00",
+    "updated_at": "2023-11-06T03:30:15+01:00",
     "media_id": "1vmx6d1a0glg",
     "duration": null,
     "canonical_section": {
@@ -478,7 +501,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/binnenland-en-buitenland/6288411/opnieuw-vluchtelingenkampen-gaza-gebombardeerd-en-netwerk-afgesloten.html",
+    "url": "/binnenland-en-buitenland/6288411/vluchtelingenkampen-gaza-weer-gebombardeerd-netwerk-afgesloten.html",
     "open_new_window": false,
     "partner": null
   },
@@ -663,29 +686,6 @@
       "partner": null
     },
     "url": "/sport-overig/6288401/nageeye-net-buiten-podium-marathon-van-new-york-tola-loopt-solo-naar-winst.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6288402,
-    "slug": "reacties-na-fraaie-zege-verstappen-in-sao-paulo",
-    "type": "article",
-    "title": "Reacties na fraaie zege Verstappen in São Paulo",
-    "subtitle": "Liveblog",
-    "published_at": "2023-11-05T17:31:37+01:00",
-    "updated_at": "2023-11-05T20:57:04+01:00",
-    "media_id": "9uixbwjaln5t",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772449,
-      "slug": "formule-1",
-      "type": "default",
-      "name": "Formule 1",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/formule-1/6288402/reacties-na-fraaie-zege-verstappen-in-sao-paulo.html",
     "open_new_window": false,
     "partner": null
   }
