@@ -1,12 +1,58 @@
 [
   {
+    "id": 6288600,
+    "slug": "kpn-pompt-45-miljard-euro-in-5g-glasvezel-en-kunstmatige-intelligentie",
+    "type": "article",
+    "title": "KPN pompt 4,5 miljard euro in 5G, glasvezel en kunstmatige intelligentie",
+    "subtitle": null,
+    "published_at": "2023-11-07T09:22:55+01:00",
+    "updated_at": "2023-11-07T09:22:57+01:00",
+    "media_id": "h3jx1f6amld8",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771438,
+      "slug": "tech",
+      "type": "default",
+      "name": "Tech",
+      "style": "nutech",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/tech/6288600/kpn-pompt-45-miljard-euro-in-5g-glasvezel-en-kunstmatige-intelligentie.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6288598,
+    "slug": "bank-ubs-lijdt-voor-het-eerst-in-jaren-verlies-na-overname-credit-suisse",
+    "type": "article",
+    "title": "Bank UBS lijdt voor het eerst in jaren verlies na overname Credit Suisse",
+    "subtitle": null,
+    "published_at": "2023-11-07T09:01:52+01:00",
+    "updated_at": "2023-11-07T09:01:53+01:00",
+    "media_id": "238xc5vaq63g",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6288598/bank-ubs-lijdt-voor-het-eerst-in-jaren-verlies-na-overname-credit-suisse.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6288595,
     "slug": "koeman-kritisch-op-brobbey-eerste-aanname-en-manier-van-afwerken-niet-goed",
     "type": "article",
     "title": "Koeman kritisch op Brobbey: 'Eerste aanname en manier van afwerken niet goed'",
     "subtitle": null,
     "published_at": "2023-11-07T08:54:15+01:00",
-    "updated_at": "2023-11-07T08:54:16+01:00",
+    "updated_at": "2023-11-07T09:02:32+01:00",
     "media_id": "avkxdnaaqylq",
     "duration": null,
     "canonical_section": {
@@ -466,7 +512,7 @@
     "title": "Prinses Beatrix is aangekomen op Curaçao, natuur staat centraal bij bezoek",
     "subtitle": null,
     "published_at": "2023-11-07T00:07:39+01:00",
-    "updated_at": "2023-11-07T07:45:54+01:00",
+    "updated_at": "2023-11-07T09:24:25+01:00",
     "media_id": "k6qxzgpacfga",
     "duration": null,
     "canonical_section": {
@@ -640,52 +686,6 @@
       "partner": null
     },
     "url": "/voetbal/6288571/diks-ziet-kopenhagen-voor-eigen-publiek-als-favoriet-tegen-manchester-united.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6288570,
-    "slug": "actievoerders-gaan-schilderij-in-londens-museum-te-lijf",
-    "type": "video",
-    "title": "Actievoerders gaan schilderij in Londens museum te lijf",
-    "subtitle": "Video",
-    "published_at": "2023-11-06T21:19:07+01:00",
-    "updated_at": "2023-11-06T21:19:07+01:00",
-    "media_id": "xggxdppapwhy",
-    "duration": "0:56",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6288570/actievoerders-gaan-schilderij-in-londens-museum-te-lijf.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6288569,
-    "slug": "man-opgepakt-omdat-hij-op-burgemeester-wil-inrijden-geaardheid-mogelijk-motief",
-    "type": "article",
-    "title": "Man opgepakt omdat hij op burgemeester wil inrijden, geaardheid mogelijk motief",
-    "subtitle": null,
-    "published_at": "2023-11-06T21:11:13+01:00",
-    "updated_at": "2023-11-06T22:03:27+01:00",
-    "media_id": "yvsxlpwafsqb",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6288569/man-opgepakt-omdat-hij-op-burgemeester-wil-inrijden-geaardheid-mogelijk-motief.html",
     "open_new_window": false,
     "partner": null
   }
