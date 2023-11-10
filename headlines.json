@@ -1,5 +1,97 @@
 [
   {
+    "id": 6289183,
+    "slug": "nec-spits-bas-dost-verlaat-ziekenhuis-met-inwendige-defibrillator",
+    "type": "article",
+    "title": "NEC-spits Bas Dost verlaat ziekenhuis met inwendige defibrillator",
+    "subtitle": null,
+    "published_at": "2023-11-10T17:32:22+01:00",
+    "updated_at": "2023-11-10T17:57:56+01:00",
+    "media_id": "cezxm5daon6t",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6289183/nec-spits-bas-dost-verlaat-ziekenhuis-met-inwendige-defibrillator.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6289163,
+    "slug": "iets-droger-maar-begin-volgende-week-wordt-weer-kletsnat",
+    "type": "article",
+    "title": "Iets droger, maar begin volgende week wordt weer kletsnat",
+    "subtitle": "Weekendweerbericht",
+    "published_at": "2023-11-10T17:14:24+01:00",
+    "updated_at": "2023-11-10T17:18:33+01:00",
+    "media_id": "irexdbdat8en",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779283,
+      "slug": "weerbericht",
+      "type": "default",
+      "name": "Weerbericht",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/weerbericht/6289163/iets-droger-maar-begin-volgende-week-wordt-weer-kletsnat.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6289180,
+    "slug": "schapen-verkassen-naar-brabants-eiland-om-broedvogels-te-helpen",
+    "type": "video",
+    "title": "Schapen verkassen naar Brabants eiland om broedvogels te helpen",
+    "subtitle": "Video",
+    "published_at": "2023-11-10T17:14:07+01:00",
+    "updated_at": "2023-11-10T17:14:09+01:00",
+    "media_id": "wkixmwwaz8iz",
+    "duration": "0:50",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6289180/schapen-verkassen-naar-brabants-eiland-om-broedvogels-te-helpen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6289178,
+    "slug": "suzanne-schulting-laat-grote-hechting-op-rug-zien-tijdens-trainingssessie",
+    "type": "article",
+    "title": "Suzanne Schulting laat grote hechting op rug zien tijdens trainingssessie",
+    "subtitle": null,
+    "published_at": "2023-11-10T17:13:42+01:00",
+    "updated_at": "2023-11-10T17:13:43+01:00",
+    "media_id": "75fxtvpadgb4",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772452,
+      "slug": "schaatsen",
+      "type": "default",
+      "name": "Schaatsen",
+      "style": "nusport",
+      "media_id": "5ktx9n6axubw",
+      "partner": null
+    },
+    "url": "/schaatsen/6289178/suzanne-schulting-laat-grote-hechting-op-rug-zien-tijdens-trainingssessie.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6289173,
     "slug": "brandweer-haalt-gifgroen-water-uit-riool-in-breda",
     "type": "video",
@@ -190,7 +282,7 @@
     "title": "OM eist maand voorwaardelijk tegen agent die op trekker met 16-jarige schoot",
     "subtitle": null,
     "published_at": "2023-11-10T15:11:53+01:00",
-    "updated_at": "2023-11-10T16:57:07+01:00",
+    "updated_at": "2023-11-10T17:33:15+01:00",
     "media_id": "fvzx0qua61lc",
     "duration": null,
     "canonical_section": {
@@ -420,7 +512,7 @@
     "title": "Man die burgemeester Drimmelen wilde aanrijden krijgt contactverbod",
     "subtitle": null,
     "published_at": "2023-11-10T12:48:50+01:00",
-    "updated_at": "2023-11-10T13:45:05+01:00",
+    "updated_at": "2023-11-10T17:24:54+01:00",
     "media_id": "bonxei8axwez",
     "duration": null,
     "canonical_section": {
@@ -594,98 +686,6 @@
       "partner": null
     },
     "url": "/voetbal/6289116/burak-yilmaz-stapt-al-na-een-maand-op-als-trainer-van-besiktas.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6289114,
-    "slug": "filmstudios-maken-nieuwe-releasedata-captain-america-en-deadpool-3-bekend",
-    "type": "article",
-    "title": "Filmstudio's maken nieuwe releasedata Captain America en Deadpool 3 bekend",
-    "subtitle": null,
-    "published_at": "2023-11-10T11:18:08+01:00",
-    "updated_at": "2023-11-10T11:18:09+01:00",
-    "media_id": "f1rxgeiay4u0",
-    "duration": null,
-    "canonical_section": {
-      "id": 127,
-      "slug": "film",
-      "type": "default",
-      "name": "Films & Series",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/film/6289114/filmstudios-maken-nieuwe-releasedata-captain-america-en-deadpool-3-bekend.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6289111,
-    "slug": "berger-en-baggeraar-boskalis-stevent-af-op-een-van-de-beste-jaren",
-    "type": "article",
-    "title": "Berger en baggeraar Boskalis stevent af op 'een van de beste jaren'",
-    "subtitle": null,
-    "published_at": "2023-11-10T11:15:28+01:00",
-    "updated_at": "2023-11-10T11:15:29+01:00",
-    "media_id": "zbjxiorauy5r",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6289111/berger-en-baggeraar-boskalis-stevent-af-op-een-van-de-beste-jaren.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6289112,
-    "slug": "schuldbewuste-ajacied-vos-had-basisplek-niet-verwacht-vanwege-blessure",
-    "type": "article",
-    "title": "Schuldbewuste Ajacied Vos had basisplek niet verwacht vanwege blessure",
-    "subtitle": null,
-    "published_at": "2023-11-10T11:07:52+01:00",
-    "updated_at": "2023-11-10T11:49:47+01:00",
-    "media_id": "xmcx1klassn3",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6289112/schuldbewuste-ajacied-vos-had-basisplek-niet-verwacht-vanwege-blessure.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6289113,
-    "slug": "britse-economie-ontkomt-net-aan-neergang-in-derde-kwartaal",
-    "type": "article",
-    "title": "Britse economie ontkomt net aan neergang in derde kwartaal",
-    "subtitle": null,
-    "published_at": "2023-11-10T11:06:33+01:00",
-    "updated_at": "2023-11-10T11:06:34+01:00",
-    "media_id": "yrvxmlmazxgt",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6289113/britse-economie-ontkomt-net-aan-neergang-in-derde-kwartaal.html",
     "open_new_window": false,
     "partner": null
   }
