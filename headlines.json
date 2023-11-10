@@ -1,13 +1,36 @@
 [
   {
+    "id": 6289209,
+    "slug": "green-day-verrast-fans-met-optreden-in-londense-pub",
+    "type": "video",
+    "title": "Green Day verrast fans met optreden in Londense pub",
+    "subtitle": "Video",
+    "published_at": "2023-11-10T22:47:10+01:00",
+    "updated_at": "2023-11-10T22:47:11+01:00",
+    "media_id": "hptx8k2apoyl",
+    "duration": "0:43",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6289209/green-day-verrast-fans-met-optreden-in-londense-pub.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6289203,
-    "slug": "willem-ii-grijpt-koppositie-in-kkd-na-nipte-zege-ook-emmen-en-de-graafschap-winnen",
+    "slug": "willem-ii-grijpt-koppositie-in-kkd-ook-fc-emmen-en-de-graafschap-winnen-nipt",
     "type": "article",
-    "title": "Willem II grijpt koppositie in KKD na nipte zege, ook Emmen en De Graafschap winnen",
+    "title": "Willem II grijpt koppositie in KKD, ook FC Emmen en De Graafschap winnen nipt",
     "subtitle": null,
     "published_at": "2023-11-10T22:00:50+01:00",
-    "updated_at": "2023-11-10T22:00:52+01:00",
-    "media_id": "yrbxrnha9ose",
+    "updated_at": "2023-11-10T22:24:58+01:00",
+    "media_id": "m02x99war62j",
     "duration": null,
     "canonical_section": {
       "id": 1772338,
@@ -18,7 +41,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6289203/willem-ii-grijpt-koppositie-in-kkd-na-nipte-zege-ook-emmen-en-de-graafschap-winnen.html",
+    "url": "/voetbal/6289203/willem-ii-grijpt-koppositie-in-kkd-ook-fc-emmen-en-de-graafschap-winnen-nipt.html",
     "open_new_window": false,
     "partner": null
   },
@@ -29,8 +52,8 @@
     "title": "Fortuna Sittard beëindigt belabberde reeks met galavoorstelling tegen Heracles",
     "subtitle": null,
     "published_at": "2023-11-10T21:55:07+01:00",
-    "updated_at": "2023-11-10T21:56:07+01:00",
-    "media_id": "j3tx9pcablht",
+    "updated_at": "2023-11-10T22:04:18+01:00",
+    "media_id": "txxxraeay4re",
     "duration": null,
     "canonical_section": {
       "id": 1772338,
@@ -52,7 +75,7 @@
     "title": "Vrouwen FC Twente en Ajax winnen in aanloop naar onderlinge kraker",
     "subtitle": null,
     "published_at": "2023-11-10T21:30:19+01:00",
-    "updated_at": "2023-11-10T21:34:20+01:00",
+    "updated_at": "2023-11-10T22:39:56+01:00",
     "media_id": "24lxo9fasxcq",
     "duration": null,
     "canonical_section": {
@@ -663,29 +686,6 @@
       "partner": null
     },
     "url": "/film/6289160/regisseur-darren-aronofsky-maakt-een-film-over-het-leven-van-elon-musk.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6289146,
-    "slug": "amerikaanse-man-rijdt-opzettelijk-agenten-aan",
-    "type": "video",
-    "title": "Amerikaanse man rijdt opzettelijk agenten aan",
-    "subtitle": "Video",
-    "published_at": "2023-11-10T15:19:36+01:00",
-    "updated_at": "2023-11-10T15:19:37+01:00",
-    "media_id": "p4ux6rsaxhgu",
-    "duration": "0:47",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6289146/amerikaanse-man-rijdt-opzettelijk-agenten-aan.html",
     "open_new_window": false,
     "partner": null
   }
