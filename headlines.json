@@ -1,12 +1,104 @@
 [
   {
-    "id": 6289222,
-    "slug": "kok-blijft-leerdam-ondanks-veel-fouten-voor-en-wint-500-meter-bij-wereldbeker",
+    "id": 6289228,
+    "slug": "alpaca-huppelt-weer-vrolijk-rond-in-belgie-dankzij-prothese",
+    "type": "video",
+    "title": "Alpaca huppelt weer vrolijk rond in België dankzij prothese",
+    "subtitle": "Video",
+    "published_at": "2023-11-11T09:54:32+01:00",
+    "updated_at": "2023-11-11T09:59:36+01:00",
+    "media_id": "sj9xmwdaljqn",
+    "duration": "0:42",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6289228/alpaca-huppelt-weer-vrolijk-rond-in-belgie-dankzij-prothese.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6289226,
+    "slug": "trotse-bijlow-verlengt-contract-bij-feyenoord-met-een-jaar",
     "type": "article",
-    "title": "Kok blijft Leerdam ondanks 'veel fouten' voor en wint 500 meter bij wereldbeker",
+    "title": "Trotse Bijlow verlengt contract bij Feyenoord met één jaar",
+    "subtitle": null,
+    "published_at": "2023-11-11T09:43:52+01:00",
+    "updated_at": "2023-11-11T09:54:25+01:00",
+    "media_id": "qu1x73dams9g",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6289226/trotse-bijlow-verlengt-contract-bij-feyenoord-met-een-jaar.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6289224,
+    "slug": "rijpma-de-jong-pakt-bij-wereldbeker-op-1500-meter-zilver-achter-takagi",
+    "type": "article",
+    "title": "Rijpma-de Jong pakt bij wereldbeker op 1.500 meter zilver achter Takagi",
+    "subtitle": null,
+    "published_at": "2023-11-11T09:18:26+01:00",
+    "updated_at": "2023-11-11T09:46:11+01:00",
+    "media_id": "l1rxh52afwa9",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772452,
+      "slug": "schaatsen",
+      "type": "default",
+      "name": "Schaatsen",
+      "style": "nusport",
+      "media_id": "5ktx9n6axubw",
+      "partner": null
+    },
+    "url": "/schaatsen/6289224/rijpma-de-jong-pakt-bij-wereldbeker-op-1500-meter-zilver-achter-takagi.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6289223,
+    "slug": "dode-en-gewonden-bij-verkeersongeluk-op-a28-in-drenthe",
+    "type": "article",
+    "title": "Dode en gewonden bij verkeersongeluk op A28 in Drenthe",
+    "subtitle": null,
+    "published_at": "2023-11-11T09:13:04+01:00",
+    "updated_at": "2023-11-11T09:50:04+01:00",
+    "media_id": "bnbx33mab8fn",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6289223/dode-en-gewonden-bij-verkeersongeluk-op-a28-in-drenthe.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6289222,
+    "slug": "kok-blijft-leerdam-voor-en-wint-500-meter-bij-wereldbeker-schaatsen-in-obihiro",
+    "type": "article",
+    "title": "Kok blijft Leerdam voor en wint 500 meter bij wereldbeker schaatsen in Obihiro",
     "subtitle": null,
     "published_at": "2023-11-11T08:59:18+01:00",
-    "updated_at": "2023-11-11T09:00:34+01:00",
+    "updated_at": "2023-11-11T09:19:51+01:00",
     "media_id": "cygx86rawwct",
     "duration": null,
     "canonical_section": {
@@ -18,7 +110,7 @@
       "media_id": "5ktx9n6axubw",
       "partner": null
     },
-    "url": "/schaatsen/6289222/kok-blijft-leerdam-ondanks-veel-fouten-voor-en-wint-500-meter-bij-wereldbeker.html",
+    "url": "/schaatsen/6289222/kok-blijft-leerdam-voor-en-wint-500-meter-bij-wereldbeker-schaatsen-in-obihiro.html",
     "open_new_window": false,
     "partner": null
   },
@@ -52,7 +144,7 @@
     "title": "'Intens geweld' rond grootste ziekenhuis in de Gazastrook gaat door",
     "subtitle": "Overzicht",
     "published_at": "2023-11-11T08:38:01+01:00",
-    "updated_at": "2023-11-11T08:51:50+01:00",
+    "updated_at": "2023-11-11T10:01:27+01:00",
     "media_id": "touxuwnaail8",
     "duration": null,
     "canonical_section": {
@@ -94,13 +186,13 @@
   {
     "id": 6289181,
     "slug": "het-verschil-tussen-een-staakt-het-vuren-en-een-humanitaire-pauze",
-    "type": "article",
+    "type": "video",
     "title": "Het verschil tussen een staakt-het-vuren en een humanitaire pauze",
     "subtitle": "Explainer",
     "published_at": "2023-11-11T06:45:21+01:00",
-    "updated_at": "2023-11-11T06:45:22+01:00",
+    "updated_at": "2023-11-11T09:22:21+01:00",
     "media_id": "oydx793ad1j0",
-    "duration": null,
+    "duration": "1:17",
     "canonical_section": {
       "id": 1772085,
       "slug": "midden-oostenconflict",
@@ -443,7 +535,7 @@
     "title": "Vrouw die Danny de Munk beschuldigde van misbruik wordt niet vervolgd",
     "subtitle": null,
     "published_at": "2023-11-10T21:22:30+01:00",
-    "updated_at": "2023-11-10T21:25:42+01:00",
+    "updated_at": "2023-11-11T09:11:07+01:00",
     "media_id": "jroxtz2acg83",
     "duration": null,
     "canonical_section": {
@@ -594,98 +686,6 @@
       "partner": null
     },
     "url": "/voetbal/6289199/uefa-straft-psv-vanwege-wangedrag-supporters-in-stadion-lens.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6289198,
-    "slug": "man-berooft-kwetsbare-oudere-op-klaarlichte-dag-in-vk",
-    "type": "video",
-    "title": "Man berooft kwetsbare oudere op klaarlichte dag in VK",
-    "subtitle": "Video",
-    "published_at": "2023-11-10T20:00:12+01:00",
-    "updated_at": "2023-11-10T20:00:13+01:00",
-    "media_id": "pp2x6jeadppw",
-    "duration": "0:42",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6289198/man-berooft-kwetsbare-oudere-op-klaarlichte-dag-in-vk.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6289197,
-    "slug": "directeur-golfbond-stapt-op-vanwege-onderzoek-naar-gedrag-plezier-is-weg",
-    "type": "article",
-    "title": "Directeur golfbond stapt op vanwege onderzoek naar gedrag: 'Plezier is weg'",
-    "subtitle": null,
-    "published_at": "2023-11-10T19:53:35+01:00",
-    "updated_at": "2023-11-10T20:00:07+01:00",
-    "media_id": "cevxgu7a4knr",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772456,
-      "slug": "sport-overig",
-      "type": "default",
-      "name": "Sport Overig",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/sport-overig/6289197/directeur-golfbond-stapt-op-vanwege-onderzoek-naar-gedrag-plezier-is-weg.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6289195,
-    "slug": "sza-met-negen-nominaties-grootste-kanshebber-bij-grammy-awards",
-    "type": "article",
-    "title": "SZA met negen nominaties grootste kanshebber bij Grammy Awards",
-    "subtitle": null,
-    "published_at": "2023-11-10T19:45:49+01:00",
-    "updated_at": "2023-11-10T19:55:32+01:00",
-    "media_id": "ku7x8srad544",
-    "duration": null,
-    "canonical_section": {
-      "id": 868281,
-      "slug": "muziek",
-      "type": "default",
-      "name": "Muziek",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/muziek/6289195/sza-met-negen-nominaties-grootste-kanshebber-bij-grammy-awards.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6289189,
-    "slug": "murray-breekt-voor-derde-keer-met-coach-lendl-kan-hem-niet-genoeg-bedanken",
-    "type": "article",
-    "title": "Murray breekt voor derde keer met coach Lendl: 'Kan hem niet genoeg bedanken'",
-    "subtitle": null,
-    "published_at": "2023-11-10T19:16:14+01:00",
-    "updated_at": "2023-11-10T19:23:18+01:00",
-    "media_id": "n10x2ouaxnv8",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772432,
-      "slug": "tennis",
-      "type": "default",
-      "name": "Tennis",
-      "style": "nusport",
-      "media_id": "m1oxohpan0gq",
-      "partner": null
-    },
-    "url": "/tennis/6289189/murray-breekt-voor-derde-keer-met-coach-lendl-kan-hem-niet-genoeg-bedanken.html",
     "open_new_window": false,
     "partner": null
   }
