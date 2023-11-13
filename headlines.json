@@ -1,5 +1,51 @@
 [
   {
+    "id": 6289507,
+    "slug": "meer-werklozen-en-minder-vacatures-de-arbeidsmarkt-verandert-iets",
+    "type": "article",
+    "title": "Meer werklozen en minder vacatures: de arbeidsmarkt verandert iets",
+    "subtitle": null,
+    "published_at": "2023-11-14T00:00:25+01:00",
+    "updated_at": "2023-11-14T00:00:26+01:00",
+    "media_id": "1oixk0jaqlsb",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6289507/meer-werklozen-en-minder-vacatures-de-arbeidsmarkt-verandert-iets.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6289573,
+    "slug": "deze-vliegende-taxis-zijn-de-toekomst-van-new-york",
+    "type": "video",
+    "title": "Deze vliegende taxi's zijn de toekomst van New York",
+    "subtitle": "Video",
+    "published_at": "2023-11-13T23:02:10+01:00",
+    "updated_at": "2023-11-13T23:07:30+01:00",
+    "media_id": "g93xeriajefn",
+    "duration": "0:46",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6289573/deze-vliegende-taxis-zijn-de-toekomst-van-new-york.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6289572,
     "slug": "man-koopt-voor-2-miljoen-dollar-duurste-postzegel-ooit-in-vs",
     "type": "article",
@@ -98,7 +144,7 @@
     "title": "Suárez zit voor het eerst sinds WK bij selectie Uruguay en wacht duel met Messi",
     "subtitle": null,
     "published_at": "2023-11-13T21:26:22+01:00",
-    "updated_at": "2023-11-13T21:38:20+01:00",
+    "updated_at": "2023-11-13T23:13:56+01:00",
     "media_id": "7xtxyhga9qy6",
     "duration": null,
     "canonical_section": {
@@ -144,7 +190,7 @@
     "title": "Ook Van Duijvenbode verliest op dramatische Nederlandse avond op Grand Slam",
     "subtitle": null,
     "published_at": "2023-11-13T20:53:26+01:00",
-    "updated_at": "2023-11-13T22:51:56+01:00",
+    "updated_at": "2023-11-13T23:10:30+01:00",
     "media_id": "4uaxyg0atf8x",
     "duration": null,
     "canonical_section": {
@@ -259,7 +305,7 @@
     "title": "Koeman haalt Dallinga voor het eerst bij Oranje na afvallen Bergwijn en Brobbey",
     "subtitle": null,
     "published_at": "2023-11-13T19:07:22+01:00",
-    "updated_at": "2023-11-13T21:12:56+01:00",
+    "updated_at": "2023-11-13T23:07:01+01:00",
     "media_id": "p8qx4wfaxn19",
     "duration": null,
     "canonical_section": {
@@ -640,52 +686,6 @@
       "partner": null
     },
     "url": "/economie/6289505/lucht-in-brandweerkazerne-van-schiphol-is-stuk-schoner-door-nieuw-apparaat.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6289524,
-    "slug": "schip-belandt-boven-op-duitse-sluisdeur-na-foutje-schipper",
-    "type": "video",
-    "title": "Schip belandt boven op Duitse sluisdeur na foutje schipper",
-    "subtitle": "Video",
-    "published_at": "2023-11-13T15:18:10+01:00",
-    "updated_at": "2023-11-13T15:18:10+01:00",
-    "media_id": "0o1x05taavv6",
-    "duration": "0:46",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6289524/schip-belandt-boven-op-duitse-sluisdeur-na-foutje-schipper.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6289521,
-    "slug": "nieuwe-verdachten-vast-voor-diefstal-met-geweld-op-festival-waar-man-overleed",
-    "type": "article",
-    "title": "Nieuwe verdachten vast voor diefstal met geweld op festival waar man overleed",
-    "subtitle": null,
-    "published_at": "2023-11-13T15:12:46+01:00",
-    "updated_at": "2023-11-13T16:56:13+01:00",
-    "media_id": "zgnxkx0alusf",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6289521/nieuwe-verdachten-vast-voor-diefstal-met-geweld-op-festival-waar-man-overleed.html",
     "open_new_window": false,
     "partner": null
   }
