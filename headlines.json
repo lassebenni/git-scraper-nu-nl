@@ -1,12 +1,58 @@
 [
   {
+    "id": 6289555,
+    "slug": "william-en-kate-snorkelen-tussen-de-koraalriffen-in-de-bahamas",
+    "type": "video",
+    "title": "William en Kate snorkelen tussen de koraalriffen in de Bahama’s",
+    "subtitle": "Video",
+    "published_at": "2023-11-13T18:35:35+01:00",
+    "updated_at": "2023-11-13T18:40:56+01:00",
+    "media_id": "561xwawaphj3",
+    "duration": "0:52",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6289555/william-en-kate-snorkelen-tussen-de-koraalriffen-in-de-bahamas.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6289551,
+    "slug": "douane-onderschepte-deze-maand-al-meer-dan-1500-kilo-cocaine-in-rotterdam",
+    "type": "article",
+    "title": "Douane onderschepte deze maand al meer dan 1.500 kilo cocaïne in Rotterdam",
+    "subtitle": null,
+    "published_at": "2023-11-13T18:10:11+01:00",
+    "updated_at": "2023-11-13T18:12:42+01:00",
+    "media_id": "rodxteaa502e",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6289551/douane-onderschepte-deze-maand-al-meer-dan-1500-kilo-cocaine-in-rotterdam.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6289550,
     "slug": "zverev-verslaat-alcaraz-ondanks-enkelklachten-in-eerste-partij-atp-finals",
     "type": "article",
     "title": "Zverev verslaat Alcaraz ondanks enkelklachten in eerste partij ATP Finals",
     "subtitle": null,
     "published_at": "2023-11-13T17:52:42+01:00",
-    "updated_at": "2023-11-13T17:54:45+01:00",
+    "updated_at": "2023-11-13T18:02:21+01:00",
     "media_id": "zwgx6rqaoi06",
     "duration": null,
     "canonical_section": {
@@ -558,7 +604,7 @@
     "title": "KRO-NCRV schrapt Waku Waku-afleveringen met Tim den Besten als kandidaat",
     "subtitle": null,
     "published_at": "2023-11-13T13:11:38+01:00",
-    "updated_at": "2023-11-13T16:44:33+01:00",
+    "updated_at": "2023-11-13T18:56:49+01:00",
     "media_id": "6znx77had3zm",
     "duration": null,
     "canonical_section": {
@@ -640,52 +686,6 @@
       "partner": null
     },
     "url": "/economie/6289489/adviescollege-maakt-gehakt-van-nieuwe-wet-tegen-schijnzelfstandigheid.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6289484,
-    "slug": "australische-havens-weer-deels-actief-na-grote-cyberaanval",
-    "type": "article",
-    "title": "Australische havens weer deels actief na grote cyberaanval",
-    "subtitle": null,
-    "published_at": "2023-11-13T12:26:25+01:00",
-    "updated_at": "2023-11-13T12:26:26+01:00",
-    "media_id": "a7fxrqdalmis",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6289484/australische-havens-weer-deels-actief-na-grote-cyberaanval.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6289490,
-    "slug": "franse-versie-van-nederlandse-succesfilm-de-tattas-in-de-maak",
-    "type": "article",
-    "title": "Franse versie van Nederlandse succesfilm De Tatta's in de maak",
-    "subtitle": null,
-    "published_at": "2023-11-13T12:23:00+01:00",
-    "updated_at": "2023-11-13T12:23:01+01:00",
-    "media_id": "404xvkqaft4i",
-    "duration": null,
-    "canonical_section": {
-      "id": 127,
-      "slug": "film",
-      "type": "default",
-      "name": "Films & Series",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/film/6289490/franse-versie-van-nederlandse-succesfilm-de-tattas-in-de-maak.html",
     "open_new_window": false,
     "partner": null
   }
