@@ -1,12 +1,127 @@
 [
   {
+    "id": 6289550,
+    "slug": "zverev-verslaat-alcaraz-ondanks-enkelklachten-in-eerste-partij-atp-finals",
+    "type": "article",
+    "title": "Zverev verslaat Alcaraz ondanks enkelklachten in eerste partij ATP Finals",
+    "subtitle": null,
+    "published_at": "2023-11-13T17:52:42+01:00",
+    "updated_at": "2023-11-13T17:54:45+01:00",
+    "media_id": "zwgx6rqaoi06",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772432,
+      "slug": "tennis",
+      "type": "default",
+      "name": "Tennis",
+      "style": "nusport",
+      "media_id": "m1oxohpan0gq",
+      "partner": null
+    },
+    "url": "/tennis/6289550/zverev-verslaat-alcaraz-ondanks-enkelklachten-in-eerste-partij-atp-finals.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6289549,
+    "slug": "vliegtuigje-stuitert-van-amerikaanse-landingsbaan-en-botst-tegen-auto",
+    "type": "video",
+    "title": "Vliegtuigje stuitert van Amerikaanse landingsbaan en botst tegen auto",
+    "subtitle": "Video",
+    "published_at": "2023-11-13T17:36:58+01:00",
+    "updated_at": "2023-11-13T17:36:59+01:00",
+    "media_id": "j4ixhfoahqzl",
+    "duration": "0:32",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6289549/vliegtuigje-stuitert-van-amerikaanse-landingsbaan-en-botst-tegen-auto.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6289548,
+    "slug": "nepalese-overheid-gaat-tiktok-verbieden-vanwege-de-impact-van-haatberichten",
+    "type": "article",
+    "title": "Nepalese overheid gaat TikTok verbieden vanwege de impact van haatberichten",
+    "subtitle": null,
+    "published_at": "2023-11-13T17:27:40+01:00",
+    "updated_at": "2023-11-13T17:31:35+01:00",
+    "media_id": "hqtxsisae6hw",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771438,
+      "slug": "tech",
+      "type": "default",
+      "name": "Tech",
+      "style": "nutech",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/tech/6289548/nepalese-overheid-gaat-tiktok-verbieden-vanwege-de-impact-van-haatberichten.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6289543,
+    "slug": "zuid-afrikaanse-komiek-trevor-noah-ontvangt-erasmusprijs-2023-uit-handen-van-koning",
+    "type": "article",
+    "title": "Zuid-Afrikaanse komiek Trevor Noah ontvangt Erasmusprijs 2023 uit handen van koning",
+    "subtitle": null,
+    "published_at": "2023-11-13T17:25:17+01:00",
+    "updated_at": "2023-11-13T17:33:24+01:00",
+    "media_id": "u0dxqsqabjod",
+    "duration": null,
+    "canonical_section": {
+      "id": 1778775,
+      "slug": "koningshuis",
+      "type": "default",
+      "name": "Koningshuis",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/koningshuis/6289543/zuid-afrikaanse-komiek-trevor-noah-ontvangt-erasmusprijs-2023-uit-handen-van-koning.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6289533,
+    "slug": "fans-nemen-in-manchester-afscheid-van-voetbalicoon-bobby-charlton",
+    "type": "article",
+    "title": "Fans nemen in Manchester afscheid van voetbalicoon Bobby Charlton",
+    "subtitle": "In beeld",
+    "published_at": "2023-11-13T17:03:07+01:00",
+    "updated_at": "2023-11-13T17:36:53+01:00",
+    "media_id": "nahxjxeaxzbn",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6289533/fans-nemen-in-manchester-afscheid-van-voetbalicoon-bobby-charlton.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6289534,
     "slug": "pro-palestijnse-geluiden-bij-klimaatmars-wat-betekent-dat-voor-de-beweging",
     "type": "article",
     "title": "Pro-Palestijnse geluiden bij klimaatmars: wat betekent dat voor de beweging?",
     "subtitle": null,
     "published_at": "2023-11-13T16:57:10+01:00",
-    "updated_at": "2023-11-13T16:57:11+01:00",
+    "updated_at": "2023-11-13T17:06:15+01:00",
     "media_id": "ay2xu3kalnf1",
     "duration": null,
     "canonical_section": {
@@ -70,12 +185,12 @@
   },
   {
     "id": 6289537,
-    "slug": "nog-eens-vier-nederlanders-worden-uit-gazastrook-geevacueerd",
+    "slug": "nog-eens-vier-nederlanders-hebben-gazastrook-verlaten",
     "type": "article",
-    "title": "Nog eens vier Nederlanders worden uit Gazastrook geëvacueerd",
+    "title": "Nog eens vier Nederlanders hebben Gazastrook verlaten",
     "subtitle": null,
     "published_at": "2023-11-13T16:30:54+01:00",
-    "updated_at": "2023-11-13T16:56:58+01:00",
+    "updated_at": "2023-11-13T17:43:39+01:00",
     "media_id": "7knxrmzak9et",
     "duration": null,
     "canonical_section": {
@@ -87,18 +202,18 @@
       "media_id": "m1oxeovaiadm",
       "partner": null
     },
-    "url": "/midden-oostenconflict/6289537/nog-eens-vier-nederlanders-worden-uit-gazastrook-geevacueerd.html",
+    "url": "/midden-oostenconflict/6289537/nog-eens-vier-nederlanders-hebben-gazastrook-verlaten.html",
     "open_new_window": false,
     "partner": null
   },
   {
     "id": 6289531,
-    "slug": "reiziger-over-absentie-gravenberch-bij-jong-oranje-niet-met-een-straf-te-maken",
+    "slug": "bondscoach-jong-oranje-over-absentie-gravenberch-niets-met-straf-te-maken",
     "type": "article",
-    "title": "Reiziger over absentie Gravenberch bij Jong Oranje: 'Niet met een straf te maken'",
+    "title": "Bondscoach Jong Oranje over absentie Gravenberch: 'Niets met straf te maken'",
     "subtitle": null,
     "published_at": "2023-11-13T16:21:23+01:00",
-    "updated_at": "2023-11-13T16:56:47+01:00",
+    "updated_at": "2023-11-13T18:00:11+01:00",
     "media_id": "jx2xc0oa4ijy",
     "duration": null,
     "canonical_section": {
@@ -110,7 +225,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6289531/reiziger-over-absentie-gravenberch-bij-jong-oranje-niet-met-een-straf-te-maken.html",
+    "url": "/voetbal/6289531/bondscoach-jong-oranje-over-absentie-gravenberch-niets-met-straf-te-maken.html",
     "open_new_window": false,
     "partner": null
   },
@@ -466,7 +581,7 @@
     "title": "Code geel in het hele land vanwege zware windstoten",
     "subtitle": null,
     "published_at": "2023-11-13T12:43:43+01:00",
-    "updated_at": "2023-11-13T14:42:13+01:00",
+    "updated_at": "2023-11-13T17:46:57+01:00",
     "media_id": "r98xb06alt83",
     "duration": null,
     "canonical_section": {
@@ -571,121 +686,6 @@
       "partner": null
     },
     "url": "/film/6289490/franse-versie-van-nederlandse-succesfilm-de-tattas-in-de-maak.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6289485,
-    "slug": "klaas-otto-krijgt-ongelijk-in-zaak-tegen-oud-vriendin-van-rachel-hazes",
-    "type": "article",
-    "title": "Klaas Otto krijgt ongelijk in zaak tegen oud-vriendin van Rachel Hazes",
-    "subtitle": null,
-    "published_at": "2023-11-13T12:15:11+01:00",
-    "updated_at": "2023-11-13T16:49:45+01:00",
-    "media_id": "a4ixg0ra5zwb",
-    "duration": null,
-    "canonical_section": {
-      "id": 125,
-      "slug": "achterklap",
-      "type": "default",
-      "name": "Achterklap",
-      "style": "nuentertainment",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/achterklap/6289485/klaas-otto-krijgt-ongelijk-in-zaak-tegen-oud-vriendin-van-rachel-hazes.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6289486,
-    "slug": "pnk-smult-van-chocola-van-belgische-bakkers-op-podium-heerlijk",
-    "type": "video",
-    "title": "P!NK smult van chocola van Belgische bakkers op podium: 'Heerlijk!'",
-    "subtitle": "Video",
-    "published_at": "2023-11-13T12:01:26+01:00",
-    "updated_at": "2023-11-13T12:01:27+01:00",
-    "media_id": "czgx8n2ayw0k",
-    "duration": "0:47",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6289486/pnk-smult-van-chocola-van-belgische-bakkers-op-podium-heerlijk.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6289472,
-    "slug": "verdachte-doodsteken-jimmy-schepers-gooide-mogelijk-moordwapen-weg-in-cel",
-    "type": "article",
-    "title": "Verdachte doodsteken Jimmy Schepers gooide mogelijk moordwapen weg in cel",
-    "subtitle": null,
-    "published_at": "2023-11-13T11:41:45+01:00",
-    "updated_at": "2023-11-13T12:27:50+01:00",
-    "media_id": "8qzxskxa8z9x",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6289472/verdachte-doodsteken-jimmy-schepers-gooide-mogelijk-moordwapen-weg-in-cel.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6289482,
-    "slug": "uitvinders-maken-testvlucht-met-vliegende-auto-in-vs",
-    "type": "video",
-    "title": "Uitvinders maken testvlucht met vliegende auto in VS",
-    "subtitle": "Video",
-    "published_at": "2023-11-13T11:21:46+01:00",
-    "updated_at": "2023-11-13T13:50:46+01:00",
-    "media_id": "lilxto7a413l",
-    "duration": "0:59",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6289482/uitvinders-maken-testvlucht-met-vliegende-auto-in-vs.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6289476,
-    "slug": "britse-oud-premier-david-cameron-keert-terug-als-minister-na-binnenlandse-rel",
-    "type": "article",
-    "title": "Britse oud-premier David Cameron keert terug als minister na binnenlandse rel",
-    "subtitle": null,
-    "published_at": "2023-11-13T11:15:50+01:00",
-    "updated_at": "2023-11-13T11:50:06+01:00",
-    "media_id": "spkxbq6aftf4",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6289476/britse-oud-premier-david-cameron-keert-terug-als-minister-na-binnenlandse-rel.html",
     "open_new_window": false,
     "partner": null
   }
