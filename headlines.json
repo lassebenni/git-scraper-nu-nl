@@ -1,12 +1,104 @@
 [
   {
+    "id": 6289658,
+    "slug": "nederland-moet-fors-minder-asielzoekers-gaan-opvangen",
+    "type": "article",
+    "title": "'Nederland moet fors minder asielzoekers gaan opvangen'",
+    "subtitle": "Verkiezingsstelling",
+    "published_at": "2023-11-15T08:01:07+01:00",
+    "updated_at": "2023-11-15T08:01:08+01:00",
+    "media_id": "gcbxvs8a6po8",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779134,
+      "slug": "stelling",
+      "type": "default",
+      "name": "Stelling en Praat Mee",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/stelling/6289658/nederland-moet-fors-minder-asielzoekers-gaan-opvangen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6289746,
+    "slug": "topcoach-hayes-moet-voetbalsters-vs-voor-recordsalaris-aan-nieuw-succes-helpen",
+    "type": "article",
+    "title": "Topcoach Hayes moet voetbalsters VS voor recordsalaris aan nieuw succes helpen",
+    "subtitle": null,
+    "published_at": "2023-11-15T07:58:31+01:00",
+    "updated_at": "2023-11-15T07:58:32+01:00",
+    "media_id": "2ynxs86aipjq",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6289746/topcoach-hayes-moet-voetbalsters-vs-voor-recordsalaris-aan-nieuw-succes-helpen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6289693,
+    "slug": "dit-land-verdrinkt-hoe-komt-dat-en-wat-zijn-de-oplossingen",
+    "type": "video",
+    "title": "Dit land verdrinkt: hoe komt dat en wat zijn de oplossingen?",
+    "subtitle": "Explainer",
+    "published_at": "2023-11-15T07:38:07+01:00",
+    "updated_at": "2023-11-15T07:38:08+01:00",
+    "media_id": "2kdxp3waq65n",
+    "duration": "2:14",
+    "canonical_section": {
+      "id": 100,
+      "slug": "algemeen",
+      "type": "default",
+      "name": "Algemeen",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/algemeen/6289693/dit-land-verdrinkt-hoe-komt-dat-en-wat-zijn-de-oplossingen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6289743,
+    "slug": "ruim-250-mensen-kregen-slachtofferhulp-na-dodelijke-schietpartijen-rotterdam",
+    "type": "article",
+    "title": "Ruim 250 mensen kregen slachtofferhulp na dodelijke schietpartijen Rotterdam",
+    "subtitle": null,
+    "published_at": "2023-11-15T07:11:22+01:00",
+    "updated_at": "2023-11-15T07:33:59+01:00",
+    "media_id": "9ipxjrbau3tx",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6289743/ruim-250-mensen-kregen-slachtofferhulp-na-dodelijke-schietpartijen-rotterdam.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6289601,
     "slug": "laatste-miljoenen-van-bekritiseerd-stap-budget-worden-vandaag-verdeeld",
     "type": "article",
     "title": "Laatste miljoenen van bekritiseerd STAP-budget worden vandaag verdeeld",
     "subtitle": null,
     "published_at": "2023-11-15T06:31:18+01:00",
-    "updated_at": "2023-11-15T07:00:06+01:00",
+    "updated_at": "2023-11-15T07:32:07+01:00",
     "media_id": "0p2xsq8a4wz5",
     "duration": null,
     "canonical_section": {
@@ -24,24 +116,24 @@
   },
   {
     "id": 6289739,
-    "slug": "israel-voert-aanval-op-hamas-in-al-shifa-ziekenhuis-gaza-uit",
+    "slug": "israel-valt-al-shifa-ziekenhuis-in-gaza-aan-gerichte-operatie-tegen-hamas",
     "type": "article",
-    "title": "Israël voert aanval op Hamas in Al Shifa-ziekenhuis Gaza uit",
+    "title": "Israël valt Al Shifa-ziekenhuis in Gaza aan: 'Gerichte operatie tegen Hamas'",
     "subtitle": null,
     "published_at": "2023-11-15T06:29:16+01:00",
-    "updated_at": "2023-11-15T06:29:17+01:00",
+    "updated_at": "2023-11-15T07:52:42+01:00",
     "media_id": "odfxlk8adsk1",
     "duration": null,
     "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
+      "id": 1772085,
+      "slug": "midden-oostenconflict",
       "type": "default",
-      "name": "Buitenland",
+      "name": "Oorlog Israël en Hamas",
       "style": "nu",
-      "media_id": null,
+      "media_id": "m1oxeovaiadm",
       "partner": null
     },
-    "url": "/buitenland/6289739/israel-voert-aanval-op-hamas-in-al-shifa-ziekenhuis-gaza-uit.html",
+    "url": "/midden-oostenconflict/6289739/israel-valt-al-shifa-ziekenhuis-in-gaza-aan-gerichte-operatie-tegen-hamas.html",
     "open_new_window": false,
     "partner": null
   },
@@ -75,7 +167,7 @@
     "title": "Zon laat zich pas na veel natte uren zien",
     "subtitle": "Weerbericht",
     "published_at": "2023-11-15T05:59:08+01:00",
-    "updated_at": "2023-11-15T06:39:21+01:00",
+    "updated_at": "2023-11-15T07:11:34+01:00",
     "media_id": "57ax4c7a2xyh",
     "duration": null,
     "canonical_section": {
@@ -116,12 +208,12 @@
   },
   {
     "id": 6289735,
-    "slug": "tiktok-gaat-samenwerken-met-spotify-en-amazon-music",
+    "slug": "tiktok-gebruikers-kunnen-liedjes-vanuit-app-opslaan-in-spotify-en-amazon-music",
     "type": "article",
-    "title": "TikTok gaat samenwerken met Spotify en Amazon Music",
+    "title": "TikTok-gebruikers kunnen liedjes vanuit app opslaan in Spotify en Amazon Music",
     "subtitle": null,
     "published_at": "2023-11-15T05:31:13+01:00",
-    "updated_at": "2023-11-15T05:31:14+01:00",
+    "updated_at": "2023-11-15T08:00:13+01:00",
     "media_id": "j5sxkh4a1oq1",
     "duration": null,
     "canonical_section": {
@@ -133,7 +225,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/tech/6289735/tiktok-gaat-samenwerken-met-spotify-en-amazon-music.html",
+    "url": "/tech/6289735/tiktok-gebruikers-kunnen-liedjes-vanuit-app-opslaan-in-spotify-en-amazon-music.html",
     "open_new_window": false,
     "partner": null
   },
@@ -234,9 +326,9 @@
     "slug": "hoe-goed-is-racetalent-veijer-vergelijkbaar-met-de-eerste-jaren-van-rossi",
     "type": "article",
     "title": "Hoe goed is racetalent Veijer? 'Vergelijkbaar met de eerste jaren van Rossi'",
-    "subtitle": null,
+    "subtitle": "NU+",
     "published_at": "2023-11-15T05:08:02+01:00",
-    "updated_at": "2023-11-15T05:08:04+01:00",
+    "updated_at": "2023-11-15T07:35:57+01:00",
     "media_id": "bytxqona4vj1",
     "duration": null,
     "canonical_section": {
@@ -305,7 +397,7 @@
     "title": "Sinner krijgt publiek op de banken met fraaie zege op Djokovic bij ATP Finals",
     "subtitle": null,
     "published_at": "2023-11-15T00:43:57+01:00",
-    "updated_at": "2023-11-15T01:07:24+01:00",
+    "updated_at": "2023-11-15T07:48:24+01:00",
     "media_id": "8tlxe2aa1f3h",
     "duration": null,
     "canonical_section": {
@@ -369,12 +461,12 @@
   },
   {
     "id": 6289730,
-    "slug": "samenvatting-michael-van-gerwen-verslaat-martijn-kleermaker",
+    "slug": "samenvatting-van-gerwen-verslaat-kleermaker-op-grand-slam-of-darts",
     "type": "video",
-    "title": "Samenvatting: Michael van Gerwen verslaat Martijn Kleermaker",
+    "title": "Samenvatting: Van Gerwen verslaat Kleermaker op Grand Slam of Darts",
     "subtitle": "Video",
     "published_at": "2023-11-14T22:37:53+01:00",
-    "updated_at": "2023-11-14T22:37:54+01:00",
+    "updated_at": "2023-11-15T07:34:38+01:00",
     "media_id": "ubjx6n8az0br",
     "duration": "1:09",
     "canonical_section": {
@@ -386,7 +478,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/videos/6289730/samenvatting-michael-van-gerwen-verslaat-martijn-kleermaker.html",
+    "url": "/videos/6289730/samenvatting-van-gerwen-verslaat-kleermaker-op-grand-slam-of-darts.html",
     "open_new_window": false,
     "partner": null
   },
@@ -594,98 +686,6 @@
       "partner": null
     },
     "url": "/videos/6289721/emirates-showt-luxe-first-class-tijdens-vliegtuigshow.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6289718,
-    "slug": "finland-beschuldigt-rusland-van-hulp-aan-asielzoekers-bij-oversteken-grens",
-    "type": "article",
-    "title": "Finland beschuldigt Rusland van hulp aan asielzoekers bij oversteken grens",
-    "subtitle": null,
-    "published_at": "2023-11-14T19:58:47+01:00",
-    "updated_at": "2023-11-14T20:09:18+01:00",
-    "media_id": "qwmxmzta2kkz",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6289718/finland-beschuldigt-rusland-van-hulp-aan-asielzoekers-bij-oversteken-grens.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6289717,
-    "slug": "liverpool-aanvaller-diaz-in-colombia-herenigd-met-vader-na-ontvoering",
-    "type": "article",
-    "title": "Liverpool-aanvaller Díaz in Colombia herenigd met vader na ontvoering",
-    "subtitle": null,
-    "published_at": "2023-11-14T19:56:13+01:00",
-    "updated_at": "2023-11-14T20:05:20+01:00",
-    "media_id": "4w6xzkaai98p",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6289717/liverpool-aanvaller-diaz-in-colombia-herenigd-met-vader-na-ontvoering.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6289711,
-    "slug": "warner-music-maakt-met-ai-film-over-zangeres-edith-piaf",
-    "type": "article",
-    "title": "Warner Music maakt met AI film over zangeres Édith Piaf",
-    "subtitle": null,
-    "published_at": "2023-11-14T19:55:06+01:00",
-    "updated_at": "2023-11-14T19:55:07+01:00",
-    "media_id": "s5cx4q4a4yly",
-    "duration": null,
-    "canonical_section": {
-      "id": 127,
-      "slug": "film",
-      "type": "default",
-      "name": "Films & Series",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/film/6289711/warner-music-maakt-met-ai-film-over-zangeres-edith-piaf.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6289715,
-    "slug": "groenen-speelt-voor-het-eerst-met-een-club-in-nederland-hele-familie-komt",
-    "type": "article",
-    "title": "Groenen speelt voor het eerst met een club in Nederland: 'Hele familie komt'",
-    "subtitle": null,
-    "published_at": "2023-11-14T19:52:49+01:00",
-    "updated_at": "2023-11-14T21:07:35+01:00",
-    "media_id": "20extwwao88n",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6289715/groenen-speelt-voor-het-eerst-met-een-club-in-nederland-hele-familie-komt.html",
     "open_new_window": false,
     "partner": null
   }
