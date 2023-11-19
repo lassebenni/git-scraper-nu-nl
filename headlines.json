@@ -1,12 +1,58 @@
 [
   {
-    "id": 6290420,
-    "slug": "servie-van-aanvoerder-tadic-kwalificeert-zich-voor-het-eerst-voor-ek",
+    "id": 6290407,
+    "slug": "de-regenjas-kan-thuisblijven-maar-handschoenen-wellicht-niet",
     "type": "article",
-    "title": "Servië van aanvoerder Tadic kwalificeert zich voor het eerst voor EK",
+    "title": "De regenjas kan thuisblijven, maar handschoenen wellicht niet",
+    "subtitle": "Weekweerbericht",
+    "published_at": "2023-11-19T17:58:05+01:00",
+    "updated_at": "2023-11-19T17:58:07+01:00",
+    "media_id": "xu2x5agaov47",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779283,
+      "slug": "weerbericht",
+      "type": "default",
+      "name": "Weerbericht",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/weerbericht/6290407/de-regenjas-kan-thuisblijven-maar-handschoenen-wellicht-niet.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6290422,
+    "slug": "jackie-groenen-schiet-psg-prachtig-naar-late-winst-bij-rentree-lieke-martens",
+    "type": "article",
+    "title": "Jackie Groenen schiet PSG prachtig naar late winst bij rentree Lieke Martens",
+    "subtitle": null,
+    "published_at": "2023-11-19T17:49:22+01:00",
+    "updated_at": "2023-11-19T17:55:29+01:00",
+    "media_id": "1gdxq15ap1ln",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6290422/jackie-groenen-schiet-psg-prachtig-naar-late-winst-bij-rentree-lieke-martens.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6290420,
+    "slug": "servie-van-aanvoerder-tadic-verzekert-zich-voor-het-eerst-van-ek-deelname",
+    "type": "article",
+    "title": "Servië van aanvoerder Tadic verzekert zich voor het eerst van EK-deelname",
     "subtitle": null,
     "published_at": "2023-11-19T17:01:21+01:00",
-    "updated_at": "2023-11-19T17:01:23+01:00",
+    "updated_at": "2023-11-19T17:38:13+01:00",
     "media_id": "y93xpj7apae0",
     "duration": null,
     "canonical_section": {
@@ -18,18 +64,18 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6290420/servie-van-aanvoerder-tadic-kwalificeert-zich-voor-het-eerst-voor-ek.html",
+    "url": "/voetbal/6290420/servie-van-aanvoerder-tadic-verzekert-zich-voor-het-eerst-van-ek-deelname.html",
     "open_new_window": false,
     "partner": null
   },
   {
     "id": 6289976,
-    "slug": "filmmaker-geertjan-lassche-npo-moet-mensen-uit-regio-meer-plek-bieden",
+    "slug": "filmmaker-geertjan-lassche-mensen-in-de-regio-voelen-zich-niet-gezien",
     "type": "article",
-    "title": "Filmmaker Geertjan Lassche: 'NPO moet mensen uit regio meer plek bieden'",
+    "title": "Filmmaker Geertjan Lassche: 'Mensen in de regio voelen zich niet gezien'",
     "subtitle": "NU+",
     "published_at": "2023-11-19T16:59:06+01:00",
-    "updated_at": "2023-11-19T16:59:07+01:00",
+    "updated_at": "2023-11-19T17:24:48+01:00",
     "media_id": "zplx91ta649q",
     "duration": null,
     "canonical_section": {
@@ -41,7 +87,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/media/6289976/filmmaker-geertjan-lassche-npo-moet-mensen-uit-regio-meer-plek-bieden.html",
+    "url": "/media/6289976/filmmaker-geertjan-lassche-mensen-in-de-regio-voelen-zich-niet-gezien.html",
     "open_new_window": false,
     "partner": null
   },
@@ -52,7 +98,7 @@
     "title": "Medewerkers TivoliVredenburg probeerden doodgestoken man nog te helpen",
     "subtitle": null,
     "published_at": "2023-11-19T16:41:07+01:00",
-    "updated_at": "2023-11-19T16:57:21+01:00",
+    "updated_at": "2023-11-19T17:21:00+01:00",
     "media_id": "6aixw9napmrx",
     "duration": null,
     "canonical_section": {
@@ -75,7 +121,7 @@
     "title": "Motorcoureur Collin Veijer week na historische GP-zege slechts tiende in Qatar",
     "subtitle": null,
     "published_at": "2023-11-19T16:36:38+01:00",
-    "updated_at": "2023-11-19T16:55:03+01:00",
+    "updated_at": "2023-11-19T17:24:29+01:00",
     "media_id": "mmuxvoaahkfg",
     "duration": null,
     "canonical_section": {
@@ -121,7 +167,7 @@
     "title": "Roda JC blijft voor derde keer op rij zonder winst door gelijkspel bij Cambuur",
     "subtitle": null,
     "published_at": "2023-11-19T16:28:20+01:00",
-    "updated_at": "2023-11-19T16:49:50+01:00",
+    "updated_at": "2023-11-19T17:06:06+01:00",
     "media_id": "wz9x33qay26d",
     "duration": null,
     "canonical_section": {
@@ -259,8 +305,8 @@
     "title": "Alvarado geëmotioneerd na nieuwe wereldbekerzege, Iserbyt klopt Van der Haar",
     "subtitle": null,
     "published_at": "2023-11-19T14:39:56+01:00",
-    "updated_at": "2023-11-19T16:24:12+01:00",
-    "media_id": "3gkxxn0atvr2",
+    "updated_at": "2023-11-19T17:21:23+01:00",
+    "media_id": "y77xxbta4rcy",
     "duration": null,
     "canonical_section": {
       "id": 1772339,
@@ -282,7 +328,7 @@
     "title": "Schouten slechts achtste in Peking: 'Ben eigenlijk voor niks naar China gereisd'",
     "subtitle": null,
     "published_at": "2023-11-19T14:35:31+01:00",
-    "updated_at": "2023-11-19T14:49:56+01:00",
+    "updated_at": "2023-11-19T17:21:28+01:00",
     "media_id": "00txxc9a07yv",
     "duration": null,
     "canonical_section": {
@@ -351,7 +397,7 @@
     "title": "Norris in orde na zware crash in Las Vegas: 'Dank aan de medici'",
     "subtitle": null,
     "published_at": "2023-11-19T14:07:31+01:00",
-    "updated_at": "2023-11-19T15:34:42+01:00",
+    "updated_at": "2023-11-19T17:08:06+01:00",
     "media_id": "yr7xe9banpzt",
     "duration": null,
     "canonical_section": {
@@ -640,52 +686,6 @@
       "partner": null
     },
     "url": "/voetbal/6290383/italiaanse-spits-quagliarella-40-houdt-het-na-182-serie-a-goals-voor-gezien.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6290382,
-    "slug": "politie-vindt-ruim-40-kilo-illegaal-vuurwerk-in-slaapkamer-van-zeer-jong-kind",
-    "type": "article",
-    "title": "Politie vindt ruim 40 kilo illegaal vuurwerk in slaapkamer van 'zeer jong kind'",
-    "subtitle": null,
-    "published_at": "2023-11-19T12:00:52+01:00",
-    "updated_at": "2023-11-19T13:03:47+01:00",
-    "media_id": "1noxa77ac6no",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6290382/politie-vindt-ruim-40-kilo-illegaal-vuurwerk-in-slaapkamer-van-zeer-jong-kind.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6290381,
-    "slug": "omgevallen-muur-plet-meerdere-autos-in-dominicaanse-republiek",
-    "type": "video",
-    "title": "Omgevallen muur plet meerdere auto's in Dominicaanse Republiek",
-    "subtitle": "Video",
-    "published_at": "2023-11-19T11:59:49+01:00",
-    "updated_at": "2023-11-19T12:10:37+01:00",
-    "media_id": "7m2x630a8mi9",
-    "duration": "0:36",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6290381/omgevallen-muur-plet-meerdere-autos-in-dominicaanse-republiek.html",
     "open_new_window": false,
     "partner": null
   }
