@@ -1,12 +1,150 @@
 [
   {
+    "id": 6290508,
+    "slug": "lang-keert-terug-bij-psv-in-aanloop-naar-week-met-drie-topwedstrijden",
+    "type": "article",
+    "title": "Lang keert terug bij PSV in aanloop naar week met drie topwedstrijden",
+    "subtitle": null,
+    "published_at": "2023-11-20T12:43:09+01:00",
+    "updated_at": "2023-11-20T12:57:39+01:00",
+    "media_id": "f86x2z9ang3j",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6290508/lang-keert-terug-bij-psv-in-aanloop-naar-week-met-drie-topwedstrijden.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6290513,
+    "slug": "shakira-meldt-zich-bij-spaanse-rechtbank-voor-belastingfraudezaak",
+    "type": "video",
+    "title": "Shakira meldt zich bij Spaanse rechtbank voor belastingfraudezaak",
+    "subtitle": "Video",
+    "published_at": "2023-11-20T12:37:38+01:00",
+    "updated_at": "2023-11-20T12:43:42+01:00",
+    "media_id": "v2zxn4nay860",
+    "duration": "0:55",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6290513/shakira-meldt-zich-bij-spaanse-rechtbank-voor-belastingfraudezaak.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6290510,
+    "slug": "tijgermug-gespot-in-bijna-heel-nederland-maar-heeft-zich-nog-niet-gevestigd",
+    "type": "article",
+    "title": "Tijgermug gespot in bijna heel Nederland 'maar heeft zich nog niet gevestigd'",
+    "subtitle": null,
+    "published_at": "2023-11-20T12:27:53+01:00",
+    "updated_at": "2023-11-20T12:27:54+01:00",
+    "media_id": "zj6xqhqacdqi",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772536,
+      "slug": "dieren",
+      "type": "default",
+      "name": "Dieren",
+      "style": "nunjij",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/dieren/6290510/tijgermug-gespot-in-bijna-heel-nederland-maar-heeft-zich-nog-niet-gevestigd.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6290498,
+    "slug": "reddingswerkers-boren-tunnels-voor-bouwvakkers-in-india-die-al-week-vastzitten",
+    "type": "article",
+    "title": "Reddingswerkers boren tunnels voor bouwvakkers in India die al week vastzitten",
+    "subtitle": null,
+    "published_at": "2023-11-20T12:22:37+01:00",
+    "updated_at": "2023-11-20T12:30:20+01:00",
+    "media_id": "w2sxx9laaslb",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6290498/reddingswerkers-boren-tunnels-voor-bouwvakkers-in-india-die-al-week-vastzitten.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6290509,
+    "slug": "russell-brand-door-politie-verhoord-over-vermeend-seksueel-misbruik",
+    "type": "article",
+    "title": "Russell Brand door politie verhoord over vermeend seksueel misbruik",
+    "subtitle": null,
+    "published_at": "2023-11-20T12:22:09+01:00",
+    "updated_at": "2023-11-20T12:22:10+01:00",
+    "media_id": "5awxq0xa3li5",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771675,
+      "slug": "media",
+      "type": "default",
+      "name": "Media",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/media/6290509/russell-brand-door-politie-verhoord-over-vermeend-seksueel-misbruik.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6290494,
+    "slug": "zo-verliep-het-bizarre-weekend-bij-chatgpt-maker-openai",
+    "type": "article",
+    "title": "Zo verliep het bizarre weekend bij ChatGPT-maker OpenAI",
+    "subtitle": "NU+",
+    "published_at": "2023-11-20T12:07:48+01:00",
+    "updated_at": "2023-11-20T13:00:31+01:00",
+    "media_id": "i9bxconai3q5",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771438,
+      "slug": "tech",
+      "type": "default",
+      "name": "Tech",
+      "style": "nutech",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/tech/6290494/zo-verliep-het-bizarre-weekend-bij-chatgpt-maker-openai.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6290500,
     "slug": "kritiek-op-kabinetsplan-om-huren-in-vrije-sector-aan-banden-te-leggen",
     "type": "article",
     "title": "Kritiek op kabinetsplan om huren in vrije sector aan banden te leggen",
     "subtitle": null,
     "published_at": "2023-11-20T12:00:19+01:00",
-    "updated_at": "2023-11-20T12:00:20+01:00",
+    "updated_at": "2023-11-20T12:58:44+01:00",
     "media_id": "btmxzdoaqjo6",
     "duration": null,
     "canonical_section": {
@@ -52,7 +190,7 @@
     "title": "Nyck de Vries rijdt in 2024 WEC-seizoen voor topteam Toyota, inclusief Le Mans",
     "subtitle": null,
     "published_at": "2023-11-20T11:40:32+01:00",
-    "updated_at": "2023-11-20T11:41:18+01:00",
+    "updated_at": "2023-11-20T12:22:20+01:00",
     "media_id": "2fbxlt6ayrs0",
     "duration": null,
     "canonical_section": {
@@ -75,7 +213,7 @@
     "title": "Otters treiteren staartloze krokodil in Singapore",
     "subtitle": "Video",
     "published_at": "2023-11-20T11:34:51+01:00",
-    "updated_at": "2023-11-20T11:48:12+01:00",
+    "updated_at": "2023-11-20T12:31:11+01:00",
     "media_id": "wdcxlkqaqqvh",
     "duration": "0:46",
     "canonical_section": {
@@ -98,7 +236,7 @@
     "title": "ProRail gaf reizigers verkeerde info bij treinstoring rond Harry Styles-concert",
     "subtitle": null,
     "published_at": "2023-11-20T11:22:41+01:00",
-    "updated_at": "2023-11-20T11:22:42+01:00",
+    "updated_at": "2023-11-20T12:51:02+01:00",
     "media_id": "9vixk2calvku",
     "duration": null,
     "canonical_section": {
@@ -139,12 +277,12 @@
   },
   {
     "id": 6290489,
-    "slug": "shakira-schikt-op-laatste-moment-met-belastingdienst-en-hoeft-cel-niet-in",
+    "slug": "shakira-schikt-op-laatste-moment-met-spaanse-belastingdienst-en-hoeft-cel-niet-in",
     "type": "article",
-    "title": "Shakira schikt op laatste moment met belastingdienst en hoeft cel niet in",
+    "title": "Shakira schikt op laatste moment met Spaanse belastingdienst en hoeft cel niet in",
     "subtitle": null,
     "published_at": "2023-11-20T11:03:32+01:00",
-    "updated_at": "2023-11-20T11:56:51+01:00",
+    "updated_at": "2023-11-20T12:50:44+01:00",
     "media_id": "wmix7qsa7ctm",
     "duration": null,
     "canonical_section": {
@@ -156,7 +294,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/achterklap/6290489/shakira-schikt-op-laatste-moment-met-belastingdienst-en-hoeft-cel-niet-in.html",
+    "url": "/achterklap/6290489/shakira-schikt-op-laatste-moment-met-spaanse-belastingdienst-en-hoeft-cel-niet-in.html",
     "open_new_window": false,
     "partner": null
   },
@@ -351,7 +489,7 @@
     "title": "Topman Sam Altman drie dagen na ontslag bij OpenAI naar Microsoft",
     "subtitle": null,
     "published_at": "2023-11-20T09:22:01+01:00",
-    "updated_at": "2023-11-20T10:41:54+01:00",
+    "updated_at": "2023-11-20T12:11:59+01:00",
     "media_id": "84txqxsaphrl",
     "duration": null,
     "canonical_section": {
@@ -374,7 +512,7 @@
     "title": "Lonen stegen in oktober fors met 8,2 procent, maar de vraag is hoeveel dat zegt",
     "subtitle": null,
     "published_at": "2023-11-20T08:53:09+01:00",
-    "updated_at": "2023-11-20T12:01:19+01:00",
+    "updated_at": "2023-11-20T12:12:56+01:00",
     "media_id": "6vfxek0aw4zh",
     "duration": null,
     "canonical_section": {
@@ -415,12 +553,12 @@
   },
   {
     "id": 6290466,
-    "slug": "spaans-toptalent-gavi-mist-mogelijk-het-ek-we-zijn-er-allemaal-kapot-van",
+    "slug": "spaans-toptalent-gavi-mist-waarschijnlijk-het-ek-we-zijn-er-allemaal-kapot-van",
     "type": "article",
-    "title": "Spaans toptalent Gavi mist mogelijk het EK: 'We zijn er allemaal kapot van'",
+    "title": "Spaans toptalent Gavi mist waarschijnlijk het EK: 'We zijn er allemaal kapot van'",
     "subtitle": null,
     "published_at": "2023-11-20T08:26:38+01:00",
-    "updated_at": "2023-11-20T08:26:39+01:00",
+    "updated_at": "2023-11-20T12:50:30+01:00",
     "media_id": "euoxehaaqvyc",
     "duration": null,
     "canonical_section": {
@@ -432,7 +570,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6290466/spaans-toptalent-gavi-mist-mogelijk-het-ek-we-zijn-er-allemaal-kapot-van.html",
+    "url": "/voetbal/6290466/spaans-toptalent-gavi-mist-waarschijnlijk-het-ek-we-zijn-er-allemaal-kapot-van.html",
     "open_new_window": false,
     "partner": null
   },
@@ -548,144 +686,6 @@
       "partner": null
     },
     "url": "/tennis/6290460/djokovic-nu-ook-recordhouder-bij-atp-finals-een-van-mijn-beste-seizoenen-ooit.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6290458,
-    "slug": "carice-van-houten-en-halina-reijn-zakelijk-uit-elkaar-blijven-diep-verbonden",
-    "type": "article",
-    "title": "Carice van Houten en Halina Reijn zakelijk uit elkaar: 'Blijven diep verbonden'",
-    "subtitle": null,
-    "published_at": "2023-11-20T06:56:50+01:00",
-    "updated_at": "2023-11-20T11:52:13+01:00",
-    "media_id": "95qxoe5ajqr0",
-    "duration": null,
-    "canonical_section": {
-      "id": 125,
-      "slug": "achterklap",
-      "type": "default",
-      "name": "Achterklap",
-      "style": "nuentertainment",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/achterklap/6290458/carice-van-houten-en-halina-reijn-zakelijk-uit-elkaar-blijven-diep-verbonden.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6290172,
-    "slug": "hoe-werkt-een-minderheidskabinet-eigenlijk",
-    "type": "video",
-    "title": "Hoe werkt een minderheidskabinet eigenlijk?",
-    "subtitle": "Explainer",
-    "published_at": "2023-11-20T06:35:30+01:00",
-    "updated_at": "2023-11-20T07:52:38+01:00",
-    "media_id": "p9zx0e3atvs2",
-    "duration": "1:40",
-    "canonical_section": {
-      "id": 1771437,
-      "slug": "politiek",
-      "type": "default",
-      "name": "Politiek",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/politiek/6290172/hoe-werkt-een-minderheidskabinet-eigenlijk.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6290456,
-    "slug": "ultrarechtse-nieuwkomer-javier-milei-wint-argentijnse-presidentsverkiezing",
-    "type": "article",
-    "title": "Ultrarechtse nieuwkomer Javier Milei wint Argentijnse presidentsverkiezing",
-    "subtitle": null,
-    "published_at": "2023-11-20T06:19:48+01:00",
-    "updated_at": "2023-11-20T10:09:21+01:00",
-    "media_id": "01dxowwabq77",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6290456/ultrarechtse-nieuwkomer-javier-milei-wint-argentijnse-presidentsverkiezing.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6290454,
-    "slug": "taylor-swift-en-morgan-wallen-grote-winnaars-van-billboard-music-awards",
-    "type": "article",
-    "title": "Taylor Swift en Morgan Wallen grote winnaars van Billboard Music Awards",
-    "subtitle": null,
-    "published_at": "2023-11-20T06:01:33+01:00",
-    "updated_at": "2023-11-20T07:29:27+01:00",
-    "media_id": "g0oxpyia51dp",
-    "duration": null,
-    "canonical_section": {
-      "id": 868281,
-      "slug": "muziek",
-      "type": "default",
-      "name": "Muziek",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/muziek/6290454/taylor-swift-en-morgan-wallen-grote-winnaars-van-billboard-music-awards.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6290453,
-    "slug": "het-is-een-wisselvallig-en-zacht-begin-van-de-week",
-    "type": "article",
-    "title": "Het is een wisselvallig en zacht begin van de week",
-    "subtitle": "Weerbericht",
-    "published_at": "2023-11-20T05:59:08+01:00",
-    "updated_at": "2023-11-20T06:30:28+01:00",
-    "media_id": "pf5x6g6alpi4",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779283,
-      "slug": "weerbericht",
-      "type": "default",
-      "name": "Weerbericht",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/weerbericht/6290453/het-is-een-wisselvallig-en-zacht-begin-van-de-week.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6290452,
-    "slug": "veel-kiezers-beslissen-woensdag-pas-op-wie-ze-stemmen",
-    "type": "article",
-    "title": "Veel kiezers beslissen woensdag pas op wie ze stemmen",
-    "subtitle": "Verkiezingsblog",
-    "published_at": "2023-11-20T05:41:33+01:00",
-    "updated_at": "2023-11-20T11:51:33+01:00",
-    "media_id": "lb7xt0aasrs1",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771437,
-      "slug": "politiek",
-      "type": "default",
-      "name": "Politiek",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/politiek/6290452/veel-kiezers-beslissen-woensdag-pas-op-wie-ze-stemmen.html",
     "open_new_window": false,
     "partner": null
   }
