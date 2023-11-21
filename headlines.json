@@ -1,5 +1,143 @@
 [
   {
+    "id": 6290615,
+    "slug": "brazilie-breekt-eigen-hitterecord-temperatuur-stijgt-tot-bijna-45-graden",
+    "type": "article",
+    "title": "Brazilië breekt eigen hitterecord: temperatuur stijgt tot bijna 45 graden",
+    "subtitle": null,
+    "published_at": "2023-11-21T08:54:21+01:00",
+    "updated_at": "2023-11-21T08:54:22+01:00",
+    "media_id": "ywxx024amdsu",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6290615/brazilie-breekt-eigen-hitterecord-temperatuur-stijgt-tot-bijna-45-graden.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6290609,
+    "slug": "robbie-williams-fan-overleden-aan-gevolgen-van-val-bij-concert-in-sydney",
+    "type": "article",
+    "title": "Robbie Williams-fan overleden aan gevolgen van val bij concert in Sydney",
+    "subtitle": null,
+    "published_at": "2023-11-21T08:35:20+01:00",
+    "updated_at": "2023-11-21T08:57:20+01:00",
+    "media_id": "a0px715aheqh",
+    "duration": null,
+    "canonical_section": {
+      "id": 868281,
+      "slug": "muziek",
+      "type": "default",
+      "name": "Muziek",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/muziek/6290609/robbie-williams-fan-overleden-aan-gevolgen-van-val-bij-concert-in-sydney.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6290545,
+    "slug": "uitkeringen-in-nederland-moeten-verlaagd-worden",
+    "type": "article",
+    "title": "'Uitkeringen in Nederland moeten verlaagd worden'",
+    "subtitle": "Verkiezingsstelling",
+    "published_at": "2023-11-21T08:35:10+01:00",
+    "updated_at": "2023-11-21T08:35:11+01:00",
+    "media_id": "q6bxdz2a4gie",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779134,
+      "slug": "stelling",
+      "type": "default",
+      "name": "Stelling en Praat Mee",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/stelling/6290545/uitkeringen-in-nederland-moeten-verlaagd-worden.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6290611,
+    "slug": "amerikaans-patrouillevliegtuig-dat-landingsbaan-miste-ligt-in-zee-bij-hawai",
+    "type": "video",
+    "title": "Amerikaans patrouillevliegtuig dat landingsbaan miste ligt in zee bij Hawaï",
+    "subtitle": "Video",
+    "published_at": "2023-11-21T08:31:01+01:00",
+    "updated_at": "2023-11-21T08:31:02+01:00",
+    "media_id": "kxex98eawrtu",
+    "duration": "0:36",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6290611/amerikaans-patrouillevliegtuig-dat-landingsbaan-miste-ligt-in-zee-bij-hawai.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6290608,
+    "slug": "griepgolf-houdt-aan-en-leidde-in-oktober-weer-tot-meer-ziekmeldingen",
+    "type": "article",
+    "title": "Griepgolf houdt aan en leidde in oktober weer tot meer ziekmeldingen",
+    "subtitle": null,
+    "published_at": "2023-11-21T08:27:20+01:00",
+    "updated_at": "2023-11-21T08:27:22+01:00",
+    "media_id": "6k5x7lyaoz52",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6290608/griepgolf-houdt-aan-en-leidde-in-oktober-weer-tot-meer-ziekmeldingen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6290606,
+    "slug": "israel-en-hamas-lijken-dicht-bij-akkoord-over-vrijlating-gijzelaars",
+    "type": "article",
+    "title": "Israël en Hamas lijken dicht bij akkoord over vrijlating gijzelaars",
+    "subtitle": null,
+    "published_at": "2023-11-21T08:14:00+01:00",
+    "updated_at": "2023-11-21T08:37:43+01:00",
+    "media_id": "mzkxrp6a6idc",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772085,
+      "slug": "midden-oostenconflict",
+      "type": "default",
+      "name": "Oorlog Israël en Hamas",
+      "style": "nu",
+      "media_id": "m1oxeovaiadm",
+      "partner": null
+    },
+    "url": "/midden-oostenconflict/6290606/israel-en-hamas-lijken-dicht-bij-akkoord-over-vrijlating-gijzelaars.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6290605,
     "slug": "zo-breng-je-als-blinde-of-slechtziende-je-stem-uit",
     "type": "video",
@@ -29,7 +167,7 @@
     "title": "Steeds meer zorgmedewerkers zijn zzp'er: een op negen is eigen baas",
     "subtitle": null,
     "published_at": "2023-11-21T07:35:26+01:00",
-    "updated_at": "2023-11-21T07:50:39+01:00",
+    "updated_at": "2023-11-21T09:00:30+01:00",
     "media_id": "yz4x3qvaujbn",
     "duration": null,
     "canonical_section": {
@@ -52,7 +190,7 @@
     "title": "Gefrustreerde Dest wekt woede Amerikaanse teamgenoten met bizarre rode kaart",
     "subtitle": null,
     "published_at": "2023-11-21T07:28:54+01:00",
-    "updated_at": "2023-11-21T07:40:05+01:00",
+    "updated_at": "2023-11-21T08:32:08+01:00",
     "media_id": "kjaxje6a5mad",
     "duration": null,
     "canonical_section": {
@@ -162,13 +300,13 @@
   },
   {
     "id": 6290597,
-    "slug": "er-kan-nog-veel-gebeuren-op-laatste-dag-voor-verkiezingen",
+    "slug": "paraplu-is-niet-nodig-als-je-gaat-stemmen-een-dikke-jas-wel",
     "type": "article",
-    "title": "Er kan nog veel gebeuren op laatste dag voor verkiezingen",
+    "title": "Paraplu is niet nodig als je gaat stemmen, een dikke jas wel",
     "subtitle": "Verkiezingsblog",
     "published_at": "2023-11-21T05:39:25+01:00",
-    "updated_at": "2023-11-21T07:01:32+01:00",
-    "media_id": "uhwxs2bapw9g",
+    "updated_at": "2023-11-21T08:40:00+01:00",
+    "media_id": "hwwxi5pab6vq",
     "duration": null,
     "canonical_section": {
       "id": 1771437,
@@ -179,7 +317,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/politiek/6290597/er-kan-nog-veel-gebeuren-op-laatste-dag-voor-verkiezingen.html",
+    "url": "/politiek/6290597/paraplu-is-niet-nodig-als-je-gaat-stemmen-een-dikke-jas-wel.html",
     "open_new_window": false,
     "partner": null
   },
@@ -208,12 +346,12 @@
   },
   {
     "id": 6290547,
-    "slug": "wat-kan-oranje-na-de-franse-14-0-met-zon-groot-mogelijke-uitslag-winnen",
+    "slug": "wat-kan-oranje-na-de-franse-14-0-met-zo-groot-mogelijke-uitslag-winnen",
     "type": "article",
-    "title": "Wat kan Oranje na de Franse 14-0? 'Met zo'n groot mogelijke uitslag winnen'",
+    "title": "Wat kan Oranje na de Franse 14-0? 'Met zo groot mogelijke uitslag winnen'",
     "subtitle": null,
     "published_at": "2023-11-21T05:08:20+01:00",
-    "updated_at": "2023-11-21T07:54:09+01:00",
+    "updated_at": "2023-11-21T08:55:32+01:00",
     "media_id": "u1zx851aivhf",
     "duration": null,
     "canonical_section": {
@@ -225,7 +363,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6290547/wat-kan-oranje-na-de-franse-14-0-met-zon-groot-mogelijke-uitslag-winnen.html",
+    "url": "/voetbal/6290547/wat-kan-oranje-na-de-franse-14-0-met-zo-groot-mogelijke-uitslag-winnen.html",
     "open_new_window": false,
     "partner": null
   },
@@ -259,7 +397,7 @@
     "title": "Memphis hervat groepstraining bij Atlético richting CL-duel met Feyenoord",
     "subtitle": null,
     "published_at": "2023-11-21T00:09:07+01:00",
-    "updated_at": "2023-11-21T00:22:22+01:00",
+    "updated_at": "2023-11-21T08:27:04+01:00",
     "media_id": "6mex5ofayhrf",
     "duration": null,
     "canonical_section": {
@@ -328,7 +466,7 @@
     "title": "Slovenië plaatst zich voor EK en beëindigt Kazachse droom, ook Tsjechië zeker",
     "subtitle": null,
     "published_at": "2023-11-20T22:55:19+01:00",
-    "updated_at": "2023-11-20T23:43:39+01:00",
+    "updated_at": "2023-11-21T08:22:25+01:00",
     "media_id": "oa7xspnawbcm",
     "duration": null,
     "canonical_section": {
@@ -374,7 +512,7 @@
     "title": "Titelverdediger Italië ontsnapt en grijpt EK-ticket, Oekraïne naar play-offs",
     "subtitle": null,
     "published_at": "2023-11-20T22:44:39+01:00",
-    "updated_at": "2023-11-21T07:48:08+01:00",
+    "updated_at": "2023-11-21T08:19:07+01:00",
     "media_id": "8mexoo3ay7fc",
     "duration": null,
     "canonical_section": {
@@ -548,144 +686,6 @@
       "partner": null
     },
     "url": "/voetbal/6290582/lainer-keert-na-genezing-lymfeklierkanker-terug-bij-borussia-monchengladbach.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6290579,
-    "slug": "travis-kelce-over-relatie-met-taylor-swift-haar-familie-speelde-voor-cupido",
-    "type": "article",
-    "title": "Travis Kelce over relatie met Taylor Swift: 'Haar familie speelde voor cupido'",
-    "subtitle": null,
-    "published_at": "2023-11-20T19:29:57+01:00",
-    "updated_at": "2023-11-20T19:29:58+01:00",
-    "media_id": "65cx108adbze",
-    "duration": null,
-    "canonical_section": {
-      "id": 125,
-      "slug": "achterklap",
-      "type": "default",
-      "name": "Achterklap",
-      "style": "nuentertainment",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/achterklap/6290579/travis-kelce-over-relatie-met-taylor-swift-haar-familie-speelde-voor-cupido.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6290580,
-    "slug": "vrijgesproken-mendy-eist-miljoenen-aan-onbetaald-loon-van-manchester-city",
-    "type": "article",
-    "title": "Vrijgesproken Mendy eist miljoenen aan onbetaald loon van Manchester City",
-    "subtitle": null,
-    "published_at": "2023-11-20T19:02:09+01:00",
-    "updated_at": "2023-11-20T19:34:53+01:00",
-    "media_id": "mb0x0ntatf3r",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6290580/vrijgesproken-mendy-eist-miljoenen-aan-onbetaald-loon-van-manchester-city.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6290567,
-    "slug": "netflix-serie-met-sofia-vergara-als-cocaine-godmother-vanaf-januari-te-zien",
-    "type": "article",
-    "title": "Netflix-serie met Sofia Vergara als 'Cocaine Godmother' vanaf januari te zien",
-    "subtitle": null,
-    "published_at": "2023-11-20T18:43:12+01:00",
-    "updated_at": "2023-11-20T18:43:13+01:00",
-    "media_id": "4ajxthgaa0y5",
-    "duration": null,
-    "canonical_section": {
-      "id": 127,
-      "slug": "film",
-      "type": "default",
-      "name": "Films & Series",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/film/6290567/netflix-serie-met-sofia-vergara-als-cocaine-godmother-vanaf-januari-te-zien.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6290559,
-    "slug": "zorgen-in-ter-apel-om-overlast-door-asielzoekers-meer-inzet-op-speciale-opvang",
-    "type": "article",
-    "title": "Zorgen in Ter Apel om overlast door asielzoekers, meer inzet op speciale opvang",
-    "subtitle": null,
-    "published_at": "2023-11-20T18:41:52+01:00",
-    "updated_at": "2023-11-21T05:10:38+01:00",
-    "media_id": "90vxct1amk91",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6290559/zorgen-in-ter-apel-om-overlast-door-asielzoekers-meer-inzet-op-speciale-opvang.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6290576,
-    "slug": "baudet-in-gronings-cafe-aangevallen-met-fles",
-    "type": "video",
-    "title": "Baudet in Gronings café aangevallen met fles",
-    "subtitle": "Video",
-    "published_at": "2023-11-20T18:26:33+01:00",
-    "updated_at": "2023-11-20T23:51:09+01:00",
-    "media_id": "tqaxya1a9zx4",
-    "duration": "0:43",
-    "canonical_section": {
-      "id": 100,
-      "slug": "algemeen",
-      "type": "default",
-      "name": "Algemeen",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/algemeen/6290576/baudet-in-gronings-cafe-aangevallen-met-fles.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6290574,
-    "slug": "fvd-lijsttrekker-baudet-naar-ziekenhuis-na-aanval-met-fles-in-gronings-cafe",
-    "type": "article",
-    "title": "FVD-lijsttrekker Baudet naar ziekenhuis na aanval met fles in Gronings café",
-    "subtitle": null,
-    "published_at": "2023-11-20T18:16:52+01:00",
-    "updated_at": "2023-11-20T21:48:31+01:00",
-    "media_id": "elax0tqadfyw",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771437,
-      "slug": "politiek",
-      "type": "default",
-      "name": "Politiek",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/politiek/6290574/fvd-lijsttrekker-baudet-naar-ziekenhuis-na-aanval-met-fles-in-gronings-cafe.html",
     "open_new_window": false,
     "partner": null
   }
