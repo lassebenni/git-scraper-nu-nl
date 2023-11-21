@@ -1,5 +1,97 @@
 [
   {
+    "id": 6290693,
+    "slug": "nieuwe-beelden-tonen-letterlijk-verscheurd-ijslands-stadje",
+    "type": "video",
+    "title": "Nieuwe beelden tonen letterlijk verscheurd IJslands stadje",
+    "subtitle": "Video",
+    "published_at": "2023-11-21T15:59:07+01:00",
+    "updated_at": "2023-11-21T15:59:09+01:00",
+    "media_id": "9knxeuiaszmp",
+    "duration": "0:39",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6290693/nieuwe-beelden-tonen-letterlijk-verscheurd-ijslands-stadje.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6290685,
+    "slug": "kraker-tegen-engeland-wordt-bestbezochte-wedstrijd-oranjevrouwen-ooit",
+    "type": "article",
+    "title": "Kraker tegen Engeland wordt bestbezochte wedstrijd Oranjevrouwen ooit",
+    "subtitle": null,
+    "published_at": "2023-11-21T15:45:23+01:00",
+    "updated_at": "2023-11-21T15:45:25+01:00",
+    "media_id": "71ox16za0dgi",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6290685/kraker-tegen-engeland-wordt-bestbezochte-wedstrijd-oranjevrouwen-ooit.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6290690,
+    "slug": "waarschuwing-voor-ontsnapte-groene-gifslang-in-tilburg",
+    "type": "article",
+    "title": "Waarschuwing voor ontsnapte groene gifslang in Tilburg",
+    "subtitle": null,
+    "published_at": "2023-11-21T15:40:42+01:00",
+    "updated_at": "2023-11-21T15:55:54+01:00",
+    "media_id": "3hbxegdamua3",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772536,
+      "slug": "dieren",
+      "type": "default",
+      "name": "Dieren",
+      "style": "nunjij",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/dieren/6290690/waarschuwing-voor-ontsnapte-groene-gifslang-in-tilburg.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6290682,
+    "slug": "stalkingszaak-uit-zeeman-confronteert-moet-opnieuw-vanwege-valse-aangiften",
+    "type": "article",
+    "title": "Stalkingszaak uit Zeeman Confronteert moet opnieuw vanwege valse aangiften",
+    "subtitle": null,
+    "published_at": "2023-11-21T15:05:17+01:00",
+    "updated_at": "2023-11-21T15:05:19+01:00",
+    "media_id": "oqoxhf7ax0pl",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6290682/stalkingszaak-uit-zeeman-confronteert-moet-opnieuw-vanwege-valse-aangiften.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6290679,
     "slug": "pim-muda-speelt-vincent-van-gogh-in-film-over-drentse-periode-van-schilder",
     "type": "article",
@@ -231,12 +323,12 @@
   },
   {
     "id": 6290661,
-    "slug": "baudet-heeft-hoofdwond-na-mishandeling-groningen-maar-wij-gaan-door-en-buigen-niet",
+    "slug": "baudet-heeft-hoofdwond-na-aanval-maar-wij-gaan-door-en-buigen-niet",
     "type": "article",
-    "title": "Baudet heeft hoofdwond na mishandeling Groningen: 'Maar wij gaan door en buigen niet'",
+    "title": "Baudet heeft hoofdwond na aanval: 'Maar wij gaan door en buigen niet'",
     "subtitle": null,
     "published_at": "2023-11-21T13:04:41+01:00",
-    "updated_at": "2023-11-21T14:43:45+01:00",
+    "updated_at": "2023-11-21T15:55:47+01:00",
     "media_id": "rrox8z4aasjg",
     "duration": null,
     "canonical_section": {
@@ -248,7 +340,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/politiek/6290661/baudet-heeft-hoofdwond-na-mishandeling-groningen-maar-wij-gaan-door-en-buigen-niet.html",
+    "url": "/politiek/6290661/baudet-heeft-hoofdwond-na-aanval-maar-wij-gaan-door-en-buigen-niet.html",
     "open_new_window": false,
     "partner": null
   },
@@ -489,7 +581,7 @@
     "title": "Groep Wajongers alsnog vrijgesteld van gemeentelijke en waterschapsbelasting",
     "subtitle": null,
     "published_at": "2023-11-21T10:53:48+01:00",
-    "updated_at": "2023-11-21T12:43:33+01:00",
+    "updated_at": "2023-11-21T15:14:07+01:00",
     "media_id": "gw5x698anh9d",
     "duration": null,
     "canonical_section": {
@@ -594,98 +686,6 @@
       "partner": null
     },
     "url": "/politiek/6290634/verdachte-die-baudet-met-fles-zou-hebben-geslagen-is-minderjarige-jongen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6290626,
-    "slug": "lee-towers-voelt-zich-weer-goed-na-vallen-en-operatie-een-lange-weg-afgelegd",
-    "type": "article",
-    "title": "Lee Towers voelt zich weer goed na vallen en operatie: 'Een lange weg afgelegd'",
-    "subtitle": null,
-    "published_at": "2023-11-21T10:24:24+01:00",
-    "updated_at": "2023-11-21T10:38:50+01:00",
-    "media_id": "flqx02hanzs6",
-    "duration": null,
-    "canonical_section": {
-      "id": 125,
-      "slug": "achterklap",
-      "type": "default",
-      "name": "Achterklap",
-      "style": "nuentertainment",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/achterklap/6290626/lee-towers-voelt-zich-weer-goed-na-vallen-en-operatie-een-lange-weg-afgelegd.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6290625,
-    "slug": "kees-van-der-spek-tooske-ragas-en-jeroen-spitzenberger-in-wie-is-de-mol",
-    "type": "article",
-    "title": "Kees van der Spek, Tooske Ragas en Jeroen Spitzenberger in Wie is de Mol?",
-    "subtitle": null,
-    "published_at": "2023-11-21T10:01:12+01:00",
-    "updated_at": "2023-11-21T14:13:06+01:00",
-    "media_id": "llyxog5afn6m",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771675,
-      "slug": "media",
-      "type": "default",
-      "name": "Media",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/media/6290625/kees-van-der-spek-tooske-ragas-en-jeroen-spitzenberger-in-wie-is-de-mol.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6290620,
-    "slug": "pnk-geeft-volgend-jaar-concert-in-johan-cruijff-arena",
-    "type": "article",
-    "title": "P!NK geeft volgend jaar concert in Johan Cruijff ArenA",
-    "subtitle": null,
-    "published_at": "2023-11-21T09:44:06+01:00",
-    "updated_at": "2023-11-21T14:07:12+01:00",
-    "media_id": "fjkx54ra93sy",
-    "duration": null,
-    "canonical_section": {
-      "id": 868281,
-      "slug": "muziek",
-      "type": "default",
-      "name": "Muziek",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/muziek/6290620/pnk-geeft-volgend-jaar-concert-in-johan-cruijff-arena.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6290617,
-    "slug": "x-klaagt-onderzoeksgroep-aan-na-beschuldigingen-van-antisemitisme",
-    "type": "article",
-    "title": "X klaagt onderzoeksgroep aan na beschuldigingen van antisemitisme",
-    "subtitle": null,
-    "published_at": "2023-11-21T09:26:58+01:00",
-    "updated_at": "2023-11-21T09:26:59+01:00",
-    "media_id": "w34x4v7advvl",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771438,
-      "slug": "tech",
-      "type": "default",
-      "name": "Tech",
-      "style": "nutech",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/tech/6290617/x-klaagt-onderzoeksgroep-aan-na-beschuldigingen-van-antisemitisme.html",
     "open_new_window": false,
     "partner": null
   }
