@@ -1,12 +1,127 @@
 [
   {
-    "id": 6290599,
-    "slug": "sander-schimmelpennick-stopt-met-x-ik-heb-wel-wat-beters-te-doen",
+    "id": 6290605,
+    "slug": "zo-breng-je-als-blinde-of-slechtziende-je-stem-uit",
+    "type": "video",
+    "title": "Zo breng je als blinde of slechtziende je stem uit",
+    "subtitle": "Explainer",
+    "published_at": "2023-11-21T07:41:41+01:00",
+    "updated_at": "2023-11-21T07:44:47+01:00",
+    "media_id": "uvdx4eiad0iv",
+    "duration": "3:06",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6290605/zo-breng-je-als-blinde-of-slechtziende-je-stem-uit.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6290604,
+    "slug": "steeds-meer-zorgmedewerkers-zijn-zzper-een-op-negen-is-eigen-baas",
     "type": "article",
-    "title": "Sander Schimmelpennick stopt met X: 'Ik heb wel wat beters te doen'",
+    "title": "Steeds meer zorgmedewerkers zijn zzp'er: een op negen is eigen baas",
+    "subtitle": null,
+    "published_at": "2023-11-21T07:35:26+01:00",
+    "updated_at": "2023-11-21T07:50:39+01:00",
+    "media_id": "yz4x3qvaujbn",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6290604/steeds-meer-zorgmedewerkers-zijn-zzper-een-op-negen-is-eigen-baas.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6290603,
+    "slug": "gefrustreerde-dest-wekt-woede-amerikaanse-teamgenoten-met-bizarre-rode-kaart",
+    "type": "article",
+    "title": "Gefrustreerde Dest wekt woede Amerikaanse teamgenoten met bizarre rode kaart",
+    "subtitle": null,
+    "published_at": "2023-11-21T07:28:54+01:00",
+    "updated_at": "2023-11-21T07:40:05+01:00",
+    "media_id": "kjaxje6a5mad",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6290603/gefrustreerde-dest-wekt-woede-amerikaanse-teamgenoten-met-bizarre-rode-kaart.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6290602,
+    "slug": "dode-bij-woningbrand-in-oosterhout-ander-redt-zichzelf-door-uit-raam-te-springen",
+    "type": "article",
+    "title": "Dode bij woningbrand in Oosterhout, ander redt zichzelf door uit raam te springen",
+    "subtitle": null,
+    "published_at": "2023-11-21T07:17:41+01:00",
+    "updated_at": "2023-11-21T07:24:25+01:00",
+    "media_id": "yxtx3bgajzhg",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6290602/dode-bij-woningbrand-in-oosterhout-ander-redt-zichzelf-door-uit-raam-te-springen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6290600,
+    "slug": "vakbonden-akkoord-over-loonsverhoging-en-verlaging-werkdruk-in-jeugdzorg",
+    "type": "article",
+    "title": "Vakbonden akkoord over loonsverhoging en verlaging werkdruk in jeugdzorg",
+    "subtitle": null,
+    "published_at": "2023-11-21T07:08:05+01:00",
+    "updated_at": "2023-11-21T07:25:28+01:00",
+    "media_id": "zvkx36vanjgq",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6290600/vakbonden-akkoord-over-loonsverhoging-en-verlaging-werkdruk-in-jeugdzorg.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6290599,
+    "slug": "sander-schimmelpenninck-stopt-met-x-ik-heb-wel-wat-beters-te-doen",
+    "type": "article",
+    "title": "Sander Schimmelpenninck stopt met X: 'Ik heb wel wat beters te doen'",
     "subtitle": null,
     "published_at": "2023-11-21T06:45:27+01:00",
-    "updated_at": "2023-11-21T06:45:28+01:00",
+    "updated_at": "2023-11-21T07:26:03+01:00",
     "media_id": "rqixhnqa2gng",
     "duration": null,
     "canonical_section": {
@@ -18,7 +133,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/media/6290599/sander-schimmelpennick-stopt-met-x-ik-heb-wel-wat-beters-te-doen.html",
+    "url": "/media/6290599/sander-schimmelpenninck-stopt-met-x-ik-heb-wel-wat-beters-te-doen.html",
     "open_new_window": false,
     "partner": null
   },
@@ -98,7 +213,7 @@
     "title": "Wat kan Oranje na de Franse 14-0? 'Met zo'n groot mogelijke uitslag winnen'",
     "subtitle": null,
     "published_at": "2023-11-21T05:08:20+01:00",
-    "updated_at": "2023-11-21T05:08:22+01:00",
+    "updated_at": "2023-11-21T07:54:09+01:00",
     "media_id": "u1zx851aivhf",
     "duration": null,
     "canonical_section": {
@@ -162,12 +277,12 @@
   },
   {
     "id": 6290594,
-    "slug": "illegale-goudzoekers-omgekomen-in-suriname-nadat-mijntunnel-instort",
+    "slug": "illegale-goudzoekers-in-suriname-omgekomen-doordat-mijntunnel-instort",
     "type": "article",
-    "title": "Illegale goudzoekers omgekomen in Suriname nadat mijntunnel instort",
+    "title": "Illegale goudzoekers in Suriname omgekomen doordat mijntunnel instort",
     "subtitle": null,
     "published_at": "2023-11-20T23:49:37+01:00",
-    "updated_at": "2023-11-21T06:07:53+01:00",
+    "updated_at": "2023-11-21T07:08:43+01:00",
     "media_id": "s4bxl1xavmuc",
     "duration": null,
     "canonical_section": {
@@ -179,7 +294,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/buitenland/6290594/illegale-goudzoekers-omgekomen-in-suriname-nadat-mijntunnel-instort.html",
+    "url": "/buitenland/6290594/illegale-goudzoekers-in-suriname-omgekomen-doordat-mijntunnel-instort.html",
     "open_new_window": false,
     "partner": null
   },
@@ -259,7 +374,7 @@
     "title": "Titelverdediger Italië ontsnapt en grijpt EK-ticket, Oekraïne naar play-offs",
     "subtitle": null,
     "published_at": "2023-11-20T22:44:39+01:00",
-    "updated_at": "2023-11-21T05:16:17+01:00",
+    "updated_at": "2023-11-21T07:48:08+01:00",
     "media_id": "8mexoo3ay7fc",
     "duration": null,
     "canonical_section": {
@@ -571,121 +686,6 @@
       "partner": null
     },
     "url": "/politiek/6290574/fvd-lijsttrekker-baudet-naar-ziekenhuis-na-aanval-met-fles-in-gronings-cafe.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6290568,
-    "slug": "hoe-rusland-migranten-met-fietsen-als-wapen-inzet-bij-finse-grens",
-    "type": "video",
-    "title": "Hoe Rusland migranten mét fietsen als wapen inzet bij Finse grens",
-    "subtitle": "Explainer",
-    "published_at": "2023-11-20T17:52:08+01:00",
-    "updated_at": "2023-11-20T18:59:22+01:00",
-    "media_id": "3cexfskaty3x",
-    "duration": "2:09",
-    "canonical_section": {
-      "id": 100,
-      "slug": "algemeen",
-      "type": "default",
-      "name": "Algemeen",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/algemeen/6290568/hoe-rusland-migranten-met-fietsen-als-wapen-inzet-bij-finse-grens.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6290562,
-    "slug": "theatermaker-rick-engelkes-niet-langer-betrokken-bij-musical-willem-van-oranje",
-    "type": "article",
-    "title": "Theatermaker Rick Engelkes niet langer betrokken bij musical Willem van Oranje",
-    "subtitle": null,
-    "published_at": "2023-11-20T17:49:40+01:00",
-    "updated_at": "2023-11-20T18:09:33+01:00",
-    "media_id": "mzqxoyha5ho0",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772075,
-      "slug": "cultuur-overig",
-      "type": "default",
-      "name": "Boek & Cultuur",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/cultuur-overig/6290562/theatermaker-rick-engelkes-niet-langer-betrokken-bij-musical-willem-van-oranje.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6290556,
-    "slug": "kabinet-op-de-vingers-getikt-voor-verhoging-verkeersboetes",
-    "type": "article",
-    "title": "Kabinet op de vingers getikt voor verhoging verkeersboetes",
-    "subtitle": null,
-    "published_at": "2023-11-20T16:29:20+01:00",
-    "updated_at": "2023-11-20T23:52:56+01:00",
-    "media_id": "x3sx145au18a",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6290556/kabinet-op-de-vingers-getikt-voor-verhoging-verkeersboetes.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6290532,
-    "slug": "vier-finse-grensovergangen-met-rusland-dicht-na-migrantenstroom-dit-speelt-er",
-    "type": "article",
-    "title": "Vier Finse grensovergangen met Rusland dicht na migrantenstroom: dit speelt er",
-    "subtitle": null,
-    "published_at": "2023-11-20T16:22:18+01:00",
-    "updated_at": "2023-11-20T16:28:41+01:00",
-    "media_id": "ixzxav4a6cfw",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6290532/vier-finse-grensovergangen-met-rusland-dicht-na-migrantenstroom-dit-speelt-er.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6290551,
-    "slug": "bedrijven-in-de-eu-krijgen-langer-hulp-bij-het-betalen-van-de-energierekening",
-    "type": "article",
-    "title": "Bedrijven in de EU krijgen langer hulp bij het betalen van de energierekening",
-    "subtitle": null,
-    "published_at": "2023-11-20T16:18:12+01:00",
-    "updated_at": "2023-11-20T16:18:13+01:00",
-    "media_id": "wjbxfbeahyr7",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6290551/bedrijven-in-de-eu-krijgen-langer-hulp-bij-het-betalen-van-de-energierekening.html",
     "open_new_window": false,
     "partner": null
   }
