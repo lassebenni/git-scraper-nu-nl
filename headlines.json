@@ -1,12 +1,104 @@
 [
   {
+    "id": 6290914,
+    "slug": "dag-begint-zacht-maar-bereid-je-voor-op-regen",
+    "type": "article",
+    "title": "Dag begint zacht, maar bereid je voor op regen",
+    "subtitle": "Weerbericht",
+    "published_at": "2023-11-23T05:38:45+01:00",
+    "updated_at": "2023-11-23T05:38:46+01:00",
+    "media_id": "iqaxitvadnqt",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779283,
+      "slug": "weerbericht",
+      "type": "default",
+      "name": "Weerbericht",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/weerbericht/6290914/dag-begint-zacht-maar-bereid-je-voor-op-regen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6290913,
+    "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
+    "type": "article",
+    "title": "Het Woord van vandaag: Raad jij het woord van de dag?",
+    "subtitle": null,
+    "published_at": "2023-11-23T05:17:23+01:00",
+    "updated_at": "2023-11-23T05:17:24+01:00",
+    "media_id": "xdtxc8kaj8rf",
+    "duration": null,
+    "canonical_section": {
+      "id": 1773179,
+      "slug": "uitgelicht",
+      "type": "default",
+      "name": "Uitgelicht",
+      "style": "mediapartner-external",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/uitgelicht/6290913/het-woord-van-vandaag-raad-jij-het-woord-van-de-dag.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6290657,
+    "slug": "hoe-werkt-de-formatie-oftewel-het-vormen-van-een-nieuwe-regering",
+    "type": "article",
+    "title": "Hoe werkt de formatie, oftewel het vormen van een nieuwe regering?",
+    "subtitle": "NU+",
+    "published_at": "2023-11-23T05:10:11+01:00",
+    "updated_at": "2023-11-23T05:12:34+01:00",
+    "media_id": "3qnx291aeaos",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771437,
+      "slug": "politiek",
+      "type": "default",
+      "name": "Politiek",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/politiek/6290657/hoe-werkt-de-formatie-oftewel-het-vormen-van-een-nieuwe-regering.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6290912,
+    "slug": "agent-gewond-na-aanrijding-met-gestolen-auto-politie-lost-schoten",
+    "type": "article",
+    "title": "Agent gewond na aanrijding met gestolen auto, politie lost schoten",
+    "subtitle": null,
+    "published_at": "2023-11-23T05:08:46+01:00",
+    "updated_at": "2023-11-23T05:09:01+01:00",
+    "media_id": "u9jxmwvaubcc",
+    "duration": null,
+    "canonical_section": {
+      "id": 100,
+      "slug": "algemeen",
+      "type": "default",
+      "name": "Algemeen",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/algemeen/6290912/agent-gewond-na-aanrijding-met-gestolen-auto-politie-lost-schoten.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6290911,
-    "slug": "hoe-oude-rot-wilders-wel-handig-gebruik-maakt-van-vertrek-rutte",
+    "slug": "hoe-oude-rot-wilders-wel-handig-gebruikmaakt-van-vertrek-rutte",
     "type": "video",
-    "title": "Hoe 'oude rot' Wilders wél handig gebruik maakt van vertrek Rutte",
+    "title": "Hoe 'oude rot' Wilders wél handig gebruikmaakt van vertrek Rutte",
     "subtitle": "Explainer",
     "published_at": "2023-11-23T04:09:07+01:00",
-    "updated_at": "2023-11-23T04:09:07+01:00",
+    "updated_at": "2023-11-23T05:47:00+01:00",
     "media_id": "ic3xhz4ajg7f",
     "duration": "2:38",
     "canonical_section": {
@@ -18,18 +110,18 @@
       "media_id": "vh7x4xray27h",
       "partner": null
     },
-    "url": "/tweede-kamerverkiezingen-2023/6290911/hoe-oude-rot-wilders-wel-handig-gebruik-maakt-van-vertrek-rutte.html",
+    "url": "/tweede-kamerverkiezingen-2023/6290911/hoe-oude-rot-wilders-wel-handig-gebruikmaakt-van-vertrek-rutte.html",
     "open_new_window": false,
     "partner": null
   },
   {
     "id": 6290910,
-    "slug": "liveblog-verkiezingen-bijna-alle-stemmen-geteld-pvv-grote-winnaar",
+    "slug": "liveblog-verkiezingen-laagste-opkomst-in-rotterdam-pvv-grote-winnaar",
     "type": "article",
-    "title": "Liveblog verkiezingen | Bijna alle stemmen geteld, PVV grote winnaar",
+    "title": "Liveblog verkiezingen | Laagste opkomst in Rotterdam, PVV grote winnaar",
     "subtitle": null,
     "published_at": "2023-11-23T03:40:50+01:00",
-    "updated_at": "2023-11-23T03:40:51+01:00",
+    "updated_at": "2023-11-23T05:59:02+01:00",
     "media_id": "ik9xp5ca2f4n",
     "duration": null,
     "canonical_section": {
@@ -41,7 +133,7 @@
       "media_id": "vh7x4xray27h",
       "partner": null
     },
-    "url": "/tweede-kamerverkiezingen-2023/6290910/liveblog-verkiezingen-bijna-alle-stemmen-geteld-pvv-grote-winnaar.html",
+    "url": "/tweede-kamerverkiezingen-2023/6290910/liveblog-verkiezingen-laagste-opkomst-in-rotterdam-pvv-grote-winnaar.html",
     "open_new_window": false,
     "partner": null
   },
@@ -75,7 +167,7 @@
     "title": "Voorlopige prognose: PVV wint extra zetels en komt op 37, D66 zakt naar 9",
     "subtitle": null,
     "published_at": "2023-11-23T01:42:34+01:00",
-    "updated_at": "2023-11-23T03:48:10+01:00",
+    "updated_at": "2023-11-23T06:00:08+01:00",
     "media_id": "seaxc4fas9jo",
     "duration": null,
     "canonical_section": {
@@ -594,98 +686,6 @@
       "partner": null
     },
     "url": "/achterklap/6290870/presentatrice-charlotte-nijs-in-verwachting-van-tweede-kindje.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6290872,
-    "slug": "judeska-warm-onthaald-bij-opening-fc-kip-in-rotterdam",
-    "type": "video",
-    "title": "Judeska warm onthaald bij opening FC Kip in Rotterdam",
-    "subtitle": "Video",
-    "published_at": "2023-11-22T19:37:04+01:00",
-    "updated_at": "2023-11-22T19:40:56+01:00",
-    "media_id": "xmaxzgfa6eg4",
-    "duration": "0:53",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6290872/judeska-warm-onthaald-bij-opening-fc-kip-in-rotterdam.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6290844,
-    "slug": "arnhem-kiest-voor-historische-methode-en-zet-varkens-in-tegen-amerikaanse-eik",
-    "type": "article",
-    "title": "Arnhem kiest voor historische methode en zet varkens in tegen Amerikaanse eik",
-    "subtitle": null,
-    "published_at": "2023-11-22T19:28:30+01:00",
-    "updated_at": "2023-11-22T19:28:31+01:00",
-    "media_id": "dnkxx8ja3fxn",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772536,
-      "slug": "dieren",
-      "type": "default",
-      "name": "Dieren",
-      "style": "nunjij",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/dieren/6290844/arnhem-kiest-voor-historische-methode-en-zet-varkens-in-tegen-amerikaanse-eik.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6290871,
-    "slug": "heerenveen-hoopt-via-cas-alsnog-miljoenen-van-cska-voor-ejuke-te-ontvangen",
-    "type": "article",
-    "title": "Heerenveen hoopt via CAS alsnog miljoenen van CSKA voor Ejuke te ontvangen",
-    "subtitle": null,
-    "published_at": "2023-11-22T19:22:56+01:00",
-    "updated_at": "2023-11-22T19:29:19+01:00",
-    "media_id": "bizxa8ba96ae",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6290871/heerenveen-hoopt-via-cas-alsnog-miljoenen-van-cska-voor-ejuke-te-ontvangen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6290828,
-    "slug": "vs-zegt-moord-op-sikhleider-te-hebben-verijdeld-na-eerdere-moord-in-canada",
-    "type": "article",
-    "title": "VS zegt moord op sikhleider te hebben verijdeld na eerdere moord in Canada",
-    "subtitle": null,
-    "published_at": "2023-11-22T19:14:31+01:00",
-    "updated_at": "2023-11-22T19:14:32+01:00",
-    "media_id": "9zzx728a77ej",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6290828/vs-zegt-moord-op-sikhleider-te-hebben-verijdeld-na-eerdere-moord-in-canada.html",
     "open_new_window": false,
     "partner": null
   }
