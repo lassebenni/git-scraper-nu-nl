@@ -1,12 +1,104 @@
 [
   {
+    "id": 6291023,
+    "slug": "qatar-meldt-dat-hamas-vrijdagmiddag-eerste-gijzelaars-vrijlaat",
+    "type": "article",
+    "title": "Qatar meldt dat Hamas vrijdagmiddag eerste gijzelaars vrijlaat",
+    "subtitle": null,
+    "published_at": "2023-11-23T16:01:06+01:00",
+    "updated_at": "2023-11-23T16:01:07+01:00",
+    "media_id": "qe4xlfna0fde",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6291023/qatar-meldt-dat-hamas-vrijdagmiddag-eerste-gijzelaars-vrijlaat.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6291027,
+    "slug": "tweede-minderjarige-verdachte-aangehouden-om-aanval-op-thierry-baudet",
+    "type": "article",
+    "title": "Tweede minderjarige verdachte aangehouden om aanval op Thierry Baudet",
+    "subtitle": null,
+    "published_at": "2023-11-23T15:58:42+01:00",
+    "updated_at": "2023-11-23T15:58:47+01:00",
+    "media_id": "qx2xwu3a3ovh",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6291027/tweede-minderjarige-verdachte-aangehouden-om-aanval-op-thierry-baudet.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6290963,
+    "slug": "moslims-bezorgd-na-forse-winst-pvv-gelukkig-hebben-we-de-grondwet",
+    "type": "article",
+    "title": "Moslims bezorgd na forse winst PVV: 'Gelukkig hebben we de Grondwet'",
+    "subtitle": null,
+    "published_at": "2023-11-23T15:54:01+01:00",
+    "updated_at": "2023-11-23T15:54:03+01:00",
+    "media_id": "fa5xw9taakxl",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779275,
+      "slug": "tweede-kamerverkiezingen-2023",
+      "type": "files",
+      "name": "Tweede Kamerverkiezingen 2023",
+      "style": "nu",
+      "media_id": "vh7x4xray27h",
+      "partner": null
+    },
+    "url": "/tweede-kamerverkiezingen-2023/6290963/moslims-bezorgd-na-forse-winst-pvv-gelukkig-hebben-we-de-grondwet.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6291009,
+    "slug": "populaire-k-popgroep-krijgt-onderscheiding-van-koning-charles",
+    "type": "video",
+    "title": "Populaire K-popgroep krijgt onderscheiding van koning Charles",
+    "subtitle": "Video",
+    "published_at": "2023-11-23T15:16:30+01:00",
+    "updated_at": "2023-11-23T15:16:31+01:00",
+    "media_id": "50rx7t5aauup",
+    "duration": "0:51",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6291009/populaire-k-popgroep-krijgt-onderscheiding-van-koning-charles.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6291011,
     "slug": "verstappen-kan-nog-twee-records-breken",
     "type": "audio",
     "title": "'Verstappen kan nog twee records breken'",
     "subtitle": "Podcast De Boordradio",
     "published_at": "2023-11-23T14:58:40+01:00",
-    "updated_at": "2023-11-23T15:01:08+01:00",
+    "updated_at": "2023-11-23T15:01:56+01:00",
     "media_id": "36tx2lgapggp",
     "duration": null,
     "canonical_section": {
@@ -52,7 +144,7 @@
     "title": "Hamilton ontkent benaderen Red Bull: 'Snap niet waarom Horner dit doet'",
     "subtitle": null,
     "published_at": "2023-11-23T14:42:40+01:00",
-    "updated_at": "2023-11-23T14:46:39+01:00",
+    "updated_at": "2023-11-23T15:14:01+01:00",
     "media_id": "843xawja7nhh",
     "duration": null,
     "canonical_section": {
@@ -213,7 +305,7 @@
     "title": "Je mail bijwerken tijdens een overleg: handig of niet?",
     "subtitle": "NU+",
     "published_at": "2023-11-23T14:00:44+01:00",
-    "updated_at": "2023-11-23T14:00:46+01:00",
+    "updated_at": "2023-11-23T15:33:28+01:00",
     "media_id": "08qx1jiaotf6",
     "duration": null,
     "canonical_section": {
@@ -397,7 +489,7 @@
     "title": "Griekspoor kan niet stunten, Oranje en Italië op 1-1 in Davis Cup Finals",
     "subtitle": null,
     "published_at": "2023-11-23T13:09:34+01:00",
-    "updated_at": "2023-11-23T14:56:47+01:00",
+    "updated_at": "2023-11-23T15:15:53+01:00",
     "media_id": "vikx3ohaymym",
     "duration": null,
     "canonical_section": {
@@ -594,98 +686,6 @@
       "partner": null
     },
     "url": "/videos/6290968/wilders-dag-na-overwinning-we-gaan-samenwerken-met-andere-partijen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6290960,
-    "slug": "wat-wil-jij-nog-weten-over-de-verkiezingsuitslagen-stel-hier-je-vragen",
-    "type": "article",
-    "title": "Wat wil jij nog weten over de verkiezingsuitslagen? Stel hier je vragen",
-    "subtitle": "Oproep",
-    "published_at": "2023-11-23T12:23:52+01:00",
-    "updated_at": "2023-11-23T12:56:43+01:00",
-    "media_id": "yyfx43ja4uf8",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779275,
-      "slug": "tweede-kamerverkiezingen-2023",
-      "type": "files",
-      "name": "Tweede Kamerverkiezingen 2023",
-      "style": "nu",
-      "media_id": "vh7x4xray27h",
-      "partner": null
-    },
-    "url": "/tweede-kamerverkiezingen-2023/6290960/wat-wil-jij-nog-weten-over-de-verkiezingsuitslagen-stel-hier-je-vragen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6290961,
-    "slug": "redding-bouwvakkers-india-vertraagd-hoop-op-bevrijding-voor-einde-van-de-dag",
-    "type": "article",
-    "title": "Redding bouwvakkers India vertraagd, hoop op bevrijding voor einde van de dag",
-    "subtitle": null,
-    "published_at": "2023-11-23T12:13:23+01:00",
-    "updated_at": "2023-11-23T12:13:24+01:00",
-    "media_id": "z6gxnzua20zm",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6290961/redding-bouwvakkers-india-vertraagd-hoop-op-bevrijding-voor-einde-van-de-dag.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6290954,
-    "slug": "guus-meeuwis-en-acda-en-de-munnik-brengen-samen-een-kerstlied-uit",
-    "type": "article",
-    "title": "Guus Meeuwis en Acda en de Munnik brengen samen een kerstlied uit",
-    "subtitle": null,
-    "published_at": "2023-11-23T12:01:14+01:00",
-    "updated_at": "2023-11-23T12:17:18+01:00",
-    "media_id": "87fxeccaa4r5",
-    "duration": null,
-    "canonical_section": {
-      "id": 868281,
-      "slug": "muziek",
-      "type": "default",
-      "name": "Muziek",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/muziek/6290954/guus-meeuwis-en-acda-en-de-munnik-brengen-samen-een-kerstlied-uit.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6290958,
-    "slug": "de-bauers-terug-op-tv-realitysoap-rond-gezin-frans-bauer-te-zien-bij-avrotros",
-    "type": "article",
-    "title": "De Bauers terug op tv: realitysoap rond gezin Frans Bauer te zien bij AVROTROS",
-    "subtitle": null,
-    "published_at": "2023-11-23T11:52:24+01:00",
-    "updated_at": "2023-11-23T11:52:26+01:00",
-    "media_id": "zhmx4bma6578",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771675,
-      "slug": "media",
-      "type": "default",
-      "name": "Media",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/media/6290958/de-bauers-terug-op-tv-realitysoap-rond-gezin-frans-bauer-te-zien-bij-avrotros.html",
     "open_new_window": false,
     "partner": null
   }
