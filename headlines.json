@@ -1,12 +1,35 @@
 [
   {
+    "id": 6291024,
+    "slug": "co2-uitstoot-in-nederland-is-gedaald-ondanks-economische-groei",
+    "type": "article",
+    "title": "CO2-uitstoot in Nederland is gedaald ondanks economische groei",
+    "subtitle": null,
+    "published_at": "2023-11-24T00:01:59+01:00",
+    "updated_at": "2023-11-24T00:05:46+01:00",
+    "media_id": "ml5xxwka5mt0",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772754,
+      "slug": "klimaat",
+      "type": "default",
+      "name": "Klimaat",
+      "style": "nuzakelijk",
+      "media_id": "kf4x3b2agsxg",
+      "partner": null
+    },
+    "url": "/klimaat/6291024/co2-uitstoot-in-nederland-is-gedaald-ondanks-economische-groei.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6291089,
     "slug": "acteur-en-regisseur-helmert-woudenberg-78-overleden",
     "type": "article",
     "title": "Acteur en regisseur Helmert Woudenberg (78) overleden",
     "subtitle": null,
     "published_at": "2023-11-24T00:00:41+01:00",
-    "updated_at": "2023-11-24T00:00:43+01:00",
+    "updated_at": "2023-11-24T00:09:59+01:00",
     "media_id": "u9uxcsha9qmw",
     "duration": null,
     "canonical_section": {
@@ -254,12 +277,12 @@
   },
   {
     "id": 6291077,
-    "slug": "israel-wil-gevechtspauze-met-hamas-aangrijpen-om-volgende-fase-voor-te-bereiden",
+    "slug": "israel-grijpt-gevechtspauze-met-hamas-aan-om-volgende-fase-voor-te-bereiden",
     "type": "article",
-    "title": "Israël wil gevechtspauze met Hamas aangrijpen om 'volgende fase' voor te bereiden",
+    "title": "Israël grijpt gevechtspauze met Hamas aan om 'volgende fase' voor te bereiden",
     "subtitle": null,
     "published_at": "2023-11-23T21:07:36+01:00",
-    "updated_at": "2023-11-23T23:00:11+01:00",
+    "updated_at": "2023-11-24T00:06:53+01:00",
     "media_id": "xsixa1xabupn",
     "duration": null,
     "canonical_section": {
@@ -271,7 +294,7 @@
       "media_id": "m1oxeovaiadm",
       "partner": null
     },
-    "url": "/midden-oostenconflict/6291077/israel-wil-gevechtspauze-met-hamas-aangrijpen-om-volgende-fase-voor-te-bereiden.html",
+    "url": "/midden-oostenconflict/6291077/israel-grijpt-gevechtspauze-met-hamas-aan-om-volgende-fase-voor-te-bereiden.html",
     "open_new_window": false,
     "partner": null
   },
@@ -627,7 +650,7 @@
     "title": "Cultuursector geschokt na winst PVV: 'Houden rekening met gitzwart scenario'",
     "subtitle": null,
     "published_at": "2023-11-23T18:03:59+01:00",
-    "updated_at": "2023-11-23T19:53:04+01:00",
+    "updated_at": "2023-11-24T00:02:19+01:00",
     "media_id": "6qaxun4ab2e7",
     "duration": null,
     "canonical_section": {
@@ -663,29 +686,6 @@
       "partner": null
     },
     "url": "/formatie-2023/6291021/yesilgoz-en-omtzigt-zeggen-nog-geen-nee-tegen-coalitie-met-pvv.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6291048,
-    "slug": "activisten-gaan-hofvijver-in-geen-klimaatontkenner-in-het-torentje",
-    "type": "video",
-    "title": "Activisten gaan Hofvijver in: 'Geen klimaatontkenner in het Torentje'",
-    "subtitle": "Video",
-    "published_at": "2023-11-23T17:21:26+01:00",
-    "updated_at": "2023-11-23T17:23:03+01:00",
-    "media_id": "1ckxt13adfyl",
-    "duration": "0:48",
-    "canonical_section": {
-      "id": 100,
-      "slug": "algemeen",
-      "type": "default",
-      "name": "Algemeen",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/algemeen/6291048/activisten-gaan-hofvijver-in-geen-klimaatontkenner-in-het-torentje.html",
     "open_new_window": false,
     "partner": null
   }
