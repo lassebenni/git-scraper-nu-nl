@@ -1,5 +1,51 @@
 [
   {
+    "id": 6291063,
+    "slug": "wat-betekenen-felle-standpunten-wilders-voor-steun-aan-oekraine",
+    "type": "video",
+    "title": "Wat betekenen felle standpunten Wilders voor steun aan Oekraïne?",
+    "subtitle": "Explainer",
+    "published_at": "2023-11-24T06:58:20+01:00",
+    "updated_at": "2023-11-24T06:58:22+01:00",
+    "media_id": "3okxk24aboqx",
+    "duration": "2:22",
+    "canonical_section": {
+      "id": 100,
+      "slug": "algemeen",
+      "type": "default",
+      "name": "Algemeen",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/algemeen/6291063/wat-betekenen-felle-standpunten-wilders-voor-steun-aan-oekraine.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6291092,
+    "slug": "israel-en-hamas-starten-wapenstilstand-hulp-aan-gaza-moet-op-gang-komen",
+    "type": "article",
+    "title": "Israël en Hamas starten wapenstilstand, hulp aan Gaza moet op gang komen",
+    "subtitle": null,
+    "published_at": "2023-11-24T06:14:46+01:00",
+    "updated_at": "2023-11-24T06:49:32+01:00",
+    "media_id": "k5hxejhaurtf",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772085,
+      "slug": "midden-oostenconflict",
+      "type": "default",
+      "name": "Oorlog Israël en Hamas",
+      "style": "nu",
+      "media_id": "m1oxeovaiadm",
+      "partner": null
+    },
+    "url": "/midden-oostenconflict/6291092/israel-en-hamas-starten-wapenstilstand-hulp-aan-gaza-moet-op-gang-komen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6291091,
     "slug": "guur-weer-met-winterse-buien-vanmiddag-code-geel-in-deel-land",
     "type": "article",
@@ -144,7 +190,7 @@
     "title": "Acteur en regisseur Helmert Woudenberg (78) overleden",
     "subtitle": null,
     "published_at": "2023-11-24T00:00:41+01:00",
-    "updated_at": "2023-11-24T00:09:59+01:00",
+    "updated_at": "2023-11-24T06:33:51+01:00",
     "media_id": "u9uxcsha9qmw",
     "duration": null,
     "canonical_section": {
@@ -236,7 +282,7 @@
     "title": "Ajax Vrouwen vervolgt Champions League-avontuur met pijnlijk verlies bij Roma",
     "subtitle": null,
     "published_at": "2023-11-23T22:54:35+01:00",
-    "updated_at": "2023-11-23T23:48:17+01:00",
+    "updated_at": "2023-11-24T06:59:32+01:00",
     "media_id": "mazxggjag7ob",
     "duration": null,
     "canonical_section": {
@@ -640,52 +686,6 @@
       "partner": null
     },
     "url": "/voetbal/6291061/wereldkampioen-di-maria-35-stopt-na-copa-america-als-argentijns-international.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6291054,
-    "slug": "rijkswaterstaat-sluit-stormvloedkeringen-vanwege-combinatie-van-situaties",
-    "type": "article",
-    "title": "Rijkswaterstaat sluit stormvloedkeringen vanwege 'combinatie van situaties'",
-    "subtitle": null,
-    "published_at": "2023-11-23T18:48:27+01:00",
-    "updated_at": "2023-11-24T05:15:33+01:00",
-    "media_id": "lzvxfuia9592",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6291054/rijkswaterstaat-sluit-stormvloedkeringen-vanwege-combinatie-van-situaties.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6291059,
-    "slug": "davis-cup-team-baalt-van-uitschakeling-tegen-italie-het-was-de-sinner-show",
-    "type": "article",
-    "title": "Davis Cup-team baalt van uitschakeling tegen Italië: 'Het was de Sinner-show'",
-    "subtitle": null,
-    "published_at": "2023-11-23T18:43:48+01:00",
-    "updated_at": "2023-11-23T22:59:34+01:00",
-    "media_id": "rrxxhl7akej1",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772432,
-      "slug": "tennis",
-      "type": "default",
-      "name": "Tennis",
-      "style": "nusport",
-      "media_id": "m1oxohpan0gq",
-      "partner": null
-    },
-    "url": "/tennis/6291059/davis-cup-team-baalt-van-uitschakeling-tegen-italie-het-was-de-sinner-show.html",
     "open_new_window": false,
     "partner": null
   }
