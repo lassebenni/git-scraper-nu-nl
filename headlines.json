@@ -1,12 +1,150 @@
 [
   {
+    "id": 6291461,
+    "slug": "brandweermannen-trotseren-hevige-sneeuwstorm-in-roemenie",
+    "type": "video",
+    "title": "Brandweermannen trotseren hevige sneeuwstorm in Roemenië",
+    "subtitle": "Video",
+    "published_at": "2023-11-26T20:53:51+01:00",
+    "updated_at": "2023-11-26T20:53:52+01:00",
+    "media_id": "adhxyuea3f8m",
+    "duration": "0:32",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6291461/brandweermannen-trotseren-hevige-sneeuwstorm-in-roemenie.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6291460,
+    "slug": "rode-kruis-rijdt-gijzelaars-door-grensovergang-in-rafah",
+    "type": "video",
+    "title": "Rode Kruis rijdt gijzelaars door grensovergang in Rafah",
+    "subtitle": "Video",
+    "published_at": "2023-11-26T20:36:00+01:00",
+    "updated_at": "2023-11-26T20:36:01+01:00",
+    "media_id": "e7cx5lha84yh",
+    "duration": "0:33",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6291460/rode-kruis-rijdt-gijzelaars-door-grensovergang-in-rafah.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6291459,
+    "slug": "omstanders-overmeesteren-gewapende-overvaller-van-supermarkt-in-schiedam",
+    "type": "article",
+    "title": "Omstanders overmeesteren gewapende overvaller van supermarkt in Schiedam",
+    "subtitle": null,
+    "published_at": "2023-11-26T20:33:48+01:00",
+    "updated_at": "2023-11-26T20:33:49+01:00",
+    "media_id": "hauxy1gar90c",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6291459/omstanders-overmeesteren-gewapende-overvaller-van-supermarkt-in-schiedam.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6291458,
+    "slug": "geemotioneerde-sinner-leidt-italie-naar-eerste-eindzege-in-davis-cup-sinds-1976",
+    "type": "article",
+    "title": "Geëmotioneerde Sinner leidt Italië naar eerste eindzege in Davis Cup sinds 1976",
+    "subtitle": null,
+    "published_at": "2023-11-26T20:29:31+01:00",
+    "updated_at": "2023-11-26T20:58:36+01:00",
+    "media_id": "o1hxw0raxvjz",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772432,
+      "slug": "tennis",
+      "type": "default",
+      "name": "Tennis",
+      "style": "nusport",
+      "media_id": "m1oxohpan0gq",
+      "partner": null
+    },
+    "url": "/tennis/6291458/geemotioneerde-sinner-leidt-italie-naar-eerste-eindzege-in-davis-cup-sinds-1976.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6291455,
+    "slug": "luchthaven-damascus-opnieuw-buiten-gebruik-door-israelische-luchtaanval",
+    "type": "article",
+    "title": "Luchthaven Damascus opnieuw buiten gebruik door Israëlische luchtaanval",
+    "subtitle": null,
+    "published_at": "2023-11-26T20:23:16+01:00",
+    "updated_at": "2023-11-26T20:23:17+01:00",
+    "media_id": "yjixzuwar5z7",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6291455/luchthaven-damascus-opnieuw-buiten-gebruik-door-israelische-luchtaanval.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6291456,
+    "slug": "verstappen-wordt-een-synoniem-voor-formule-1",
+    "type": "audio",
+    "title": "'Verstappen wordt een synoniem voor Formule 1'",
+    "subtitle": "Podcast De Boordradio",
+    "published_at": "2023-11-26T20:22:50+01:00",
+    "updated_at": "2023-11-26T20:22:52+01:00",
+    "media_id": "36tx2lgapggp",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772449,
+      "slug": "formule-1",
+      "type": "default",
+      "name": "Formule 1",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/formule-1/6291456/verstappen-wordt-een-synoniem-voor-formule-1.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6291453,
     "slug": "leclerc-baalt-dat-trucje-mislukte-maar-we-hebben-er-alles-aan-gedaan",
     "type": "article",
     "title": "Leclerc baalt dat trucje mislukte: 'Maar we hebben er alles aan gedaan'",
     "subtitle": null,
     "published_at": "2023-11-26T19:42:22+01:00",
-    "updated_at": "2023-11-26T19:42:24+01:00",
+    "updated_at": "2023-11-26T20:37:02+01:00",
     "media_id": "jq7xsj9ayajj",
     "duration": null,
     "canonical_section": {
@@ -29,7 +167,7 @@
     "title": "Goed nieuws van deze week: gijzelaars vrij en lagere CO2-uitstoot",
     "subtitle": null,
     "published_at": "2023-11-26T19:26:00+01:00",
-    "updated_at": "2023-11-26T19:26:02+01:00",
+    "updated_at": "2023-11-26T20:03:10+01:00",
     "media_id": "1jpx7x4ak55p",
     "duration": null,
     "canonical_section": {
@@ -75,7 +213,7 @@
     "title": "FC Utrecht neemt afstand van directe degradatieplekken dankzij zege op Sparta",
     "subtitle": null,
     "published_at": "2023-11-26T18:44:20+01:00",
-    "updated_at": "2023-11-26T19:08:21+01:00",
+    "updated_at": "2023-11-26T20:20:51+01:00",
     "media_id": "hy7xqo1aql68",
     "duration": null,
     "canonical_section": {
@@ -116,13 +254,13 @@
   },
   {
     "id": 6291446,
-    "slug": "sevilla-verliest-mede-door-spectaculaire-goal-sadiq-in-aanloop-naar-duel-met-psv",
+    "slug": "real-aan-kop-dankzij-prachtgoals-rodrygo-sevilla-onderuit-richting-duel-met-psv",
     "type": "article",
-    "title": "Sevilla verliest mede door spectaculaire goal Sadiq in aanloop naar duel met PSV",
+    "title": "Real aan kop dankzij prachtgoals Rodrygo, Sevilla onderuit richting duel met PSV",
     "subtitle": null,
     "published_at": "2023-11-26T18:14:38+01:00",
-    "updated_at": "2023-11-26T18:33:36+01:00",
-    "media_id": "znjx9hmasaqn",
+    "updated_at": "2023-11-26T20:25:14+01:00",
+    "media_id": "cxbx0q3a9or8",
     "duration": null,
     "canonical_section": {
       "id": 1772338,
@@ -133,7 +271,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6291446/sevilla-verliest-mede-door-spectaculaire-goal-sadiq-in-aanloop-naar-duel-met-psv.html",
+    "url": "/voetbal/6291446/real-aan-kop-dankzij-prachtgoals-rodrygo-sevilla-onderuit-richting-duel-met-psv.html",
     "open_new_window": false,
     "partner": null
   },
@@ -190,7 +328,7 @@
     "title": "Hamas draagt zeventien gijzelaars over aan Rode Kruis",
     "subtitle": null,
     "published_at": "2023-11-26T17:34:41+01:00",
-    "updated_at": "2023-11-26T19:51:54+01:00",
+    "updated_at": "2023-11-26T20:36:45+01:00",
     "media_id": "6wmx04bad2je",
     "duration": null,
     "canonical_section": {
@@ -213,7 +351,7 @@
     "title": "Strategie Verstappen aangepast om duizend ronden aan de leiding te rijden",
     "subtitle": null,
     "published_at": "2023-11-26T17:24:38+01:00",
-    "updated_at": "2023-11-26T18:06:22+01:00",
+    "updated_at": "2023-11-26T20:23:47+01:00",
     "media_id": "mvqxhf5a3i1c",
     "duration": null,
     "canonical_section": {
@@ -254,12 +392,12 @@
   },
   {
     "id": 6291433,
-    "slug": "united-van-ten-hag-boekt-derde-zege-op-rij-mede-dankzij-wondergoal-garnacho",
+    "slug": "united-van-ten-hag-boekt-mede-dankzij-wondergoal-garnacho-derde-zege-op-rij",
     "type": "article",
-    "title": "United van Ten Hag boekt derde zege op rij mede dankzij wondergoal Garnacho",
+    "title": "United van Ten Hag boekt mede dankzij wondergoal Garnacho derde zege op rij",
     "subtitle": null,
     "published_at": "2023-11-26T17:06:24+01:00",
-    "updated_at": "2023-11-26T19:50:24+01:00",
+    "updated_at": "2023-11-26T20:02:35+01:00",
     "media_id": "3egxuiravmmy",
     "duration": null,
     "canonical_section": {
@@ -271,7 +409,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6291433/united-van-ten-hag-boekt-derde-zege-op-rij-mede-dankzij-wondergoal-garnacho.html",
+    "url": "/voetbal/6291433/united-van-ten-hag-boekt-mede-dankzij-wondergoal-garnacho-derde-zege-op-rij.html",
     "open_new_window": false,
     "partner": null
   },
@@ -420,7 +558,7 @@
     "title": "Verstappen sluit successeizoen in stijl af met zege in Abu Dhabi",
     "subtitle": null,
     "published_at": "2023-11-26T15:32:44+01:00",
-    "updated_at": "2023-11-26T19:46:38+01:00",
+    "updated_at": "2023-11-26T20:23:29+01:00",
     "media_id": "esnxynxanfyp",
     "duration": null,
     "canonical_section": {
@@ -507,12 +645,12 @@
   },
   {
     "id": 6291418,
-    "slug": "van-gerwen-na-fraaie-comeback-halvefinalist-op-players-championship-finals",
+    "slug": "van-gerwen-is-ook-clemens-de-baas-en-is-finalist-op-players-championship-finals",
     "type": "article",
-    "title": "Van Gerwen na fraaie comeback halvefinalist op Players Championship Finals",
+    "title": "Van Gerwen is ook Clemens de baas en is finalist op Players Championship Finals",
     "subtitle": null,
     "published_at": "2023-11-26T15:00:53+01:00",
-    "updated_at": "2023-11-26T17:47:49+01:00",
+    "updated_at": "2023-11-26T21:01:09+01:00",
     "media_id": "lmpxq1dau9pc",
     "duration": null,
     "canonical_section": {
@@ -524,7 +662,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/sport-overig/6291418/van-gerwen-na-fraaie-comeback-halvefinalist-op-players-championship-finals.html",
+    "url": "/sport-overig/6291418/van-gerwen-is-ook-clemens-de-baas-en-is-finalist-op-players-championship-finals.html",
     "open_new_window": false,
     "partner": null
   },
@@ -548,144 +686,6 @@
       "partner": null
     },
     "url": "/videos/6291417/bekijk-hier-de-start-van-de-gp-van-abu-dhabi.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6291416,
-    "slug": "paus-kampt-met-longontsteking-en-mist-wekelijkse-toespraak",
-    "type": "article",
-    "title": "Paus kampt met longontsteking en mist wekelijkse toespraak",
-    "subtitle": null,
-    "published_at": "2023-11-26T14:32:21+01:00",
-    "updated_at": "2023-11-26T15:34:09+01:00",
-    "media_id": "097x0hra0f2g",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6291416/paus-kampt-met-longontsteking-en-mist-wekelijkse-toespraak.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6291411,
-    "slug": "roda-jc-slaat-in-slotfase-toe-in-derby-tegen-mvv-en-beeindigt-slechte-serie",
-    "type": "article",
-    "title": "Roda JC slaat in slotfase toe in derby tegen MVV en beëindigt slechte serie",
-    "subtitle": null,
-    "published_at": "2023-11-26T14:25:42+01:00",
-    "updated_at": "2023-11-26T15:22:34+01:00",
-    "media_id": "fkyxuofatts0",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6291411/roda-jc-slaat-in-slotfase-toe-in-derby-tegen-mvv-en-beeindigt-slechte-serie.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6291412,
-    "slug": "ajax-vrouwen-herstelt-zich-van-pijnlijke-avond-in-rome-met-nipte-zege-op-az",
-    "type": "article",
-    "title": "Ajax Vrouwen herstelt zich van pijnlijke avond in Rome met nipte zege op AZ",
-    "subtitle": null,
-    "published_at": "2023-11-26T14:16:01+01:00",
-    "updated_at": "2023-11-26T15:21:17+01:00",
-    "media_id": "actxjy4atvaq",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6291412/ajax-vrouwen-herstelt-zich-van-pijnlijke-avond-in-rome-met-nipte-zege-op-az.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6291414,
-    "slug": "nec-en-go-ahead-in-balans-na-spectaculaire-slotfase-heracles-wint-weer-eens",
-    "type": "article",
-    "title": "NEC en Go Ahead in balans na spectaculaire slotfase, Heracles wint weer eens",
-    "subtitle": null,
-    "published_at": "2023-11-26T14:14:55+01:00",
-    "updated_at": "2023-11-26T17:27:08+01:00",
-    "media_id": "ytjxlrcaeqkk",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6291414/nec-en-go-ahead-in-balans-na-spectaculaire-slotfase-heracles-wint-weer-eens.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6291145,
-    "slug": "ai-foto-steeds-realistischer-mensen-denken-het-moet-wel-echt-zijn",
-    "type": "article",
-    "title": "AI-foto steeds realistischer: 'Mensen denken: het moet wel echt zijn'",
-    "subtitle": "NU+",
-    "published_at": "2023-11-26T14:05:55+01:00",
-    "updated_at": "2023-11-26T17:16:16+01:00",
-    "media_id": "zmnxaevaz3zp",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771438,
-      "slug": "tech",
-      "type": "default",
-      "name": "Tech",
-      "style": "nutech",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/tech/6291145/ai-foto-steeds-realistischer-mensen-denken-het-moet-wel-echt-zijn.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6291413,
-    "slug": "voormalig-bondscoach-van-engeland-terry-venables-80-overleden",
-    "type": "article",
-    "title": "Voormalig bondscoach van Engeland Terry Venables (80) overleden",
-    "subtitle": null,
-    "published_at": "2023-11-26T13:56:20+01:00",
-    "updated_at": "2023-11-26T15:51:21+01:00",
-    "media_id": "y76xexzapcsp",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6291413/voormalig-bondscoach-van-engeland-terry-venables-80-overleden.html",
     "open_new_window": false,
     "partner": null
   }
