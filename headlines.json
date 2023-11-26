@@ -1,5 +1,120 @@
 [
   {
+    "id": 6291369,
+    "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
+    "type": "article",
+    "title": "Het Woord van vandaag: Raad jij het woord van de dag?",
+    "subtitle": null,
+    "published_at": "2023-11-26T05:17:46+01:00",
+    "updated_at": "2023-11-26T05:17:47+01:00",
+    "media_id": "xdtxc8kaj8rf",
+    "duration": null,
+    "canonical_section": {
+      "id": 1773179,
+      "slug": "uitgelicht",
+      "type": "default",
+      "name": "Uitgelicht",
+      "style": "mediapartner-external",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/uitgelicht/6291369/het-woord-van-vandaag-raad-jij-het-woord-van-de-dag.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6290991,
+    "slug": "wat-is-de-meest-waarschijnlijke-coalitie-jullie-verkiezingsvragen-beantwoord",
+    "type": "article",
+    "title": "Wat is de meest waarschijnlijke coalitie? Jullie verkiezingsvragen beantwoord",
+    "subtitle": "NU+",
+    "published_at": "2023-11-26T05:07:00+01:00",
+    "updated_at": "2023-11-26T05:07:01+01:00",
+    "media_id": "xluxvzrag8e8",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779135,
+      "slug": "vragenuur",
+      "type": "default",
+      "name": "Q&A's",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/vragenuur/6290991/wat-is-de-meest-waarschijnlijke-coalitie-jullie-verkiezingsvragen-beantwoord.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6291343,
+    "slug": "dit-staat-er-nog-op-het-spel-in-de-laatste-formule-1-race-van-het-seizoen",
+    "type": "article",
+    "title": "Dit staat er nog op het spel in de laatste Formule 1-race van het seizoen",
+    "subtitle": "NU+",
+    "published_at": "2023-11-26T05:06:20+01:00",
+    "updated_at": "2023-11-26T05:06:21+01:00",
+    "media_id": "fc0xjqja04iu",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772449,
+      "slug": "formule-1",
+      "type": "default",
+      "name": "Formule 1",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/formule-1/6291343/dit-staat-er-nog-op-het-spel-in-de-laatste-formule-1-race-van-het-seizoen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6291210,
+    "slug": "lenen-wordt-weer-duurder-check-of-je-maandelijks-geld-kunt-missen",
+    "type": "article",
+    "title": "Lenen wordt weer duurder: check of je maandelijks geld kunt missen",
+    "subtitle": null,
+    "published_at": "2023-11-26T05:05:34+01:00",
+    "updated_at": "2023-11-26T05:05:36+01:00",
+    "media_id": "siixwqzau3bi",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6291210/lenen-wordt-weer-duurder-check-of-je-maandelijks-geld-kunt-missen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6291334,
+    "slug": "hulpverlener-die-uit-gaza-vluchtte-de-raket-van-hamas-vloog-over-ons-heen",
+    "type": "article",
+    "title": "Hulpverlener die uit Gaza vluchtte: ‘De raket van Hamas vloog over ons heen’",
+    "subtitle": null,
+    "published_at": "2023-11-26T05:04:46+01:00",
+    "updated_at": "2023-11-26T05:04:47+01:00",
+    "media_id": "ed5x003ashvh",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6291334/hulpverlener-die-uit-gaza-vluchtte-de-raket-van-hamas-vloog-over-ons-heen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6291368,
     "slug": "psv-trainer-bosz-zag-bakayoko-ontsnappen-aan-rood-en-schorsing-stom-van-hem",
     "type": "article",
@@ -47,12 +162,12 @@
   },
   {
     "id": 6291355,
-    "slug": "hamas-en-israel-hervatten-gevangenenruil-en-mogelijk-langere-gevechtspauze",
+    "slug": "hamas-en-israel-hervatten-gevangenenruil",
     "type": "article",
-    "title": "Hamas en Israël hervatten gevangenenruil en mogelijk langere gevechtspauze",
+    "title": "Hamas en Israël hervatten gevangenenruil",
     "subtitle": "Overzicht",
     "published_at": "2023-11-25T23:35:47+01:00",
-    "updated_at": "2023-11-26T00:23:49+01:00",
+    "updated_at": "2023-11-26T05:16:41+01:00",
     "media_id": "ms1xzhcahbnv",
     "duration": null,
     "canonical_section": {
@@ -64,7 +179,7 @@
       "media_id": "m1oxeovaiadm",
       "partner": null
     },
-    "url": "/midden-oostenconflict/6291355/hamas-en-israel-hervatten-gevangenenruil-en-mogelijk-langere-gevechtspauze.html",
+    "url": "/midden-oostenconflict/6291355/hamas-en-israel-hervatten-gevangenenruil.html",
     "open_new_window": false,
     "partner": null
   },
@@ -571,121 +686,6 @@
       "partner": null
     },
     "url": "/buitenland/6291337/hamas-zorgt-voor-vertraging-en-verwarring-rond-vrijlating-israelische-gijzelaars.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6291336,
-    "slug": "hond-uit-water-gered-bij-ijmuiden-na-grote-zoekactie",
-    "type": "video",
-    "title": "Hond uit water gered bij IJmuiden na grote zoekactie",
-    "subtitle": "Video",
-    "published_at": "2023-11-25T16:58:04+01:00",
-    "updated_at": "2023-11-25T17:10:03+01:00",
-    "media_id": "czpxk4yaro3b",
-    "duration": "0:34",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6291336/hond-uit-water-gered-bij-ijmuiden-na-grote-zoekactie.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6291335,
-    "slug": "ommekeer-na-matige-trainingen-bracht-verstappen-pole-niet-wedden-tegen-mij",
-    "type": "article",
-    "title": "Ommekeer na matige trainingen bracht Verstappen pole: 'Niet wedden tegen mij'",
-    "subtitle": null,
-    "published_at": "2023-11-25T16:55:30+01:00",
-    "updated_at": "2023-11-25T19:19:23+01:00",
-    "media_id": "hmgx9wuak6o2",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772449,
-      "slug": "formule-1",
-      "type": "default",
-      "name": "Formule 1",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/formule-1/6291335/ommekeer-na-matige-trainingen-bracht-verstappen-pole-niet-wedden-tegen-mij.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6291332,
-    "slug": "van-gerwen-toont-klasse-in-minehead-met-vier-na-hoogste-dartsgemiddelde-ooit",
-    "type": "article",
-    "title": "Van Gerwen toont klasse in Minehead met vier na hoogste dartsgemiddelde ooit",
-    "subtitle": null,
-    "published_at": "2023-11-25T16:27:40+01:00",
-    "updated_at": "2023-11-25T23:49:29+01:00",
-    "media_id": "ilmx3sfayl4q",
-    "duration": null,
-    "canonical_section": {
-      "id": 1777376,
-      "slug": "darts",
-      "type": "default",
-      "name": "Darts",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/darts/6291332/van-gerwen-toont-klasse-in-minehead-met-vier-na-hoogste-dartsgemiddelde-ooit.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6291331,
-    "slug": "live-eredivisie-reacties-na-zeges-ajax-psv-en-feyenoord",
-    "type": "article",
-    "title": "Live Eredivisie | Reacties na zeges Ajax, PSV en Feyenoord",
-    "subtitle": null,
-    "published_at": "2023-11-25T16:16:07+01:00",
-    "updated_at": "2023-11-25T23:08:11+01:00",
-    "media_id": "0x9xi46a71b3",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6291331/live-eredivisie-reacties-na-zeges-ajax-psv-en-feyenoord.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6291326,
-    "slug": "verstappen-pakt-in-abu-dhabi-pole-voor-laatste-grand-prix-van-het-jaar",
-    "type": "article",
-    "title": "Verstappen pakt in Abu Dhabi pole voor laatste Grand Prix van het jaar",
-    "subtitle": null,
-    "published_at": "2023-11-25T16:02:36+01:00",
-    "updated_at": "2023-11-25T18:41:35+01:00",
-    "media_id": "masxgwsaxfg7",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772449,
-      "slug": "formule-1",
-      "type": "default",
-      "name": "Formule 1",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/formule-1/6291326/verstappen-pakt-in-abu-dhabi-pole-voor-laatste-grand-prix-van-het-jaar.html",
     "open_new_window": false,
     "partner": null
   }
