@@ -1,5 +1,120 @@
 [
   {
+    "id": 6291609,
+    "slug": "genoeg-zon-om-lekker-naar-buiten-te-gaan-maar-let-op-gladheid",
+    "type": "article",
+    "title": "Genoeg zon om lekker naar buiten te gaan, maar let op gladheid",
+    "subtitle": "Weerbericht",
+    "published_at": "2023-11-28T05:39:18+01:00",
+    "updated_at": "2023-11-28T05:39:19+01:00",
+    "media_id": "li3x7xmay1eo",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779283,
+      "slug": "weerbericht",
+      "type": "default",
+      "name": "Weerbericht",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/weerbericht/6291609/genoeg-zon-om-lekker-naar-buiten-te-gaan-maar-let-op-gladheid.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6291608,
+    "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
+    "type": "article",
+    "title": "Het Woord van vandaag: Raad jij het woord van de dag?",
+    "subtitle": null,
+    "published_at": "2023-11-28T05:06:20+01:00",
+    "updated_at": "2023-11-28T05:06:21+01:00",
+    "media_id": "xdtxc8kaj8rf",
+    "duration": null,
+    "canonical_section": {
+      "id": 1773179,
+      "slug": "uitgelicht",
+      "type": "default",
+      "name": "Uitgelicht",
+      "style": "mediapartner-external",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/uitgelicht/6291608/het-woord-van-vandaag-raad-jij-het-woord-van-de-dag.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6291569,
+    "slug": "slot-wil-dat-feyenoord-fans-geen-seconde-stil-zijn-in-cruciaal-cl-duel-met-atletico",
+    "type": "article",
+    "title": "Slot wil dat Feyenoord-fans geen seconde stil zijn in cruciaal CL-duel met Atlético",
+    "subtitle": null,
+    "published_at": "2023-11-28T05:05:34+01:00",
+    "updated_at": "2023-11-28T05:05:35+01:00",
+    "media_id": "0t3xndyabo76",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6291569/slot-wil-dat-feyenoord-fans-geen-seconde-stil-zijn-in-cruciaal-cl-duel-met-atletico.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6291602,
+    "slug": "nederland-wil-organisatie-wk-2027-binnenhalen-op-duurzaamheid-en-fanbeleving",
+    "type": "article",
+    "title": "Nederland wil organisatie WK 2027 binnenhalen op duurzaamheid en fanbeleving",
+    "subtitle": null,
+    "published_at": "2023-11-28T05:05:01+01:00",
+    "updated_at": "2023-11-28T05:05:02+01:00",
+    "media_id": "fvkxhpqavqy5",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6291602/nederland-wil-organisatie-wk-2027-binnenhalen-op-duurzaamheid-en-fanbeleving.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6291512,
+    "slug": "feyenoord-psv-ajax-en-az-wacht-cruciale-europese-week-zo-staan-ze-ervoor",
+    "type": "article",
+    "title": "Feyenoord, PSV, Ajax en AZ wacht cruciale Europese week: zo staan ze ervoor",
+    "subtitle": null,
+    "published_at": "2023-11-28T05:04:42+01:00",
+    "updated_at": "2023-11-28T05:46:37+01:00",
+    "media_id": "yomxsmzae68m",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6291512/feyenoord-psv-ajax-en-az-wacht-cruciale-europese-week-zo-staan-ze-ervoor.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6290536,
     "slug": "airplay-google-cast-of-toch-gewoon-bluetooth-dit-is-het-verschil",
     "type": "article",
@@ -24,12 +139,12 @@
   },
   {
     "id": 6291511,
-    "slug": "zorgen-om-amalia-en-toegeven-van-blunder-dit-staat-in-het-boek-van-de-koning",
+    "slug": "zorgen-om-amalia-en-toegeven-van-blunder-dit-staat-in-boek-van-de-koning",
     "type": "article",
-    "title": "Zorgen om Amalia en toegeven van blunder: dit staat in het boek van de koning",
+    "title": "Zorgen om Amalia en toegeven van blunder: dit staat in boek van de koning",
     "subtitle": "NU+",
     "published_at": "2023-11-28T05:00:16+01:00",
-    "updated_at": "2023-11-28T05:00:17+01:00",
+    "updated_at": "2023-11-28T05:45:07+01:00",
     "media_id": "05jxtoxavvpw",
     "duration": null,
     "canonical_section": {
@@ -41,7 +156,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/koningshuis/6291511/zorgen-om-amalia-en-toegeven-van-blunder-dit-staat-in-het-boek-van-de-koning.html",
+    "url": "/koningshuis/6291511/zorgen-om-amalia-en-toegeven-van-blunder-dit-staat-in-boek-van-de-koning.html",
     "open_new_window": false,
     "partner": null
   },
@@ -121,7 +236,7 @@
     "title": "Pensioen voor 170.000 ex-werknemers in metaal en techniek omhoog",
     "subtitle": null,
     "published_at": "2023-11-28T00:01:01+01:00",
-    "updated_at": "2023-11-28T00:01:03+01:00",
+    "updated_at": "2023-11-28T05:03:36+01:00",
     "media_id": "pe5x43ta66w3",
     "duration": null,
     "canonical_section": {
@@ -144,7 +259,7 @@
     "title": "Winterse 'sneeuwchaos' overvalt Duitse deelstaat Hessen",
     "subtitle": null,
     "published_at": "2023-11-27T23:36:34+01:00",
-    "updated_at": "2023-11-27T23:36:35+01:00",
+    "updated_at": "2023-11-28T05:49:54+01:00",
     "media_id": "seqxe1qafmh9",
     "duration": null,
     "canonical_section": {
@@ -420,7 +535,7 @@
     "title": "Pakketdrukte neemt toe, hoe zorg je dat jouw cadeaus op tijd binnen zijn?",
     "subtitle": "NU+",
     "published_at": "2023-11-27T20:51:06+01:00",
-    "updated_at": "2023-11-27T20:51:07+01:00",
+    "updated_at": "2023-11-28T05:02:13+01:00",
     "media_id": "ftox1wda63n5",
     "duration": null,
     "canonical_section": {
@@ -571,121 +686,6 @@
       "partner": null
     },
     "url": "/videos/6291589/politie-in-india-patrouilleert-met-paramotor.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6291587,
-    "slug": "rtl-brengt-nieuwe-spelshow-upside-down-alleen-op-videoland-uit",
-    "type": "article",
-    "title": "RTL brengt nieuwe spelshow Upside Down alleen op Videoland uit",
-    "subtitle": null,
-    "published_at": "2023-11-27T19:51:10+01:00",
-    "updated_at": "2023-11-27T19:59:10+01:00",
-    "media_id": "yc1xk6zas7za",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771675,
-      "slug": "media",
-      "type": "default",
-      "name": "Media",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/media/6291587/rtl-brengt-nieuwe-spelshow-upside-down-alleen-op-videoland-uit.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6291585,
-    "slug": "motorsportlegende-valentino-rossi-rijdt-24-uur-van-le-mans-als-autocoureur",
-    "type": "article",
-    "title": "Motorsportlegende Valentino Rossi rijdt 24 uur van Le Mans als autocoureur",
-    "subtitle": null,
-    "published_at": "2023-11-27T19:44:38+01:00",
-    "updated_at": "2023-11-27T19:55:39+01:00",
-    "media_id": "hoqxg6pazm0m",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772456,
-      "slug": "sport-overig",
-      "type": "default",
-      "name": "Sport Overig",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/sport-overig/6291585/motorsportlegende-valentino-rossi-rijdt-24-uur-van-le-mans-als-autocoureur.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6291584,
-    "slug": "bijna-tweeduizend-gevangenen-ontsnapt-uit-gevangenis-sierra-leone",
-    "type": "article",
-    "title": "Bijna tweeduizend gevangenen ontsnapt uit gevangenis Sierra Leone",
-    "subtitle": null,
-    "published_at": "2023-11-27T19:34:08+01:00",
-    "updated_at": "2023-11-27T19:42:58+01:00",
-    "media_id": "9t8x37iaiem8",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6291584/bijna-tweeduizend-gevangenen-ontsnapt-uit-gevangenis-sierra-leone.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6291583,
-    "slug": "simeone-looft-gimenez-voor-feyenoord-atletico-staat-bijna-altijd-op-juiste-plek",
-    "type": "article",
-    "title": "Simeone looft Giménez voor Feyenoord-Atlético: 'Staat bijna altijd op juiste plek'",
-    "subtitle": null,
-    "published_at": "2023-11-27T19:25:22+01:00",
-    "updated_at": "2023-11-27T19:35:58+01:00",
-    "media_id": "zajx7rparbhy",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6291583/simeone-looft-gimenez-voor-feyenoord-atletico-staat-bijna-altijd-op-juiste-plek.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6291575,
-    "slug": "poolse-premier-komt-met-minderheidsregering-oppositie-spreekt-van-poppenkast",
-    "type": "article",
-    "title": "Poolse premier komt met minderheidsregering, oppositie spreekt van 'poppenkast'",
-    "subtitle": null,
-    "published_at": "2023-11-27T18:42:10+01:00",
-    "updated_at": "2023-11-27T22:16:24+01:00",
-    "media_id": "ntgxuymagje1",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6291575/poolse-premier-komt-met-minderheidsregering-oppositie-spreekt-van-poppenkast.html",
     "open_new_window": false,
     "partner": null
   }
