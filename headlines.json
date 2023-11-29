@@ -1,13 +1,82 @@
 [
   {
-    "id": 6291910,
-    "slug": "van-t-schip-houdt-keuze-tussen-brobbey-en-akpom-geheim-over-beiden-tevreden",
+    "id": 6291866,
+    "slug": "moeder-beyonce-in-de-bres-voor-dochter-ze-wil-helemaal-niet-wit-zijn",
     "type": "article",
-    "title": "Van 't Schip houdt keuze tussen Brobbey en Akpom geheim: 'Over beiden tevreden'",
+    "title": "Moeder Beyoncé in de bres voor dochter: 'Ze wil helemaal niet wit zijn'",
     "subtitle": null,
-    "published_at": "2023-11-29T18:56:48+01:00",
-    "updated_at": "2023-11-29T18:57:33+01:00",
-    "media_id": "dxbxe5xaaez3",
+    "published_at": "2023-11-29T19:58:10+01:00",
+    "updated_at": "2023-11-29T19:58:11+01:00",
+    "media_id": "qkixhxsaqead",
+    "duration": null,
+    "canonical_section": {
+      "id": 125,
+      "slug": "achterklap",
+      "type": "default",
+      "name": "Achterklap",
+      "style": "nuentertainment",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/achterklap/6291866/moeder-beyonce-in-de-bres-voor-dochter-ze-wil-helemaal-niet-wit-zijn.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6291918,
+    "slug": "coa-zet-extra-bewaking-in-bij-ter-apel-vanwege-grote-aantallen-asielzoekers",
+    "type": "article",
+    "title": "COA zet extra bewaking in bij Ter Apel vanwege grote aantallen asielzoekers",
+    "subtitle": null,
+    "published_at": "2023-11-29T19:45:41+01:00",
+    "updated_at": "2023-11-29T19:49:57+01:00",
+    "media_id": "oxjxw8da5nc5",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6291918/coa-zet-extra-bewaking-in-bij-ter-apel-vanwege-grote-aantallen-asielzoekers.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6291917,
+    "slug": "spanjaard-kajakt-van-20-meter-hoge-waterval-op-gletsjer",
+    "type": "video",
+    "title": "Spanjaard kajakt van 20 meter hoge waterval op gletsjer",
+    "subtitle": "Video",
+    "published_at": "2023-11-29T19:38:56+01:00",
+    "updated_at": "2023-11-29T19:57:31+01:00",
+    "media_id": "afpxm06aicmk",
+    "duration": "0:50",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6291917/spanjaard-kajakt-van-20-meter-hoge-waterval-op-gletsjer.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6291916,
+    "slug": "legia-speler-pankov-vervolgd-vanwege-mishandelen-az-beveiliger-in-alkmaar",
+    "type": "article",
+    "title": "Legia-speler Pankov vervolgd vanwege mishandelen AZ-beveiliger in Alkmaar",
+    "subtitle": null,
+    "published_at": "2023-11-29T19:33:10+01:00",
+    "updated_at": "2023-11-29T19:48:53+01:00",
+    "media_id": "pqwxqafasaub",
     "duration": null,
     "canonical_section": {
       "id": 1772338,
@@ -18,7 +87,53 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6291910/van-t-schip-houdt-keuze-tussen-brobbey-en-akpom-geheim-over-beiden-tevreden.html",
+    "url": "/voetbal/6291916/legia-speler-pankov-vervolgd-vanwege-mishandelen-az-beveiliger-in-alkmaar.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6291913,
+    "slug": "omtzigt-over-pvv-niet-klaar-voor-onderhandelingen",
+    "type": "video",
+    "title": "Omtzigt over PVV: 'Niet klaar voor onderhandelingen'",
+    "subtitle": "Video",
+    "published_at": "2023-11-29T19:07:23+01:00",
+    "updated_at": "2023-11-29T19:07:25+01:00",
+    "media_id": "wrcxnmoa4ur0",
+    "duration": "1:00",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6291913/omtzigt-over-pvv-niet-klaar-voor-onderhandelingen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6291910,
+    "slug": "akpom-of-brobbey-in-de-spits-bij-ajax-van-t-schip-is-over-beiden-tevreden",
+    "type": "article",
+    "title": "Akpom of Brobbey in de spits bij Ajax? Van 't Schip is 'over beiden tevreden'",
+    "subtitle": null,
+    "published_at": "2023-11-29T18:56:48+01:00",
+    "updated_at": "2023-11-29T19:14:19+01:00",
+    "media_id": "r34xobla6q93",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6291910/akpom-of-brobbey-in-de-spits-bij-ajax-van-t-schip-is-over-beiden-tevreden.html",
     "open_new_window": false,
     "partner": null
   },
@@ -29,7 +144,7 @@
     "title": "ASR sluit grote miljoenendeal over vergoeding voor klanten met woekerpolis",
     "subtitle": null,
     "published_at": "2023-11-29T18:45:49+01:00",
-    "updated_at": "2023-11-29T18:49:14+01:00",
+    "updated_at": "2023-11-29T19:58:26+01:00",
     "media_id": "jxpx7x6abr4g",
     "duration": null,
     "canonical_section": {
@@ -52,7 +167,7 @@
     "title": "Olympische droom Thialf spat uiteen: Frankrijk krijgt Winterspelen van 2030",
     "subtitle": null,
     "published_at": "2023-11-29T18:43:45+01:00",
-    "updated_at": "2023-11-29T19:01:35+01:00",
+    "updated_at": "2023-11-29T19:02:49+01:00",
     "media_id": "98kxgxwaboxj",
     "duration": null,
     "canonical_section": {
@@ -75,7 +190,7 @@
     "title": "Vrouw Franse seriemoordenaar 'monster van Ardennen' bekent betrokkenheid",
     "subtitle": null,
     "published_at": "2023-11-29T18:37:40+01:00",
-    "updated_at": "2023-11-29T18:37:41+01:00",
+    "updated_at": "2023-11-29T19:35:33+01:00",
     "media_id": "go1xx98a49z7",
     "duration": null,
     "canonical_section": {
@@ -162,13 +277,13 @@
   },
   {
     "id": 6291896,
-    "slug": "live-champions-league-psv-begint-goed-aan-belangrijk-duel-met-sevilla",
+    "slug": "live-champions-league-psv-krijgt-vroeg-na-rust-tweede-tegengoal-om-de-oren",
     "type": "article",
-    "title": "Live Champions League | PSV begint goed aan belangrijk duel met Sevilla",
+    "title": "Live Champions League | PSV krijgt vroeg na rust tweede tegengoal om de oren",
     "subtitle": null,
     "published_at": "2023-11-29T17:54:01+01:00",
-    "updated_at": "2023-11-29T18:59:20+01:00",
-    "media_id": "2r6xme9axdoy",
+    "updated_at": "2023-11-29T19:54:55+01:00",
+    "media_id": "56jxjkoaxujj",
     "duration": null,
     "canonical_section": {
       "id": 1772338,
@@ -179,7 +294,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6291896/live-champions-league-psv-begint-goed-aan-belangrijk-duel-met-sevilla.html",
+    "url": "/voetbal/6291896/live-champions-league-psv-krijgt-vroeg-na-rust-tweede-tegengoal-om-de-oren.html",
     "open_new_window": false,
     "partner": null
   },
@@ -190,7 +305,7 @@
     "title": "Omtzigt staat 'op dit moment' niet open voor onderhandelingen met PVV",
     "subtitle": null,
     "published_at": "2023-11-29T17:46:33+01:00",
-    "updated_at": "2023-11-29T18:59:00+01:00",
+    "updated_at": "2023-11-29T19:04:42+01:00",
     "media_id": "54mxqh2a39xf",
     "duration": null,
     "canonical_section": {
@@ -305,7 +420,7 @@
     "title": "Tieners opgepakt voor plannen aanslag op kerstmarkt of synagoge in Keulen",
     "subtitle": null,
     "published_at": "2023-11-29T17:17:15+01:00",
-    "updated_at": "2023-11-29T17:55:12+01:00",
+    "updated_at": "2023-11-29T19:15:41+01:00",
     "media_id": "zhyxkznabif6",
     "duration": null,
     "canonical_section": {
@@ -328,7 +443,7 @@
     "title": "Nederland neemt sinds oorlog Gaza extra maatregelen om aanslag te voorkomen",
     "subtitle": null,
     "published_at": "2023-11-29T17:12:33+01:00",
-    "updated_at": "2023-11-29T17:50:16+01:00",
+    "updated_at": "2023-11-29T19:26:21+01:00",
     "media_id": "ekdxqa4atjwd",
     "duration": null,
     "canonical_section": {
@@ -443,7 +558,7 @@
     "title": "Enzo Knol en vriendin Myron Koops verwachten eerste kindje",
     "subtitle": null,
     "published_at": "2023-11-29T16:41:22+01:00",
-    "updated_at": "2023-11-29T17:07:53+01:00",
+    "updated_at": "2023-11-29T19:04:14+01:00",
     "media_id": "v3gxqz4ak62h",
     "duration": null,
     "canonical_section": {
@@ -512,7 +627,7 @@
     "title": "Burna Boy in juni weer in Nederland voor concert in Johan Cruijff ArenA",
     "subtitle": null,
     "published_at": "2023-11-29T16:07:00+01:00",
-    "updated_at": "2023-11-29T16:07:43+01:00",
+    "updated_at": "2023-11-29T19:35:11+01:00",
     "media_id": "l20xl7iaxoyu",
     "duration": null,
     "canonical_section": {
@@ -571,121 +686,6 @@
       "partner": null
     },
     "url": "/wielrennen/6291864/quintana-begint-anderhalf-jaar-na-positieve-test-aan-comeback-in-wielerpeloton.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6285540,
-    "slug": "ajax-volgt-advies-van-gaal-op-en-strikt-marijn-beuker-als-directeur-voetbal",
-    "type": "article",
-    "title": "Ajax volgt advies Van Gaal op en strikt Marijn Beuker als directeur voetbal",
-    "subtitle": null,
-    "published_at": "2023-11-29T15:37:05+01:00",
-    "updated_at": "2023-11-29T18:49:31+01:00",
-    "media_id": "jtixinra1o0f",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6285540/ajax-volgt-advies-van-gaal-op-en-strikt-marijn-beuker-als-directeur-voetbal.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6291850,
-    "slug": "stiekem-van-maan-en-goldband-meest-beluisterde-nummer-van-2023-op-spotify",
-    "type": "article",
-    "title": "Stiekem van Maan en Goldband meest beluisterde nummer van 2023 op Spotify",
-    "subtitle": null,
-    "published_at": "2023-11-29T15:30:40+01:00",
-    "updated_at": "2023-11-29T18:45:05+01:00",
-    "media_id": "n15xn0haodkq",
-    "duration": null,
-    "canonical_section": {
-      "id": 868281,
-      "slug": "muziek",
-      "type": "default",
-      "name": "Muziek",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/muziek/6291850/stiekem-van-maan-en-goldband-meest-beluisterde-nummer-van-2023-op-spotify.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6291853,
-    "slug": "uefa-haalt-var-van-champions-league-duel-af-na-omstreden-penalty-voor-psg",
-    "type": "article",
-    "title": "UEFA haalt VAR van Champions League-duel af na omstreden penalty voor PSG",
-    "subtitle": null,
-    "published_at": "2023-11-29T15:13:58+01:00",
-    "updated_at": "2023-11-29T15:13:59+01:00",
-    "media_id": "mvdxnrqalkmo",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6291853/uefa-haalt-var-van-champions-league-duel-af-na-omstreden-penalty-voor-psg.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6291851,
-    "slug": "bewakingscamera-filmt-hoe-tiener-ongeluk-voorkomt-in-australie",
-    "type": "video",
-    "title": "Bewakingscamera filmt hoe tiener ongeluk voorkomt in Australië",
-    "subtitle": "Video",
-    "published_at": "2023-11-29T14:56:39+01:00",
-    "updated_at": "2023-11-29T14:56:40+01:00",
-    "media_id": "10fxzypabzw1",
-    "duration": "0:38",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6291851/bewakingscamera-filmt-hoe-tiener-ongeluk-voorkomt-in-australie.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6291846,
-    "slug": "rechter-geeft-groen-licht-voor-5g-frequentieveiling",
-    "type": "article",
-    "title": "Rechter geeft groen licht voor 5G-frequentieveiling",
-    "subtitle": null,
-    "published_at": "2023-11-29T14:22:39+01:00",
-    "updated_at": "2023-11-29T16:36:36+01:00",
-    "media_id": "n2gx5tra4emj",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779219,
-      "slug": "tech-wetenschap",
-      "type": "default",
-      "name": "Tech en Wetenschap",
-      "style": "nutech",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/tech-wetenschap/6291846/rechter-geeft-groen-licht-voor-5g-frequentieveiling.html",
     "open_new_window": false,
     "partner": null
   }
