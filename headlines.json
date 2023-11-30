@@ -1,5 +1,28 @@
 [
   {
+    "id": 6291958,
+    "slug": "de-redactie-van-nunl-legt-vandaag-het-werk-neer-tussen-1100-en-1200-uur",
+    "type": "article",
+    "title": "De redactie van NU.nl legt vandaag het werk neer tussen 11.00 en 12.00 uur",
+    "subtitle": null,
+    "published_at": "2023-11-30T11:01:38+01:00",
+    "updated_at": "2023-11-30T11:01:39+01:00",
+    "media_id": "rv4xv6ta3n23",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771675,
+      "slug": "media",
+      "type": "default",
+      "name": "Media",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/media/6291958/de-redactie-van-nunl-legt-vandaag-het-werk-neer-tussen-1100-en-1200-uur.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6291981,
     "slug": "oranje-stijgt-naar-zesde-plek-op-fifa-ranglijst-en-springt-over-portugal-heen",
     "type": "article",
@@ -663,29 +686,6 @@
       "partner": null
     },
     "url": "/uitgelicht/6291934/het-woord-van-vandaag-raad-jij-het-woord-van-de-dag.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6291905,
-    "slug": "nieuwe-horroravond-dreigt-voor-az-we-gaan-ervan-uit-dat-zij-hun-plicht-doen",
-    "type": "article",
-    "title": "Nieuwe horroravond dreigt voor AZ: 'We gaan ervan uit dat zij hun plicht doen'",
-    "subtitle": null,
-    "published_at": "2023-11-30T05:06:55+01:00",
-    "updated_at": "2023-11-30T05:06:56+01:00",
-    "media_id": "ybgxn71ajghm",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6291905/nieuwe-horroravond-dreigt-voor-az-we-gaan-ervan-uit-dat-zij-hun-plicht-doen.html",
     "open_new_window": false,
     "partner": null
   }
