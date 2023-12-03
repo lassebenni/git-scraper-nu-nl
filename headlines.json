@@ -1,5 +1,51 @@
 [
   {
+    "id": 6292401,
+    "slug": "politie-lost-schoten-in-jacht-op-snackbarovervallers-in-almere",
+    "type": "article",
+    "title": "Politie lost schoten in jacht op snackbarovervallers in Almere",
+    "subtitle": null,
+    "published_at": "2023-12-03T00:36:11+01:00",
+    "updated_at": "2023-12-03T00:39:42+01:00",
+    "media_id": "xtrx3q0av7qd",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6292401/politie-lost-schoten-in-jacht-op-snackbarovervallers-in-almere.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6292402,
+    "slug": "aanvaller-met-mes-en-hamer-steekt-voorbijganger-dood-nabij-eiffeltoren",
+    "type": "article",
+    "title": "Aanvaller met mes en hamer steekt voorbijganger dood nabij Eiffeltoren",
+    "subtitle": null,
+    "published_at": "2023-12-03T00:06:51+01:00",
+    "updated_at": "2023-12-03T00:39:14+01:00",
+    "media_id": "fokxnclaq8zy",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6292402/aanvaller-met-mes-en-hamer-steekt-voorbijganger-dood-nabij-eiffeltoren.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6292400,
     "slug": "wesley-hoedt-maakt-fenomenaal-doelpunt-van-40-meter-voor-watford",
     "type": "video",
@@ -640,52 +686,6 @@
       "partner": null
     },
     "url": "/voetbal/6292368/live-ek-loting-bondscoaches-frankrijk-en-oostenrijk-zware-loting.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6292367,
-    "slug": "weghorst-scoort-opnieuw-voor-hoffenheim-simons-wint-met-rb-leipzig",
-    "type": "article",
-    "title": "Weghorst scoort opnieuw voor Hoffenheim, Simons wint met RB Leipzig",
-    "subtitle": null,
-    "published_at": "2023-12-02T17:28:07+01:00",
-    "updated_at": "2023-12-02T21:07:07+01:00",
-    "media_id": "of2xk3pas5ok",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6292367/weghorst-scoort-opnieuw-voor-hoffenheim-simons-wint-met-rb-leipzig.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6292366,
-    "slug": "grote-brand-verwoest-autogarage-in-friesland",
-    "type": "video",
-    "title": "Grote brand verwoest autogarage in Friesland",
-    "subtitle": "Video",
-    "published_at": "2023-12-02T17:22:15+01:00",
-    "updated_at": "2023-12-02T17:22:16+01:00",
-    "media_id": "yi1x9ava042h",
-    "duration": "0:44",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6292366/grote-brand-verwoest-autogarage-in-friesland.html",
     "open_new_window": false,
     "partner": null
   }
