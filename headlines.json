@@ -1,12 +1,127 @@
 [
   {
+    "id": 6293412,
+    "slug": "klimaatactivisten-kleuren-kanaal-in-venetie-gifgroen",
+    "type": "video",
+    "title": "Klimaatactivisten kleuren kanaal in Venetië gifgroen",
+    "subtitle": "Video",
+    "published_at": "2023-12-10T10:56:54+01:00",
+    "updated_at": "2023-12-10T10:57:06+01:00",
+    "media_id": "w1pxhtgamc53",
+    "duration": "0:35",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6293412/klimaatactivisten-kleuren-kanaal-in-venetie-gifgroen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6293411,
+    "slug": "lebron-james-verovert-met-los-angeles-lakers-eerste-editie-nba-cup",
+    "type": "article",
+    "title": "LeBron James verovert met Los Angeles Lakers eerste editie NBA Cup",
+    "subtitle": null,
+    "published_at": "2023-12-10T10:51:50+01:00",
+    "updated_at": "2023-12-10T10:56:39+01:00",
+    "media_id": "q6cxe4bankqb",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772456,
+      "slug": "sport-overig",
+      "type": "default",
+      "name": "Sport Overig",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/sport-overig/6293411/lebron-james-verovert-met-los-angeles-lakers-eerste-editie-nba-cup.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6293410,
+    "slug": "velzeboer-pakt-wereldbekergoud-op-500-meter-in-peking-zilver-voor-poutsma",
+    "type": "article",
+    "title": "Velzeboer pakt wereldbekergoud op 500 meter in Peking, zilver voor Poutsma",
+    "subtitle": null,
+    "published_at": "2023-12-10T10:24:23+01:00",
+    "updated_at": "2023-12-10T10:52:13+01:00",
+    "media_id": "egdxhquami2x",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772452,
+      "slug": "schaatsen",
+      "type": "default",
+      "name": "Schaatsen",
+      "style": "nusport",
+      "media_id": "5ktx9n6axubw",
+      "partner": null
+    },
+    "url": "/schaatsen/6293410/velzeboer-pakt-wereldbekergoud-op-500-meter-in-peking-zilver-voor-poutsma.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6293409,
+    "slug": "bestuurder-overlijdt-nadat-auto-te-water-raakt-in-delft-passagier-zwaargewond",
+    "type": "article",
+    "title": "Bestuurder overlijdt nadat auto te water raakt in Delft, passagier zwaargewond",
+    "subtitle": null,
+    "published_at": "2023-12-10T10:12:11+01:00",
+    "updated_at": "2023-12-10T11:00:32+01:00",
+    "media_id": "bnbx33mab8fn",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6293409/bestuurder-overlijdt-nadat-auto-te-water-raakt-in-delft-passagier-zwaargewond.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6293408,
+    "slug": "omstanders-filmen-dodelijke-tornado-in-vs",
+    "type": "video",
+    "title": "Omstanders filmen dodelijke tornado in VS",
+    "subtitle": "Video",
+    "published_at": "2023-12-10T10:06:25+01:00",
+    "updated_at": "2023-12-10T10:06:27+01:00",
+    "media_id": "ocnxgbtavt9r",
+    "duration": "0:26",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6293408/omstanders-filmen-dodelijke-tornado-in-vs.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6293407,
     "slug": "topman-chipbedrijf-arm-uit-zorgen-over-verliezen-menselijke-controle-over-ai",
     "type": "article",
     "title": "Topman chipbedrijf Arm uit zorgen over verliezen menselijke controle over AI",
     "subtitle": null,
     "published_at": "2023-12-10T10:00:45+01:00",
-    "updated_at": "2023-12-10T10:00:46+01:00",
+    "updated_at": "2023-12-10T10:14:54+01:00",
     "media_id": "hc1xkkqaiq5q",
     "duration": null,
     "canonical_section": {
@@ -52,7 +167,7 @@
     "title": "Ohtani troeft Messi af: honkballer tekent recordcontract van 650 miljoen euro",
     "subtitle": null,
     "published_at": "2023-12-10T09:26:01+01:00",
-    "updated_at": "2023-12-10T09:53:04+01:00",
+    "updated_at": "2023-12-10T10:58:17+01:00",
     "media_id": "gg3xsrwausm9",
     "duration": null,
     "canonical_section": {
@@ -121,8 +236,8 @@
     "title": "Grote drukte bij de egelopvang, meer verzwakte egels dan normaal",
     "subtitle": null,
     "published_at": "2023-12-10T07:54:18+01:00",
-    "updated_at": "2023-12-10T08:15:58+01:00",
-    "media_id": "waaxisgaaw3k",
+    "updated_at": "2023-12-10T10:24:47+01:00",
+    "media_id": "3qox1juaiz07",
     "duration": null,
     "canonical_section": {
       "id": 1772536,
@@ -208,12 +323,12 @@
   },
   {
     "id": 6293393,
-    "slug": "meerdere-doden-en-gewonden-door-tornado-in-amerikaanse-staat-tennessee",
+    "slug": "zes-doden-en-dik-twintig-gewonden-door-tornado-in-amerikaanse-staat-tennessee",
     "type": "article",
-    "title": "Meerdere doden en gewonden door tornado in Amerikaanse staat Tennessee",
+    "title": "Zes doden en dik twintig gewonden door tornado in Amerikaanse staat Tennessee",
     "subtitle": null,
     "published_at": "2023-12-10T05:55:52+01:00",
-    "updated_at": "2023-12-10T08:00:03+01:00",
+    "updated_at": "2023-12-10T10:16:13+01:00",
     "media_id": "c9fxwwpa2onr",
     "duration": null,
     "canonical_section": {
@@ -225,7 +340,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/buitenland/6293393/meerdere-doden-en-gewonden-door-tornado-in-amerikaanse-staat-tennessee.html",
+    "url": "/buitenland/6293393/zes-doden-en-dik-twintig-gewonden-door-tornado-in-amerikaanse-staat-tennessee.html",
     "open_new_window": false,
     "partner": null
   },
@@ -443,7 +558,7 @@
     "title": "Grootste 'kerstboom' ter wereld voor 25e keer opgetuigd in IJsselstein",
     "subtitle": null,
     "published_at": "2023-12-09T22:34:25+01:00",
-    "updated_at": "2023-12-09T22:42:30+01:00",
+    "updated_at": "2023-12-10T10:16:17+01:00",
     "media_id": "3sfxproag5ax",
     "duration": null,
     "canonical_section": {
@@ -535,7 +650,7 @@
     "title": "Iran houdt familie Mahsa Amini op weg naar prijsuitreiking tegen op vliegveld",
     "subtitle": null,
     "published_at": "2023-12-09T21:34:57+01:00",
-    "updated_at": "2023-12-09T21:41:56+01:00",
+    "updated_at": "2023-12-10T10:53:57+01:00",
     "media_id": "zm6xvzpaje4i",
     "duration": null,
     "canonical_section": {
@@ -571,121 +686,6 @@
       "partner": null
     },
     "url": "/voetbal/6293381/ajax-wint-ook-van-sparta-en-zet-opmars-voort-naar-vijfde-plaats-in-eredivisie.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6293378,
-    "slug": "klimaattop-dubai-beweegt-voorzichtig-richting-deal-fossiele-brandstoffen",
-    "type": "article",
-    "title": "Klimaattop Dubai beweegt voorzichtig richting deal fossiele brandstoffen",
-    "subtitle": "NU+",
-    "published_at": "2023-12-09T20:25:31+01:00",
-    "updated_at": "2023-12-10T05:56:30+01:00",
-    "media_id": "mp9x0nkaazxr",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772754,
-      "slug": "klimaat",
-      "type": "default",
-      "name": "Klimaat",
-      "style": "nuzakelijk",
-      "media_id": "kf4x3b2agsxg",
-      "partner": null
-    },
-    "url": "/klimaat/6293378/klimaattop-dubai-beweegt-voorzichtig-richting-deal-fossiele-brandstoffen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6293380,
-    "slug": "ten-hag-laakt-instelling-united-bij-start-tegen-bournemouth-zo-word-je-geslacht",
-    "type": "article",
-    "title": "Ten Hag laakt instelling United bij start tegen Bournemouth: 'Zo word je geslacht'",
-    "subtitle": null,
-    "published_at": "2023-12-09T19:56:58+01:00",
-    "updated_at": "2023-12-09T22:20:23+01:00",
-    "media_id": "pdexeghahr8v",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6293380/ten-hag-laakt-instelling-united-bij-start-tegen-bournemouth-zo-word-je-geslacht.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6293376,
-    "slug": "minister-kuipers-wil-geen-extra-geld-voor-postcovid-vrijmaken-te-veel-risicos",
-    "type": "article",
-    "title": "Minister Kuipers wil geen extra geld voor postcovid vrijmaken: 'Te veel risico's'",
-    "subtitle": null,
-    "published_at": "2023-12-09T19:53:01+01:00",
-    "updated_at": "2023-12-09T20:05:25+01:00",
-    "media_id": "dr1xyxmajybu",
-    "duration": null,
-    "canonical_section": {
-      "id": 1778528,
-      "slug": "coronavirus",
-      "type": "default",
-      "name": "Coronavirus",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/coronavirus/6293376/minister-kuipers-wil-geen-extra-geld-voor-postcovid-vrijmaken-te-veel-risicos.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6293377,
-    "slug": "psg-worstelt-zich-langs-nantes-ekkelenkamp-helpt-van-bommel-aan-zege",
-    "type": "article",
-    "title": "PSG worstelt zich langs Nantes, Ekkelenkamp helpt Van Bommel aan zege",
-    "subtitle": null,
-    "published_at": "2023-12-09T18:56:59+01:00",
-    "updated_at": "2023-12-09T23:00:47+01:00",
-    "media_id": "qllxur6abjvb",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6293377/psg-worstelt-zich-langs-nantes-ekkelenkamp-helpt-van-bommel-aan-zege.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6293341,
-    "slug": "gevechten-gaza-zwellen-aan-harde-kritieken-op-immoreel-vs",
-    "type": "article",
-    "title": "Gevechten Gaza zwellen aan, harde kritieken op 'immoreel' VS",
-    "subtitle": "Overzicht",
-    "published_at": "2023-12-09T18:36:36+01:00",
-    "updated_at": "2023-12-09T19:20:31+01:00",
-    "media_id": "t7axzh6a9dll",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772085,
-      "slug": "midden-oostenconflict",
-      "type": "default",
-      "name": "Oorlog Israël en Hamas",
-      "style": "nu",
-      "media_id": "m1oxeovaiadm",
-      "partner": null
-    },
-    "url": "/midden-oostenconflict/6293341/gevechten-gaza-zwellen-aan-harde-kritieken-op-immoreel-vs.html",
     "open_new_window": false,
     "partner": null
   }
