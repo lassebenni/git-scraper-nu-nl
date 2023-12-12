@@ -1,12 +1,81 @@
 [
   {
-    "id": 6293666,
-    "slug": "weer-iets-meer-bedrijven-failliet-in-november",
+    "id": 6293669,
+    "slug": "frieslandcampina-schrapt-de-komende-jaren-zeker-achttienhonderd-banen",
     "type": "article",
-    "title": "Weer iets meer bedrijven failliet in november",
+    "title": "FrieslandCampina schrapt de komende jaren zeker achttienhonderd banen",
+    "subtitle": null,
+    "published_at": "2023-12-12T08:28:21+01:00",
+    "updated_at": "2023-12-12T08:42:23+01:00",
+    "media_id": "vqgxz3uazcur",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6293669/frieslandcampina-schrapt-de-komende-jaren-zeker-achttienhonderd-banen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6293668,
+    "slug": "jeroen-van-der-boom-geeft-op-13-december-2024-pianoshow-in-kleine-zaal-ahoy",
+    "type": "article",
+    "title": "Jeroen van der Boom geeft op 13 december 2024 pianoshow in kleine zaal Ahoy",
+    "subtitle": null,
+    "published_at": "2023-12-12T08:20:59+01:00",
+    "updated_at": "2023-12-12T08:32:07+01:00",
+    "media_id": "3zox8hla0vcj",
+    "duration": null,
+    "canonical_section": {
+      "id": 868281,
+      "slug": "muziek",
+      "type": "default",
+      "name": "Muziek",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/muziek/6293668/jeroen-van-der-boom-geeft-op-13-december-2024-pianoshow-in-kleine-zaal-ahoy.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6293667,
+    "slug": "zac-efron-eert-matthew-perry-bij-onthulling-ster-denk-aan-je",
+    "type": "video",
+    "title": "Zac Efron eert Matthew Perry bij onthulling ster: 'Denk aan je'",
+    "subtitle": "Video",
+    "published_at": "2023-12-12T08:09:36+01:00",
+    "updated_at": "2023-12-12T08:09:37+01:00",
+    "media_id": "x0yxfxva0dk5",
+    "duration": "0:56",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6293667/zac-efron-eert-matthew-perry-bij-onthulling-ster-denk-aan-je.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6293666,
+    "slug": "weer-ietsje-meer-bedrijven-failliet-in-november",
+    "type": "article",
+    "title": "Weer ietsje meer bedrijven failliet in november",
     "subtitle": null,
     "published_at": "2023-12-12T07:54:32+01:00",
-    "updated_at": "2023-12-12T07:55:44+01:00",
+    "updated_at": "2023-12-12T08:49:52+01:00",
     "media_id": "9qnxmbsahh6t",
     "duration": null,
     "canonical_section": {
@@ -18,18 +87,18 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/economie/6293666/weer-iets-meer-bedrijven-failliet-in-november.html",
+    "url": "/economie/6293666/weer-ietsje-meer-bedrijven-failliet-in-november.html",
     "open_new_window": false,
     "partner": null
   },
   {
     "id": 6293664,
-    "slug": "hockeyvrouwen-halen-uit-tegen-argentinie-mannen-pakken-bonuspunt-in-pro-league",
+    "slug": "hockeyvrouwen-halen-uit-tegen-argentinie-mannen-pakken-bonuspunt",
     "type": "article",
-    "title": "Hockeyvrouwen halen uit tegen Argentinië, mannen pakken bonuspunt in Pro League",
+    "title": "Hockeyvrouwen halen uit tegen Argentinië, mannen pakken bonuspunt",
     "subtitle": null,
     "published_at": "2023-12-12T07:53:55+01:00",
-    "updated_at": "2023-12-12T08:00:32+01:00",
+    "updated_at": "2023-12-12T08:13:48+01:00",
     "media_id": "suix45vazauq",
     "duration": null,
     "canonical_section": {
@@ -41,7 +110,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/sport-overig/6293664/hockeyvrouwen-halen-uit-tegen-argentinie-mannen-pakken-bonuspunt-in-pro-league.html",
+    "url": "/sport-overig/6293664/hockeyvrouwen-halen-uit-tegen-argentinie-mannen-pakken-bonuspunt.html",
     "open_new_window": false,
     "partner": null
   },
@@ -75,7 +144,7 @@
     "title": "Turkse competitie stilgelegd na aanval op arbiter, Erdogan veroordeelt actie",
     "subtitle": null,
     "published_at": "2023-12-12T07:22:00+01:00",
-    "updated_at": "2023-12-12T07:30:05+01:00",
+    "updated_at": "2023-12-12T08:38:20+01:00",
     "media_id": "bjbx3mua9owz",
     "duration": null,
     "canonical_section": {
@@ -617,75 +686,6 @@
       "partner": null
     },
     "url": "/buitenland/6293636/zwangere-vrouw-met-complicaties-vertrekt-uit-texas-vanwege-abortus.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6293644,
-    "slug": "jong-ajax-zet-opmars-in-eerste-divisie-voort-met-zege-op-jong-fc-utrecht",
-    "type": "article",
-    "title": "Jong Ajax zet opmars in Eerste Divisie voort met zege op Jong FC Utrecht",
-    "subtitle": null,
-    "published_at": "2023-12-11T21:57:38+01:00",
-    "updated_at": "2023-12-11T22:00:29+01:00",
-    "media_id": "3fexvsxa2ss7",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6293644/jong-ajax-zet-opmars-in-eerste-divisie-voort-met-zege-op-jong-fc-utrecht.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6293642,
-    "slug": "israel-opent-dinsdag-op-verzoek-vs-tweede-grenspost-voor-hulpgoederen-gaza",
-    "type": "article",
-    "title": "Israël opent dinsdag op verzoek VS tweede grenspost voor hulpgoederen Gaza",
-    "subtitle": null,
-    "published_at": "2023-12-11T21:46:56+01:00",
-    "updated_at": "2023-12-11T21:50:42+01:00",
-    "media_id": "waxxvf7awzva",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6293642/israel-opent-dinsdag-op-verzoek-vs-tweede-grenspost-voor-hulpgoederen-gaza.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6293640,
-    "slug": "bizar-incident-in-turks-voetbal-woedende-voorzitter-slaat-scheidsrechter-neer",
-    "type": "article",
-    "title": "Bizar incident in Turks voetbal: woedende voorzitter slaat scheidsrechter neer",
-    "subtitle": null,
-    "published_at": "2023-12-11T21:36:39+01:00",
-    "updated_at": "2023-12-12T07:23:57+01:00",
-    "media_id": "azex3nqag4k1",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6293640/bizar-incident-in-turks-voetbal-woedende-voorzitter-slaat-scheidsrechter-neer.html",
     "open_new_window": false,
     "partner": null
   }
