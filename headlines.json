@@ -1,5 +1,143 @@
 [
   {
+    "id": 6293891,
+    "slug": "israel-lijkt-te-zijn-begonnen-met-onder-water-zetten-van-hamas-tunnels",
+    "type": "article",
+    "title": "Israël lijkt te zijn begonnen met onder water zetten van 'Hamas-tunnels'",
+    "subtitle": null,
+    "published_at": "2023-12-13T15:59:43+01:00",
+    "updated_at": "2023-12-13T15:59:45+01:00",
+    "media_id": "arjxkvzaznfl",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772085,
+      "slug": "midden-oostenconflict",
+      "type": "default",
+      "name": "Oorlog Israël en Hamas",
+      "style": "nu",
+      "media_id": "m1oxeovaiadm",
+      "partner": null
+    },
+    "url": "/midden-oostenconflict/6293891/israel-lijkt-te-zijn-begonnen-met-onder-water-zetten-van-hamas-tunnels.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6293909,
+    "slug": "man-opgepakt-wegens-betrokkenheid-bij-dood-van-in-auto-gevonden-enschedeer",
+    "type": "article",
+    "title": "Man opgepakt wegens betrokkenheid bij dood van in auto gevonden Enschedeër",
+    "subtitle": null,
+    "published_at": "2023-12-13T15:50:14+01:00",
+    "updated_at": "2023-12-13T15:50:15+01:00",
+    "media_id": "i0ex6gua2ge2",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6293909/man-opgepakt-wegens-betrokkenheid-bij-dood-van-in-auto-gevonden-enschedeer.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6293907,
+    "slug": "jaarlijks-overstappen-naar-een-andere-internetprovider-loont",
+    "type": "article",
+    "title": "Jaarlijks overstappen naar een andere internetprovider loont",
+    "subtitle": null,
+    "published_at": "2023-12-13T15:42:59+01:00",
+    "updated_at": "2023-12-13T15:57:24+01:00",
+    "media_id": "v6sx7graobag",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771438,
+      "slug": "tech",
+      "type": "default",
+      "name": "Tech",
+      "style": "nutech",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/tech/6293907/jaarlijks-overstappen-naar-een-andere-internetprovider-loont.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6293905,
+    "slug": "azerbeidzjan-en-armenie-ruilen-gevangenen-om-verstoorde-band-te-herstellen",
+    "type": "article",
+    "title": "Azerbeidzjan en Armenië ruilen gevangenen om verstoorde band te herstellen",
+    "subtitle": null,
+    "published_at": "2023-12-13T15:24:58+01:00",
+    "updated_at": "2023-12-13T15:24:59+01:00",
+    "media_id": "an6xsc1auzl1",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6293905/azerbeidzjan-en-armenie-ruilen-gevangenen-om-verstoorde-band-te-herstellen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6293904,
+    "slug": "kerstman-obama-leest-kinderen-voor-in-chicago",
+    "type": "video",
+    "title": "'Kerstman' Obama leest kinderen voor in Chicago",
+    "subtitle": "Video",
+    "published_at": "2023-12-13T15:13:43+01:00",
+    "updated_at": "2023-12-13T15:13:44+01:00",
+    "media_id": "tt5xtn8ahfv1",
+    "duration": "0:31",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6293904/kerstman-obama-leest-kinderen-voor-in-chicago.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6293897,
+    "slug": "treinreizigers-35-uur-gestrand-met-nieuwe-intercity-ook-evacuatietrein-kapot",
+    "type": "article",
+    "title": "Treinreizigers 3,5 uur gestrand met nieuwe intercity, ook evacuatietrein kapot",
+    "subtitle": null,
+    "published_at": "2023-12-13T15:07:02+01:00",
+    "updated_at": "2023-12-13T15:07:04+01:00",
+    "media_id": "5kqxb86afwiq",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6293897/treinreizigers-35-uur-gestrand-met-nieuwe-intercity-ook-evacuatietrein-kapot.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6293892,
     "slug": "hugh-grant-vond-rol-van-oempa-loempa-vreselijk-niemand-praatte-met-me",
     "type": "article",
@@ -47,12 +185,12 @@
   },
   {
     "id": 6293886,
-    "slug": "om-houdt-alleen-sanil-b-nog-verantwoordelijk-voor-dood-carlo-heuvelman-en-eist-10-jaar-cel",
+    "slug": "om-heeft-alleen-tegen-sanil-b-bewijs-voor-dood-carlo-heuvelman-en-eist-10-jaar-cel",
     "type": "article",
-    "title": "OM houdt alleen Sanil B. nog verantwoordelijk voor dood Carlo Heuvelman en eist 10 jaar cel",
+    "title": "OM heeft alleen tegen Sanil B. bewijs voor dood Carlo Heuvelman en eist 10 jaar cel",
     "subtitle": null,
     "published_at": "2023-12-13T14:32:49+01:00",
-    "updated_at": "2023-12-13T14:59:40+01:00",
+    "updated_at": "2023-12-13T16:00:48+01:00",
     "media_id": "2hsxy4baozxg",
     "duration": null,
     "canonical_section": {
@@ -64,7 +202,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/binnenland/6293886/om-houdt-alleen-sanil-b-nog-verantwoordelijk-voor-dood-carlo-heuvelman-en-eist-10-jaar-cel.html",
+    "url": "/binnenland/6293886/om-heeft-alleen-tegen-sanil-b-bewijs-voor-dood-carlo-heuvelman-en-eist-10-jaar-cel.html",
     "open_new_window": false,
     "partner": null
   },
@@ -75,7 +213,7 @@
     "title": "Wiegman opnieuw bij laatste drie kanshebbers voor FIFA Coach van het Jaar",
     "subtitle": null,
     "published_at": "2023-12-13T14:29:10+01:00",
-    "updated_at": "2023-12-13T14:29:11+01:00",
+    "updated_at": "2023-12-13T15:10:14+01:00",
     "media_id": "tdoxrl7a7vl6",
     "duration": null,
     "canonical_section": {
@@ -121,7 +259,7 @@
     "title": "Pensioenleeftijd gaat boven zeventig jaar uitkomen: Nederland blijft in kopgroep",
     "subtitle": null,
     "published_at": "2023-12-13T14:20:33+01:00",
-    "updated_at": "2023-12-13T14:20:34+01:00",
+    "updated_at": "2023-12-13T15:07:51+01:00",
     "media_id": "q57x27ua0kw9",
     "duration": null,
     "canonical_section": {
@@ -190,7 +328,7 @@
     "title": "Tesla roept meer dan twee miljoen auto's terug omdat rijhulp niet veilig genoeg is",
     "subtitle": null,
     "published_at": "2023-12-13T13:16:15+01:00",
-    "updated_at": "2023-12-13T14:53:04+01:00",
+    "updated_at": "2023-12-13T15:15:26+01:00",
     "media_id": "6wzxj9zamglw",
     "duration": null,
     "canonical_section": {
@@ -208,12 +346,12 @@
   },
   {
     "id": 6293880,
-    "slug": "hoe-schoenen-op-een-vuilnisbelt-osimhen-naar-rijtje-met-kanu-leidden",
+    "slug": "hoe-gevonden-schoenen-op-vuilnisbelt-osimhen-in-rijtje-met-kanu-brachten",
     "type": "article",
-    "title": "Hoe schoenen op een vuilnisbelt Osimhen naar rijtje met Kanu leidden",
+    "title": "Hoe gevonden schoenen op vuilnisbelt Osimhen in rijtje met Kanu brachten",
     "subtitle": "NU+",
     "published_at": "2023-12-13T13:14:45+01:00",
-    "updated_at": "2023-12-13T14:30:37+01:00",
+    "updated_at": "2023-12-13T15:02:40+01:00",
     "media_id": "e3pxrk4azqxl",
     "duration": null,
     "canonical_section": {
@@ -225,7 +363,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6293880/hoe-schoenen-op-een-vuilnisbelt-osimhen-naar-rijtje-met-kanu-leidden.html",
+    "url": "/voetbal/6293880/hoe-gevonden-schoenen-op-vuilnisbelt-osimhen-in-rijtje-met-kanu-brachten.html",
     "open_new_window": false,
     "partner": null
   },
@@ -259,7 +397,7 @@
     "title": "Zeeuwse schoenenverkoper wil Chinees automerk met zelfde naam weren",
     "subtitle": null,
     "published_at": "2023-12-13T12:53:30+01:00",
-    "updated_at": "2023-12-13T14:48:33+01:00",
+    "updated_at": "2023-12-13T15:13:19+01:00",
     "media_id": "9aqxtjyaza37",
     "duration": null,
     "canonical_section": {
@@ -548,144 +686,6 @@
       "partner": null
     },
     "url": "/economie/6293853/transavia-krijgt-dwangsom-vanwege-nachtelijke-landingen-op-rotterdam-airport.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6293856,
-    "slug": "ruim-20-procent-meer-ernstig-gewonden-in-het-verkeer-vooral-oudere-fietsers",
-    "type": "article",
-    "title": "Ruim 20 procent meer ernstig gewonden in het verkeer, vooral oudere fietsers",
-    "subtitle": null,
-    "published_at": "2023-12-13T10:45:45+01:00",
-    "updated_at": "2023-12-13T10:45:46+01:00",
-    "media_id": "qblxj1waaqfo",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6293856/ruim-20-procent-meer-ernstig-gewonden-in-het-verkeer-vooral-oudere-fietsers.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6293860,
-    "slug": "handbalsters-verliezen-weer-van-noorwegen-en-stranden-in-kwartfinales-wk",
-    "type": "video",
-    "title": "Handbalsters verliezen wéér van Noorwegen en stranden in kwartfinales WK",
-    "subtitle": "Video",
-    "published_at": "2023-12-13T10:43:36+01:00",
-    "updated_at": "2023-12-13T10:43:37+01:00",
-    "media_id": "w4jxe6naf61y",
-    "duration": "4:31",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6293860/handbalsters-verliezen-weer-van-noorwegen-en-stranden-in-kwartfinales-wk.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6293855,
-    "slug": "loodgietersbedrijf-vlaardingen-mogelijk-voor-zevende-keer-doelwit-van-explosie",
-    "type": "article",
-    "title": "Loodgietersbedrijf Vlaardingen mogelijk voor zevende keer doelwit van explosie",
-    "subtitle": null,
-    "published_at": "2023-12-13T10:36:13+01:00",
-    "updated_at": "2023-12-13T11:35:32+01:00",
-    "media_id": "jwkxihoarhjk",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6293855/loodgietersbedrijf-vlaardingen-mogelijk-voor-zevende-keer-doelwit-van-explosie.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6293850,
-    "slug": "liveblog-formatie-partijen-vrezen-dat-omtzigt-zich-coalitie-laat-inrommelen",
-    "type": "article",
-    "title": "Liveblog formatie | Partijen vrezen dat Omtzigt zich coalitie laat 'inrommelen'",
-    "subtitle": null,
-    "published_at": "2023-12-13T10:26:42+01:00",
-    "updated_at": "2023-12-13T14:10:45+01:00",
-    "media_id": "o1sx8dparxv6",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779337,
-      "slug": "formatie-2023",
-      "type": "default",
-      "name": "Formatie 2023",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/formatie-2023/6293850/liveblog-formatie-partijen-vrezen-dat-omtzigt-zich-coalitie-laat-inrommelen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6293851,
-    "slug": "kamer-debatteert-over-verkiezingsuitslag-en-verslag-plasterk",
-    "type": "video",
-    "title": "Kamer debatteert over verkiezingsuitslag en verslag Plasterk",
-    "subtitle": "Livestream",
-    "published_at": "2023-12-13T10:20:46+01:00",
-    "updated_at": "2023-12-13T14:52:36+01:00",
-    "media_id": "c4zx94ea1biz",
-    "duration": "0:01",
-    "canonical_section": {
-      "id": 100,
-      "slug": "algemeen",
-      "type": "default",
-      "name": "Algemeen",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/algemeen/6293851/kamer-debatteert-over-verkiezingsuitslag-en-verslag-plasterk.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6293848,
-    "slug": "zwetsloot-overtuigend-door-op-wk-skateboarden-vroege-exit-jacobs",
-    "type": "article",
-    "title": "Zwetsloot overtuigend door op WK skateboarden, vroege exit Jacobs",
-    "subtitle": null,
-    "published_at": "2023-12-13T10:04:12+01:00",
-    "updated_at": "2023-12-13T12:12:45+01:00",
-    "media_id": "7udxs8pa6nw6",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772456,
-      "slug": "sport-overig",
-      "type": "default",
-      "name": "Sport Overig",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/sport-overig/6293848/zwetsloot-overtuigend-door-op-wk-skateboarden-vroege-exit-jacobs.html",
     "open_new_window": false,
     "partner": null
   }
