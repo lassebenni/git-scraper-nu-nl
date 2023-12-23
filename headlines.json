@@ -1,12 +1,81 @@
 [
   {
+    "id": 6295105,
+    "slug": "wat-was-jouw-nieuwsmoment-van-2023",
+    "type": "article",
+    "title": "Wat was jouw nieuwsmoment van 2023?",
+    "subtitle": "Praat Mee",
+    "published_at": "2023-12-23T08:30:41+01:00",
+    "updated_at": "2023-12-23T08:30:42+01:00",
+    "media_id": "th0xcu3ax90i",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779134,
+      "slug": "stelling",
+      "type": "default",
+      "name": "Stelling en Praat Mee",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/stelling/6295105/wat-was-jouw-nieuwsmoment-van-2023.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6295371,
+    "slug": "twee-personen-vermist-bij-ongeluk-met-thaise-boot-vol-duiktoeristen",
+    "type": "article",
+    "title": "Twee personen vermist bij ongeluk met Thaise boot vol duiktoeristen",
+    "subtitle": null,
+    "published_at": "2023-12-23T08:27:34+01:00",
+    "updated_at": "2023-12-23T08:37:00+01:00",
+    "media_id": "jcuxvy2a3lzb",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6295371/twee-personen-vermist-bij-ongeluk-met-thaise-boot-vol-duiktoeristen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6295372,
+    "slug": "politie-onderzoekt-straat-in-enschede-na-dodelijke-steekpartij",
+    "type": "video",
+    "title": "Politie onderzoekt straat in Enschede na dodelijke steekpartij",
+    "subtitle": "Video",
+    "published_at": "2023-12-23T08:12:01+01:00",
+    "updated_at": "2023-12-23T08:12:02+01:00",
+    "media_id": "focxuzaacn4c",
+    "duration": "0:37",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6295372/politie-onderzoekt-straat-in-enschede-na-dodelijke-steekpartij.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6295369,
     "slug": "samenvatting-raymond-van-barneveld-brengt-ally-pally-in-extase-na-overwinning",
     "type": "video",
     "title": "Samenvatting: Raymond van Barneveld brengt 'Ally Pally' in extase na overwinning",
     "subtitle": "Video",
     "published_at": "2023-12-23T07:51:36+01:00",
-    "updated_at": "2023-12-23T07:52:02+01:00",
+    "updated_at": "2023-12-23T08:02:46+01:00",
     "media_id": "ih6xrdlaj1qk",
     "duration": "1:41",
     "canonical_section": {
@@ -29,7 +98,7 @@
     "title": "Weken na bevalling deelt Kourtney Kardashian eerste foto's van haar zoon Rocky",
     "subtitle": null,
     "published_at": "2023-12-23T07:05:47+01:00",
-    "updated_at": "2023-12-23T07:05:59+01:00",
+    "updated_at": "2023-12-23T08:10:37+01:00",
     "media_id": "6qkxtbmavwm9",
     "duration": null,
     "canonical_section": {
@@ -75,7 +144,7 @@
     "title": "Containervervoerder Maersk verwacht dat chaos in Rode Zee nog maanden duurt",
     "subtitle": null,
     "published_at": "2023-12-23T06:33:48+01:00",
-    "updated_at": "2023-12-23T06:33:49+01:00",
+    "updated_at": "2023-12-23T08:23:27+01:00",
     "media_id": "swyx145akndy",
     "duration": null,
     "canonical_section": {
@@ -93,12 +162,12 @@
   },
   {
     "id": 6295366,
-    "slug": "zachte-zaterdag-met-vooral-in-het-noorden-flinke-buien",
+    "slug": "zachte-zaterdag-met-in-het-noorden-buien-en-code-geel-door-wind",
     "type": "article",
-    "title": "Zachte zaterdag met vooral in het noorden flinke buien",
+    "title": "Zachte zaterdag met in het noorden buien en code geel door wind",
     "subtitle": "Weerbericht",
     "published_at": "2023-12-23T06:08:46+01:00",
-    "updated_at": "2023-12-23T06:08:48+01:00",
+    "updated_at": "2023-12-23T09:00:29+01:00",
     "media_id": "muyxornaydg1",
     "duration": null,
     "canonical_section": {
@@ -110,7 +179,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/weerbericht/6295366/zachte-zaterdag-met-vooral-in-het-noorden-flinke-buien.html",
+    "url": "/weerbericht/6295366/zachte-zaterdag-met-in-het-noorden-buien-en-code-geel-door-wind.html",
     "open_new_window": false,
     "partner": null
   },
@@ -190,8 +259,8 @@
     "title": "Is de oorlog voorbij zodra Hamas alle gijzelaars laat gaan?",
     "subtitle": "Lezersvraag",
     "published_at": "2023-12-23T05:18:02+01:00",
-    "updated_at": "2023-12-23T05:18:03+01:00",
-    "media_id": "6c0x595ax3p4",
+    "updated_at": "2023-12-23T08:56:24+01:00",
+    "media_id": "t47xrk4as5rj",
     "duration": null,
     "canonical_section": {
       "id": 100,
@@ -236,8 +305,8 @@
     "title": "Zorgen over rechtsstaat met PVV aan het roer: 'Wil de echte Wilders opstaan?'",
     "subtitle": null,
     "published_at": "2023-12-23T05:16:14+01:00",
-    "updated_at": "2023-12-23T05:16:16+01:00",
-    "media_id": "mv2x65baas70",
+    "updated_at": "2023-12-23T08:15:07+01:00",
+    "media_id": "h36xl7aachvj",
     "duration": null,
     "canonical_section": {
       "id": 1779337,
@@ -328,7 +397,7 @@
     "title": "Persoon overleden bij steekpartij in binnenstad van Enschede",
     "subtitle": null,
     "published_at": "2023-12-23T00:29:38+01:00",
-    "updated_at": "2023-12-23T00:37:00+01:00",
+    "updated_at": "2023-12-23T08:12:25+01:00",
     "media_id": "nfax5wsa6g93",
     "duration": null,
     "canonical_section": {
@@ -351,7 +420,7 @@
     "title": "Van Barneveld dankt goede WK-start aan nieuwe pijlen: 'Voorspel mooie dingen'",
     "subtitle": null,
     "published_at": "2023-12-22T23:38:57+01:00",
-    "updated_at": "2023-12-22T23:42:59+01:00",
+    "updated_at": "2023-12-23T08:29:28+01:00",
     "media_id": "k5yx9kganep2",
     "duration": null,
     "canonical_section": {
@@ -369,12 +438,12 @@
   },
   {
     "id": 6295362,
-    "slug": "wham-voor-het-eerst-bovenaan-engelse-hitlijsten-tijdens-de-kerstdagen",
+    "slug": "wens-george-michael-komt-uit-wham-in-vk-voor-het-eerst-bovenaan-met-kerst",
     "type": "article",
-    "title": "Wham! voor het eerst bovenaan Engelse hitlijsten tijdens de kerstdagen",
+    "title": "Wens George Michael komt uit: Wham! in VK voor het eerst bovenaan met Kerst",
     "subtitle": null,
     "published_at": "2023-12-22T23:34:40+01:00",
-    "updated_at": "2023-12-23T01:00:32+01:00",
+    "updated_at": "2023-12-23T08:45:05+01:00",
     "media_id": "skzxhcpadza6",
     "duration": null,
     "canonical_section": {
@@ -386,7 +455,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/muziek/6295362/wham-voor-het-eerst-bovenaan-engelse-hitlijsten-tijdens-de-kerstdagen.html",
+    "url": "/muziek/6295362/wens-george-michael-komt-uit-wham-in-vk-voor-het-eerst-bovenaan-met-kerst.html",
     "open_new_window": false,
     "partner": null
   },
@@ -443,7 +512,7 @@
     "title": "Reijnders en Milan niet langs hekkensluiter, Aston Villa mist kans op koppositie",
     "subtitle": null,
     "published_at": "2023-12-22T22:46:15+01:00",
-    "updated_at": "2023-12-22T23:46:09+01:00",
+    "updated_at": "2023-12-23T08:29:55+01:00",
     "media_id": "t41xt9daazau",
     "duration": null,
     "canonical_section": {
@@ -617,75 +686,6 @@
       "partner": null
     },
     "url": "/videos/6295349/vrouw-fohnt-bevroren-kitten-weer-springlevend.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6295335,
-    "slug": "de-aardkern-schommelt-en-dat-beinvloedt-de-lengte-van-onze-dagen",
-    "type": "article",
-    "title": "De aardkern schommelt en dat beïnvloedt de lengte van onze dagen",
-    "subtitle": null,
-    "published_at": "2023-12-22T20:55:23+01:00",
-    "updated_at": "2023-12-22T21:40:45+01:00",
-    "media_id": "nzvxwvfao7ix",
-    "duration": null,
-    "canonical_section": {
-      "id": 478878,
-      "slug": "wetenschap",
-      "type": "default",
-      "name": "Wetenschap",
-      "style": "nunjij",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/wetenschap/6295335/de-aardkern-schommelt-en-dat-beinvloedt-de-lengte-van-onze-dagen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6295348,
-    "slug": "manchester-city-verovert-met-ake-wereldtitel-voor-clubs-en-pakt-vijfde-prijs-dit-jaar",
-    "type": "article",
-    "title": "Manchester City verovert met Aké wereldtitel voor clubs en pakt vijfde prijs dit jaar",
-    "subtitle": null,
-    "published_at": "2023-12-22T20:50:41+01:00",
-    "updated_at": "2023-12-22T21:35:19+01:00",
-    "media_id": "o4fx48yahc5k",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6295348/manchester-city-verovert-met-ake-wereldtitel-voor-clubs-en-pakt-vijfde-prijs-dit-jaar.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6295344,
-    "slug": "haags-restaurant-overstroomt-tijdens-optreden-tino-martin",
-    "type": "video",
-    "title": "Haags restaurant overstroomt tijdens optreden Tino Martin",
-    "subtitle": "Video",
-    "published_at": "2023-12-22T19:56:54+01:00",
-    "updated_at": "2023-12-22T20:05:08+01:00",
-    "media_id": "l30xy2qaj9f7",
-    "duration": "0:36",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6295344/haags-restaurant-overstroomt-tijdens-optreden-tino-martin.html",
     "open_new_window": false,
     "partner": null
   }
