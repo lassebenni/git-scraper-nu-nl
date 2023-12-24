@@ -1,5 +1,74 @@
 [
   {
+    "id": 6295457,
+    "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
+    "type": "article",
+    "title": "Het Woord van vandaag: Raad jij het woord van de dag?",
+    "subtitle": null,
+    "published_at": "2023-12-24T05:18:10+01:00",
+    "updated_at": "2023-12-24T05:30:16+01:00",
+    "media_id": "vunx81iava32",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779164,
+      "slug": "het-woord",
+      "type": "default",
+      "name": "Het Woord",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/het-woord/6295457/het-woord-van-vandaag-raad-jij-het-woord-van-de-dag.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6295380,
+    "slug": "expert-leg-plebsbestek-zoals-smartphone-niet-op-tafel-tijdens-kerstdiner",
+    "type": "article",
+    "title": "Expert: leg 'plebsbestek' zoals smartphone niet op tafel tijdens kerstdiner",
+    "subtitle": "NU+",
+    "published_at": "2023-12-24T05:09:58+01:00",
+    "updated_at": "2023-12-24T05:20:52+01:00",
+    "media_id": "kqkxuy0aadml",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771438,
+      "slug": "tech",
+      "type": "default",
+      "name": "Tech",
+      "style": "nutech",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/tech/6295380/expert-leg-plebsbestek-zoals-smartphone-niet-op-tafel-tijdens-kerstdiner.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6295379,
+    "slug": "dit-verandert-er-op-1-januari-voor-jouw-portemonnee",
+    "type": "article",
+    "title": "Dit verandert er op 1 januari voor jouw portemonnee",
+    "subtitle": null,
+    "published_at": "2023-12-24T05:07:17+01:00",
+    "updated_at": "2023-12-24T05:07:18+01:00",
+    "media_id": "azvxlnkatqkw",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6295379/dit-verandert-er-op-1-januari-voor-jouw-portemonnee.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6295454,
     "slug": "politie-arresteert-twee-personen-om-dodelijke-steekpartij-in-enschede",
     "type": "article",
@@ -144,7 +213,7 @@
     "title": "Britse politie arresteert man voor Banksy-diefstal, maar stopbord zelf nog zoek",
     "subtitle": null,
     "published_at": "2023-12-23T21:16:12+01:00",
-    "updated_at": "2023-12-23T21:30:01+01:00",
+    "updated_at": "2023-12-24T05:15:38+01:00",
     "media_id": "jbkx5vaastyp",
     "duration": null,
     "canonical_section": {
@@ -617,75 +686,6 @@
       "partner": null
     },
     "url": "/voetbal/6295419/ten-hag-en-united-scoren-weer-niet-en-lijden-pijnlijke-nederlaag-bij-west-ham.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6295418,
-    "slug": "waterschap-plaatst-schotten-vanwege-hoge-waterstand",
-    "type": "video",
-    "title": "Waterschap plaatst schotten vanwege hoge waterstand",
-    "subtitle": "Video",
-    "published_at": "2023-12-23T15:27:13+01:00",
-    "updated_at": "2023-12-23T15:36:14+01:00",
-    "media_id": "111x2cka4hs0",
-    "duration": "0:47",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6295418/waterschap-plaatst-schotten-vanwege-hoge-waterstand.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6295416,
-    "slug": "londense-politie-zoekt-mee-naar-gestolen-stopbord-van-kunstenaar-banksy",
-    "type": "article",
-    "title": "Londense politie zoekt mee naar gestolen stopbord van kunstenaar Banksy",
-    "subtitle": null,
-    "published_at": "2023-12-23T15:12:41+01:00",
-    "updated_at": "2023-12-23T15:19:52+01:00",
-    "media_id": "2bix227azzge",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772075,
-      "slug": "cultuur-overig",
-      "type": "default",
-      "name": "Boek & Cultuur",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/cultuur-overig/6295416/londense-politie-zoekt-mee-naar-gestolen-stopbord-van-kunstenaar-banksy.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6295415,
-    "slug": "van-der-poel-wint-in-antwerpen-ook-eerste-cross-met-van-aert-en-pidcock",
-    "type": "article",
-    "title": "Van der Poel wint in Antwerpen ook eerste cross met Van Aert én Pidcock",
-    "subtitle": null,
-    "published_at": "2023-12-23T14:55:28+01:00",
-    "updated_at": "2023-12-23T21:37:29+01:00",
-    "media_id": "w56xzq9anydy",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772339,
-      "slug": "wielrennen",
-      "type": "default",
-      "name": "Wielrennen",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/wielrennen/6295415/van-der-poel-wint-in-antwerpen-ook-eerste-cross-met-van-aert-en-pidcock.html",
     "open_new_window": false,
     "partner": null
   }
