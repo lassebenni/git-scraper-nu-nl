@@ -1,12 +1,35 @@
 [
   {
+    "id": 6295470,
+    "slug": "storm-pia-zet-delen-van-hamburg-onder-water",
+    "type": "video",
+    "title": "Storm Pia zet delen van Hamburg onder water",
+    "subtitle": "Video",
+    "published_at": "2023-12-24T09:35:26+01:00",
+    "updated_at": "2023-12-24T09:47:47+01:00",
+    "media_id": "068x77baknez",
+    "duration": "0:51",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6295470/storm-pia-zet-delen-van-hamburg-onder-water.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6295465,
-    "slug": "dode-bij-auto-ongeluk-in-een-sloot-bij-waalwijk-mogelijke-bestuurder-opgepakt",
+    "slug": "dode-nadat-auto-bij-waalwijk-in-sloot-belandt-vluchtende-bestuurder-opgepakt",
     "type": "article",
-    "title": "Dode bij auto-ongeluk in een sloot bij Waalwijk: Mogelijke bestuurder opgepakt",
+    "title": "Dode nadat auto bij Waalwijk in sloot belandt, vluchtende bestuurder opgepakt",
     "subtitle": null,
     "published_at": "2023-12-24T08:50:43+01:00",
-    "updated_at": "2023-12-24T08:53:09+01:00",
+    "updated_at": "2023-12-24T09:05:21+01:00",
     "media_id": "r9lx6ivawaa2",
     "duration": null,
     "canonical_section": {
@@ -18,7 +41,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/binnenland/6295465/dode-bij-auto-ongeluk-in-een-sloot-bij-waalwijk-mogelijke-bestuurder-opgepakt.html",
+    "url": "/binnenland/6295465/dode-nadat-auto-bij-waalwijk-in-sloot-belandt-vluchtende-bestuurder-opgepakt.html",
     "open_new_window": false,
     "partner": null
   },
@@ -351,7 +374,7 @@
     "title": "Van kindster naar anonimiteit: hoe is het nu met Macaulay Culkin?",
     "subtitle": "NU+",
     "published_at": "2023-12-23T20:50:25+01:00",
-    "updated_at": "2023-12-23T20:50:26+01:00",
+    "updated_at": "2023-12-24T09:34:30+01:00",
     "media_id": "28qxicqay9xu",
     "duration": null,
     "canonical_section": {
@@ -663,29 +686,6 @@
       "partner": null
     },
     "url": "/voetbal/6295425/ten-hag-gelooft-in-ommekeer-united-ondanks-nieuwe-zeperd-gaven-niets-weg.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6295426,
-    "slug": "politie-betrapt-man-met-zwaar-vuurwerk-in-door-explosies-geteisterde-vlaardingen",
-    "type": "article",
-    "title": "Politie betrapt man met zwaar vuurwerk in door explosies geteisterde Vlaardingen",
-    "subtitle": null,
-    "published_at": "2023-12-23T17:06:24+01:00",
-    "updated_at": "2023-12-23T17:21:24+01:00",
-    "media_id": "q8lxgzaat6j8",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6295426/politie-betrapt-man-met-zwaar-vuurwerk-in-door-explosies-geteisterde-vlaardingen.html",
     "open_new_window": false,
     "partner": null
   }
