@@ -1,5 +1,51 @@
 [
   {
+    "id": 6295524,
+    "slug": "new-yorkers-terug-in-de-tijd-met-ritje-in-historische-metro",
+    "type": "video",
+    "title": "New Yorkers terug in de tijd met ritje in historische metro",
+    "subtitle": "Video",
+    "published_at": "2023-12-24T19:38:29+01:00",
+    "updated_at": "2023-12-24T19:38:30+01:00",
+    "media_id": "d69xc1ca4dm4",
+    "duration": "0:39",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6295524/new-yorkers-terug-in-de-tijd-met-ritje-in-historische-metro.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6295523,
+    "slug": "vlaamse-variant-van-serious-request-levert-kleine-88-miljoen-euro-op",
+    "type": "article",
+    "title": "Vlaamse variant van Serious Request levert kleine 8,8 miljoen euro op",
+    "subtitle": null,
+    "published_at": "2023-12-24T19:15:46+01:00",
+    "updated_at": "2023-12-24T19:15:48+01:00",
+    "media_id": "qoyxkhmaxlgk",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771675,
+      "slug": "media",
+      "type": "default",
+      "name": "Media",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/media/6295523/vlaamse-variant-van-serious-request-levert-kleine-88-miljoen-euro-op.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6295522,
     "slug": "waterschappen-voeren-inspecties-op-vanwege-wateroverlast-en-aanhoudende-buien",
     "type": "article",
@@ -640,52 +686,6 @@
       "partner": null
     },
     "url": "/videos/6295483/politieagent-verkleed-als-kerstman-doet-inval-bij-drugshandelaren-in-peru.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6295479,
-    "slug": "saka-zegt-sorry-nadat-hij-botsing-tsimikas-met-klopp-inleidt-geen-kwade-opzet",
-    "type": "article",
-    "title": "Saka zegt sorry nadat hij botsing Tsimikas met Klopp inleidt: 'Geen kwade opzet'",
-    "subtitle": null,
-    "published_at": "2023-12-24T10:15:24+01:00",
-    "updated_at": "2023-12-24T10:31:54+01:00",
-    "media_id": "50bxgg1aoyxk",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6295479/saka-zegt-sorry-nadat-hij-botsing-tsimikas-met-klopp-inleidt-geen-kwade-opzet.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6295470,
-    "slug": "storm-pia-zet-delen-van-hamburg-onder-water",
-    "type": "video",
-    "title": "Storm Pia zet delen van Hamburg onder water",
-    "subtitle": "Video",
-    "published_at": "2023-12-24T09:35:26+01:00",
-    "updated_at": "2023-12-24T09:47:47+01:00",
-    "media_id": "068x77baknez",
-    "duration": "0:51",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6295470/storm-pia-zet-delen-van-hamburg-onder-water.html",
     "open_new_window": false,
     "partner": null
   }
