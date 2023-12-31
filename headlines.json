@@ -1,12 +1,81 @@
 [
   {
+    "id": 6296237,
+    "slug": "australie-en-nieuw-zeeland-luiden-nieuwjaar-in-met-grote-shows",
+    "type": "video",
+    "title": "Australië en Nieuw-Zeeland luiden Nieuwjaar in met grote shows",
+    "subtitle": "Video",
+    "published_at": "2023-12-31T16:43:46+01:00",
+    "updated_at": "2023-12-31T16:43:48+01:00",
+    "media_id": "b96x0o2aea2k",
+    "duration": "0:52",
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6296237/australie-en-nieuw-zeeland-luiden-nieuwjaar-in-met-grote-shows.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6296236,
+    "slug": "murray-stopt-in-2024-mogelijk-met-tennissen-zullen-zien-hoe-lichaam-het-houdt",
+    "type": "article",
+    "title": "Murray stopt in 2024 mogelijk met tennissen: 'Zullen zien hoe lichaam het houdt'",
+    "subtitle": null,
+    "published_at": "2023-12-31T16:29:33+01:00",
+    "updated_at": "2023-12-31T16:43:37+01:00",
+    "media_id": "7bgxromab3g4",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772432,
+      "slug": "tennis",
+      "type": "default",
+      "name": "Tennis",
+      "style": "nusport",
+      "media_id": "m1oxohpan0gq",
+      "partner": null
+    },
+    "url": "/tennis/6296236/murray-stopt-in-2024-mogelijk-met-tennissen-zullen-zien-hoe-lichaam-het-houdt.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6296235,
+    "slug": "alle-bij-klimaatblokkade-a10-aangehouden-actievoerders-weer-op-vrije-voeten",
+    "type": "article",
+    "title": "Alle bij klimaatblokkade A10 aangehouden actievoerders weer op vrije voeten",
+    "subtitle": null,
+    "published_at": "2023-12-31T16:10:47+01:00",
+    "updated_at": "2023-12-31T16:25:38+01:00",
+    "media_id": "3syxwodamn1n",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779258,
+      "slug": "binnenland-en-buitenland",
+      "type": "default",
+      "name": "Binnen- en buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland-en-buitenland/6296235/alle-bij-klimaatblokkade-a10-aangehouden-actievoerders-weer-op-vrije-voeten.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6296234,
     "slug": "wateroverlast-in-volendam-als-er-al-iets-onderloopt-dan-zijn-het-kelders",
     "type": "article",
-    "title": "Wateroverlast in Volendam: 'Als er al iets onderloopt dan zijn het kelders'",
+    "title": "Wateroverlast in Volendam: 'Als er al iets onderloopt, dan zijn het kelders'",
     "subtitle": null,
     "published_at": "2023-12-31T15:59:16+01:00",
-    "updated_at": "2023-12-31T15:59:17+01:00",
+    "updated_at": "2023-12-31T16:22:33+01:00",
     "media_id": "icyxkdzasty5",
     "duration": null,
     "canonical_section": {
@@ -162,13 +231,13 @@
   },
   {
     "id": 6296223,
-    "slug": "politie-adviseert-alleen-112-te-bellen-bij-levensbedreigende-situaties",
+    "slug": "vroege-vuurwerkshows-in-tilburg-en-hilversum-afgelast-vanwege-slecht-weer",
     "type": "article",
-    "title": "Politie adviseert alleen 112 te bellen bij levensbedreigende situaties",
+    "title": "Vroege vuurwerkshows in Tilburg en Hilversum afgelast vanwege slecht weer",
     "subtitle": "Liveblog",
     "published_at": "2023-12-31T13:49:58+01:00",
-    "updated_at": "2023-12-31T15:25:39+01:00",
-    "media_id": "74vxtltav01x",
+    "updated_at": "2023-12-31T16:36:12+01:00",
+    "media_id": "jo4x3xyavsfv",
     "duration": null,
     "canonical_section": {
       "id": 1772236,
@@ -179,7 +248,7 @@
       "media_id": "m1oxc1gaswou",
       "partner": null
     },
-    "url": "/jaarwisseling/6296223/politie-adviseert-alleen-112-te-bellen-bij-levensbedreigende-situaties.html",
+    "url": "/jaarwisseling/6296223/vroege-vuurwerkshows-in-tilburg-en-hilversum-afgelast-vanwege-slecht-weer.html",
     "open_new_window": false,
     "partner": null
   },
@@ -604,7 +673,7 @@
     "title": "Oud-wielrenner Rohan Dennis gearresteerd op verdenking doodrijden echtgenote",
     "subtitle": null,
     "published_at": "2023-12-31T09:55:20+01:00",
-    "updated_at": "2023-12-31T10:43:43+01:00",
+    "updated_at": "2023-12-31T16:27:21+01:00",
     "media_id": "t3kx1chafcdg",
     "duration": null,
     "canonical_section": {
@@ -617,75 +686,6 @@
       "partner": null
     },
     "url": "/wielrennen/6296198/oud-wielrenner-rohan-dennis-gearresteerd-op-verdenking-doodrijden-echtgenote.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6296197,
-    "slug": "eurostar-tunnel-loopt-vol-met-water-tienduizenden-reizigers-gestrand",
-    "type": "video",
-    "title": "Eurostar-tunnel loopt vol met water: tienduizenden reizigers gestrand",
-    "subtitle": "Video",
-    "published_at": "2023-12-31T09:40:51+01:00",
-    "updated_at": "2023-12-31T09:47:22+01:00",
-    "media_id": "ttrx2ija12kp",
-    "duration": "0:50",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6296197/eurostar-tunnel-loopt-vol-met-water-tienduizenden-reizigers-gestrand.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6295604,
-    "slug": "deze-beroemde-mensen-en-een-paar-bekende-dieren-overleden-in-2023",
-    "type": "article",
-    "title": "Deze beroemde mensen (en een paar bekende dieren) overleden in 2023",
-    "subtitle": null,
-    "published_at": "2023-12-31T09:10:22+01:00",
-    "updated_at": "2023-12-31T12:27:46+01:00",
-    "media_id": "0z7xaq5a3eba",
-    "duration": null,
-    "canonical_section": {
-      "id": 100,
-      "slug": "algemeen",
-      "type": "default",
-      "name": "Algemeen",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/algemeen/6295604/deze-beroemde-mensen-en-een-paar-bekende-dieren-overleden-in-2023.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6296194,
-    "slug": "volgens-oekraine-zijn-tientallen-burgers-gewond-geraakt-bij-aanval-op-kharkiv",
-    "type": "article",
-    "title": "Volgens Oekraïne zijn tientallen burgers gewond geraakt bij aanval op Kharkiv",
-    "subtitle": null,
-    "published_at": "2023-12-31T08:24:37+01:00",
-    "updated_at": "2023-12-31T08:55:56+01:00",
-    "media_id": "0i4xga5abxm3",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6296194/volgens-oekraine-zijn-tientallen-burgers-gewond-geraakt-bij-aanval-op-kharkiv.html",
     "open_new_window": false,
     "partner": null
   }
