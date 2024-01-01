@@ -1,5 +1,51 @@
 [
   {
+    "id": 6296284,
+    "slug": "2024-begint-zoals-2023-eindigde-met-veel-regen-en-forse-wind",
+    "type": "article",
+    "title": "2024 begint zoals 2023 eindigde: met veel regen en forse wind",
+    "subtitle": "Weerbericht",
+    "published_at": "2024-01-01T05:18:20+01:00",
+    "updated_at": "2024-01-01T05:27:41+01:00",
+    "media_id": "eioxet5aylax",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779283,
+      "slug": "weerbericht",
+      "type": "default",
+      "name": "Weerbericht",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/weerbericht/6296284/2024-begint-zoals-2023-eindigde-met-veel-regen-en-forse-wind.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6296283,
+    "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
+    "type": "article",
+    "title": "Het Woord van vandaag: Raad jij het woord van de dag?",
+    "subtitle": null,
+    "published_at": "2024-01-01T05:06:56+01:00",
+    "updated_at": "2024-01-01T05:06:57+01:00",
+    "media_id": "vunx81iava32",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779164,
+      "slug": "het-woord",
+      "type": "default",
+      "name": "Het Woord",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/het-woord/6296283/het-woord-van-vandaag-raad-jij-het-woord-van-de-dag.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6295239,
     "slug": "in-2024-gaan-rentes-alweer-dalen-het-is-alleen-nog-de-vraag-wanneer",
     "type": "article",
@@ -535,7 +581,7 @@
     "title": "Deense koningin Margrethe doet na 52 jaar afstand van de troon",
     "subtitle": null,
     "published_at": "2023-12-31T18:30:52+01:00",
-    "updated_at": "2023-12-31T18:39:45+01:00",
+    "updated_at": "2024-01-01T05:19:32+01:00",
     "media_id": "3o5xedeaepkv",
     "duration": null,
     "canonical_section": {
@@ -640,52 +686,6 @@
       "partner": null
     },
     "url": "/voetbal/6296238/arsenal-gaat-met-kater-2024-in-door-nieuwe-nederlaag-spurs-wint-eenvoudig.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6296237,
-    "slug": "zo-werd-het-nieuwjaar-wereldwijd-ingeluid",
-    "type": "video",
-    "title": "Zo werd het Nieuwjaar wereldwijd ingeluid",
-    "subtitle": "Video",
-    "published_at": "2023-12-31T16:43:46+01:00",
-    "updated_at": "2023-12-31T21:48:36+01:00",
-    "media_id": "b96x0o2aea2k",
-    "duration": "1:33",
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6296237/zo-werd-het-nieuwjaar-wereldwijd-ingeluid.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6296236,
-    "slug": "murray-stopt-in-2024-mogelijk-met-tennissen-zullen-zien-hoe-lichaam-het-houdt",
-    "type": "article",
-    "title": "Murray stopt in 2024 mogelijk met tennissen: 'Zullen zien hoe lichaam het houdt'",
-    "subtitle": null,
-    "published_at": "2023-12-31T16:29:33+01:00",
-    "updated_at": "2023-12-31T16:43:37+01:00",
-    "media_id": "7bgxromab3g4",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772432,
-      "slug": "tennis",
-      "type": "default",
-      "name": "Tennis",
-      "style": "nusport",
-      "media_id": "m1oxohpan0gq",
-      "partner": null
-    },
-    "url": "/tennis/6296236/murray-stopt-in-2024-mogelijk-met-tennissen-zullen-zien-hoe-lichaam-het-houdt.html",
     "open_new_window": false,
     "partner": null
   }
