@@ -1,5 +1,51 @@
 [
   {
+    "id": 6296282,
+    "slug": "nederland-flitst-en-knalt-2024-in-met-nationale-vuurwerk-in-rotterdam",
+    "type": "article",
+    "title": "Nederland flitst en knalt 2024 in met Nationale Vuurwerk in Rotterdam",
+    "subtitle": "In beeld",
+    "published_at": "2024-01-01T03:55:36+01:00",
+    "updated_at": "2024-01-01T03:55:37+01:00",
+    "media_id": "34txxcfa2bz8",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772236,
+      "slug": "jaarwisseling",
+      "type": "files",
+      "name": "Jaarwisseling",
+      "style": "nu",
+      "media_id": "m1oxc1gaswou",
+      "partner": null
+    },
+    "url": "/jaarwisseling/6296282/nederland-flitst-en-knalt-2024-in-met-nationale-vuurwerk-in-rotterdam.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6296281,
+    "slug": "ruim-230-arrestaties-bij-onrustige-jaarwisseling-in-berlijn-15-agenten-gewond",
+    "type": "article",
+    "title": "Ruim 230 arrestaties bij onrustige jaarwisseling in Berlijn, 15 agenten gewond",
+    "subtitle": null,
+    "published_at": "2024-01-01T03:40:34+01:00",
+    "updated_at": "2024-01-01T03:40:35+01:00",
+    "media_id": "bglxmr0ah0h2",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6296281/ruim-230-arrestaties-bij-onrustige-jaarwisseling-in-berlijn-15-agenten-gewond.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6296277,
     "slug": "kind-2-zwaargewond-na-brand-den-bosch-onduidelijk-of-vuurwerk-rol-speelde",
     "type": "article",
@@ -640,52 +686,6 @@
       "partner": null
     },
     "url": "/binnenland/6296234/wateroverlast-in-volendam-als-er-al-iets-onderloopt-dan-zijn-het-kelders.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6296231,
-    "slug": "weekweerbericht-jaarwisseling-verloopt-wisselvallig-en-met-veel-wind",
-    "type": "article",
-    "title": "Weekweerbericht: Jaarwisseling verloopt wisselvallig en met veel wind",
-    "subtitle": null,
-    "published_at": "2023-12-31T15:43:30+01:00",
-    "updated_at": "2023-12-31T16:00:03+01:00",
-    "media_id": "krixclcag1ji",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779283,
-      "slug": "weerbericht",
-      "type": "default",
-      "name": "Weerbericht",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/weerbericht/6296231/weekweerbericht-jaarwisseling-verloopt-wisselvallig-en-met-veel-wind.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6296233,
-    "slug": "tim-hofman-brengt-in-2024-nieuw-boek-vol-essays-over-de-wereld-uit",
-    "type": "article",
-    "title": "Tim Hofman brengt in 2024 nieuw boek 'vol essays over de wereld' uit",
-    "subtitle": null,
-    "published_at": "2023-12-31T15:34:14+01:00",
-    "updated_at": "2023-12-31T15:47:27+01:00",
-    "media_id": "d3zxpgsaoleb",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772075,
-      "slug": "cultuur-overig",
-      "type": "default",
-      "name": "Boek & Cultuur",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/cultuur-overig/6296233/tim-hofman-brengt-in-2024-nieuw-boek-vol-essays-over-de-wereld-uit.html",
     "open_new_window": false,
     "partner": null
   }
