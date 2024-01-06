@@ -1,24 +1,70 @@
 [
   {
+    "id": 6296821,
+    "slug": "wie-is-de-mol-regisseur-rick-mccullough-stopt-na-twintig-jaar",
+    "type": "article",
+    "title": "Wie is de Mol?-regisseur Rick McCullough stopt na twintig jaar",
+    "subtitle": null,
+    "published_at": "2024-01-06T08:01:28+01:00",
+    "updated_at": "2024-01-06T08:01:29+01:00",
+    "media_id": "ihbxiugac52a",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771675,
+      "slug": "media",
+      "type": "default",
+      "name": "Media",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/media/6296821/wie-is-de-mol-regisseur-rick-mccullough-stopt-na-twintig-jaar.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6296900,
+    "slug": "dode-bij-woningbrand-in-rotterdam-meerdere-huizen-ontruimd",
+    "type": "article",
+    "title": "Dode bij woningbrand in Rotterdam, meerdere huizen ontruimd",
+    "subtitle": null,
+    "published_at": "2024-01-06T07:24:31+01:00",
+    "updated_at": "2024-01-06T07:42:34+01:00",
+    "media_id": "9w1xnngaemhk",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6296900/dode-bij-woningbrand-in-rotterdam-meerdere-huizen-ontruimd.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6296892,
     "slug": "waarom-zijn-we-zo-gefascineerd-door-joran-van-der-sloot",
     "type": "video",
     "title": "Waarom zijn we zo gefascineerd door Joran van der Sloot?",
     "subtitle": "Video",
     "published_at": "2024-01-06T06:00:59+01:00",
-    "updated_at": "2024-01-06T06:00:59+01:00",
+    "updated_at": "2024-01-06T07:49:54+01:00",
     "media_id": "jmgxhb2altjn",
     "duration": "11:49",
     "canonical_section": {
-      "id": 125,
-      "slug": "achterklap",
+      "id": 1772431,
+      "slug": "videos",
       "type": "default",
-      "name": "Achterklap",
-      "style": "nuentertainment",
+      "name": "Video's",
+      "style": null,
       "media_id": null,
       "partner": null
     },
-    "url": "/achterklap/6296892/waarom-zijn-we-zo-gefascineerd-door-joran-van-der-sloot.html",
+    "url": "/videos/6296892/waarom-zijn-we-zo-gefascineerd-door-joran-van-der-sloot.html",
     "open_new_window": false,
     "partner": null
   },
@@ -640,52 +686,6 @@
       "partner": null
     },
     "url": "/binnenland/6296873/vier-rotterdamse-agenten-buiten-functie-gesteld-om-mogelijk-drugsgebruik.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6296876,
-    "slug": "noorwegen-meet-met-435-graden-laagste-temperatuur-in-25-jaar",
-    "type": "article",
-    "title": "Noorwegen meet met -43,5 graden laagste temperatuur in 25 jaar",
-    "subtitle": null,
-    "published_at": "2024-01-05T20:13:34+01:00",
-    "updated_at": "2024-01-05T20:18:15+01:00",
-    "media_id": "rocxc2pavao9",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6296876/noorwegen-meet-met-435-graden-laagste-temperatuur-in-25-jaar.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6296874,
-    "slug": "waterpolosters-hebben-bij-ek-start-in-eigen-land-geen-kind-aan-kroatie",
-    "type": "article",
-    "title": "Waterpolosters hebben bij EK-start in eigen land geen kind aan Kroatië",
-    "subtitle": null,
-    "published_at": "2024-01-05T20:09:11+01:00",
-    "updated_at": "2024-01-05T21:31:59+01:00",
-    "media_id": "egrxrziatv4o",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772456,
-      "slug": "sport-overig",
-      "type": "default",
-      "name": "Sport Overig",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/sport-overig/6296874/waterpolosters-hebben-bij-ek-start-in-eigen-land-geen-kind-aan-kroatie.html",
     "open_new_window": false,
     "partner": null
   }
