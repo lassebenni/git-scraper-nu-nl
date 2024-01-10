@@ -1,12 +1,127 @@
 [
   {
+    "id": 6297378,
+    "slug": "is-het-gevaarlijk-als-je-bij-kou-blauwe-of-witte-handen-krijgt",
+    "type": "video",
+    "title": "Is het gevaarlijk als je bij kou blauwe of witte handen krijgt?",
+    "subtitle": "Video",
+    "published_at": "2024-01-10T17:25:16+01:00",
+    "updated_at": "2024-01-10T17:25:27+01:00",
+    "media_id": "ak4xbrta6jbv",
+    "duration": "4:40",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6297378/is-het-gevaarlijk-als-je-bij-kou-blauwe-of-witte-handen-krijgt.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6297373,
+    "slug": "kuipers-de-vijfde-minister-van-kabinet-rutte-iv-die-opstapt-een-overzicht",
+    "type": "article",
+    "title": "Kuipers de vijfde minister van kabinet-Rutte IV die opstapt: een overzicht",
+    "subtitle": null,
+    "published_at": "2024-01-10T17:19:14+01:00",
+    "updated_at": "2024-01-10T17:49:16+01:00",
+    "media_id": "grwxrgdalibd",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771437,
+      "slug": "politiek",
+      "type": "default",
+      "name": "Politiek",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/politiek/6297373/kuipers-de-vijfde-minister-van-kabinet-rutte-iv-die-opstapt-een-overzicht.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6297286,
+    "slug": "wetenschappers-zien-voor-het-eerst-hoe-supernova-een-zwart-gat-voortbrengt",
+    "type": "article",
+    "title": "Wetenschappers zien voor het eerst hoe supernova een zwart gat voortbrengt",
+    "subtitle": null,
+    "published_at": "2024-01-10T17:16:16+01:00",
+    "updated_at": "2024-01-10T17:34:34+01:00",
+    "media_id": "jbzxt60afxlc",
+    "duration": null,
+    "canonical_section": {
+      "id": 478878,
+      "slug": "wetenschap",
+      "type": "default",
+      "name": "Wetenschap",
+      "style": "nunjij",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/wetenschap/6297286/wetenschappers-zien-voor-het-eerst-hoe-supernova-een-zwart-gat-voortbrengt.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6297376,
+    "slug": "narco-terreur-escaleert-in-ecuador-dit-gebeurde-de-afgelopen-dagen",
+    "type": "video",
+    "title": "‘Narco-terreur’ escaleert in Ecuador: dit gebeurde de afgelopen dagen",
+    "subtitle": "Explainer",
+    "published_at": "2024-01-10T17:05:40+01:00",
+    "updated_at": "2024-01-10T17:18:44+01:00",
+    "media_id": "ufox9j3a9e2x",
+    "duration": "1:52",
+    "canonical_section": {
+      "id": 100,
+      "slug": "algemeen",
+      "type": "default",
+      "name": "Algemeen",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/algemeen/6297376/narco-terreur-escaleert-in-ecuador-dit-gebeurde-de-afgelopen-dagen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6297374,
+    "slug": "lammers-keert-bij-utrecht-terug-in-eredivisie-nec-strikt-luxemburgs-international",
+    "type": "article",
+    "title": "Lammers keert bij Utrecht terug in Eredivisie, NEC strikt Luxemburgs international",
+    "subtitle": null,
+    "published_at": "2024-01-10T17:03:40+01:00",
+    "updated_at": "2024-01-10T17:42:26+01:00",
+    "media_id": "9ibx2gqamdjf",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6297374/lammers-keert-bij-utrecht-terug-in-eredivisie-nec-strikt-luxemburgs-international.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6297367,
     "slug": "woekerpolisdossier-kan-bijna-dicht-honderden-miljoenen-gaan-naar-kleine-groep",
     "type": "article",
     "title": "Woekerpolisdossier kan bijna dicht, honderden miljoenen gaan naar kleine groep",
     "subtitle": null,
     "published_at": "2024-01-10T17:00:30+01:00",
-    "updated_at": "2024-01-10T17:00:32+01:00",
+    "updated_at": "2024-01-10T17:08:13+01:00",
     "media_id": "wjrxwp3a9it1",
     "duration": null,
     "canonical_section": {
@@ -47,12 +162,12 @@
   },
   {
     "id": 6297333,
-    "slug": "gijzelingen-explosies-en-meer-bendegeweld-dit-speelt-er-in-ecuador",
+    "slug": "president-ecuador-spreekt-van-burgeroorlog-in-eigen-land-dit-speelt-er",
     "type": "article",
-    "title": "Gijzelingen, explosies en méér bendegeweld: dit speelt er in Ecuador",
+    "title": "President Ecuador spreekt van burgeroorlog in eigen land: dit speelt er",
     "subtitle": "NU+",
     "published_at": "2024-01-10T16:23:04+01:00",
-    "updated_at": "2024-01-10T16:50:28+01:00",
+    "updated_at": "2024-01-10T17:42:38+01:00",
     "media_id": "6obxthta9ogp",
     "duration": null,
     "canonical_section": {
@@ -64,7 +179,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/buitenland/6297333/gijzelingen-explosies-en-meer-bendegeweld-dit-speelt-er-in-ecuador.html",
+    "url": "/buitenland/6297333/president-ecuador-spreekt-van-burgeroorlog-in-eigen-land-dit-speelt-er.html",
     "open_new_window": false,
     "partner": null
   },
@@ -75,8 +190,8 @@
     "title": "Ernst Kuipers stopt per direct als demissionair minister van Volksgezondheid",
     "subtitle": null,
     "published_at": "2024-01-10T16:17:44+01:00",
-    "updated_at": "2024-01-10T17:00:52+01:00",
-    "media_id": "ry1xc23a6hxu",
+    "updated_at": "2024-01-10T17:55:02+01:00",
+    "media_id": "oudx3nca8cbw",
     "duration": null,
     "canonical_section": {
       "id": 1771435,
@@ -236,7 +351,7 @@
     "title": "Bekritiseerde Maurits Hendriks volgende bestuurder die vertrekt bij Ajax",
     "subtitle": null,
     "published_at": "2024-01-10T15:03:56+01:00",
-    "updated_at": "2024-01-10T16:33:02+01:00",
+    "updated_at": "2024-01-10T17:46:13+01:00",
     "media_id": "3lfxadmahtsc",
     "duration": null,
     "canonical_section": {
@@ -305,7 +420,7 @@
     "title": "Waarom je je auto niet hoeft te krabben terwijl het wel vriest",
     "subtitle": "In 100 woorden",
     "published_at": "2024-01-10T14:26:09+01:00",
-    "updated_at": "2024-01-10T14:26:10+01:00",
+    "updated_at": "2024-01-10T17:14:00+01:00",
     "media_id": "14rxotdaxavo",
     "duration": null,
     "canonical_section": {
@@ -328,7 +443,7 @@
     "title": "Russische raketwerper knalt uit elkaar na Oekraïense aanval",
     "subtitle": "Video",
     "published_at": "2024-01-10T14:25:31+01:00",
-    "updated_at": "2024-01-10T16:28:36+01:00",
+    "updated_at": "2024-01-10T17:26:22+01:00",
     "media_id": "7vex0ibaord3",
     "duration": "0:36",
     "canonical_section": {
@@ -571,121 +686,6 @@
       "partner": null
     },
     "url": "/voetbal/6297343/el-ghazi-en-mainz-eisen-geld-van-elkaar-en-komen-niet-tot-schikking-over-ontslag.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6297344,
-    "slug": "zo-ziet-de-marssimulatie-van-nasa-er-vanbinnen-uit",
-    "type": "video",
-    "title": "Zo ziet de Marssimulatie van NASA er vanbinnen uit",
-    "subtitle": "Video",
-    "published_at": "2024-01-10T13:17:58+01:00",
-    "updated_at": "2024-01-10T15:42:15+01:00",
-    "media_id": "ilgxli7acdp3",
-    "duration": "0:55",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6297344/zo-ziet-de-marssimulatie-van-nasa-er-vanbinnen-uit.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6297341,
-    "slug": "voor-het-eerst-meer-zeventigplussers-dan-twintigers-in-zuid-korea",
-    "type": "article",
-    "title": "Voor het eerst meer zeventigplussers dan twintigers in Zuid-Korea",
-    "subtitle": null,
-    "published_at": "2024-01-10T13:17:16+01:00",
-    "updated_at": "2024-01-10T13:17:18+01:00",
-    "media_id": "qejx8ima9lrd",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6297341/voor-het-eerst-meer-zeventigplussers-dan-twintigers-in-zuid-korea.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6297340,
-    "slug": "sekswerkers-kunnen-zich-vanaf-nu-makkelijker-verzekeren-tegen-schade",
-    "type": "article",
-    "title": "Sekswerkers kunnen zich vanaf nu makkelijker verzekeren tegen schade",
-    "subtitle": null,
-    "published_at": "2024-01-10T13:08:14+01:00",
-    "updated_at": "2024-01-10T13:24:25+01:00",
-    "media_id": "l56x605adcd8",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6297340/sekswerkers-kunnen-zich-vanaf-nu-makkelijker-verzekeren-tegen-schade.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6297339,
-    "slug": "om-start-onderzoek-naar-twee-agenten-wegens-mogelijk-racisme-op-x",
-    "type": "article",
-    "title": "OM start onderzoek naar twee agenten wegens mogelijk racisme op X",
-    "subtitle": null,
-    "published_at": "2024-01-10T13:00:37+01:00",
-    "updated_at": "2024-01-10T13:37:57+01:00",
-    "media_id": "5b4xylmasbg7",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6297339/om-start-onderzoek-naar-twee-agenten-wegens-mogelijk-racisme-op-x.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6297342,
-    "slug": "er-ging-vorig-jaar-minder-noors-gas-naar-europa-door-onderhoud",
-    "type": "article",
-    "title": "Er ging vorig jaar minder Noors gas naar Europa door onderhoud",
-    "subtitle": null,
-    "published_at": "2024-01-10T12:49:29+01:00",
-    "updated_at": "2024-01-10T15:22:29+01:00",
-    "media_id": "49jx0hjafqnj",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6297342/er-ging-vorig-jaar-minder-noors-gas-naar-europa-door-onderhoud.html",
     "open_new_window": false,
     "partner": null
   }
