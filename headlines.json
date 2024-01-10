@@ -1,12 +1,81 @@
 [
   {
+    "id": 6297298,
+    "slug": "laborant-met-genetische-aandoening-gebruikte-jarenlang-eigen-zaad-bij-vruchtbaarheidskliniek",
+    "type": "article",
+    "title": "Laborant met genetische aandoening gebruikte jarenlang eigen zaad bij vruchtbaarheidskliniek",
+    "subtitle": null,
+    "published_at": "2024-01-10T08:52:06+01:00",
+    "updated_at": "2024-01-10T08:59:21+01:00",
+    "media_id": "vuhxkprac9mv",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6297298/laborant-met-genetische-aandoening-gebruikte-jarenlang-eigen-zaad-bij-vruchtbaarheidskliniek.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6297297,
+    "slug": "boeing-geeft-toe-dat-vliegtuigonderdeel-losschoot-door-eigen-productiefout",
+    "type": "article",
+    "title": "Boeing geeft toe dat vliegtuigonderdeel losschoot door eigen productiefout",
+    "subtitle": null,
+    "published_at": "2024-01-10T08:19:31+01:00",
+    "updated_at": "2024-01-10T08:54:53+01:00",
+    "media_id": "h09xmduai8nc",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6297297/boeing-geeft-toe-dat-vliegtuigonderdeel-losschoot-door-eigen-productiefout.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6297296,
+    "slug": "enorm-containerschip-maakt-proefvaart-op-chinese-rivier",
+    "type": "video",
+    "title": "Enorm containerschip maakt proefvaart op Chinese rivier",
+    "subtitle": "Video",
+    "published_at": "2024-01-10T08:15:24+01:00",
+    "updated_at": "2024-01-10T08:42:50+01:00",
+    "media_id": "2foxuddar1zm",
+    "duration": "0:50",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6297296/enorm-containerschip-maakt-proefvaart-op-chinese-rivier.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6297294,
     "slug": "minstens-31-palestijnse-journalisten-zitten-vast-in-israelische-gevangenissen",
     "type": "article",
     "title": "Minstens 31 Palestijnse journalisten zitten vast in Israëlische gevangenissen",
     "subtitle": null,
     "published_at": "2024-01-10T07:54:58+01:00",
-    "updated_at": "2024-01-10T07:56:21+01:00",
+    "updated_at": "2024-01-10T08:32:04+01:00",
     "media_id": "nzqxe33autzu",
     "duration": null,
     "canonical_section": {
@@ -47,12 +116,12 @@
   },
   {
     "id": 6297295,
-    "slug": "koers-bitcoin-zakt-in-na-vals-bericht-op-x-over-bitcoin-etfs",
+    "slug": "koers-bitcoin-zakt-in-na-onjuist-bericht-over-beursgenoteerde-bitcoinfondsen",
     "type": "article",
-    "title": "Koers bitcoin zakt in na vals bericht op X over bitcoin-ETF's",
+    "title": "Koers bitcoin zakt in na onjuist bericht over beursgenoteerde bitcoinfondsen",
     "subtitle": null,
     "published_at": "2024-01-10T07:49:38+01:00",
-    "updated_at": "2024-01-10T07:49:40+01:00",
+    "updated_at": "2024-01-10T08:09:03+01:00",
     "media_id": "nyjxrr8azkyz",
     "duration": null,
     "canonical_section": {
@@ -64,7 +133,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/economie/6297295/koers-bitcoin-zakt-in-na-vals-bericht-op-x-over-bitcoin-etfs.html",
+    "url": "/economie/6297295/koers-bitcoin-zakt-in-na-onjuist-bericht-over-beursgenoteerde-bitcoinfondsen.html",
     "open_new_window": false,
     "partner": null
   },
@@ -121,7 +190,7 @@
     "title": "Verdachte van moord rapper Tupac mag rechtszaak in huisarrest afwachten",
     "subtitle": null,
     "published_at": "2024-01-10T07:01:37+01:00",
-    "updated_at": "2024-01-10T07:17:44+01:00",
+    "updated_at": "2024-01-10T08:28:28+01:00",
     "media_id": "4zwxebta8i1j",
     "duration": null,
     "canonical_section": {
@@ -328,7 +397,7 @@
     "title": "Zirkzee en Beukema zien bekeravontuur met Bologna eindigen in mineur",
     "subtitle": null,
     "published_at": "2024-01-10T00:21:28+01:00",
-    "updated_at": "2024-01-10T06:22:03+01:00",
+    "updated_at": "2024-01-10T08:29:46+01:00",
     "media_id": "uxpx7vzaep3t",
     "duration": null,
     "canonical_section": {
@@ -617,75 +686,6 @@
       "partner": null
     },
     "url": "/videos/6297277/piloot-gebruikt-schietstoel-tijdens-crash-met-vliegtuigje-in-vietnam.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6297276,
-    "slug": "verzekeraar-nn-schikt-woekerpolisaffaire-juridische-procedures-worden-stopgezet",
-    "type": "article",
-    "title": "Verzekeraar NN schikt woekerpolisaffaire, juridische procedures worden stopgezet",
-    "subtitle": null,
-    "published_at": "2024-01-09T20:48:44+01:00",
-    "updated_at": "2024-01-09T21:18:00+01:00",
-    "media_id": "k6kxme2aqult",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6297276/verzekeraar-nn-schikt-woekerpolisaffaire-juridische-procedures-worden-stopgezet.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6297275,
-    "slug": "groenewoud-twijfelde-niet-om-marathon-te-rijden-heb-gelijk-mijn-spullen-gepakt",
-    "type": "article",
-    "title": "Groenewoud twijfelde niet om marathon te rijden: 'Heb gelijk mijn spullen gepakt'",
-    "subtitle": null,
-    "published_at": "2024-01-09T20:41:33+01:00",
-    "updated_at": "2024-01-09T21:13:38+01:00",
-    "media_id": "7xvx9hta9ugs",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772452,
-      "slug": "schaatsen",
-      "type": "default",
-      "name": "Schaatsen",
-      "style": "nusport",
-      "media_id": "5ktx9n6axubw",
-      "partner": null
-    },
-    "url": "/schaatsen/6297275/groenewoud-twijfelde-niet-om-marathon-te-rijden-heb-gelijk-mijn-spullen-gepakt.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6297274,
-    "slug": "poolse-politie-arresteert-veroordeelde-politici-in-presidentieel-paleis",
-    "type": "article",
-    "title": "Poolse politie arresteert veroordeelde politici in presidentieel paleis",
-    "subtitle": null,
-    "published_at": "2024-01-09T20:38:27+01:00",
-    "updated_at": "2024-01-09T21:10:45+01:00",
-    "media_id": "ukmxjsnadndh",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6297274/poolse-politie-arresteert-veroordeelde-politici-in-presidentieel-paleis.html",
     "open_new_window": false,
     "partner": null
   }
