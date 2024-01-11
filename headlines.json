@@ -1,12 +1,58 @@
 [
   {
+    "id": 6297380,
+    "slug": "ondanks-coronapandemie-zijn-er-nog-altijd-duizenden-reisbureaus-in-nederland",
+    "type": "article",
+    "title": "Ondanks coronapandemie zijn er nog altijd duizenden reisbureaus in Nederland",
+    "subtitle": null,
+    "published_at": "2024-01-11T01:00:16+01:00",
+    "updated_at": "2024-01-11T01:00:17+01:00",
+    "media_id": "2juxg8va13ds",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6297380/ondanks-coronapandemie-zijn-er-nog-altijd-duizenden-reisbureaus-in-nederland.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6297408,
+    "slug": "12000-liter-gasolie-in-kerstvakantie-gestolen-uit-opslagtanks-haven-terneuzen",
+    "type": "article",
+    "title": "12.000 liter gasolie in kerstvakantie gestolen uit opslagtanks haven Terneuzen",
+    "subtitle": null,
+    "published_at": "2024-01-11T00:40:06+01:00",
+    "updated_at": "2024-01-11T00:40:08+01:00",
+    "media_id": "csvxofhahzei",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6297408/12000-liter-gasolie-in-kerstvakantie-gestolen-uit-opslagtanks-haven-terneuzen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6297407,
     "slug": "felle-trump-criticus-chris-christie-stapt-uit-amerikaanse-presidentsrace",
     "type": "article",
     "title": "Felle Trump-criticus Chris Christie stapt uit Amerikaanse presidentsrace",
     "subtitle": null,
     "published_at": "2024-01-10T23:57:37+01:00",
-    "updated_at": "2024-01-10T23:57:40+01:00",
+    "updated_at": "2024-01-11T00:18:51+01:00",
     "media_id": "v8fxg7ba6150",
     "duration": null,
     "canonical_section": {
@@ -29,8 +75,8 @@
     "title": "Feyenoorder Minteh maakt met Gambia noodlanding: 'Hadden dood kunnen zijn'",
     "subtitle": null,
     "published_at": "2024-01-10T23:52:31+01:00",
-    "updated_at": "2024-01-10T23:55:23+01:00",
-    "media_id": "nlgx945ahiqe",
+    "updated_at": "2024-01-11T00:04:22+01:00",
+    "media_id": "do7x1deapwaw",
     "duration": null,
     "canonical_section": {
       "id": 1772338,
@@ -98,7 +144,7 @@
     "title": "Chinees parkeert auto bij achtervolging en hoopt politie te foppen",
     "subtitle": "Video",
     "published_at": "2024-01-10T22:42:09+01:00",
-    "updated_at": "2024-01-10T22:43:49+01:00",
+    "updated_at": "2024-01-11T01:04:34+01:00",
     "media_id": "ptwxozzats79",
     "duration": "0:30",
     "canonical_section": {
@@ -640,52 +686,6 @@
       "partner": null
     },
     "url": "/videos/6297383/navalny-laat-zich-na-maand-weer-zien-in-video-vanuit-cel.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6297334,
-    "slug": "natuurijs-wordt-dikker-en-dikker-maar-lang-niet-overal-kun-je-schaatsen",
-    "type": "article",
-    "title": "Natuurijs wordt dikker en dikker, maar lang niet overal kun je schaatsen",
-    "subtitle": null,
-    "published_at": "2024-01-10T18:04:26+01:00",
-    "updated_at": "2024-01-10T19:10:59+01:00",
-    "media_id": "34jxtoqa0156",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6297334/natuurijs-wordt-dikker-en-dikker-maar-lang-niet-overal-kun-je-schaatsen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6297377,
-    "slug": "uitgesproken-teambaas-gunther-steiner-per-direct-weg-bij-formule-1-team-haas",
-    "type": "article",
-    "title": "Uitgesproken teambaas Günther Steiner per direct weg bij Formule 1-team Haas",
-    "subtitle": null,
-    "published_at": "2024-01-10T18:02:05+01:00",
-    "updated_at": "2024-01-10T23:57:18+01:00",
-    "media_id": "2elxb54aikzp",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772449,
-      "slug": "formule-1",
-      "type": "default",
-      "name": "Formule 1",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/formule-1/6297377/uitgesproken-teambaas-gunther-steiner-per-direct-weg-bij-formule-1-team-haas.html",
     "open_new_window": false,
     "partner": null
   }
