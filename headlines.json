@@ -1,12 +1,104 @@
 [
   {
-    "id": 6297642,
-    "slug": "favorieten-lavreysen-en-hoogland-tegen-elkaar-in-halve-finales-sprint-op-ek-baan",
+    "id": 6297646,
+    "slug": "getraumatiseerde-beer-uit-oekraine-vindt-nieuw-thuis-in-schotland",
+    "type": "video",
+    "title": "Getraumatiseerde beer uit Oekraïne vindt nieuw thuis in Schotland",
+    "subtitle": "Video",
+    "published_at": "2024-01-12T20:52:20+01:00",
+    "updated_at": "2024-01-12T20:57:19+01:00",
+    "media_id": "arixshsa20yz",
+    "duration": "0:45",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6297646/getraumatiseerde-beer-uit-oekraine-vindt-nieuw-thuis-in-schotland.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6297645,
+    "slug": "suriname-gaat-bouterse-opsporen-omdat-hij-zich-niet-meldde-bij-de-gevangenis",
     "type": "article",
-    "title": "Favorieten Lavreysen en Hoogland tegen elkaar in halve finales sprint op EK baan",
+    "title": "Suriname gaat Bouterse opsporen omdat hij zich niet meldde bij de gevangenis",
+    "subtitle": null,
+    "published_at": "2024-01-12T20:30:21+01:00",
+    "updated_at": "2024-01-12T20:55:52+01:00",
+    "media_id": "gdpxpi9a4ymr",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6297645/suriname-gaat-bouterse-opsporen-omdat-hij-zich-niet-meldde-bij-de-gevangenis.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6297643,
+    "slug": "opnieuw-turkse-militairen-omgekomen-bij-gevechten-in-noord-irak",
+    "type": "article",
+    "title": "Opnieuw Turkse militairen omgekomen bij gevechten in Noord-Irak",
+    "subtitle": null,
+    "published_at": "2024-01-12T20:14:04+01:00",
+    "updated_at": "2024-01-12T20:21:09+01:00",
+    "media_id": "hclx15nad1oe",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6297643/opnieuw-turkse-militairen-omgekomen-bij-gevechten-in-noord-irak.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6297609,
+    "slug": "over-welke-slagkracht-beschikken-de-houthis-jullie-vragen-beantwoord",
+    "type": "article",
+    "title": "Over welke slagkracht beschikken de Houthi's? Jullie vragen beantwoord",
+    "subtitle": "NU+",
+    "published_at": "2024-01-12T20:08:04+01:00",
+    "updated_at": "2024-01-12T20:08:05+01:00",
+    "media_id": "mcsxut9acuhg",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779135,
+      "slug": "vragenuur",
+      "type": "default",
+      "name": "Q&A's",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/vragenuur/6297609/over-welke-slagkracht-beschikken-de-houthis-jullie-vragen-beantwoord.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6297642,
+    "slug": "favorieten-lavreysen-en-hoogland-tegen-elkaar-in-halve-finales-sprint-ek-baan",
+    "type": "article",
+    "title": "Favorieten Lavreysen en Hoogland tegen elkaar in halve finales sprint EK baan",
     "subtitle": null,
     "published_at": "2024-01-12T19:58:19+01:00",
-    "updated_at": "2024-01-12T19:58:21+01:00",
+    "updated_at": "2024-01-12T20:05:49+01:00",
     "media_id": "dhwxpioak11s",
     "duration": null,
     "canonical_section": {
@@ -18,7 +110,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/wielrennen/6297642/favorieten-lavreysen-en-hoogland-tegen-elkaar-in-halve-finales-sprint-op-ek-baan.html",
+    "url": "/wielrennen/6297642/favorieten-lavreysen-en-hoogland-tegen-elkaar-in-halve-finales-sprint-ek-baan.html",
     "open_new_window": false,
     "partner": null
   },
@@ -257,9 +349,9 @@
     "slug": "de-escalerende-luchtaanvallen-op-houthis-kunnen-juist-averechts-werken",
     "type": "article",
     "title": "'De-escalerende' luchtaanvallen op Houthi's kunnen juist averechts werken",
-    "subtitle": null,
+    "subtitle": "NU+",
     "published_at": "2024-01-12T18:04:41+01:00",
-    "updated_at": "2024-01-12T18:43:10+01:00",
+    "updated_at": "2024-01-12T20:09:22+01:00",
     "media_id": "24dxgrha29v5",
     "duration": null,
     "canonical_section": {
@@ -397,7 +489,7 @@
     "title": "Realityster Maxime Meiland doet aangifte van verkrachting",
     "subtitle": null,
     "published_at": "2024-01-12T16:35:55+01:00",
-    "updated_at": "2024-01-12T16:43:29+01:00",
+    "updated_at": "2024-01-12T20:18:26+01:00",
     "media_id": "vvrxbezaxqn0",
     "duration": null,
     "canonical_section": {
@@ -594,98 +686,6 @@
       "partner": null
     },
     "url": "/sport-overig/6297610/snookerlegende-osullivan-hekelt-masters-locatie-ally-pally-het-is-hier-walgelijk.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6297581,
-    "slug": "seuntjens-vertrekt-na-mislukt-half-jaar-alweer-bij-utrecht-en-lijkt-naar-rkc-te-gaan",
-    "type": "article",
-    "title": "Seuntjens vertrekt na mislukt half jaar alweer bij Utrecht en lijkt naar RKC te gaan",
-    "subtitle": null,
-    "published_at": "2024-01-12T15:17:24+01:00",
-    "updated_at": "2024-01-12T16:15:35+01:00",
-    "media_id": "efxx4ina04tx",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6297581/seuntjens-vertrekt-na-mislukt-half-jaar-alweer-bij-utrecht-en-lijkt-naar-rkc-te-gaan.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6297589,
-    "slug": "de-jong-gaat-grand-slam-debuut-vereeuwigen-op-arm-eerbetoon-aan-opa",
-    "type": "article",
-    "title": "De Jong gaat Grand Slam-debuut vereeuwigen op arm: 'Eerbetoon aan opa'",
-    "subtitle": null,
-    "published_at": "2024-01-12T15:12:41+01:00",
-    "updated_at": "2024-01-12T18:32:48+01:00",
-    "media_id": "pawxmp8agn8a",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772456,
-      "slug": "sport-overig",
-      "type": "default",
-      "name": "Sport Overig",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/sport-overig/6297589/de-jong-gaat-grand-slam-debuut-vereeuwigen-op-arm-eerbetoon-aan-opa.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6297604,
-    "slug": "russen-genieten-van-37-minuten-zon-na-maand-duisternis",
-    "type": "video",
-    "title": "Russen genieten van 37 minuten zon na maand duisternis",
-    "subtitle": "Video",
-    "published_at": "2024-01-12T15:11:33+01:00",
-    "updated_at": "2024-01-12T15:11:35+01:00",
-    "media_id": "q2pxih1ajgd5",
-    "duration": "0:49",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6297604/russen-genieten-van-37-minuten-zon-na-maand-duisternis.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6297599,
-    "slug": "droom-van-102-jarige-amerikaanse-komt-uit-met-rit-in-racewagen",
-    "type": "video",
-    "title": "Droom van 102-jarige Amerikaanse komt uit met rit in racewagen",
-    "subtitle": "Video",
-    "published_at": "2024-01-12T14:27:02+01:00",
-    "updated_at": "2024-01-12T14:49:38+01:00",
-    "media_id": "gqxxnbgaxxq9",
-    "duration": "0:46",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6297599/droom-van-102-jarige-amerikaanse-komt-uit-met-rit-in-racewagen.html",
     "open_new_window": false,
     "partner": null
   }
