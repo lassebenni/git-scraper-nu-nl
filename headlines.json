@@ -1,5 +1,28 @@
 [
   {
+    "id": 6297660,
+    "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
+    "type": "article",
+    "title": "Het Woord van vandaag: Raad jij het woord van de dag?",
+    "subtitle": null,
+    "published_at": "2024-01-13T06:03:37+01:00",
+    "updated_at": "2024-01-13T06:03:38+01:00",
+    "media_id": "vunx81iava32",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779164,
+      "slug": "het-woord",
+      "type": "default",
+      "name": "Het Woord",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/het-woord/6297660/het-woord-van-vandaag-raad-jij-het-woord-van-de-dag.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6297659,
     "slug": "luchtvaartautoriteit-vs-wil-inspectie-boeings-na-incident-met-deur-tijdens-opstijgen",
     "type": "article",
@@ -24,12 +47,12 @@
   },
   {
     "id": 6297658,
-    "slug": "milieuorganisatie-wil-dat-rechter-renovatie-binnenhof-stopt-vanwege-stikstofvergunning",
+    "slug": "milieuclub-naar-rechter-omdat-binnenhof-zonder-vergunning-wordt-gerenoveerd",
     "type": "article",
-    "title": "Milieuorganisatie wil dat rechter renovatie Binnenhof stopt vanwege stikstofvergunning",
+    "title": "Milieuclub naar rechter omdat Binnenhof zonder vergunning wordt gerenoveerd",
     "subtitle": null,
     "published_at": "2024-01-13T05:45:30+01:00",
-    "updated_at": "2024-01-13T05:45:31+01:00",
+    "updated_at": "2024-01-13T06:15:06+01:00",
     "media_id": "1pux4xiag3lr",
     "duration": null,
     "canonical_section": {
@@ -41,7 +64,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/binnenland/6297658/milieuorganisatie-wil-dat-rechter-renovatie-binnenhof-stopt-vanwege-stikstofvergunning.html",
+    "url": "/binnenland/6297658/milieuclub-naar-rechter-omdat-binnenhof-zonder-vergunning-wordt-gerenoveerd.html",
     "open_new_window": false,
     "partner": null
   },
@@ -116,12 +139,12 @@
   },
   {
     "id": 6297486,
-    "slug": "nijmegen-krijgt-mogelijk-nieuwe-gascentrale-ook-al-moeten-we-van-het-gas-af",
+    "slug": "nijmegen-overweegt-nieuwe-gascentrale-ook-al-moeten-we-van-het-gas-af",
     "type": "article",
-    "title": "Nijmegen krijgt mogelijk nieuwe gascentrale, ook al moeten we van het gas af",
+    "title": "Nijmegen overweegt nieuwe gascentrale, ook al moeten we van het gas af",
     "subtitle": "NU+",
     "published_at": "2024-01-13T05:21:58+01:00",
-    "updated_at": "2024-01-13T05:21:59+01:00",
+    "updated_at": "2024-01-13T06:24:27+01:00",
     "media_id": "q9lxdbdax4q7",
     "duration": null,
     "canonical_section": {
@@ -133,7 +156,7 @@
       "media_id": "kf4x3b2agsxg",
       "partner": null
     },
-    "url": "/klimaat/6297486/nijmegen-krijgt-mogelijk-nieuwe-gascentrale-ook-al-moeten-we-van-het-gas-af.html",
+    "url": "/klimaat/6297486/nijmegen-overweegt-nieuwe-gascentrale-ook-al-moeten-we-van-het-gas-af.html",
     "open_new_window": false,
     "partner": null
   },
@@ -144,7 +167,7 @@
     "title": "Amerikanen voeren opnieuw luchtaanvallen uit op Houti-rebellen in Jemen",
     "subtitle": null,
     "published_at": "2024-01-13T03:00:48+01:00",
-    "updated_at": "2024-01-13T05:37:59+01:00",
+    "updated_at": "2024-01-13T06:20:53+01:00",
     "media_id": "m1lx0ucavsrz",
     "duration": null,
     "canonical_section": {
@@ -558,7 +581,7 @@
     "title": "Royce de Vries daagt AD voor rechter om artikelen over opnamen vader Peter",
     "subtitle": null,
     "published_at": "2024-01-12T19:34:58+01:00",
-    "updated_at": "2024-01-12T19:59:09+01:00",
+    "updated_at": "2024-01-13T06:26:18+01:00",
     "media_id": "5ymxvw6a7cj4",
     "duration": null,
     "canonical_section": {
@@ -663,29 +686,6 @@
       "partner": null
     },
     "url": "/economie/6297201/de-opkomst-van-wrapped-niet-elk-bedrijf-scoort-met-jaaroverzichten.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6297636,
-    "slug": "telefonerende-automobilist-crasht-tegen-sneeuwschuiver-in-vs",
-    "type": "video",
-    "title": "Telefonerende automobilist crasht tegen sneeuwschuiver in VS",
-    "subtitle": "Video",
-    "published_at": "2024-01-12T18:55:01+01:00",
-    "updated_at": "2024-01-12T18:55:03+01:00",
-    "media_id": "pcixj3oafr7m",
-    "duration": "0:31",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6297636/telefonerende-automobilist-crasht-tegen-sneeuwschuiver-in-vs.html",
     "open_new_window": false,
     "partner": null
   }
