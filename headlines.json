@@ -1,12 +1,127 @@
 [
   {
-    "id": 6297817,
-    "slug": "vs-schiet-houthi-raket-neer-boven-rode-zee-ontkent-derde-aanval-in-jemen",
+    "id": 6297820,
+    "slug": "qualifier-schakelt-wimbledon-winnares-vondrousova-uit-op-australian-open",
     "type": "article",
-    "title": "VS schiet Houthi-raket neer boven Rode Zee, ontkent derde aanval in Jemen",
+    "title": "Qualifier schakelt Wimbledon-winnares Vondrousová uit op Australian Open",
+    "subtitle": null,
+    "published_at": "2024-01-15T06:54:57+01:00",
+    "updated_at": "2024-01-15T06:58:36+01:00",
+    "media_id": "b35x1vua88e7",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772432,
+      "slug": "tennis",
+      "type": "default",
+      "name": "Tennis",
+      "style": "nusport",
+      "media_id": "m1oxohpan0gq",
+      "partner": null
+    },
+    "url": "/tennis/6297820/qualifier-schakelt-wimbledon-winnares-vondrousova-uit-op-australian-open.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6297819,
+    "slug": "susan-visser-en-danny-de-munk-in-nieuw-seizoen-het-perfecte-plaatje-op-reis",
+    "type": "article",
+    "title": "Susan Visser en Danny de Munk in nieuw seizoen Het Perfecte Plaatje op Reis",
+    "subtitle": null,
+    "published_at": "2024-01-15T06:52:34+01:00",
+    "updated_at": "2024-01-15T06:52:35+01:00",
+    "media_id": "blfxkv1aatjs",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771675,
+      "slug": "media",
+      "type": "default",
+      "name": "Media",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/media/6297819/susan-visser-en-danny-de-munk-in-nieuw-seizoen-het-perfecte-plaatje-op-reis.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6297818,
+    "slug": "uniek-kijkje-in-het-kunstdepot-van-het-rijksmuseum-en-paleis-het-loo",
+    "type": "video",
+    "title": "Uniek kijkje in het kunstdepot van het Rijksmuseum en Paleis het Loo",
+    "subtitle": "Video",
+    "published_at": "2024-01-15T06:50:14+01:00",
+    "updated_at": "2024-01-15T06:50:15+01:00",
+    "media_id": "5i9xxyras0go",
+    "duration": "3:57",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6297818/uniek-kijkje-in-het-kunstdepot-van-het-rijksmuseum-en-paleis-het-loo.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6297700,
+    "slug": "ex-militair-lemmen-28-fietst-na-een-profjaar-al-voor-beste-ploeg-ter-wereld",
+    "type": "article",
+    "title": "Ex-militair Lemmen (28) fietst na één profjaar al voor beste ploeg ter wereld",
+    "subtitle": "NU+",
+    "published_at": "2024-01-15T06:10:56+01:00",
+    "updated_at": "2024-01-15T06:11:11+01:00",
+    "media_id": "5g2xmc2a0ir9",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772339,
+      "slug": "wielrennen",
+      "type": "default",
+      "name": "Wielrennen",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/wielrennen/6297700/ex-militair-lemmen-28-fietst-na-een-profjaar-al-voor-beste-ploeg-ter-wereld.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6297251,
+    "slug": "januari-doorkomen-doe-weinig-moeite-en-rust-uit",
+    "type": "article",
+    "title": "Januari doorkomen? 'Doe weinig moeite en rust uit'",
+    "subtitle": "NU+",
+    "published_at": "2024-01-15T06:09:37+01:00",
+    "updated_at": "2024-01-15T06:09:50+01:00",
+    "media_id": "3euxz0ja1wqd",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779328,
+      "slug": "slimmer-leven",
+      "type": "default",
+      "name": "Slimmer leven",
+      "style": "nutech",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/slimmer-leven/6297251/januari-doorkomen-doe-weinig-moeite-en-rust-uit.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6297817,
+    "slug": "vs-haalt-houthi-raket-boven-rode-zee-neer-en-ontkent-derde-aanval-in-jemen",
+    "type": "article",
+    "title": "VS haalt Houthi-raket boven Rode Zee neer en ontkent derde aanval in Jemen",
     "subtitle": null,
     "published_at": "2024-01-15T05:47:37+01:00",
-    "updated_at": "2024-01-15T05:47:38+01:00",
+    "updated_at": "2024-01-15T06:44:07+01:00",
     "media_id": "gjtxcyaaonyr",
     "duration": null,
     "canonical_section": {
@@ -18,18 +133,18 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/buitenland/6297817/vs-schiet-houthi-raket-neer-boven-rode-zee-ontkent-derde-aanval-in-jemen.html",
+    "url": "/buitenland/6297817/vs-haalt-houthi-raket-boven-rode-zee-neer-en-ontkent-derde-aanval-in-jemen.html",
     "open_new_window": false,
     "partner": null
   },
   {
     "id": 6297816,
-    "slug": "natte-sneeuw-en-hagel-zorgen-voor-code-geel-in-hele-land",
+    "slug": "natte-sneeuw-en-hagel-zorgen-voor-code-geel-in-het-hele-land",
     "type": "article",
-    "title": "(Natte) sneeuw en hagel zorgen voor code geel in hele land",
+    "title": "(Natte) sneeuw en hagel zorgen voor code geel in het hele land",
     "subtitle": "Weerbericht",
     "published_at": "2024-01-15T05:22:14+01:00",
-    "updated_at": "2024-01-15T05:22:39+01:00",
+    "updated_at": "2024-01-15T06:12:25+01:00",
     "media_id": "39wxp5xaoqqg",
     "duration": null,
     "canonical_section": {
@@ -41,7 +156,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/weerbericht/6297816/natte-sneeuw-en-hagel-zorgen-voor-code-geel-in-hele-land.html",
+    "url": "/weerbericht/6297816/natte-sneeuw-en-hagel-zorgen-voor-code-geel-in-het-hele-land.html",
     "open_new_window": false,
     "partner": null
   },
@@ -72,10 +187,10 @@
     "id": 6297442,
     "slug": "erasmus-schutter-fouad-l-verschijnt-voor-rechter-dit-weten-we-over-de-zaak",
     "type": "article",
-    "title": "'Erasmus-schutter' Fouad L. verschijnt voor rechter: dit weten we over de zaak",
+    "title": "Erasmus-schutter Fouad L. verschijnt voor rechter: dit weten we over de zaak",
     "subtitle": null,
     "published_at": "2024-01-15T05:02:34+01:00",
-    "updated_at": "2024-01-15T05:02:35+01:00",
+    "updated_at": "2024-01-15T07:00:25+01:00",
     "media_id": "bjyxkhoaskin",
     "duration": null,
     "canonical_section": {
@@ -93,12 +208,12 @@
   },
   {
     "id": 6297620,
-    "slug": "alle-ogen-op-trump-concurrenten-bij-startschot-amerikaanse-verkiezingen",
+    "slug": "alle-ogen-gericht-op-trumps-concurrenten-bij-startschot-verkiezingen-vs",
     "type": "article",
-    "title": "Alle ogen op Trump-concurrenten bij startschot Amerikaanse verkiezingen",
+    "title": "Alle ogen gericht op Trumps concurrenten bij startschot verkiezingen VS",
     "subtitle": "NU+",
     "published_at": "2024-01-15T05:01:46+01:00",
-    "updated_at": "2024-01-15T05:01:47+01:00",
+    "updated_at": "2024-01-15T06:57:04+01:00",
     "media_id": "w3zx4d5adbe0",
     "duration": null,
     "canonical_section": {
@@ -110,7 +225,7 @@
       "media_id": "m1oxq8wabsoj",
       "partner": null
     },
-    "url": "/verkiezingen-vs/6297620/alle-ogen-op-trump-concurrenten-bij-startschot-amerikaanse-verkiezingen.html",
+    "url": "/verkiezingen-vs/6297620/alle-ogen-gericht-op-trumps-concurrenten-bij-startschot-verkiezingen-vs.html",
     "open_new_window": false,
     "partner": null
   },
@@ -162,12 +277,12 @@
   },
   {
     "id": 6297814,
-    "slug": "israelisch-leger-doodt-vijf-palestijnen-in-westelijke-jordaanoever",
+    "slug": "israelisch-leger-doodt-vijf-palestijnen-op-westelijke-jordaanoever",
     "type": "article",
-    "title": "Israëlisch leger doodt vijf Palestijnen in Westelijke Jordaanoever",
+    "title": "Israëlisch leger doodt vijf Palestijnen op Westelijke Jordaanoever",
     "subtitle": null,
     "published_at": "2024-01-15T00:34:09+01:00",
-    "updated_at": "2024-01-15T00:34:10+01:00",
+    "updated_at": "2024-01-15T06:18:04+01:00",
     "media_id": "rkbxrnmams0l",
     "duration": null,
     "canonical_section": {
@@ -179,7 +294,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/buitenland/6297814/israelisch-leger-doodt-vijf-palestijnen-in-westelijke-jordaanoever.html",
+    "url": "/buitenland/6297814/israelisch-leger-doodt-vijf-palestijnen-op-westelijke-jordaanoever.html",
     "open_new_window": false,
     "partner": null
   },
@@ -535,7 +650,7 @@
     "title": "Feyenoord verspeelt 2-0-voorsprong tegen NEC en raakt verder achterop bij PSV",
     "subtitle": null,
     "published_at": "2024-01-14T18:42:06+01:00",
-    "updated_at": "2024-01-14T19:07:18+01:00",
+    "updated_at": "2024-01-15T06:56:33+01:00",
     "media_id": "9afxue7asv27",
     "duration": null,
     "canonical_section": {
@@ -571,121 +686,6 @@
       "partner": null
     },
     "url": "/buitenland/6297797/israelische-burgers-omgekomen-door-antitankraket-vanuit-libanon.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6297796,
-    "slug": "van-t-schip-zag-ajax-goed-wegkomen-3-2-voor-go-ahead-hing-in-de-lucht",
-    "type": "article",
-    "title": "Van 't Schip zag Ajax goed wegkomen: '3-2 voor Go Ahead hing in de lucht'",
-    "subtitle": null,
-    "published_at": "2024-01-14T17:58:43+01:00",
-    "updated_at": "2024-01-14T19:06:21+01:00",
-    "media_id": "8q3x94easlrj",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6297796/van-t-schip-zag-ajax-goed-wegkomen-3-2-voor-go-ahead-hing-in-de-lucht.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6297795,
-    "slug": "lava-bereikt-ijslands-vissersdorp-en-zet-eerste-huizen-in-vlam",
-    "type": "video",
-    "title": "Lava bereikt IJslands vissersdorp en zet eerste huizen in vlam",
-    "subtitle": "Video",
-    "published_at": "2024-01-14T17:37:29+01:00",
-    "updated_at": "2024-01-14T17:37:30+01:00",
-    "media_id": "raexwbhagg36",
-    "duration": "0:46",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6297795/lava-bereikt-ijslands-vissersdorp-en-zet-eerste-huizen-in-vlam.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6297794,
-    "slug": "parasite-regisseur-eist-onderzoek-naar-dood-acteur-we-willen-de-waarheid",
-    "type": "article",
-    "title": "Parasite-regisseur eist onderzoek naar dood acteur: ‘We willen de waarheid'",
-    "subtitle": "NU+",
-    "published_at": "2024-01-14T17:17:45+01:00",
-    "updated_at": "2024-01-14T22:34:06+01:00",
-    "media_id": "vqmxkk0aa30s",
-    "duration": null,
-    "canonical_section": {
-      "id": 127,
-      "slug": "film",
-      "type": "default",
-      "name": "Films & Series",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/film/6297794/parasite-regisseur-eist-onderzoek-naar-dood-acteur-we-willen-de-waarheid.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6297793,
-    "slug": "aston-villa-verspeelt-punten-bij-everton-en-raakt-tweede-plaats-kwijt-aan-city",
-    "type": "article",
-    "title": "Aston Villa verspeelt punten bij Everton en raakt tweede plaats kwijt aan City",
-    "subtitle": null,
-    "published_at": "2024-01-14T17:12:54+01:00",
-    "updated_at": "2024-01-14T17:24:41+01:00",
-    "media_id": "jhbxu3ca68pm",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6297793/aston-villa-verspeelt-punten-bij-everton-en-raakt-tweede-plaats-kwijt-aan-city.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6297792,
-    "slug": "bekijk-de-hoogtepunten-van-de-troonswisseling-in-denemarken",
-    "type": "video",
-    "title": "Bekijk de hoogtepunten van de troonswisseling in Denemarken",
-    "subtitle": "Video",
-    "published_at": "2024-01-14T16:59:41+01:00",
-    "updated_at": "2024-01-14T17:16:41+01:00",
-    "media_id": "fukxzoqai955",
-    "duration": "1:19",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6297792/bekijk-de-hoogtepunten-van-de-troonswisseling-in-denemarken.html",
     "open_new_window": false,
     "partner": null
   }
