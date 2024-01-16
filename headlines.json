@@ -1,5 +1,143 @@
 [
   {
+    "id": 6298023,
+    "slug": "who-coronavaccins-hebben-zeker-14-miljoen-levens-gered-in-europa",
+    "type": "article",
+    "title": "WHO: coronavaccins hebben zeker 1,4 miljoen levens gered in Europa",
+    "subtitle": null,
+    "published_at": "2024-01-16T14:56:11+01:00",
+    "updated_at": "2024-01-16T14:56:12+01:00",
+    "media_id": "tyox1h2arvgg",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6298023/who-coronavaccins-hebben-zeker-14-miljoen-levens-gered-in-europa.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6298025,
+    "slug": "wereldwijd-roken-we-minder-tot-2030-stoppen-nog-eens-50-miljoen-rokers",
+    "type": "article",
+    "title": "Wereldwijd roken we minder, tot 2030 stoppen nog eens 50 miljoen rokers",
+    "subtitle": null,
+    "published_at": "2024-01-16T14:53:14+01:00",
+    "updated_at": "2024-01-16T14:54:45+01:00",
+    "media_id": "xgqxn3wawdqb",
+    "duration": null,
+    "canonical_section": {
+      "id": 100,
+      "slug": "algemeen",
+      "type": "default",
+      "name": "Algemeen",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/algemeen/6298025/wereldwijd-roken-we-minder-tot-2030-stoppen-nog-eens-50-miljoen-rokers.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6298026,
+    "slug": "lozano-kan-tegen-twente-eerste-minuten-voor-psv-maken-in-anderhalve-maand",
+    "type": "article",
+    "title": "Lozano kan tegen Twente eerste minuten voor PSV maken in anderhalve maand",
+    "subtitle": null,
+    "published_at": "2024-01-16T14:44:13+01:00",
+    "updated_at": "2024-01-16T14:44:14+01:00",
+    "media_id": "5dcx004aqukw",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6298026/lozano-kan-tegen-twente-eerste-minuten-voor-psv-maken-in-anderhalve-maand.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6298028,
+    "slug": "omgevallen-boom-zorgt-voor-ravage-in-san-francisco",
+    "type": "video",
+    "title": "Omgevallen boom zorgt voor ravage in San Francisco",
+    "subtitle": "Video",
+    "published_at": "2024-01-16T14:33:31+01:00",
+    "updated_at": "2024-01-16T14:33:32+01:00",
+    "media_id": "sugxbvya44ms",
+    "duration": "0:47",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6298028/omgevallen-boom-zorgt-voor-ravage-in-san-francisco.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6298024,
+    "slug": "oprichter-lightyear-naar-achterbank-nieuwe-topvrouw-klimt-achter-het-stuur",
+    "type": "article",
+    "title": "Oprichter Lightyear naar achterbank, nieuwe topvrouw klimt achter het stuur",
+    "subtitle": null,
+    "published_at": "2024-01-16T14:33:14+01:00",
+    "updated_at": "2024-01-16T14:33:15+01:00",
+    "media_id": "lq7xl8oaza1i",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6298024/oprichter-lightyear-naar-achterbank-nieuwe-topvrouw-klimt-achter-het-stuur.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6298022,
+    "slug": "aantal-babys-in-frankrijk-vorig-jaar-op-laagste-punt-sinds-tweede-wereldoorlog",
+    "type": "article",
+    "title": "Aantal baby's in Frankrijk vorig jaar op laagste punt sinds Tweede Wereldoorlog",
+    "subtitle": null,
+    "published_at": "2024-01-16T14:17:31+01:00",
+    "updated_at": "2024-01-16T14:17:33+01:00",
+    "media_id": "wqpxd77a3lnq",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6298022/aantal-babys-in-frankrijk-vorig-jaar-op-laagste-punt-sinds-tweede-wereldoorlog.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6298020,
     "slug": "hertha-voorzitter-kay-bernstein-op-43-jarige-leeftijd-plotseling-overleden",
     "type": "article",
@@ -52,7 +190,7 @@
     "title": "AS Roma stelt kort na ontslag Mourinho clubicoon De Rossi aan als nieuwe coach",
     "subtitle": null,
     "published_at": "2024-01-16T13:42:57+01:00",
-    "updated_at": "2024-01-16T13:55:22+01:00",
+    "updated_at": "2024-01-16T14:14:03+01:00",
     "media_id": "1b5xvsvahalw",
     "duration": null,
     "canonical_section": {
@@ -98,7 +236,7 @@
     "title": "Water in grote rivieren stijgt komend weekend opnieuw",
     "subtitle": null,
     "published_at": "2024-01-16T13:34:18+01:00",
-    "updated_at": "2024-01-16T13:34:49+01:00",
+    "updated_at": "2024-01-16T14:50:25+01:00",
     "media_id": "tuvxwyga2z24",
     "duration": null,
     "canonical_section": {
@@ -139,12 +277,12 @@
   },
   {
     "id": 6298017,
-    "slug": "omstanders-filmen-aanhouding-na-dodelijk-incident-in-drenthe",
+    "slug": "omstanders-filmen-aanhouding-na-dodelijk-incident-in-weiteveen",
     "type": "video",
-    "title": "Omstanders filmen aanhouding na dodelijk incident in Drenthe",
+    "title": "Omstanders filmen aanhouding na dodelijk incident in Weiteveen",
     "subtitle": "Video",
     "published_at": "2024-01-16T13:32:36+01:00",
-    "updated_at": "2024-01-16T13:32:37+01:00",
+    "updated_at": "2024-01-16T14:41:36+01:00",
     "media_id": "ncaxnjeakzn7",
     "duration": "0:29",
     "canonical_section": {
@@ -156,7 +294,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/videos/6298017/omstanders-filmen-aanhouding-na-dodelijk-incident-in-drenthe.html",
+    "url": "/videos/6298017/omstanders-filmen-aanhouding-na-dodelijk-incident-in-weiteveen.html",
     "open_new_window": false,
     "partner": null
   },
@@ -346,12 +484,12 @@
   },
   {
     "id": 6298006,
-    "slug": "twee-doden-bij-geweldsincident-in-drents-weiteveen",
+    "slug": "twee-doden-bij-geweldsincident-in-weiteveen-politie-onderzoekt-online-videos",
     "type": "article",
-    "title": "Twee doden bij geweldsincident in Drents Weiteveen",
+    "title": "Twee doden bij geweldsincident in Weiteveen, politie onderzoekt online video's",
     "subtitle": null,
     "published_at": "2024-01-16T12:04:42+01:00",
-    "updated_at": "2024-01-16T13:31:09+01:00",
+    "updated_at": "2024-01-16T14:45:32+01:00",
     "media_id": "kj0xm8yaxbm0",
     "duration": null,
     "canonical_section": {
@@ -363,7 +501,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/binnenland/6298006/twee-doden-bij-geweldsincident-in-drents-weiteveen.html",
+    "url": "/binnenland/6298006/twee-doden-bij-geweldsincident-in-weiteveen-politie-onderzoekt-online-videos.html",
     "open_new_window": false,
     "partner": null
   },
@@ -548,144 +686,6 @@
       "partner": null
     },
     "url": "/stelling/6297911/wat-zijn-jouw-tips-om-een-huurwoning-te-vinden.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6297986,
-    "slug": "advocaat-wil-met-curacao-naar-wk-en-hoopt-op-justin-kluivert-en-bazoer",
-    "type": "article",
-    "title": "Advocaat wil met Curaçao naar WK en hoopt op Justin Kluivert en Bazoer",
-    "subtitle": null,
-    "published_at": "2024-01-16T10:52:33+01:00",
-    "updated_at": "2024-01-16T10:52:35+01:00",
-    "media_id": "83mxbx6a22ot",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6297986/advocaat-wil-met-curacao-naar-wk-en-hoopt-op-justin-kluivert-en-bazoer.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6297985,
-    "slug": "irak-dient-klacht-in-bij-vn-veiligheidsraad-na-iraanse-aanval",
-    "type": "article",
-    "title": "Irak dient klacht in bij VN-Veiligheidsraad na Iraanse aanval",
-    "subtitle": null,
-    "published_at": "2024-01-16T10:47:40+01:00",
-    "updated_at": "2024-01-16T10:47:41+01:00",
-    "media_id": "fkux4kfa5mfs",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6297985/irak-dient-klacht-in-bij-vn-veiligheidsraad-na-iraanse-aanval.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6297990,
-    "slug": "trump-na-winst-in-iowa-we-pakken-ons-land-terug",
-    "type": "video",
-    "title": "Trump na winst in Iowa: 'We pakken ons land terug'",
-    "subtitle": "Video",
-    "published_at": "2024-01-16T10:46:59+01:00",
-    "updated_at": "2024-01-16T10:47:00+01:00",
-    "media_id": "1llxymta13l0",
-    "duration": "1:10",
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6297990/trump-na-winst-in-iowa-we-pakken-ons-land-terug.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6297989,
-    "slug": "christina-applegate-grapt-over-eigen-ziekte-na-staande-ovatie",
-    "type": "video",
-    "title": "Christina Applegate grapt over eigen ziekte na staande ovatie",
-    "subtitle": "Video",
-    "published_at": "2024-01-16T10:44:56+01:00",
-    "updated_at": "2024-01-16T11:00:21+01:00",
-    "media_id": "bi7xbbyakv76",
-    "duration": "0:30",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6297989/christina-applegate-grapt-over-eigen-ziekte-na-staande-ovatie.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6297984,
-    "slug": "silvana-rocha-en-chris-tates-spelen-hoofdrol-in-musical-over-anne-frank",
-    "type": "article",
-    "title": "Silvana Rocha en Chris Tates spelen hoofdrol in musical over Anne Frank",
-    "subtitle": null,
-    "published_at": "2024-01-16T10:42:18+01:00",
-    "updated_at": "2024-01-16T10:42:19+01:00",
-    "media_id": "xkex6taazb39",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772075,
-      "slug": "cultuur-overig",
-      "type": "default",
-      "name": "Boek & Cultuur",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/cultuur-overig/6297984/silvana-rocha-en-chris-tates-spelen-hoofdrol-in-musical-over-anne-frank.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6297987,
-    "slug": "succescoach-wiegman-verlengt-contract-bij-engeland-tot-en-met-wk-2027",
-    "type": "article",
-    "title": "Succescoach Wiegman verlengt contract bij Engeland tot en met WK 2027",
-    "subtitle": null,
-    "published_at": "2024-01-16T10:38:30+01:00",
-    "updated_at": "2024-01-16T11:30:10+01:00",
-    "media_id": "c7sxppzals4f",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6297987/succescoach-wiegman-verlengt-contract-bij-engeland-tot-en-met-wk-2027.html",
     "open_new_window": false,
     "partner": null
   }
