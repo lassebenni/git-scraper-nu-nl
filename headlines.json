@@ -1,5 +1,28 @@
 [
   {
+    "id": 6297457,
+    "slug": "ouders-staan-met-rug-tegen-de-muur-rond-discriminerende-schooladviezen",
+    "type": "article",
+    "title": "Ouders staan met rug tegen de muur rond discriminerende schooladviezen",
+    "subtitle": null,
+    "published_at": "2024-01-16T05:00:35+01:00",
+    "updated_at": "2024-01-16T05:00:37+01:00",
+    "media_id": "os4xbt3ansbf",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6297457/ouders-staan-met-rug-tegen-de-muur-rond-discriminerende-schooladviezen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6297944,
     "slug": "iran-meldt-aanvallen-op-anti-iraanse-doelen-in-syrie-en-irak",
     "type": "article",
@@ -663,29 +686,6 @@
       "partner": null
     },
     "url": "/videos/6297916/nieuwe-dronebeelden-tonen-hoe-lavastroom-huizen-in-ijsland-opslokt.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6297913,
-    "slug": "watermassa-sleurt-autos-op-mauritius-mee",
-    "type": "video",
-    "title": "Watermassa sleurt auto's op Mauritius mee",
-    "subtitle": "Video",
-    "published_at": "2024-01-15T17:27:08+01:00",
-    "updated_at": "2024-01-15T17:34:33+01:00",
-    "media_id": "fomx70paspmg",
-    "duration": "0:43",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6297913/watermassa-sleurt-autos-op-mauritius-mee.html",
     "open_new_window": false,
     "partner": null
   }
