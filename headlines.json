@@ -1,12 +1,104 @@
 [
   {
+    "id": 6298728,
+    "slug": "schiphol-verwacht-rest-van-de-dag-nog-vertragingen-door-storm-isha",
+    "type": "article",
+    "title": "Schiphol verwacht rest van de dag nog vertragingen door storm Isha",
+    "subtitle": null,
+    "published_at": "2024-01-22T15:01:37+01:00",
+    "updated_at": "2024-01-22T15:01:37+01:00",
+    "media_id": "znfxr3eaio6h",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6298728/schiphol-verwacht-rest-van-de-dag-nog-vertragingen-door-storm-isha.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6298732,
+    "slug": "idf-toont-lange-hamas-tunnel-met-keuken-en-badkamers",
+    "type": "video",
+    "title": "IDF toont lange Hamas-tunnel met keuken en badkamers",
+    "subtitle": "Video",
+    "published_at": "2024-01-22T14:54:10+01:00",
+    "updated_at": "2024-01-22T15:01:00+01:00",
+    "media_id": "tf3xwa6axmoo",
+    "duration": "0:42",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6298732/idf-toont-lange-hamas-tunnel-met-keuken-en-badkamers.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6298730,
+    "slug": "luchtbeelden-tonen-omvang-schade-na-aardverschuiving-in-china",
+    "type": "video",
+    "title": "Luchtbeelden tonen omvang schade na aardverschuiving in China",
+    "subtitle": "Video",
+    "published_at": "2024-01-22T14:22:40+01:00",
+    "updated_at": "2024-01-22T14:22:42+01:00",
+    "media_id": "zqoxynnap0wl",
+    "duration": "0:34",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6298730/luchtbeelden-tonen-omvang-schade-na-aardverschuiving-in-china.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6298725,
+    "slug": "na-enkele-rustige-winters-hebben-we-nu-weer-een-ouderwets-stormseizoen",
+    "type": "article",
+    "title": "Na enkele rustige winters hebben we nu weer een 'ouderwets' stormseizoen",
+    "subtitle": null,
+    "published_at": "2024-01-22T14:07:17+01:00",
+    "updated_at": "2024-01-22T14:47:27+01:00",
+    "media_id": "lwbxd5tau19n",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6298725/na-enkele-rustige-winters-hebben-we-nu-weer-een-ouderwets-stormseizoen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6298726,
     "slug": "onderzoek-bewijst-stijging-olieprijs-sneller-in-benzineprijs-verwerkt-dan-daling",
     "type": "article",
     "title": "Onderzoek bewijst: Stijging olieprijs sneller in benzineprijs verwerkt dan daling",
     "subtitle": null,
     "published_at": "2024-01-22T13:34:39+01:00",
-    "updated_at": "2024-01-22T13:53:30+01:00",
+    "updated_at": "2024-01-22T14:53:19+01:00",
     "media_id": "w7cxhdham5dg",
     "duration": null,
     "canonical_section": {
@@ -52,7 +144,7 @@
     "title": "Ook huishoudens krijgen last van overvol stroomnet, flinke ingrepen nodig",
     "subtitle": null,
     "published_at": "2024-01-22T13:19:39+01:00",
-    "updated_at": "2024-01-22T14:02:00+01:00",
+    "updated_at": "2024-01-22T14:09:00+01:00",
     "media_id": "6qkxtf6aow5w",
     "duration": null,
     "canonical_section": {
@@ -75,7 +167,7 @@
     "title": "Mijlpaal lonkt voor oppermachtige Diede de Groot: 'Steek liefst kop in zand'",
     "subtitle": "NU+",
     "published_at": "2024-01-22T13:18:47+01:00",
-    "updated_at": "2024-01-22T14:02:57+01:00",
+    "updated_at": "2024-01-22T14:48:00+01:00",
     "media_id": "xxixbgoavq7o",
     "duration": null,
     "canonical_section": {
@@ -98,7 +190,7 @@
     "title": "Familieleden van Israëlische gegijzelden verstoren vergadering parlement",
     "subtitle": null,
     "published_at": "2024-01-22T13:17:03+01:00",
-    "updated_at": "2024-01-22T13:52:06+01:00",
+    "updated_at": "2024-01-22T14:32:06+01:00",
     "media_id": "wegx6kqarfl9",
     "duration": null,
     "canonical_section": {
@@ -231,12 +323,12 @@
   },
   {
     "id": 6298718,
-    "slug": "een-dode-en-drie-gewonden-bij-ongeluk-met-meerdere-voertuigen-op-a50-bij-renkum",
+    "slug": "een-dode-en-drie-gewonden-bij-ongeluk-met-meerdere-voertuigen-op-a50",
     "type": "article",
-    "title": "Eén dode en drie gewonden bij ongeluk met meerdere voertuigen op A50 bij Renkum",
+    "title": "Eén dode en drie gewonden bij ongeluk met meerdere voertuigen op A50",
     "subtitle": null,
     "published_at": "2024-01-22T12:16:54+01:00",
-    "updated_at": "2024-01-22T13:35:30+01:00",
+    "updated_at": "2024-01-22T14:58:08+01:00",
     "media_id": "oixxd0dadd45",
     "duration": null,
     "canonical_section": {
@@ -248,7 +340,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/binnenland/6298718/een-dode-en-drie-gewonden-bij-ongeluk-met-meerdere-voertuigen-op-a50-bij-renkum.html",
+    "url": "/binnenland/6298718/een-dode-en-drie-gewonden-bij-ongeluk-met-meerdere-voertuigen-op-a50.html",
     "open_new_window": false,
     "partner": null
   },
@@ -443,7 +535,7 @@
     "title": "Oekraïne zegt bijna 400.000 Russen te hebben gedood, tiende daarvan bevestigd",
     "subtitle": null,
     "published_at": "2024-01-22T10:48:06+01:00",
-    "updated_at": "2024-01-22T13:57:35+01:00",
+    "updated_at": "2024-01-22T14:23:50+01:00",
     "media_id": "r3ix5a3a1yc7",
     "duration": null,
     "canonical_section": {
@@ -489,7 +581,7 @@
     "title": "Bergwijn wil 500 euro van Brobbey na gemiste penalty: 'We gaan het bespreken'",
     "subtitle": null,
     "published_at": "2024-01-22T10:22:59+01:00",
-    "updated_at": "2024-01-22T10:47:11+01:00",
+    "updated_at": "2024-01-22T14:59:02+01:00",
     "media_id": "9yyxl78a2tvr",
     "duration": null,
     "canonical_section": {
@@ -594,98 +686,6 @@
       "partner": null
     },
     "url": "/binnenland/6298678/zware-wind-of-omgevallen-bomen-stuur-ons-jouw-stormfotos.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6298688,
-    "slug": "exxonmobil-klaagt-nederlandse-beleggers-aan-om-klimaatvoorstel",
-    "type": "article",
-    "title": "ExxonMobil klaagt Nederlandse beleggers aan om klimaatvoorstel",
-    "subtitle": null,
-    "published_at": "2024-01-22T10:00:14+01:00",
-    "updated_at": "2024-01-22T10:00:15+01:00",
-    "media_id": "sxpxnj1a1ctn",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6298688/exxonmobil-klaagt-nederlandse-beleggers-aan-om-klimaatvoorstel.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6298680,
-    "slug": "son-mieux-geeft-volgend-jaar-een-extra-concert-in-de-ziggo-dome",
-    "type": "article",
-    "title": "Son Mieux geeft volgend jaar een extra concert in de Ziggo Dome",
-    "subtitle": null,
-    "published_at": "2024-01-22T09:28:36+01:00",
-    "updated_at": "2024-01-22T10:53:33+01:00",
-    "media_id": "dwsxzzaau541",
-    "duration": null,
-    "canonical_section": {
-      "id": 868281,
-      "slug": "muziek",
-      "type": "default",
-      "name": "Muziek",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/muziek/6298680/son-mieux-geeft-volgend-jaar-een-extra-concert-in-de-ziggo-dome.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6298679,
-    "slug": "amateur-boekt-zeldzame-golfzege-maar-grijpt-naast-14-miljoen-euro-prijzengeld",
-    "type": "article",
-    "title": "Amateur boekt zeldzame golfzege, maar grijpt naast 1,4 miljoen euro prijzengeld",
-    "subtitle": null,
-    "published_at": "2024-01-22T09:18:08+01:00",
-    "updated_at": "2024-01-22T13:39:52+01:00",
-    "media_id": "pmqxcfgazdc0",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772456,
-      "slug": "sport-overig",
-      "type": "default",
-      "name": "Sport Overig",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/sport-overig/6298679/amateur-boekt-zeldzame-golfzege-maar-grijpt-naast-14-miljoen-euro-prijzengeld.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6298681,
-    "slug": "grote-stroomstoring-in-amsterdam-nagenoeg-overal-verholpen",
-    "type": "article",
-    "title": "Grote stroomstoring in Amsterdam 'nagenoeg overal' verholpen",
-    "subtitle": null,
-    "published_at": "2024-01-22T09:18:03+01:00",
-    "updated_at": "2024-01-22T10:33:32+01:00",
-    "media_id": "wrpxiq2avhwz",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6298681/grote-stroomstoring-in-amsterdam-nagenoeg-overal-verholpen.html",
     "open_new_window": false,
     "partner": null
   }
