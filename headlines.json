@@ -1,12 +1,81 @@
 [
   {
+    "id": 6298913,
+    "slug": "aantal-netflix-abonnees-groeit-ongekend-hard-met-piek-in-wintermaanden",
+    "type": "article",
+    "title": "Aantal Netflix-abonnees groeit ongekend hard met piek in wintermaanden",
+    "subtitle": null,
+    "published_at": "2024-01-24T08:43:18+01:00",
+    "updated_at": "2024-01-24T08:43:21+01:00",
+    "media_id": "12dxezca26t4",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771438,
+      "slug": "tech",
+      "type": "default",
+      "name": "Tech",
+      "style": "nutech",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/tech/6298913/aantal-netflix-abonnees-groeit-ongekend-hard-met-piek-in-wintermaanden.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6298912,
+    "slug": "medvedev-klopt-hurkacz-en-houdt-zicht-op-zijn-derde-australian-open-finale",
+    "type": "article",
+    "title": "Medvedev klopt Hurkacz en houdt zicht op zijn derde Australian Open-finale",
+    "subtitle": null,
+    "published_at": "2024-01-24T08:25:15+01:00",
+    "updated_at": "2024-01-24T08:25:16+01:00",
+    "media_id": "je3x2x6a5ls3",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772432,
+      "slug": "tennis",
+      "type": "default",
+      "name": "Tennis",
+      "style": "nusport",
+      "media_id": "m1oxohpan0gq",
+      "partner": null
+    },
+    "url": "/tennis/6298912/medvedev-klopt-hurkacz-en-houdt-zicht-op-zijn-derde-australian-open-finale.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6298907,
+    "slug": "zoon-cher-wil-niet-dat-zijn-moeder-zijn-bewindvoerder-wordt",
+    "type": "article",
+    "title": "Zoon Cher wil niet dat zijn moeder zijn bewindvoerder wordt",
+    "subtitle": null,
+    "published_at": "2024-01-24T08:24:40+01:00",
+    "updated_at": "2024-01-24T08:30:17+01:00",
+    "media_id": "qenx8zfa1v3n",
+    "duration": null,
+    "canonical_section": {
+      "id": 125,
+      "slug": "achterklap",
+      "type": "default",
+      "name": "Achterklap",
+      "style": "nuentertainment",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/achterklap/6298907/zoon-cher-wil-niet-dat-zijn-moeder-zijn-bewindvoerder-wordt.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6298911,
     "slug": "yastremska-als-eerste-qualifier-in-46-jaar-naar-halve-finales-australian-open",
     "type": "article",
     "title": "Yastremska als eerste qualifier in 46 jaar naar halve finales Australian Open",
     "subtitle": null,
     "published_at": "2024-01-24T07:59:18+01:00",
-    "updated_at": "2024-01-24T07:59:19+01:00",
+    "updated_at": "2024-01-24T08:27:32+01:00",
     "media_id": "4w9xr10a3dg5",
     "duration": null,
     "canonical_section": {
@@ -29,7 +98,7 @@
     "title": "Hoger onderwijs heeft volgens commissaris amper zicht op seksueel wangedrag",
     "subtitle": null,
     "published_at": "2024-01-24T07:53:29+01:00",
-    "updated_at": "2024-01-24T07:57:10+01:00",
+    "updated_at": "2024-01-24T08:04:12+01:00",
     "media_id": "7njxv7oaruc2",
     "duration": null,
     "canonical_section": {
@@ -52,7 +121,7 @@
     "title": "Chipmachinemaker ASML ziet omzet stijgen ondanks spanning op wereldtoneel",
     "subtitle": null,
     "published_at": "2024-01-24T07:53:23+01:00",
-    "updated_at": "2024-01-24T07:57:34+01:00",
+    "updated_at": "2024-01-24T08:11:15+01:00",
     "media_id": "pwaxejda7s2p",
     "duration": null,
     "canonical_section": {
@@ -75,7 +144,7 @@
     "title": "Ghana ontslaat bondscoach Hughton en volledige staf na debacle op Afrika Cup",
     "subtitle": null,
     "published_at": "2024-01-24T07:50:36+01:00",
-    "updated_at": "2024-01-24T07:50:38+01:00",
+    "updated_at": "2024-01-24T08:40:52+01:00",
     "media_id": "or3xvtiad70h",
     "duration": null,
     "canonical_section": {
@@ -144,7 +213,7 @@
     "title": "Jocelyn alweer derde storm van het jaar in Nederland, code geel in kustgebied",
     "subtitle": null,
     "published_at": "2024-01-24T07:00:16+01:00",
-    "updated_at": "2024-01-24T07:55:49+01:00",
+    "updated_at": "2024-01-24T08:48:47+01:00",
     "media_id": "ygwxjyzadayy",
     "duration": null,
     "canonical_section": {
@@ -190,19 +259,19 @@
     "title": "Satelliet met Nederlands tintje stuurt voor het eerst laserstraal naar de aarde",
     "subtitle": null,
     "published_at": "2024-01-24T06:16:25+01:00",
-    "updated_at": "2024-01-24T06:30:45+01:00",
+    "updated_at": "2024-01-24T08:56:13+01:00",
     "media_id": "3j8xf3uazxi5",
     "duration": null,
     "canonical_section": {
-      "id": 1779219,
-      "slug": "tech-wetenschap",
+      "id": 1771438,
+      "slug": "tech",
       "type": "default",
-      "name": "Tech en Wetenschap",
+      "name": "Tech",
       "style": "nutech",
       "media_id": null,
       "partner": null
     },
-    "url": "/tech-wetenschap/6298902/satelliet-met-nederlands-tintje-stuurt-voor-het-eerst-laserstraal-naar-de-aarde.html",
+    "url": "/tech/6298902/satelliet-met-nederlands-tintje-stuurt-voor-het-eerst-laserstraal-naar-de-aarde.html",
     "open_new_window": false,
     "partner": null
   },
@@ -277,13 +346,13 @@
   },
   {
     "id": 6298831,
-    "slug": "psv-jaagt-ook-tegen-feyenoord-op-record-langste-ongeslagen-nationale-reeks-ooit",
+    "slug": "psv-kan-tegen-feyenoord-langste-ongeslagen-nationale-reeks-ooit-neerzetten",
     "type": "article",
-    "title": "PSV jaagt ook tegen Feyenoord op record: langste ongeslagen nationale reeks ooit",
+    "title": "PSV kan tegen Feyenoord langste ongeslagen nationale reeks ooit neerzetten",
     "subtitle": null,
     "published_at": "2024-01-24T05:08:35+01:00",
-    "updated_at": "2024-01-24T05:08:37+01:00",
-    "media_id": "9fnxxavawmoe",
+    "updated_at": "2024-01-24T08:25:46+01:00",
+    "media_id": "an9x3qlankrl",
     "duration": null,
     "canonical_section": {
       "id": 1772338,
@@ -294,7 +363,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6298831/psv-jaagt-ook-tegen-feyenoord-op-record-langste-ongeslagen-nationale-reeks-ooit.html",
+    "url": "/voetbal/6298831/psv-kan-tegen-feyenoord-langste-ongeslagen-nationale-reeks-ooit-neerzetten.html",
     "open_new_window": false,
     "partner": null
   },
@@ -351,7 +420,7 @@
     "title": "Trump wint ook in New Hampshire, enige tegenstander Haley blijft in de race",
     "subtitle": null,
     "published_at": "2024-01-24T02:32:01+01:00",
-    "updated_at": "2024-01-24T07:53:09+01:00",
+    "updated_at": "2024-01-24T08:27:16+01:00",
     "media_id": "4suxw78anbgk",
     "duration": null,
     "canonical_section": {
@@ -617,75 +686,6 @@
       "partner": null
     },
     "url": "/voetbal/6298889/bakker-kan-geschiedenis-schrijven-met-ajax-na-woelige-tijd-er-is-niks-veranderd.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6286531,
-    "slug": "zweden-mag-van-turkije-definitief-bij-navo-alleen-hongarije-moet-nog-stemmen",
-    "type": "article",
-    "title": "Zweden mag van Turkije definitief bij NAVO, alleen Hongarije moet nog stemmen",
-    "subtitle": null,
-    "published_at": "2024-01-23T20:52:25+01:00",
-    "updated_at": "2024-01-23T22:15:12+01:00",
-    "media_id": "wknx5eea83jp",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6286531/zweden-mag-van-turkije-definitief-bij-navo-alleen-hongarije-moet-nog-stemmen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6298888,
-    "slug": "doemdagklok-blijft-staan-op-zelfde-tijd-als-vorig-jaar",
-    "type": "article",
-    "title": "Doemdagklok blijft staan op zelfde tijd als vorig jaar",
-    "subtitle": null,
-    "published_at": "2024-01-23T20:51:06+01:00",
-    "updated_at": "2024-01-23T23:47:40+01:00",
-    "media_id": "g87x9o3ae80t",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779219,
-      "slug": "tech-wetenschap",
-      "type": "default",
-      "name": "Tech en Wetenschap",
-      "style": "nutech",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/tech-wetenschap/6298888/doemdagklok-blijft-staan-op-zelfde-tijd-als-vorig-jaar.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6298885,
-    "slug": "vitesse-scherpt-regels-kaartverkoop-aan-na-ongeregeldheden-tegen-feyenoord",
-    "type": "article",
-    "title": "Vitesse scherpt regels kaartverkoop aan na ongeregeldheden tegen Feyenoord",
-    "subtitle": null,
-    "published_at": "2024-01-23T20:18:17+01:00",
-    "updated_at": "2024-01-23T20:58:10+01:00",
-    "media_id": "ogoxwyyajmsu",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6298885/vitesse-scherpt-regels-kaartverkoop-aan-na-ongeregeldheden-tegen-feyenoord.html",
     "open_new_window": false,
     "partner": null
   }
