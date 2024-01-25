@@ -1,12 +1,150 @@
 [
   {
+    "id": 6299097,
+    "slug": "amerikaanse-economie-ondanks-vrees-voor-recessie-flink-gegroeid-in-2023",
+    "type": "article",
+    "title": "Amerikaanse economie ondanks vrees voor recessie flink gegroeid in 2023",
+    "subtitle": null,
+    "published_at": "2024-01-25T15:49:27+01:00",
+    "updated_at": "2024-01-25T15:53:36+01:00",
+    "media_id": "82bx0r6ablt7",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6299097/amerikaanse-economie-ondanks-vrees-voor-recessie-flink-gegroeid-in-2023.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6299096,
+    "slug": "hema-stopt-met-verkoop-van-auto-en-woonverzekeringen",
+    "type": "article",
+    "title": "HEMA stopt met verkoop van auto- en woonverzekeringen",
+    "subtitle": null,
+    "published_at": "2024-01-25T15:47:43+01:00",
+    "updated_at": "2024-01-25T15:47:45+01:00",
+    "media_id": "g3nxkg9ajydd",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6299096/hema-stopt-met-verkoop-van-auto-en-woonverzekeringen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6299081,
+    "slug": "dit-weten-we-nog-niet-over-het-neergestorte-vliegtuig-in-rusland",
+    "type": "article",
+    "title": "Dit weten we (nog niet) over het neergestorte vliegtuig in Rusland",
+    "subtitle": null,
+    "published_at": "2024-01-25T15:29:57+01:00",
+    "updated_at": "2024-01-25T15:32:45+01:00",
+    "media_id": "xnkximhajusb",
+    "duration": null,
+    "canonical_section": {
+      "id": 1778980,
+      "slug": "spanningen-oekraine",
+      "type": "default",
+      "name": "Oorlog in Oekraïne",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/spanningen-oekraine/6299081/dit-weten-we-nog-niet-over-het-neergestorte-vliegtuig-in-rusland.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6299094,
+    "slug": "turks-transportvliegtuig-maakt-buikschuiver-bij-noodlanding",
+    "type": "video",
+    "title": "Turks transportvliegtuig maakt buikschuiver bij noodlanding",
+    "subtitle": "Video",
+    "published_at": "2024-01-25T15:24:11+01:00",
+    "updated_at": "2024-01-25T15:24:12+01:00",
+    "media_id": "07mx9xyas2lb",
+    "duration": "0:36",
+    "canonical_section": {
+      "id": 100,
+      "slug": "algemeen",
+      "type": "default",
+      "name": "Algemeen",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/algemeen/6299094/turks-transportvliegtuig-maakt-buikschuiver-bij-noodlanding.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6299093,
+    "slug": "man-aangehouden-voor-brand-in-zuid-afrika-waarbij-76-mensen-omkwamen",
+    "type": "article",
+    "title": "Man aangehouden voor brand in Zuid-Afrika waarbij 76 mensen omkwamen",
+    "subtitle": null,
+    "published_at": "2024-01-25T15:20:15+01:00",
+    "updated_at": "2024-01-25T15:20:17+01:00",
+    "media_id": "i1jxw7kaxvlx",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6299093/man-aangehouden-voor-brand-in-zuid-afrika-waarbij-76-mensen-omkwamen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6299091,
+    "slug": "deze-moederslak-hoeft-geen-babys-te-baren-ze-kruipen-zelf-uit-haar-lichaam",
+    "type": "article",
+    "title": "Deze moederslak hoeft geen baby's te baren: ze kruipen zelf uit haar lichaam",
+    "subtitle": null,
+    "published_at": "2024-01-25T15:13:16+01:00",
+    "updated_at": "2024-01-25T15:18:11+01:00",
+    "media_id": "q3gx8o9agrn4",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779219,
+      "slug": "tech-wetenschap",
+      "type": "default",
+      "name": "Tech en Wetenschap",
+      "style": "nutech",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/tech-wetenschap/6299091/deze-moederslak-hoeft-geen-babys-te-baren-ze-kruipen-zelf-uit-haar-lichaam.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6292535,
     "slug": "leclerc-ligt-met-nieuwe-verbintenis-langer-vast-bij-ferrari",
     "type": "article",
     "title": "Leclerc ligt met nieuwe verbintenis langer vast bij Ferrari",
     "subtitle": null,
     "published_at": "2024-01-25T14:37:06+01:00",
-    "updated_at": "2024-01-25T14:49:58+01:00",
+    "updated_at": "2024-01-25T15:32:26+01:00",
     "media_id": "x1wxltsayfu0",
     "duration": null,
     "canonical_section": {
@@ -52,7 +190,7 @@
     "title": "ECB houdt rente opnieuw gelijk: inflatie is nog niet genoeg afgeremd",
     "subtitle": null,
     "published_at": "2024-01-25T14:25:49+01:00",
-    "updated_at": "2024-01-25T14:45:55+01:00",
+    "updated_at": "2024-01-25T16:00:51+01:00",
     "media_id": "6cvxu2lapzlg",
     "duration": null,
     "canonical_section": {
@@ -93,12 +231,12 @@
   },
   {
     "id": 6299084,
-    "slug": "rijksrecherche-doet-orienterend-onderzoek-naar-khalid-kasem",
+    "slug": "rijksrecherche-doet-orienterend-onderzoek-naar-omkopingskwestie-khalid-kasem",
     "type": "article",
-    "title": "Rijksrecherche doet oriënterend onderzoek naar Khalid Kasem",
+    "title": "Rijksrecherche doet oriënterend onderzoek naar omkopingskwestie Khalid Kasem",
     "subtitle": null,
     "published_at": "2024-01-25T14:20:34+01:00",
-    "updated_at": "2024-01-25T14:59:36+01:00",
+    "updated_at": "2024-01-25T15:03:18+01:00",
     "media_id": "gyhxb4da553f",
     "duration": null,
     "canonical_section": {
@@ -110,7 +248,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/media/6299084/rijksrecherche-doet-orienterend-onderzoek-naar-khalid-kasem.html",
+    "url": "/media/6299084/rijksrecherche-doet-orienterend-onderzoek-naar-omkopingskwestie-khalid-kasem.html",
     "open_new_window": false,
     "partner": null
   },
@@ -162,12 +300,12 @@
   },
   {
     "id": 6299041,
-    "slug": "sofia-vergara-speelt-drugsbaas-ik-zou-ook-moorden-voor-mijn-kind",
+    "slug": "sofia-vergara-moest-nepcocaine-snuiven-voor-griselda-het-was-het-waard",
     "type": "article",
-    "title": "Sofia Vergara speelt drugsbaas: 'Ik zou ook moorden voor mijn kind'",
+    "title": "Sofia Vergara moest nepcocaïne snuiven voor Griselda: 'Het was het waard'",
     "subtitle": "NU+",
     "published_at": "2024-01-25T13:37:08+01:00",
-    "updated_at": "2024-01-25T13:58:33+01:00",
+    "updated_at": "2024-01-25T15:29:33+01:00",
     "media_id": "leoxk13a5fwv",
     "duration": null,
     "canonical_section": {
@@ -179,7 +317,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/film/6299041/sofia-vergara-speelt-drugsbaas-ik-zou-ook-moorden-voor-mijn-kind.html",
+    "url": "/film/6299041/sofia-vergara-moest-nepcocaine-snuiven-voor-griselda-het-was-het-waard.html",
     "open_new_window": false,
     "partner": null
   },
@@ -392,12 +530,12 @@
   },
   {
     "id": 6299074,
-    "slug": "mh17-veroordeelde-igor-girkin-moet-vier-jaar-russische-cel-in-wegens-extremisme",
+    "slug": "mh17-veroordeelde-igor-girkin-vier-jaar-russische-cel-in-wegens-extremisme",
     "type": "article",
-    "title": "MH17-veroordeelde Igor Girkin moet vier jaar Russische cel in wegens 'extremisme'",
+    "title": "MH17-veroordeelde Igor Girkin vier jaar Russische cel in wegens 'extremisme'",
     "subtitle": null,
     "published_at": "2024-01-25T12:11:27+01:00",
-    "updated_at": "2024-01-25T12:21:27+01:00",
+    "updated_at": "2024-01-25T15:34:38+01:00",
     "media_id": "5nzxytpatuqh",
     "duration": null,
     "canonical_section": {
@@ -409,7 +547,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/buitenland/6299074/mh17-veroordeelde-igor-girkin-moet-vier-jaar-russische-cel-in-wegens-extremisme.html",
+    "url": "/buitenland/6299074/mh17-veroordeelde-igor-girkin-vier-jaar-russische-cel-in-wegens-extremisme.html",
     "open_new_window": false,
     "partner": null
   },
@@ -548,144 +686,6 @@
       "partner": null
     },
     "url": "/film/6299057/recensieoverzicht-the-color-purple-balans-tussen-eenvoudig-en-bombastisch.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6299067,
-    "slug": "sabalenka-neemt-revanche-op-gauff-en-treft-zheng-in-finale-australian-open",
-    "type": "article",
-    "title": "Sabalenka neemt revanche op Gauff en treft Zheng in finale Australian Open",
-    "subtitle": null,
-    "published_at": "2024-01-25T11:29:05+01:00",
-    "updated_at": "2024-01-25T13:43:07+01:00",
-    "media_id": "ol3xgqoarybo",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772432,
-      "slug": "tennis",
-      "type": "default",
-      "name": "Tennis",
-      "style": "nusport",
-      "media_id": "m1oxohpan0gq",
-      "partner": null
-    },
-    "url": "/tennis/6299067/sabalenka-neemt-revanche-op-gauff-en-treft-zheng-in-finale-australian-open.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6299051,
-    "slug": "was-draaien-als-de-zon-schijnt-gebruik-jij-stroom-wanneer-er-meer-wordt-opgewekt",
-    "type": "article",
-    "title": "Was draaien als de zon schijnt: gebruik jij stroom wanneer er meer wordt opgewekt?",
-    "subtitle": "Praat mee",
-    "published_at": "2024-01-25T11:25:12+01:00",
-    "updated_at": "2024-01-25T11:25:13+01:00",
-    "media_id": "ml2xeovawspx",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779134,
-      "slug": "stelling",
-      "type": "default",
-      "name": "Stelling en Praat Mee",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/stelling/6299051/was-draaien-als-de-zon-schijnt-gebruik-jij-stroom-wanneer-er-meer-wordt-opgewekt.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6299064,
-    "slug": "de-groot-staat-weer-in-finale-australian-open-en-kan-jeugdidool-vergeer-evenaren",
-    "type": "article",
-    "title": "De Groot staat weer in finale Australian Open en kan jeugdidool Vergeer evenaren",
-    "subtitle": null,
-    "published_at": "2024-01-25T11:14:59+01:00",
-    "updated_at": "2024-01-25T11:42:06+01:00",
-    "media_id": "uj1xuz4a6zhi",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772456,
-      "slug": "sport-overig",
-      "type": "default",
-      "name": "Sport Overig",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/sport-overig/6299064/de-groot-staat-weer-in-finale-australian-open-en-kan-jeugdidool-vergeer-evenaren.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6299061,
-    "slug": "amerikaanse-singer-songwriter-melanie-op-76-jarige-leeftijd-overleden",
-    "type": "article",
-    "title": "Amerikaanse singer-songwriter Melanie op 76-jarige leeftijd overleden",
-    "subtitle": null,
-    "published_at": "2024-01-25T11:09:41+01:00",
-    "updated_at": "2024-01-25T11:09:42+01:00",
-    "media_id": "wrzx4rqajowb",
-    "duration": null,
-    "canonical_section": {
-      "id": 868281,
-      "slug": "muziek",
-      "type": "default",
-      "name": "Muziek",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/muziek/6299061/amerikaanse-singer-songwriter-melanie-op-76-jarige-leeftijd-overleden.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6299055,
-    "slug": "boeing-737-max-9-mag-na-incident-met-wegvliegend-paneel-weer-de-lucht-in",
-    "type": "article",
-    "title": "Boeing 737 MAX-9 mag na incident met wegvliegend paneel weer de lucht in",
-    "subtitle": null,
-    "published_at": "2024-01-25T11:01:27+01:00",
-    "updated_at": "2024-01-25T14:11:29+01:00",
-    "media_id": "4nwx83xar8ro",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6299055/boeing-737-max-9-mag-na-incident-met-wegvliegend-paneel-weer-de-lucht-in.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6299063,
-    "slug": "rappe-hagedis-ontsnapt-nipt-uit-verblijf-witte-tijger",
-    "type": "video",
-    "title": "Rappe hagedis ontsnapt nipt uit verblijf witte tijger",
-    "subtitle": "Video",
-    "published_at": "2024-01-25T11:01:19+01:00",
-    "updated_at": "2024-01-25T11:02:12+01:00",
-    "media_id": "0dixuq0auxzt",
-    "duration": "0:26",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6299063/rappe-hagedis-ontsnapt-nipt-uit-verblijf-witte-tijger.html",
     "open_new_window": false,
     "partner": null
   }
