@@ -1,12 +1,35 @@
 [
   {
-    "id": 6299284,
-    "slug": "weerbericht-zonnebril-komt-deze-winterdag-goed-van-pas",
+    "id": 6299285,
+    "slug": "bayer-moet-miljarden-schadevergoeding-betalen-aan-amerikaan-met-kanker",
     "type": "article",
-    "title": "Weerbericht: Zonnebril komt deze winterdag goed van pas",
-    "subtitle": "weerbericht",
+    "title": "Bayer moet miljarden schadevergoeding betalen aan Amerikaan met kanker",
+    "subtitle": null,
+    "published_at": "2024-01-27T07:39:06+01:00",
+    "updated_at": "2024-01-27T07:39:07+01:00",
+    "media_id": "o00xrg6amrg4",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6299285/bayer-moet-miljarden-schadevergoeding-betalen-aan-amerikaan-met-kanker.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6299284,
+    "slug": "zonnebril-komt-deze-winterdag-goed-van-pas",
+    "type": "article",
+    "title": "Zonnebril komt deze winterdag goed van pas",
+    "subtitle": "Weerbericht",
     "published_at": "2024-01-27T06:50:55+01:00",
-    "updated_at": "2024-01-27T06:55:05+01:00",
+    "updated_at": "2024-01-27T07:06:39+01:00",
     "media_id": "hg0x3x1ajhuc",
     "duration": null,
     "canonical_section": {
@@ -18,7 +41,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/weerbericht/6299284/weerbericht-zonnebril-komt-deze-winterdag-goed-van-pas.html",
+    "url": "/weerbericht/6299284/zonnebril-komt-deze-winterdag-goed-van-pas.html",
     "open_new_window": false,
     "partner": null
   },
@@ -95,10 +118,10 @@
     "id": 6299282,
     "slug": "vvd-leider-yesilgoz-moet-partij-overtuigen-van-haar-koers",
     "type": "article",
-    "title": "VVD-leider Yeşilgöz moet partij overtuigen van haar koers",
+    "title": "VVD-leider Yesilgöz moet partij overtuigen van haar koers",
     "subtitle": null,
     "published_at": "2024-01-27T06:09:23+01:00",
-    "updated_at": "2024-01-27T06:16:56+01:00",
+    "updated_at": "2024-01-27T07:56:19+01:00",
     "media_id": "sc1xbawa2839",
     "duration": null,
     "canonical_section": {
@@ -663,29 +686,6 @@
       "partner": null
     },
     "url": "/binnenland/6299235/zonnig-weekend-goede-gelegenheid-om-eropuit-te-gaan.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6299264,
-    "slug": "kabinet-bekijkt-of-luchtmacht-hulpgoederen-in-gaza-kan-droppen",
-    "type": "article",
-    "title": "Kabinet bekijkt of luchtmacht hulpgoederen in Gaza kan droppen",
-    "subtitle": null,
-    "published_at": "2024-01-26T20:24:26+01:00",
-    "updated_at": "2024-01-26T21:54:23+01:00",
-    "media_id": "pjoxcbvabon9",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6299264/kabinet-bekijkt-of-luchtmacht-hulpgoederen-in-gaza-kan-droppen.html",
     "open_new_window": false,
     "partner": null
   }
