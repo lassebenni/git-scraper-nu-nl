@@ -1,5 +1,97 @@
 [
   {
+    "id": 6299680,
+    "slug": "14-nederlandse-zaken-toegevoegd-aan-eu-database-met-rechterlijke-dwalingen",
+    "type": "article",
+    "title": "14 Nederlandse zaken toegevoegd aan EU-database met rechterlijke dwalingen",
+    "subtitle": null,
+    "published_at": "2024-01-30T21:57:03+01:00",
+    "updated_at": "2024-01-30T21:57:04+01:00",
+    "media_id": "j05xa90axyye",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6299680/14-nederlandse-zaken-toegevoegd-aan-eu-database-met-rechterlijke-dwalingen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6299695,
+    "slug": "olifantenkalfje-zet-eerste-stappen-in-buitenverblijf-beekse-bergen",
+    "type": "video",
+    "title": "Olifantenkalfje zet eerste stappen in buitenverblijf Beekse Bergen",
+    "subtitle": "Video",
+    "published_at": "2024-01-30T21:23:38+01:00",
+    "updated_at": "2024-01-30T21:32:14+01:00",
+    "media_id": "bj1xzwaasr7n",
+    "duration": "0:46",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6299695/olifantenkalfje-zet-eerste-stappen-in-buitenverblijf-beekse-bergen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6299693,
+    "slug": "klaver-wint-overtuigend-400-meter-in-ostrava",
+    "type": "video",
+    "title": "Klaver wint overtuigend 400 meter in Ostrava",
+    "subtitle": "Video",
+    "published_at": "2024-01-30T21:03:39+01:00",
+    "updated_at": "2024-01-30T21:09:46+01:00",
+    "media_id": "jmmxstvagspd",
+    "duration": "2:11",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6299693/klaver-wint-overtuigend-400-meter-in-ostrava.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6299688,
+    "slug": "undercoveraanval-in-ziekenhuis-westoever-overleg-over-staakt-het-vuren",
+    "type": "article",
+    "title": "Undercoveraanval in ziekenhuis Westoever, overleg over staakt-het-vuren",
+    "subtitle": "Overzicht",
+    "published_at": "2024-01-30T21:01:40+01:00",
+    "updated_at": "2024-01-30T21:01:55+01:00",
+    "media_id": "yvcx6twahj61",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772085,
+      "slug": "midden-oostenconflict",
+      "type": "default",
+      "name": "Oorlog Israël en Hamas",
+      "style": "nu",
+      "media_id": "m1oxeovaiadm",
+      "partner": null
+    },
+    "url": "/midden-oostenconflict/6299688/undercoveraanval-in-ziekenhuis-westoever-overleg-over-staakt-het-vuren.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6299684,
     "slug": "rampenwebsite-na-explosie-in-rotterdam-voor-het-eerst-in-tijden-weer-gebruikt",
     "type": "article",
@@ -29,7 +121,7 @@
     "title": "Voormalig Parijs-Dakar-winnaar Jan de Rooy (80) overleden",
     "subtitle": null,
     "published_at": "2024-01-30T20:54:57+01:00",
-    "updated_at": "2024-01-30T20:54:58+01:00",
+    "updated_at": "2024-01-30T21:35:55+01:00",
     "media_id": "57jx2dgaxmgn",
     "duration": null,
     "canonical_section": {
@@ -47,12 +139,12 @@
   },
   {
     "id": 6299691,
-    "slug": "verenigde-staten-hervatten-sancties-tegen-venezuela-uit-onvrede-met-het-regime",
+    "slug": "vs-hervat-sancties-tegen-venezuela-omdat-regime-zich-niet-aan-afspraken-houdt",
     "type": "article",
-    "title": "Verenigde Staten hervatten sancties tegen Venezuela uit onvrede met het regime",
+    "title": "VS hervat sancties tegen Venezuela omdat regime zich niet aan afspraken houdt",
     "subtitle": null,
     "published_at": "2024-01-30T20:52:13+01:00",
-    "updated_at": "2024-01-30T20:52:16+01:00",
+    "updated_at": "2024-01-30T21:07:16+01:00",
     "media_id": "v6xxkviadsel",
     "duration": null,
     "canonical_section": {
@@ -64,18 +156,18 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/buitenland/6299691/verenigde-staten-hervatten-sancties-tegen-venezuela-uit-onvrede-met-het-regime.html",
+    "url": "/buitenland/6299691/vs-hervat-sancties-tegen-venezuela-omdat-regime-zich-niet-aan-afspraken-houdt.html",
     "open_new_window": false,
     "partner": null
   },
   {
     "id": 6299690,
-    "slug": "bedrijf-achter-britse-sky-news-schrapt-duizend-banen-in-vk-en-ierland",
+    "slug": "bedrijf-achter-britse-zender-sky-news-schrapt-duizend-banen-in-vk-en-ierland",
     "type": "article",
-    "title": "Bedrijf achter Britse Sky News schrapt duizend banen in VK en Ierland",
+    "title": "Bedrijf achter Britse zender Sky News schrapt duizend banen in VK en Ierland",
     "subtitle": null,
     "published_at": "2024-01-30T20:39:19+01:00",
-    "updated_at": "2024-01-30T20:46:44+01:00",
+    "updated_at": "2024-01-30T21:09:34+01:00",
     "media_id": "hbqxwt0aeesw",
     "duration": null,
     "canonical_section": {
@@ -87,19 +179,19 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/economie/6299690/bedrijf-achter-britse-sky-news-schrapt-duizend-banen-in-vk-en-ierland.html",
+    "url": "/economie/6299690/bedrijf-achter-britse-zender-sky-news-schrapt-duizend-banen-in-vk-en-ierland.html",
     "open_new_window": false,
     "partner": null
   },
   {
     "id": 6299689,
-    "slug": "live-cl-vrouwen-ajax-vrouwen-aast-op-historische-kwartfinaleplek",
+    "slug": "live-cl-vrouwen-ajax-vrouwen-komt-langszij-maar-heeft-daar-nog-niets-aan",
     "type": "article",
-    "title": "Live CL Vrouwen | Ajax Vrouwen aast op historische kwartfinaleplek",
+    "title": "Live CL Vrouwen | Ajax Vrouwen komt langszij, maar heeft daar (nog) niets aan",
     "subtitle": null,
     "published_at": "2024-01-30T20:20:26+01:00",
-    "updated_at": "2024-01-30T20:22:28+01:00",
-    "media_id": "sttxofbabews",
+    "updated_at": "2024-01-30T21:49:23+01:00",
+    "media_id": "j3bx06wav6jk",
     "duration": null,
     "canonical_section": {
       "id": 1772338,
@@ -110,7 +202,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6299689/live-cl-vrouwen-ajax-vrouwen-aast-op-historische-kwartfinaleplek.html",
+    "url": "/voetbal/6299689/live-cl-vrouwen-ajax-vrouwen-komt-langszij-maar-heeft-daar-nog-niets-aan.html",
     "open_new_window": false,
     "partner": null
   },
@@ -121,7 +213,7 @@
     "title": "Heerenveen-doelman Noppert raakt basisplaats kwijt na blunder tegen AZ",
     "subtitle": null,
     "published_at": "2024-01-30T20:03:06+01:00",
-    "updated_at": "2024-01-30T20:32:18+01:00",
+    "updated_at": "2024-01-30T21:58:12+01:00",
     "media_id": "xzdxcj5abnfn",
     "duration": null,
     "canonical_section": {
@@ -144,7 +236,7 @@
     "title": "Joost strijdt namens Nederland in tweede halve finale Songfestival",
     "subtitle": null,
     "published_at": "2024-01-30T19:31:50+01:00",
-    "updated_at": "2024-01-30T20:12:14+01:00",
+    "updated_at": "2024-01-30T21:56:22+01:00",
     "media_id": "6pwxlwpar9p1",
     "duration": null,
     "canonical_section": {
@@ -190,7 +282,7 @@
     "title": "Locoburgemeester Rotterdam na explosie: 'Alsof raket is ingeslagen'",
     "subtitle": "Video",
     "published_at": "2024-01-30T19:16:56+01:00",
-    "updated_at": "2024-01-30T19:53:01+01:00",
+    "updated_at": "2024-01-30T21:28:32+01:00",
     "media_id": "s5rxy6pa3h0n",
     "duration": "2:06",
     "canonical_section": {
@@ -305,7 +397,7 @@
     "title": "Houding PSV overvalt kamp-Vertessen in transfersoap: 'We blijven in Berlijn'",
     "subtitle": null,
     "published_at": "2024-01-30T18:03:29+01:00",
-    "updated_at": "2024-01-30T18:03:31+01:00",
+    "updated_at": "2024-01-30T21:04:46+01:00",
     "media_id": "lcax0y1abz45",
     "duration": null,
     "canonical_section": {
@@ -351,7 +443,7 @@
     "title": "James Webb-telescoop legt spiraalstelsels boordevol sterren vast",
     "subtitle": null,
     "published_at": "2024-01-30T17:25:39+01:00",
-    "updated_at": "2024-01-30T17:25:40+01:00",
+    "updated_at": "2024-01-30T21:33:38+01:00",
     "media_id": "9gfxoziau4f7",
     "duration": null,
     "canonical_section": {
@@ -415,12 +507,12 @@
   },
   {
     "id": 6299673,
-    "slug": "heerenveen-versterkt-zich-op-huurbasis-met-echte-dribbelaar-uit-cyprus",
+    "slug": "heerenveen-trekt-cypriotisch-international-aan-fc-utrecht-haalt-deen",
     "type": "article",
-    "title": "Heerenveen versterkt zich op huurbasis met 'echte dribbelaar' uit Cyprus",
+    "title": "Heerenveen trekt Cypriotisch international aan, FC Utrecht haalt Deen",
     "subtitle": null,
     "published_at": "2024-01-30T16:53:45+01:00",
-    "updated_at": "2024-01-30T16:53:47+01:00",
+    "updated_at": "2024-01-30T21:49:22+01:00",
     "media_id": "v2kxt20ayp4u",
     "duration": null,
     "canonical_section": {
@@ -432,7 +524,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6299673/heerenveen-versterkt-zich-op-huurbasis-met-echte-dribbelaar-uit-cyprus.html",
+    "url": "/voetbal/6299673/heerenveen-trekt-cypriotisch-international-aan-fc-utrecht-haalt-deen.html",
     "open_new_window": false,
     "partner": null
   },
@@ -512,7 +604,7 @@
     "title": "Tweede Kamer wil definitief geen commercieel vliegverkeer op Lelystad Airport",
     "subtitle": null,
     "published_at": "2024-01-30T16:28:34+01:00",
-    "updated_at": "2024-01-30T17:25:56+01:00",
+    "updated_at": "2024-01-30T21:40:16+01:00",
     "media_id": "yjtx68pao8q0",
     "duration": null,
     "canonical_section": {
@@ -594,98 +686,6 @@
       "partner": null
     },
     "url": "/voetbal/6299663/clubtopscorer-haaland-keert-na-bijna-twee-maanden-terug-bij-manchester-city.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6299656,
-    "slug": "playmobil-wil-crisis-te-lijf-gaan-met-poppetjes-van-duitse-voetballers",
-    "type": "article",
-    "title": "Playmobil wil crisis te lijf gaan met poppetjes van Duitse voetballers",
-    "subtitle": null,
-    "published_at": "2024-01-30T15:18:50+01:00",
-    "updated_at": "2024-01-30T16:28:23+01:00",
-    "media_id": "ndwx352ambpm",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6299656/playmobil-wil-crisis-te-lijf-gaan-met-poppetjes-van-duitse-voetballers.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6299641,
-    "slug": "colombiaanse-politie-arresteert-vrouw-met-130-giftige-kikkers-in-bagage",
-    "type": "article",
-    "title": "Colombiaanse politie arresteert vrouw met 130 giftige kikkers in bagage",
-    "subtitle": null,
-    "published_at": "2024-01-30T15:12:34+01:00",
-    "updated_at": "2024-01-30T15:12:35+01:00",
-    "media_id": "c4fxbimab15q",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6299641/colombiaanse-politie-arresteert-vrouw-met-130-giftige-kikkers-in-bagage.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6299652,
-    "slug": "on-wilde-dat-blommestijn-zich-bij-feiten-hield-je-bent-gezicht-van-omroep",
-    "type": "article",
-    "title": "ON! wilde dat Blommestijn zich bij feiten hield: 'Je bent gezicht van omroep'",
-    "subtitle": null,
-    "published_at": "2024-01-30T15:04:55+01:00",
-    "updated_at": "2024-01-30T15:04:56+01:00",
-    "media_id": "1zvxqt5amusg",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771675,
-      "slug": "media",
-      "type": "default",
-      "name": "Media",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/media/6299652/on-wilde-dat-blommestijn-zich-bij-feiten-hield-je-bent-gezicht-van-omroep.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6299654,
-    "slug": "man-ontsnapt-ternauwernood-aan-brandend-puin-in-rotterdam",
-    "type": "video",
-    "title": "Man ontsnapt ternauwernood aan brandend puin in Rotterdam",
-    "subtitle": "Video",
-    "published_at": "2024-01-30T14:53:44+01:00",
-    "updated_at": "2024-01-30T14:53:45+01:00",
-    "media_id": "51nx350an22r",
-    "duration": "0:55",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6299654/man-ontsnapt-ternauwernood-aan-brandend-puin-in-rotterdam.html",
     "open_new_window": false,
     "partner": null
   }
