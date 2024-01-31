@@ -1,13 +1,128 @@
 [
   {
-    "id": 6299832,
-    "slug": "me-beveiligt-verwoest-pand-rotterdam-onrust-legt-sloopwerkzaamheden-tijdelijk-stil",
+    "id": 6299746,
+    "slug": "meer-dan-de-helft-van-oekraiense-vluchtelingen-werkt-nu-in-loondienst",
     "type": "article",
-    "title": "ME beveiligt verwoest pand Rotterdam, onrust legt sloopwerkzaamheden tijdelijk stil",
+    "title": "Meer dan de helft van Oekraïense vluchtelingen werkt nu in loondienst",
+    "subtitle": null,
+    "published_at": "2024-02-01T00:00:38+01:00",
+    "updated_at": "2024-02-01T00:00:40+01:00",
+    "media_id": "foox4gwazcp7",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6299746/meer-dan-de-helft-van-oekraiense-vluchtelingen-werkt-nu-in-loondienst.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6299836,
+    "slug": "staking-duitse-luchthavens-treft-200000-reizigers-klm-schrapt-44-vluchten",
+    "type": "article",
+    "title": "Staking Duitse luchthavens treft 200.000 reizigers, KLM schrapt 44 vluchten",
+    "subtitle": null,
+    "published_at": "2024-01-31T23:45:15+01:00",
+    "updated_at": "2024-01-31T23:45:16+01:00",
+    "media_id": "x75xhp3aer2b",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6299836/staking-duitse-luchthavens-treft-200000-reizigers-klm-schrapt-44-vluchten.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6299833,
+    "slug": "sterrenchef-had-bij-ongeval-drie-keer-meer-alcohol-in-bloed-dan-toegestaan",
+    "type": "article",
+    "title": "Sterrenchef had bij ongeval drie keer meer alcohol in bloed dan toegestaan",
+    "subtitle": null,
+    "published_at": "2024-01-31T23:12:31+01:00",
+    "updated_at": "2024-01-31T23:23:24+01:00",
+    "media_id": "iztxsp0ah926",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772242,
+      "slug": "entertainment",
+      "type": "default",
+      "name": "Media en Cultuur",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/entertainment/6299833/sterrenchef-had-bij-ongeval-drie-keer-meer-alcohol-in-bloed-dan-toegestaan.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6299835,
+    "slug": "ihattaren-moet-na-trainingskamp-slavia-praag-werken-aan-fitheid-bij-b-elftal",
+    "type": "article",
+    "title": "Ihattaren moet na trainingskamp Slavia Praag werken aan fitheid bij B-elftal",
+    "subtitle": null,
+    "published_at": "2024-01-31T23:11:13+01:00",
+    "updated_at": "2024-01-31T23:30:31+01:00",
+    "media_id": "q3jxou7a3nb1",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6299835/ihattaren-moet-na-trainingskamp-slavia-praag-werken-aan-fitheid-bij-b-elftal.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6299834,
+    "slug": "antwerp-van-van-bommel-houdt-stand-en-wint-dankzij-schitterende-knal",
+    "type": "article",
+    "title": "Antwerp van Van Bommel houdt stand en wint dankzij schitterende knal",
+    "subtitle": null,
+    "published_at": "2024-01-31T23:04:54+01:00",
+    "updated_at": "2024-01-31T23:21:46+01:00",
+    "media_id": "5maxpbta9mro",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6299834/antwerp-van-van-bommel-houdt-stand-en-wint-dankzij-schitterende-knal.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6299832,
+    "slug": "me-grijpt-in-bij-verwoest-pand-rotterdam-onrust-bij-omstanders-over-sloopwerkzaamheden",
+    "type": "article",
+    "title": "ME grijpt in bij verwoest pand Rotterdam, onrust bij omstanders over sloopwerkzaamheden",
     "subtitle": null,
     "published_at": "2024-01-31T22:37:12+01:00",
-    "updated_at": "2024-01-31T22:50:41+01:00",
-    "media_id": "e1lxn51ao98j",
+    "updated_at": "2024-01-31T23:56:08+01:00",
+    "media_id": "3xjxxdxa0690",
     "duration": null,
     "canonical_section": {
       "id": 1771435,
@@ -18,18 +133,18 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/binnenland/6299832/me-beveiligt-verwoest-pand-rotterdam-onrust-legt-sloopwerkzaamheden-tijdelijk-stil.html",
+    "url": "/binnenland/6299832/me-grijpt-in-bij-verwoest-pand-rotterdam-onrust-bij-omstanders-over-sloopwerkzaamheden.html",
     "open_new_window": false,
     "partner": null
   },
   {
     "id": 6299828,
-    "slug": "city-zet-zegereeks-voort-dankzij-jarige-alvarez-tottenham-poetst-achterstand-weg",
+    "slug": "city-zet-zegereeks-voort-dankzij-jarige-alvarez-liverpool-pijnigt-chelsea",
     "type": "article",
-    "title": "City zet zegereeks voort dankzij jarige Álvarez, Tottenham poetst achterstand weg",
+    "title": "City zet zegereeks voort dankzij jarige Álvarez, Liverpool pijnigt Chelsea",
     "subtitle": null,
     "published_at": "2024-01-31T22:33:19+01:00",
-    "updated_at": "2024-01-31T22:39:12+01:00",
+    "updated_at": "2024-01-31T23:27:48+01:00",
     "media_id": "fgsxf4ga4d40",
     "duration": null,
     "canonical_section": {
@@ -41,7 +156,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6299828/city-zet-zegereeks-voort-dankzij-jarige-alvarez-tottenham-poetst-achterstand-weg.html",
+    "url": "/voetbal/6299828/city-zet-zegereeks-voort-dankzij-jarige-alvarez-liverpool-pijnigt-chelsea.html",
     "open_new_window": false,
     "partner": null
   },
@@ -208,13 +323,13 @@
   },
   {
     "id": 6299819,
-    "slug": "fc-barcelona-boekt-bij-mijlpaal-de-jong-moeizame-overwinning-op-osasuna",
+    "slug": "depay-laat-atletico-ontsnappen-fc-barcelona-wint-moeizaam-bij-mijlpaal-de-jong",
     "type": "article",
-    "title": "FC Barcelona boekt bij mijlpaal De Jong moeizame overwinning op Osasuna",
+    "title": "Depay laat Atlético ontsnappen, FC Barcelona wint moeizaam bij mijlpaal De Jong",
     "subtitle": null,
     "published_at": "2024-01-31T20:56:35+01:00",
-    "updated_at": "2024-01-31T21:56:27+01:00",
-    "media_id": "24dxhqpao52o",
+    "updated_at": "2024-01-31T23:55:11+01:00",
+    "media_id": "rqlxvx6a549o",
     "duration": null,
     "canonical_section": {
       "id": 1772338,
@@ -225,7 +340,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6299819/fc-barcelona-boekt-bij-mijlpaal-de-jong-moeizame-overwinning-op-osasuna.html",
+    "url": "/voetbal/6299819/depay-laat-atletico-ontsnappen-fc-barcelona-wint-moeizaam-bij-mijlpaal-de-jong.html",
     "open_new_window": false,
     "partner": null
   },
@@ -259,7 +374,7 @@
     "title": "Elmo vraagt op X hoe het met mensen gaat en krijgt stortvloed aan reacties",
     "subtitle": null,
     "published_at": "2024-01-31T20:36:02+01:00",
-    "updated_at": "2024-01-31T20:58:41+01:00",
+    "updated_at": "2024-01-31T23:15:57+01:00",
     "media_id": "gxmxdz6a4cok",
     "duration": null,
     "canonical_section": {
@@ -328,7 +443,7 @@
     "title": "Sobere crematie steeds populairder: 'Minder zin en tijd om langs graf te gaan'",
     "subtitle": null,
     "published_at": "2024-01-31T19:47:22+01:00",
-    "updated_at": "2024-01-31T22:24:26+01:00",
+    "updated_at": "2024-01-31T23:20:10+01:00",
     "media_id": "snnxwdvazmg2",
     "duration": null,
     "canonical_section": {
@@ -571,121 +686,6 @@
       "partner": null
     },
     "url": "/videos/6299805/nabestaanden-dragen-lichaam-van-man-uit-verwoest-pand-rotterdam.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6299658,
-    "slug": "kassa-ajax-vrouwen-rinkelt-maar-andere-clubs-liften-mee-op-cl-succes",
-    "type": "article",
-    "title": "Kassa Ajax Vrouwen rinkelt, maar andere clubs liften mee op CL-succes",
-    "subtitle": "NU+",
-    "published_at": "2024-01-31T17:06:38+01:00",
-    "updated_at": "2024-01-31T20:03:19+01:00",
-    "media_id": "sayxrurablf1",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6299658/kassa-ajax-vrouwen-rinkelt-maar-andere-clubs-liften-mee-op-cl-succes.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6299803,
-    "slug": "israelisch-leger-zegt-hamas-tunnels-te-overstromen-dit-zijn-de-risicos",
-    "type": "video",
-    "title": "Israëlisch leger zegt Hamas-tunnels te overstromen: dit zijn de risico's",
-    "subtitle": "Explainer",
-    "published_at": "2024-01-31T17:05:47+01:00",
-    "updated_at": "2024-01-31T17:28:30+01:00",
-    "media_id": "e90xx7aa2xqo",
-    "duration": "2:34",
-    "canonical_section": {
-      "id": 100,
-      "slug": "algemeen",
-      "type": "default",
-      "name": "Algemeen",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/algemeen/6299803/israelisch-leger-zegt-hamas-tunnels-te-overstromen-dit-zijn-de-risicos.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6299794,
-    "slug": "de-zee-doet-haar-werk-groene-stroom-uit-waddenzee-biedt-kansen",
-    "type": "article",
-    "title": "De zee doet haar werk: groene stroom uit Waddenzee biedt kansen",
-    "subtitle": null,
-    "published_at": "2024-01-31T17:02:00+01:00",
-    "updated_at": "2024-01-31T20:02:05+01:00",
-    "media_id": "pkkxmhza2ul2",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772754,
-      "slug": "klimaat",
-      "type": "default",
-      "name": "Klimaat",
-      "style": "nuzakelijk",
-      "media_id": "kf4x3b2agsxg",
-      "partner": null
-    },
-    "url": "/klimaat/6299794/de-zee-doet-haar-werk-groene-stroom-uit-waddenzee-biedt-kansen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6299800,
-    "slug": "eagles-geven-tijdens-afscheidstour-extra-show-in-gelredome",
-    "type": "article",
-    "title": "Eagles geven tijdens afscheidstour extra show in GelreDome",
-    "subtitle": null,
-    "published_at": "2024-01-31T16:49:31+01:00",
-    "updated_at": "2024-01-31T16:49:32+01:00",
-    "media_id": "y0cxvf6a5k5h",
-    "duration": null,
-    "canonical_section": {
-      "id": 868281,
-      "slug": "muziek",
-      "type": "default",
-      "name": "Muziek",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/muziek/6299800/eagles-geven-tijdens-afscheidstour-extra-show-in-gelredome.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6299802,
-    "slug": "formule-1-krijgt-voorlopig-geen-elfde-team-andretti-afgewezen-door-organisatie",
-    "type": "article",
-    "title": "Formule 1 krijgt voorlopig geen elfde team: Andretti afgewezen door organisatie",
-    "subtitle": null,
-    "published_at": "2024-01-31T16:48:30+01:00",
-    "updated_at": "2024-01-31T17:17:35+01:00",
-    "media_id": "zdrx4wzazkqv",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772449,
-      "slug": "formule-1",
-      "type": "default",
-      "name": "Formule 1",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/formule-1/6299802/formule-1-krijgt-voorlopig-geen-elfde-team-andretti-afgewezen-door-organisatie.html",
     "open_new_window": false,
     "partner": null
   }
