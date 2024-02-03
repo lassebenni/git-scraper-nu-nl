@@ -1,12 +1,150 @@
 [
   {
+    "id": 6300201,
+    "slug": "politie-verwijdert-klimaatactivisten-van-a12-in-den-haag",
+    "type": "video",
+    "title": "Politie verwijdert klimaatactivisten van A12 in Den Haag",
+    "subtitle": "Video",
+    "published_at": "2024-02-03T15:59:26+01:00",
+    "updated_at": "2024-02-03T15:59:27+01:00",
+    "media_id": "143xjqtavl5x",
+    "duration": "0:48",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6300201/politie-verwijdert-klimaatactivisten-van-a12-in-den-haag.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6300200,
+    "slug": "spurs-en-uitblinker-van-de-ven-geven-in-slotfase-zege-weg-tegen-everton",
+    "type": "article",
+    "title": "Spurs en uitblinker Van de Ven geven in slotfase zege weg tegen Everton",
+    "subtitle": null,
+    "published_at": "2024-02-03T15:39:39+01:00",
+    "updated_at": "2024-02-03T15:59:26+01:00",
+    "media_id": "eucxvf1afri3",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6300200/spurs-en-uitblinker-van-de-ven-geven-in-slotfase-zege-weg-tegen-everton.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6300199,
+    "slug": "davis-cup-team-kan-zich-geen-misstap-meer-veroorloven-na-nederlaag-in-dubbel",
+    "type": "article",
+    "title": "Davis Cup-team kan zich geen misstap meer veroorloven na nederlaag in dubbel",
+    "subtitle": null,
+    "published_at": "2024-02-03T15:38:40+01:00",
+    "updated_at": "2024-02-03T15:47:24+01:00",
+    "media_id": "9rkxrxfa1pzw",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772432,
+      "slug": "tennis",
+      "type": "default",
+      "name": "Tennis",
+      "style": "nusport",
+      "media_id": "m1oxohpan0gq",
+      "partner": null
+    },
+    "url": "/tennis/6300199/davis-cup-team-kan-zich-geen-misstap-meer-veroorloven-na-nederlaag-in-dubbel.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6300198,
+    "slug": "van-empel-overklast-brand-en-pieterse-en-pakt-weer-wereldtitel-veldrijden",
+    "type": "article",
+    "title": "Van Empel overklast Brand en Pieterse en pakt wéér wereldtitel veldrijden",
+    "subtitle": null,
+    "published_at": "2024-02-03T15:21:43+01:00",
+    "updated_at": "2024-02-03T15:34:38+01:00",
+    "media_id": "h6rx4c6ahnb7",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772339,
+      "slug": "wielrennen",
+      "type": "default",
+      "name": "Wielrennen",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/wielrennen/6300198/van-empel-overklast-brand-en-pieterse-en-pakt-weer-wereldtitel-veldrijden.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6300197,
+    "slug": "peter-gillis-doet-aangifte-van-vernieling-van-familiegraf-doet-mij-pijn",
+    "type": "article",
+    "title": "Peter Gillis doet aangifte van vernieling van familiegraf: 'Doet mij pijn'",
+    "subtitle": null,
+    "published_at": "2024-02-03T15:15:39+01:00",
+    "updated_at": "2024-02-03T15:42:25+01:00",
+    "media_id": "ya4xdvdacrm5",
+    "duration": null,
+    "canonical_section": {
+      "id": 125,
+      "slug": "achterklap",
+      "type": "default",
+      "name": "Achterklap",
+      "style": "nuentertainment",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/achterklap/6300197/peter-gillis-doet-aangifte-van-vernieling-van-familiegraf-doet-mij-pijn.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6300049,
+    "slug": "in-welk-wintersportgebied-ben-je-dit-jaar-goedkoper-uit",
+    "type": "article",
+    "title": "In welk wintersportgebied ben je dit jaar goedkoper uit?",
+    "subtitle": "NU+",
+    "published_at": "2024-02-03T15:08:41+01:00",
+    "updated_at": "2024-02-03T15:08:42+01:00",
+    "media_id": "yxwxpk6auh1q",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6300049/in-welk-wintersportgebied-ben-je-dit-jaar-goedkoper-uit.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6300195,
     "slug": "hamilton-over-transfer-naar-ferrari-met-racen-in-rood-komt-jongensdroom-uit",
     "type": "article",
     "title": "Hamilton over transfer naar Ferrari: 'Met racen in rood komt jongensdroom uit'",
     "subtitle": null,
     "published_at": "2024-02-03T14:56:23+01:00",
-    "updated_at": "2024-02-03T14:56:26+01:00",
+    "updated_at": "2024-02-03T15:27:34+01:00",
     "media_id": "r23x16qax2uh",
     "duration": null,
     "canonical_section": {
@@ -29,7 +167,7 @@
     "title": "Hockeysters verslaan VS met 7-0 en blijven foutloos in Pro League",
     "subtitle": null,
     "published_at": "2024-02-03T14:48:15+01:00",
-    "updated_at": "2024-02-03T14:48:16+01:00",
+    "updated_at": "2024-02-03T15:40:41+01:00",
     "media_id": "6ugxztiaqs82",
     "duration": null,
     "canonical_section": {
@@ -52,7 +190,7 @@
     "title": "Jahanbakhsh schiet Iran naar halve finales in Azië en Ueda terug naar Feyenoord",
     "subtitle": null,
     "published_at": "2024-02-03T14:37:18+01:00",
-    "updated_at": "2024-02-03T14:37:19+01:00",
+    "updated_at": "2024-02-03T15:52:04+01:00",
     "media_id": "6nzxjwpa7yh8",
     "duration": null,
     "canonical_section": {
@@ -70,12 +208,12 @@
   },
   {
     "id": 6300187,
-    "slug": "frictie-tussen-nsc-en-bbb-over-verkapte-dreigementen-van-radicale-boeren",
+    "slug": "ergernis-tussen-nsc-en-bbb-over-verkapte-dreigementen-van-radicale-boeren",
     "type": "article",
-    "title": "Frictie tussen NSC en BBB over 'verkapte dreigementen' van radicale boeren",
+    "title": "Ergernis tussen NSC en BBB over 'verkapte dreigementen' van radicale boeren",
     "subtitle": null,
     "published_at": "2024-02-03T14:35:08+01:00",
-    "updated_at": "2024-02-03T14:56:31+01:00",
+    "updated_at": "2024-02-03T15:28:05+01:00",
     "media_id": "kgdxiaiahyju",
     "duration": null,
     "canonical_section": {
@@ -87,7 +225,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/formatie-2023/6300187/frictie-tussen-nsc-en-bbb-over-verkapte-dreigementen-van-radicale-boeren.html",
+    "url": "/formatie-2023/6300187/ergernis-tussen-nsc-en-bbb-over-verkapte-dreigementen-van-radicale-boeren.html",
     "open_new_window": false,
     "partner": null
   },
@@ -98,7 +236,7 @@
     "title": "Olympisch windsurfkampioen Kiran Badloe mag niet naar Spelen van Parijs",
     "subtitle": null,
     "published_at": "2024-02-03T14:30:54+01:00",
-    "updated_at": "2024-02-03T14:44:13+01:00",
+    "updated_at": "2024-02-03T15:53:50+01:00",
     "media_id": "qynxbuway2mf",
     "duration": null,
     "canonical_section": {
@@ -121,7 +259,7 @@
     "title": "Italiaanse prins Vittorio Emanuele op 86-jarige leeftijd overleden",
     "subtitle": null,
     "published_at": "2024-02-03T14:26:09+01:00",
-    "updated_at": "2024-02-03T14:26:10+01:00",
+    "updated_at": "2024-02-03T15:55:57+01:00",
     "media_id": "jvrx797a37x3",
     "duration": null,
     "canonical_section": {
@@ -144,7 +282,7 @@
     "title": "ECB moet volgens bestuurslid reageren op minder hoge prijsstijgingen",
     "subtitle": null,
     "published_at": "2024-02-03T14:24:40+01:00",
-    "updated_at": "2024-02-03T14:24:41+01:00",
+    "updated_at": "2024-02-03T15:16:04+01:00",
     "media_id": "6cvxu2lapzlg",
     "duration": null,
     "canonical_section": {
@@ -162,12 +300,12 @@
   },
   {
     "id": 6300189,
-    "slug": "india-komt-dit-jaar-met-beleid-voor-afvangen-koolstof-met-steenkoolvoordelen",
+    "slug": "india-gaat-koolstof-verwijderen-en-opslaan-om-steenkool-te-blijven-gebruiken",
     "type": "article",
-    "title": "India komt dit jaar met beleid voor afvangen koolstof met steenkoolvoordelen",
+    "title": "India gaat koolstof verwijderen en opslaan om steenkool te blijven gebruiken",
     "subtitle": null,
     "published_at": "2024-02-03T14:21:06+01:00",
-    "updated_at": "2024-02-03T14:21:07+01:00",
+    "updated_at": "2024-02-03T15:59:24+01:00",
     "media_id": "vldxsyfacrxm",
     "duration": null,
     "canonical_section": {
@@ -179,7 +317,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/economie/6300189/india-komt-dit-jaar-met-beleid-voor-afvangen-koolstof-met-steenkoolvoordelen.html",
+    "url": "/economie/6300189/india-gaat-koolstof-verwijderen-en-opslaan-om-steenkool-te-blijven-gebruiken.html",
     "open_new_window": false,
     "partner": null
   },
@@ -190,7 +328,7 @@
     "title": "Exxonmobil wil toch rechtszaak tegen klimaatvoorstel ondanks terugtrekking",
     "subtitle": null,
     "published_at": "2024-02-03T14:16:30+01:00",
-    "updated_at": "2024-02-03T14:53:16+01:00",
+    "updated_at": "2024-02-03T15:03:38+01:00",
     "media_id": "z1sxieda1klr",
     "duration": null,
     "canonical_section": {
@@ -254,12 +392,12 @@
   },
   {
     "id": 6300182,
-    "slug": "live-wk-veldrijden-topfavoriet-van-empel-imponeert-in-tsjechie",
+    "slug": "live-wk-veldrijden-reacties-na-machtsvertoon-van-empel-in-tsjechie",
     "type": "article",
-    "title": "Live WK veldrijden | Topfavoriet Van Empel imponeert in Tsjechië",
+    "title": "Live WK veldrijden | Reacties na machtsvertoon Van Empel in Tsjechië",
     "subtitle": null,
     "published_at": "2024-02-03T13:49:06+01:00",
-    "updated_at": "2024-02-03T14:53:42+01:00",
+    "updated_at": "2024-02-03T15:28:52+01:00",
     "media_id": "ljox3u8aqrxw",
     "duration": null,
     "canonical_section": {
@@ -271,7 +409,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/sport-overig/6300182/live-wk-veldrijden-topfavoriet-van-empel-imponeert-in-tsjechie.html",
+    "url": "/sport-overig/6300182/live-wk-veldrijden-reacties-na-machtsvertoon-van-empel-in-tsjechie.html",
     "open_new_window": false,
     "partner": null
   },
@@ -397,7 +535,7 @@
     "title": "Hoe goed is het Ajax van John van 't Schip? 'PSV-thuis wordt echte test'",
     "subtitle": "NU+",
     "published_at": "2024-02-03T12:39:05+01:00",
-    "updated_at": "2024-02-03T12:39:06+01:00",
+    "updated_at": "2024-02-03T15:09:34+01:00",
     "media_id": "7m5x3jeawp6n",
     "duration": null,
     "canonical_section": {
@@ -420,7 +558,7 @@
     "title": "Honderden Brazilianen schenken cadeaus aan godin van de zee",
     "subtitle": "Video",
     "published_at": "2024-02-03T12:33:11+01:00",
-    "updated_at": "2024-02-03T14:55:29+01:00",
+    "updated_at": "2024-02-03T15:59:58+01:00",
     "media_id": "dqpxsevan5vf",
     "duration": "0:39",
     "canonical_section": {
@@ -535,7 +673,7 @@
     "title": "Nederlanders gebruiken hun telefoon steeds langer voordat ze een nieuwe kopen",
     "subtitle": null,
     "published_at": "2024-02-03T11:29:17+01:00",
-    "updated_at": "2024-02-03T11:29:34+01:00",
+    "updated_at": "2024-02-03T15:23:14+01:00",
     "media_id": "6jsx790azryj",
     "duration": null,
     "canonical_section": {
@@ -548,144 +686,6 @@
       "partner": null
     },
     "url": "/tech/6299930/nederlanders-gebruiken-hun-telefoon-steeds-langer-voordat-ze-een-nieuwe-kopen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6300156,
-    "slug": "amerikaanse-acteur-don-murray-op-94-jarige-leeftijd-overleden",
-    "type": "article",
-    "title": "Amerikaanse acteur Don Murray op 94-jarige leeftijd overleden",
-    "subtitle": null,
-    "published_at": "2024-02-03T11:28:44+01:00",
-    "updated_at": "2024-02-03T12:02:35+01:00",
-    "media_id": "c0mxzj0a0xjl",
-    "duration": null,
-    "canonical_section": {
-      "id": 127,
-      "slug": "film",
-      "type": "default",
-      "name": "Films & Series",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/film/6300156/amerikaanse-acteur-don-murray-op-94-jarige-leeftijd-overleden.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6300154,
-    "slug": "ijshockeysterren-uit-nhl-mogen-in-2026-weer-meedoen-aan-olympische-spelen",
-    "type": "article",
-    "title": "IJshockeysterren uit NHL mogen in 2026 weer meedoen aan Olympische Spelen",
-    "subtitle": null,
-    "published_at": "2024-02-03T11:24:14+01:00",
-    "updated_at": "2024-02-03T12:23:53+01:00",
-    "media_id": "d0hx128a93dp",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772456,
-      "slug": "sport-overig",
-      "type": "default",
-      "name": "Sport Overig",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/sport-overig/6300154/ijshockeysterren-uit-nhl-mogen-in-2026-weer-meedoen-aan-olympische-spelen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6300152,
-    "slug": "douwe-bob-heeft-veel-geleerd-door-te-stoppen-met-alcohol-goedpraten-is-gevaarlijk",
-    "type": "article",
-    "title": "Douwe Bob heeft veel geleerd door te stoppen met alcohol: 'Goedpraten is gevaarlijk'",
-    "subtitle": null,
-    "published_at": "2024-02-03T11:18:02+01:00",
-    "updated_at": "2024-02-03T12:51:08+01:00",
-    "media_id": "gdoxg57acet1",
-    "duration": null,
-    "canonical_section": {
-      "id": 125,
-      "slug": "achterklap",
-      "type": "default",
-      "name": "Achterklap",
-      "style": "nuentertainment",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/achterklap/6300152/douwe-bob-heeft-veel-geleerd-door-te-stoppen-met-alcohol-goedpraten-is-gevaarlijk.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6300151,
-    "slug": "huizen-in-chili-gaan-in-vlammen-op-door-grote-bosbranden",
-    "type": "video",
-    "title": "Huizen in Chili gaan in vlammen op door grote bosbranden",
-    "subtitle": "Video",
-    "published_at": "2024-02-03T11:04:16+01:00",
-    "updated_at": "2024-02-03T12:18:42+01:00",
-    "media_id": "y4xxzjpa3wlk",
-    "duration": "0:40",
-    "canonical_section": {
-      "id": 100,
-      "slug": "algemeen",
-      "type": "default",
-      "name": "Algemeen",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/algemeen/6300151/huizen-in-chili-gaan-in-vlammen-op-door-grote-bosbranden.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6300150,
-    "slug": "bekende-nederlanders-op-shortlist-nieuwe-stem-met-het-oog-op-morgen",
-    "type": "article",
-    "title": "Bekende Nederlanders op shortlist nieuwe stem Met het Oog op Morgen",
-    "subtitle": null,
-    "published_at": "2024-02-03T11:00:35+01:00",
-    "updated_at": "2024-02-03T13:11:00+01:00",
-    "media_id": "jutx9ucalcfm",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771675,
-      "slug": "media",
-      "type": "default",
-      "name": "Media",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/media/6300150/bekende-nederlanders-op-shortlist-nieuwe-stem-met-het-oog-op-morgen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6300081,
-    "slug": "laat-jij-een-kapot-apparaat-repareren-of-vervang-je-het-meteen",
-    "type": "article",
-    "title": "Laat jij een kapot apparaat repareren of vervang je het meteen?",
-    "subtitle": "Praat mee",
-    "published_at": "2024-02-03T10:53:42+01:00",
-    "updated_at": "2024-02-03T13:05:08+01:00",
-    "media_id": "u2lxkd0a088d",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779134,
-      "slug": "stelling",
-      "type": "default",
-      "name": "Stelling en Praat Mee",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/stelling/6300081/laat-jij-een-kapot-apparaat-repareren-of-vervang-je-het-meteen.html",
     "open_new_window": false,
     "partner": null
   }
