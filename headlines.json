@@ -1,12 +1,127 @@
 [
   {
-    "id": 6300179,
-    "slug": "politie-haalt-met-getrokken-pistool-drie-mannen-uit-auto-na-schoten-op-huis-in-boxtel",
+    "id": 6300183,
+    "slug": "gezochte-nederlandse-drugsbaas-opgepakt-bij-grootschalige-actie-in-istanboel",
     "type": "article",
-    "title": "Politie haalt met getrokken pistool drie mannen uit auto na schoten op huis in Boxtel",
+    "title": "Gezochte Nederlandse drugsbaas opgepakt bij grootschalige actie in Istanboel",
+    "subtitle": null,
+    "published_at": "2024-02-03T13:57:58+01:00",
+    "updated_at": "2024-02-03T13:57:59+01:00",
+    "media_id": "do3xrupahm38",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6300183/gezochte-nederlandse-drugsbaas-opgepakt-bij-grootschalige-actie-in-istanboel.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6300182,
+    "slug": "live-wk-veldrijden-van-empel-begint-als-topfavoriet-in-het-tsjechische-tabor",
+    "type": "article",
+    "title": "Live WK veldrijden | Van Empel begint als topfavoriet in het Tsjechische Tábor",
+    "subtitle": null,
+    "published_at": "2024-02-03T13:49:06+01:00",
+    "updated_at": "2024-02-03T13:49:08+01:00",
+    "media_id": "m3jxfftadiz8",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772456,
+      "slug": "sport-overig",
+      "type": "default",
+      "name": "Sport Overig",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/sport-overig/6300182/live-wk-veldrijden-van-empel-begint-als-topfavoriet-in-het-tsjechische-tabor.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6300181,
+    "slug": "japanse-ambassade-belooft-fans-dat-taylor-swift-op-tijd-terug-is-voor-super-bowl",
+    "type": "article",
+    "title": "Japanse ambassade belooft fans dat Taylor Swift op tijd terug is voor Super Bowl",
+    "subtitle": null,
+    "published_at": "2024-02-03T13:38:08+01:00",
+    "updated_at": "2024-02-03T13:38:09+01:00",
+    "media_id": "pcqxypkavxsp",
+    "duration": null,
+    "canonical_section": {
+      "id": 868281,
+      "slug": "muziek",
+      "type": "default",
+      "name": "Muziek",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/muziek/6300181/japanse-ambassade-belooft-fans-dat-taylor-swift-op-tijd-terug-is-voor-super-bowl.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6300162,
+    "slug": "astronomen-vinden-bij-toeval-dwergsterrenstelsel-dat-niet-hoort-te-bestaan",
+    "type": "article",
+    "title": "Astronomen vinden bij toeval dwergsterrenstelsel dat 'niet hoort te bestaan'",
+    "subtitle": null,
+    "published_at": "2024-02-03T13:22:17+01:00",
+    "updated_at": "2024-02-03T13:26:20+01:00",
+    "media_id": "ec0xmc3aqd2w",
+    "duration": null,
+    "canonical_section": {
+      "id": 478878,
+      "slug": "wetenschap",
+      "type": "default",
+      "name": "Wetenschap",
+      "style": "nunjij",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/wetenschap/6300162/astronomen-vinden-bij-toeval-dwergsterrenstelsel-dat-niet-hoort-te-bestaan.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6300180,
+    "slug": "klimaatactivisten-blokkeren-opnieuw-a12-in-den-haag-politie-start-verwijdering",
+    "type": "article",
+    "title": "Klimaatactivisten blokkeren opnieuw A12 in Den Haag, politie start verwijdering",
+    "subtitle": null,
+    "published_at": "2024-02-03T13:14:01+01:00",
+    "updated_at": "2024-02-03T13:57:37+01:00",
+    "media_id": "vzwx7eka6gmk",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6300180/klimaatactivisten-blokkeren-opnieuw-a12-in-den-haag-politie-start-verwijdering.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6300179,
+    "slug": "politie-haalt-met-getrokken-pistool-mannen-uit-auto-na-schoten-op-huis-in-boxtel",
+    "type": "article",
+    "title": "Politie haalt met getrokken pistool mannen uit auto na schoten op huis in Boxtel",
     "subtitle": null,
     "published_at": "2024-02-03T12:58:16+01:00",
-    "updated_at": "2024-02-03T12:58:17+01:00",
+    "updated_at": "2024-02-03T13:17:26+01:00",
     "media_id": "a9gxja5ay19g",
     "duration": null,
     "canonical_section": {
@@ -18,7 +133,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/binnenland/6300179/politie-haalt-met-getrokken-pistool-drie-mannen-uit-auto-na-schoten-op-huis-in-boxtel.html",
+    "url": "/binnenland/6300179/politie-haalt-met-getrokken-pistool-mannen-uit-auto-na-schoten-op-huis-in-boxtel.html",
     "open_new_window": false,
     "partner": null
   },
@@ -29,7 +144,7 @@
     "title": "Irak en Syrië beschuldigen VS ervan olie op vuur te gooien met vergeldingsaanval",
     "subtitle": null,
     "published_at": "2024-02-03T12:54:43+01:00",
-    "updated_at": "2024-02-03T13:00:21+01:00",
+    "updated_at": "2024-02-03T13:13:12+01:00",
     "media_id": "6x7x2zeab50x",
     "duration": null,
     "canonical_section": {
@@ -75,7 +190,7 @@
     "title": "Honderden Brazilianen schenken cadeaus aan godin van de zee",
     "subtitle": "Video",
     "published_at": "2024-02-03T12:33:11+01:00",
-    "updated_at": "2024-02-03T12:33:11+01:00",
+    "updated_at": "2024-02-03T13:39:46+01:00",
     "media_id": "dqpxsevan5vf",
     "duration": "0:39",
     "canonical_section": {
@@ -93,12 +208,12 @@
   },
   {
     "id": 6300175,
-    "slug": "tickets-voor-lowlands-binnen-twintig-minuten-uitverkocht",
+    "slug": "lowlands-tickets-binnen-kwartier-uitverkocht-130000-mensen-in-wachtrij",
     "type": "article",
-    "title": "Tickets voor Lowlands binnen twintig minuten uitverkocht",
+    "title": "Lowlands-tickets binnen kwartier uitverkocht, 130.000 mensen in wachtrij",
     "subtitle": null,
     "published_at": "2024-02-03T12:29:17+01:00",
-    "updated_at": "2024-02-03T12:38:02+01:00",
+    "updated_at": "2024-02-03T13:56:03+01:00",
     "media_id": "608xpdkae9te",
     "duration": null,
     "canonical_section": {
@@ -110,7 +225,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/muziek/6300175/tickets-voor-lowlands-binnen-twintig-minuten-uitverkocht.html",
+    "url": "/muziek/6300175/lowlands-tickets-binnen-kwartier-uitverkocht-130000-mensen-in-wachtrij.html",
     "open_new_window": false,
     "partner": null
   },
@@ -162,12 +277,12 @@
   },
   {
     "id": 6300165,
-    "slug": "nederlandse-boeren-vertrokken-van-a67-alle-blokkades-van-snelwegen-nu-voorbij",
+    "slug": "alle-blokkades-van-snelwegen-voorbij-onduidelijk-of-boeren-zijn-opgepakt",
     "type": "article",
-    "title": "Nederlandse boeren vertrokken van A67, alle blokkades van snelwegen nu voorbij",
+    "title": "Alle blokkades van snelwegen voorbij, onduidelijk of boeren zijn opgepakt",
     "subtitle": null,
     "published_at": "2024-02-03T11:51:38+01:00",
-    "updated_at": "2024-02-03T11:57:52+01:00",
+    "updated_at": "2024-02-03T13:19:36+01:00",
     "media_id": "5x9xkcuajbv0",
     "duration": null,
     "canonical_section": {
@@ -179,7 +294,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/binnenland/6300165/nederlandse-boeren-vertrokken-van-a67-alle-blokkades-van-snelwegen-nu-voorbij.html",
+    "url": "/binnenland/6300165/alle-blokkades-van-snelwegen-voorbij-onduidelijk-of-boeren-zijn-opgepakt.html",
     "open_new_window": false,
     "partner": null
   },
@@ -300,12 +415,12 @@
   },
   {
     "id": 6300150,
-    "slug": "meerdere-bekende-nederlanders-op-shortlist-nieuwe-stem-met-het-oog-op-morgen",
+    "slug": "bekende-nederlanders-op-shortlist-nieuwe-stem-met-het-oog-op-morgen",
     "type": "article",
-    "title": "Meerdere bekende Nederlanders op shortlist nieuwe stem Met het Oog op Morgen",
+    "title": "Bekende Nederlanders op shortlist nieuwe stem Met het Oog op Morgen",
     "subtitle": null,
     "published_at": "2024-02-03T11:00:35+01:00",
-    "updated_at": "2024-02-03T11:54:57+01:00",
+    "updated_at": "2024-02-03T13:11:00+01:00",
     "media_id": "jutx9ucalcfm",
     "duration": null,
     "canonical_section": {
@@ -317,18 +432,18 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/media/6300150/meerdere-bekende-nederlanders-op-shortlist-nieuwe-stem-met-het-oog-op-morgen.html",
+    "url": "/media/6300150/bekende-nederlanders-op-shortlist-nieuwe-stem-met-het-oog-op-morgen.html",
     "open_new_window": false,
     "partner": null
   },
   {
     "id": 6300081,
-    "slug": "laat-jij-een-kapot-apparaat-repareren-of-koop-je-gelijk-een-nieuwe",
+    "slug": "laat-jij-een-kapot-apparaat-repareren-of-vervang-je-het-meteen",
     "type": "article",
-    "title": "Laat jij een kapot apparaat repareren? Of koop je gelijk een nieuwe?",
+    "title": "Laat jij een kapot apparaat repareren of vervang je het meteen?",
     "subtitle": "Praat mee",
     "published_at": "2024-02-03T10:53:42+01:00",
-    "updated_at": "2024-02-03T10:53:44+01:00",
+    "updated_at": "2024-02-03T13:05:08+01:00",
     "media_id": "u2lxkd0a088d",
     "duration": null,
     "canonical_section": {
@@ -340,7 +455,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/stelling/6300081/laat-jij-een-kapot-apparaat-repareren-of-koop-je-gelijk-een-nieuwe.html",
+    "url": "/stelling/6300081/laat-jij-een-kapot-apparaat-repareren-of-vervang-je-het-meteen.html",
     "open_new_window": false,
     "partner": null
   },
@@ -351,7 +466,7 @@
     "title": "Japanner bekent op sterfbed dat hij een van de meestgezochte criminelen was",
     "subtitle": null,
     "published_at": "2024-02-03T10:51:03+01:00",
-    "updated_at": "2024-02-03T11:29:55+01:00",
+    "updated_at": "2024-02-03T13:06:29+01:00",
     "media_id": "m6sxs0uapo4i",
     "duration": null,
     "canonical_section": {
@@ -571,121 +686,6 @@
       "partner": null
     },
     "url": "/videos/6300130/tientallen-tractors-blokkeren-a7-bij-drachten.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6300048,
-    "slug": "waarom-word-je-misselijk-in-een-achtbaan",
-    "type": "video",
-    "title": "Waarom word je misselijk in een achtbaan?",
-    "subtitle": "Video",
-    "published_at": "2024-02-03T07:06:25+01:00",
-    "updated_at": "2024-02-03T07:06:26+01:00",
-    "media_id": "qddxdeiahefw",
-    "duration": "11:58",
-    "canonical_section": {
-      "id": 1779219,
-      "slug": "tech-wetenschap",
-      "type": "default",
-      "name": "Tech en Wetenschap",
-      "style": "nutech",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/tech-wetenschap/6300048/waarom-word-je-misselijk-in-een-achtbaan.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6300129,
-    "slug": "noodtoestand-uitgeroepen-in-chili-vanwege-bosbranden-in-toeristische-gebieden",
-    "type": "article",
-    "title": "Noodtoestand uitgeroepen in Chili vanwege bosbranden in toeristische gebieden",
-    "subtitle": null,
-    "published_at": "2024-02-03T07:05:48+01:00",
-    "updated_at": "2024-02-03T11:05:20+01:00",
-    "media_id": "tlrxfvrat1xd",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6300129/noodtoestand-uitgeroepen-in-chili-vanwege-bosbranden-in-toeristische-gebieden.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6299951,
-    "slug": "van-empel-favoriet-bij-wk-veldrijden-lijkt-bij-haar-alsof-ze-toertochtje-rijdt",
-    "type": "article",
-    "title": "Van Empel favoriet bij WK veldrijden: 'Lijkt bij haar alsof ze toertochtje rijdt'",
-    "subtitle": null,
-    "published_at": "2024-02-03T06:38:31+01:00",
-    "updated_at": "2024-02-03T06:38:33+01:00",
-    "media_id": "sksx2keaace0",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772339,
-      "slug": "wielrennen",
-      "type": "default",
-      "name": "Wielrennen",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/wielrennen/6299951/van-empel-favoriet-bij-wk-veldrijden-lijkt-bij-haar-alsof-ze-toertochtje-rijdt.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6300128,
-    "slug": "grote-brand-in-poeldijk-onder-controle-brandweer-belaagd-en-bekogeld",
-    "type": "article",
-    "title": "Grote brand in Poeldijk onder controle, brandweer belaagd en bekogeld",
-    "subtitle": null,
-    "published_at": "2024-02-03T06:37:21+01:00",
-    "updated_at": "2024-02-03T10:09:23+01:00",
-    "media_id": "nmoxc9ta2f17",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6300128/grote-brand-in-poeldijk-onder-controle-brandweer-belaagd-en-bekogeld.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6300127,
-    "slug": "a67-bij-belgische-grens-nog-dicht-door-boerenblokkade-andere-wegen-weer-vrij",
-    "type": "article",
-    "title": "A67 bij Belgische grens nog dicht door boerenblokkade, andere wegen weer vrij",
-    "subtitle": null,
-    "published_at": "2024-02-03T06:17:21+01:00",
-    "updated_at": "2024-02-03T09:14:15+01:00",
-    "media_id": "9ngxncca1r9u",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6300127/a67-bij-belgische-grens-nog-dicht-door-boerenblokkade-andere-wegen-weer-vrij.html",
     "open_new_window": false,
     "partner": null
   }
