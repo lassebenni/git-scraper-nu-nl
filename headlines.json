@@ -1,5 +1,51 @@
 [
   {
+    "id": 6300048,
+    "slug": "waarom-word-je-misselijk-in-een-achtbaan",
+    "type": "video",
+    "title": "Waarom word je misselijk in een achtbaan?",
+    "subtitle": "Video",
+    "published_at": "2024-02-03T07:06:25+01:00",
+    "updated_at": "2024-02-03T07:06:26+01:00",
+    "media_id": "qddxdeiahefw",
+    "duration": "11:58",
+    "canonical_section": {
+      "id": 1779219,
+      "slug": "tech-wetenschap",
+      "type": "default",
+      "name": "Tech en Wetenschap",
+      "style": "nutech",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/tech-wetenschap/6300048/waarom-word-je-misselijk-in-een-achtbaan.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6300129,
+    "slug": "noodtoestand-uitgeroepen-in-chili-wegens-bosbranden-in-toeristische-gebieden",
+    "type": "article",
+    "title": "Noodtoestand uitgeroepen in Chili wegens bosbranden in toeristische gebieden",
+    "subtitle": null,
+    "published_at": "2024-02-03T07:05:48+01:00",
+    "updated_at": "2024-02-03T07:05:49+01:00",
+    "media_id": "tlrxfvrat1xd",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6300129/noodtoestand-uitgeroepen-in-chili-wegens-bosbranden-in-toeristische-gebieden.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6299951,
     "slug": "van-empel-favoriet-bij-wk-veldrijden-lijkt-bij-haar-alsof-ze-toertochtje-rijdt",
     "type": "article",
@@ -47,12 +93,12 @@
   },
   {
     "id": 6300127,
-    "slug": "a67-bij-belgische-grens-nog-dicht-door-boerenacties-na-nieuwe-blokkades",
+    "slug": "a67-bij-belgische-grens-nog-dicht-door-boerenblokkade",
     "type": "article",
-    "title": "A67 bij Belgische grens nog dicht door boerenacties na nieuwe blokkades",
+    "title": "A67 bij Belgische grens nog dicht door boerenblokkade",
     "subtitle": null,
     "published_at": "2024-02-03T06:17:21+01:00",
-    "updated_at": "2024-02-03T06:17:22+01:00",
+    "updated_at": "2024-02-03T07:53:20+01:00",
     "media_id": "9ngxncca1r9u",
     "duration": null,
     "canonical_section": {
@@ -64,7 +110,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/binnenland/6300127/a67-bij-belgische-grens-nog-dicht-door-boerenacties-na-nieuwe-blokkades.html",
+    "url": "/binnenland/6300127/a67-bij-belgische-grens-nog-dicht-door-boerenblokkade.html",
     "open_new_window": false,
     "partner": null
   },
@@ -351,7 +397,7 @@
     "title": "Grote brand uitgebroken bij bedrijf in Poeldijk",
     "subtitle": "Video",
     "published_at": "2024-02-02T22:30:42+01:00",
-    "updated_at": "2024-02-02T23:11:22+01:00",
+    "updated_at": "2024-02-03T07:02:22+01:00",
     "media_id": "nmoxc9ta2f17",
     "duration": "0:40",
     "canonical_section": {
@@ -640,52 +686,6 @@
       "partner": null
     },
     "url": "/voetbal/6300105/az-heeft-keeper-ryan-weer-terug-na-uitschakeling-australie-op-azie-cup.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6300104,
-    "slug": "osimhen-met-nigeria-halvefinalist-op-afrika-cup-ook-congo-bij-laatste-vier",
-    "type": "article",
-    "title": "Osimhen met Nigeria halvefinalist op Afrika Cup, ook Congo bij laatste vier",
-    "subtitle": null,
-    "published_at": "2024-02-02T20:03:53+01:00",
-    "updated_at": "2024-02-02T23:55:44+01:00",
-    "media_id": "fxjxdckahzbq",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6300104/osimhen-met-nigeria-halvefinalist-op-afrika-cup-ook-congo-bij-laatste-vier.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6300100,
-    "slug": "belgische-boeren-beginnen-met-opbreken-van-blokkades",
-    "type": "article",
-    "title": "Belgische boeren beginnen met opbreken van blokkades",
-    "subtitle": null,
-    "published_at": "2024-02-02T19:58:44+01:00",
-    "updated_at": "2024-02-02T22:04:43+01:00",
-    "media_id": "sr5xsq7ao5ic",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6300100/belgische-boeren-beginnen-met-opbreken-van-blokkades.html",
     "open_new_window": false,
     "partner": null
   }
