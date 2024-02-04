@@ -1,12 +1,58 @@
 [
   {
+    "id": 6300040,
+    "slug": "zorgoverstappers-verlieten-asr-cz-en-vgz-en-kozen-voor-de-laagste-premie",
+    "type": "article",
+    "title": "Zorgoverstappers verlieten ASR, CZ en VGZ en kozen voor de laagste premie",
+    "subtitle": null,
+    "published_at": "2024-02-04T07:22:17+01:00",
+    "updated_at": "2024-02-04T07:49:11+01:00",
+    "media_id": "2ynx2n6a30xb",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6300040/zorgoverstappers-verlieten-asr-cz-en-vgz-en-kozen-voor-de-laagste-premie.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6300240,
+    "slug": "tientallen-doden-in-chili-door-bosbranden-die-hele-woonwijken-in-de-as-leggen",
+    "type": "article",
+    "title": "Tientallen doden in Chili door bosbranden die hele woonwijken in de as leggen",
+    "subtitle": null,
+    "published_at": "2024-02-04T07:17:50+01:00",
+    "updated_at": "2024-02-04T07:34:55+01:00",
+    "media_id": "ntgx183ad3xj",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6300240/tientallen-doden-in-chili-door-bosbranden-die-hele-woonwijken-in-de-as-leggen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6300239,
     "slug": "grauwe-en-grijze-ochtend-daarna-opklaringen-en-zelfs-wat-zon",
     "type": "article",
     "title": "Grauwe en grijze ochtend, daarna opklaringen en zelfs wat zon",
     "subtitle": "Weerbericht",
     "published_at": "2024-02-04T05:59:30+01:00",
-    "updated_at": "2024-02-04T06:02:44+01:00",
+    "updated_at": "2024-02-04T07:44:50+01:00",
     "media_id": "66fx9xia0tyw",
     "duration": null,
     "canonical_section": {
@@ -52,7 +98,7 @@
     "title": "Dode en twee gewonden bij ongeluk met drie voertuigen op de A73 bij Venray",
     "subtitle": null,
     "published_at": "2024-02-04T05:22:40+01:00",
-    "updated_at": "2024-02-04T05:22:41+01:00",
+    "updated_at": "2024-02-04T07:53:39+01:00",
     "media_id": "gu8xtslai3vq",
     "duration": null,
     "canonical_section": {
@@ -116,12 +162,12 @@
   },
   {
     "id": 6299941,
-    "slug": "dit-zijn-de-risicos-als-je-alleen-nog-maar-oude-software-op-je-telefoon-hebt-staan",
+    "slug": "dit-zijn-de-risicos-als-je-alleen-maar-oude-software-op-je-telefoon-hebt",
     "type": "article",
-    "title": "Dit zijn de risico's als je alleen nog maar oude software op je telefoon hebt staan",
+    "title": "Dit zijn de risico's als je alleen maar oude software op je telefoon hebt",
     "subtitle": "NU+",
     "published_at": "2024-02-04T04:55:28+01:00",
-    "updated_at": "2024-02-04T04:55:29+01:00",
+    "updated_at": "2024-02-04T07:36:59+01:00",
     "media_id": "fv3x3gdax0hx",
     "duration": null,
     "canonical_section": {
@@ -133,7 +179,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/slimmer-leven/6299941/dit-zijn-de-risicos-als-je-alleen-nog-maar-oude-software-op-je-telefoon-hebt-staan.html",
+    "url": "/slimmer-leven/6299941/dit-zijn-de-risicos-als-je-alleen-maar-oude-software-op-je-telefoon-hebt.html",
     "open_new_window": false,
     "partner": null
   },
@@ -213,7 +259,7 @@
     "title": "Amerikanen en Britten voeren opnieuw aanvallen uit op Jemen",
     "subtitle": null,
     "published_at": "2024-02-03T23:37:12+01:00",
-    "updated_at": "2024-02-04T00:51:18+01:00",
+    "updated_at": "2024-02-04T07:59:06+01:00",
     "media_id": "m1lx0ucavsrz",
     "duration": null,
     "canonical_section": {
@@ -374,7 +420,7 @@
     "title": "Schaap rent voetbalveld op tijdens Friese amateurderby",
     "subtitle": "Video",
     "published_at": "2024-02-03T21:34:08+01:00",
-    "updated_at": "2024-02-03T21:46:30+01:00",
+    "updated_at": "2024-02-04T07:07:39+01:00",
     "media_id": "rr9xye5aa0yl",
     "duration": "0:34",
     "canonical_section": {
@@ -489,7 +535,7 @@
     "title": "Sprookje 'Rotterdams' Kaapverdië op Afrika Cup voorbij na verlies via penalty's",
     "subtitle": null,
     "published_at": "2024-02-03T20:43:31+01:00",
-    "updated_at": "2024-02-03T23:57:29+01:00",
+    "updated_at": "2024-02-04T07:19:12+01:00",
     "media_id": "5euxzlwa7psj",
     "duration": null,
     "canonical_section": {
@@ -640,52 +686,6 @@
       "partner": null
     },
     "url": "/videos/6300221/vrouwen-van-soldaten-demonstreren-in-rusland-politie-grijpt-in.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6300219,
-    "slug": "dodelijke-explosie-rotterdam-komt-mogelijk-door-drugslab-verdachte-opgepakt",
-    "type": "article",
-    "title": "Dodelijke explosie Rotterdam komt mogelijk door drugslab, verdachte opgepakt",
-    "subtitle": null,
-    "published_at": "2024-02-03T18:57:03+01:00",
-    "updated_at": "2024-02-03T23:01:13+01:00",
-    "media_id": "wn9x2v9a45nc",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6300219/dodelijke-explosie-rotterdam-komt-mogelijk-door-drugslab-verdachte-opgepakt.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6300218,
-    "slug": "gehavend-psv-start-met-mauro-junior-tegen-ajax-henderson-vervangt-tahirovic",
-    "type": "article",
-    "title": "Gehavend PSV start met Mauro Júnior tegen Ajax, Henderson vervangt Tahirovic",
-    "subtitle": null,
-    "published_at": "2024-02-03T18:49:08+01:00",
-    "updated_at": "2024-02-03T20:04:41+01:00",
-    "media_id": "yqcxd8fa8cdr",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6300218/gehavend-psv-start-met-mauro-junior-tegen-ajax-henderson-vervangt-tahirovic.html",
     "open_new_window": false,
     "partner": null
   }
