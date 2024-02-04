@@ -1,14 +1,37 @@
 [
   {
+    "id": 6300302,
+    "slug": "radio-dj-en-candlelight-presentator-jan-van-veen-79-overleden",
+    "type": "article",
+    "title": "Radio-dj en Candlelight-presentator Jan van Veen (79) overleden",
+    "subtitle": null,
+    "published_at": "2024-02-04T20:55:29+01:00",
+    "updated_at": "2024-02-04T20:55:39+01:00",
+    "media_id": "nhix8i0a1jkw",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771675,
+      "slug": "media",
+      "type": "default",
+      "name": "Media",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/media/6300302/radio-dj-en-candlelight-presentator-jan-van-veen-79-overleden.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6300184,
     "slug": "goed-nieuws-deze-week-gevoelige-geiten-en-wereldkampioen-zonnepanelen",
-    "type": "video",
+    "type": "article",
     "title": "Goed nieuws deze week: gevoelige geiten en wereldkampioen zonnepanelen",
     "subtitle": null,
     "published_at": "2024-02-04T20:01:15+01:00",
-    "updated_at": "2024-02-04T20:01:16+01:00",
+    "updated_at": "2024-02-04T20:13:13+01:00",
     "media_id": "k7nxfsoaujoa",
-    "duration": "0:41",
+    "duration": null,
     "canonical_section": {
       "id": 1779220,
       "slug": "goed-nieuws",
@@ -24,12 +47,12 @@
   },
   {
     "id": 6300299,
-    "slug": "taylor-wint-broederstrijd-van-zach-bij-utrecht-volendam-wordt-duur-etentje",
+    "slug": "taylor-wint-broederstrijd-van-zach-bij-utrecht-volendam-wordt-een-duur-etentje",
     "type": "article",
-    "title": "Taylor wint broederstrijd van Zach bij Utrecht-Volendam: 'Wordt duur etentje'",
+    "title": "Taylor wint broederstrijd van Zach bij Utrecht-Volendam: 'Wordt een duur etentje'",
     "subtitle": null,
     "published_at": "2024-02-04T19:59:03+01:00",
-    "updated_at": "2024-02-04T19:59:04+01:00",
+    "updated_at": "2024-02-04T20:07:36+01:00",
     "media_id": "nmzxuona85v0",
     "duration": null,
     "canonical_section": {
@@ -41,7 +64,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6300299/taylor-wint-broederstrijd-van-zach-bij-utrecht-volendam-wordt-duur-etentje.html",
+    "url": "/voetbal/6300299/taylor-wint-broederstrijd-van-zach-bij-utrecht-volendam-wordt-een-duur-etentje.html",
     "open_new_window": false,
     "partner": null
   },
@@ -236,7 +259,7 @@
     "title": "Ongelukkige rol Van Dijk in verloren Engelse topper, Ten Hag wint met United",
     "subtitle": null,
     "published_at": "2024-02-04T17:03:36+01:00",
-    "updated_at": "2024-02-04T19:41:44+01:00",
+    "updated_at": "2024-02-04T20:07:18+01:00",
     "media_id": "4kkxbeyaedpw",
     "duration": null,
     "canonical_section": {
@@ -282,7 +305,7 @@
     "title": "Van Gerwen walst ook over Chisnall en blijft op koers voor zesde Masters-titel",
     "subtitle": null,
     "published_at": "2024-02-04T16:37:04+01:00",
-    "updated_at": "2024-02-04T19:37:08+01:00",
+    "updated_at": "2024-02-04T20:54:01+01:00",
     "media_id": "scnxghzahn5d",
     "duration": null,
     "canonical_section": {
@@ -512,7 +535,7 @@
     "title": "Van der Poel verovert zesde wereldtitel veldrijden na galavoorstelling in Tábor",
     "subtitle": null,
     "published_at": "2024-02-04T15:33:08+01:00",
-    "updated_at": "2024-02-04T17:32:26+01:00",
+    "updated_at": "2024-02-04T20:02:08+01:00",
     "media_id": "mbqxb3xaafo3",
     "duration": null,
     "canonical_section": {
@@ -663,29 +686,6 @@
       "partner": null
     },
     "url": "/voetbal/6300267/hekkensluiter-vitesse-lijdt-mede-door-inschattingsfout-room-derde-verlies-op-rij.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6300270,
-    "slug": "fc-twente-vrouwen-wint-simpel-van-excelsior-en-boekt-15e-eredivisie-zege-op-rij",
-    "type": "article",
-    "title": "FC Twente Vrouwen wint simpel van Excelsior en boekt 15e Eredivisie-zege op rij",
-    "subtitle": null,
-    "published_at": "2024-02-04T14:12:06+01:00",
-    "updated_at": "2024-02-04T16:58:28+01:00",
-    "media_id": "slqx7ldaoqeo",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6300270/fc-twente-vrouwen-wint-simpel-van-excelsior-en-boekt-15e-eredivisie-zege-op-rij.html",
     "open_new_window": false,
     "partner": null
   }
