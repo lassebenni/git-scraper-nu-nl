@@ -1,5 +1,97 @@
 [
   {
+    "id": 6300575,
+    "slug": "regenachtig-in-het-zuiden-ruimte-voor-zon-in-de-rest-van-het-land",
+    "type": "article",
+    "title": "Regenachtig in het zuiden, ruimte voor zon in de rest van het land",
+    "subtitle": "Weerbericht",
+    "published_at": "2024-02-07T05:55:36+01:00",
+    "updated_at": "2024-02-07T05:55:37+01:00",
+    "media_id": "ikfxolua2ob7",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779283,
+      "slug": "weerbericht",
+      "type": "default",
+      "name": "Weerbericht",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/weerbericht/6300575/regenachtig-in-het-zuiden-ruimte-voor-zon-in-de-rest-van-het-land.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6300574,
+    "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
+    "type": "article",
+    "title": "Het Woord van vandaag: Raad jij het woord van de dag?",
+    "subtitle": null,
+    "published_at": "2024-02-07T05:15:44+01:00",
+    "updated_at": "2024-02-07T05:15:45+01:00",
+    "media_id": "vunx81iava32",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779164,
+      "slug": "het-woord",
+      "type": "default",
+      "name": "Het Woord",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/het-woord/6300574/het-woord-van-vandaag-raad-jij-het-woord-van-de-dag.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6299929,
+    "slug": "hoe-vaak-moet-je-je-haar-wassen",
+    "type": "article",
+    "title": "Hoe vaak moet je je haar wassen?",
+    "subtitle": "In 100 woorden",
+    "published_at": "2024-02-07T05:03:07+01:00",
+    "updated_at": "2024-02-07T05:03:08+01:00",
+    "media_id": "s6exu9va124k",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779328,
+      "slug": "slimmer-leven",
+      "type": "default",
+      "name": "Slimmer leven",
+      "style": "nutech",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/slimmer-leven/6299929/hoe-vaak-moet-je-je-haar-wassen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6300482,
+    "slug": "pilsje-raakt-verder-uit-de-gratie-in-krimpende-biermarkt",
+    "type": "article",
+    "title": "Pilsje raakt verder uit de gratie in krimpende biermarkt",
+    "subtitle": null,
+    "published_at": "2024-02-07T05:02:20+01:00",
+    "updated_at": "2024-02-07T05:02:22+01:00",
+    "media_id": "b61xzrjahzjc",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6300482/pilsje-raakt-verder-uit-de-gratie-in-krimpende-biermarkt.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6300440,
     "slug": "turkije-bouwt-snel-na-beving-maar-nieuwbouw-is-niet-zonder-problemen",
     "type": "article",
@@ -70,12 +162,12 @@
   },
   {
     "id": 6300571,
-    "slug": "omtzigt-wil-nog-verder-onderhandelen-maar-voelt-weinig-vertrouwen-bij-pvv-vvd-en-bbb",
+    "slug": "omtzigt-wil-nog-onderhandelen-maar-vertrouwen-met-pvv-vvd-en-bbb-neemt-af",
     "type": "article",
-    "title": "Omtzigt wil nog verder onderhandelen, maar voelt weinig vertrouwen bij PVV, VVD en BBB",
+    "title": "Omtzigt wil nog onderhandelen, maar vertrouwen met PVV, VVD en BBB neemt af",
     "subtitle": null,
     "published_at": "2024-02-06T23:31:28+01:00",
-    "updated_at": "2024-02-06T23:32:09+01:00",
+    "updated_at": "2024-02-07T05:22:10+01:00",
     "media_id": "v9mxd94adkit",
     "duration": null,
     "canonical_section": {
@@ -87,7 +179,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/formatie-2023/6300571/omtzigt-wil-nog-verder-onderhandelen-maar-voelt-weinig-vertrouwen-bij-pvv-vvd-en-bbb.html",
+    "url": "/formatie-2023/6300571/omtzigt-wil-nog-onderhandelen-maar-vertrouwen-met-pvv-vvd-en-bbb-neemt-af.html",
     "open_new_window": false,
     "partner": null
   },
@@ -236,7 +328,7 @@
     "title": "Onzeker of uitspraak Marengo eind februari nog komt, kroongetuige weer gehoord",
     "subtitle": null,
     "published_at": "2024-02-06T21:30:27+01:00",
-    "updated_at": "2024-02-06T21:43:55+01:00",
+    "updated_at": "2024-02-07T06:00:09+01:00",
     "media_id": "vatxtcoahwms",
     "duration": null,
     "canonical_section": {
@@ -594,98 +686,6 @@
       "partner": null
     },
     "url": "/media/6300546/passages-over-nos-directie-achteraf-aangepast-in-npo-rapport-over-wangedrag.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6300551,
-    "slug": "arsenal-schrijft-herstellende-timber-in-voor-champions-league-duels",
-    "type": "article",
-    "title": "Arsenal schrijft herstellende Timber in voor Champions League-duels",
-    "subtitle": null,
-    "published_at": "2024-02-06T19:03:50+01:00",
-    "updated_at": "2024-02-06T22:00:40+01:00",
-    "media_id": "2mhxw7ua8dr4",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6300551/arsenal-schrijft-herstellende-timber-in-voor-champions-league-duels.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6300550,
-    "slug": "miljarden-aan-coronaschulden-worden-niet-geind-door-personeelsgebrek-fiscus",
-    "type": "article",
-    "title": "Miljarden aan coronaschulden worden niet geïnd door personeelsgebrek fiscus",
-    "subtitle": null,
-    "published_at": "2024-02-06T19:00:30+01:00",
-    "updated_at": "2024-02-06T19:40:14+01:00",
-    "media_id": "eqlxahzaxjl7",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6300550/miljarden-aan-coronaschulden-worden-niet-geind-door-personeelsgebrek-fiscus.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6300549,
-    "slug": "enorme-explosie-verwoest-illegale-vuurwerkfabriek-in-india",
-    "type": "video",
-    "title": "Enorme explosie verwoest illegale vuurwerkfabriek in India",
-    "subtitle": "Video",
-    "published_at": "2024-02-06T18:43:47+01:00",
-    "updated_at": "2024-02-06T18:43:48+01:00",
-    "media_id": "8faxa4kafgb4",
-    "duration": "0:45",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6300549/enorme-explosie-verwoest-illegale-vuurwerkfabriek-in-india.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6300548,
-    "slug": "boris-becker-stopt-wegens-drukke-agenda-al-na-35-maand-als-coach-van-rune",
-    "type": "article",
-    "title": "Boris Becker stopt wegens drukke agenda al na 3,5 maand als coach van Rune",
-    "subtitle": null,
-    "published_at": "2024-02-06T18:24:15+01:00",
-    "updated_at": "2024-02-06T20:51:16+01:00",
-    "media_id": "aqwx6tva86f2",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772432,
-      "slug": "tennis",
-      "type": "default",
-      "name": "Tennis",
-      "style": "nusport",
-      "media_id": "m1oxohpan0gq",
-      "partner": null
-    },
-    "url": "/tennis/6300548/boris-becker-stopt-wegens-drukke-agenda-al-na-35-maand-als-coach-van-rune.html",
     "open_new_window": false,
     "partner": null
   }
