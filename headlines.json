@@ -1,12 +1,150 @@
 [
   {
-    "id": 6300840,
-    "slug": "omstreden-journalist-tucker-carlson-publiceert-interview-met-vladimir-poetin",
+    "id": 6300844,
+    "slug": "bas-muijs-over-gewelddadige-gijzeling-wil-er-niet-meer-aan-denken",
     "type": "article",
-    "title": "Omstreden journalist Tucker Carlson publiceert interview met Vladimir Poetin",
+    "title": "Bas Muijs over gewelddadige gijzeling: 'Wil er niet meer aan denken'",
+    "subtitle": null,
+    "published_at": "2024-02-09T06:51:41+01:00",
+    "updated_at": "2024-02-09T06:51:42+01:00",
+    "media_id": "ebjxuyrae6dm",
+    "duration": null,
+    "canonical_section": {
+      "id": 125,
+      "slug": "achterklap",
+      "type": "default",
+      "name": "Achterklap",
+      "style": "nuentertainment",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/achterklap/6300844/bas-muijs-over-gewelddadige-gijzeling-wil-er-niet-meer-aan-denken.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6300843,
+    "slug": "koningin-camilla-zegt-dat-het-naar-omstandigheden-goed-gaat-met-zieke-charles",
+    "type": "article",
+    "title": "Koningin Camilla zegt dat het naar omstandigheden goed gaat met zieke Charles",
+    "subtitle": null,
+    "published_at": "2024-02-09T06:33:16+01:00",
+    "updated_at": "2024-02-09T06:55:16+01:00",
+    "media_id": "u4ix08mawd1f",
+    "duration": null,
+    "canonical_section": {
+      "id": 1778775,
+      "slug": "koningshuis",
+      "type": "default",
+      "name": "Koningshuis",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/koningshuis/6300843/koningin-camilla-zegt-dat-het-naar-omstandigheden-goed-gaat-met-zieke-charles.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6300842,
+    "slug": "engelbewaarder-ook-populair-in-belgie-marco-schuitmaker-krijgt-gouden-plaat",
+    "type": "article",
+    "title": "Engelbewaarder ook populair in België: Marco Schuitmaker krijgt gouden plaat",
+    "subtitle": null,
+    "published_at": "2024-02-09T06:26:12+01:00",
+    "updated_at": "2024-02-09T06:26:13+01:00",
+    "media_id": "7rsx3k4a7fgi",
+    "duration": null,
+    "canonical_section": {
+      "id": 868281,
+      "slug": "muziek",
+      "type": "default",
+      "name": "Muziek",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/muziek/6300842/engelbewaarder-ook-populair-in-belgie-marco-schuitmaker-krijgt-gouden-plaat.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6300841,
+    "slug": "weerbericht-het-blijft-veel-regenen-maar-vanmiddag-is-het-wat-vaker-droog",
+    "type": "article",
+    "title": "Weerbericht: Het blijft veel regenen, maar vanmiddag is het wat vaker droog",
+    "subtitle": null,
+    "published_at": "2024-02-09T06:21:33+01:00",
+    "updated_at": "2024-02-09T06:21:34+01:00",
+    "media_id": "l04xi3hajp8l",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779283,
+      "slug": "weerbericht",
+      "type": "default",
+      "name": "Weerbericht",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/weerbericht/6300841/weerbericht-het-blijft-veel-regenen-maar-vanmiddag-is-het-wat-vaker-droog.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6300827,
+    "slug": "miljardenbuit-hoe-noord-korea-goed-werd-in-het-stelen-van-cryptos",
+    "type": "video",
+    "title": "Miljardenbuit: hoe Noord-Korea goed werd in het stelen van crypto's",
+    "subtitle": "Explainer",
+    "published_at": "2024-02-09T06:10:45+01:00",
+    "updated_at": "2024-02-09T06:10:46+01:00",
+    "media_id": "mw3xfo5agwms",
+    "duration": "2:13",
+    "canonical_section": {
+      "id": 100,
+      "slug": "algemeen",
+      "type": "default",
+      "name": "Algemeen",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/algemeen/6300827/miljardenbuit-hoe-noord-korea-goed-werd-in-het-stelen-van-cryptos.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6300817,
+    "slug": "flink-bijgestort-in-pensioenpotjes-nu-dat-fiscaal-vriendelijk-kan",
+    "type": "article",
+    "title": "Flink bijgestort in pensioenpotjes nu dat fiscaal vriendelijk kan",
+    "subtitle": null,
+    "published_at": "2024-02-09T06:07:16+01:00",
+    "updated_at": "2024-02-09T06:51:18+01:00",
+    "media_id": "pr2xskga1kp4",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6300817/flink-bijgestort-in-pensioenpotjes-nu-dat-fiscaal-vriendelijk-kan.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6300840,
+    "slug": "poetin-praat-oorlog-goed-in-interview-met-omstreden-journalist-tucker-carlson",
+    "type": "article",
+    "title": "Poetin praat oorlog goed in interview met omstreden journalist Tucker Carlson",
     "subtitle": null,
     "published_at": "2024-02-09T05:48:48+01:00",
-    "updated_at": "2024-02-09T05:59:58+01:00",
+    "updated_at": "2024-02-09T06:56:56+01:00",
     "media_id": "x1ixidfakqnu",
     "duration": null,
     "canonical_section": {
@@ -18,7 +156,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/spanningen-oekraine/6300840/omstreden-journalist-tucker-carlson-publiceert-interview-met-vladimir-poetin.html",
+    "url": "/spanningen-oekraine/6300840/poetin-praat-oorlog-goed-in-interview-met-omstreden-journalist-tucker-carlson.html",
     "open_new_window": false,
     "partner": null
   },
@@ -70,12 +208,12 @@
   },
   {
     "id": 6300838,
-    "slug": "dj-tiesto-zegt-optreden-super-bowl-af-vanwege-familieomstandigheden",
+    "slug": "tiesto-zegt-super-bowl-show-af-wegens-familiesituatie-loodzwaar-besluit",
     "type": "article",
-    "title": "DJ Tiësto zegt optreden Super Bowl af vanwege familieomstandigheden",
+    "title": "Tiësto zegt Super Bowl-show af wegens familiesituatie: 'Loodzwaar besluit'",
     "subtitle": null,
     "published_at": "2024-02-08T23:02:21+01:00",
-    "updated_at": "2024-02-08T23:34:45+01:00",
+    "updated_at": "2024-02-09T06:32:01+01:00",
     "media_id": "49pxteiaat5r",
     "duration": null,
     "canonical_section": {
@@ -87,7 +225,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/muziek/6300838/dj-tiesto-zegt-optreden-super-bowl-af-vanwege-familieomstandigheden.html",
+    "url": "/muziek/6300838/tiesto-zegt-super-bowl-show-af-wegens-familiesituatie-loodzwaar-besluit.html",
     "open_new_window": false,
     "partner": null
   },
@@ -254,12 +392,12 @@
   },
   {
     "id": 6300833,
-    "slug": "biden-niet-vervolgd-voor-meenemen-documenten-oude-man-met-slecht-geheugen",
+    "slug": "biden-niet-vervolgd-voor-meenemen-documenten-slecht-geheugen",
     "type": "article",
-    "title": "Biden niet vervolgd voor meenemen documenten: 'Oude man met slecht geheugen'",
+    "title": "Biden niet vervolgd voor meenemen documenten: 'Slecht geheugen'",
     "subtitle": null,
     "published_at": "2024-02-08T21:46:36+01:00",
-    "updated_at": "2024-02-09T01:35:33+01:00",
+    "updated_at": "2024-02-09T06:09:48+01:00",
     "media_id": "kuzx9qgah417",
     "duration": null,
     "canonical_section": {
@@ -271,18 +409,18 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/buitenland/6300833/biden-niet-vervolgd-voor-meenemen-documenten-oude-man-met-slecht-geheugen.html",
+    "url": "/buitenland/6300833/biden-niet-vervolgd-voor-meenemen-documenten-slecht-geheugen.html",
     "open_new_window": false,
     "partner": null
   },
   {
     "id": 6300826,
-    "slug": "de-oscars-krijgen-een-nieuwe-categorie-prijs-voor-de-beste-casting",
+    "slug": "oscars-krijgen-met-prijs-voor-beste-casting-na-25-jaar-een-nieuwe-categorie",
     "type": "article",
-    "title": "De Oscars krijgen een nieuwe categorie: prijs voor de beste casting",
+    "title": "Oscars krijgen met prijs voor beste casting na 25 jaar een nieuwe categorie",
     "subtitle": null,
     "published_at": "2024-02-08T21:21:21+01:00",
-    "updated_at": "2024-02-08T21:32:52+01:00",
+    "updated_at": "2024-02-09T06:59:09+01:00",
     "media_id": "k8cxhpyajptu",
     "duration": null,
     "canonical_section": {
@@ -294,7 +432,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/film/6300826/de-oscars-krijgen-een-nieuwe-categorie-prijs-voor-de-beste-casting.html",
+    "url": "/film/6300826/oscars-krijgen-met-prijs-voor-beste-casting-na-25-jaar-een-nieuwe-categorie.html",
     "open_new_window": false,
     "partner": null
   },
@@ -374,7 +512,7 @@
     "title": "Van Gerwen is Littler opnieuw de baas en wint tweede Premier League-ronde",
     "subtitle": null,
     "published_at": "2024-02-08T20:50:13+01:00",
-    "updated_at": "2024-02-09T00:06:59+01:00",
+    "updated_at": "2024-02-09T06:33:33+01:00",
     "media_id": "epox6qmauix5",
     "duration": null,
     "canonical_section": {
@@ -548,144 +686,6 @@
       "partner": null
     },
     "url": "/videos/6300821/plasterk-omtzigts-actie-mist-respect-voor-het-instituut-informateur.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6300820,
-    "slug": "netflix-serie-over-zanger-julio-iglesias-in-de-maak",
-    "type": "article",
-    "title": "Netflix-serie over zanger Julio Iglesias in de maak",
-    "subtitle": null,
-    "published_at": "2024-02-08T19:31:58+01:00",
-    "updated_at": "2024-02-08T20:11:48+01:00",
-    "media_id": "5bsxjy8asjq2",
-    "duration": null,
-    "canonical_section": {
-      "id": 127,
-      "slug": "film",
-      "type": "default",
-      "name": "Films & Series",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/film/6300820/netflix-serie-over-zanger-julio-iglesias-in-de-maak.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6300816,
-    "slug": "voetbalrevolutie-lijkt-op-komst-test-met-blauwe-kaart-op-lagere-niveaus",
-    "type": "article",
-    "title": "Voetbalrevolutie lijkt op komst: test met blauwe kaart op lagere niveaus",
-    "subtitle": null,
-    "published_at": "2024-02-08T19:09:38+01:00",
-    "updated_at": "2024-02-08T23:31:54+01:00",
-    "media_id": "ly0xjg4a9oh2",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6300816/voetbalrevolutie-lijkt-op-komst-test-met-blauwe-kaart-op-lagere-niveaus.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6300804,
-    "slug": "oranje-speelt-tegen-duitsland-hongarije-en-bosnie-in-groepsfase-nations-league",
-    "type": "article",
-    "title": "Oranje speelt tegen Duitsland, Hongarije en Bosnië in groepsfase Nations League",
-    "subtitle": null,
-    "published_at": "2024-02-08T18:50:52+01:00",
-    "updated_at": "2024-02-08T20:20:35+01:00",
-    "media_id": "plzxa5tauwzu",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6300804/oranje-speelt-tegen-duitsland-hongarije-en-bosnie-in-groepsfase-nations-league.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6300815,
-    "slug": "huis-in-china-bedolven-onder-sneeuw-doordat-raam-openstond",
-    "type": "video",
-    "title": "Huis in China bedolven onder sneeuw doordat raam openstond",
-    "subtitle": "Video",
-    "published_at": "2024-02-08T18:39:01+01:00",
-    "updated_at": "2024-02-08T23:00:48+01:00",
-    "media_id": "xqox57aashh7",
-    "duration": "0:51",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6300815/huis-in-china-bedolven-onder-sneeuw-doordat-raam-openstond.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6300810,
-    "slug": "serena-williams-en-oprah-staan-op-legendarische-cover-van-vogue",
-    "type": "article",
-    "title": "Serena Williams en Oprah staan op 'legendarische' cover van Vogue",
-    "subtitle": null,
-    "published_at": "2024-02-08T18:15:00+01:00",
-    "updated_at": "2024-02-09T01:29:04+01:00",
-    "media_id": "rv8xnada58zw",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771675,
-      "slug": "media",
-      "type": "default",
-      "name": "Media",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/media/6300810/serena-williams-en-oprah-staan-op-legendarische-cover-van-vogue.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6300813,
-    "slug": "borussia-dortmund-heeft-belangrijk-vijftal-terug-in-aanloop-naar-duel-met-psv",
-    "type": "article",
-    "title": "Borussia Dortmund heeft belangrijk vijftal terug in aanloop naar duel met PSV",
-    "subtitle": null,
-    "published_at": "2024-02-08T18:11:12+01:00",
-    "updated_at": "2024-02-08T18:11:13+01:00",
-    "media_id": "7g6x3buancej",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6300813/borussia-dortmund-heeft-belangrijk-vijftal-terug-in-aanloop-naar-duel-met-psv.html",
     "open_new_window": false,
     "partner": null
   }
