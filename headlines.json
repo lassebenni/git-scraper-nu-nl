@@ -1,12 +1,104 @@
 [
   {
+    "id": 6301504,
+    "slug": "vitesse-snapt-niets-van-afgekeurde-overname-maar-is-ver-met-alternatief-plan",
+    "type": "article",
+    "title": "Vitesse snapt niets van afgekeurde overname, maar is ver met alternatief plan",
+    "subtitle": null,
+    "published_at": "2024-02-14T15:41:21+01:00",
+    "updated_at": "2024-02-14T15:57:46+01:00",
+    "media_id": "laaxq0ha1o11",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6301504/vitesse-snapt-niets-van-afgekeurde-overname-maar-is-ver-met-alternatief-plan.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6301505,
+    "slug": "nieuwsgierige-wolf-neemt-een-kijkje-bij-langsrijdende-auto-op-veluwe",
+    "type": "video",
+    "title": "Nieuwsgierige wolf neemt een kijkje bij langsrijdende auto op Veluwe",
+    "subtitle": "Video",
+    "published_at": "2024-02-14T15:22:20+01:00",
+    "updated_at": "2024-02-14T15:38:39+01:00",
+    "media_id": "e0mxsc1aqfuc",
+    "duration": "1:00",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6301505/nieuwsgierige-wolf-neemt-een-kijkje-bij-langsrijdende-auto-op-veluwe.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6301502,
+    "slug": "jochem-myjer-heeft-weer-een-vriendin-een-nieuwe-lente",
+    "type": "article",
+    "title": "Jochem Myjer heeft weer een vriendin: 'Een nieuwe lente'",
+    "subtitle": null,
+    "published_at": "2024-02-14T15:18:49+01:00",
+    "updated_at": "2024-02-14T15:22:12+01:00",
+    "media_id": "id0xo2oaq31k",
+    "duration": null,
+    "canonical_section": {
+      "id": 125,
+      "slug": "achterklap",
+      "type": "default",
+      "name": "Achterklap",
+      "style": "nuentertainment",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/achterklap/6301502/jochem-myjer-heeft-weer-een-vriendin-een-nieuwe-lente.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6301503,
+    "slug": "gezondheidsraad-adviseert-om-babys-onder-1-jaar-tegen-rs-virus-te-vaccineren",
+    "type": "article",
+    "title": "Gezondheidsraad adviseert om baby's onder 1 jaar tegen RS-virus te vaccineren",
+    "subtitle": null,
+    "published_at": "2024-02-14T15:15:34+01:00",
+    "updated_at": "2024-02-14T15:53:52+01:00",
+    "media_id": "pjzxrinavy5p",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6301503/gezondheidsraad-adviseert-om-babys-onder-1-jaar-tegen-rs-virus-te-vaccineren.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6301499,
     "slug": "feyenoord-dreigt-geertruida-te-missen-in-europa-league-kraker-tegen-as-roma",
     "type": "article",
     "title": "Feyenoord dreigt Geertruida te missen in Europa League-kraker tegen AS Roma",
     "subtitle": null,
     "published_at": "2024-02-14T15:01:04+01:00",
-    "updated_at": "2024-02-14T15:01:05+01:00",
+    "updated_at": "2024-02-14T15:01:44+01:00",
     "media_id": "4rexacra86gy",
     "duration": null,
     "canonical_section": {
@@ -52,7 +144,7 @@
     "title": "Hamilton heeft 'onwerkelijk gevoel' bij laatste Mercedes-presentatie",
     "subtitle": null,
     "published_at": "2024-02-14T14:51:03+01:00",
-    "updated_at": "2024-02-14T14:51:05+01:00",
+    "updated_at": "2024-02-14T15:39:11+01:00",
     "media_id": "08gxkn5a859j",
     "duration": null,
     "canonical_section": {
@@ -167,7 +259,7 @@
     "title": "Patrick Lodiers moet na zeven jaar stoppen bij radioprogramma De Nieuws BV",
     "subtitle": null,
     "published_at": "2024-02-14T14:07:49+01:00",
-    "updated_at": "2024-02-14T14:07:50+01:00",
+    "updated_at": "2024-02-14T15:15:14+01:00",
     "media_id": "rd5xonoaluwu",
     "duration": null,
     "canonical_section": {
@@ -208,12 +300,12 @@
   },
   {
     "id": 6301490,
-    "slug": "bodglimt-coach-ontwijkt-vragen-over-ajax-interesse-neem-onbekend-nummer-nooit-op",
+    "slug": "bodglimt-coach-lacht-om-ajax-geruchten-neem-onbekend-nummer-nooit-op",
     "type": "article",
-    "title": "Bodø/Glimt-coach ontwijkt vragen over Ajax-interesse: 'Neem onbekend nummer nooit op'",
+    "title": "Bodø/Glimt-coach lacht om Ajax-geruchten: 'Neem onbekend nummer nooit op'",
     "subtitle": null,
     "published_at": "2024-02-14T14:04:26+01:00",
-    "updated_at": "2024-02-14T14:04:27+01:00",
+    "updated_at": "2024-02-14T15:34:06+01:00",
     "media_id": "gx3xofaapcrb",
     "duration": null,
     "canonical_section": {
@@ -225,7 +317,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6301490/bodglimt-coach-ontwijkt-vragen-over-ajax-interesse-neem-onbekend-nummer-nooit-op.html",
+    "url": "/voetbal/6301490/bodglimt-coach-lacht-om-ajax-geruchten-neem-onbekend-nummer-nooit-op.html",
     "open_new_window": false,
     "partner": null
   },
@@ -305,7 +397,7 @@
     "title": "Achttien NAVO-landen geven dit jaar waarschijnlijk genoeg uit aan defensie",
     "subtitle": null,
     "published_at": "2024-02-14T13:31:51+01:00",
-    "updated_at": "2024-02-14T13:54:34+01:00",
+    "updated_at": "2024-02-14T15:42:44+01:00",
     "media_id": "l51xl4hahl29",
     "duration": null,
     "canonical_section": {
@@ -443,7 +535,7 @@
     "title": "Vitesse verder in de problemen: KNVB blokkeert Amerikaanse overname",
     "subtitle": null,
     "published_at": "2024-02-14T12:15:06+01:00",
-    "updated_at": "2024-02-14T13:37:38+01:00",
+    "updated_at": "2024-02-14T15:16:23+01:00",
     "media_id": "seoxangawbue",
     "duration": null,
     "canonical_section": {
@@ -581,7 +673,7 @@
     "title": "PVV-leider Wilders wil Kim Putters als opvolger van informateur Plasterk",
     "subtitle": null,
     "published_at": "2024-02-14T11:40:32+01:00",
-    "updated_at": "2024-02-14T13:03:19+01:00",
+    "updated_at": "2024-02-14T15:16:19+01:00",
     "media_id": "rczxikragqwa",
     "duration": null,
     "canonical_section": {
@@ -594,98 +686,6 @@
       "partner": null
     },
     "url": "/formatie-2023/6301453/pvv-leider-wilders-wil-kim-putters-als-opvolger-van-informateur-plasterk.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6301444,
-    "slug": "aantal-pasgeboren-babys-dat-ernstig-ziek-wordt-van-kinkhoest-neemt-snel-toe",
-    "type": "article",
-    "title": "Aantal pasgeboren baby's dat ernstig ziek wordt van kinkhoest neemt snel toe",
-    "subtitle": null,
-    "published_at": "2024-02-14T11:26:17+01:00",
-    "updated_at": "2024-02-14T11:29:18+01:00",
-    "media_id": "mvbxafnapnp3",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6301444/aantal-pasgeboren-babys-dat-ernstig-ziek-wordt-van-kinkhoest-neemt-snel-toe.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6301468,
-    "slug": "nederlandse-skier-overleden-door-botsing-tegen-boom-in-oostenrijk",
-    "type": "article",
-    "title": "Nederlandse skiër overleden door botsing tegen boom in Oostenrijk",
-    "subtitle": null,
-    "published_at": "2024-02-14T11:23:11+01:00",
-    "updated_at": "2024-02-14T11:25:04+01:00",
-    "media_id": "07vxy00aq92s",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6301468/nederlandse-skier-overleden-door-botsing-tegen-boom-in-oostenrijk.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6301467,
-    "slug": "massaal-protest-bundesliga-fans-heeft-effect-amerikaanse-investeerder-haakt-af",
-    "type": "article",
-    "title": "Massaal protest Bundesliga-fans heeft effect: Amerikaanse investeerder haakt af",
-    "subtitle": null,
-    "published_at": "2024-02-14T11:18:17+01:00",
-    "updated_at": "2024-02-14T11:18:18+01:00",
-    "media_id": "9gxxueoau0xn",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6301467/massaal-protest-bundesliga-fans-heeft-effect-amerikaanse-investeerder-haakt-af.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6301461,
-    "slug": "katja-schuurman-voelt-zich-heel-goed-zonder-geliefde-in-haar-leven",
-    "type": "article",
-    "title": "Katja Schuurman voelt zich heel goed zonder geliefde in haar leven",
-    "subtitle": null,
-    "published_at": "2024-02-14T11:16:58+01:00",
-    "updated_at": "2024-02-14T11:17:20+01:00",
-    "media_id": "wzyxnknaq2if",
-    "duration": null,
-    "canonical_section": {
-      "id": 125,
-      "slug": "achterklap",
-      "type": "default",
-      "name": "Achterklap",
-      "style": "nuentertainment",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/achterklap/6301461/katja-schuurman-voelt-zich-heel-goed-zonder-geliefde-in-haar-leven.html",
     "open_new_window": false,
     "partner": null
   }
