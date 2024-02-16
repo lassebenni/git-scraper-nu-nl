@@ -1,12 +1,58 @@
 [
   {
+    "id": 6301807,
+    "slug": "vakbond-fnv-steunt-cao-akkoord-ns-niet-en-wil-opnieuw-onderhandelen",
+    "type": "article",
+    "title": "Vakbond FNV steunt cao-akkoord NS niet en wil opnieuw onderhandelen",
+    "subtitle": null,
+    "published_at": "2024-02-16T14:46:06+01:00",
+    "updated_at": "2024-02-16T14:46:07+01:00",
+    "media_id": "r3ox1ywaovp6",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6301807/vakbond-fnv-steunt-cao-akkoord-ns-niet-en-wil-opnieuw-onderhandelen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6301797,
+    "slug": "ook-albert-heijn-en-andere-supers-roepen-chocoladekoekjes-terug-om-metaal",
+    "type": "article",
+    "title": "Ook Albert Heijn en andere supers roepen chocoladekoekjes terug om metaal",
+    "subtitle": null,
+    "published_at": "2024-02-16T14:29:02+01:00",
+    "updated_at": "2024-02-16T14:55:42+01:00",
+    "media_id": "yk7xtxea7nau",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6301797/ook-albert-heijn-en-andere-supers-roepen-chocoladekoekjes-terug-om-metaal.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6301783,
     "slug": "schiphol-heeft-genoeg-personeel-reizigers-hoeven-geen-chaos-te-verwachten",
     "type": "article",
     "title": "Schiphol heeft genoeg personeel: 'Reizigers hoeven geen chaos te verwachten'",
     "subtitle": null,
     "published_at": "2024-02-16T13:57:48+01:00",
-    "updated_at": "2024-02-16T14:01:11+01:00",
+    "updated_at": "2024-02-16T14:02:21+01:00",
     "media_id": "qf6xxn3a3gk6",
     "duration": null,
     "canonical_section": {
@@ -31,7 +77,7 @@
     "published_at": "2024-02-16T13:52:01+01:00",
     "updated_at": "2024-02-16T13:57:44+01:00",
     "media_id": "6s6x4ehacmbt",
-    "duration": "0:25",
+    "duration": "0:49",
     "canonical_section": {
       "id": 1772431,
       "slug": "videos",
@@ -52,31 +98,8 @@
     "title": "Navalny is niet de eerste Poetin-criticus die vroegtijdig overlijdt",
     "subtitle": "NU+",
     "published_at": "2024-02-16T13:50:59+01:00",
-    "updated_at": "2024-02-16T13:58:30+01:00",
+    "updated_at": "2024-02-16T15:00:52+01:00",
     "media_id": "051xazuads5c",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6301780/navalny-is-niet-de-eerste-poetin-criticus-die-vroegtijdig-overlijdt.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6301787,
-    "slug": "liveblog-dood-navalny-premier-rutte-en-eu-houden-rusland-verantwoordelijk",
-    "type": "article",
-    "title": "Liveblog dood Navalny | Premier Rutte en EU houden Rusland verantwoordelijk",
-    "subtitle": null,
-    "published_at": "2024-02-16T13:49:23+01:00",
-    "updated_at": "2024-02-16T13:53:35+01:00",
-    "media_id": "rpbxevoa7z12",
     "duration": null,
     "canonical_section": {
       "id": 1779362,
@@ -87,7 +110,30 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/overlijden-navalny/6301787/liveblog-dood-navalny-premier-rutte-en-eu-houden-rusland-verantwoordelijk.html",
+    "url": "/overlijden-navalny/6301780/navalny-is-niet-de-eerste-poetin-criticus-die-vroegtijdig-overlijdt.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6301787,
+    "slug": "liveblog-dood-navalny-moeder-hij-was-deze-week-nog-vrolijk-en-gezond",
+    "type": "article",
+    "title": "Liveblog dood Navalny | Moeder: 'Hij was deze week nog vrolijk en gezond'",
+    "subtitle": null,
+    "published_at": "2024-02-16T13:49:23+01:00",
+    "updated_at": "2024-02-16T14:46:47+01:00",
+    "media_id": "lq0x78pavcht",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779362,
+      "slug": "overlijden-navalny",
+      "type": "default",
+      "name": "Overlijden Navalny",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/overlijden-navalny/6301787/liveblog-dood-navalny-moeder-hij-was-deze-week-nog-vrolijk-en-gezond.html",
     "open_new_window": false,
     "partner": null
   },
@@ -98,7 +144,7 @@
     "title": "Rod Stewart verkoopt zijn muziekrechten voor bijna 100 miljoen dollar",
     "subtitle": null,
     "published_at": "2024-02-16T13:40:19+01:00",
-    "updated_at": "2024-02-16T13:52:18+01:00",
+    "updated_at": "2024-02-16T14:19:50+01:00",
     "media_id": "d4px3l9a4ebr",
     "duration": null,
     "canonical_section": {
@@ -121,7 +167,7 @@
     "title": "Reacties op dood Navalny: 'Rusland heeft ernstige vragen te beantwoorden'",
     "subtitle": null,
     "published_at": "2024-02-16T13:38:56+01:00",
-    "updated_at": "2024-02-16T13:53:15+01:00",
+    "updated_at": "2024-02-16T14:27:00+01:00",
     "media_id": "rjixxt9aepiy",
     "duration": null,
     "canonical_section": {
@@ -282,7 +328,7 @@
     "title": "Rusland meldt overlijden oppositieleider Alexei Navalny (47) in gevangenis",
     "subtitle": null,
     "published_at": "2024-02-16T12:27:23+01:00",
-    "updated_at": "2024-02-16T14:00:26+01:00",
+    "updated_at": "2024-02-16T14:27:37+01:00",
     "media_id": "c4exj6na4g0k",
     "duration": null,
     "canonical_section": {
@@ -466,7 +512,7 @@
     "title": "COA vraagt gemeenten tijdelijk meer mensen op te vangen dan afgesproken",
     "subtitle": null,
     "published_at": "2024-02-16T11:15:07+01:00",
-    "updated_at": "2024-02-16T11:58:35+01:00",
+    "updated_at": "2024-02-16T14:10:35+01:00",
     "media_id": "cf3xg5haeper",
     "duration": null,
     "canonical_section": {
@@ -640,52 +686,6 @@
       "partner": null
     },
     "url": "/economie/6301738/toezichthouder-acm-onderzoekt-hoogte-van-terugleverkosten-bij-zonnepanelen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6301737,
-    "slug": "massaontslag-bij-nike-vanwege-tegenvallende-verkopen",
-    "type": "article",
-    "title": "Massaontslag bij Nike vanwege tegenvallende verkopen",
-    "subtitle": null,
-    "published_at": "2024-02-16T09:34:25+01:00",
-    "updated_at": "2024-02-16T10:06:02+01:00",
-    "media_id": "khaxu5yancqb",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6301737/massaontslag-bij-nike-vanwege-tegenvallende-verkopen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6301736,
-    "slug": "van-gerwen-wint-weer-premier-league-speelronde-terwijl-het-niet-eens-liep",
-    "type": "article",
-    "title": "Van Gerwen wint weer Premier League-speelronde: 'Terwijl het niet eens liep'",
-    "subtitle": null,
-    "published_at": "2024-02-16T09:31:56+01:00",
-    "updated_at": "2024-02-16T10:22:33+01:00",
-    "media_id": "g1yxo03aoldz",
-    "duration": null,
-    "canonical_section": {
-      "id": 1777376,
-      "slug": "darts",
-      "type": "default",
-      "name": "Darts",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/darts/6301736/van-gerwen-wint-weer-premier-league-speelronde-terwijl-het-niet-eens-liep.html",
     "open_new_window": false,
     "partner": null
   }
