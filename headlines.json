@@ -1,12 +1,81 @@
 [
   {
+    "id": 6301984,
+    "slug": "weerbericht-kletsnatte-zondag-met-vooral-in-de-middag-langdurig-regen",
+    "type": "article",
+    "title": "Weerbericht: Kletsnatte zondag, met vooral in de middag langdurig regen",
+    "subtitle": null,
+    "published_at": "2024-02-18T05:30:08+01:00",
+    "updated_at": "2024-02-18T05:30:09+01:00",
+    "media_id": "m1oxr2ga03gf",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779283,
+      "slug": "weerbericht",
+      "type": "default",
+      "name": "Weerbericht",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/weerbericht/6301984/weerbericht-kletsnatte-zondag-met-vooral-in-de-middag-langdurig-regen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6301985,
+    "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
+    "type": "article",
+    "title": "Het Woord van vandaag: Raad jij het woord van de dag?",
+    "subtitle": null,
+    "published_at": "2024-02-18T05:16:08+01:00",
+    "updated_at": "2024-02-18T05:16:09+01:00",
+    "media_id": "vunx81iava32",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779164,
+      "slug": "het-woord",
+      "type": "default",
+      "name": "Het Woord",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/het-woord/6301985/het-woord-van-vandaag-raad-jij-het-woord-van-de-dag.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6301520,
+    "slug": "alweer-controle-bij-de-zelfscankassa-mogelijk-vindt-ai-je-gedrag-verdacht",
+    "type": "article",
+    "title": "Alweer controle bij de zelfscankassa? Mogelijk vindt AI je gedrag verdacht",
+    "subtitle": null,
+    "published_at": "2024-02-18T05:01:36+01:00",
+    "updated_at": "2024-02-18T05:01:37+01:00",
+    "media_id": "gy4xs2caxuf4",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771438,
+      "slug": "tech",
+      "type": "default",
+      "name": "Tech",
+      "style": "nutech",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/tech/6301520/alweer-controle-bij-de-zelfscankassa-mogelijk-vindt-ai-je-gedrag-verdacht.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6301981,
     "slug": "buurtbewoners-over-veldslag-in-den-haag-nog-nooit-zo-erg-meegemaakt",
     "type": "article",
     "title": "Buurtbewoners over 'veldslag' in Den Haag: 'Nog nooit zo erg meegemaakt'",
     "subtitle": null,
     "published_at": "2024-02-18T05:00:13+01:00",
-    "updated_at": "2024-02-18T05:00:14+01:00",
+    "updated_at": "2024-02-18T05:39:02+01:00",
     "media_id": "vkyxkp8an0zx",
     "duration": null,
     "canonical_section": {
@@ -374,7 +443,7 @@
     "title": "AZ boekt eerste zege onder Martens na spannende avond in Sittard",
     "subtitle": null,
     "published_at": "2024-02-17T20:45:34+01:00",
-    "updated_at": "2024-02-17T21:20:33+01:00",
+    "updated_at": "2024-02-18T05:30:46+01:00",
     "media_id": "0v1xsccawump",
     "duration": null,
     "canonical_section": {
@@ -617,75 +686,6 @@
       "partner": null
     },
     "url": "/sport-overig/6301646/ben-saddik-stelt-fans-teleur-en-bedankt-voor-toernooi-met-verhoeven-in-arnhem.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6301953,
-    "slug": "live-eredivisie-reacties-na-zeges-go-ahead-en-almere-city",
-    "type": "article",
-    "title": "Live Eredivisie | Reacties na zeges Go Ahead en Almere City",
-    "subtitle": null,
-    "published_at": "2024-02-17T18:19:55+01:00",
-    "updated_at": "2024-02-17T23:12:21+01:00",
-    "media_id": "iclxsjlatd49",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6301953/live-eredivisie-reacties-na-zeges-go-ahead-en-almere-city.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6301586,
-    "slug": "de-beste-kleine-smartphones",
-    "type": "article",
-    "title": "De beste kleine smartphones",
-    "subtitle": "NU+",
-    "published_at": "2024-02-17T18:16:02+01:00",
-    "updated_at": "2024-02-17T18:16:04+01:00",
-    "media_id": "0obxxkaa9caa",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779328,
-      "slug": "slimmer-leven",
-      "type": "default",
-      "name": "Slimmer leven",
-      "style": "nutech",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/slimmer-leven/6301586/de-beste-kleine-smartphones.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6301955,
-    "slug": "drama-voor-korstanje-zwemmer-geeft-in-laatste-meters-wk-medaille-uit-handen",
-    "type": "article",
-    "title": "Drama voor Korstanje: zwemmer geeft in laatste meters WK-medaille uit handen",
-    "subtitle": null,
-    "published_at": "2024-02-17T18:01:12+01:00",
-    "updated_at": "2024-02-17T19:30:51+01:00",
-    "media_id": "ypkxw7na2xne",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772456,
-      "slug": "sport-overig",
-      "type": "default",
-      "name": "Sport Overig",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/sport-overig/6301955/drama-voor-korstanje-zwemmer-geeft-in-laatste-meters-wk-medaille-uit-handen.html",
     "open_new_window": false,
     "partner": null
   }
