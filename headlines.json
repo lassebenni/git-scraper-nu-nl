@@ -1,12 +1,150 @@
 [
   {
-    "id": 6302321,
-    "slug": "journalist-coen-verbraak-erg-verbaast-over-uitspraken-mart-smeets-in-buiten-beeld",
+    "id": 6302329,
+    "slug": "live-f1-verstappen-meteen-in-actie-bij-eerste-testdag-in-bahrein",
     "type": "article",
-    "title": "Journalist Coen Verbraak 'erg verbaast' over uitspraken Mart Smeets in Buiten Beeld",
+    "title": "Live F1 | Verstappen meteen in actie bij eerste testdag in Bahrein",
+    "subtitle": null,
+    "published_at": "2024-02-21T07:42:58+01:00",
+    "updated_at": "2024-02-21T07:43:57+01:00",
+    "media_id": "a0hxak3a8im0",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772449,
+      "slug": "formule-1",
+      "type": "default",
+      "name": "Formule 1",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/formule-1/6302329/live-f1-verstappen-meteen-in-actie-bij-eerste-testdag-in-bahrein.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6302328,
+    "slug": "grote-brand-in-kringloopwinkel-almere-nog-niet-onder-controle",
+    "type": "article",
+    "title": "Grote brand in kringloopwinkel Almere nog niet onder controle",
+    "subtitle": null,
+    "published_at": "2024-02-21T07:31:54+01:00",
+    "updated_at": "2024-02-21T07:38:36+01:00",
+    "media_id": "1x7xk33aujwb",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6302328/grote-brand-in-kringloopwinkel-almere-nog-niet-onder-controle.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6302327,
+    "slug": "muziek-staat-na-acht-jaar-weer-op-de-eerste-plek-voor-gordon",
+    "type": "article",
+    "title": "Muziek staat na acht jaar weer op de eerste plek voor Gordon",
+    "subtitle": null,
+    "published_at": "2024-02-21T07:30:41+01:00",
+    "updated_at": "2024-02-21T07:44:34+01:00",
+    "media_id": "wdixguna3oaa",
+    "duration": null,
+    "canonical_section": {
+      "id": 868281,
+      "slug": "muziek",
+      "type": "default",
+      "name": "Muziek",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/muziek/6302327/muziek-staat-na-acht-jaar-weer-op-de-eerste-plek-voor-gordon.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6302326,
+    "slug": "gasverbruik-in-europa-met-20-procent-gedaald-sinds-oorlog-in-oekraine",
+    "type": "article",
+    "title": "Gasverbruik in Europa met 20 procent gedaald sinds oorlog in Oekraïne",
+    "subtitle": null,
+    "published_at": "2024-02-21T07:20:32+01:00",
+    "updated_at": "2024-02-21T08:00:26+01:00",
+    "media_id": "si6x3lqa2uwm",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6302326/gasverbruik-in-europa-met-20-procent-gedaald-sinds-oorlog-in-oekraine.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6302325,
+    "slug": "alcaraz-moet-al-na-twee-games-opgeven-in-eerste-ronde-rio-de-janeiro",
+    "type": "article",
+    "title": "Alcaraz moet al na twee games opgeven in eerste ronde Rio de Janeiro",
+    "subtitle": null,
+    "published_at": "2024-02-21T07:11:17+01:00",
+    "updated_at": "2024-02-21T07:48:55+01:00",
+    "media_id": "8kmxr6ha6fzd",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772432,
+      "slug": "tennis",
+      "type": "default",
+      "name": "Tennis",
+      "style": "nusport",
+      "media_id": "m1oxohpan0gq",
+      "partner": null
+    },
+    "url": "/tennis/6302325/alcaraz-moet-al-na-twee-games-opgeven-in-eerste-ronde-rio-de-janeiro.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6302324,
+    "slug": "weerbericht-komende-dagen-zijn-weer-kletsnat",
+    "type": "article",
+    "title": "Weerbericht | Komende dagen zijn weer kletsnat",
+    "subtitle": null,
+    "published_at": "2024-02-21T07:09:49+01:00",
+    "updated_at": "2024-02-21T07:17:48+01:00",
+    "media_id": "pi8xfmqawces",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779283,
+      "slug": "weerbericht",
+      "type": "default",
+      "name": "Weerbericht",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/weerbericht/6302324/weerbericht-komende-dagen-zijn-weer-kletsnat.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6302321,
+    "slug": "journalist-coen-verbraak-erg-verbaasd-over-uitspraken-mart-smeets-in-buiten-beeld",
+    "type": "article",
+    "title": "Journalist Coen Verbraak 'erg verbaasd' over uitspraken Mart Smeets in Buiten Beeld",
     "subtitle": null,
     "published_at": "2024-02-21T07:01:00+01:00",
-    "updated_at": "2024-02-21T07:01:01+01:00",
+    "updated_at": "2024-02-21T07:57:51+01:00",
     "media_id": "a4kxslxacxha",
     "duration": null,
     "canonical_section": {
@@ -18,7 +156,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/media/6302321/journalist-coen-verbraak-erg-verbaast-over-uitspraken-mart-smeets-in-buiten-beeld.html",
+    "url": "/media/6302321/journalist-coen-verbraak-erg-verbaasd-over-uitspraken-mart-smeets-in-buiten-beeld.html",
     "open_new_window": false,
     "partner": null
   },
@@ -29,7 +167,7 @@
     "title": "Zeven doden bij Russische droneaanvallen in noorden Oekraïne",
     "subtitle": null,
     "published_at": "2024-02-21T06:56:59+01:00",
-    "updated_at": "2024-02-21T06:57:00+01:00",
+    "updated_at": "2024-02-21T07:35:33+01:00",
     "media_id": "q1nxp1vaim6q",
     "duration": null,
     "canonical_section": {
@@ -47,13 +185,13 @@
   },
   {
     "id": 6302322,
-    "slug": "nl-alert-uitgestuurd-in-haarlem-vanwege-grote-brand-op-bedrijventerrein",
+    "slug": "nl-alert-verstuurd-in-haarlem-vanwege-grote-brand-op-bedrijventerrein",
     "type": "article",
-    "title": "NL-alert uitgestuurd in Haarlem vanwege grote brand op bedrijventerrein",
+    "title": "NL-Alert verstuurd in Haarlem vanwege grote brand op bedrijventerrein",
     "subtitle": null,
     "published_at": "2024-02-21T06:55:42+01:00",
-    "updated_at": "2024-02-21T06:55:43+01:00",
-    "media_id": "mbhx7a1ahijo",
+    "updated_at": "2024-02-21T07:34:29+01:00",
+    "media_id": "4amxj9wapx3e",
     "duration": null,
     "canonical_section": {
       "id": 1771435,
@@ -64,18 +202,18 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/binnenland/6302322/nl-alert-uitgestuurd-in-haarlem-vanwege-grote-brand-op-bedrijventerrein.html",
+    "url": "/binnenland/6302322/nl-alert-verstuurd-in-haarlem-vanwege-grote-brand-op-bedrijventerrein.html",
     "open_new_window": false,
     "partner": null
   },
   {
     "id": 6302320,
-    "slug": "scheiding-acteur-kevin-costner-rond-na-onenigheid-over-alimentatie",
+    "slug": "scheiding-kevin-costner-rond-na-onenigheid-over-alimentatie",
     "type": "article",
-    "title": "Scheiding acteur Kevin Costner rond na onenigheid over alimentatie",
+    "title": "Scheiding Kevin Costner rond na onenigheid over alimentatie",
     "subtitle": null,
     "published_at": "2024-02-21T06:40:52+01:00",
-    "updated_at": "2024-02-21T06:40:53+01:00",
+    "updated_at": "2024-02-21T07:55:01+01:00",
     "media_id": "teaxwzoajso0",
     "duration": null,
     "canonical_section": {
@@ -87,7 +225,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/achterklap/6302320/scheiding-acteur-kevin-costner-rond-na-onenigheid-over-alimentatie.html",
+    "url": "/achterklap/6302320/scheiding-kevin-costner-rond-na-onenigheid-over-alimentatie.html",
     "open_new_window": false,
     "partner": null
   },
@@ -116,12 +254,12 @@
   },
   {
     "id": 6302319,
-    "slug": "psv-met-borst-vooruit-naar-dortmund-voor-cl-return-80000-fans-stil-krijgen",
+    "slug": "psv-wil-kunstje-van-ajax-herhalen-in-dortmund-80000-fans-stil-krijgen",
     "type": "article",
-    "title": "PSV met borst vooruit naar Dortmund voor CL-return: '80.000 fans stil krijgen'",
+    "title": "PSV wil kunstje van Ajax herhalen in Dortmund: '80.000 fans stil krijgen'",
     "subtitle": null,
     "published_at": "2024-02-21T06:26:49+01:00",
-    "updated_at": "2024-02-21T06:26:50+01:00",
+    "updated_at": "2024-02-21T07:46:44+01:00",
     "media_id": "d9yx9c5a4uep",
     "duration": null,
     "canonical_section": {
@@ -133,7 +271,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6302319/psv-met-borst-vooruit-naar-dortmund-voor-cl-return-80000-fans-stil-krijgen.html",
+    "url": "/voetbal/6302319/psv-wil-kunstje-van-ajax-herhalen-in-dortmund-80000-fans-stil-krijgen.html",
     "open_new_window": false,
     "partner": null
   },
@@ -351,7 +489,7 @@
     "title": "PSV houdt zicht op kwartfinales Champions League na gelijkspel tegen Dortmund",
     "subtitle": null,
     "published_at": "2024-02-20T22:55:48+01:00",
-    "updated_at": "2024-02-20T23:32:04+01:00",
+    "updated_at": "2024-02-21T07:35:23+01:00",
     "media_id": "5rnxn6famhz5",
     "duration": null,
     "canonical_section": {
@@ -415,12 +553,12 @@
   },
   {
     "id": 6302310,
-    "slug": "lange-rijen-voor-spotgoedkope-benzine-bij-tankstation-in-heteren-door-storing",
+    "slug": "storing-zorgde-voor-spotgoedkope-benzine-en-lange-rijen-bij-tankstation-in-heteren",
     "type": "article",
-    "title": "Lange rijen voor spotgoedkope benzine bij tankstation in Heteren door storing",
+    "title": "Storing zorgde voor spotgoedkope benzine en lange rijen bij tankstation in Heteren",
     "subtitle": null,
     "published_at": "2024-02-20T22:29:00+01:00",
-    "updated_at": "2024-02-20T22:48:51+01:00",
+    "updated_at": "2024-02-21T08:01:26+01:00",
     "media_id": "sf9xylgajkin",
     "duration": null,
     "canonical_section": {
@@ -432,7 +570,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/opmerkelijk/6302310/lange-rijen-voor-spotgoedkope-benzine-bij-tankstation-in-heteren-door-storing.html",
+    "url": "/opmerkelijk/6302310/storing-zorgde-voor-spotgoedkope-benzine-en-lange-rijen-bij-tankstation-in-heteren.html",
     "open_new_window": false,
     "partner": null
   },
@@ -548,144 +686,6 @@
       "partner": null
     },
     "url": "/economie/6302305/google-stapt-naar-duitse-rechter-om-bedrijfsgeheimen-te-beschermen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6302303,
-    "slug": "twee-mannen-verdacht-van-moord-na-schietpartij-bij-super-bowl-huldiging",
-    "type": "article",
-    "title": "Twee mannen verdacht van moord na schietpartij bij Super Bowl-huldiging",
-    "subtitle": null,
-    "published_at": "2024-02-20T21:47:35+01:00",
-    "updated_at": "2024-02-20T21:59:26+01:00",
-    "media_id": "30jxulza9ik6",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6302303/twee-mannen-verdacht-van-moord-na-schietpartij-bij-super-bowl-huldiging.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6302304,
-    "slug": "burgemeester-ontkent-dat-milaan-op-twee-na-meest-vervuilde-stad-is",
-    "type": "video",
-    "title": "Burgemeester ontkent dat Milaan op twee na meest vervuilde stad is",
-    "subtitle": "Video",
-    "published_at": "2024-02-20T21:45:05+01:00",
-    "updated_at": "2024-02-20T21:57:57+01:00",
-    "media_id": "l7kxthvaq4s3",
-    "duration": "0:38",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6302304/burgemeester-ontkent-dat-milaan-op-twee-na-meest-vervuilde-stad-is.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6302302,
-    "slug": "woedende-van-de-zandschulp-smijt-racket-kapot",
-    "type": "video",
-    "title": "Woedende Van de Zandschulp smijt racket kapot",
-    "subtitle": "Video",
-    "published_at": "2024-02-20T21:18:17+01:00",
-    "updated_at": "2024-02-20T21:18:18+01:00",
-    "media_id": "eflxub0aydg1",
-    "duration": "0:20",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6302302/woedende-van-de-zandschulp-smijt-racket-kapot.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6302301,
-    "slug": "a1-bij-hoevelaken-weer-vrijgegeven-na-dodelijk-ongeluk",
-    "type": "article",
-    "title": "A1 bij Hoevelaken weer vrijgegeven na dodelijk ongeluk",
-    "subtitle": null,
-    "published_at": "2024-02-20T21:08:34+01:00",
-    "updated_at": "2024-02-20T21:48:59+01:00",
-    "media_id": "4gbxzfhawnhv",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6302301/a1-bij-hoevelaken-weer-vrijgegeven-na-dodelijk-ongeluk.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6302296,
-    "slug": "woedende-van-de-zandschulp-slaat-racket-aan-gruzelementen-en-verliest-in-doha",
-    "type": "article",
-    "title": "Woedende Van de Zandschulp slaat racket aan gruzelementen en verliest in Doha",
-    "subtitle": null,
-    "published_at": "2024-02-20T20:46:55+01:00",
-    "updated_at": "2024-02-20T21:18:06+01:00",
-    "media_id": "prqx05xaooem",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772432,
-      "slug": "tennis",
-      "type": "default",
-      "name": "Tennis",
-      "style": "nusport",
-      "media_id": "m1oxohpan0gq",
-      "partner": null
-    },
-    "url": "/tennis/6302296/woedende-van-de-zandschulp-slaat-racket-aan-gruzelementen-en-verliest-in-doha.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6302270,
-    "slug": "moeder-navalny-vraagt-poetin-het-lichaam-van-haar-zoon-vrij-te-geven",
-    "type": "article",
-    "title": "Moeder Navalny vraagt Poetin het lichaam van haar zoon vrij te geven",
-    "subtitle": "Overzicht",
-    "published_at": "2024-02-20T20:37:50+01:00",
-    "updated_at": "2024-02-20T21:02:13+01:00",
-    "media_id": "xrrxippap1o6",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779362,
-      "slug": "overlijden-navalny",
-      "type": "default",
-      "name": "Overlijden Navalny",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/overlijden-navalny/6302270/moeder-navalny-vraagt-poetin-het-lichaam-van-haar-zoon-vrij-te-geven.html",
     "open_new_window": false,
     "partner": null
   }
