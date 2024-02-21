@@ -1,5 +1,120 @@
 [
   {
+    "id": 6302436,
+    "slug": "coa-morgen-waarschijnlijk-minder-dan-2000-mensen-in-ter-apel",
+    "type": "video",
+    "title": "COA: 'Morgen waarschijnlijk minder dan 2.000 mensen in Ter Apel'",
+    "subtitle": "Video",
+    "published_at": "2024-02-21T19:00:11+01:00",
+    "updated_at": "2024-02-21T19:00:12+01:00",
+    "media_id": "3cfxgyxacig6",
+    "duration": "0:55",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6302436/coa-morgen-waarschijnlijk-minder-dan-2000-mensen-in-ter-apel.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6302434,
+    "slug": "londense-politie-opnieuw-in-opspraak-nu-agent-verkrachter-blijkt-te-zijn",
+    "type": "article",
+    "title": "Londense politie opnieuw in opspraak nu agent verkrachter blijkt te zijn",
+    "subtitle": null,
+    "published_at": "2024-02-21T18:53:04+01:00",
+    "updated_at": "2024-02-21T18:53:06+01:00",
+    "media_id": "tsgxdmpainui",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6302434/londense-politie-opnieuw-in-opspraak-nu-agent-verkrachter-blijkt-te-zijn.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6302435,
+    "slug": "ajax-mogelijk-zonder-henderson-tegen-bodglimt-van-t-schip-hard-over-martha",
+    "type": "article",
+    "title": "Ajax mogelijk zonder Henderson tegen Bodø/Glimt, Van 't Schip hard over Martha",
+    "subtitle": null,
+    "published_at": "2024-02-21T18:50:30+01:00",
+    "updated_at": "2024-02-21T18:50:31+01:00",
+    "media_id": "wulxo56atxwo",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6302435/ajax-mogelijk-zonder-henderson-tegen-bodglimt-van-t-schip-hard-over-martha.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6302432,
+    "slug": "net-als-bijna-alle-andere-grote-supermarkten-roept-lidl-koekjes-terug-om-metaal",
+    "type": "article",
+    "title": "Net als bijna alle andere grote supermarkten roept Lidl koekjes terug om metaal",
+    "subtitle": null,
+    "published_at": "2024-02-21T18:05:58+01:00",
+    "updated_at": "2024-02-21T18:52:09+01:00",
+    "media_id": "d1ix3lcacjow",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6302432/net-als-bijna-alle-andere-grote-supermarkten-roept-lidl-koekjes-terug-om-metaal.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6302433,
+    "slug": "tornado-raast-over-filmende-omstander-in-indonesie",
+    "type": "video",
+    "title": "Tornado raast over filmende omstander in Indonesië",
+    "subtitle": "Video",
+    "published_at": "2024-02-21T18:04:25+01:00",
+    "updated_at": "2024-02-21T18:04:26+01:00",
+    "media_id": "txmxxnjagth3",
+    "duration": "0:38",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6302433/tornado-raast-over-filmende-omstander-in-indonesie.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6302431,
     "slug": "bundesliga-zwicht-voor-fanprotesten-en-zet-streep-door-geplande-miljardendeal",
     "type": "article",
@@ -29,8 +144,8 @@
     "title": "Hoofdredacteur Brabants Dagblad stapt op na beschuldigingen over angstcultuur",
     "subtitle": null,
     "published_at": "2024-02-21T17:45:40+01:00",
-    "updated_at": "2024-02-21T17:45:41+01:00",
-    "media_id": "hswxndfart74",
+    "updated_at": "2024-02-21T18:46:54+01:00",
+    "media_id": "lunxjadaiadd",
     "duration": null,
     "canonical_section": {
       "id": 1771675,
@@ -75,7 +190,7 @@
     "title": "Vrouw Alaphilippe slaat terug na uithaal Lefevere: 'Dit is onaanvaardbaar'",
     "subtitle": null,
     "published_at": "2024-02-21T17:32:30+01:00",
-    "updated_at": "2024-02-21T17:32:31+01:00",
+    "updated_at": "2024-02-21T18:52:57+01:00",
     "media_id": "r0sxcsrapptz",
     "duration": null,
     "canonical_section": {
@@ -121,7 +236,7 @@
     "title": "Lot van Russische gevangenen onzeker: deze Poetin-critici zitten vast",
     "subtitle": "Explainer",
     "published_at": "2024-02-21T17:13:01+01:00",
-    "updated_at": "2024-02-21T17:23:12+01:00",
+    "updated_at": "2024-02-21T18:03:35+01:00",
     "media_id": "s0ix6dcanyp1",
     "duration": "2:40",
     "canonical_section": {
@@ -190,7 +305,7 @@
     "title": "Verstappen zorgt voor lachende gezichten op productieve eerste testdag Red Bull",
     "subtitle": null,
     "published_at": "2024-02-21T17:02:07+01:00",
-    "updated_at": "2024-02-21T17:59:56+01:00",
+    "updated_at": "2024-02-21T18:10:17+01:00",
     "media_id": "rmdxgv2ao41a",
     "duration": null,
     "canonical_section": {
@@ -259,7 +374,7 @@
     "title": "Grote storing bij NS: informatie op vertrekborden en in reisplanner verouderd",
     "subtitle": null,
     "published_at": "2024-02-21T16:53:14+01:00",
-    "updated_at": "2024-02-21T17:30:08+01:00",
+    "updated_at": "2024-02-21T18:22:10+01:00",
     "media_id": "ro6xkx4a80qq",
     "duration": null,
     "canonical_section": {
@@ -328,7 +443,7 @@
     "title": "Ministerie berust in besluit rechter, maar wil kinderhartchirurgie wel samenvoegen",
     "subtitle": null,
     "published_at": "2024-02-21T16:15:32+01:00",
-    "updated_at": "2024-02-21T16:59:30+01:00",
+    "updated_at": "2024-02-21T18:51:27+01:00",
     "media_id": "dc9x99za2umf",
     "duration": null,
     "canonical_section": {
@@ -571,121 +686,6 @@
       "partner": null
     },
     "url": "/midden-oostenconflict/6302401/israelische-ambassade-niet-meer-afgezet-nog-wel-bewaking-na-dreiging.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6302397,
-    "slug": "optimisme-en-realisme-bij-twee-grote-uitdagers-red-bull-maar-het-gat-is-groot",
-    "type": "article",
-    "title": "Optimisme en realisme bij twee grote uitdagers Red Bull: 'Maar het gat is groot'",
-    "subtitle": null,
-    "published_at": "2024-02-21T14:40:51+01:00",
-    "updated_at": "2024-02-21T14:48:00+01:00",
-    "media_id": "hsoxomja734r",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772449,
-      "slug": "formule-1",
-      "type": "default",
-      "name": "Formule 1",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/formule-1/6302397/optimisme-en-realisme-bij-twee-grote-uitdagers-red-bull-maar-het-gat-is-groot.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6302377,
-    "slug": "reisadvies-voor-parijs-weer-op-groen-maar-waakzaamheid-blijft-belangrijk",
-    "type": "article",
-    "title": "Reisadvies voor Parijs weer op groen, maar waakzaamheid blijft belangrijk",
-    "subtitle": null,
-    "published_at": "2024-02-21T14:38:53+01:00",
-    "updated_at": "2024-02-21T15:31:20+01:00",
-    "media_id": "maux13dagc3j",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6302377/reisadvies-voor-parijs-weer-op-groen-maar-waakzaamheid-blijft-belangrijk.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6302365,
-    "slug": "sekswerkers-mogen-vanaf-komend-weekend-weer-langer-op-de-wallen-werken",
-    "type": "article",
-    "title": "Sekswerkers mogen vanaf komend weekend weer langer op de Wallen werken",
-    "subtitle": null,
-    "published_at": "2024-02-21T14:29:17+01:00",
-    "updated_at": "2024-02-21T14:47:32+01:00",
-    "media_id": "d2pxhm1art3s",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6302365/sekswerkers-mogen-vanaf-komend-weekend-weer-langer-op-de-wallen-werken.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6302359,
-    "slug": "wat-wil-jij-weten-over-de-asieldrukte-in-ter-apel",
-    "type": "article",
-    "title": "Wat wil jij weten over de asieldrukte in Ter Apel?",
-    "subtitle": "Oproep",
-    "published_at": "2024-02-21T14:29:04+01:00",
-    "updated_at": "2024-02-21T14:29:05+01:00",
-    "media_id": "5m3xokdabzxx",
-    "duration": null,
-    "canonical_section": {
-      "id": 100,
-      "slug": "algemeen",
-      "type": "default",
-      "name": "Algemeen",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/algemeen/6302359/wat-wil-jij-weten-over-de-asieldrukte-in-ter-apel.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6302396,
-    "slug": "feyenoord-heeft-met-herstelde-jahanbakhsh-extra-aanvalsoptie-tegen-as-roma",
-    "type": "article",
-    "title": "Feyenoord heeft met herstelde Jahanbakhsh extra aanvalsoptie tegen AS Roma",
-    "subtitle": null,
-    "published_at": "2024-02-21T14:08:56+01:00",
-    "updated_at": "2024-02-21T14:08:58+01:00",
-    "media_id": "znaxqgna50ft",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6302396/feyenoord-heeft-met-herstelde-jahanbakhsh-extra-aanvalsoptie-tegen-as-roma.html",
     "open_new_window": false,
     "partner": null
   }
