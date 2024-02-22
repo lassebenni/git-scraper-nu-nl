@@ -1,5 +1,51 @@
 [
   {
+    "id": 6302419,
+    "slug": "griepgolf-bereikte-in-januari-hoogtepunt-stoelen-op-werk-lijken-weer-vaker-bezet",
+    "type": "article",
+    "title": "Griepgolf bereikte in januari hoogtepunt: stoelen op werk lijken weer vaker bezet",
+    "subtitle": null,
+    "published_at": "2024-02-22T05:35:10+01:00",
+    "updated_at": "2024-02-22T05:35:11+01:00",
+    "media_id": "f5jxo21amvac",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6302419/griepgolf-bereikte-in-januari-hoogtepunt-stoelen-op-werk-lijken-weer-vaker-bezet.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6302457,
+    "slug": "weerbericht-vanavond-code-geel-in-heel-het-land-vanwege-zware-windstoten",
+    "type": "article",
+    "title": "Weerbericht | Vanavond code geel in heel het land vanwege zware windstoten",
+    "subtitle": null,
+    "published_at": "2024-02-22T05:33:56+01:00",
+    "updated_at": "2024-02-22T05:33:58+01:00",
+    "media_id": "0awxnwhazofl",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779283,
+      "slug": "weerbericht",
+      "type": "default",
+      "name": "Weerbericht",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/weerbericht/6302457/weerbericht-vanavond-code-geel-in-heel-het-land-vanwege-zware-windstoten.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6302361,
     "slug": "alex-blikt-terug-op-apple-store-gijzeling-voelt-nog-alsof-ik-in-film-zat",
     "type": "article",
@@ -236,7 +282,7 @@
     "title": "Hoofd bekritiseerd 737 MAX-programma na bijna achttien jaar weg bij Boeing",
     "subtitle": null,
     "published_at": "2024-02-21T20:45:01+01:00",
-    "updated_at": "2024-02-21T21:40:16+01:00",
+    "updated_at": "2024-02-22T05:36:34+01:00",
     "media_id": "dzdxj6ba69tf",
     "duration": null,
     "canonical_section": {
@@ -627,7 +673,7 @@
     "title": "Net als bijna alle andere grote supermarkten roept Lidl koekjes terug om metaal",
     "subtitle": null,
     "published_at": "2024-02-21T18:05:58+01:00",
-    "updated_at": "2024-02-21T21:41:38+01:00",
+    "updated_at": "2024-02-22T05:34:27+01:00",
     "media_id": "d1ix3lcacjow",
     "duration": null,
     "canonical_section": {
@@ -640,52 +686,6 @@
       "partner": null
     },
     "url": "/economie/6302432/net-als-bijna-alle-andere-grote-supermarkten-roept-lidl-koekjes-terug-om-metaal.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6302433,
-    "slug": "tornado-raast-over-filmende-omstander-in-indonesie",
-    "type": "video",
-    "title": "Tornado raast over filmende omstander in Indonesië",
-    "subtitle": "Video",
-    "published_at": "2024-02-21T18:04:25+01:00",
-    "updated_at": "2024-02-21T18:04:26+01:00",
-    "media_id": "txmxxnjagth3",
-    "duration": "0:38",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6302433/tornado-raast-over-filmende-omstander-in-indonesie.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6302431,
-    "slug": "bundesliga-zwicht-voor-fanprotesten-en-zet-streep-door-geplande-miljardendeal",
-    "type": "article",
-    "title": "Bundesliga zwicht voor fanprotesten en zet streep door geplande miljardendeal",
-    "subtitle": null,
-    "published_at": "2024-02-21T18:01:04+01:00",
-    "updated_at": "2024-02-21T18:01:05+01:00",
-    "media_id": "c7kxrvyaa6qh",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6302431/bundesliga-zwicht-voor-fanprotesten-en-zet-streep-door-geplande-miljardendeal.html",
     "open_new_window": false,
     "partner": null
   }
