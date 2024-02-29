@@ -1,5 +1,120 @@
 [
   {
+    "id": 6303393,
+    "slug": "recensieoverzicht-dune-part-two-verbijsterend-knap-sciencefictionspektakel",
+    "type": "article",
+    "title": "Recensieoverzicht Dune: Part Two: 'Verbijsterend knap sciencefictionspektakel'",
+    "subtitle": null,
+    "published_at": "2024-02-29T20:57:30+01:00",
+    "updated_at": "2024-02-29T20:57:31+01:00",
+    "media_id": "xasxks2ao0um",
+    "duration": null,
+    "canonical_section": {
+      "id": 127,
+      "slug": "film",
+      "type": "default",
+      "name": "Films & Series",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/film/6303393/recensieoverzicht-dune-part-two-verbijsterend-knap-sciencefictionspektakel.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6303444,
+    "slug": "zegereeks-van-gerwen-in-premier-league-voorbij-door-verlies-tegen-humphries",
+    "type": "article",
+    "title": "Zegereeks Van Gerwen in Premier League voorbij door verlies tegen Humphries",
+    "subtitle": null,
+    "published_at": "2024-02-29T20:43:05+01:00",
+    "updated_at": "2024-02-29T20:47:04+01:00",
+    "media_id": "hrsxiq5ajh6m",
+    "duration": null,
+    "canonical_section": {
+      "id": 1777376,
+      "slug": "darts",
+      "type": "default",
+      "name": "Darts",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/darts/6303444/zegereeks-van-gerwen-in-premier-league-voorbij-door-verlies-tegen-humphries.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6303454,
+    "slug": "funderingsprobleem-in-nederland-425000-huizen-zakken-weg-12-miljard-nodig",
+    "type": "article",
+    "title": "Funderingsprobleem in Nederland: 425.000 huizen zakken weg, 12 miljard nodig",
+    "subtitle": null,
+    "published_at": "2024-02-29T20:33:24+01:00",
+    "updated_at": "2024-02-29T20:33:25+01:00",
+    "media_id": "svzxthuaahg7",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6303454/funderingsprobleem-in-nederland-425000-huizen-zakken-weg-12-miljard-nodig.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6303418,
+    "slug": "uv-licht-van-zware-sterren-kan-vorming-van-planeten-dwarsbomen",
+    "type": "article",
+    "title": "Uv-licht van zware sterren kan vorming van planeten dwarsbomen",
+    "subtitle": null,
+    "published_at": "2024-02-29T20:08:00+01:00",
+    "updated_at": "2024-02-29T20:08:02+01:00",
+    "media_id": "jcdxw50a20e1",
+    "duration": null,
+    "canonical_section": {
+      "id": 478878,
+      "slug": "wetenschap",
+      "type": "default",
+      "name": "Wetenschap",
+      "style": "nunjij",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/wetenschap/6303418/uv-licht-van-zware-sterren-kan-vorming-van-planeten-dwarsbomen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6303452,
+    "slug": "royce-de-vries-vindt-het-teleurstellend-dat-ad-toch-artikel-mag-publiceren",
+    "type": "article",
+    "title": "Royce de Vries vindt het 'teleurstellend' dat AD tóch artikel mag publiceren",
+    "subtitle": null,
+    "published_at": "2024-02-29T20:07:39+01:00",
+    "updated_at": "2024-02-29T20:55:43+01:00",
+    "media_id": "6s1xbyuatne6",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771675,
+      "slug": "media",
+      "type": "default",
+      "name": "Media",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/media/6303452/royce-de-vries-vindt-het-teleurstellend-dat-ad-toch-artikel-mag-publiceren.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6303453,
     "slug": "piloten-scheren-over-haven-van-dubai-in-allereerste-jetpackrace",
     "type": "video",
@@ -29,7 +144,7 @@
     "title": "Afscheid van Navalny ondanks tegenwerking: 'Niemand wilde graf graven'",
     "subtitle": "NU+",
     "published_at": "2024-02-29T19:31:46+01:00",
-    "updated_at": "2024-02-29T19:31:47+01:00",
+    "updated_at": "2024-02-29T20:49:11+01:00",
     "media_id": "9ymx0gaay8ic",
     "duration": null,
     "canonical_section": {
@@ -116,13 +231,13 @@
   },
   {
     "id": 6303445,
-    "slug": "live-knvb-beker-feyenoord-en-fc-groningen-strijden-om-finaleplek",
+    "slug": "live-knvb-beker-feyenoord-verrassend-op-achterstand-tegen-fc-groningen",
     "type": "article",
-    "title": "Live KNVB-beker | Feyenoord en FC Groningen strijden om finaleplek",
+    "title": "Live KNVB-beker | Feyenoord verrassend op achterstand tegen FC Groningen",
     "subtitle": null,
     "published_at": "2024-02-29T19:12:38+01:00",
-    "updated_at": "2024-02-29T19:56:36+01:00",
-    "media_id": "j1sxb7bazyxu",
+    "updated_at": "2024-02-29T20:53:32+01:00",
+    "media_id": "t06x9uga1naz",
     "duration": null,
     "canonical_section": {
       "id": 1772338,
@@ -133,7 +248,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6303445/live-knvb-beker-feyenoord-en-fc-groningen-strijden-om-finaleplek.html",
+    "url": "/voetbal/6303445/live-knvb-beker-feyenoord-verrassend-op-achterstand-tegen-fc-groningen.html",
     "open_new_window": false,
     "partner": null
   },
@@ -167,7 +282,7 @@
     "title": "Feyenoord mist zieke Hartman in halve finale tegen Groningen, basisplek Stengs",
     "subtitle": null,
     "published_at": "2024-02-29T18:57:56+01:00",
-    "updated_at": "2024-02-29T19:17:18+01:00",
+    "updated_at": "2024-02-29T20:47:47+01:00",
     "media_id": "wzdxgjua89a1",
     "duration": null,
     "canonical_section": {
@@ -420,7 +535,7 @@
     "title": "Toezichthouder WNL door het stof na steunbetuiging aan bekritiseerde directeur",
     "subtitle": null,
     "published_at": "2024-02-29T17:33:18+01:00",
-    "updated_at": "2024-02-29T19:37:46+01:00",
+    "updated_at": "2024-02-29T20:18:52+01:00",
     "media_id": "do4xicnaggqp",
     "duration": null,
     "canonical_section": {
@@ -571,121 +686,6 @@
       "partner": null
     },
     "url": "/songfestival/6303408/joost-klein-onthult-lied-voor-het-songfestival-eerbetoon-aan-mijn-vader.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6303427,
-    "slug": "ten-hag-eist-excuses-fulham-aan-fernandes-na-onacceptabele-tiktok-video",
-    "type": "article",
-    "title": "Ten Hag eist excuses Fulham aan Fernandes na 'onacceptabele' TikTok-video",
-    "subtitle": null,
-    "published_at": "2024-02-29T16:51:43+01:00",
-    "updated_at": "2024-02-29T17:25:04+01:00",
-    "media_id": "csmx0zdal74q",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6303427/ten-hag-eist-excuses-fulham-aan-fernandes-na-onacceptabele-tiktok-video.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6303424,
-    "slug": "nederlandse-muziekindustrie-zette-in-2023-bijna-300-miljoen-euro-om",
-    "type": "article",
-    "title": "Nederlandse muziekindustrie zette in 2023 bijna 300 miljoen euro om",
-    "subtitle": null,
-    "published_at": "2024-02-29T16:39:29+01:00",
-    "updated_at": "2024-02-29T16:39:31+01:00",
-    "media_id": "abwxfmvazphh",
-    "duration": null,
-    "canonical_section": {
-      "id": 868281,
-      "slug": "muziek",
-      "type": "default",
-      "name": "Muziek",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/muziek/6303424/nederlandse-muziekindustrie-zette-in-2023-bijna-300-miljoen-euro-om.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6303426,
-    "slug": "amsterdamse-student-had-toch-geen-recht-op-toeslag-tijdens-energiecrisis",
-    "type": "article",
-    "title": "Amsterdamse student had toch geen recht op toeslag tijdens energiecrisis",
-    "subtitle": null,
-    "published_at": "2024-02-29T16:36:34+01:00",
-    "updated_at": "2024-02-29T16:59:36+01:00",
-    "media_id": "4y5xy4sadqfg",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6303426/amsterdamse-student-had-toch-geen-recht-op-toeslag-tijdens-energiecrisis.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6303423,
-    "slug": "ad-mag-toch-over-tapes-de-vries-publiceren-belangrijk-voor-journalistiek",
-    "type": "video",
-    "title": "AD mag toch over tapes De Vries publiceren: 'Belangrijk voor journalistiek'",
-    "subtitle": "Video",
-    "published_at": "2024-02-29T16:20:19+01:00",
-    "updated_at": "2024-02-29T16:20:19+01:00",
-    "media_id": "40dxfo3a79yl",
-    "duration": "2:01",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6303423/ad-mag-toch-over-tapes-de-vries-publiceren-belangrijk-voor-journalistiek.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6303414,
-    "slug": "tori-spelling-lijkt-uit-geldproblemen-te-zijn-en-huurt-weer-luxe-appartement",
-    "type": "article",
-    "title": "Tori Spelling lijkt uit geldproblemen te zijn en huurt weer luxe appartement",
-    "subtitle": null,
-    "published_at": "2024-02-29T16:15:38+01:00",
-    "updated_at": "2024-02-29T16:16:12+01:00",
-    "media_id": "b59xxvsa81lp",
-    "duration": null,
-    "canonical_section": {
-      "id": 125,
-      "slug": "achterklap",
-      "type": "default",
-      "name": "Achterklap",
-      "style": "nuentertainment",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/achterklap/6303414/tori-spelling-lijkt-uit-geldproblemen-te-zijn-en-huurt-weer-luxe-appartement.html",
     "open_new_window": false,
     "partner": null
   }
