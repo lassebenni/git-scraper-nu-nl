@@ -1,12 +1,35 @@
 [
   {
-    "id": 6303741,
-    "slug": "tienduizenden-amerikanen-zitten-zonder-stroom-door-hevige-sneeuwval",
+    "id": 6303742,
+    "slug": "hoyte-van-hoytema-gevleid-door-nederlandse-reacties-na-oscarnominatie",
     "type": "article",
-    "title": "Tienduizenden Amerikanen zitten zonder stroom door hevige sneeuwval",
+    "title": "Hoyte van Hoytema 'gevleid' door Nederlandse reacties na Oscarnominatie",
+    "subtitle": null,
+    "published_at": "2024-03-03T07:48:54+01:00",
+    "updated_at": "2024-03-03T07:48:55+01:00",
+    "media_id": "c3jx957a6xqq",
+    "duration": null,
+    "canonical_section": {
+      "id": 127,
+      "slug": "film",
+      "type": "default",
+      "name": "Films & Series",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/film/6303742/hoyte-van-hoytema-gevleid-door-nederlandse-reacties-na-oscarnominatie.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6303741,
+    "slug": "tienduizenden-amerikanen-zitten-zonder-stroom-door-sneeuwstorm",
+    "type": "article",
+    "title": "Tienduizenden Amerikanen zitten zonder stroom door sneeuwstorm",
     "subtitle": null,
     "published_at": "2024-03-03T07:00:58+01:00",
-    "updated_at": "2024-03-03T07:00:59+01:00",
+    "updated_at": "2024-03-03T07:10:33+01:00",
     "media_id": "l9hxesmasaon",
     "duration": null,
     "canonical_section": {
@@ -18,7 +41,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/buitenland/6303741/tienduizenden-amerikanen-zitten-zonder-stroom-door-hevige-sneeuwval.html",
+    "url": "/buitenland/6303741/tienduizenden-amerikanen-zitten-zonder-stroom-door-sneeuwstorm.html",
     "open_new_window": false,
     "partner": null
   },
@@ -29,7 +52,7 @@
     "title": "Weerbericht | Fijne dag om buiten te zijn: warm en weinig wind",
     "subtitle": null,
     "published_at": "2024-03-03T06:25:30+01:00",
-    "updated_at": "2024-03-03T06:25:31+01:00",
+    "updated_at": "2024-03-03T07:39:09+01:00",
     "media_id": "x65x5veaya4c",
     "duration": null,
     "canonical_section": {
@@ -52,7 +75,7 @@
     "title": "Swingend PSV op recordjacht: wordt Ajax onttroond als beste landskampioen?",
     "subtitle": null,
     "published_at": "2024-03-03T06:07:39+01:00",
-    "updated_at": "2024-03-03T06:08:34+01:00",
+    "updated_at": "2024-03-03T07:24:16+01:00",
     "media_id": "26fx5l6alzw6",
     "duration": null,
     "canonical_section": {
@@ -75,7 +98,7 @@
     "title": "Squid Game en Parasite: wat maakt Zuid-Koreaanse producties zo geliefd?",
     "subtitle": "NU+",
     "published_at": "2024-03-03T06:05:33+01:00",
-    "updated_at": "2024-03-03T06:08:45+01:00",
+    "updated_at": "2024-03-03T07:23:26+01:00",
     "media_id": "i3mxqk1akp70",
     "duration": null,
     "canonical_section": {
@@ -98,7 +121,7 @@
     "title": "FC Twente niet jaloers op CL-succes Ajax Vrouwen: 'Ze doen het ook voor ons'",
     "subtitle": null,
     "published_at": "2024-03-03T06:01:05+01:00",
-    "updated_at": "2024-03-03T06:09:42+01:00",
+    "updated_at": "2024-03-03T07:24:37+01:00",
     "media_id": "tadx3xkaffb1",
     "duration": null,
     "canonical_section": {
@@ -167,7 +190,7 @@
     "title": "Bol en Klaver danken WK-medailles aan kinderbadje en ijsblokjes van Lidl",
     "subtitle": null,
     "published_at": "2024-03-03T05:09:46+01:00",
-    "updated_at": "2024-03-03T05:09:48+01:00",
+    "updated_at": "2024-03-03T07:42:40+01:00",
     "media_id": "6utxibdaj18h",
     "duration": null,
     "canonical_section": {
@@ -188,21 +211,21 @@
     "slug": "verduurzaming-gascentrales-komt-nauwelijks-op-gang-kabinet-schrapt-subsidie",
     "type": "article",
     "title": "Verduurzaming gascentrales komt nauwelijks op gang, kabinet schrapt subsidie",
-    "subtitle": null,
+    "subtitle": "NU+",
     "published_at": "2024-03-03T05:08:24+01:00",
-    "updated_at": "2024-03-03T06:06:16+01:00",
+    "updated_at": "2024-03-03T07:27:52+01:00",
     "media_id": "3szx48najwmq",
     "duration": null,
     "canonical_section": {
-      "id": 100,
-      "slug": "algemeen",
+      "id": 99,
+      "slug": "economie",
       "type": "default",
-      "name": "Algemeen",
-      "style": "nu",
+      "name": "Economie",
+      "style": "nuzakelijk",
       "media_id": null,
       "partner": null
     },
-    "url": "/algemeen/6303425/verduurzaming-gascentrales-komt-nauwelijks-op-gang-kabinet-schrapt-subsidie.html",
+    "url": "/economie/6303425/verduurzaming-gascentrales-komt-nauwelijks-op-gang-kabinet-schrapt-subsidie.html",
     "open_new_window": false,
     "partner": null
   },
@@ -663,29 +686,6 @@
       "partner": null
     },
     "url": "/wielrennen/6303718/pidcock-verbijsterd-over-solo-pogacar-in-strade-bianche-what-the-hell.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6303717,
-    "slug": "ferrari-niet-uit-het-veld-geslagen-door-tempo-red-bull-was-geen-normale-race",
-    "type": "article",
-    "title": "Ferrari niet uit het veld geslagen door tempo Red Bull: 'Was geen normale race'",
-    "subtitle": null,
-    "published_at": "2024-03-02T20:17:05+01:00",
-    "updated_at": "2024-03-02T20:31:27+01:00",
-    "media_id": "nqsxqytafoev",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772449,
-      "slug": "formule-1",
-      "type": "default",
-      "name": "Formule 1",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/formule-1/6303717/ferrari-niet-uit-het-veld-geslagen-door-tempo-red-bull-was-geen-normale-race.html",
     "open_new_window": false,
     "partner": null
   }
