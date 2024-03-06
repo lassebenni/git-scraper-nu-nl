@@ -1,12 +1,150 @@
 [
   {
+    "id": 6304203,
+    "slug": "staatssecretaris-onderzoekt-of-transparantieregister-voor-npo-mogelijk-is",
+    "type": "article",
+    "title": "Staatssecretaris onderzoekt of transparantieregister voor NPO mogelijk is",
+    "subtitle": null,
+    "published_at": "2024-03-06T20:01:08+01:00",
+    "updated_at": "2024-03-06T20:01:09+01:00",
+    "media_id": "c91xrtba2lem",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771675,
+      "slug": "media",
+      "type": "default",
+      "name": "Media",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/media/6304203/staatssecretaris-onderzoekt-of-transparantieregister-voor-npo-mogelijk-is.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6304169,
+    "slug": "fossielen-van-enorme-prehistorische-zeehagedis-met-vlijmscherpe-tanden-ontdekt",
+    "type": "article",
+    "title": "Fossielen van enorme prehistorische zeehagedis met vlijmscherpe tanden ontdekt",
+    "subtitle": null,
+    "published_at": "2024-03-06T19:51:42+01:00",
+    "updated_at": "2024-03-06T19:51:44+01:00",
+    "media_id": "ebixrzjafy3z",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772536,
+      "slug": "dieren",
+      "type": "default",
+      "name": "Dieren",
+      "style": "nunjij",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/dieren/6304169/fossielen-van-enorme-prehistorische-zeehagedis-met-vlijmscherpe-tanden-ontdekt.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6304197,
+    "slug": "grote-brand-gooit-roet-in-het-eten-southampton-preston-uitgesteld",
+    "type": "article",
+    "title": "Grote brand gooit roet in het eten: Southampton-Preston uitgesteld",
+    "subtitle": "In beeld",
+    "published_at": "2024-03-06T19:47:15+01:00",
+    "updated_at": "2024-03-06T19:57:34+01:00",
+    "media_id": "3b3xv06anc3z",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6304197/grote-brand-gooit-roet-in-het-eten-southampton-preston-uitgesteld.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6304201,
+    "slug": "israelisch-luchtafweersysteem-schiet-raketten-uit-de-lucht",
+    "type": "video",
+    "title": "Israëlisch luchtafweersysteem schiet raketten uit de lucht",
+    "subtitle": "Video",
+    "published_at": "2024-03-06T19:46:17+01:00",
+    "updated_at": "2024-03-06T19:46:33+01:00",
+    "media_id": "prmxox6am11y",
+    "duration": "0:49",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6304201/israelisch-luchtafweersysteem-schiet-raketten-uit-de-lucht.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6304198,
+    "slug": "auto-zit-vol-kogelgaten-na-dodelijke-schietpartij-in-zwolle",
+    "type": "video",
+    "title": "Auto zit vol kogelgaten na dodelijke schietpartij in Zwolle",
+    "subtitle": "Video",
+    "published_at": "2024-03-06T19:08:46+01:00",
+    "updated_at": "2024-03-06T19:36:21+01:00",
+    "media_id": "hq9x19haf3zo",
+    "duration": "0:46",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6304198/auto-zit-vol-kogelgaten-na-dodelijke-schietpartij-in-zwolle.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6304196,
+    "slug": "kabinet-trekt-extra-geld-uit-voor-isolatie-van-huizen-in-bevingsgebied",
+    "type": "article",
+    "title": "Kabinet trekt extra geld uit voor isolatie van huizen in bevingsgebied",
+    "subtitle": null,
+    "published_at": "2024-03-06T19:06:54+01:00",
+    "updated_at": "2024-03-06T19:27:40+01:00",
+    "media_id": "kqjx2fla82wq",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771437,
+      "slug": "politiek",
+      "type": "default",
+      "name": "Politiek",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/politiek/6304196/kabinet-trekt-extra-geld-uit-voor-isolatie-van-huizen-in-bevingsgebied.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6304195,
     "slug": "verstappen-heeft-intentie-om-bij-red-bull-te-blijven-maar-weet-nooit-hoe-het-loopt",
     "type": "article",
     "title": "Verstappen heeft intentie om bij Red Bull te blijven: 'Maar weet nooit hoe het loopt'",
     "subtitle": null,
     "published_at": "2024-03-06T18:44:43+01:00",
-    "updated_at": "2024-03-06T19:00:46+01:00",
+    "updated_at": "2024-03-06T19:27:39+01:00",
     "media_id": "vhzxvzkaofk9",
     "duration": null,
     "canonical_section": {
@@ -24,12 +162,12 @@
   },
   {
     "id": 6304193,
-    "slug": "zeker-twee-doden-na-aanval-van-houthi-rebellen-op-schip-voor-kust-van-jemen",
+    "slug": "zeker-twee-doden-na-aanval-van-houthi-rebellen-op-schip-bij-jemen",
     "type": "article",
-    "title": "Zeker twee doden na aanval van Houthi-rebellen op schip voor kust van Jemen",
+    "title": "Zeker twee doden na aanval van Houthi-rebellen op schip bij Jemen",
     "subtitle": null,
     "published_at": "2024-03-06T18:44:07+01:00",
-    "updated_at": "2024-03-06T18:51:51+01:00",
+    "updated_at": "2024-03-06T19:16:31+01:00",
     "media_id": "19jxm4jazn8k",
     "duration": null,
     "canonical_section": {
@@ -41,7 +179,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/buitenland/6304193/zeker-twee-doden-na-aanval-van-houthi-rebellen-op-schip-voor-kust-van-jemen.html",
+    "url": "/buitenland/6304193/zeker-twee-doden-na-aanval-van-houthi-rebellen-op-schip-bij-jemen.html",
     "open_new_window": false,
     "partner": null
   },
@@ -52,7 +190,7 @@
     "title": "Dode bij schietpartij op parkeerplaats van supermarkt in Zwolle",
     "subtitle": null,
     "published_at": "2024-03-06T18:07:32+01:00",
-    "updated_at": "2024-03-06T18:48:19+01:00",
+    "updated_at": "2024-03-06T19:12:50+01:00",
     "media_id": "8ycxkcwaydje",
     "duration": null,
     "canonical_section": {
@@ -93,12 +231,12 @@
   },
   {
     "id": 6304191,
-    "slug": "kabinet-roept-gemeenten-tot-de-orde-en-gaat-hoofddoek-bij-boas-verbieden",
+    "slug": "minister-yesilgoz-corrigeert-gemeenten-en-gaat-hoofddoek-bij-boas-verbieden",
     "type": "article",
-    "title": "Kabinet roept gemeenten tot de orde en gaat hoofddoek bij boa's verbieden",
+    "title": "Minister Yesilgöz corrigeert gemeenten en gaat hoofddoek bij boa's verbieden",
     "subtitle": null,
     "published_at": "2024-03-06T17:44:39+01:00",
-    "updated_at": "2024-03-06T18:04:37+01:00",
+    "updated_at": "2024-03-06T19:21:04+01:00",
     "media_id": "kwwxuwmaj5o0",
     "duration": null,
     "canonical_section": {
@@ -110,7 +248,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/politiek/6304191/kabinet-roept-gemeenten-tot-de-orde-en-gaat-hoofddoek-bij-boas-verbieden.html",
+    "url": "/politiek/6304191/minister-yesilgoz-corrigeert-gemeenten-en-gaat-hoofddoek-bij-boas-verbieden.html",
     "open_new_window": false,
     "partner": null
   },
@@ -415,12 +553,12 @@
   },
   {
     "id": 6304176,
-    "slug": "dode-en-zwaargewonde-door-steekpartij-in-boekel-mogelijk-twee-kinderen",
+    "slug": "dode-en-zwaargewonde-bij-mogelijke-steekpartij-in-boekel-zijn-kinderen",
     "type": "article",
-    "title": "Dode en zwaargewonde door steekpartij in Boekel, mogelijk twee kinderen",
+    "title": "Dode en zwaargewonde bij 'mogelijke steekpartij' in Boekel zijn kinderen",
     "subtitle": null,
     "published_at": "2024-03-06T16:15:48+01:00",
-    "updated_at": "2024-03-06T18:47:49+01:00",
+    "updated_at": "2024-03-06T20:00:05+01:00",
     "media_id": "1yvxyw5a0tze",
     "duration": null,
     "canonical_section": {
@@ -432,7 +570,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/binnenland/6304176/dode-en-zwaargewonde-door-steekpartij-in-boekel-mogelijk-twee-kinderen.html",
+    "url": "/binnenland/6304176/dode-en-zwaargewonde-bij-mogelijke-steekpartij-in-boekel-zijn-kinderen.html",
     "open_new_window": false,
     "partner": null
   },
@@ -548,144 +686,6 @@
       "partner": null
     },
     "url": "/film/6304162/dakota-johnson-begrijpt-kritiek-op-madame-web-was-een-leerzame-ervaring.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6304166,
-    "slug": "duizenden-nederlandse-paspoorten-op-darkweb-na-cyberaanvallen-op-bedrijven",
-    "type": "article",
-    "title": "Duizenden Nederlandse paspoorten op darkweb na cyberaanvallen op bedrijven",
-    "subtitle": null,
-    "published_at": "2024-03-06T15:47:20+01:00",
-    "updated_at": "2024-03-06T18:04:55+01:00",
-    "media_id": "kjfxi1oayvwc",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771438,
-      "slug": "tech",
-      "type": "default",
-      "name": "Tech",
-      "style": "nutech",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/tech/6304166/duizenden-nederlandse-paspoorten-op-darkweb-na-cyberaanvallen-op-bedrijven.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6304170,
-    "slug": "filipijns-bemanningslid-filmt-aanvaring-met-chinees-kustwachtschip",
-    "type": "video",
-    "title": "Filipijns bemanningslid filmt aanvaring met Chinees kustwachtschip",
-    "subtitle": "Video",
-    "published_at": "2024-03-06T15:36:45+01:00",
-    "updated_at": "2024-03-06T15:36:46+01:00",
-    "media_id": "5oexjg2a8reb",
-    "duration": "0:46",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6304170/filipijns-bemanningslid-filmt-aanvaring-met-chinees-kustwachtschip.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6304163,
-    "slug": "asml-topman-hekelt-desinteresse-politiek-juist-nu-rutte-bedrijf-hier-wil-houden",
-    "type": "article",
-    "title": "ASML-topman hekelt desinteresse politiek, juist nu Rutte bedrijf hier wil houden",
-    "subtitle": null,
-    "published_at": "2024-03-06T15:10:47+01:00",
-    "updated_at": "2024-03-06T15:57:47+01:00",
-    "media_id": "76txc75a1rnd",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6304163/asml-topman-hekelt-desinteresse-politiek-juist-nu-rutte-bedrijf-hier-wil-houden.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6304157,
-    "slug": "bedreiger-van-tim-hofman-had-volgens-om-een-terroristisch-motief",
-    "type": "article",
-    "title": "Bedreiger van Tim Hofman had volgens OM een terroristisch motief",
-    "subtitle": null,
-    "published_at": "2024-03-06T14:22:38+01:00",
-    "updated_at": "2024-03-06T17:45:58+01:00",
-    "media_id": "qo5x74maa0mu",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771675,
-      "slug": "media",
-      "type": "default",
-      "name": "Media",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/media/6304157/bedreiger-van-tim-hofman-had-volgens-om-een-terroristisch-motief.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6304159,
-    "slug": "zeehondenpup-verstrikt-in-net-op-russisch-strand",
-    "type": "video",
-    "title": "Zeehondenpup verstrikt in net op Russisch strand",
-    "subtitle": "Video",
-    "published_at": "2024-03-06T14:01:53+01:00",
-    "updated_at": "2024-03-06T14:01:54+01:00",
-    "media_id": "3cdx6v3ah83n",
-    "duration": "0:50",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6304159/zeehondenpup-verstrikt-in-net-op-russisch-strand.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6304152,
-    "slug": "jaimie-vaes-over-leven-als-alleenstaande-moeder-soms-huil-ik-s-nachts-in-bed",
-    "type": "article",
-    "title": "Jaimie Vaes over leven als alleenstaande moeder: 'Soms huil ik 's nachts in bed'",
-    "subtitle": null,
-    "published_at": "2024-03-06T13:54:00+01:00",
-    "updated_at": "2024-03-06T13:54:54+01:00",
-    "media_id": "lkfx1hfajg7p",
-    "duration": null,
-    "canonical_section": {
-      "id": 125,
-      "slug": "achterklap",
-      "type": "default",
-      "name": "Achterklap",
-      "style": "nuentertainment",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/achterklap/6304152/jaimie-vaes-over-leven-als-alleenstaande-moeder-soms-huil-ik-s-nachts-in-bed.html",
     "open_new_window": false,
     "partner": null
   }
