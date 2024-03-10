@@ -1,12 +1,35 @@
 [
   {
+    "id": 6304727,
+    "slug": "oekraine-boos-op-oproep-paus-om-witte-vlag-te-hijsen",
+    "type": "article",
+    "title": "Oekraïne boos op oproep paus om 'witte vlag te hijsen'",
+    "subtitle": "Overzicht",
+    "published_at": "2024-03-10T22:19:52+01:00",
+    "updated_at": "2024-03-10T23:01:46+01:00",
+    "media_id": "w8cxpzoa2zo4",
+    "duration": null,
+    "canonical_section": {
+      "id": 1778980,
+      "slug": "spanningen-oekraine",
+      "type": "default",
+      "name": "Oorlog in Oekraïne",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/spanningen-oekraine/6304727/oekraine-boos-op-oproep-paus-om-witte-vlag-te-hijsen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6304725,
     "slug": "feyenoord-wint-na-bijna-vier-maanden-weer-eens-met-minimaal-drie-goals",
     "type": "article",
     "title": "Feyenoord wint na bijna vier maanden weer eens met minimaal drie goals",
     "subtitle": null,
     "published_at": "2024-03-10T21:56:46+01:00",
-    "updated_at": "2024-03-10T21:56:48+01:00",
+    "updated_at": "2024-03-10T22:11:27+01:00",
     "media_id": "x5wx6o8as8jx",
     "duration": null,
     "canonical_section": {
@@ -29,7 +52,7 @@
     "title": "Rijpma-de Jong verruilt Jumbo-Visma na zes jaar voor Team Reggeborgh",
     "subtitle": null,
     "published_at": "2024-03-10T21:49:31+01:00",
-    "updated_at": "2024-03-10T21:53:18+01:00",
+    "updated_at": "2024-03-10T22:31:03+01:00",
     "media_id": "ftjxv3daxwk1",
     "duration": null,
     "canonical_section": {
@@ -70,12 +93,12 @@
   },
   {
     "id": 6304722,
-    "slug": "real-ziet-celta-twee-eigen-goals-maken-ook-leverkusen-zet-nieuwe-stap-naar-titel",
+    "slug": "real-ziet-celta-twee-eigen-goals-maken-bayer-leverkusen-vestigt-clubrecord",
     "type": "article",
-    "title": "Real ziet Celta twee eigen goals maken, ook Leverkusen zet nieuwe stap naar titel",
+    "title": "Real ziet Celta twee eigen goals maken, Bayer Leverkusen vestigt clubrecord",
     "subtitle": null,
     "published_at": "2024-03-10T20:35:28+01:00",
-    "updated_at": "2024-03-10T21:52:28+01:00",
+    "updated_at": "2024-03-10T22:08:25+01:00",
     "media_id": "8uxxwc7aic0r",
     "duration": null,
     "canonical_section": {
@@ -87,7 +110,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6304722/real-ziet-celta-twee-eigen-goals-maken-ook-leverkusen-zet-nieuwe-stap-naar-titel.html",
+    "url": "/voetbal/6304722/real-ziet-celta-twee-eigen-goals-maken-bayer-leverkusen-vestigt-clubrecord.html",
     "open_new_window": false,
     "partner": null
   },
@@ -121,7 +144,7 @@
     "title": "Russische student krijgt tien dagen cel vanwege de naam van zijn wifirouter",
     "subtitle": null,
     "published_at": "2024-03-10T20:12:50+01:00",
-    "updated_at": "2024-03-10T20:12:52+01:00",
+    "updated_at": "2024-03-10T22:28:31+01:00",
     "media_id": "cg2x5dna5yd4",
     "duration": null,
     "canonical_section": {
@@ -663,29 +686,6 @@
       "partner": null
     },
     "url": "/videos/6304700/brandweer-in-drenthe-redt-ree-uit-kanaal.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6304488,
-    "slug": "goed-nieuws-deze-week-veel-hulp-voor-gedumpte-dieren-en-echtpaar-vindt-lot",
-    "type": "article",
-    "title": "Goed nieuws deze week: Veel hulp voor gedumpte dieren en echtpaar vindt lot",
-    "subtitle": null,
-    "published_at": "2024-03-10T16:46:00+01:00",
-    "updated_at": "2024-03-10T16:46:01+01:00",
-    "media_id": "w38xr6nac2jl",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779220,
-      "slug": "goed-nieuws",
-      "type": "default",
-      "name": "Goed nieuws",
-      "style": "nuoverig",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/goed-nieuws/6304488/goed-nieuws-deze-week-veel-hulp-voor-gedumpte-dieren-en-echtpaar-vindt-lot.html",
     "open_new_window": false,
     "partner": null
   }
