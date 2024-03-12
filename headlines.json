@@ -1,12 +1,127 @@
 [
   {
-    "id": 6304846,
-    "slug": "onderzoek-toont-dat-levensverwachting-in-wereld-tijdens-corona-daalde-met-16-jaar",
+    "id": 6304851,
+    "slug": "weerbericht-zuiden-blijft-regenachtig-in-het-noorden-wat-ruimte-voor-zon",
     "type": "article",
-    "title": "Onderzoek toont dat levensverwachting in wereld tijdens corona daalde met 1,6 jaar",
+    "title": "Weerbericht | Zuiden blijft regenachtig, in het noorden wat ruimte voor zon",
+    "subtitle": null,
+    "published_at": "2024-03-12T06:45:15+01:00",
+    "updated_at": "2024-03-12T06:45:16+01:00",
+    "media_id": "xmzx66rack0q",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779283,
+      "slug": "weerbericht",
+      "type": "default",
+      "name": "Weerbericht",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/weerbericht/6304851/weerbericht-zuiden-blijft-regenachtig-in-het-noorden-wat-ruimte-voor-zon.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6304850,
+    "slug": "ook-dinsdag-weer-staking-bij-duitse-spoorwegen-internationale-treinen-rijden-niet",
+    "type": "article",
+    "title": "Ook dinsdag weer staking bij Duitse spoorwegen, internationale treinen rijden niet",
+    "subtitle": null,
+    "published_at": "2024-03-12T06:44:34+01:00",
+    "updated_at": "2024-03-12T06:44:35+01:00",
+    "media_id": "50mxgfoa3gsw",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6304850/ook-dinsdag-weer-staking-bij-duitse-spoorwegen-internationale-treinen-rijden-niet.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6304849,
+    "slug": "premier-van-door-bendegeweld-geteisted-haiti-kondigt-vertrek-aan",
+    "type": "article",
+    "title": "Premier van door bendegeweld geteisted Haïti kondigt vertrek aan",
+    "subtitle": null,
+    "published_at": "2024-03-12T06:38:52+01:00",
+    "updated_at": "2024-03-12T06:38:53+01:00",
+    "media_id": "6p2xeoha6ux9",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6304849/premier-van-door-bendegeweld-geteisted-haiti-kondigt-vertrek-aan.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6304848,
+    "slug": "zorgautoriteit-treedt-op-tegen-twee-verzekeraars-die-zorgplicht-niet-nakomen",
+    "type": "article",
+    "title": "Zorgautoriteit treedt op tegen twee verzekeraars die zorgplicht niet nakomen",
+    "subtitle": null,
+    "published_at": "2024-03-12T06:19:33+01:00",
+    "updated_at": "2024-03-12T06:57:21+01:00",
+    "media_id": "aemx2mua8kuy",
+    "duration": null,
+    "canonical_section": {
+      "id": 1146768,
+      "slug": "gezondheid",
+      "type": "default",
+      "name": "Gezondheid",
+      "style": "nunjij",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/gezondheid/6304848/zorgautoriteit-treedt-op-tegen-twee-verzekeraars-die-zorgplicht-niet-nakomen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6304847,
+    "slug": "treinstoring-rond-schiphol-verholpen-nog-wel-systeemstoring-in-reisplanner",
+    "type": "article",
+    "title": "Treinstoring rond Schiphol verholpen, nog wel systeemstoring in reisplanner",
+    "subtitle": null,
+    "published_at": "2024-03-12T06:08:31+01:00",
+    "updated_at": "2024-03-12T07:01:21+01:00",
+    "media_id": "opjxa8ia2vjb",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6304847/treinstoring-rond-schiphol-verholpen-nog-wel-systeemstoring-in-reisplanner.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6304846,
+    "slug": "gemiddelde-levensverwachting-daalde-tijdens-corona-met-ruim-anderhalf-jaar",
+    "type": "article",
+    "title": "Gemiddelde levensverwachting daalde tijdens corona met ruim anderhalf jaar",
     "subtitle": null,
     "published_at": "2024-03-12T05:41:39+01:00",
-    "updated_at": "2024-03-12T05:47:35+01:00",
+    "updated_at": "2024-03-12T06:37:07+01:00",
     "media_id": "ss2xqrkam1kr",
     "duration": null,
     "canonical_section": {
@@ -18,7 +133,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/coronavirus/6304846/onderzoek-toont-dat-levensverwachting-in-wereld-tijdens-corona-daalde-met-16-jaar.html",
+    "url": "/coronavirus/6304846/gemiddelde-levensverwachting-daalde-tijdens-corona-met-ruim-anderhalf-jaar.html",
     "open_new_window": false,
     "partner": null
   },
@@ -29,7 +144,7 @@
     "title": "Politiebond noemt leegloop bij de recherche komende jaren 'zorgelijk'",
     "subtitle": null,
     "published_at": "2024-03-12T05:34:25+01:00",
-    "updated_at": "2024-03-12T05:34:26+01:00",
+    "updated_at": "2024-03-12T06:22:56+01:00",
     "media_id": "g6fxhljaxhmk",
     "duration": null,
     "canonical_section": {
@@ -52,7 +167,7 @@
     "title": "Het Woord van vandaag: Raad jij het woord van de dag?",
     "subtitle": null,
     "published_at": "2024-03-12T05:17:31+01:00",
-    "updated_at": "2024-03-12T05:17:32+01:00",
+    "updated_at": "2024-03-12T06:37:36+01:00",
     "media_id": "vunx81iava32",
     "duration": null,
     "canonical_section": {
@@ -75,8 +190,8 @@
     "title": "Grote bedrijven dreigen met vertrek uit Nederland: loze woorden of reële optie?",
     "subtitle": null,
     "published_at": "2024-03-12T05:13:21+01:00",
-    "updated_at": "2024-03-12T05:13:38+01:00",
-    "media_id": "eotx3mwa4qhf",
+    "updated_at": "2024-03-12T06:52:50+01:00",
+    "media_id": "6zpxa8masozc",
     "duration": null,
     "canonical_section": {
       "id": 99,
@@ -300,12 +415,12 @@
   },
   {
     "id": 6304833,
-    "slug": "honderd-nieuwe-zeesoorten-ontdekt-bij-nieuw-zeeland",
+    "slug": "honderd-nieuwe-zeediersoorten-ontdekt-bij-nieuw-zeeland",
     "type": "video",
-    "title": "Honderd nieuwe zeesoorten ontdekt bij Nieuw-Zeeland",
+    "title": "Honderd nieuwe zeediersoorten ontdekt bij Nieuw-Zeeland",
     "subtitle": "Video",
     "published_at": "2024-03-11T20:35:38+01:00",
-    "updated_at": "2024-03-11T20:35:39+01:00",
+    "updated_at": "2024-03-12T06:50:10+01:00",
     "media_id": "sfuxnobazjj5",
     "duration": "1:46",
     "canonical_section": {
@@ -317,7 +432,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/videos/6304833/honderd-nieuwe-zeesoorten-ontdekt-bij-nieuw-zeeland.html",
+    "url": "/videos/6304833/honderd-nieuwe-zeediersoorten-ontdekt-bij-nieuw-zeeland.html",
     "open_new_window": false,
     "partner": null
   },
@@ -571,121 +686,6 @@
       "partner": null
     },
     "url": "/sport-overig/6304824/pechvogel-kelderman-breekt-sleutelbeen-bij-val-in-laatste-bocht-parijs-nice.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6304817,
-    "slug": "houten-hek-ontsiert-buckingham-palace-na-botsing-auto-tegen-poort",
-    "type": "video",
-    "title": "Houten hek ontsiert Buckingham Palace na botsing auto tegen poort",
-    "subtitle": "Video",
-    "published_at": "2024-03-11T17:37:33+01:00",
-    "updated_at": "2024-03-11T20:36:23+01:00",
-    "media_id": "jvzx6vkam6qk",
-    "duration": "0:38",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6304817/houten-hek-ontsiert-buckingham-palace-na-botsing-auto-tegen-poort.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6304823,
-    "slug": "gevallen-voetbaltalent-ihattaren-staat-alweer-voor-vertrek-bij-slavia-praag",
-    "type": "article",
-    "title": "Gevallen voetbaltalent Ihattaren staat alweer voor vertrek bij Slavia Praag",
-    "subtitle": null,
-    "published_at": "2024-03-11T17:34:29+01:00",
-    "updated_at": "2024-03-11T19:17:16+01:00",
-    "media_id": "onyxi58a7jig",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6304823/gevallen-voetbaltalent-ihattaren-staat-alweer-voor-vertrek-bij-slavia-praag.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6304821,
-    "slug": "voormalig-f1-coureur-massa-begint-rechtszaak-om-misgelopen-wereldtitel-in-2008",
-    "type": "article",
-    "title": "Voormalig F1-coureur Massa begint rechtszaak om misgelopen wereldtitel in 2008",
-    "subtitle": null,
-    "published_at": "2024-03-11T17:15:36+01:00",
-    "updated_at": "2024-03-11T22:33:13+01:00",
-    "media_id": "q13x0cnaehkq",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772449,
-      "slug": "formule-1",
-      "type": "default",
-      "name": "Formule 1",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/formule-1/6304821/voormalig-f1-coureur-massa-begint-rechtszaak-om-misgelopen-wereldtitel-in-2008.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6304815,
-    "slug": "andrea-bocelli-en-zoon-matteo-brengen-nieuwe-versie-time-to-say-goodbye-uit",
-    "type": "article",
-    "title": "Andrea Bocelli en zoon Matteo brengen nieuwe versie Time To Say Goodbye uit",
-    "subtitle": null,
-    "published_at": "2024-03-11T17:03:17+01:00",
-    "updated_at": "2024-03-11T17:03:19+01:00",
-    "media_id": "oi7x226aaqhj",
-    "duration": null,
-    "canonical_section": {
-      "id": 868281,
-      "slug": "muziek",
-      "type": "default",
-      "name": "Muziek",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/muziek/6304815/andrea-bocelli-en-zoon-matteo-brengen-nieuwe-versie-time-to-say-goodbye-uit.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6304819,
-    "slug": "inbreker-aangehouden-die-twee-bewoners-zwaargewond-achterliet-in-limburg",
-    "type": "article",
-    "title": "Inbreker aangehouden die twee bewoners zwaargewond achterliet in Limburg",
-    "subtitle": null,
-    "published_at": "2024-03-11T17:00:49+01:00",
-    "updated_at": "2024-03-11T18:06:15+01:00",
-    "media_id": "77yxaoyaju8s",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6304819/inbreker-aangehouden-die-twee-bewoners-zwaargewond-achterliet-in-limburg.html",
     "open_new_window": false,
     "partner": null
   }
